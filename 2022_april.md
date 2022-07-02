@@ -1,4 +1,6 @@
-# Duben
+# Duben <!-- omit in toc --> 
+
+- [9.4. František a Matějská](#94-františek-a-matějská)
 
 ## 9.4. František a Matějská
 
