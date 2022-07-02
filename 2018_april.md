@@ -46,7 +46,7 @@ Po dopsání requestů jsem se s nimi dal do řeči. Docela v pohodě banda. E
 Skrz calligraphy park jsme se dostali až ke galerii moderního umění, kde měl Jarda sraz s Couchsurferkou, která ho sice neubytuje, ale měla čas si s námi popovídat. A tak účinkuje v našem videu. Mluví o moderním umění před galerií a uvnitř muzea
 Poté co jsme se s ní rozloučili, jsme se odebrali k stanici uBike. Bylo třeba ale ještě navštívit záchody, a tak jsme na můj pokyn zašli do místní školy, kde i přes to, že byla neděle, bujel sportovní duch a záchody byly otevřené.\
 Na uBike jsme projeli snad 5 km na druhý noční market. Splavení jsme odevzdali kola u malého chrámu, který disponoval vodometem. Byl ale rozbitý a nestudenější voda měla tak 40°C. Ale lepší než nic. Skrz market jsme se dostali ke Couchsurferce, která Jardu ubytuje. Procházeli jsme trh, a nakonec domluvila bydlení u jejího kamaráda i nám. Na trhu jsem si dal něco jako sladké brambory. Hlad zalepily celkem rychle a byly tak sladké, že dojíst je mi dělalo problém. Když už jsme měli marketu dost, nasedli jsme na autobus. Objevil jsem, že jede stejným směrem jako ten, ve kterém jsem byl v 台中 poprvé. Ale jeli jsme ještě dále. Tam jsme přesedli na skútry a klučina Benedikt, u kterého jsme přespávali, mě hodil až k němu domů skrz garáž.\
-Večer na pokoji jsem ještě sepsal ceduli na další den, dal si sprchu a po chvíli povídání si s Benediktem jsme šli spát.\
+Večer na pokoji jsem ještě sepsal ceduli na další den, dal si sprchu a po chvíli povídání si s Benediktem jsme šli spát. 
 
 ### 2.4. Pondělí - Za Lamem
 
@@ -66,7 +66,7 @@ Zastavili jsme se v papírnictví nedaleko nádraží, protože Filip neměl de
 Cestou jsme se ještě zastavili v pekárně. Ceny měli docela lidové. Nakoupil jsem něco jako pizza rohlík a sladkou housku. Zmizely ve mně jak nic.\
 Byly jsme pravděpodobně jediné bílé tváře, jež prošly daným okolím za delší dobu, protože studenti i nestudenti na nás hleděli s neskrývaným zájmem. Park byl umístěný blízko baseballového hřiště. Celé ChiaYi evidentně žije baseballem soudě dle soch, výzdoby lamp apod.\
 Věž už byla zavřená, ale v parku byl i chrám a další věci k vidění. Spravili jsme pár fotek, neb byla zlatá hodinka a vyrazili zpátky na vlak skrze město kolem bývalé věznice a japonskou vesničkou. Trochu při cestě káplo. Před odjezdem vlaku jsme se ještě zastavili Lamovi pro Plzeň, jako dárek z české domoviny. 
-Vlak jsme stihli tak akorát a autobus taky tak. Po příjezdu na kolej jsme potkali Lamova spolubydlícího, který s námi šel do jídelní ulice na večeři, a poté jsme zasedli v kampusu na pivko.\
+Vlak jsme stihli tak akorát a autobus taky tak. Po příjezdu na kolej jsme potkali Lamova spolubydlícího, který s námi šel do jídelní ulice na večeři, a poté jsme zasedli v kampusu na pivko. 
 
 ### 3.4. Úterý - Velká modrá bota
 
@@ -83,7 +83,7 @@ Trvalo to tak půl hodinky, ale zastavil nám postarší bavorák s koženým i
 Během cesty paní pouštěla z iPhonu docela evropskou muziku, mimo jiné Hanse Zimmera, což mě docela překvapilo. Pomocí toho samého iPhonu se s námi anglicky bavila o tom, kdo jsme a proč tu jsme.\
 Zpátky v ChiaYi jsme opět zamířili do pekařství, neb jejich pizza rohlík stál za to. Poté jsme se toulali městem a hledali něco skutečného k jídlu. Zastavili jsme se v postranní uličce v místě, kde prodávali jídla s místními knedlíčky. Já jsem si dal vejcovou polévku, což místní zarazilo, ale mě potěšilo, jelikož už v čínštině poznám polévku a vejce, Filip si dal něco s vraždou.\
 Zpátky má nádraží, kde jsme tentokrát čekali o trochu déle, ale byl jsem tak znaven cestováním a horkem, že mi to uteklo jak blesk. Bus přijel relativně rychle, a když jsme se dostali na kolej, Lam přišel z laboratoře sotva pár minut po nás.\
-Šli jsme s ním na večeři do stejného podniku jako den předtím, dal si do mé porce nějakou vraždu, abych mu jí po uvaření vyndal zpátky. A po jídle jsme na pokoji kecali a pili vietnamskou rýžovici až asi do jedné ráno.\
+Šli jsme s ním na večeři do stejného podniku jako den předtím, dal si do mé porce nějakou vraždu, abych mu jí po uvaření vyndal zpátky. A po jídle jsme na pokoji kecali a pili vietnamskou rýžovici až asi do jedné ráno. 
 
 ### 4.4 Středa - Do 台南
 
@@ -101,7 +101,7 @@ Hlad se začínal ozývat, a když jsme míjeli něco mezi marketem a slevněnko
 Takzvanou modrou linkou, která vyhlašovala zastávky v pěti jazycích, z nichž ani jeden nebyl nápomocný. Ještě že Tony Coolidge zanechal na couchsurfingu informaci o tom, že na mostě přes druhou řeku máme zmáčknout STOP tlačítko a poté vystoupit.\
 Podle mapy jsme došli do ekofarmy, kde jsme potkali TCho. Trochu reaggae chlapíka sedícího před monitorem v chýši plné různých věcí od hudebních nástrojů až po motyky. Spolu s ním tam ještě byla jedna Asiatka s krátkými vlasy jménem Monika.\
 Chvíli jsme se TCm bavili, když se najednou zasekl, vyběhl ven a zpátky se vrátil s krvavým tělem kočky. Spolu s Monikou zaběhli někam dozadu, odkud se po chvíli vrátila s pláčem, protože kočka to neměla šanci přežít. TC se nakonec vrátil pro rýč, a protože my jsme nemohli nic dělat, odebrali jsme se do stanu na druhou stranu farmy.\
-Začátek to nebyl nejlepší.\
+Začátek to nebyl nejlepší. 
 
 ### 5.4. Čtvrtek - Farma a město
 
@@ -116,7 +116,7 @@ Byli jsme tam až do západu slunce. Filipovi se zpátky nechtělo pěšky, a ta
 Stejně nikoho nechytil, a tak jsme šli pro tBike. Po setmění mě to bavil snad ještě víc. Chybí mi tu dobré kolo.\
 Filip chtěl na nightmarket, což já rozhodně vůbec, a tak jsme se rozdělili. V 7-11 jsem si koupil Tycos Noodles a po dojedení nastoupil na bus.\
 Na farmě jsem potkal dva nové obyvatele. Američana Ryana a jeho snoubenku Bee. Dali jsme se do řeči, a ukázalo se, že také jedou proti směru hodinových ručiček. Nabídl mi odvoz do Kentingu a já s chutí souhlasil. Ještě chvíli jsme se bavili, ale Bee byla unavená, takže se odebrali spát. Filip se zjevil krátce na to, ale i já už jsem byl ve spací náladě, kvůli čemuž jsem se odebral do stanu.\
-V noci se ještě objevil TC s tím, že se na nás valí déšť, a tak s Filipem nahodili celtu na stan.\
+V noci se ještě objevil TC s tím, že se na nás valí déšť, a tak s Filipem nahodili celtu na stan. 
 
 ### 6.4. Pátek - S Ryanem
 
@@ -138,7 +138,7 @@ Já vyrazil k moři, a kam vyrazil on, to netuším. Poté jsem se dozvěděl, 
 Noční cesta k moři nebyla nikterak krásná. Černí psi ji křižovali a štěkali na mě. Jestli něco na Taiwanu nesnáším, jsou to psi. A to i přes to, že je zrovna jejich rok.\
 Nakonec jsem k moři nedošel. Zahlédl jsem na mapě chrám, vzpomněl si, že někdo říkal, že lze přespat uvnitř a vydal se k němu.\
 Dostat se do něj nešlo. Ale měl přístřeší a pod ním lavičku. Na té jsem si rozestlal a uložil se ke spánku.\
-V noci mě několikrát vzbudili komáři, a tak jsem se pod deku nasoukal celý i s hlavou.\
+V noci mě několikrát vzbudili komáři, a tak jsem se pod deku nasoukal celý i s hlavou. 
 
 ### 7.4. Sobota - Pěšky
 
@@ -161,7 +161,7 @@ Po pár minutkách mi zastavila rodinka, a když jsem jim vysvětlil, že chci j
 V místním podniku jsem se rozhodl objednat si oběd čínsky. Co jiného mi zbývalo. Neměli menu a anglicky tam nikdo nemluvil. Ale úspěšně jsem si objednal tofu, rýži, bambus a cibulku. Asi za 50, takže paráda.\
 Ve FamilyMartu jsem dobil telefon a připravil ceduli 花蓮. Na poprvé se mi to nepodařilo, neb jsem napsal znak ve zjednodušené čínštině. Tolik práce přišlo nazmar. Ale druhá byla úspěšnější, neboť zastavila druhou rodinku jedoucí až do 台中. Mamka jedné ze dvou malých holčiček se se mnou nadšeně bavila i přesto, že z ní vypadlo, že nikdy nemluvila s cizincem anglicky.\
 Několikrát jsme zastavili na výhled do okolí. Dostal jsem čaj a housku. A dovezli mě na nádraží v 花蓮
-Tam jsem chvíli váhal, zda jít spát do altánu, ale byl jsem v pokušení jít do hostelu. Sprcha a měkká matrace byly opravdu lákavé. Booking tvrdil 240 za noc, a tak jsem neodolal a skončil v Colorful Taiwan hostel. Sprcha měla sice příšernou hubici, ale i tak to byl ohromně příjemný zážitek. Ještě jsem přepral trika a pak zalehl do postele a usnul.\
+Tam jsem chvíli váhal, zda jít spát do altánu, ale byl jsem v pokušení jít do hostelu. Sprcha a měkká matrace byly opravdu lákavé. Booking tvrdil 240 za noc, a tak jsem neodolal a skončil v Colorful Taiwan hostel. Sprcha měla sice příšernou hubici, ale i tak to byl ohromně příjemný zážitek. Ještě jsem přepral trika a pak zalehl do postele a usnul. 
 
 ### 8.4. Neděle - oBike
 
@@ -214,7 +214,7 @@ Chytil jsem cápka dřív, než se Jarda vrátil ze záchodu. Univerzitního pro
 Napsal jsem 吳綺玟, že jedu za ní a ona mi popsala cestu a vyzvedla mě na stanici metra.\
 Byla to stanice, kde jsme na MRT nastoupili úplně poprvé, co jsme vyli v 台北. Tahle země je tak malá.\
 Hodil jsem si bágl k ní do bytu a ona mě na motorce vzala na vyhlídku na 台北. Tam jsme se bavili o tom, co chce dělat, že nechce zůstávat na Taiwanu a že cizina jí láká. Když už nám byla zima a měli jsme hlad, vyrazili jsme zpátky a dali si jídlo v podniku nedaleko jejího bytu.\
-Večer už se nám nic moc nechtělo dělat, a tak jsme pouze koukali na film a pak už jsme šli spát. Ustlala mi na matraci v obýváku, kde jsem po předchozí noci usnul jak zabitý.\
+Večer už se nám nic moc nechtělo dělat, a tak jsme pouze koukali na film a pak už jsme šli spát. Ustlala mi na matraci v obýváku, kde jsem po předchozí noci usnul jak zabitý. 
 
 ### 10.4. Úterý - V Zoo 
 
@@ -230,7 +230,7 @@ Chtěl jsem trochu vylepšit svou 新竹 ceduli, protože není napsaná zrovna 
 Povídali jsme si o tom, jak má rád svou práci, nemá rád Čínu, ale Japonsko ho fascinuje. O tom, že děti si pořídil velmi pozdě a o tom, že objel Taiwan na motorce za jeden den. Zastavili jsme se kousek za naší Univerzitou pro betel.\
 Když jsem se dostal zpátky na kolej, napsal jsem 吳綺玟, že jsem dorazil v pořádku a nechal se Markem poučit o tom, jak je super dělat cibulku v troubě.\
 S Danem, Kalim, Thomasem a Markem, jsme se vydali na hlavní ulici do knedlíčkárny, na knedlíčky plněné polévkou. Byly dobré, ale nestačily. A tak jsme se zastavili ještě ve všeMartu pro toustový chleba.\
-Na kolej i už jsem toho moc nenadělal, protože na mě šla únava. Jen jsem třídil fotky, posílal je do sdíleného alba a omylem vytočil mamku, která mi zavolala zpátky, takže jsem si s ní povídal asi tři čtvrtě hodiny a pak šel spát.\
+Na kolej i už jsem toho moc nenadělal, protože na mě šla únava. Jen jsem třídil fotky, posílal je do sdíleného alba a omylem vytočil mamku, která mi zavolala zpátky, takže jsem si s ní povídal asi tři čtvrtě hodiny a pak šel spát. 
 
 ### 11.4. Středa - Zpátky na CHU
 
@@ -242,7 +242,7 @@ Nakonec ale otevřel spodní dveře a ty vedly do správné přednáškové mís
 Na koleji jsem tedy ořezal fotky z lekce číslo dvě a vydal se do tiskárny změnit data ve fyzickou podobu učebnice.\
 Poté se objevili kluci s tím, že by si to vytiskli taky a zabavili mi klíče s flashkou. Více než dva dny jsem potom své klíče neviděl.\
 Erik nám nechtěl věřit, že jsme obstopovali celý Taiwan dokola. Jeho „really?“ slyším jasně až do teď.\
-Ani večer po čínštině jsem toho moc nenadělal. Bylo potřeba jít brzo spát.\
+Ani večer po čínštině jsem toho moc nenadělal. Bylo potřeba jít brzo spát. 
 
 
 ### 11.4. Čtvrtek - Do 新竹, zpátky a na večeři s holkami
@@ -258,7 +258,7 @@ Bazar už byl otevřený, a proto jsem zasedl ke krabici s adaptéry a jeden po
 Dan tentokrát na čínštinu přišel, a tak jsme první polovinu opakovali látku z minula.\
 Na večeři jsme se šli s Jannie, Emily, Sunny a Alvinem. Na místo, do konceptu vyber si nudle. Ale zvyklý na ceny od Lama jsem byl těžce zklamán cenou 80 TWD. A ještě k tomu jim to trvalo snad půl hodiny. Když konečně navařili naše jídla, vydali jsme se sednout si do krčku. Slovu 一點點 zřejmě nerozuměli, jelikož jsem málem shořel. 
 Marek do holek valil nějaký svoje moudra, z čehož byli všichni ostatní těžce nešťastní. Holky to taky moc nebavilo a odebrali se spát relativně brzy.\
-Víc už jsme toho nepodnikli a šli spát.\
+Víc už jsme toho nepodnikli a šli spát. 
 
 
 ### 11.4. Pátek - Sedm týdnu školy za námi
@@ -269,7 +269,7 @@ Po angličtině jsme se odebrali do střižny. Jarda měl trial premiéry a bylo
 Na obědě jsme potkali pana Wolfa. V řadě u bufetu. Vyptával se nás na to, jak se daří, ale pak si k nám nešel sednout. Možná proto, že ho nikdo vlastně nepozval.\
 Na barvách jsme měli docela neobvyklé téma. Měli jsme kreslit inverzní obraz. Vlastně negativ. Prý jsme měli být venku, ale Taiwancům se nechtělo, a tak zůstali uvnitř. Já jsem vyrazil před budovu, načerpat inspiraci.\
 Na Tour Guidingu jsme probírali něco ohledně náboženství a paní přišla s nápadem natočit video z chrámu. Takže asi všichni pojedeme do chrámu. Nevím, jestli náhodou nezapomněla na to, že jsme měli natočit video z našich cest na kterém pracujeme už několik dní.\
-V rámci šetření jsem s Jardou večeřel rýži z rýžovaru. A poté jsme se s Danem rozhodli vydat na pivko. I když já jsem pivo nechtěl, pouze jsem chtěl protáhnout nohy. Došli jsme do baru, ale kousali nás tam komáři, a tak jsme se vydali zpátky na kolej.\
+V rámci šetření jsem s Jardou večeřel rýži z rýžovaru. A poté jsme se s Danem rozhodli vydat na pivko. I když já jsem pivo nechtěl, pouze jsem chtěl protáhnout nohy. Došli jsme do baru, ale kousali nás tam komáři, a tak jsme se vydali zpátky na kolej. 
 
 ### 14.4 Sobota - Dopisuji deník
 
@@ -278,11 +278,11 @@ Filip se chystal do 台北, ale rozhodli jsme se koupit letenky do Malajsie. A t
 Na balkoně jsem se dal do dopisování deníku. Konečně mám sepsanou velkou část prázdnin. Oběd jsem poslepoval z nakoupených surovin a docela mi chutnal. Sušené naložené tofu je fakt dobré. Snad i výživné.\
 Koukal jsem na seriál, trochu na čínštinu, dopisoval a polehával.\
 Odpoledne Dan přišel s tím, zda se nepřipojím ke společné jízdě na kole, do vedlejší vesnice. Má tam prý být krám se zeleninou. Skočili jsme teda oBike a rozpršelo se. Když déšť ustal, Dan se někam ztratil. Ale nakonec jsme se vydali dálničním nadjezdem a poté do kopce, kde jsem se jednou ztratil při běhání.\
-Obchod to byl, ale spíš Coop než obchod s ovocem.\
+Obchod to byl, ale spíš Coop než obchod s ovocem. 
 
 Večer jsem vyrazil zahrát si do aktivity center na klavír. Kód, který mi Ken poslal, nefungoval. Ale poslal mi nový hned, jak jsem se ho na to zeptal. Chvilku jsem měl tendenci klavír opravovat, protože mi přijde, že hraje hůř a hůř, ale rozhodl jsem se to nechat zkušenějším.\
 Po asi hodně hraní napsala máma, ale bylo jednodušší jí zavolat. Tím jsem strávil další půl hodiny, a když jsem se vrátil na kolej, kluci už měli film na půl dokoukaný.\
-Pustil jsem si tedy Supernatural a po jednom díle jsem šel spát.\
+Pustil jsem si tedy Supernatural a po jednom díle jsem šel spát. 
 
 ### 15.5 Neděle - Běhám a jezdím
 
@@ -297,7 +297,7 @@ Asi po třech kilometrech jsem se dostal na cestu, kde už jsem jednou byl. 五�
 Pokračoval jsem stále rovně na západ, až se silnice změnila v rychlostní silnici. Rychlá konzultace s mapou mě přesvědčila, že jsem sice na jiné cestě, ale dobré cestě, a tak jsem pokračoval až k poslední křižovatce. Tam ale byl plot místo cesty. Což nebylo poprvé. Google mapy mě takhle vypekly už vícekrát. Chvíli jsem tam kroužil, ale pak jsem oBike zaparkoval a plot přelezl.\
 Pláž byla písčitá, duny z fotek tam taky byly. Ale voda byla v odlivu a za blátem. Stejně byla zima na koupání. Za to písek vznášející se ve větru, těsně nad zemí mě zaujal a točil jsem ho na mobil.\
 Cestou zpátky foukalo nepříjemně proti mně, takže cesta na už tak nepříliš pohodlném oBike byla ještě náročnější. Některé kopce bylo třeba vytlačit, ale dostal jsem se na kolej, těsně před soumrakem.\
-Zbytek dne jsem zabil sledováním seriálů, učením čínštiny s Jardou, přípravou večeře a dopisováním deníku.\
+Zbytek dne jsem zabil sledováním seriálů, učením čínštiny s Jardou, přípravou večeře a dopisováním deníku. 
 
 ### 16.4. Pondělí - Jarda mě nakazil čínštinou
 
@@ -307,7 +307,7 @@ Odpoledne jsem zdokonaloval systém učení čínštiny. Nainstaloval jsem ješt
 Protože jsem většinu dne proseděl, vydal jsem se na okruh. Trochu poprchávalo, ale teplota vyla ideální. A tak jsem se rozhodl zaběhnout desítku. Ostatně na okruhu jsem deset ještě nedal.\
 Prvních asi 10 koleček jsem běžel za Asiatem, který udával příjemné odpočinkové tempo. Potom odešel a já jsem maličko zrychloval, ale 23 koleček je 23 koleček a nohy byly unavené ze včerejška.\
 A tak jsem nakonec skončil s tempem 5:40. Ale stálo to za to.\
-Jak psychická, tak fyzická únava mě přepadly relativně brzo a usnul jsem snad už v jedenáct.\
+Jak psychická, tak fyzická únava mě přepadly relativně brzo a usnul jsem snad už v jedenáct. 
 
 ### 17.4. Úterý - Kytarový klub
 
@@ -320,7 +320,7 @@ Za deset šest jsem s hrnkem kávu vyrazil do aktivity centra. V klubu byl pou
 Říkal jsem si, že do toho nedává srdce, ale pouze dril. Jenže dril je to, co mně chybí.\
 Přesunuli jsme se na chodbu, protože nás byla kopa. Učitel mi ukázal nějaký prstový styl, jenž jsem za boha nemohl zvládnout. Super, myslel jsem, že se tam budu nudit.\
 Po hodině jsme šli na BBQ. Ještě jsem se zastavil pro peněženku. Ale když jsme tam došli, měli zavřeno. A tak mě Monika vzala ke smaženkáři. Liu se ještě zastavil v 7-11 a pak už jsme společně šli na kolej.\
-Někdy v průběhu tohoto dne jsem si uvědomil, že se chci naučit čínsky. Až do teď to byla taková hra. Pokus o rozptýlení a sranda, ale došlo mi, že je to něco, co opravdu chci. Zvláštní pocit. Uvidíme, jak dlouho mi to zůstane.\
+Někdy v průběhu tohoto dne jsem si uvědomil, že se chci naučit čínsky. Až do teď to byla taková hra. Pokus o rozptýlení a sranda, ale došlo mi, že je to něco, co opravdu chci. Zvláštní pocit. Uvidíme, jak dlouho mi to zůstane. 
 
 ### 18.4. Středa - Skate a pivko před bránou
 
@@ -331,7 +331,7 @@ Po obědě jsme se jen otočili na koleji. Při cestě na Sustainable green Ener
 Z SGE jsme šli rovnou do střižny a strávili tam několik hodin prací na videu z 台中.\
 Před čínštinou jsem stihl pouze pojíst rychle navařené nudle a nasypat si kávu do hrnku. Jen díky tomu jsem tam nezalamoval, protože jsme se neučili v podstatě nic nového. Teda pro ty, které příbuzenskými vztahy v čínštině prošel už v Čechách. Lekci 3 nakousnul až těsně před koncem.\
 Po čínštině jsme se asi hodinu dohadovali v sousedním pokoji kam vyrazit na večeři. Načež jsme se vydali do všeMartu pro pivko a do garážové restaurace, kde jsme onehdy večeřeli s holkami.\
-Po večeři jsme seděli s pivkem před školní branou a sledovali Kaliho jak blbne se skejtem. Dokonce se za námi zastavil Asiat, kterého poslední dobou potkávám snad všude.\
+Po večeři jsme seděli s pivkem před školní branou a sledovali Kaliho jak blbne se skejtem. Dokonce se za námi zastavil Asiat, kterého poslední dobou potkávám snad všude. 
 
 ### 19.4. Čtvrtek - Noční běh
 
@@ -341,7 +341,7 @@ Na Introduction to World Music jsme probírali, co bude v Midtermu a kdy budeme
 Na čínštině mi to šlo o něco lépe. Ale Erik do mě hrozně valí. Takže jsem stejně často za kokota. Navíc jsme brali sporty. A já si sporty pamatuju stěží v češtině. Taky už mi z čínštiny trochu praská hlava, o čemž jsem vybásnil příspěvek na facebooku. Lidi pobavil, což jsem měl v plánu.\
 Na večeři jsme šli do stejného místa, co včera. Dal jsem si nudle s něčím, co se docela blížilo kečupu a k tomu bylo volské oko.\
 K večeru už jsem se v podstatě jen poflakoval, volal s mámou, což zabralo dost času a někdy po půlnoci přišel Jarda, jestli nepůjdu běhat. A tak jsme dali deset koleček na oválu.\
-Což vyústilo v nedostatek spánku.\
+Což vyústilo v nedostatek spánku. 
 
 ### 20.4. Pátek - Ztratil jsem ISIC a ARC (ale ještě o tom nevím)
 
@@ -354,7 +354,7 @@ Od BigCity jsme jeli na uBiku. Za těch pár set metrů bylo deset dolarů docel
 Ještě jsem nakoupil vodovky pro všechny, vločky pro sebe, zeleninu, nudle a tofu.\
 Naložení nákupem z RTmartu jsme se vydali zpátky k uBikům. 
 Před BigCity jsem čekal na autobus. A na Filipa. Ten to stihl a společně jsme jeli na univerzitu. Protože na ISICu už jsem neměl peníze, vytáhl jsem EasyCard. V autobuse fungovala WiFi, a tak jsem si opakoval nějakou čínštinu. 
-Večer jsme ve vedlejším pokoji koukali na film Věc. Ležel jsem v hamaku, a docela se mi líbí, asi si ho koupím.\
+Večer jsme ve vedlejším pokoji koukali na film Věc. Ležel jsem v hamaku, a docela se mi líbí, asi si ho koupím. 
 
 ### 21.4. Sobota - Na kole
 
@@ -364,7 +364,7 @@ Na kole jsem se vydal k BigCity. To mi zabralo skoro hodinu. Tam mi na informac
 Ve chmurném rozpoložení jsem se na kole vydal na pobřeží a bezcílně bloumal po 新竹 a Zhubenu.\
 Když už jsem cítil, že je třeba se otáčet zpátky, vydal jsem se podél řeky. Nakonec jsem skončil na národní univerzitě v 新竹. Kde jsem pojedl svou připravenou svačinu a poté se nechal mapami.cz navigovat až na 中華大學. Kopce cestou byly docela masakr. A když jsem přijel, kapal ze mě pot. Vytáhl jsem klíče a v radosti z toho, že pro jednou je mám, jsem na klíčence hledal klíč od pokoje.\
 Nebyl tam. Jako by tenhle den neměl dost překvapení. Nakonec jsem to vyřešil s Číňanem na vrátnici. Můj ISIC a ARC tam ale nebylo, jak jsem trochu doufal.\
-Zbytek dne jsem pral prádlo, koukal na seriál, chvíli ještě hledal a pak se dal do opakování čínštiny.\
+Zbytek dne jsem pral prádlo, koukal na seriál, chvíli ještě hledal a pak se dal do opakování čínštiny. 
 
 ### 22.4. Neděle - Na koleji
 
@@ -391,7 +391,7 @@ Rychlá sprcha, nacpání věcí do baťohu a hurá zpátky na oBike, tentokrát
 Jarda si vzal můj druhý odemčený oBike. Na kluky jsme ještě čekali, než si vezou kola u brány, ve všeMartu jsme nakoupili vajíčka a piva a po mně známé cestě jsme se vydali na pláž.\
 Cestu jsem tedy vedl já až do momentu, kdy jsme dorazili k bráně na staveniště, tam jsem přelezl a otevřel zevnitř. Na pláži bylo více vody než minule, ale blížil se odliv. Utábořili jsme se, sehnali dříví a založili oheň. Po zbytek večera jsme popíjeli pivka a gin, hráli na kytaru, bavili se a vařili.\
 V uhlíkách jsem opékal brambory, pečivo na bambusu a klukům jsem do jejich jídla přidal brambory, které jsem potom jedl s nimi.\
-Kali s Danem se před uložením ke spánku rozhodli nechat rozhořet pořádnou vatru, což mělo za následek propálení mé deky, a mě samotného. Někdy v noci se Dan rozhodl, že spát na pláži nebude a vyrazil na oBike zpátky na kolej.\
+Kali s Danem se před uložením ke spánku rozhodli nechat rozhořet pořádnou vatru, což mělo za následek propálení mé deky, a mě samotného. Někdy v noci se Dan rozhodl, že spát na pláži nebude a vyrazil na oBike zpátky na kolej. 
 
 ### 24.4 Úterý - Jízda v dešti
 
@@ -402,7 +402,7 @@ Nakonec jsme zahlédli obědovnu, neb už bylo dvanáct hodin, která působila 
 V 7-11 kluci koupili piva, já sójové mléko a čekali jsme, než přejde déšť. Asi tak další hodinu. Ve tři hodiny se trochu vyčasilo a my se vydali na pouť zpět. Čekání bylo zbytečné, neb déšť nás přepadl opět a tentokrát snad ještě tvrději. Zastavili jsme pod stříškou, Jarda přeskupil věci do krosny a na ní natáhl igelit. Pak jsme pokračovali zhruba 10 minut, když Kali zamířil pod další stříšku. Já už byl nažmach komplet, takže jsem nezastavoval a dorazil na kolej durch, či promáčený chcete-li.\
 Filip si na pokoji vysedával, sledoval Narcos a Dan se houpal v hamaku s notebookem. 
 Po sprše a nudlích jsem se jal notebooku a zapsal události posledních dní. 
-Už dlouho jsem nečetl žádnou knihu, jelikož má čtečka se odebrala do křemíkového nebe. S koupí nového telefonu se mi ale naskytla možnost pročítat si své Google books. A jakou jinou knihu na cestách začít než Ziburu. Tak jsem tedy zbytek dne obětoval pročítání Ziburových zápisků z cest po Turecku.\
+Už dlouho jsem nečetl žádnou knihu, jelikož má čtečka se odebrala do křemíkového nebe. S koupí nového telefonu se mi ale naskytla možnost pročítat si své Google books. A jakou jinou knihu na cestách začít než Ziburu. Tak jsem tedy zbytek dne obětoval pročítání Ziburových zápisků z cest po Turecku. 
 
 ### 25.4. Středa - Skútr a šipky
 
@@ -414,7 +414,7 @@ Na čínštině jsme Erika docela zahlcovali složitými dotazy. Ale byla to hod
 Co mě ale vytočilo, byl Marek, který se zeptal na nějaký stupidní dotaz z výrokové logiky.\
 Cestou z čínštiny jsme s ním řešili, že pravidla výrokové logiky nejdou aplikovat na češtinu. Nechápal to. Absolutně se mu to nedalo vysvětlit. Mlel si donekonečna tu svou o tom, že odpověď na otázku: „Chceš jablko nebo hrušku?“ může být ano. A je to korektní odpověď.\
 Po večeři v oranžové restauraci, kde jsem si dal polévku a Jardu poprosil, aby mi jí ochutil, takže jsem cítil smrt na krajíčku, jsme šli se Suiem na parkoviště vyzkoušet si jízdu na skútru. Seděl jsem na tom poprvé a nerozmrdal jsem ho. To považuji za úspěch, byť jsem musel vypadat jako devadesátiletý důchodce.\
-Po zkoušení skútru jsme šli se Suiem na šipky. Je to sakra přeborník, a já jsem v šipkách ještě levější než v jakémkoli jiném sportu. Ale docela mě to bavilo. Večer jsme ještě jednou prolétli World Music. Jestli zítra poznám Chicago Blues, tak dokážu cokoliv.\
+Po zkoušení skútru jsme šli se Suiem na šipky. Je to sakra přeborník, a já jsem v šipkách ještě levější než v jakémkoli jiném sportu. Ale docela mě to bavilo. Večer jsme ještě jednou prolétli World Music. Jestli zítra poznám Chicago Blues, tak dokážu cokoliv. 
 
 ### 26.4. Čtvrtek - Jarda má narozeniny
 
@@ -430,7 +430,7 @@ Po testu lenošení pokračovalo. Jarda s Kalim se ztratili ve smršti youtubov
 Ale čínština s Erikem se blížila rychleji. Rozdal nám papíry s čínskými „pocity“, nebo spíše přídavnými jmény. Od malý/velký po překrásný/odporný. Slov bylo hromada. Procvičovali jsme je, společně s novou gramatikou. Z čehož nám všem vyhládlo, a tak jsme po čínštině, s krátkou otočkou na pokoji vyrazili na večeři do garáže.\
 Skoro všichni si dali knedlíčky v páře, jen já jsem si dal nudle a k nim polštářek. Oslava Jardových narozenin proběhla tak, že ve všeMartu nakoupil 58,5procentní slivovici. Doprovodil koupi tohoto moku známým Zemanovským výrokem, a po tom, co se Marek asi třikrát vrátil do obchodu pro nějakou další blbost, jsme se společně odebrali na autobusové nádraží.\
 Slivovici jsem vynechal. Sice to není úplně košer, nepřipít si s někým na jeho narozeniny, ale prostě se mi nechtělo pít alkohol.\
-Nicméně poseděl jsem se společností i přes bodání komárů. Je vlastně zábavné sledovat, jak se lidé propadají do opice a nebýt jeden z nich. Na kolej jsme se dostali v půl třetí a já už mírně promrzlý jsem se před spánkem ještě ohřál ve sprše na opačné straně chodby, neb naše poskytovaly pouze vodu ledovou.\
+Nicméně poseděl jsem se společností i přes bodání komárů. Je vlastně zábavné sledovat, jak se lidé propadají do opice a nebýt jeden z nich. Na kolej jsme se dostali v půl třetí a já už mírně promrzlý jsem se před spánkem ještě ohřál ve sprše na opačné straně chodby, neb naše poskytovaly pouze vodu ledovou. 
 
 ### 27.4. Pátek - Nenatáčíme v 新竹
 
@@ -449,7 +449,7 @@ S klukem, co si podává ruku a s ní jsme se ale docela dobře bavili.\
 Po čtvrté hodině se společnost začala rozpouštět. A tak jsme se na skútrech, tentokrát už pouze třech, odebrali zpátky na univerzitu.\
 Na koleji jsem se věnoval studiu čínštiny. Do mobilu jsem diktoval věty čínsky se snahou o to, aby mi Google translate rozuměl. Docela výzva, ale několikrát se mi povedlo nadiktovat větu: „Mám hlad, dnes večer v osm hodin si dám k večeři buď vařené nudle, nebo smaženou rýži“
 Když už mi z toho začala praskat hlava, dal jsem se do sepisování dnešního dne a poté jsem se odebral číst Ziburu.\
-Kolem deváté mě popadla touha ještě trochu se zahýbat. Nazul jsem běžecké boty a vyrazil na okruh. Poklidným tempem 5:34 jsem zaběhl čtyři kilometry, což mi po nevalném nočním spánku stačilo na unavení před dnešním zalehnutím do postele, kde jsem si ještě chvíli psal s Janou, kterou mi včera připomněla náhodná Filipínka na ulici.\
+Kolem deváté mě popadla touha ještě trochu se zahýbat. Nazul jsem běžecké boty a vyrazil na okruh. Poklidným tempem 5:34 jsem zaběhl čtyři kilometry, což mi po nevalném nočním spánku stačilo na unavení před dnešním zalehnutím do postele, kde jsem si ještě chvíli psal s Janou, kterou mi včera připomněla náhodná Filipínka na ulici. 
 
 ### 28.4. Sobota - O krok blíže poutnictví 
 
@@ -467,7 +467,7 @@ Vlak nás vyhodil na hlavním nádraží, kde jsme chvílí bloudili sem a tam, 
 Měli zavřeno, ale kus odtud jsme si dali polévku wontony. Nebyla nikterak špatná, ale ani moc dobrá. Prostě vodou zalité knedlíčky s trochou mořských řas. Rozkňafat knedlíčky lžičkou napadrť pomohlo. Vodě to dodalo chuť, a navíc se daly jíst hůlkami.\
 Po jídle jsme si sedli do parku, kde byly stále rozestavěné kovové zábrany od demonstrace, kterou jsme zahlédly v televizi. Sedě před Music Bowl jsme očekávali, zda se ozve Kali, či nikoli. Do 台北 nás nalákal na párty na pláži, po které má mysl nikterak netoužila, ale shodovala se se směrem, mého podvědomého plánu navštívit severní národní park 陽明山. Nakonec se ozval, že zůstane s bratrem. A tak jsme nasedli na uBike a vyrazili podél řeky na sever. Trochu jsme se zbytečně zamotali, ale díky tomu, že už jsem tudy dvakrát jel, jsem dokázal bez mapy dorazit na červené metro.\
 Tím jsme se vydali oba, ale Filip s plánem vystoupit až na konečné, a dorazit na párty, zato já vystoupit už v oblasti horkých pramenů, tam najít altán v parku a ráno vyrazit na hike. Na to jsem musel přestoupit na speciální linku, která měla poněkud oldschoolový vagon metra, jedoucí pouze jednu stanici. Prošel jsem první park. Měl něco do sebe, ale byl dost osvětlený a hrozilo, že brzo ráno jím budou proudit davy. Pokračoval jsem tedy po schodech do opuštěnější a přírodnější části města, ale jediné, na co jsem narazil, byla smečka psů a srdeční příhoda. Park dole bude muset stačit. 
-Nakonec mě mile překvapil, neb jsem v něm našel altán s pítkem, a dokonce záchody o patro níže. Natáhl jsem v něm hamaku a uložil se ke spánku. Dlouho se mi nedařilo najít správnou pozici a dobře se odizolovat od všudypřítomných komárů, ale s hvězdičkovou dekou, se mi podařilo zakrýt si vše, krom čela. Čelo utrpělo několik pořádných štípanců, ale když přestaly pálit. Dostavil se spánek.\
+Nakonec mě mile překvapil, neb jsem v něm našel altán s pítkem, a dokonce záchody o patro níže. Natáhl jsem v něm hamaku a uložil se ke spánku. Dlouho se mi nedařilo najít správnou pozici a dobře se odizolovat od všudypřítomných komárů, ale s hvězdičkovou dekou, se mi podařilo zakrýt si vše, krom čela. Čelo utrpělo několik pořádných štípanců, ale když přestaly pálit. Dostavil se spánek. 
 
 ### 29.4. Neděle - Po schodech od moře až do nebe
 
@@ -488,7 +488,7 @@ Na velký autobus jsem ale nešel. Chvíli jsem ještě procházel vesničku. Re
 Po zjištění, že autobus stojí patnáct a hodí mě až na MRT, jsem nasedl a nechal se odvézt na červenou linku. Podél té jsem na uBike dojel až na stopovací místo, kde mě tři čtvrtě hodiny nikdo nenabral. Jedna paní mě dokonce informovala, že na Taiwanu je absolutně nemožné, aby mě někdo vzal do svého auta a když jsem jí řekl, že se mýlí, vypadala uraženě.\
 Nakonec jsem jel sportovní Mazdou s mladým klukem, co příští tři měsíce bude pracovat v 花蓮. Celou cestu jsme se bavili o rozdílech Taiwanu a Čech. Jeho mamka už byla dvakrát v Praze a chce se tam přestěhovat. Už za tmy mě vyhodil až před bránou školy. Na koleji už byl Jarda, který dorazil z 台中. Společně s ním tam také byla kopa komárů, protože Filip nebo já, zapomněl zavřít síťku.\
 Sprcha po dvou dnech byl taky zážitek k nezaplacení. A po ní na mě padla únava, takže jsem se odebral do postele, kde jsem si chvíli četl a poté na pár hodin usnul.\
-Před půlnocí jsem si ještě dal rýži, kterou dal Jarda do rýžovaru a poté usnul nadobro.\
+Před půlnocí jsem si ještě dal rýži, kterou dal Jarda do rýžovaru a poté usnul nadobro. 
 
 ### 30.4. Pondělí - Hamakové polehávání
 
