@@ -1,8 +1,8 @@
-# Duben <!-- omit in toc --> 
+## Duben <!-- omit in toc --> 
 
-- [9.4. František a Matějská](#94-františek-a-matějská)
+- [9.4. František a Matějská](##94-františek-a-matějská)
 
-## 9.4. František a Matějská
+### 9.4. František a Matějská
 
 V mírné kocovině z předešlého dne jsem se povaloval v posteli. Marťa mi psala, prý co budu dělat a tak jsem jí vyjevil, že mi není nejlíp. Prý na kocovinu je nejlepší lék řetízkáč a cukrová vata. Prý je totiž poslední šance jít na Matějskou.
 
