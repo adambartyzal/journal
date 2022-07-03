@@ -1,7 +1,7 @@
 ## [2018](2018.md)
 
-Rok, kdy jsem byl v Asii
+Rok, kdy jsme byli na semsetr v Asii.
 
 ## [2022](2022.md)
 
-Rok, kdy jsem až podezřele moc času trávil s Marťou, kdy jsem vyrazil na kole z Helsinek do Prahy
+Rok, kdy mi nabíhal deficit vypadnout někam daleko, protože rok zpátky to Ondra zazdil tím, že se nechal zaměstnat v korporátu. Což vyůstilo v cestu z Helsinek domů na Karmínovém Drakovi.
