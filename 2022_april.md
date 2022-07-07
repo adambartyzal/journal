@@ -1,5 +1,13 @@
 ## Duben <!-- omit in toc --> 
 - [9.4. František a Matějská](#94-františek-a-matějská)
+- [15.4. K Filipovi na chatu](#154-k-filipovi-na-chatu)
+- [16.4. Asi jsem pražák, protože mě baví štípat dříví](#164-asi-jsem-pražák-protože-mě-baví-štípat-dříví)
+- [17.4. S Mamkou do Říma](#174-s-mamkou-do-říma)
+- [19.4. Vatikán](#194-vatikán)
+- [20.4. Konečně pantheon](#204-konečně-pantheon)
+- [23.4. S Marťou do prokopského údolí](#234-s-marťou-do-prokopského-údolí)
+- [21.4. Zpátky domů](#214-zpátky-domů)
+- [29.4. K Jardovi a Sáře na pozemek](#294-k-jardovi-a-sáře-na-pozemek)
 
 ### 9.4. František a Matějská
 
@@ -15,3 +23,24 @@ Ten den jsem ale měl ještě další plány. František dorazil z Brna a byli j
 S Františkem jsme se dohodli, že půjdeme na kulečník na Vinohradech. Bylo to na půl cesty mezi námi, ale když jsme tam dorazili, řekli nám že všechny stoly jsou plné. Co už, dali jsme si aspoň pivo a Franta jídlo. Nějakou smršť smažených sýrů. Byl to trochu bizár a kus jsem po něm dojíal, protože to nedal. Nad pivem jsme si povídali, jak se freebike změnil od dob co je pryč. Jak se má na škole. Hodně jsem si povídali o signálech a soustavách, předmětu se kterým jsem měl problém, ale zpětně se ukazuje jako jeden z největších pilířů mého studia.\
 Jako alternativní plán jsem vymyslel deskovky u Jardy a Sáry. A pozval jsem Františka a Marťu. Vůbec mi nepřišlo divný uspořádat akci u někoho jiného doma a dorazit tam dřív než domácí. Sára mi to potom s humorem vyčetla. Ale myslím, že se bavili. Hráli jsme Tipni si a František to asi trochu naschvál nedával. Já na něčem co jsme věděl vydělal majlant bodů, ale pak už jsem jen ztrácel.\
 František jel za babičkou do Suchdola, takže potřeboval stinout poslední spoj. A vlastně všichni už jsme byli docela unavení, takže jsme to rozpustili, rozloučili se. S Marťou jsme šli až na křižovatku Petrohradské a Vršovické, kde jsme se objali a já jí říkal, že to byl super den. Pamatuju si, že jsem se na ní díval jak odchází domů a uvědomil si, že jí mám opravdu rád.
+
+### 15.4. K Filipovi na chatu
+
+### 16.4. Asi jsem pražák, protože mě baví štípat dříví
+
+### 17.4. S Mamkou do Říma
+
+### 19.4. Vatikán
+
+### 20.4. Konečně pantheon
+
+### 23.4. S Marťou do prokopského údolí
+
+### 21.4. Zpátky domů
+
+
+### 29.4. K Jardovi a Sáře na pozemek
+
+v kyjích zaléváme displeje\
+
+
