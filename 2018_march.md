@@ -218,7 +218,7 @@ Večer už jsem toho moc nenadělal a šel spát docela brzy, abych zítra vstal
 Přišla zvláštní změna. Snad poprvé jsem vstal později než Filip s Jardou. Rozhodli se totiž, že před odjezdem do města půjdou na snídani na burger do hlavní ulice.\
 Vstal jsem a přidal se k nim s plánem, že půjdu s nimi, ale vyberu si něco bez vraždy.\
 Burgerárna byla zavřená, ale ve vedlejším podniku bylo docela narváno, a tak jsme se přesunuli tam. Měli docela lidové ceny, na to že to vypadalo jako fancy place.\
-Dal jsem si něco jako palačinku s vejcem a k tomu teplý černý čaj, který chutnal trochu jako kávu.\
+Dal jsem si něco jako palačinku s vejcem a k tomu teplý černý čaj, který chutnal trochu jako káva.\
 Protože jsem si nenapustil vodu, Filip něco zapomněl a Jardovi se chtělo na záchod. Nešli jsme na autobus přímo, ale přes kolej.\
 Odtud už jsme se dali zelenou linkou přímo na imigrační agenturu.\
 Naše ARC už měli hotové. Dokonce jsme ani nemuseli čekat ve frontě. Chlápek z minula nám ho dal jen na podpis a potvrzení o zaplacení.\
