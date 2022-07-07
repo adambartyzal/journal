@@ -1,27 +1,27 @@
 # Setup
 title: Adamův Deník
 url: https://adambartyzal.github.io/
-permalink: pretty
+#permalink: pretty
 
 # Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-gist
+#  - jekyll-paginate
+#  - jekyll-seo-tag
 
 # Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
+#exclude:
+#  - .editorconfig
+#  - .git
+#  - .jekyll-cache
+#  - Gemfile
+#  - Gemfile.lock
+#  - LICENSE.md
+#  - README.md
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+#sass:
+#  sass_dir: _sass
+#  style: :compressed
 
 # Options
 
@@ -34,4 +34,4 @@ author:
   email: adambartyzal@gmail.com
 
 # Custom vars
-version: 3.0.0
+#version: 3.0.0
