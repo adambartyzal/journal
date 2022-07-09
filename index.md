@@ -4,7 +4,7 @@ Převážně cestovní, ale občas i pouze osobní deník sloužící jako má e
 
 Rok, kdy jsme byli na semsetr v Asii.
 
-## [2022](2020.md)
+## [2020](2020.md)
 
 Rok, kdy jsme se s Ondrou vydali vstříc Čínské chřipce.
 
