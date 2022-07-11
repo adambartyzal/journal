@@ -532,4 +532,4 @@ Dnešní zápisky jsou strohé, neb náplň dne byla strohá. Protože zítra r�
 Jarda trávil den obdobně. Jeho plány ale byly vyrazit z 台中 do hor a za horami do 花蓮 (Hualien).\
 Filip mě štval. Je v něm jistý kopec sobeckosti. Psát žádosti není jen tak. Každým jsem strávil nejméně půl hodiny a ve všech jsem ho zmínil. Domlouval jsem dvě místa, což mi určitě sebralo spoustu možností a on si obepisoval holky na Tinderu. Já myslel na ubytování dvou lidí a on na to, jak smočit.\
 Nicméně spolkl jsem své naštvání a pokračoval v přípravách. Zabralo mi to fakt dlouho. Než jsem se vykopal ven, už se smrákalo. Kali, Dan a Terka se zrovna vraceli z výletu do Miaoli. Společně s nimi jsem ve všeMartu nakoupil toustový chleba, který mi na pokoji společně s arašídovým máslem, zaplnil můj břich.\
-Večer jsme v krčku hráli s Terkou Whista a u toho pili nějakou míchanici ginu a guavové šťávy.\
+Večer jsme v krčku hráli s Terkou Whista a u toho pili nějakou míchanici ginu a guavové šťávy.

@@ -1,4 +1,4 @@
-### Únor <!-- omit in toc --> - - [12.2. Pondělí](#122-pondělí)
+### Únor <!-- omit in toc -->
 
 - [12.2. Pondělí - Odlétáme](#122-pondělí---odlétáme)
 - [13.2. Úterý - Přílet do Thajska](#132-úterý---přílet-do-thajska)
@@ -227,4 +227,4 @@ V přilehlé restauraci jsme si chtěli dát „šífůd“, ale nic neměli. O
 Po cyklostezce jsme došli až do na vlakovou zastávku a po chvíli jsme popojeli místní dráhou jednu zastávku.\
 Po zamítnuté úvaze, zda vzít uBike, jsme pěšky pokračovali směrem na univerzitu. Tak polovinu cesty jsme šli, ale pak jsme si stopli Mamču s dvěma dětma. Tak synům řekla, ať si sednou na nás, nebo na sebe. Nakonec nás teda jelo osobákem sedm. Kali na Danovi, Jarda vzadu uprostřed a já vepředu.\
 Hodila nás až před bránu univerzity. Protože jsme ale měli hlad, zašli jsme do místního podniku a na blind objednali.\
-Dan měl velkou mísu nudlí. Já s Jardou polívku, každý s jiným typem vnitřností a Kali to moc nevyhrál. U sousedního stolu se pár pochechtával s každým jeho soustem, až jsme objevili, že jí prasečí uši. Nesnědl je a vzal je psům do baru, ale ani ti to nejedli.\
+Dan měl velkou mísu nudlí. Já s Jardou polívku, každý s jiným typem vnitřností a Kali to moc nevyhrál. U sousedního stolu se pár pochechtával s každým jeho soustem, až jsme objevili, že jí prasečí uši. Nesnědl je a vzal je psům do baru, ale ani ti to nejedli.
