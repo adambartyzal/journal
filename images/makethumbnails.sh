@@ -2,7 +2,6 @@
 
 for file in */*$1*.jpg; do
   dir=$(dirname $file)
-  echo $dir
   if ! test -f "thumbnails/$dir"; then
     mkdir -p "thumbnails/$dir"
   fi
