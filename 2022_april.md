@@ -101,6 +101,6 @@ grillujeme\
 
 ### 30.4. Do Hory a na Kaňk
 
-<a href="../images/2022_april/30_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/40_1.jpg"></a>
+<a href="../images/2022_april/30_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/30_1.jpg"></a>
 
-<a href="../images/2022_april/30_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/40_2.jpg"></a>
+<a href="../images/2022_april/30_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/30_2.jpg"></a>
