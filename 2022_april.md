@@ -4,11 +4,13 @@
 - [15.4. K Filipovi na chatu](#154-k-filipovi-na-chatu)
 - [16.4. Asi jsem pražák, protože mě baví štípat dříví](#164-asi-jsem-pražák-protože-mě-baví-štípat-dříví)
 - [17.4. S Mamkou do Říma](#174-s-mamkou-do-říma)
+- [18.4. Pyramidy v Evropě a Forum Romanum](#184-pyramidy-v-evropě-a-forum-romanum)
 - [19.4. Vatikán](#194-vatikán)
 - [20.4. Konečně pantheon](#204-konečně-pantheon)
-- [23.4. S Marťou do prokopského údolí](#234-s-marťou-do-prokopského-údolí)
 - [21.4. Zpátky domů](#214-zpátky-domů)
+- [23.4. S Marťou do prokopského údolí](#234-s-marťou-do-prokopského-údolí)
 - [29.4. K Jardovi a Sáře na pozemek](#294-k-jardovi-a-sáře-na-pozemek)
+- [30.4. Do Hory a na Kaňk](#304-do-hory-a-na-kaňk)
 
 ### 1.4. Do Safiralu
 
@@ -46,16 +48,59 @@ František jel za babičkou do Suchdola, takže potřeboval stinout poslední sp
 
 ### 17.4. S Mamkou do Říma
 
+<a href="../images/2022_april/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/17_1.jpg"></a>
+
+<a href="../images/2022_april/17_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/17_2.jpg"></a>
+
+### 18.4. Pyramidy v Evropě a Forum Romanum
+
+<a href="../images/2022_april/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_1.jpg"></a>
+
+<a href="../images/2022_april/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_2.jpg"></a>
+
+<a href="../images/2022_april/18_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_3.jpg"></a>
+
+
 ### 19.4. Vatikán
+
+<a href="../images/2022_april/19_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_1.jpg"></a>
+
+<a href="../images/2022_april/19_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_2.jpg"></a>
+
+<a href="../images/2022_april/19_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_3.jpg"></a>
+
 
 ### 20.4. Konečně pantheon
 
-### 23.4. S Marťou do prokopského údolí
+<a href="../images/2022_april/20_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/20_1.jpg"></a>
+
+<a href="../images/2022_april/20_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/20_2.jpg"></a>
+
+<a href="../images/2022_april/20_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/20_3.jpg"></a>
 
 ### 21.4. Zpátky domů
+
+<a href="../images/2022_april/21_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/21_1.jpg"></a>
+
+<a href="../images/2022_april/21_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/21_2.jpg"></a>
+
+### 23.4. S Marťou do prokopského údolí
+
+<a href="../images/2022_april/23.jpg" target="_blank"><img src="../images/thumbnails/2022_april/23.jpg"></a>
 
 ### 29.4. K Jardovi a Sáře na pozemek
 
 v kyjích zaléváme displeje\
+jedu vlakem později\
+přes pole\
+rozbíjím beton\
+práce pro dnešek hotová\
+grillujeme\
 
+<a href="../images/2022_april/29.jpg" target="_blank"><img src="../images/thumbnails/2022_april/29.jpg"></a>
 
+### 30.4. Do Hory a na Kaňk
+
+<a href="../images/2022_april/30_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/40_1.jpg"></a>
+
+<a href="../images/2022_april/30_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/40_2.jpg"></a>
