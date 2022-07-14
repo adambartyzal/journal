@@ -12,6 +12,19 @@
 
 ### 1.4. Do Safiralu
 
+Přestože tester, který konstantně vyvýjím, už Safiralu používají roky a jsem v kontaktu s člověkem co u něj sedí i s jeho nadřízeným, nikdy jsem vlastně nebyl přímo u nich. Ono takový Kunštát je totiž trochu z ruky. Takže když DJ oznámil, že jede na jednání k nim, zeptal jsem se, zda bych se mohl přidat a on nadšeně souhlasil, neb dle jeho slov "Alespoň budu mít s sebou někoho kdo rozumí tomu co říkají.".\
+Naplánovali jsme vyrazit před osmou od Lidlu na Vršovické. Překvapilo mě, že Lidl otevírá až v osm. Koupil jsem si tedy kávu v Molce a čekal až Ondra sleze shora z bytu. Mezitím se před Lidlem vytvořil zástup důchodců.\
+Cestou se mě DJ vyptával na spoustu technických věcí. Jestli z toho něco odnesl to nevím. Nemá příliš techickou mysl, což všichni víme a většinu z nás to trápí. Jednou ho ale Ludva vybral, pravděpodobně protože mu věří, tak nemá smysl se v tom moc rýpat. Ostatně, na mou práci má menší dopad než na práci například kluků ve výrobě.\
+Nekonečné serpentíny na vysočině nedělaly mému žaludku nejlíp a těšil jsem se na to, až po tříhodinové cestě spočinou nohou na pevné zemi. Pět minut před příjezdem jsem zavolal panu Sehnalovi, který potvrdil, že nás očekávají.\
+Vždycky mě zarazí jak je Sehnal mladý. Do minulého roku dělal v Safiralu nákupčího, což vzhledem k jeho jménu byla vynikající pozice. Letos ale zdá se povýšil a šefuje celému jejich podniku.\
+U vstupu jsme si nasadili ESD návleky a vydali se do zasedačky skrz místonst, kde se testují naše desky. B ylo divné vidět něco, co jsem vymyslel a vyrobil pracovat v reálu. Konečně jsem ale tváří v tvář poznal pana Pavloviče, který je vždy do telefonu hrozně milý.\
+V zasedačce nám paní přinesla kávu a po pár minutách se dostavili i pan Hlubinka a pan Kobler. S Ondrou řešili smlouvy, které vymyslel Ludvík a které se jim moc nezdály, protože obsahují poměrně vysoké cifry v případě nedodržení data dodání. Já jsem v tomhle byl na jejich straně, protože svět se zbláznil, čipy chybí a my s Vláďou co týden hledáme náhrady a překreslujeme desky tak aby šly vůbec vyrobit.\
+S testováním jsou prý spokojení a za poslední rok se prý situace značně zlepšila. To mě zahrálo u srdíčka, protože za poslední rok jsem firmware testeru značně přepsal.\
+Po jednání jsme jeli na oběd někam na opačnou stranu Kunštátu jejich oktávkou. U oběda jsme se bavili o tom, že lidský přístup je to co si jak my, tak oni ceníme nad korporáty. Bavili jsme se o muzice a z pana Koblera vypadlo, že je frontman Morčat na Útěku. Možná proto mi už v Praze přišel povědomý.\
+Po jídle jsme se šli podívat do výroby. V podstatě nedělají nic jiného než to co jsem dělal v Raytře. Osazují na osazovačce, pájí, myjí a kontrolují. Ale u podstaty věci podobnost končí. Pastu nanáší Jet Printerem, osazovačka je pásová a plně automatická, vlna a bodovka jsou mašiny přes půl domu a kontrola probíhá složitým image procesingem a rentgenem.\
+Ruční osazování probíhá v místnosti vedle, kde nekolik paní v čistém prostředí pájí pájecími pery a dokonce mají místnost i na zalévání elektronik do pryskyřice. Všude je samozřejmě ESD podlaha a každý má ESD pantofle.\
+Skončili jsme u testeru, kde mi pan Pavlovič popsal nějaké potíže, já jsem se podíval do scénáře a slíbil jsem mu, že v Praze na to mrknu. Desky, které pro nás vyrobili jsme naložili. Vzali ještě něco pro Roberta a cestou do Prahy jsme se u něj ve Vysočanech stavili.
+
 ### 9.4. František a Matějská
 
 V mírné kocovině z předešlého dne jsem se povaloval v posteli. Marťa mi psala, prý co budu dělat a tak jsem jí vyjevil, že mi není nejlíp. Prý na kocovinu je nejlepší lék řetízkáč a cukrová vata. Prý je totiž poslední šance jít na Matějskou.\
@@ -40,7 +53,6 @@ František jel za babičkou do Suchdola, takže potřeboval stinout poslední sp
 ### 23.4. S Marťou do prokopského údolí
 
 ### 21.4. Zpátky domů
-
 
 ### 29.4. K Jardovi a Sáře na pozemek
 

@@ -30,3 +30,7 @@ Sparta nakonec vyhrála nad Kladnem 4:1, my se vydali ven, já jsem Tomovi přip
 ### 26.3. Výlet na počest babičky
 
 ### 27.3. Rychlík Vltava jde nahoru
+
+Z Lásenice jsem nemohl do Hradce autobusem, protože jsem měl kolo. Ale protože jsem měl kolo, nemusel jsem autobusem! Vlastně jsem vůbec nemusel do Hradce. Mohl jsem jet rovnou na vlak do Veselí. Ušetřit si přestupy i peníze.\
+Přes Hradec jsem ale nakonec jel. Ono to nejde moc jinak. Něvěděl jsem ale, zda pojedu do Veselí, či do Tábora či kamkoliv mezi tím. Na staré cestě přes Tučapy skoro nikdo nebyl, takže jsem cítil souzenění s přírodou. Na polích byla kopa srnek, lesy voněly a při sjedzu do Košic jsem viděl epesní západ slunce. Nakonec jsem nastupoval v Plané nad Lužnicí.\
+Vlak, který přijel mě překvapil. Nebyla to standardní souprava s modrými polstrovanými sedačkami v kupéčkách po osmi, ale moderná vlak s jídelním vozem, kupéčkami po šesti s opěrkou pro hlavu a kdo ví jakou další vychytávkou. Do jídelního vozu jsem se šel podívat. Za barem byl bezva pán se kterým jsem si chvíli povídal a poté u něj objednal pivo a řízek se salátem. Sedačky v jídelním voze byly snad ještě vychytanější. Jídlo nebylo napálené a bylo moc dobré. Cena jízdenky mi po dluhé době nepřišla přemrštěná, protože za její cenu se mi dostalo i dobré služby.
