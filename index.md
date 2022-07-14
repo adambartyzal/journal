@@ -1,4 +1,4 @@
-Převážně cestovní, ale občas i pouze osobní deník sloužící jako má externí hlava.
+Převážně cestovní, ale občas i osobní deník sloužící jako má externí hlava.
 
 ## [2018](2018.md)
 
@@ -6,7 +6,7 @@ Rok, kdy jsme byli na semsetr v Asii.
 
 ## [2020](2020.md)
 
-Rok, kdy jsme se s Ondrou vydali vstříc Čínské chřipce.
+Rok, kdy jsme se s Ondrou vydali vstříc Čínské chřipce. A kdy jsme i navzdory ní, vyrazili na měsíc na Balkán
 
 ## [2022](2022.md)
 
