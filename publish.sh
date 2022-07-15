@@ -8,5 +8,5 @@ echo Done
 git stage *
 git status
 read -p "Enter commit message: " message
-git commit -m '$message'
+git commit -m "$message"
 git push
