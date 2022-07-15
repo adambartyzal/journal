@@ -4,9 +4,17 @@ Převážně cestovní, ale občas i osobní deník sloužící jako má extern�
 
 Rok, kdy jsme byli na semsetr v Asii.
 
+## [2019](2020.md)
+
+Za 郁絜 do Londýna, do Madridu na studia a za Joosje do Amsterdamu.
+
 ## [2020](2020.md)
 
 Rok, kdy jsme se s Ondrou vydali vstříc Čínské chřipce. A kdy jsme i navzdory ní, vyrazili na měsíc na Balkán
+
+## [2021](2020.md)
+
+Dvakrát do Lahti a ke konci roku do Řecka a Itálie. Pátou zemi z mého plánu jsem tak trochu odbyl Vatikánem :)
 
 ## [2022](2022.md)
 
