@@ -1,0 +1,202 @@
+## Květen  <!-- omit in toc --> 
+
+- [5.5. Na otočku do Trnavy a na pivo do Blatouchu](#55-na-otočku-do-trnavy-a-na-pivo-do-blatouchu)
+- [6.5 Stavím boxy do Finska](#65-stavím-boxy-do-finska)
+- [7.5. Na Murakamiho](#75-na-murakamiho)
+- [14.5. Jedeme stavět přístřešek](#145-jedeme-stavět-přístřešek)
+- [15.5. Stavíme přístřešek](#155-stavíme-přístřešek)
+- [17.5. Hrajeme pinčes](#175-hrajeme-pinčes)
+- [26.5. Sedíme s Marťou před nádražím](#265-sedíme-s-marťou-před-nádražím)
+- [27.5. U Berouna vlaky zásadně stojí](#275-u-berouna-vlaky-zásadně-stojí)
+- [28.5. Berounka je olej](#285-berounka-je-olej)
+- [29.5. Gabča je přesně tak otravná jak si myslím](#295-gabča-je-přesně-tak-otravná-jak-si-myslím)
+- [30.5. Moje narozeniny](#305-moje-narozeniny)
+- [31.5. Ukrajinci nás strašně vyklepli](#315-ukrajinci-nás-strašně-vyklepli)
+
+### 5.5. Na otočku do Trnavy a na pivo do Blatouchu
+
+Geši slíbil že mě nabere doma. To bylo sympatický, vzhledem k tomu, že je to opačným směrem. Budík na pátou a v šest jsme vyráželi. Ráno jsem ještě pokecal s paní Sojkovou, která nám popřála hezkou cestu. Říkal jsem si, že je to cesta zbytečná, ale aspoň jsem měl osobního řidiče.\
+Opatrně jsem se Gešiho vyptával, proč že u nás končí a sám prý úplně neví. Oficiální důvod, že dělá málo se mu prý nezdá a mě, ač do Kyjí tolik nevidím, jsem tomu taky moc nevěřil. Vláďa si myslí, že nějak naštval Ludvu v osobní sféře, ale nic takového jsem z něj nedostal. S Ludvou jsou prý v poho. Zato ho bolely zuby, které mu zubař opiloval aby na ně mohl přidělat nové zuby, na které si Geši tak dlouho šetřil peníze.\
+Cestou jsme projížděli oblastí, kde řádilo tornádo. Vlastně mi nikdy nedošlo, že to je opravdu blízko vesnice, kde jsme byli na tom pofidérním festivalu s Lucií. A bylo to tam teda hodně vidět. Pruh zemně s vytrhanými stromy. Už sice uklizené, ale stejně bylo vidět, že to musela být síla.\
+Na slovensku Geši vzpomínal na doby, kdy bylel v oblasti, kterou jsme projížděli. Kam chodil na ryby a tak.\
+Já jsem na ryby nikdy nechodil. Přijde mi, že je to činost, kterou provádějí nespokojení manželé, kteří potřebují čas od ženy. Jak o to ale Geši vyprávěl, znělo to opravdu zajímavě. Možná bych tomu někdy měl dát šanci.\
+Slovenský tým sídlí v zimním stadionu. Respektive nějaké technické budově stadionu přilehlé. Kdysi prý byli v nějakém temném kumbálu na radnici, kde nebyl signál, ale město jim uvolnilo tuhle docela prostornou halu.\
+Úplně mě nepotěšila naprostá absence ESD ochrany. Všude lino, Polstrovaný gauč a všechno smrdělo kouřem.\
+Nabídli nám kávu a nechali nás pracovat. Od všeho jsem měl dvakrát náhradu. Nebo jsem si to alespoň myslel. Vyměnil jsem raspberry a nastartoval box s donglem. Chytil se jak víno. Vyčetl všechno jak měl a dobíjel.\
+Slováci měli skoro radost. Radši by prý, aby byl připojený přes modem. Moc se mi do toho nechtělo, ale studoval jsem schéma raspi a ethernet by měl být galvanicky oddělený. A navíc jsem měl ještě rezervní malinu pro případ, že by tahle zařvala. Přepojil jsem tedy kabel a zapnul box.\
+Nenajela šachovnice a po pár vteřinách se ozvala petelice, byl vidět záblesk z boxu a zazčal se linout smrad spálené elektroniky.\
+Raspi to přežilo, ale odešel kontrolér. A ten jediný jsem neměl s sebou, protože Safiral je dodal s chybou a s DJem jsme jim je zavezli na opravu. Co mi nedošlo byl fakt, že jsme jich vrátili jen 16 z 20 a 4 tedy ležely v Kyjích.\
+Brnknul jsem Vláďovi abych ověřil teorii, že když nožem odříznu zdroj pro raspi a nechám to běžet USB zdroje do zásuvky, který jsem měl. Vláďa mi řekl, že by to mohlo fungovat a tak jsme začal na elektronice operovat kobercákem. Sice to najelo, ale šachovnice nikde. Daisy chain totiž zdroj potřebuje aby komunikoval.\
+Takže jsme box obalili a naložili do auta. Pomohli jsme jim ještě s nějakými koly, která jim vykazovala abnormální chování a pak už značně hladoví vyrazili na pozdní oběd do centra.\
+Dali jsme si nějakou čínu. Gešitoho moc nesnědl. Prý kvůli zubům, ale ze všech lidí které znám on je ten, který jídlo odkládá okamžitě jak mu něco nechutná. Možná je to věc z dob kdy dělal kuchaře.\
+A tak jsme jeli zpátky. Asi sedm hodin proletělo komínem a dalších pět hodin cesty nás ještě čekalo.\
+Večer jsem byl psychicky vyřízený a psal Marťě jestli nechce na pivo. Souhlasila, že po józe bude mít čas a že chce někam, kde vaří. Psal jsem ještě Jardovi, který už měl plán vyzvednout Sáru po keramice někde na míráku, takže jsme to skloubili a vyrazili na Vinohrady do vege podniku blatouch na takový ten kruháč schovaný někde na americké nebo paralelní ulici.\
+Bylo to tam moc pěkné. Celá ulice měla takový ten italský vibe. Lidé venku, živá hudba, světýlka všude. Po tom slovenském fiasku mi to vrátilo víru v život.\
+Jarda se Sárou si vybírali tak dlouho, až přestali vařit. Kora číhala na velmi chytře vypadajícího huskyho a když padla desátá, zahnali nás dovnitř, kde to mělo zláštní kouzlo.\
+Uvnitř Kora šílela z lampy na stěně, která vypadala jako míček na hraní. Škoda, že jsem se k zápisu dne nedostal dříve, protože už mi vypadla témata hovorů. Ale co ve mně zůstalo, byl příjemný pocit z toho večera.
+
+### 6.5 Stavím boxy do Finska
+
+DJ si usmyslel, že nabíjecí boxy musí odejít sedmého. A že jich má být deset.\
+Čtvrt roku jsem ho upozorňoval na to, že je musí někdo postavit a doufal jsem že to zadá klukům z Kyjí a že já jim s tím maximálně pojedu pomoci. Chyba lávky. Den před odejzdem kamionu na to nikdo ani nešáhl a během návratu z Trnavy mi telefonoval, že to budu já, kdo je postaví.\
+Z toho jsem tedy neměl radost, protože si vybavuji, že když jsem stavil první tři. Trvalo mi to týden.\Právě kvůli tomu jsme změnili spoustu věcí, například necháváme kabeláře nakrimpovat očka, což ušetří hodiny manuální práce, ale stejně. Deset boxů je práce na dva dny nejmíň a já byl na večer pozvaný na lezení na Smíchově.\
+Bláhově jsem si myslel, že mi DJ přidělí někoho k ruce, ale všichni stavěli kola, takže jsem tam na to zbyl sám. Kluci měli dokonce naplánované, že v Kyjích budou přespávat, aby na kolech mohli dělat do večera, dát si pár pivek a pokračovat hned ráno. Už to indikuje, že oddělení plánování naprosto selhalo. Ne že by to v naší firmě bylo bezprecedentní, ale tentokrát mě to hodně štvalo.\
+Někdy v sedm večer jsem se teprve dostal do stavu, že šlo vkládat elektroniky, což je zhruba polovina práce. Fíla s Tenkym mi nakonec pomohli s nasazováním elektronik a kabelů za což jsem jim velmi vděčný. Pak oděšli na to zmíněné pivo a vrátili se v 11, kdy už jsem dokončoval poslední dva boxy. Musely se ale ještě otestovat. S tím mi už pomohli všichni.\
+Tomáš zapojoval monitor s power brainem, Tenky vkládal baterie, Fíla s Omarem zavírali záda a balili, já jsem to nějak celé dirigoval a pároval boxy v databázi. Někdy po půlnoci jsme měli zabaleno. Přiřadil jsem monitory, modemy a kabely. Napsal na slack, že je hotovo, vzal freebike z Oulu a jel domů, kde jsem vytuhnul asi na dvanáct hodin.
+
+### 7.5. Na Murakamiho
+
+Jako většina mých kamarádů, Marťa čte Murakamiho. A vyhlédla, film natočený podle jeho knížky budou dávat v Lucerně. Vidět murakamiho převedeného na plátno se mi hodně zachtělo a tak jsem koupil lístky. Do malého sálu, kde jsem do té doby ještě nebyl.\
+Přes den Marťa byla na dobročinné akci, kterou pořádal spolek hlavák. Řekl jsem si, že za ní dojdu a společně pak půjdeme do kina. Vyrazil jsem asi dvě hodiny před začátkem filmu a objevil, že iniciativa hlavák sídlí na proseku. To pěšky nešlo, ale došel jsem až někam na Vltavskou. Marťa vyrazila pozdě a jela přímo na můstek, takže jsem to otočil a šel jsem na Jungmaňák.\
+Sedě na kašně jsem se dozvěděl, že Jungmann vymyslel slova jako je vzduch, chuť nebo vražda. Kdybych žil v jeho době, byl bych určitě výborný obroditel.\
+V Lucerně narozdíl od mých oblíbených kin Oko/Aero/Světozor netočí pivo a pokud jsme chtěli něco k pití, museli jsme si vzít láhev. Měli na výběr z několika sladkých limonád. Vybral jsem si kolu.\
+Kino je rozkošně maličké, ale cením, že nekřičí, sedačky jsou docela pohodlné a celkově má takový domácký feel.\
+Před filmem mi Marťa vyprávěla o rande s klukem, který se jí po rande ptal na to, jaký výsledk měla v testu šestnácti osobností. Prý to radne stálo za starou bačkoru. Vybavuju si, jak se křenila když vyprávěla o tom, že jí sáhl na zadek a dal jí pusu.\
+Film byl skvělý. Na to že měl přes tři hodiny a nic moc se v něm nedělo, mě ani chviličku nenudil a tak ho teď doporučuju kudy chodím.
+
+### 14.5. Jedeme stavět přístřešek
+
+Dohodli jsme se, že pojedem z hlaváku rychlíkem do Kolína, odtud na kole do Hory, tam si dáme oběd a pak dál až do Bahna k Jardovi na pozemek. Na hlavák jsme tedy jeli přes Hradešínskou, kterou jezdím co druhý den do práce. Marťě se ten kopec moc nepozdával, ale vyjela ho obstojně.\
+Novým průjezdem z Žižkova jsme vlezli pod nádraží, našli náš vlak, pověsili kola a našli naše sedačky. Posunuli jsme u toho nečesky mluvící pár, ale sedačky u okna jsou sedačky u okna a když už jednou jsou v ceně, chceš na nich sedět. Marťa mě překvapila tím, že vytáhla snídani z Antonína. Nějak jsem nepochopil, kdy pro ni stihla dojít, ale prý ne každý vstává z postele po deváté.\
+Při kontrole lístů se na nás revizor zmateně podíval a zetal se mě, kde mám toho seniora, jehož jízdenku mám na inkartě. Vzheledem k tomu, že už jsem si z Marťi několikrát stihl vystřelit na téma, že ve třiceti už je fakt stará, tohle tomu nasadilo korunu a uznávám potenciální facka by byla zasloužená. Ale přísahám, byla to nevinná chyba.\Doplatila zbytek a bavili se o jejím randění. Prý šla večer ven s nějakým klukem do parku na houpačky. Ten koncept se mi líbil. Je to podobně infatilní jako něco co bych navrhl já. A ten někdo jí prý od té doby nenapsal. Což se změnilo během následujích několika minut a z úsměvu, který jí přelétl po tváři bylo vidět, že pan houpačka jí hodně zaujal.\
+Na nádraží v Kolíně mají už roky samoobslužný systém nákupu vyřazených knížek z knihovny za pár korun. Marťu to zaujalo a po chvíli vyhrabala knížku, plnou tabulek pro učitele tělesné výchovy za totáče. Dělení na chlapce a dívky, a přesné tabulky na známkování podle centimetrů výskoku a podobně. Všichni si byli za totáče rovni, přímo křičelo z knížky. Koupila si jí.\
+A tak jsme vyjeli směr Kutná Hora. Převážně dokopce jak je naším stylem. Nebo možná mým stylem u kterého mě doprovází. Většinu času kdy na ní mluvím, prý vedu rozhovor sám se sebou a ona za mnou tiše trpí. Na mou obranu, tohle byla lepší cesta než podél Rokytky. Když jsme dojeli k velké silnici, došlo nám, že na rozcesté se sochou jsme odbočili blbě. Ale podél aleje zřejmě osik to prostě vypadalo příliš lákavě. Takže buď jsme mohli jet dál po velké nebo oklikou po žluté. Zvolili jsme cestu pro pěší. A byl jsem příjemně překvapen neb to byla cesta sjízdná a pěkná. Sice jsme neviděli akvadukt, který inzerovaly mapy.cz, ale nemůžeš mít všechno.\
+Eva mi doporučila nějakou restauraci v Hoře, která měla být levnější než tamější pivovar, který má sice hezkou zahrádku, ale je poměrně drahý a už jsem tam několikrát byl. Měníčko bylo snad za tři stovky. Nevím, odkdy Eva vydělává miliony, a vím že Martě je to putná, protože ta miliony vydělává, ale mě to přišlo moc. Ale řekl jsem si.. jsi jednou na výletě tak to kousneš. Ale stejně měli plno. Plno měla i další reštika, kterou Marťa našla na mobilu. A tak jsme to vyřešili tak, že si koupíme sváču v Bille a pak dojedeme do Malešova do přátelského pivovaru, kde vaří dobér pivo i dobrá jídla.\
+Sváču jsme si dali v parku, směrem na Šipší. Vyprávěla mi o jejích spolupracovnících. V hlavě mi utkvěl postarší programátor, který o sebe moc nedbá, je sociálně nepříliš aktivní a jednou to na ní zkoušel.
+
+![image](14.jpg)
+
+Po sváče jsme vyrazili zpět skrz centrum a pak jsme se napojili na turistickou červenou. Tu už jsme znal, protože pár let zpátky jsem po ní tahal Robina v kočárku. Díky tomu jsem věděl, že to není cesta pro silničku. Ale rozhodnutí už padlo a cesta to je vskutku pěkná. Vede pod katedrálou, podél Vrchlice, fakt dlouhým tunelem, a pak nad rybníkem a skrz pole a les. Prostě všechno co od pěkný cesty chceš. A když už máš fakt chuť na pivo, přijde ten přátelský pivovar.\
+Dal jsem si Haloumi burger a Marťa polevku, protože tou sváčou se vlastně docela najedla a z Billy jsme ještě vezli buřty na oheň. Pojem cyklistické pivo mi sice přijde bizární, protože alkohol je pořád alkohol, takže ho pít nesmíš i když řídíš jenom kolo, ale na chuť to bylo pivo moc dobré. Začínali jsme ale nabírat zpoždění, takže na další kousek už jsme se nezdrželi. Koupili jsme ale dvě láhve pro Jardu a Sáru.. a pro nás taky samozřejmě.\
+Na chatu to byl ještě flák cesty. Nějak mi stále přišlo, že už tam musíme být, ale pořád jsme jeli a jeli. Za hospodou u rybníka, nedaleko kterého Marťa mívala se svým ex pozemek už jsem ale okolí poznal doopravdy a dovedl nás na stavbu. Jarda byl zrovna na střeše a sára dole rozdělávala oheň na kterém plánovala pálit zbytky předchozího domu. Marťa se přidala k Sáře, ale na opékání buřtů radši založili separátní ohniště, protože nechceš azbest v buřtech. Já jsme se jal podávat jardovi špalíky do střešní konstrukce a přibíjet je hřebíky odspodu. Takhle jsme pracovali asi dvě hodiny, než padlo rozhodnutí vyrazit do hospody.\
+Marťa si vyhlídla vlak zpátky do Prahy a tak vyrazila i s kolem, protože z hospody to měla blíž na další zastávku. Musela ale oklikou, protože pěší cesta vedla skrz pole a tak jsme tam dorazili dřív než ona. Hospoda měla obrovský výběr. Pravděpodobně měli zmraženou polovinu makra, ale na chvíli nás ochromila rozhodovací paralýza. Nakonec jsem převážně kvůli chuti na zelí zvolil plněné knedlíky, Marťa sladké knedlíky, Jarda nějakou českou rybu a sára mořskou rybu. Měli toho fakt kotel, ale Jarda to pochopitelně spořádal všechno, což cením. Jídlo jsme si pochvalovali, jen to pivo byl Budějický patok.\
+Blížil se ale příjezd vlaku, takže nás Marťa opustila. Byla už tma a neměla světla, ale přežila to což mě zahřálo u srdíčka. My už jsme pak jen dopili pivko a s Korou, která celý večer číhala na nějakou myš, co zalezla do škvíry ve zdi, zpátky na pozemek, kde jsme šli rovnou spát.
+
+### 15.5. Stavíme přístřešek
+
+Skoro mi v noci nebyla zima. Myslím, že za to mohly ponožky z alpacy, protože bez nich by mě můj spacák do patnácti stupňu nemohl zahřát.\
+hrubá stavba už byla hotová, dá li se takový pojem u chatky.. pardon, tyny housu, jak to nazval soused.. vůbec použít. Na řadě bylo přidělat na stěny OSB desky. Těch měl Jarda málo, takže jsme museli řešit, kam jakou dáme, aby nám to aspoň trochu vyšlo. Taková OSB deska je vlastně slisovaný a slepený odpad prodaný za nekřesťanské peníze. Ten kdo s tím přišel musel být génius a ten co to prodává v balíku. Lepidlo ani dřevo není nejlehčí dohromady se taková deska docela pronese.
+
+![image](15.jpg)
+
+Jakžto inženýři jsme použili k meření olovnici. Škoda, že jsme si na naže inženýrské vzdělání nevzpoměli už den zpátky. Hrubá stavba, na kterou jsme používáli kratičkou vodováhu z lidlu, tak vodorovná nebyla. Ale co nejde opravi silou, jde opravit větší silou. A tak jsme využili tlaku na bočnice a při přidělávání stě, vnitřek docela hezky srovnali.\
+Na naše počínání se přijela podívat Jardova rodina. Přivezli pár pivek, bramboráky a spoustu rad.\
+Společně s nimi jsme se dali do pokrývání střechy izolační folií. Respektive, dělali jsme to pořád mi dva, ale zdola nám podávalo sponkovačku a podobně víc lidí, než předtím.\
+Při třetí řadě fólie jsem dospěl k názoru, že než natahovat fólii ve dvou, je vlastně mnohem lepší odmotávat si jí sám z role krokev po krokvi. A výsledek nebyl vůbec zlý. Můžu si skoro do CV připsat pokrývač.\
+Když jsme přidělávali na folii laťě, dorazil Kohy s Kájou. Spíš pokecat a odvéz cajk do Prahy než pomoci se stavbou, ale ono vlastně nebylo moc s čím. Nahoře stejně víc jak dva lidi být nemohli.\
+Začínalo být jasné, že střechu do večera nedoděláme, takže Jarda se rozhodl, že s Kohym pojede jen Sára a on tam zůstane a dodělá to další den.\
+Já jsem si v aplikaci drah našel poslední vlak, pomalu se zabalil a pomalu vyrazil. Divný bylo, že sáře našla aplikace jiný poslední vlak a že ten její jsem slyšel odjet. Opětovným vyhledáním sem potvrdil, že Sáry mobil měl pravdu.\
+Ještě že jsem měl kolo. V maximálním tempu, čímž myslím nějakých 29 v průměru jsem dojel do hory a trochu si myslím, že jsem tu lokálku předjel. Ale rychlík měl jet až za 45 minut a ještě k tomu nabíral zpoždění. Rozhodl jsem se že přejedu Kaňk a dojedu až do Kolína. Čímž jsem vzdálenost, která nám v sobotu zabrala celý den ujel za míň než dvě hodiny.\
+V Kolíně mi dle aplikace za 5 minut mělo jet 10 minut zpožděné EC. Aplikace nedovoluje koupit si jízdenku na zpožený vlak po plánovaném odjezdu, takže jsem šel na přepážku a koupil si lístek pro sebe a pro kolo u takvého v pohodě pána.\
+V pohodě s tím ale nebyla průvodčí. Prý nemám rezervaci pro kolo a oni na kola nemají místo. Chvíli jsme se dohadovali, načež mě odkázala na druhou průvodčí na opačné straně vlaku.\
+Ta se optala zda s kolem první průvodčí neměla problém a protože jsem nechtěl zkejsnout na noc v Kolíně, řekl jsem, že mi to odsouhlasila.\
+Vynesl jsem tedy kolo do prostoru mezi uličky a průvodčí mi cvakla lístek za mě i lístek za kolo. Pak ale přišla ta první a začala se se mnou hádát o tom, že tam kolo být nemůže a jako argument použila cituji "někdo by si o něj mohl roztrhnout silonku". Zeptal jsem se, jak je teda možné, že mi na přepážce prodali lístek na kolo a ona řekla, že mi prodali lístek na následující EC, protože je nutná rezervace kola, bez které mi lístek prodat nelze. Rezervace ale nebyla ani na tenhle ani na následující vlak. Docela jsme se chytli. Skoro na mě zakřičela, že si musím vystoupit a já, ještě v razanci z extra rychlé jízdy, jsem jí odvětil, že zavolám na dráhy a nahlásím jí jako neschopnou. Nakonec nějak vychladla, ale holčina z kupé sedící naproti mě se tomu smála a okomentovala to jediným slovem "dráhy..." a očima v sloup.
+
+### 17.5. Hrajeme pinčes
+
+Už nevím, kdy jsem to poprvé nadhodil, možná jsem si Marťě stěžoval, že náš stůl před nádražím okupuje gang ruských pinčesistů s vůdcem v růžových teplácích, ale konečně jsme se rozhodli jít si zahrát stolní tenis. Vybral jsem ale stůl v Heroldových sadech. Kvůli tomu gangu pochopitelně.\
+Sice disponuji, čtyřmi raketami, ale dvě bych asi měl vyhodit a ty druhé dvě taky za moc nestojí. Miček jsem měl jediný.\
+Se zastávkou v Albertu pro sváču jsme dorazili do parku a měli štěstíčko. Stůl byl volný. Ani já ani Marťa nejsme bůhví jací hráči. Její ex prý byl a tak s ním nehrála.\
+Mluvili jsme o práci a když mluvila o tom, že Franřiška, klučinu ve zkušebce bude muset vyhodit, šlápla na můj jediný míček.\
+Nějak jsem ho vyklepal, ale už to nebylo ono. I tak jsme hráli ještě asi hodinu, než přišel nějaký kluk a osočil nás, že už asi půl hodiny čeká, až dojedeme. Mluvil ale zřejmě hodně rusky, protože jsem mu houby rozuměl. Když jsem mu řekl, ať mluví srozumitelně, vypadal že mi jednu vrazí. Nebyl čas hrát si na hrdinu. Byli jsme tam už docela dlouho a tak jsme jako moudřejší ustoupili. Po rozbitém ciferníku jsem nijak netoužil.\
+Co s načatým večerem ale?\
+Na psí louce, posedával Jarda s Johnym a Korou, takže jsme se ještě jednou zastavili v Albertu, pořídili dvě piva z českých minipivovarů a vyrazili za nimi.\
+Johny byl docela zhulený. Mluvil o stoicismu a jejich plánované cestě v T3 vanu jeho rodičů. Po jisté chvíli přišla ještě Sára z fitka a posedávali jsme tam až dokud nebyla fakt zima.
+
+### 26.5. Sedíme s Marťou před nádražím
+
+Po návratu domů z práce se mě jal pocit, že jsem nepřipravený na jakýkoliv výlet. Překvapilo mě jak moc. Přišel mi téměř paralyzující a přitom naprosto neopodstatněný. Na vodě jsem byl spoustakrát a věděl jsem, že potřebuju stan, plavky a rum. Ale to, že jsem si logicky odůvodnil, že není třeba schízovat mi klidnější srdce nijak nepřineslo.\
+Napsal jsem Marťě jestli taky někdy takhle schízuje. Prý moc ne, ale je prý rozbitá jinak.\
+Řekl jsem si, že změna prostředí mi bode. Uvařil jsem si kafe, vzal čtečku a vyrazil do grébovky. Cestou jsem se ale zašel podívat, zda park před nádražím okupuje gang pinčesistů. Nebyli tam, a tak jsem si sedl na lavičku u pingpongového stolu. \
+Během, čtení jsem si psal s Marťou a moc jsem knize nedával. Když se zeptala, kdeže to jsem a já jí napsal, že v podstatě před nádražím, objevila se za mnou, což mě hodně překvapilo.\
+A tak jsme seděli a povídali si o jejím sensei z německa a jeho doju a koukali na dešťové mraky, co nám hrozili zmoknutím, ale nakonec nás jen přešli. Když už byla fakt tma, všimli jsme si divných světel na obloze. Taková umělá periodicky se objevující se polární záře. Zpětně vzato jsem nikdy nezjistil o co šlo.\
+Domů jsme šli, až když nám už byla opravdu zima a já si uvědomil, že ten tísnivý pocit z předtím byl pryč.
+
+### 27.5. U Berouna vlaky zásadně stojí
+
+Co se práce týče, byl den poněkud nudný. Testoval jsem CBN pro trnavský box a psal testy pro g2lock. Už jsem se ale naladil na výletovo a těšil se až vypadnu. Odešel jsem už někdy kolem třetí a jel domů nakoupit jidlo a pití.\
+Trochu jsem to naddimenzoval a taška byla tak težká, že jsem si musel dávat pauzy abych jí domů vůbec donesl. S sebou jsem toho vzal sotva půlku. Ale nevadí, další voda byla za týden a fazole a Bráníček se doma neztratí.
+S ostatními jsme se potkal na Hlaváku. Vlak byl neobyčejně nacpaný a už jen dostat se do našich dvou kupé trvalo asi tak 15 minut. Seděl jsem s Anet, Filipem, Ondrou, Rébou, Tomem, Jardou a Korou. V průběhu cesty za námi přicházeli z vedlejšího kupé, kde se bavili o čajích a japonologii. Byli jsme určitě to zábavnější kupé.\
+Když jsem si posteskl, že nejedu s Marťou kvůli MLPrague, hned se vyptávali zda spolu spíme a když jsem jim řekl, že jsme opravdu jen kamarádi, stejně mi to nevěřili.\
+U Berouna se vlak zasekl. Průvodčí říklala, že se něco vysypalo na trať nebo tak něco. Pomalu ale začalo být jasné, že autobus navazující na vlak nestihneme.\
+Honza s Aničkou jeli autem a vyvstala možnost, že nás tam hodí, ale nakonec jsme si řekli, že budeme stanovat za vesnicí, kde vystupujeme z vlaku a autobusem pojedeme ráno.\
+Když jsme konečně dojeli na místo určení, autobus už byl dávno v trapu. Hospoda zavřená a tak jsme šli rovnou do lesa a hledali nějakou hezkou mítinu.\
+Nakonec jsme se utábořili na takovém pěkném místečku mezi stromy.\
+S Gabčou jsme postavili stan nedaleko od ohně. S Jardou jsme přitáhli klády jakožto sezení a rozdělali oheň. Opekal jsem Jardovi buřty, protože Sára se vydala přivést Honzu s Aničkou, ale všichni se ztatili a tak je šel Jarda hledat. Taky jsem si povídal s Gabčou a snažil se zjistit, jestli je tak otravná jak si pamatuju a doufal že není. Na něčem jsme se strašně neshodli, už nevím co to bylo, ale ostatní si z toho dělali srandu.\
+Když dorazili zpět Jarda s ostatními, vytáhly se kytary a já jsem se docela nadšeně pustol do zpěvu. Ukázalo se, že Míša je docela tramp a zná texy mnoha písní a taky pěkně zpívá, i když Réba její zpěv později hejtovala. Réba ale, i přes to že jí mám rád, je hejtr.
+
+### 28.5. Berounka je olej
+
+Buď jsem ranní ptáče, nebo mám spánkovou poruchu. Možná obojí. Ať už to je jak je, vstal jsem oproti ostatním nekřesťansky brzo a nudil se. Kousek ode mně ale ležela kytara. A toho bohdá nebude, aby znuděný Adam kytaru odmítl.\
+Nechtěl jsem ale nikoho budit a tak jsem si jí odnesl na dostatečně vzdálený pařez na vykácené mítině, na který zrovna dopadaly sluneční paprsky. Byla totižř ještě docela kosa a tak jsem nechtěl u toho drnkání mrznout.\
+Hlavou mi hrála nějaká píseň od Sigur Rós a tak jsem se jí pokoušel zreprodukovat. Čím míň mi to šlo, tím víc jsem toužil vedět, co to vlastně je za píseň. Klikačka do mého last.fm to objevila.\
+Godan Dagin. Píseň která děsně moc reflektuje moje vnitřní vnímání světa. A to textu nerozumím zbla. Možná bych po něm ani neměl pídit, abych nezjistil, že je to nějakých úplných sračkách.\
+Během drnkání jsem musel můj pařez vyměnit za dalších několik pařezů, protože sluníčko se po obloze posouvalo a jeho svit mezi stromy také.\
+S tím jak ostatním všechno trvalo mě překvapilo, že jsme na autobus vyrazili včas.\
+V tom mi nebylo nejlíp. Nevím jestli to hodně klopil, nebo tam byl špatný vzduch, ale musel jsem se soustředit na to aby mi nebylo ještě hůř a nekoho nepozvracel. Čož by se tutově stalo, protože asi dvě zastávky po nás přistoupila skvadra skautů, mířící na šiškovou bitvu, a zaplnila celý autobus.\
+Jejich vedoucí byl povídavý a vyprávěl nám o mistech za skly autobusu. Byl na svůj kraj patřičně hrdý, což jsem cenil. Taky jsem cenil, že když si s ním povídám, je mi o trochu míň blivno.\
+Koru to v autobuse moc nebavilo a vystupovala na každé zastávce.\
+Když jsme vystoupili, objevil jsem, že Rébě bylo snad ještě blběji než mě. Takže to asi přece jen bylo tím řidičem.\
+Sešli jsme od autobusu z kopce podél několika koní, co se nechali hladit, až dolů k řece, kde už čekal Jarda s Honzou a Aničkou a jejich psem Woodym. Zabalili jsme věci do sudů. Nakoupili pivka do petek a vyrazili. Ovšem ne na dlouho. Woody totiž není vodní typ. Nebo možná je vodní typ ale není lodní typ. Bože to zní jako něco co by řekla Sára.\
+Nicméně, situace prý byla tak zlá, že se Honza s Aničkou rozhodli, že to nedají a pojedou místo toho na výlet na Křivoklát.\
+Takže jsme zastavili. Teda někteří. Ti co kouří si dali retko. Já jsem se s Míšou bavil o jejím alternativním všude se na kole dopravujícím se kamarádovi co šije barefoot boty. Možná jsem já ho nějak připomínal. Já mám ale fér boty z Lidlu.\
+Pak už si toho až do kempu višňová moc nepamatuju. Respektive, chronologie dění mi uniká. Možná, že na další vodě zkusím pít míň.\
+Co si ale pamatuju bylo, že Gabča vyprávěla o tom čím se živí. Dělá v seznamu a testuje UX systémů, které seznam indexuje. Mluvila třeba o tom, že hotely si je najímají, aby jim řekli co vylepšit a oni si ... vlastně nevím... přišlo mi to jako úplně naprosto zbytečná pozice. Že kdyby najednou tihle lidé ze světa úplně zmizeli, nic ale vůbec nic by se nestalo. Vybavuju si ale že říkala, že je hodně dobře placená. Tím zbytečnější mi to přišlo. Ale když se v tomhle světě umíš uchytit na takovýmhle místě tak jsi to možná vyhrál.\
+Taky si vybavuju šlajsnu, co byla směšně jednoduchá. A to že Berounka je naprostej olej. Celou dobu jsem musel pádlovat. Trochu jsem podezříval Gabču, že to vepředu jen fejkuje, protože ostatním lodím, kromě karamaránu Jardy a Sáry s Korou to jelo líp a to nejsem úplnej chcípák.\
+Pak si vybavuju kemp Višňová 2. Specificky tu dvojku. Protože proč nerozseknout kemp na víc částí že?\
+Měl jsem tam svíčkovou za 165 a bakaláře. Někdo mi řekl, že svíčková bude stát za ty peníze. Spíš nestála, ale chutnala mi. Překvapilo mě, že mi chutnala šlehačka na ní, protože to byla taková ta sladká šlehačka z tuby, která na svíčkový asi opravdu nemá co dělat. Tomáš s tím samým jídlem ale měl spoustu potíží. Maso prý nešlo žvýkat, omáčka nebyla dost dobrá, knedlíky byly předdělané. Tomáš asi měl moc jednoduchý dětství a nenaučil se, že když dostaneš jídlo tak ho prostě sníš a basta.\
+Večer jsme měli potíže najít místo na kempování. Kempovat v kempu.. což je téměř lingvistivcký návod se nám jako skupině nepozdávalo. Já jako škrt co by si nechal pro korunku koleno vrtat jsem to podporoval.\
+Ale všude byla vysoká tráva nebo chatičky. Takže jsme jeli dál, až skoro zapadlo slunko a my museli snížit standard. A to až tak, že jsme nakonec kemovali někomu na zahradě.
+
+![image](28.jpg)
+
+Teda, prý to dle katastru byla obecní chatka, ale i tak to rozhodně nebylo území nikoho, neb tam byl sekačkou vysekaný obdelník.\
+Taky tam bylo ohniště, což nám přišlo vhod a o večeři jsme tak nebyli ochuzeni. Kytary jsme ale nechali schované.
+
+### 29.5. Gabča je přesně tak otravná jak si myslím
+
+Ráno Jarda zápasil s rozděláváním ohně. Sice jsme měli několik plynových vařičů, se kterými by se třísky zapálili raz dva, ale to by byl podraz, v tomhle jsem s ním.\
+Kafe jsme ale stejně uvařili na vařiči. Akorát v sobě mělo logr a můj návrh a cedění mezi zuby se moc neujal, protože stejně ti ten logr zůstal v puse. Během snídaně mě Réba označila za hejtra. Od ní to bylo komický dvojnásob, ale začal jsem si z toho dělat strandu.\
+Naše loď byla vylazená jak ukrajinská vlajka. Byla světle modrá, barel taky modrý, my jsme měli světle modré obelečení, Míša nás obdarovala žlutou růží, pláštěnky, když začalo pršet, jsme taky měli žluté, jen jedno pádlo bylo červené. Ale i k tomu by určitě šlo s ukrainskou vlajkou něco vymyslet, kór v dnešní době.\
+Gabča chtěla kormidlovat. Moc jí to nešlo, ale já taky nejsem bůh ví jak dobrý učitel. Přijde mi totiž, že na kormidlování stejně musí člověk přijít tak nějak sám. Ale nějaký rady jsem předal, pro jiné jsme jeli za ostatními loděmi. Ale pořád jí to nešlo.\
+Začalo se to zlepšovat až v momentu, kdy se to rozhodla vzdát a přesvědčovat jí o tom, že už jí to docela jde mě bavilo jen chvíli. Lež to ale nebyla.\
+Pak mi vykládala o další práci, kterou dělala. Tester UX aplikace pro udávání souhlasu se sexem. Myslím, že někde ve Skandinávii by to možná mohlo mít úspěch, ale v čechách to pohoří jak papír.\
+Taky jsme se bavili o cestování. Překvapilo mě totiž, kolik má high endových udělátek do přírody. Péřový spacák asi za 7 tisíc. Ultra moderní ešus. Nějakou super ergonomickou krosnu. Ale z vyprávění mi nepřišlo, že by třeba lezla na everest, nebo tak. Vlastně si myslím, že se svým spacákem za 999 twd jsem podnikl větší výzvy. Krosnu mám šitovou už roky a tak dál. Ale třeba k tomu dospěju. Ostatně moje karimatka rozhodně není high end, ale levná nebyla a je super. A vlastně nejsem tak bohatej abych si mohl kupovat levný věci. Vždycky se ale snažím najít to koleno, kde cena začíná rychle vzrůstat, ale kvalita už roste jen minimálně.\
+Každopádně.. Gabča mě ale štvala víc a víc. Nebyl jsem s to říct čím. Réba to později vystihla dobře. Má spoustu názorů na věci kolem sebe, ale nebojuje za ně protože je nemá podložený a když jí je člověk naborá tak se akorát tak blbě Brněnsky zachichotá. Réby slova ne moje :). 
+Komentovali jsme chatičky v okolí, plaval jsem za loděmi a vybavuju si to, že jsme závodili tesně před Nižborem a Jardu se Sárou strčili do kapsy. Ostatní už ale dávno byli venku z vody.\
+Vyslali jsme je tedy napřed do zastávky Nižbor na vyhlášený smažák. Sbalili jsme se, počkali na loďaře, který jel odněkud z daleka a pomohli mu naložit lodě.\
+Telefonicky jsme měli dát vědět, co si dáme k jídlu aby to kuchyně stila před odjezdem vlaku. Já byl zaseknutý v rozhodovací paralýze. Smažák už nemůžu ani vidět a do masa se mi nechtělo.\
+A ještě že jsem se nerozhodl, protože v meníčku měli levnou rychlovku. Kenedlíky s vajíčkem a k tomu malýho bernadra v ceně za kilčo. Kauf jak blázen a ještě k tomu to bylo dobrý a byl toho kotel.\
+U vlaku přišel takový veselý opilý tramp s kytarou a jeho kamarád ho vyhecoval k hraní Visáčů. Hrál dál i ve vlaku, což mě nevadilo, ale dokážu si představit, že někdo s tím mít problém mohl.\
+V Berouně jsme přestoupili na úplně plný rychlík. Zabrali jsme proto celou chodbu a když přišel revizor, řekl, že seskrz nás nebude motat a radši půjde nahlásit, že tenhle spoj je kapacitně podhodnocen. Jestli to opravdu udělal těžko říct, ale za tu poznámku má u mě plus.\
+Gabča seděla na někde v kupé, protože měla lístek skrz svou inkartu, protože má české dráhy ráda. Já je mám taky rád, ale vůči jejich chybám nejsem slepý.\
+A taky jsem nebyl slepý vůči fancy zelné, kterou Honza obdařil Sáru a hecnul jí k tomu, aby jí nechala kolovat uličkou, což nás pošťouchlo ke zpěvu na celý vagon až do Prahy.\
+V Praze jsme ještě chtěli s osatatními na pivo, ale nakonec jsme se sešli jen s Jardou na jedno vinohradský ve Vzletu. Viděli jsme tam Káju, kterou jsem neviděl od Zdenčiny oslavy, ale koukala do laptopu a nepokecali jsme,
+
+### 30.5. Moje narozeniny
+
+Svoje narozeniny nikdy moc neslavím. Ale na tyhle jsem měl plán. Respektive, Marťa měla plán. Vymyslela, že pojedeme vláčkem na Karlštejn a odtud na kole zpátky. Do prahy si přivezla z Trutnova kolo, které používala její mamka dokud nepřešla na elektrokolo a vypadala natěšená jak malý děcko.\
+V práci mi popřál Vojta, protože jsme den od sebe, takže si to na rozdíl od ostatních pamatuje. Nakonec jsem ale nějak zmínil, že je mi o rok víc a tak se mi dostalo přání i od vývoje. Co do práce to ale nebyl nijak zajímavý den.  \
+Po práci jsem jel rovnou na vlak. Psal jsem ještě Ondrovi, zda se nechce přidat a i když to vypadalo, že to nestihne, pár minut před odjezdem vlaku dorazil v růžových botách z t-mobile.\
+Marťa s jejím kamarádem Pavlem, se k nám přidali na Smícháči. Dostal jsem oslaveneckou čepičku a dokonce dárek. A ne jen tak ledajaký. Ušila mi barevně proužkované tričko. Bylo mi maličko delší, ale jinak mi padlo jak prdel na hrnec. Úplně jsem se do něj zamiloval. Možná je to trochu úchylný, ale vonělo jako ona.. teda jako její aviváž. Ondra s Marťou si povídali o korporátu a já spíš poslouchal a pil lahváč, což už je u mně tradice, když jedu vlakem.\
+V Karlštejně jsme vystoupili a vyrazili na kolech do kopce. Já jsem Marťu varoval, že tam je kopec jak blázen, ale prý je v pohodě. Pavel vypadal, že se s námi nudí. Je to totiž cyklista co jezdí deset kilometrů tam a zpět denně do práce. Zatímco Ondra seděl poprvé na kole poprvé v roce a já jsem od přírody líný. Ale Marťa jela překvapivě rychle. A usmívala se na celý kolo. Doslova. Protože tohle kolo prý konstantně nebrzdilo jako to minulé. Vlastně to prý bylo poprvé, co se mnou jela a netrpěla.\
+Fascinuje mě, že se mnou pořád jezdí na kole po tom co jsem jí táhl proti větru dokopce asi 50 kilometrů abych potkal Nováčkovic v hospodě. Vypadá ale, že jí to vždycky baví a to mě hřeje u srdíčka.\
+Jednou jsme blbě zahli a skončili v nějakém lomu, ale jinak jsme jeli příjemným tempem. Ve vesničce Kuchař, jsme si sice nedali jídlo od nějakého kuchaře, ale točené pivo tuším ferdinanda na návsi.\
+Po pivu jsme ještě chvíli jeli po mě neznámé silnici, ale v Řeporyjích jsme se spojili s cestou, kterou už jsme spolu jeli. Cestou, která není na karmínového draka stavěná. Ale je hezká na pohled a vlastně mě hodně bavila.\
+Házel jsem po Marťě lístečky, s Ondrou pořádal závod v aerodynamice a celkově se jsem se cítil fajn. Na smícháči se od nás Pavel odpojil a jel k sobě domů na Ruzyni. Ondra se od nás odpojil za mostem na výtoni a já s Marťou jsme si řekli, že ještě jedno pivo v Petrohradské by nebylo od věci. \
+Měli jen tu mega napálenou IPU, takže proti levnýmu Ferdinandovi v Kuchaři, kde brala pivo Marťa jsem ostrouhal. Ale to neva, cjhutnalo dobře. \
+Povídali jsme si o vztazích. O začátcích, o těch co pro nás znamenali víc a pak Marťa mluvila o Honzovi. O tom jak ambiciózní byl a jak si přestali věřit. O tom jak se rozodli, že budou mít dítě a jak jí nechal týden před svatbou.  A o tom jak jí to trochu rozbilo. Myslím, že ten večer jsem jí začal mít ještě raději.\
+Petrohradskou jsme opouštěli po druém malém pivě, asi hodinu po oficiální zavíračce a když jsme se loučili, říkala, že jí potěšilo, že je ráda, že jsem jí vyslechl a jestli mi to neva na moje narozeniny. Já jsem jí odpověděl, že to byly skvělý narozeniny a opravdu jsem to tak myslel.
+
+### 31.5. Ukrajinci nás strašně vyklepli
+
+Pomáhl jsem v Kyjích se stavbou displejů. A dohodli jsme se s Marťou, že po práci půjdeme opět hrát pinčes.\Cestou jsem koupil míčky v Decathlonu na Čerňáku a u Jardy vyzvedl baterii z elektrokola jeho strýčka, která se rozhodla, že nebude fungovat.\
+Opět jsme šli do Heroldových sadů a opět jsme měli štěstíčko, protože stůl byl volný.\
+Chvíli jsme si pinkali jen tak a u toho si povídali o životě, ale chtěl jsem si zahrát na body. První dvě hry jsem jí strašně vyklepl. Přišlo mi ale, že se jí prostě jen nechce hrát kompetetivně. Ve třetí hře, už na mě ale dotahovala.\
+Během třetí hry přišli dva zájemci o stůl. Podstatně milejší než ti minule. Byli to dva uprchlíci z Ukrajiny. Starší holka a mladší kluk. Oba středoškoláci, ona uměla docela obstojně anglicky on se učil česky a uměl říct jen pár slov. Mezi sebou se ale bavili rusky. Ono to dává smysl, když si člověk uvědomí, kde se bojuje.\
+Zeptali se, jestli si můžeme zahrát čtyřhru. Bylo jasné, že dostaneme strašnou sodu, ale byla to docela zábava. Oba míčkem točili tak, že po odrazu letěl úplně jinam. Rád bych řekl, že ke konci už jsem se naučil jednu z těch falší odehrát, ale asi by to stejně nebyla pravda.\
+Hráli jsme ještě když poprchávalo, ale když už to vypadalo, že se doopravdy rozprší, zabalili jsme to.\
+Co ale s načatým večerem? Rozhodli jsme se, že půjdeme k Martě hrát nějakou deskovku. Uvařila bezkofeinový černý čaj. Vlastně jsem do té doby nevěděl, že něco takového existuje. Měla ho z dob, kdy plánovali s Honzou dítě, což dávalo smysl.\
+Asi jsem byl víc grogy než jsem myslel, protože carcassone jsem fakt nedával a při hře byl docela letargický. Porazila mě snad o trojnásobek bodů.\
+Během hry jsme poslouchali písníčky. Říkala že někdo popsal její hudební styl jako indie-folk. Dost věcí posloucháme oba. Chtěla po mě nějakou veselou písníčku, kterou mám rád. To mě zarazilo.. něco co je veselý a mohlo by se jí to líbit. Já poslouchám takvoej mišmaš žánrů, že je těžký vybrat. Vybral jsem ale Section 12, kterou odsoudila jako nudnou.\
+Někdy před dvanáctou už jsem ale opravdu musel domů, protože už jsme oba byli dost unavení.
