@@ -3,15 +3,15 @@ import sys
 if (len(sys.argv) < 2):
   sys.exit(f'Usage: python {sys.argv[0]} file.raw')
 
-rawfilename = sys.argv[1]
-newfilename = rawfilename[0:rawfilename.find('.raw')] + '.md'
+oldfilename = sys.argv[1] # raw
+filename = oldfilename[0:oldfilename.find('.raw')] # without extension
+newfilename = filename + '.md' # generated
 
 with open(newfilename, 'w') as new:
-  with open(rawfilename, 'r') as old:
+  with open(oldfilename, 'r') as old:
     for line in old:
       if (line[0:8] == '![image]'):
         image_name = line[line.find('(') + 1 : line.find(')')]
+        new.write(f'<a href="../images/{filename}/{image_name}" target="_blank"><img src="../images/thumbnails/{filename}/{image_name}"></a>\n')
       else:
         new.write(line)
-
-#<a href="../images/2022_july/1_1.jpg" target="_blank"><img src="../images/thumbnails/2022_july/1_1.jpg"></a>
