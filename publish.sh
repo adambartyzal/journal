@@ -15,4 +15,16 @@ git stage *
 git status
 read -p "Enter commit message: " message
 git commit -m "$message"
-git push
+
+if (connmanctl state | grep State) == "  State = online"
+fi
+
+#!/bin/bash
+
+if connmanctl state | grep -q "  State = online"; then
+  git push
+else
+  echo Offline, not pushing to remote.
+fi
+
+echo Publishing finished.
