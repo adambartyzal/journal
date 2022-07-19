@@ -18,12 +18,11 @@ else
   git status
   read -p "Enter commit message: " message
   git commit -m "$message"
-
-  if connmanctl state | grep -q "State = online"; then
-    git push
-  else
-    echo Offline, not pushing to remote.
-  fi
-
-  echo Publishing finished.
 fi
+
+if connmanctl state | grep -q "State = online"; then
+  git push
+else
+  echo Offline, not pushing to remote.
+fi
+  echo Finished.
