@@ -29,6 +29,10 @@ Sparta nakonec vyhrála nad Kladnem 4:1, my se vydali ven, já jsem Tomovi přip
 
 ### 26.3. Výlet na počest babičky
 
+<a href="../images/2022_march/26_1.jpg" target="_blank"><img src="../images/thumbnails/2022_march/26_1.jpg"></a>
+
+<a href="../images/2022_march/26_2.jpg" target="_blank"><img src="../images/thumbnails/2022_march/26_2.jpg"></a>
+
 ### 27.3. Rychlík Vltava jde nahoru
 
 Z Lásenice jsem nemohl do Hradce autobusem, protože jsem měl kolo. Ale protože jsem měl kolo, nemusel jsem autobusem! Vlastně jsem vůbec nemusel do Hradce. Mohl jsem jet rovnou na vlak do Veselí. Ušetřit si přestupy i peníze.\
