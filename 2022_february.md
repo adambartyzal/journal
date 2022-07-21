@@ -1,11 +1,11 @@
 ## [Únor](2022.md) <!-- omit in toc --> 
 
-- [12.2. Spotánní pivko v petrohradské](#122-spotánní-pivko-v-petrohradské)
+- [12.2. Spotánní pivko v Petrohradské](#122-spotánní-pivko-v-petrohradské)
 - [13.2. Výlet do pivovaru](#132-výlet-do-pivovaru)
 - [18.2. Divy světa u Jirky](#182-divy-světa-u-jirky)
 - [19.2. Běžky co skončily špatně](#192-běžky-co-skončily-špatně)
 
-### 12.2. Spotánní pivko v petrohradské
+### 12.2. Spotánní pivko v Petrohradské
 
 Večer Jarda psal, zda nepůjdeme na pivo. Neměl jsem žádný plán a pivo znělo fajn. Dohodli jsme se tedy na Petrohradské kam přijdou i se Sárou a Korou. Dorazil jsem první a napadlo mě, že naposledy jsem v Petrohradské seděl s Marťou někdy v prosinci, když mi předávala skleničky na víno. Rozhodl jsem se, že jí napíšu ať přijde.\
 Zpětně vzato, tohle rozhodnutí bylo v mém životě docela klíčové.\
