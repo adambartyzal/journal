@@ -24,7 +24,6 @@ U vstupu jsme si nasadili ESD návleky a vydali se do zasedačky skrz místonst,
 
 <a href="../images/2022_april/1_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/1_1.jpg"></a>
 
-
 V zasedačce nám paní přinesla kávu a po pár minutách se dostavili i pan Hlubinka a pan Kobler. S Ondrou řešili smlouvy, které vymyslel Ludvík a které se jim moc nezdály, protože obsahují poměrně vysoké cifry v případě nedodržení data dodání. Já jsem v tomhle byl na jejich straně, protože svět se zbláznil, čipy chybí a my s Vláďou co týden hledáme náhrady a překreslujeme desky tak aby šly vůbec vyrobit.\
 S testováním jsou prý spokojení a za poslední rok se prý situace značně zlepšila. To mě zahrálo u srdíčka, protože za poslední rok jsem firmware testeru značně přepsal.\
 Po jednání jsme jeli na oběd někam na opačnou stranu Kunštátu jejich oktávkou. U oběda jsme se bavili o tom, že lidský přístup je to co si jak my, tak oni ceníme nad korporáty. Bavili jsme se o muzice a z pana Koblera vypadlo, že je frontman Morčat na Útěku. Možná proto mi už v Praze přišel povědomý.\
@@ -57,20 +56,39 @@ František jel za babičkou do Suchdola, takže potřeboval stinout poslední sp
 
 <a href="../images/2022_april/14_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/14_1.jpg"></a>
 
-
 ### 16.4. Asi jsem pražák, protože mě baví štípat dříví
 
 <a href="../images/2022_april/15_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/15_1.jpg"></a>
 
 ### 17.4. S Mamkou do Říma
 
+Naposledy jsem z říma letěl s Wizzem. Stálo to pakatel, měli hezké fialovo-bílé letadlo a hezké letušky. Nijak mě za letu neotravovali, měli měkké sedačky a výhled z letadla byl jeden z nějhečích, jaké jsem kdy zažil. Za výhled teda nemohli, ale i tak jsem měl z Wizzu dobrý pocit, takže jsem koupil právě u nich. Mamka nikdy předtím neletěla letadlem, takže napřed dorazila ke mě a spolu jsme jeli tramvají do Strašnic a pak Áčkem a autobusem na letisko.\
+Už jsem to asi psal, ale Billa na letisku je výhra. Nejen že má normální ceny, ale ještě prodává zabalené obložené housky asi za patnáct jednu. Špica.\
+Vypadalo to, že letištní kontroly mamku skoro baví. Ráno jsem jí sebral sklenici šamponu, se kterou by nás vyhodili, takže jsme prošli bez problému. Wizz nás rozesadil automaticky úplně někam přes celé letadlo od sebe. Letušce jsem řekl, že mamka letí poprvé a chtěla by sedět vedle mě, ta zkontrolovala nějaký papír a dala nás dopředu k oknu, takže mamka měla výhled na Alpy. Koukat z okna a vykřikovat "Hele jezero" a "Hele ty hory" a "Žádný moře teda nevidím" jí bavilo celou hodinu a půl.
+
 <a href="../images/2022_april/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/17_1.jpg"></a>
+
+Fiumicino je jednoduché letiště. Tentokrát jsem se rozhodl místo autobusu pro vlak. Bylo to o 3 eura dražší, ale Jiří si ho v práci pochvaloval a jeho zastávka byla blíž našemu ubytování než Termini. Sice jsme nastoupili do špatného vlaku, ale z hlášení mi to došlo a stačilo přejít na druhou stranu peronu a už jsme jeli. Vlak taky jel asi polovinu času oproti autobusu. Během cesty jsem napsal Maurovi z ubytování, že přijdeme trochu pozdji, než booking vyžadoval a obdržel od něj zprávu "OK Boss :)".\
+Z Nádraží jsme šli pěšky. Tu cestu už jsem znal. Byla sice víc dokopce než jsem si pamatoval, takže mamka si stěžovala, že jí buší srdíčko a je pravda že v Římě bylo teplo i v Únoru, ale byly to jen 3 zastávky tramaje a za to 6 euro nemá smysl dávat. Kór, když si cestou může prohlížet tak hezké město.\
+Mauro byl taťka majitelky bytu, překopaného na kuchyňku a 3 pokoje. Uměl obstojně anglicky, byl docela vtipný, zkásl nás o městskou daň a vyrazil do domu na pláži.\
+Pokoj jsme měli prostorný s palandou, přesně jak to booking líčil. Sám bych se ubytoval levněji, ale i tak to byl docela kauf. Mamka měla radost.\
+Byl čas vyrazit na večeři. Do Trestavere jsme to měli tramvají skoro přímo. Na točně jsme z automatu nakoupili lístky a vyrazili do centra. Tramvaj byla teda taková hnusně zeleně plastová, ale jela.\
+U Tibery jsme vystoupili a šli do jídelní čtvrti jak trestavere říkám. Mamka byla překvapená, že jdeme do restaurace. Čekala, že jsem takový škrt že budeme jíst rohlíky. Ty jíst budeme, to byl plán, ale poprvé do Říma přiletíš jen jednou. S příchodem tmy přišla zima a tak nás pán posadil pod teplomet. Já si dal pizzu se vším možným a mamka lasagně.
 
 <a href="../images/2022_april/17_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/17_2.jpg"></a>
 
+Zbytek jsem po ní dojedl a nedivím se, že to nespořádala celé, protože byly hodně mastné. Ale všechno bylo moc dobré. Došli jsme zpátky na tramvaj a dojeli zpátky k nám. Postel byla docela pohodlná a já usnul po pár stránkách knížky.
+
 ### 18.4. Pyramidy v Evropě a Forum Romanum
 
+Ráno jsem zprovoznil kafostroj. Teda první pokus skončil spoustou vody na lince. Ale napodruhé už z něj vypadlo espresso jak od itala. Ke snídani jsme měli nějaké pečivo a pomazánky a buchtu. De dvou dalších pokojích nikdo nebyl, takže jsme měli kuchyňku pro sebe.\
+Vatikán nepřipadal v úvahu, protože bylo velikonoční pondělí a byť spousta lidí touží po poslouchání papeže, já rozhodně nejsem jeden z nich. Radši jsme jeli na Forum Romanum.
+
 <a href="../images/2022_april/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_1.jpg"></a>
+
+Tramvají jsme tentokrát řeku přejeli a vystoupili kousek od památníku otců. K tomu jsme došli a po schodech vystoupali nahoru. Památník otců je jedna z mých oblíbených atrakcí v římě. Nic nestojí, je obrovská a výhled z ní parádní. Na jednu stranu na kupole a vežičky, na druhou na ruiny starého říma. Mamce jsem shora ukazoval kde co je a ona mi zas nadšene vyprávěla kdy a kdo to postavil.\
+Pak jsme se vydali kolem kapitolu kolem ruin ke koloseu. Nemůžeš nejít ke koloseu, řekli si sand všichni v římě a tak jsme byli unášeni davem.
+
 
 <a href="../images/2022_april/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_2.jpg"></a>
 
