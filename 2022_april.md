@@ -6,8 +6,8 @@
 - [16.4. Asi jsem pražák, protože mě baví štípat dříví](#164-asi-jsem-pražák-protože-mě-baví-štípat-dříví)
 - [17.4. S Mamkou do Říma](#174-s-mamkou-do-říma)
 - [18.4. Pyramidy v Evropě a Forum Romanum](#184-pyramidy-v-evropě-a-forum-romanum)
-- [19.4. Vatikán](#194-vatikán)
-- [20.4. Konečně pantheon](#204-konečně-pantheon)
+- [19.4. Vatikánská muzea](#194-vatikánská-muzea)
+- [20.4. Bazilika sv. Petra a konečně Pantheon](#204-bazilika-sv-petra-a-konečně-pantheon)
 - [21.4. Zpátky domů](#214-zpátky-domů)
 - [23.4. S Marťou do prokopského údolí](#234-s-marťou-do-prokopského-údolí)
 - [29.4. K Jardovi a Sáře na pozemek](#294-k-jardovi-a-sáře-na-pozemek)
@@ -87,24 +87,36 @@ Vatikán nepřipadal v úvahu, protože bylo velikonoční pondělí a byť spou
 <a href="../images/2022_april/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_1.jpg"></a>
 
 Tramvají jsme tentokrát řeku přejeli a vystoupili kousek od památníku otců. K tomu jsme došli a po schodech vystoupali nahoru. Památník otců je jedna z mých oblíbených atrakcí v římě. Nic nestojí, je obrovská a výhled z ní parádní. Na jednu stranu na kupole a vežičky, na druhou na ruiny starého říma. Mamce jsem shora ukazoval kde co je a ona mi zas nadšene vyprávěla kdy a kdo to postavil.\
-Pak jsme se vydali kolem kapitolu kolem ruin ke koloseu. Nemůžeš nejít ke koloseu, řekli si sand všichni v římě a tak jsme byli unášeni davem.
-
+Pak jsme se vydali kolem kapitolu kolem ruin ke koloseu. Nemůžeš nejít ke koloseu, řekli si sand všichni v římě a tak jsme byli unášeni davem. Dav dál pokračoval ke konstantinovu oblouku a od toho k Titově oblouku. Druhý zmíněný už ale byl v oblasti, za kterou se platilo víc, než se mi chtělo. A ten oblouk byl stejně vidět už od brány.\
+Radši jsme se šli podívat na Cirkus Maximus. Za ním jsme si sedli na kafe a dortík. Po občerstvení jsme došli k pyramidě. Tu jsem minule neviděl a musím říct, že je fakt bizár mít ve městě pyramidu. Mamku jsem u ní vyfotil, vyslechl si pár příběhů jak z vetřelců dávnověku a když už jsme se pyramidy nabažili, vydali jsme se do kopce na výhled na Tiberu.
 
 <a href="../images/2022_april/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_2.jpg"></a>
 
+Nahoře jsme potkali obří frontu, která vedla k zavřeným dveřím. Všichi se šli podívat do klíčové dírky, skrz kterou byla vidět kupole baziliky svatého Petra. My jsme se na ní radši podívali z výhledu, který mi již byl znám z minula a věděl jsem, že stojí za ten kopec. Z toho jsme pak slezli k řece a šli po náplavce kolem centra až skoro k Vatikánu. Tam ale nemělo smysl jít, neb jsme ho plánovali na další den. Otočili jsme se tedy do centra, v Careffouru jsme nakoupili něco k jídlu a snědli pozdní oběd v parku Piazza Benedetto Cairoli.
+
 <a href="../images/2022_april/18_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_3.jpg"></a>
 
+Odtud naše kroky vedli velkou obchodní třídou na Pizza del Popolo, se dvěma symetrickými kostely. Zpátky jsme šli menší ulicí a už jsme byli dost uchození na to nasednout na tramvaj a jet zpátky domů.
 
-### 19.4. Vatikán
+### 19.4. Vatikánská muzea
+
+Do Vatikánu jsem se rozhodl jít pěšky přes obří park kde nic není. Minule mě to místo nadchlo a částečně proto jsme byli ubytovaní kousek od něj. Je to park velký jak půl Prahy. To sice asi přeháním, ale krčáků by se tam vešlo několik. Zároveň na jedné z jeho stran byla vyhlídka s koněm, kterou jsem den zpátky viděl z opačné strany řeky, a řekl jsem si, že tam prostě musíme jít, protože tam bude výhled jak blázen.\
+Parkem jsme šli ne po cestičkách ale napřímo, takže jsme museli slézat poměrně ostrým terénem v lesíku. Od rybníčku uprostřed už jsme ale zvolili cestu kultivovanější. Za parku jsme se dostali červenou bránou, kterou jsem do něj minule omylem vstoupil já. Je to místo, kde Bond v Casinu Royale jede svým Aston Martinem.
 
 <a href="../images/2022_april/19_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_1.jpg"></a>
+
+Hned za ním je parádní fontána dell'Aqua Paola a od ní je to na výhled s koněm jen kousek do kopce. Jak jsem čekal.. výhled byl parádní.\
+Do vatikánu už to bylo jen z kopce dolů. Nevěděl jsem ale, že do Vatikánských muzeí se vstupuje z opačné strany tohoto malého státu. neskutečnýCo jsem ale věděl bylo, že tam jsou fronty. A že to jsou fronty opravdu dlouhé. Já bych si jí asi i vystál. Prostě bych četl knížku a pomalu se posouval. Mamka jí ale dost velkou část prostě přeskočila. V podstatě jsme čekali jen poslední úsek a i tak dělala jak je na ní svět strašně zlý, když jsme byli u dvěří a sekuriťák pustil lidi co si přeskočení fronty zaplatilia my čekali o pět minut déle.\
+V atriu byl děsný chaos. Na přepážce mi řekli, že lístky se kupují o patro výše a že chaos dole s lístky vůbec nesouvisí. Odskošili jsme si tedy na záchod, vyšli nahoru, koupili lístky a prošli do prostoru muzeí. Množné proto, že jich je fakt raketa. Wikipedie zmiňuje 33. (Že by jako kristových let?)\
+Jsou umístěna za sebou a končí Sixtínskou kaplí. Jejich obsah je víceméně chronologický, takže se začíná prohlídkou Egyptských vykopávek a sarkofágů a pokračuje přes etrusky, kteří z nějakého důvodu milovali kreslení po nekonečném množství hrnců až po římany co kreslili hezké podrobné mapy.\
+Pod Michilangelovým stropem se tísnili tisíce lidí. Bachař do mikrofonu hlásil ať nikdo nefotí a ať je ticho. Mamka si samozřejmě vytáhla mobil a fotila. Další bachař jí řekl ať toho nechá a stejně fotila dál, jakoby ten obrázek už nikdy nemohla na internetu najít.\
 
 <a href="../images/2022_april/19_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_2.jpg"></a>
 
 <a href="../images/2022_april/19_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_3.jpg"></a>
 
 
-### 20.4. Konečně pantheon
+### 20.4. Bazilika sv. Petra a konečně Pantheon
 
 <a href="../images/2022_april/20_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/20_1.jpg"></a>
 
