@@ -34,7 +34,10 @@
 ### 1.4. Neděle - Natáčíme v 台中
 
 První den prázdnin. Ranní přípravy se nám protáhly. Ještě jsem si šel vybrat. Jarda se zdržel ve sprše a Filip typicky zdržoval, takže jsme vyrazili místo v osm až někdy po půl deváté. Šli jsme rovnou na stop plác, neboť jsme se nasnídali už na pokoji.\
-S krosnami jsme slezli k dálnici a já vytáhl ceduli, kterou už jsem jednou použil při stopování do 台中.\
+S krosnami jsme slezli k dálnici a já vytáhl ceduli, kterou už jsem jednou použil při stopování do 台中.
+
+<a href="../images/2018_april/1_1.jpg" target="_blank"><img src="../images/thumbnails/2018_april/1_1.jpg"></a>
+
 Zastavili nám dvě holky v červené sportovní Mazdě. Jedna dlouhovlasá, druhá krátkovlasá. Podle Thomasovy teorie musely být lesby, což dost možný byly. Dlouhovlasá byla realitní makléřka, která studovala rok v Austrálii. Prý jeli jen do Miaoli, ale nakonec nás zavezli až na vlakové nádraží v 台中.\
 Z nádraží jsme se vydali jen malý kousíček k potoku, kde se sdružovalo velké množství turistů. Ideální místo k natáčení dokumentu na Tour Guiding.\
 Když už jsme měli dost záběrů a dopili jsme kávu ze 7-11, a vydali se hledat uBike. Šli jsme docela dlouho, dokud jsme neodbočili doprava do 台中 parku. Další místo na záběry do filmu. Takže jsme odložily krosny a nažhavili přístroje.\
