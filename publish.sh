@@ -9,9 +9,7 @@ else
   echo Done
 
   echo Generating thumbnails...
-  cd images
-  ./makethumbnails.sh
-  cd ..
+  ./newthumbnails.sh
   echo Done
 
   git stage *
