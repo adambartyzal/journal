@@ -46,14 +46,19 @@ Nakonec ještě Marťa šla na to největší dvojrameno, ze kterého musela bý
 
 Ten den jsem ale měl ještě další plány. František dorazil z Brna a byli jsme domluvení, že zajdeme na pivo. Takže jsme z Matějské vyrazili na dukelských hrdinů a tamvají jeli zpátky k nám. Když jsem dorazil domů, rozpršelo se pořádně, takže jsme to vlastně docela vyhráli.\
 S Františkem jsme se dohodli, že půjdeme na kulečník na Vinohradech. Bylo to na půl cesty mezi námi, ale když jsme tam dorazili, řekli nám že všechny stoly jsou plné. Co už, dali jsme si aspoň pivo a Franta jídlo. Nějakou smršť smažených sýrů. Byl to trochu bizár a kus jsem po něm dojíal, protože to nedal. Nad pivem jsme si povídali, jak se freebike změnil od dob co je pryč. Jak se má na škole. Hodně jsem si povídali o signálech a soustavách, předmětu se kterým jsem měl problém, ale zpětně se ukazuje jako jeden z největších pilířů mého studia.\
-Jako alternativní plán jsem vymyslel deskovky u Jardy a Sáry. A pozval jsem Františka a Marťu. Vůbec mi nepřišlo divný uspořádat akci u někoho jiného doma a dorazit tam dřív než domácí. Sára mi to potom s humorem vyčetla. Ale myslím, že se bavili. Hráli jsme Tipni si a František to asi trochu naschvál nedával. Já na něčem co jsme věděl vydělal majlant bodů, ale pak už jsem jen ztrácel.\
+Jako alternativní plán jsem vymyslel deskovky u Jardy a Sáry. A pozval jsem Františka a Marťu. Vůbec mi nepřišlo divný uspořádat akci u někoho jiného doma a dorazit tam dřív než domácí. Sára mi to potom s humorem vyčetla. Ale myslím, že se bavili. Hráli jsme Tipni si a Franta to asi trochu naschvál nedával. Já na něčem co jsme věděl vydělal majlant bodů, ale pak už jsem jen ztrácel.\
 František jel za babičkou do Suchdola, takže potřeboval stinout poslední spoj. A vlastně všichni už jsme byli docela unavení, takže jsme to rozpustili, rozloučili se. S Marťou jsme šli až na křižovatku Petrohradské a Vršovické, kde jsme se objali a já jí říkal, že to byl super den. Pamatuju si, že jsem se na ní díval jak odchází domů a uvědomil si, že jí mám opravdu rád.
 
 ### 15.4. K Filipovi na chatu
 
-<a href="../images/2022_april/14_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/14_1.jpg"></a>
+U Filipa na chatě už jsme nebyli ani nepamatuju. Vidět Nikitu od dob co bydlí v Dačicích je taky umění a tak jsem měl radost, že můžu přijet za nimi. Ráno jsem ale měl kocovinu a už jen vyrazit na vlak mi dalo hodně práce.
+Chvilku jsem čekal před nádražím a vyhlížel jejich Mercedes. Filip ale přijel novým autem. Dvoumístným kabrioletem Mazda MX-5. Práce v korporátu asi nese.\ Nikita psala, že mají zpoždění. A tak jsme vyrazili na výlet
+
 
 <a href="../images/2022_april/14_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/14_1.jpg"></a>
+
+
+<a href="../images/2022_april/14_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/14_2.jpg"></a>
 
 ### 16.4. Asi jsem pražák, protože mě baví štípat dříví
 
