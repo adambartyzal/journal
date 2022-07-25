@@ -44,7 +44,6 @@ Nakonec ještě Marťa šla na to největší dvojrameno, ze kterého musela bý
 
 <a href="../images/2022_april/9_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/9_1.jpg"></a>
 
-
 Ten den jsem ale měl ještě další plány. František dorazil z Brna a byli jsme domluvení, že zajdeme na pivo. Takže jsme z Matějské vyrazili na dukelských hrdinů a tamvají jeli zpátky k nám. Když jsem dorazil domů, rozpršelo se pořádně, takže jsme to vlastně docela vyhráli.\
 S Františkem jsme se dohodli, že půjdeme na kulečník na Vinohradech. Bylo to na půl cesty mezi námi, ale když jsme tam dorazili, řekli nám že všechny stoly jsou plné. Co už, dali jsme si aspoň pivo a Franta jídlo. Nějakou smršť smažených sýrů. Byl to trochu bizár a kus jsem po něm dojíal, protože to nedal. Nad pivem jsme si povídali, jak se freebike změnil od dob co je pryč. Jak se má na škole. Hodně jsem si povídali o signálech a soustavách, předmětu se kterým jsem měl problém, ale zpětně se ukazuje jako jeden z největších pilířů mého studia.\
 Jako alternativní plán jsem vymyslel deskovky u Jardy a Sáry. A pozval jsem Františka a Marťu. Vůbec mi nepřišlo divný uspořádat akci u někoho jiného doma a dorazit tam dřív než domácí. Sára mi to potom s humorem vyčetla. Ale myslím, že se bavili. Hráli jsme Tipni si a František to asi trochu naschvál nedával. Já na něčem co jsme věděl vydělal majlant bodů, ale pak už jsem jen ztrácel.\
@@ -92,7 +91,9 @@ Radši jsme se šli podívat na Cirkus Maximus. Za ním jsme si sedli na kafe a 
 
 <a href="../images/2022_april/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_2.jpg"></a>
 
-Nahoře jsme potkali obří frontu, která vedla k zavřeným dveřím. Všichi se šli podívat do klíčové dírky, skrz kterou byla vidět kupole baziliky svatého Petra. My jsme se na ní radši podívali z výhledu, který mi již byl znám z minula a věděl jsem, že stojí za ten kopec. Z toho jsme pak slezli k řece a šli po náplavce kolem centra až skoro k Vatikánu. Tam ale nemělo smysl jít, neb jsme ho plánovali na další den. Otočili jsme se tedy do centra, v Careffouru jsme nakoupili něco k jídlu a snědli pozdní oběd v parku Piazza Benedetto Cairoli.
+Nahoře jsme potkali obří frontu, která vedla k zavřeným dveřím. Všichi se šli podívat do klíčové dírky, skrz kterou byla vidět kupole baziliky svatého Petra. My jsme se na ní radši podívali z výhledu, který mi již byl znám z minula a věděl jsem, že stojí za ten kopec. Z toho jsme pak slezli k řece a šli po náplavce kolem centra až skoro k Vatikánu. Tam ale nemělo smysl jít, neb jsme ho plánovali na další den. Otočili jsme se tedy do centra, v Careffouru jsme nakoupili něco k jídlu a snědli pozdní oběd v parku Piazza Benedetto Cairoli.\
+Když už jsme byli v centru, povinná zastávka u Treviho fontány nás neminula. Moc se mi nechtělo mačkat se tam s lidmi fotícími se u fontány, která je hezká, ale hype kolem ní je nesmyslně větší než si zalouží. Ale lepší to mít za sebou.\
+Před horkem jsme se poté skryli v římském Apple store. Ten jsem chtěl vidět převážně já. Je to svým způsobem svatostánek moderního náboženenství. Místo všemocného boha se točí kolem moderních technologií, ale je to kult jakbysmet.
 
 <a href="../images/2022_april/18_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/18_3.jpg"></a>
 
@@ -109,7 +110,7 @@ Hned za ním je parádní fontána dell'Aqua Paola a od ní je to na výhled s k
 Do vatikánu už to bylo jen z kopce dolů. Nevěděl jsem ale, že do Vatikánských muzeí se vstupuje z opačné strany tohoto malého státu. neskutečnýCo jsem ale věděl bylo, že tam jsou fronty. A že to jsou fronty opravdu dlouhé. Já bych si jí asi i vystál. Prostě bych četl knížku a pomalu se posouval. Mamka jí ale dost velkou část prostě přeskočila. V podstatě jsme čekali jen poslední úsek a i tak dělala jak je na ní svět strašně zlý, když jsme byli u dvěří a sekuriťák pustil lidi co si přeskočení fronty zaplatilia my čekali o pět minut déle.\
 V atriu byl děsný chaos. Na přepážce mi řekli, že lístky se kupují o patro výše a že chaos dole s lístky vůbec nesouvisí. Odskošili jsme si tedy na záchod, vyšli nahoru, koupili lístky a prošli do prostoru muzeí. Množné proto, že jich je fakt raketa. Wikipedie zmiňuje 33. (Že by jako kristových let?)\
 Jsou umístěna za sebou a končí Sixtínskou kaplí. Jejich obsah je víceméně chronologický, takže se začíná prohlídkou Egyptských vykopávek a sarkofágů a pokračuje přes etrusky, kteří z nějakého důvodu milovali kreslení po nekonečném množství hrnců až po římany co kreslili hezké podrobné mapy.\
-Pod Michilangelovým stropem se tísnili tisíce lidí. Bachař do mikrofonu hlásil ať nikdo nefotí a ať je ticho. Mamka si samozřejmě vytáhla mobil a fotila. Další bachař jí řekl ať toho nechá a stejně fotila dál, jakoby ten obrázek už nikdy nemohla na internetu najít.\
+Pod Michilangelovým stropem se tísnili tisíce lidí. Bachař do mikrofonu hlásil ať nikdo nefotí a ať je ticho. Mamka si samozřejmě vytáhla mobil a fotila. Další bachař jí řekl ať toho nechá a stejně fotila dál, jakoby ten obrázek už nikdy nemohla na internetu najít.
 
 <a href="../images/2022_april/19_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_2.jpg"></a>
 
@@ -119,10 +120,9 @@ Když jsme se nějak vágně domluvili na nějakém dalším dni, vyrazil jsem s
 <a href="../images/2022_april/19_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/19_3.jpg"></a>
 
 Chutnala skvěle. Přesně takovou obyčejnou, ale skvěle chutnající pizzu jsem si v Římě přál.\
-Tramvaj nás vyvezla na vyšší stranu parku, takže jsme pomalu sestupovali níže směrem k Piazza del Popolo. Tam už jsme ale byli. Zato jsme nebyli na Španělských schodech a u fontány De Trevi
-
-TODO večeře
-
+Tramvaj nás vyvezla na vyšší stranu parku, takže jsme pomalu sestupovali níže směrem k Piazza del Popolo. Tam už jsme byli předtím a tak jsme změnili směr na Španělské schody. Ty nejsou zdaleka tak nesmyslně plné jako Treviho fontána, mají hezký výhled a tak se řadí k mým oblíbeným místům v Římě.\
+Kousek pod schody jsme si dali večeři v restauraci, kterou doporučil internet. Trochu mě to tam zklamalo. Jídlo bylo moc dobré, ale obsluha si automaticky naúčtovala dýško a úpřímě si ho moc nezasloužila.\
+K autobusu jsme šli parádně dlouhým tunelem, ze kterého měla mamka hrůzu, i když pro chodce tam bylo asi tak kilometr místa, lidé jím normálně chodili a ušetřil nám asi 20 minut chůze.
 
 ### 20.4. Bazilika sv. Petra a konečně Pantheon
 
@@ -136,23 +136,42 @@ Dokola jsme šli nejmíň dvakrát a prohlíželi si Řím. I napodruhé mě to 
 
 Na střeše baziliky mají Vatikánci poštu. Mamka tam pořídila pohled a poslala ho tetě Pavlíně.\
 Z Vatikánu nám vyhládlo. Dali jsme si moc dobré panini. Bylo trochu bokem od turistické čtvrti. Pak mamka chtěla vidět ještě kostel, kde je pohřbený nějaký hlavoun, jehož jméno mi nestálo za zapamatování. Kostel byl ale na druhé straně města. Rozodl jsem se, že pojedeme metrem. Před tím jsme ale ještě prošli čtvrť s alejí platanů a zastavili se na kafe v podniku s mega sympatickým číšníkem.\
-Metro nic moc. Špinavé jako zbytek Říma. Kostel byl střežený vojáky a my museli projít rentgenem. Uvnitř bylo dvanáct soch apoštolů. Sedl jsem si tam na lavici a čekal až to tam mamku omrzí, což bylo dlouho.\
+Metro nic moc. Špinavé jako zbytek Říma. Kostel byl střežený vojáky a my museli projít rentgenem. Uvnitř bylo dvanáct soch apoštolů. Sedl jsem si tam na lavici a čekal až to tam mamku omrzí, což bylo dlouho.
 
 <a href="../images/2022_april/20_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/20_2.jpg"></a>
 
-TODO pantheon
+Lístek na metro nám ještě platil a vypadalo to, že po několika neúspěchu z předchozího dne, tentokrát stihneme navštívit vnitřeka Pantheonu. Autobus jel sice ze zastávky, na kterou bylo dostat se úkol pro vyšší znalce trojrozměrné navigace, ale nějak jsme to zvládli. Projížděli jsme kolem Památníku otců. Jak jinak. Všechny cesty vedou do Říma a všechny cesty v římě vedou k Památníku otců.
 
 <a href="../images/2022_april/20_3.jpg" target="_blank"><img src="../images/thumbnails/2022_april/20_3.jpg"></a>
 
+V Pantheonu mamka dlouho neúspšně počítala výklenky, v nichž měli v předkatolických dobách sedět pohanští bohové. Dvanáct jich rozhodně nebylo. Obrosvská betonová střecha ale byla podívaná, která za opakovanou návštěvu stála.
+
 ### 21.4. Zpátky domů
+
+Protože jsme měli letět v poledne, na poslední den jsem kromě cesty na letisko nic moc neplánoval. Mohli jsme jet z Trestavere, ale mamka ještě vůbec nebyla v oblasti termini a lístek na tramvaj vydrží asi hodinu a půl, takže jsme jeli až tam. Doprava byla hustá a tak autobusu trvalo opravdu dlouho, než jsme vystoupuli. Ke konci jízdy na mě šel pocit na zvracení.\
+Chvíli jsme se motali v oblasti kolem termini, ale mamka chodila tak pomalu, že jsme najednou nestíhali a vlak jsme museli dobíhat. Jel totiž z nějakého nástupiště horzně daleko od všech ostatních s čímž jsem nepočítal. Prý mi ten běh nikdy neodpustí.
 
 <a href="../images/2022_april/21_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/21_1.jpg"></a>
 
+Naproti tomu na letadlo jsme museli čekat. Pokud jsem to dobře pochopil, Ryan Air něco pojebal, potřeboval náš exit a náš let s Wizzem byl zdržený o asi hodinu a půl. Snažil jsem se Ryan Airu vyhnout a stejně mě potrolil. V době nízkonákladovek se takovým věcem prostě vyhnout nedá.
+
 <a href="../images/2022_april/21_2.jpg" target="_blank"><img src="../images/thumbnails/2022_april/21_2.jpg"></a>
+
+V Praze jsme se na hláváku rozloučili a já jsem pokračoval vlakem do Vršovic.
 
 ### 23.4. S Marťou do prokopského údolí
 
+S Marťou jsme domluvili další cyklovýlet. Tentokrát jsme si řekli, že pojedeme kolem Vltavy do Radotína, odtud do Řeporyjí na oběd a Dalejským údolím zpátky. Je to zvláštní, ale z Radotína do Řeporyjí jsem ještě nikdy nejel.\
+Až do Radotína to ale byla rutina. Trasu A1 znám nazpaměť. Zrovna asi jako milion pražáků, kteří na ní tradičně překáží.\
+Hlad na Marťu přišel už v Radotíně. Marťa má totiž vždycky hlad. Je jak Filip, na jídlo černá díra. Zastavili jsme tedy u Řeky a podle recenzí vybrali restauraci Rozmarýn. Dala si Buřť guláš a jí rizoto. Ne italské, ale obyč české. Já jsem ale vděčný strávník a tak ve mně zmizelo i s půllitrem Bernarda.\
+Z Radotína to bylo do kopce. Ondra měl pravdu s tím, že cedule zakazující používat rádiová zařízení kvůli možnosti výbuchu jsou i kolem Prahy. Trochu mě to zklamalo. Jižní čechy přišly o jistou výjmečnost.\
+V opačném směru jezdili longbordisté. Prohodil jsem pár slovo o tom jak se v takové rychlosti brzdí a odpovědí mi byla parádní ukázka.\
+V řeporyjích jsem zahlídl kovovou rozhlednu a rozhdl se, že tam musíme zajít. Nacházela se na dětském hřišti ale byla zamčená. I tak to ale bylo hezké hřiště a tak jsme tam chvilku zůstali na prolézačkách.\
+
 <a href="../images/2022_april/23_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/23_1.jpg"></a>
+
+Dalejské údolí není pro silniční kola. Obzvlášť oblast kolem rozpadlého mlýna, kde se hraje paintball. Tam jsem docela trpěl, alespoň že to okolí bylo hezké. Hlavně tunel skrz skálu mě nadchnul.\
+Na konci údolí jsme se zastavili na Malinovku a nad ní si povídali hlavně o její minulosti. Když bylo pití vypité, vyrazili jsme k nám do Vršovic cestou, kterou by mohla jezdit a kole z její práce na Lihovaru.
 
 ### 29.4. K Jardovi a Sáře na pozemek
 
