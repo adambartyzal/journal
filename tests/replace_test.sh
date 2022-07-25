@@ -7,3 +7,5 @@ if diff sample.md template.md; then
 else
   echo "FAIL"
 fi
+
+rm sample.md
