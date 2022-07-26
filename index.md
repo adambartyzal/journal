@@ -12,7 +12,7 @@ Za 郁絜 do Londýna, do Madridu na studia a za Joosje do Amsterdamu.
 
 Rok, kdy jsme se s Ondrou vydali vstříc Čínské chřipce. A kdy jsme i navzdory ní, vyrazili na měsíc na Balkán
 
-## [2021](2020.md)
+## [2021](2021.md)
 
 Dvakrát do Lahti a ke konci roku do Řecka a Itálie. Pátou zemi z mého plánu jsem tak trochu odbyl Vatikánem :)
 
