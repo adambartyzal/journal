@@ -3,13 +3,13 @@
 - [13.11. Na Harlej](#1311-na-harlej)
 - [15.11. Plánování](#1511-plánování)
 - [16.11. Do Řecka](#1611-do-řecka)
-- [17.11.](#1711)
+- [17.11. Akropole](#1711-akropole)
 - [18.11.](#1811)
-- [19.11.](#1911)
-- [20.11.](#2011)
-- [21.11.](#2111)
-- [22.11.](#2211)
-- [23.11.](#2311)
+- [19.11. Pryč z turistické oblasti](#1911-pryč-z-turistické-oblasti)
+- [20.11. Vanessa a Řím](#2011-vanessa-a-řím)
+- [21.11. Výled z baziliky svatého Petra](#2111-výled-z-baziliky-svatého-petra)
+- [22.11. 40 kilometrů pěšky](#2211-40-kilometrů-pěšky)
+- [23.11. Domů](#2311-domů)
 - [27.11. Do Pekla a zpět](#2711-do-pekla-a-zpět)
 - [28.11. Na Bena Caplana](#2811-na-bena-caplana)
 
@@ -39,14 +39,14 @@ Stočil jsem to tedy do kopce i když hora by asi byl lepší popis. Na vyhlídk
 Bílé fasády řeckých domů se v přítmí slily a fotka, kterou jsem spravil náhodnému turistovi nebyla z nejlepších. Dalo se jít ještě výš k malé kapličce skrz cestu plnou palem a opuncií. Shora už byl výhled na město v hávu noci. Město rozsvícené myriádou světel. Pohled okem na akropoli v dáli byl dechberoucí. Noční režim na mém telefonu je sice super, ale z reality zachytí jen co by se za nehet vešlo.\
 Po malé silničce jsem slezl z vrcholu a vydal se hledat hostel. Uličky a jejich špína, kopce, auta, terasy a částečně se rozpadající domy, to všechno mi připomínalo CDMX či Havanu.\
 Před hostelem postával pán, který mi telefonem vytočil zamestnance hostelu, který na mě ze sluchátka mobilu křičel, že je zaseklý v dopravě a že mě má pán dopovodit nahoru. Vyšel jsem tedy s ním nahodu do lobby, kde už čekal jeden holanďan se stejným osudem jako já.\
-Nakonec se objevil moc sympatický řek Andrej a ukázal nám jak to tam chodí. Na to že jsem vybral nejlevnější hostel s hodnocením 7+ na bookingu se snídaní jsem byl nadšený. Mě taky ale nadchne kde co, možná vyjma supr fancy hotelů. Ty mě spíš odpuzují.\
+Nakonec se objevil moc sympatický řek Andres a ukázal nám jak to tam chodí. Na to že jsem vybral nejlevnější hostel s hodnocením 7+ na bookingu se snídaní jsem byl nadšený. Mě taky ale nadchne kde co, možná vyjma supr fancy hotelů. Ty mě spíš odpuzují.\
 Chtěl hotovost. Musel jsem jít vybrat. Chvílku mi trvalo najít bankomat, který by fungoval a nepůsobil jako, že mě obere. Ten který jsem nakonec vybral mě na 100€ obral o 2€. Dole na ulici jsem si dal večeři. Za 14€ mi přišel obří talíř zeleniny, celá kostka fety, chleba, pivo a voda. Přinesl mi to takový fajn pán a i přes to že to bylo moc dobré, celou fetu jsem prostě nedal a zabalil si jí s chlebem do ubrousku. Během jídla jsem ještě telefonoval s mamkou, která mi dávala tipy na to co vidět v Aténách.
 
 <a href="../images/2021_november/16_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/16_3.jpg"></a>
 
 Zpátky na hostelu mi druhý řek ukázal, kam ve městě jít a převzal si vybrané peníze. Po sprše jsem si ještě pustil No Time to Die, ale moc jsem tomu nedal a u filmu usnul.
 
-### 17.11.
+### 17.11. Akropole
 
 Budík mě vzbudil na osmou. Na snídani jsem ale čekal až do devíti. Čekání ale stálo za to. Snídaně byla fakt velkolepá.
 
@@ -59,25 +59,89 @@ Shora jsem fotil panorámata. Denní pohled se totiž od nočního značně liš
 
 Národní zahrady, což byl jeden z mých cílů, byly zavřené. Kolem nich postávali policajiti, ale důvod toho proč se dovnitř jít nesmí mi neřekli. Co už, nafotil jsem pár fotek okolí a pokračoval k Akropoli.\
 V malých uličkách starého města byla spousta koček. Opravdu spousta. Taky tu a tam byla cítit moč. Doufám že kočičí.\
-K Akropoli jsem zvolil velmi nepřímou cestu. Po kamení a skrz lesíky. Ivanovi jsme poslal gif jak klikuju, jako důkaz že nelením a vydal se do oploceného areálu historických budov.
+K Akropoli jsem zvolil velmi nepřímou cestu. Po kamení a skrz lesíky. Ivanovi jsme poslal gif jak klikuju, jako důkaz že nelením a vydal se do oploceného historického areálu.\
+Zážitek je to vskutku impozantní. Proti tomu žádná. Výhledy shora taky stojí za to. V sezóně musí být natřískáno. Projít okruh památek mi zabralo nejmíň hodinu a musím říct, že dojem na mě udělaly podstatně lepsí než pyramidy v Mexiku.
 
 <a href="../images/2021_november/17_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/17_3.jpg"></a>
 
+Po sestoupení z Akropole jsem se vrátil na náměstíčko, kde prve popíjeli kávu místňáci. Dal jsem si latté a koláč. Koláč byl výtečný, zato káva měla ocas jako ředidlo. Na vedlejší lavičce seděla holčina a chovala si kočku. Zmíňila, že má hrozný hlad, ale kočka ji nechce pustit. Vyřešila to tak, že si zapálila cigaretu což kočku vypudilo. Trochu bizární vsuvka.\
+Při pití kávy jsem zapisoval zážitky do deníku. Prochladlou rukou jsem škrábal ještě hůř než obvykle. Když se můj rukopis limitně blížil vlnovce, zvedl jsem se a pokračoval v bloudění městem. Dobloudil jsem až do oblasti s bleším trhem. Od jednoho stolu mi mávali češi z autobusu. Řekl jsem si, že až na ně narazím potřetí musím je pozvat na pivo.
+
 <a href="../images/2021_november/17_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/17_4.jpg"></a>
 
+Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina na řecký způsob. Prošel jsem to tam, ale na pivo se neposadil. Vlastně se ani nebylo moc kde posadit. A už vůbec kam si odskočit. Podniky byly výdejní okna a lidé s pivkem a jídlem postávali tak různě po rozích ulice. Bylo třeba najít záchod. Nakonec jsem našel obchoďák. Byl asi sedmipatrový a bez covidopassu se nedalo vstoupit. Záchody byly až nahoře. Taky tam měli kavárnu s výhledem. Dal jsem si kávu a naplánoal si, že půjdu na místní tržiště. Když jsem na něj ale dorazil, většina stánků už byla zavřená. Aby taky ne. Hodina byla pokročilá a tak i já vyrazil složit hlavu.
 
-### 18.11.
+### 18.11. 
 
-### 19.11.
+<a href="../images/2021_november/18_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_1.jpg"></a>
 
-### 20.11.
+<a href="../images/2021_november/18_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_2.jpg"></a>
 
-### 21.11.
+<a href="../images/2021_november/18_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_3.jpg"></a>
 
-### 22.11.
+<a href="../images/2021_november/18_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_4.jpg"></a>
 
-### 23.11.
+
+
+### 19.11. Pryč z turistické oblasti
+
+<a href="../images/2021_november/19_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_1.jpg"></a>
+
+<a href="../images/2021_november/19_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_2.jpg"></a>
+
+<a href="../images/2021_november/19_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_3.jpg"></a>
+
+<a href="../images/2021_november/19_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_4.jpg"></a>
+
+
+
+### 20.11. Vanessa a Řím
+
+<a href="../images/2021_november/20_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/20_1.jpg"></a>
+
+<a href="../images/2021_november/20_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/20_2.jpg"></a>
+
+<a href="../images/2021_november/20_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/20_3.jpg"></a>
+
+<a href="../images/2021_november/20_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/20_4.jpg"></a>
+
+
+### 21.11. Výled z baziliky svatého Petra
+
+<a href="../images/2021_november/21_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_1.jpg"></a>
+
+<a href="../images/2021_november/21_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_2.jpg"></a>
+
+<a href="../images/2021_november/21_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_3.jpg"></a>
+
+<a href="../images/2021_november/21_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_4.jpg"></a>
+
+
+
+### 22.11. 40 kilometrů pěšky
+
+<a href="../images/2021_november/22_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_1.jpg"></a>
+
+<a href="../images/2021_november/22_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_2.jpg"></a>
+
+<a href="../images/2021_november/22_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_3.jpg"></a>
+
+<a href="../images/2021_november/22_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_4.jpg"></a>
+
+
+### 23.11. Domů
+
+<a href="../images/2021_november/23_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/23_1.jpg"></a>
+
+<a href="../images/2021_november/23_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/23_2.jpg"></a>
 
 ### 27.11. Do Pekla a zpět
 
+<a href="../images/2021_november/27_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/27_1.jpg"></a>
+
+<a href="../images/2021_november/27_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/27_2.jpg"></a>
+
+
 ### 28.11. Na Bena Caplana
+
+<a href="../images/2021_november/28_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/28_1.jpg"></a>
