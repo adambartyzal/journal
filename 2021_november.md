@@ -4,8 +4,8 @@
 - [15.11. Plánování](#1511-plánování)
 - [16.11. Do Řecka](#1611-do-řecka)
 - [17.11. Akropole](#1711-akropole)
-- [18.11.](#1811)
-- [19.11. Pryč z turistické oblasti](#1911-pryč-z-turistické-oblasti)
+- [18.11. Pěšky všude možně](#1811-pěšky-všude-možně)
+- [19.11. Vlakem pryč z turistické oblasti](#1911-vlakem-pryč-z-turistické-oblasti)
 - [20.11. Vanessa a Řím](#2011-vanessa-a-řím)
 - [21.11. Výled z baziliky svatého Petra](#2111-výled-z-baziliky-svatého-petra)
 - [22.11. 40 kilometrů pěšky](#2211-40-kilometrů-pěšky)
@@ -71,7 +71,7 @@ Při pití kávy jsem zapisoval zážitky do deníku. Prochladlou rukou jsem šk
 
 Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina na řecký způsob. Prošel jsem to tam, ale na pivo se neposadil. Vlastně se ani nebylo moc kde posadit. A už vůbec kam si odskočit. Podniky byly výdejní okna a lidé s pivkem a jídlem postávali tak různě po rozích ulice. Bylo třeba najít záchod. Nakonec jsem našel obchoďák. Byl asi sedmipatrový a bez covidopassu se nedalo vstoupit. Záchody byly až nahoře. Taky tam měli kavárnu s výhledem. Dal jsem si kávu a naplánoal si, že půjdu na místní tržiště. Když jsem na něj ale dorazil, většina stánků už byla zavřená. Aby taky ne. Hodina byla pokročilá a tak i já vyrazil složit hlavu.
 
-### 18.11. 
+### 18.11. Pěšky všude možně
 
 <a href="../images/2021_november/18_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_1.jpg"></a>
 
@@ -81,9 +81,7 @@ Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina 
 
 <a href="../images/2021_november/18_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_4.jpg"></a>
 
-
-
-### 19.11. Pryč z turistické oblasti
+### 19.11. Vlakem pryč z turistické oblasti
 
 <a href="../images/2021_november/19_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_1.jpg"></a>
 
@@ -92,8 +90,6 @@ Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina 
 <a href="../images/2021_november/19_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_3.jpg"></a>
 
 <a href="../images/2021_november/19_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_4.jpg"></a>
-
-
 
 ### 20.11. Vanessa a Řím
 
@@ -104,7 +100,6 @@ Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina 
 <a href="../images/2021_november/20_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/20_3.jpg"></a>
 
 <a href="../images/2021_november/20_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/20_4.jpg"></a>
-
 
 ### 21.11. Výled z baziliky svatého Petra
 
@@ -128,7 +123,6 @@ Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina 
 
 <a href="../images/2021_november/22_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_4.jpg"></a>
 
-
 ### 23.11. Domů
 
 <a href="../images/2021_november/23_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/23_1.jpg"></a>
@@ -140,7 +134,6 @@ Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina 
 <a href="../images/2021_november/27_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/27_1.jpg"></a>
 
 <a href="../images/2021_november/27_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/27_2.jpg"></a>
-
 
 ### 28.11. Na Bena Caplana
 
