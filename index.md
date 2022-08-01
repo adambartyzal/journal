@@ -4,7 +4,7 @@ Převážně cestovní, ale občas i osobní deník sloužící jako má extern�
 
 Rok, kdy jsme byli na semsetr v Asii.
 
-## [2019](2020.md)
+## [2019](2019.md)
 
 Za 郁絜 do Londýna, do Madridu na studia a za Joosje do Amsterdamu.
 
