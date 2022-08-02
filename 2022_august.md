@@ -1,6 +1,7 @@
 ## [Srpen](2022.md)  <!-- omit in toc --> 
 
 - [1.7 Zpátky do práce](#17-zpátky-do-práce)
+- [2.7. Do Kyjí se nejezdí na první dobrou](#27-do-kyjí-se-nejezdí-na-první-dobrou)
 
 ### 1.7 Zpátky do práce
 
@@ -10,3 +11,8 @@ Po třetí přišla máma. Přinesla mi mikinu, která mi byla velká a náramek
 To mi moc na náladě nepřidalo. Asi jsem netaktní kokot. Ale stejně si myslím, že to bylo zbytečný. Mohla si odpustit ty dárky a mohli jsme si dát v klidu kafe a popovídat si.\
 V internetovém bankovnictví jsem si všiml, že můj účet už není zadarmo. Po práci jsem se zastavil v bance a dozvěděl se, že je zdarma jen do 27 a poté stojí stokorunu měsíčně. Dá se tomu ale vyhnout tak, že člověk platí kartou a přispívá si do penzijka. Na místě jsem se ještě nerozhodl, zda z české odejdu či na to připojištění něco pošlu, ale stejně mě naštvalo, že se se mnou snaží vyjebat.\
 Po sedmé jsem zašel za Marťou pro věci co mi brali autem. Vilda byl u ní a pomohl mi sbalit stan. Povídali jsme si všichni asi až do deseti večer nad čajem. Měl jsem ale plán dohnat ztracené spaní a tak jsem vyrazil domů, zalomit co nejdříve.
+
+### 2.7. Do Kyjí se nejezdí na první dobrou
+
+Definice šílenství zní dělat stejné věci a očekávat různé výsledky. Možná že přece jen trochu šílený jsem, neb jsem opět jel do Kyjí a očekával, že všechno co budu potřebovat na stavbu posledního nabíjecího boxu tam bude. Inu mělo mě napadnout, že nody tam budou, ale v Safiralu neprošly testem. Co naplat, z kyjí jsem po hodině práce jel do Karlína na otočku.\
+Na oběd jsem tam byl přílš brzy a v Kyjích bych zas nestihl dostavět box, dřív než všichni zmizí v trapu. Jídlo tak muselo počkat. Jinak mi stavba šla od ruky. Taky mě potěšilo, že jsem po měsíci viděl Šťépu a po měsíci a půl Ivana, který byl v Kyjích vypomáhat s přehazováním hlávek. Činností, která nudná, těžká a časově náročná. Ivan má nervy ze železa.\
