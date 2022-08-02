@@ -111,8 +111,6 @@ Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina 
 
 <a href="../images/2021_november/21_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_4.jpg"></a>
 
-
-
 ### 22.11. 40 kilometrů pěšky
 
 <a href="../images/2021_november/22_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_1.jpg"></a>
