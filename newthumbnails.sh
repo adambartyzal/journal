@@ -5,8 +5,9 @@ for file in $files; do
   if [[ $file == *.jpg ]]; then
     if test -f $file; then
       dir=$(dirname $file)
-      if ! test -f "images/thumbnails/$dir"; then
-        mkdir -p "images/thumbnails/$dir"
+      subdir=${dir:7}
+      if ! test -f "images/thumbnails/$subdir"; then
+        mkdir -p "images/thumbnails/$subdir"
       fi
       dest=${file:7}
       convert "$file" -resize 700 -quality 50 "images/thumbnails/$dest"
