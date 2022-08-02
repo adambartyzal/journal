@@ -74,7 +74,8 @@ Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina 
 ### 18.11. Pěšky všude možně
 
 Tentokrát jsem se vstáváním příliš nechvátal. Přece jsem jsem den předtím čekal na snídani skoro hodinku. Ukázalo se ale, že čekací interval je fixní, což můj odchod do města oddálilo od mých plánů. Plány ale fixní nebyly, takže mě to nijak zvlášť netrápilo.\
-Na bližší hoře už jsem byl dvakrát. Vybral jsem tedy horu vzdálenější. Motal jsem se uličkami až jsem došel do oblasti parkovitého vzezření. Parky mají v athénách takové neupravené.
+Na bližší hoře už jsem byl dvakrát. Vybral jsem tedy horu vzdálenější. Motal jsem se uličkami až jsem došel do oblasti parkovitého vzezření. Parky mají v athénách takové neupravené. Cesty připomínají suchá koryta potůčků a dost možná jsou tak i tvořené. Později jsem našel i upravený park. Nacházel se za mostem přes dálnici dělící park na dvě části. V upraveném parku jsem se posadil a pustil do čtení knížky. Říkal jsem si, že je třeba změnit poměr sledování seriálů a čtení ve prospěch psaného média. Celý rok jsem na to dlabal a cíl, který jsem si vytičil na goodreads byl nesplnitelný.\
+
 
 <a href="../images/2021_november/18_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_1.jpg"></a>
 
