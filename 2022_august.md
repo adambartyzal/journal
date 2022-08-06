@@ -1,9 +1,13 @@
 ## [Srpen](2022.md)  <!-- omit in toc --> 
 
-- [1.7 Zpátky do práce](#17-zpátky-do-práce)
-- [2.7. Do Kyjí se nejezdí na první dobrou](#27-do-kyjí-se-nejezdí-na-první-dobrou)
+- [1.8. Zpátky do práce](#18-zpátky-do-práce)
+- [2.8. Do Kyjí se nejezdí na první dobrou](#28-do-kyjí-se-nejezdí-na-první-dobrou)
+- [3.8. Běžný pracovní den](#38-běžný-pracovní-den)
+- [4.8. Vidět Míšu po letech je jak vidět Míšu včera](#48-vidět-míšu-po-letech-je-jak-vidět-míšu-včera)
+- [5.8. Na Radostín](#58-na-radostín)
+- [6.8. Festivalová nálada](#68-festivalová-nálada)
 
-### 1.7 Zpátky do práce
+### 1.8. Zpátky do práce
 
 Závidím lidem co jsou po dovolené odpočatí. Ráno jsem si totiž uvědomil, že mě úplně všechno bolí. Měl jsem několik desítek škrábanců, asi osm černých modřin, pár spálenin a rozhodně se mi něchtělo do ranní rutiny cvičení, kterou jsem plánoval. Vlastně jsem se z postele vyhrabal až hodinu po zazvonění budíku.
 Ranní jízda přes Vinohrady mi dala sodu. Zřejmě jsem měl po tří denním lití kocovinu.V Karlíně ve vývoji nikdo nebyl, což mě rozesmutnilo a já se tak sám pustil do těch míň zábavných, ale asi důležitějších činností. Nakupilo se jich tam na nejmíň týden práce a po obědě s Vojtou a Ludvou v Gastru jich DJ přivezl ještě víc.\
@@ -12,7 +16,7 @@ To mi moc na náladě nepřidalo. Asi jsem netaktní kokot. Ale stejně si mysl�
 V internetovém bankovnictví jsem si všiml, že můj účet už není zadarmo. Po práci jsem se zastavil v bance a dozvěděl se, že je zdarma jen do 27 a poté stojí stokorunu měsíčně. Dá se tomu ale vyhnout tak, že člověk platí kartou a přispívá si do penzijka. Na místě jsem se ještě nerozhodl, zda z české odejdu či na to připojištění něco pošlu, ale stejně mě naštvalo, že se se mnou snaží vyjebat.\
 Po sedmé jsem zašel za Marťou pro věci co mi brali autem. Vilda byl u ní a pomohl mi sbalit stan. Povídali jsme si všichni asi až do deseti večer nad čajem. Měl jsem ale plán dohnat ztracené spaní a tak jsem vyrazil domů, zalomit co nejdříve.
 
-### 2.7. Do Kyjí se nejezdí na první dobrou
+### 2.8. Do Kyjí se nejezdí na první dobrou
 
 Definice šílenství zní dělat stejné věci a očekávat různé výsledky. Možná že přece jen trochu šílený jsem, neb jsem opět jel do Kyjí a očekával, že všechno co budu potřebovat na stavbu posledního nabíjecího boxu tam bude. Inu mělo mě napadnout, že nody tam budou, ale v Safiralu neprošly testem. Co naplat, z kyjí jsem po hodině práce jel do Karlína na otočku.\
 Na oběd jsem tam byl přílš brzy a v Kyjích bych zas nestihl dostavět box, dřív než všichni zmizí v trapu. Jídlo tak muselo počkat. Jinak mi stavba šla od ruky. Taky mě potěšilo, že jsem po měsíci viděl Šťépu a po měsíci a půl Ivana, který byl v Kyjích vypomáhat s přehazováním hlávek. Činností, která nudná, těžká a časově náročná. Ivan má nervy ze železa.\
@@ -23,3 +27,48 @@ Tomáš promarodil Colours, na které spolu chtěli. Pořád působí jako poust
 <a href="../images/2022_august/2_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/2_1.jpg"></a>
 
 Veronika někdy kolem osmé vyrazila a s Tomem jsme si povídali až někdy do půl desáté, kdy už jsem vyrazil zpět. Ještě že jsem koupil ta světla. Tma přišla náhle a zahalila Prahu.
+
+### 3.8. Běžný pracovní den
+
+Na něco jako běžný pracovní den jsem se těšil tak dva měsíce. Protože se ale za ty dva měsíce nakupila spousta rutijní práce, vůbec mě to nebavilo. Postupně jsem v Karlíně procházel věci o kterých jsem věděl, že je třeba se jich zbavit napřed abych se mohl dostat k něčemu zábavnému. Bylo toho ale opravdu hodně. Ne na celý den. Spíš tak týden. Jediný highlight dne byla nová italská restaurace na Křižíkově.\
+Šli jsme s Ludvou, Vláďou a Mončou. Došlo mi že s Mončou jsme byli v Čechách v restauraci snad poprvé spolu. Do té doby jsme se takhle vídali jen ve Finsku. Po výborných lasagnich se sumcem jsem po ní ještě dojed ceasara.\
+Večer jsem byl hodně unavený. Knížka Upgrade, kterou se mi konečně podařilo upirátit mě ale pohltila a spát jsem šel hodně po půlnoci.
+
+### 4.8. Vidět Míšu po letech je jak vidět Míšu včera
+
+Vojta začínal v Kyjích v sedm ráno. Měl jsem mírné ambice dostat se tam taky na sedmou, ale asi je to mimo moje schopnosti. Z Vršovic jsem vyjel až po sedmé a pracovat jsem začal až po osmé. Mým cílem bylo zjistit, proč odchází MCU na EBMC deskách. Z porady totiž vyplynulo, že skoro polovina desek odejde a to je drahý špás.
+Hned druhé kolo odešlo. Během celého dne jsem ale na nic nepřišel. Zdá se, že moment kdy deska odejde je úplně náhodný.\
+Na oběd jsme jeli Ivanovou pětistovkou do Globusu. Jel jsem tím poprvé, ale jezdí s tím úplně stejně jako se smartem. Nad jídlem Ivan prohláil, že si myslí, že jsem Marťi záloha. Tenhle názor už mě začínal unavovat.\
+Na půl šestou jsme ale byli dohodnutí s Míšou, že se potkáme pod Ladronkou, půjdeme na procházku a dojdeme do hvězdy na koncert kamaráda jejího kamaráda. Teplota během dne vystoupala na 35 a když jsem váhal zda jet rovnou do jednoho z nejvyšších kopců na úplně opačné straně Prahy, či se zastavit doma. Druhá volba byla jasná. Ve Vršovicích ze mně teklo tak, že jsem kolo nechal dole v mezipatře a koupil jízdenku na MHD.\
+Dohodli jsme se, že se potkáme u stadionu. Byl jsem tam dřív a sedl si na vrchol schodů vedoucích k tomu betonovému kolosu. Na hlavě jsem měl Maťi slamák a na očích brýle. Míša mě kvůli tomu nepoznala. Horko jako by ještě zesílilo. Vybrali jsme cestu stínem a sdíleli co hezkého se nám stalo od dob co jsme se neviděli.\
+Měla nového kluka, byla znova na Madeiře, Mauricius prý byl skvělý, několikrát se přestěhovala po Praze, teď bydlí Na Hřebence a její práce v T-Mobile, která jí outsourcuje do Deutche Telekomu má za důsledek, že v Čechách je jen o víkendu a štve jí to.\
+Na Ladronce jsme si dali Pivo a Limonádu. A povídali si dál. Když už bylo po sedmé, přesunuli jsme se na koleje Hvězda. Zvenčí to tam vypadalo mrtvě, na vnitřní straně bloku paneláků byl opravdu klub Le Fakap s malou dřevěnou stagi a společnost se shromažďovala. Barman točil pivo první den v životě a řezané se mu docela povedlo. Seznámil jsem se s jejími kamarády a kamarády jejích kamarádu, ale v hlavě mi uvízl jen starší Pepa, který byl hodně povídavý a připomínal mi Roberta a pak pilot zřejmě Honza a pár vysokoškoláků z pole myslím že Ondra a Iva.\
+Bavili jsme se o muzice, Lacu Deczim, ETFkách a Pepově synovi. Byla to podivně dospělá diskuse na to, že vlatně byli mladší než já. I když možná byla mladší jen Míša a to jen o rok.\
+Kapela hrála hodně popových hitů. Od Ready Kirken, přes Beatles po Robbieho Williamse. Jeden ze čtyř kluků zpíval úplně jako holka. To bylo trochu zvláštní, ale hodně to tam sedlo a musel jsem uznat, že jsou fakt dobrý.
+
+<a href="../images/2022_august/4_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/4_1.jpg"></a>
+
+Když dohráli, ještě jsme si asi hodinu povídali všichni nad pivem, ale Míša chtěla vstávat brzy a mně se to vlastně taky hodilo, protože v pátek jsme měli odjíždět na Radostín. Rozloučili jsme se tedy a vyrazili opět ke stadionu, tentokrát skrz Břevnov. I přes to, že původně říkala, že pojede autobusem, jsme šli pěšky až k autokinu za stadionem, kde dávali Elvise. Povídali jsme si o cestách, práci se Saudey, udržitelnosti a vegetariánství. Zmínila, že se bála že si moc nepopovídáme, ale prý jsme se bavili jako bychom se viděli včera. Nakonec jsme se rozdělili u kolejí, já si vzal rekolo a dojel zpátky ke mně domů.
+
+### 5.8. Na Radostín
+
+Už zase se mi nedařilo vstát brzy. V noci bylo horko a posledních pár dní jsem kvůli tomu špatně spal. Když jsem se konečně dokopal k tomu se zvědnout, šel jsem rovnou do studené sprchy. Posnídal jsem nějaké zbytky, sešel dolů, povídal si s paní Sojkovou a při výjezdu objevil, že mám prázdné duše. Neměl jsem kapacitu to řešit. Vzal jsem Rekolo ze včerejška a dojel do Karlína. Pustil jsem se do probírání hromady krabic vratek desek z výroby, kterým pravděpodobně nic nebylo, ale bylo je třeba projet testerem. U motorových je to obzvlášť ojeb, protože je třeba sundat a nasadit chladič.\
+Na oběd jsme šli do Indie. Špenát v pátek je klasika. Tentokrát si ho dali všichni, což bylo bezprecenedtní. Horko z předchozího dne se nevzzdávalo a bylo jasné, že bouře dřív nebo později musí přijít.\
+Po práci jsem domů jel opět na rekole. Chvátal jsem abych se stihl nalodit do auta. Na Radostín nás totiž měla vést Kája. Chvátat ale bylo zbytečné. Měla hodinu zpoždění.\
+Nějak jsem se na Radostín netěšil. Což není pravda. Prostě jsem se akorát nestihl těšit. Postupně to ve mě ale kumulovalo. V autě jsme dělali blbé vtípky o kožených sedačkách, komentoali navigaci a diskutovali o policii v civilu, o které byla reportáž v rádiu.\
+Na nákup jsme se zastavili ve Ždáře v Albertu. Jarda nadával jak je Albert drahý a je pravda, že spousta věcí tam byla nesmyslně napálená.\
+Po přijetí do stanového městečka jsem vyazil rovnou do areálu. Stavění stanu jsem nechal až na později. Pozdravil jsem se s Domosem, Kendym, kterého jsem viděl asi po dvou měsících i přesto, že spolu bydlíme, Magdou, Kolínem, Denny a spoustou dalších lidí.\
+Když jsem se navrátil ke stanům, přijel Karel s Týnou. Týna vypadala hrozně fancy, ale vůbec nepusobila jako high maintanance kinda girl. Postavili jsme stany. Karel bezva staré Áčko, které sklidilo uznání a vyrazili jsme do Areálu.\
+
+<a href="../images/2022_august/5_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/5_1.jpg"></a>
+
+
+Pomalu začínali hrát poletíme?. Fronta na pivo byla nekonečná, guláš docela drahý, ale dobrý. Koncert poletíme? byl velmi šablonovitý. Ale nebylo to na škodu. Zazpíval jsem si, lidi zapařili, prostě docela fajn koncert.
+
+<a href="../images/2022_august/5_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/5_2.jpg"></a>
+
+Po koncertě jsme se přesunuli k ohništi. Oheň nehořel, ale postupně jsme se tam scházeli ve větším a větším počtu. Kapela Čardáš Klaunů, která hrála v povzdálí zněla chvíli jako Foos, chvíli jako Soundgarden, SOD, Walk Choch Ice, Lucie a kdo ví co ještě. Byl jsem z toho nadšený. Na ostatní ale šla spavost. Když dohráli, zbyli jsme jen já s Ondrou. Společně jsme se šli podívat na Swing Pigs. Django Reinhardt a Stephan Graphelli hadr. Bylo to fakt bezva. Dohráli někdy před druhou a to už byl opravdu čas jít spát. Navíc déšť, ke kterému se schylovalo už nějakou dobu konečně přišel.
+
+### 6.8. Festivalová nálada
+
+Pršelo až do rána. 
