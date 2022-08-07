@@ -6,6 +6,7 @@
 - [4.8. Vidět Míšu po letech je jak vidět Míšu včera](#48-vidět-míšu-po-letech-je-jak-vidět-míšu-včera)
 - [5.8. Na Radostín](#58-na-radostín)
 - [6.8. Festivalová nálada](#68-festivalová-nálada)
+- [7.8. Sára má (morální) kocovinu](#78-sára-má-morální-kocovinu)
 
 ### 1.8. Zpátky do práce
 
@@ -54,11 +55,11 @@ Když dohráli, ještě jsme si asi hodinu povídali všichni nad pivem, ale Mí
 
 Už zase se mi nedařilo vstát brzy. V noci bylo horko a posledních pár dní jsem kvůli tomu špatně spal. Když jsem se konečně dokopal k tomu se zvědnout, šel jsem rovnou do studené sprchy. Posnídal jsem nějaké zbytky, sešel dolů, povídal si s paní Sojkovou a při výjezdu objevil, že mám prázdné duše. Neměl jsem kapacitu to řešit. Vzal jsem Rekolo ze včerejška a dojel do Karlína. Pustil jsem se do probírání hromady krabic vratek desek z výroby, kterým pravděpodobně nic nebylo, ale bylo je třeba projet testerem. U motorových je to obzvlášť ojeb, protože je třeba sundat a nasadit chladič.\
 Na oběd jsme šli do Indie. Špenát v pátek je klasika. Tentokrát si ho dali všichni, což bylo bezprecenedtní. Horko z předchozího dne se nevzzdávalo a bylo jasné, že bouře dřív nebo později musí přijít.\
-Po práci jsem domů jel opět na rekole. Chvátal jsem abych se stihl nalodit do auta. Na Radostín nás totiž měla vést Kája. Chvátat ale bylo zbytečné. Měla hodinu zpoždění.\
+Po práci jsem domů jel opět na rekole. Chvátal jsem abych se stihl nalodit do auta. Zákon schválnosti ale říká, že zpoždění toho kvůli kterému chvátáte roste přímoúměrně tomu, jak moc chvátáte. Kája si po domluvené hodině odjezdu dávala šlfíček a sprchu aniž by napsala že přijede pozdě.\
 Nějak jsem se na Radostín netěšil. Což není pravda. Prostě jsem se akorát nestihl těšit. Postupně to ve mě ale kumulovalo. V autě jsme dělali blbé vtípky o kožených sedačkách, komentoali navigaci a diskutovali o policii v civilu, o které byla reportáž v rádiu.\
 Na nákup jsme se zastavili ve Ždáře v Albertu. Jarda nadával jak je Albert drahý a je pravda, že spousta věcí tam byla nesmyslně napálená.\
 Po přijetí do stanového městečka jsem vyazil rovnou do areálu. Stavění stanu jsem nechal až na později. Pozdravil jsem se s Domosem, Kendym, kterého jsem viděl asi po dvou měsících i přesto, že spolu bydlíme, Magdou, Kolínem, Denny a spoustou dalších lidí.\
-Když jsem se navrátil ke stanům, přijel Karel s Týnou. Týna vypadala hrozně fancy, ale vůbec nepusobila jako high maintanance kinda girl. Postavili jsme stany. Karel bezva staré Áčko, které sklidilo uznání a vyrazili jsme do Areálu.\
+Když jsem se navrátil ke stanům, přijel Karel s Týnou. Týna vypadala hrozně fancy, ale vůbec nepusobila jako high maintanance kinda girl. Postavili jsme stany. Karel bezva staré Áčko, které sklidilo uznání a vyrazili jsme do Areálu.
 
 <a href="../images/2022_august/5_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/5_1.jpg"></a>
 
@@ -71,4 +72,23 @@ Po koncertě jsme se přesunuli k ohništi. Oheň nehořel, ale postupně jsme s
 
 ### 6.8. Festivalová nálada
 
-Pršelo až do rána. 
+Pršelo až do rána. Špunty v uších mi ale odfiltrovaly většinu ruchů, jako například někoho padajícího na stan Sáry s Jardou. Což se možná nestalo, ale jejich stan tak ráno rozhodně vypadal. Karel měl vařič a tak přišel čas na kávu z mého aeropressu. Mléko jsem si ale nevzal, takže byla černá jako ropa.\
+Dopoledne jsme posedávali v kroužku u ohniště a diskutovali až do začátku cestovatelské přednášky.\
+Ta byla trochu slabá. Kluci co se plavili po Dunaji z Bratislavy až do Černého moře sice měli hezký výlet, ale přednášku si moc nepřipravili. Kdybych se jich v průběhu neptal na různé věci, skoro nic bych se nedozvěděl.\
+Jarda si jeho přednášku taky připravil jen vzevrubně, ale o daném tématu už mluvil nastokrát a tak jeho přednes byl značně vtipnější a ucelenější. Mluvil o tom, jak zlepšit natáčecí skills a jak je využít ve zbytku času na festivalu, abychom dohromady natočili aftermovie, které sestříhá.
+Divadlo Napříč mě tentokrát nebavilo. Odebral jsem se proto zpátky do stanového městečka na oběd. Nebyl jsem jediný a tak jsme u stanů vařili a jedli vlastně všichni z našeho náměstíčka. Zpět do areálu nás přitáhla vidina válení se u vody s vodní dýmkou a zvuky nu-metalové kapely Dragon Brew. Šílená směsice freejazzu, alternativy a kdo ví čeho ještě skládající se z několika mladých lidí a dědy klávesáka byla famózní.\
+
+<a href="../images/2022_august/6_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/6_1.jpg"></a>
+
+U řeky Réba hejtovala Karlovo dospívání, Týny věk a vzhled, nedospělost lidí obecně a já už ani nevím co. Občas Ondru nechápu jak s ní dokáže přežít.\
+100% byli energičtí na 100%. Rockabilly kapela trochu nudná a Král Doubek bezva oddychový. Je to jeden z důvodu, proč se na Radostín vracím rád. Jeho lesní stage, souznění s přírodou, srdce které do toho dává, a texty které píše víc pro sebe než pro ostatní jsou pro mě ten správný highlight. I jeho Réba dokázala urazit.
+
+<a href="../images/2022_august/6_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/6_2.jpg"></a>
+
+Zato Prago Union mě zkalamali. Technicky to byl bezva koncert, ale emoce žádné. Težce v konstrastu s 100%, kteří sice kompozičně pokulhávali, ale s publikem pracovali tak, že si to všichni užili. Kato se tvářil jako by ho celý Radostín vysíral a radši by se doma koukal na televizi. Štvalo mě to až tak, že jsem si šel číst do stanu.\
+Sára se vylila tak, že začala srát všechny kolem sebe. Ale velmi vtipným způsobem. Klukovi co s námi seděl ráno v kroužku házela mince do kasy, když dřímal. Nutno podotknout, že to nebyly její peníze. Vyškemrala je od lidí kolem, které pak vyhlásila, že jsou asi příliš bohatí, když dávají peníza na takovou blbost.\
+Poslední koncert, který jsem slyšel, byl takový zajímavý pančík. Hodně šablonovitý, ale rozhodně ne nudný. Jednu s Martinem už jsem ale prospal.
+
+### 7.8. Sára má (morální) kocovinu
+
+Probudilo mě lamentování Sáry o tom jak je jí strašně špatně.
