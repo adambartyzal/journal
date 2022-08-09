@@ -7,6 +7,8 @@
 - [5.8. Na Radostín](#58-na-radostín)
 - [6.8. Festivalová nálada](#68-festivalová-nálada)
 - [7.8. Sára má (morální) kocovinu](#78-sára-má-morální-kocovinu)
+- [8.8. Něco na mě leze](#88-něco-na-mě-leze)
+- [9.8.](#98)
 
 ### 1.8. Zpátky do práce
 
@@ -76,12 +78,12 @@ Pršelo až do rána. Špunty v uších mi ale odfiltrovaly většinu ruchů, ja
 Dopoledne jsme posedávali v kroužku u ohniště a diskutovali až do začátku cestovatelské přednášky.\
 Ta byla trochu slabá. Kluci co se plavili po Dunaji z Bratislavy až do Černého moře sice měli hezký výlet, ale přednášku si moc nepřipravili. Kdybych se jich v průběhu neptal na různé věci, skoro nic bych se nedozvěděl.\
 Jarda si jeho přednášku taky připravil jen vzevrubně, ale o daném tématu už mluvil nastokrát a tak jeho přednes byl značně vtipnější a ucelenější. Mluvil o tom, jak zlepšit natáčecí skills a jak je využít ve zbytku času na festivalu, abychom dohromady natočili aftermovie, které sestříhá.
-Divadlo Napříč mě tentokrát nebavilo. Odebral jsem se proto zpátky do stanového městečka na oběd. Nebyl jsem jediný a tak jsme u stanů vařili a jedli vlastně všichni z našeho náměstíčka. Zpět do areálu nás přitáhla vidina válení se u vody s vodní dýmkou a zvuky nu-metalové kapely Dragon Brew. Šílená směsice freejazzu, alternativy a kdo ví čeho ještě skládající se z několika mladých lidí a dědy klávesáka byla famózní.\
+Divadlo Napříč mě tentokrát nebavilo. Odebral jsem se proto zpátky do stanového městečka na oběd. Nebyl jsem jediný a tak jsme u stanů vařili a jedli vlastně všichni z našeho náměstíčka. Zpět do areálu nás přitáhla vidina válení se u vody s vodní dýmkou a zvuky nu-metalové kapely Dragon Brew. Šílená směsice freejazzu, alternativy a kdo ví čeho ještě skládající se z několika mladých lidí a dědy klávesáka byla famózní.
 
 <a href="../images/2022_august/6_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/6_1.jpg"></a>
 
 U řeky Réba hejtovala Karlovo dospívání, Týny věk a vzhled, nedospělost lidí obecně a já už ani nevím co. Občas Ondru nechápu jak s ní dokáže přežít.\
-100% byli energičtí na 100%. Rockabilly kapela trochu nudná a Král Doubek bezva oddychový. Je to jeden z důvodu, proč se na Radostín vracím rád. Jeho lesní stage, souznění s přírodou, srdce které do toho dává, a texty které píše víc pro sebe než pro ostatní jsou pro mě ten správný highlight. I jeho Réba dokázala urazit.
+100% byli energičtí na 100%. Rockabilly kapela trochu nudná a Král Doubek bezva oddychový. Je jedním z důvodu, proč se na Radostín vracím rád. Jeho lesní stage, souznění s přírodou, srdce které do toho dává, a texty které píše víc pro sebe než pro ostatní jsou pro mě ten správný highlight. I jeho Réba dokázala urazit.
 
 <a href="../images/2022_august/6_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/6_2.jpg"></a>
 
@@ -91,4 +93,24 @@ Poslední koncert, který jsem slyšel, byl takový zajímavý pančík. Hodně 
 
 ### 7.8. Sára má (morální) kocovinu
 
-Probudilo mě lamentování Sáry o tom jak je jí strašně špatně.
+Probudilo mě lamentování Sáry o tom jak je jí strašně špatně. Všem vyprávěla jak se sejmula a chovala nepatřičně. Na snídani jsme vyrazili do areálu. Boršč, který byl k dispozici, většina lidí popsala jako zelnici. Ať už to byl či nebyl boršč, mě to chutnalo. Zato kafe bylo podprůměrné. Možná že jsem začínal být zhýčkaný svou čerstvě namletou kávou připravenou v aeropressu.\
+Lidé se loučili a vyráželi. Karel chvátal a tak on, týna a Ondra s Rébou zmizeli relativně rychle. My jsme se postupně přesunuli zpátky ke stanům a začali balit. Já měl stan sbalený nejdřív a tak jsem se pustil do vína. Nejsem řidič a víkend byl ještě mladý. Bylo vidět, že další lidé to vidí podobně. Ostatně bylo hezky narozdíl od předchozího rána, takže zřejmě doháněli jistý festivalový dluh.\
+Denny s Ondrou se přišli rozloučit a když odjížděli vytroubili nás klaksonem.
+
+<a href="../images/2022_august/7_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_1.jpg"></a>
+
+Než jsme vyrazili my, byl čas oběda. Zastavili jsme tedy v hospodě v netíně. Dali jsme si výpečky a smažák. Ten neudělal nejlíp Sáře a před nájezdem na dálnici ho šla vyzvracet. Škoda peněz, nebyl nejlevnější.\ Když jí bylo líp, pokračovali jsme a komentovali schopnosti ostatních řidičů. Byl to totiž debil vedle debila a nešlo kvůli nim nepodjíždět.
+
+<a href="../images/2022_august/7_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_2.jpg"></a>
+
+Kája mě hodila až domů. Tam jsem si jen na chviličku lehl a usnul asi na dvě hodiny. Když jsem se probral, přečetl jsem si zprávu, zda nevyrazíme na pho. Jarda se Sárou ale usnuli taky, takže nám to vyšlo tak nějak na stejno.\
+Vietnam food už zavíral. Vybrali jsme tedy Pho bibo na horkách. Bylo to docela autentické místečko, ale na Vietnam foods nemělo. Sára si pochvalovala svoí tofu verzi, mně moje pho bo přišlo průměrné a jahodová limonáda mohla mít víc jahod. Ale na uzavření týdne, doplnění tekutin po celovíkendovém lití to bylo fajn. U botiče jsme se rozloučili a já šel domů koukat na Orville.
+
+### 8.8. Něco na mě leze
+
+K snídani banán, donut, a kafe. Šel jsem totiž plavat a bylo třeba trochu se nakopnout. I tak jsem plaval za 2:13 na sto jako chcípák.\
+V práci jsem konečně dokončil vratku z BPL a pustil se do něčeho zábavnějšího. Konkrétně do stavby testeru na g2lock. Na obědě se Ludva zmínil, že Ondra z Monikou jsou asi doma s covidem a spíš s humorem se ptal jestli já jsem v pohodě. Na obědě jsem se v pohodě cítil ale odpoledne mě začalo škrábat v krku a cítil jsem, že na mě něco jde. Vzal jsem freebike a šel si domů lehnout. Původně jsem měl plán uklízet, prát a dávat si život do pořádku, ale nakonec jsem opravdu spíš jen ležel a snažil se vypotit nemoc dřív než mě sundá.\
+
+### 9.8. 
+
+Ráno jsem se cítil docela zdravě. Hodinky neukazovali větší stress a RHR bylo na 55 což je obvykle úkaz toho, že mě žádná nemoc nepřepadla. Možná jsem byl prostě dodělanej z víkendu a klimatizace v Karlíně mě nahlodala.
