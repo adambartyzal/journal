@@ -8,7 +8,7 @@
 - [6.8. Festivalová nálada](#68-festivalová-nálada)
 - [7.8. Sára má (morální) kocovinu](#78-sára-má-morální-kocovinu)
 - [8.8. Něco na mě leze](#88-něco-na-mě-leze)
-- [9.8.](#98)
+- [9.8. V Čechách utrácím mnohem víc než ve Skandinávii](#98-v-čechách-utrácím-mnohem-víc-než-ve-skandinávii)
 
 ### 1.8. Zpátky do práce
 
@@ -112,6 +112,9 @@ K snídani banán, donut, a kafe. Šel jsem totiž plavat a bylo třeba trochu s
 V práci jsem konečně dokončil vratku z BPL a pustil se do něčeho zábavnějšího. Konkrétně do stavby testeru na g2lock. Na obědě se Ludva zmínil, že Ondra z Monikou jsou asi doma s covidem a spíš s humorem se ptal jestli já jsem v pohodě. Na obědě jsem se v pohodě cítil ale odpoledne mě začalo škrábat v krku a cítil jsem, že na mě něco jde. Vzal jsem freebike a šel si domů lehnout. Původně jsem měl plán uklízet, prát a dávat si život do pořádku, ale nakonec jsem opravdu spíš jen ležel a snažil se vypotit nemoc dřív než mě sundá.\
 K večeři jsem si udělal zeleniový salát a smoothie ze zázvoru a kurkumy. Nandal si zimní čepici a mikinu a zachumlal se do peřin abych podpořil vyšší teplotu v těle. Po chvíli čtení jsem zalomil a spal docela tvrdě skoro deset hodin.
 
-### 9.8. 
+### 9.8. V Čechách utrácím mnohem víc než ve Skandinávii
 
 Ráno jsem se cítil docela zdravě. Hodinky neukazovaly větší stress a RHR bylo na 55 což je obvykle úkaz toho, že mě žádná nemoc nepřepadla. Možná jsem byl prostě dodělanej z víkendu a klimatizace v Karlíně mi nepomohla.
+Úterý bývá klidný den a tenhle nebyl výjimkou. Celý den jsem si v klidu stavěl elektroniky do g2 testeru. Ze safiralu přišla stížnost, že něco nefunguje, ale pravděpodobně se jim jen desky špatně připojovaly pomocí hrotů.
+Na oběd jsme vyrazili s Vojtou do gastra. Dal jsem si kaťák a nahrál na kartu tisícovku.\
+Po práci jsme šel plavat. Tempo jsem záčkl na dvě na sto a kdyby nebylo v každé lajně 6 lidí, možná bych ho zmáčkl i níž. V Edenu jsem se zastavil pro kasein a kávu. Dalších osm set šedesát tak prolétlo komínem. Marťa psala, že se večer mám zastavit, že pokecáme o festivalech.\
