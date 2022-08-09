@@ -110,7 +110,8 @@ Vietnam food už zavíral. Vybrali jsme tedy Pho bibo na horkách. Bylo to docel
 
 K snídani banán, donut, a kafe. Šel jsem totiž plavat a bylo třeba trochu se nakopnout. I tak jsem plaval za 2:13 na sto jako chcípák.\
 V práci jsem konečně dokončil vratku z BPL a pustil se do něčeho zábavnějšího. Konkrétně do stavby testeru na g2lock. Na obědě se Ludva zmínil, že Ondra z Monikou jsou asi doma s covidem a spíš s humorem se ptal jestli já jsem v pohodě. Na obědě jsem se v pohodě cítil ale odpoledne mě začalo škrábat v krku a cítil jsem, že na mě něco jde. Vzal jsem freebike a šel si domů lehnout. Původně jsem měl plán uklízet, prát a dávat si život do pořádku, ale nakonec jsem opravdu spíš jen ležel a snažil se vypotit nemoc dřív než mě sundá.\
+K večeři jsem si udělal zeleniový salát a smoothie ze zázvoru a kurkumy. Nandal si zimní čepici a mikinu a zachumlal se do peřin abych podpořil vyšší teplotu v těle. Po chvíli čtení jsem zalomil a spal docela tvrdě skoro deset hodin.
 
 ### 9.8. 
 
-Ráno jsem se cítil docela zdravě. Hodinky neukazovali větší stress a RHR bylo na 55 což je obvykle úkaz toho, že mě žádná nemoc nepřepadla. Možná jsem byl prostě dodělanej z víkendu a klimatizace v Karlíně mě nahlodala.
+Ráno jsem se cítil docela zdravě. Hodinky neukazovaly větší stress a RHR bylo na 55 což je obvykle úkaz toho, že mě žádná nemoc nepřepadla. Možná jsem byl prostě dodělanej z víkendu a klimatizace v Karlíně mi nepomohla.
