@@ -139,4 +139,5 @@ Po véče jsme se vydali ke mně. Oni busem já na volnokole. Než přijeli, pok
 
 Robin ráno kreslil obrázky lodí. Dostal jsem zprda, že nemám pastelky. Petrovi jsme v aeropressu udělal kafe a rozlil jsem ho všude po kuchyšké lince. Napodruhé už to vyšlo lépe. Sbalili jsme improvizované spaní a vyrazili do světa.\
 Cestou jsem si v albertu koupil snídani a v Kralíně mi došlo, že tam budu celý den sám. Ze Safiralu mi napsali, že problém s testerem vyřešili a nemusím testery posílat. Trvalo to tedy jen tři emaily než udělali co jsem po nich chtěl. V průběhu dne jsem psal jsem scénář g2lock testu a testoval desky co se vrátily z Helsinek.  Pil jsem u toho další kávu a pociťoval příznaky vysazení kofeinu. Za poslední dva měsíce jsem vypil víc kafe než kdykoliv v životě a cítil jsem, že mě to dobíhá. Bylo třeba na chvíli vysadit. Naštěstí moje oblíbená Colombia Decaf je jedna z nejlepších káv, které jsem kdy pil.\
-Kvůli absťáku jsem se ale cítil grogy. Cítil jsem to i při plavání. Kilometr mi dal zabrat. Doma jsem s sebou sekl na gauč a koukal na Stranger Things.
+Kvůli absťáku jsem se ale cítil grogy. Cítil jsem to i při plavání. Kilometr mi dal zabrat. Doma jsem s sebou sekl na gauč a koukal na Stranger Things.\
+Večer mi Marťa s Olou přinesly klíče od jejího bytu, abych jí mohl zalít kytky až tu nebude.
