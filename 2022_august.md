@@ -9,6 +9,8 @@
 - [7.8. Sára má (morální) kocovinu](#78-sára-má-morální-kocovinu)
 - [8.8. Něco na mě leze](#88-něco-na-mě-leze)
 - [9.8. V Čechách utrácím mnohem víc než ve Skandinávii](#98-v-čechách-utrácím-mnohem-víc-než-ve-skandinávii)
+- [10.8. Petr s Robinem](#108-petr-s-robinem)
+- [11.8. V práci sám](#118-v-práci-sám)
 
 ### 1.8. Zpátky do práce
 
@@ -99,7 +101,8 @@ Denny s Ondrou se přišli rozloučit a když odjížděli vytroubili nás klaks
 
 <a href="../images/2022_august/7_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_1.jpg"></a>
 
-Než jsme vyrazili my, byl čas oběda. Zastavili jsme tedy v hospodě v netíně. Dali jsme si výpečky a smažák. Ten neudělal nejlíp Sáře a před nájezdem na dálnici ho šla vyzvracet. Škoda peněz, nebyl nejlevnější.\ Když jí bylo líp, pokračovali jsme a komentovali schopnosti ostatních řidičů. Byl to totiž debil vedle debila a nešlo kvůli nim nepodjíždět.
+Než jsme vyrazili my, byl čas oběda. Zastavili jsme tedy v hospodě v netíně. Dali jsme si výpečky a smažák. Ten neudělal nejlíp Sáře a před nájezdem na dálnici ho šla vyzvracet. Škoda peněz, nebyl nejlevnější.\
+Když jí bylo líp, pokračovali jsme a komentovali schopnosti ostatních řidičů. Byl to totiž debil vedle debila a nešlo kvůli nim nepodjíždět.
 
 <a href="../images/2022_august/7_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_2.jpg"></a>
 
@@ -115,9 +118,25 @@ K večeři jsem si udělal zeleniový salát a smoothie ze zázvoru a kurkumy. N
 ### 9.8. V Čechách utrácím mnohem víc než ve Skandinávii
 
 Ráno jsem se cítil docela zdravě. Hodinky neukazovaly větší stress a RHR bylo na 55 což je obvykle úkaz toho, že mě žádná nemoc nepřepadla. Možná jsem byl prostě dodělanej z víkendu a klimatizace v Karlíně mi nepomohla.
-Úterý bývá klidný den a tenhle nebyl výjimkou. Celý den jsem si v klidu stavěl elektroniky do g2 testeru. Ze safiralu přišla stížnost, že něco nefunguje, ale pravděpodobně se jim jen desky špatně připojovaly pomocí hrotů.
+Úterý bývá klidný den a tenhle nebyl výjimkou. Celý den jsem si v klidu stavěl elektroniky do g2 testeru. Ze safiralu přišla stížnost, že něco nefunguje, ale pravděpodobně se jim jen desky špatně připojovaly pomocí hrotů.\
 Na oběd jsme vyrazili s Vojtou do gastra. Dal jsem si kaťák a nahrál na kartu tisícovku.\
 Po práci jsme šel plavat. Tempo jsem záčkl na dvě na sto a kdyby nebylo v každé lajně 6 lidí, možná bych ho zmáčkl i níž. V Edenu jsem se zastavil pro kasein a kávu. Dalších osm set šedesát tak prolétlo komínem. Marťa psala, že se večer mám zastavit, že pokecáme o festivalech.\
-Stěží jsem stihl sníst osmažené nudle a už stála dole pod domem. U ní jsme připravovali musli tyčinky pro skauty, se kterými plánovala strávit celá následující týden.U pečení jsme si dali pivo a pouštěli hudbu. Povídali jsme si o zážitcích z našich víkendů. Po akrofestivalu, kde jí nechala Ola na ocet se zastavila se u Honzovi rodiny pro fošny na stůl, který by jí skoro švára Martin už asi nikdy nedal dohromady. Stýskalo se jí po jeho rodině, ale měla skoro panický záchvat, že se tam s ním potká, když zahlédla jeho auto.\
+Stěží jsem stihl sníst osmažené nudle a už stála dole pod domem. U ní jsme připravovali musli tyčinky pro skauty, se kterými plánovala strávit celá následující týden. U pečení jsme si dali pivo, pouštěli hudbu a povídali jsme si o zážitcích z našich víkendů. Po akrofestivalu, kde jí nechala Ola na ocet se zastavila se u Honzovi rodiny pro fošny na stůl, který by jí skoro švára Martin už asi nikdy nedal dohromady. Stýskalo se jí po jeho rodině, ale měla skoro panický záchvat, že se tam s ním potká, když zahlédla jeho auto.\
 Když jsme dopekli a Marťa pověsila prádlo, vůbec se mi nechtělo domů. Vlastně se mi nechtělo ani zvedat z podlahy na které jsem ležel. Ale i na mě čekalo v pračce prádlo a táhlo na jedenáct.\
-Před Petrohradskou postávali hipstři, kterým na rozdíl ode mně padesát za pivo zřejmě vůbec nevadilo.\
+Před Petrohradskou postávali hipstři, kterým na rozdíl ode mně padesát za pivo zřejmě vůbec nevadilo.
+
+### 10.8. Petr s Robinem
+
+Asi to bylo pozdní kávou, nebo tím že jsem šel spát až před druhou, ale celou noc jsem se obracel jak ražniči.\
+S Vojtou jsme šli na salát do nové Indické. To úplně nešlo dohromady s tím, že jsem plánoval za jídlo šetřit. Sto pade za salát, který byl vskutku dobrý, ale abych byl spokojený snědl bych dva za zaplatil polovinu.\
+Petr se ozval, zda by nemohli přespat s Robinem u mně. Odložil jsem tedy plavání po práci na další den a vyrazil na Hamr. Robin si malou raketou pinkal na zdi. Vypadalo to že už je unavený a vskutku byl kůvli tomu protivný. S Petrem jsme dali večeři a dvě pivka. Skládal u nich rubikovu kostku, kterou jsem mu několikrát rozhodil.
+
+<a href="../images/2022_august/10_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/10_1.jpg"></a>
+
+Po véče jsme se vydali ke mně. Oni busem já na volnokole. Než přijeli, poklidil jsem nádobí a připravil ležení. Petr osprchoval Robina a dal ho s tabletem ke spaní. My jsme ale o moc dĺe vzhůru nevydrželi.
+
+### 11.8. V práci sám
+
+Robin ráno kreslil obrázky lodí. Dostal jsem zprda, že nemám pastelky. Petrovi jsme v aeropressu udělal kafe a rozlil jsem ho všude po kuchyšké lince. Napodruhé už to vyšlo lépe. Sbalili jsme improvizované spaní a vyrazili do světa.\
+Cestou jsem si v albertu koupil snídani a v Kralíně mi došlo, že tam budu celý den sám. Ze Safiralu mi napsali, že problém s testerem vyřešili a nemusím testery posílat. Trvalo to tedy jen tři emaily než udělali co jsem po nich chtěl. V průběhu dne jsem psal jsem scénář g2lock testu a testoval desky co se vrátily z Helsinek.  Pil jsem u toho další kávu a pociťoval příznaky vysazení kofeinu. Za poslední dva měsíce jsem vypil víc kafe než kdykoliv v životě a cítil jsem, že mě to dobíhá. Bylo třeba na chvíli vysadit. Naštěstí moje oblíbená Colombia Decaf je jedna z nejlepších káv, které jsem kdy pil.\
+Kvůli absťáku jsem se ale cítil grogy. Cítil jsem to i při plavání. Kilometr mi dal zabrat. Doma jsem s sebou sekl na gauč a koukal na Stranger Things.
