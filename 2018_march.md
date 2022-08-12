@@ -229,12 +229,12 @@ Když jsme se přesytili muzea JaiHo dorazila a společně jsme se vydali na ob�
 Chvíli nás vedla různými uličkami až k místu, kde bylo plno, a další lidé stáli ve frontě. A tak jsme pokračovali v pouti za jídlem. Skončili jsme v podniku, kde jsme si dali já nudle, Filip rýži. A k tomu salát a něco, co byla zřejmě rýže slepená kachní krví. To jsem jen ochutnal a přenechal Filipovi. Sám jsem si jedl svůj salát.\
 Po obědě jsme společně došli na autobus a dál už jsem pokračoval sám.
 
-<a href="../images/2018_march/10_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/10_1.jpg"></a>
+<a href="../images/2018_march/11_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/11_1.jpg"></a>
 
 Jízda autobusem byla dobrá schíza. Věděl jsem jen fonetický přepis názvu mé cílové zastávky. Všechny nápisy ale byly v čínštině a hlas z reproduktoru zněl asi jako „prchrkřřřrkrpchšhhh“. Těžkou dedukcí jsem objevil, která zastávka je škola a od té odpočítával 12 zastávek a porovnával je se symboly venku za sklem.\
 Dorazil jsem do správné zastávky a podle printscreenu mapy jsem vyrazil na stop plác. Nebylo to špatné místo. Výhled jak z Holywood hills, rovinka na zastavení, nájezd přímo na trojku.
 
-<a href="../images/2018_march/10_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/10_2.jpg"></a>
+<a href="../images/2018_march/11_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/11_2.jpg"></a>
 
 Ani 10 minut jsem tam nestál a nabral mě mladý pár. Řidičův bratr studoval na CHU, a tak věděl kam mě hodit. Chvíli jsme se bavili o Praze a rozdílech Čech a Taiwanu, ale nakonec holčina zalomila, takže jsme byli potichu a já se vnořil do internetových konverzací na mobilu, neboť v srdci Evropy bylo po ránu a Míša měla zrovna povídací náladu.\
 Po asi hodině a půl mě s přáním úspěchu na Taiwanu vyhodili přímo před bránou školy a já šel najít kluky, hrající basket, aby mi půjčili klíče.\
