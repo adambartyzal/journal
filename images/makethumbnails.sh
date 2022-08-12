@@ -5,5 +5,5 @@ for file in */*$1*.jpg; do
   if ! test -f "thumbnails/$dir"; then
     mkdir -p "thumbnails/$dir"
   fi
-  convert "$file" -resize 700 -quality 50 "./thumbnails/$file"
+  convert "$file" -resize 800 -quality 70 "./thumbnails/$file"
 done

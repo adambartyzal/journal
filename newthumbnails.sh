@@ -10,7 +10,7 @@ for file in $files; do
         mkdir -p "images/thumbnails/$subdir"
       fi
       dest=${file:7}
-      convert "$file" -resize 700 -quality 50 "images/thumbnails/$dest"
+      convert "$file" -resize 800 -quality 70 "images/thumbnails/$dest"
     fi
   fi
 done
