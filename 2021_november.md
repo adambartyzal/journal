@@ -69,31 +69,61 @@ Při pití kávy jsem zapisoval zážitky do deníku. Prochladlou rukou jsem šk
 
 <a href="../images/2021_november/17_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/17_4.jpg"></a>
 
-Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina na řecký způsob. Prošel jsem to tam, ale na pivo se neposadil. Vlastně se ani nebylo moc kde posadit. A už vůbec kam si odskočit. Podniky byly výdejní okna a lidé s pivkem a jídlem postávali tak různě po rozích ulice. Bylo třeba najít záchod. Nakonec jsem našel obchoďák. Byl asi sedmipatrový a bez covidopassu se nedalo vstoupit. Záchody byly až nahoře. Taky tam měli kavárnu s výhledem. Dal jsem si kávu a naplánoal si, že půjdu na místní tržiště. Když jsem na něj ale dorazil, většina stánků už byla zavřená. Aby taky ne. Hodina byla pokročilá a tak i já vyrazil složit hlavu.
+Psyri, čtvrť kterou mi doporučil Andres byla vskutku zajímavá. Hipsteřina na řecký způsob. Prošel jsem to tam, ale na pivo se neposadil. Vlastně se ani nebylo moc kde posadit. A už vůbec kam si odskočit. Podniky byly výdejní okna a lidé s pivkem a jídlem postávali tak různě po rozích ulice. Bylo třeba najít záchod. Nakonec jsem našel obchoďák. Byl asi sedmipatrový a bez covidopassu se nedalo vstoupit. Záchody byly až nahoře. Taky tam měli kavárnu s výhledem. Dal jsem si kávu a naplánoval si, že půjdu na místní tržiště. Když jsem na něj ale dorazil, většina stánků už byla zavřená. Aby taky ne. Hodina byla pokročilá a tak i já vyrazil složit hlavu.
 
 ### 18.11. Pěšky všude možně
 
 Tentokrát jsem se vstáváním příliš nechvátal. Přece jsem jsem den předtím čekal na snídani skoro hodinku. Ukázalo se ale, že čekací interval je fixní, což můj odchod do města oddálilo od mých plánů. Plány ale fixní nebyly, takže mě to nijak zvlášť netrápilo.\
 Na bližší hoře už jsem byl dvakrát. Vybral jsem tedy horu vzdálenější. Motal jsem se uličkami až jsem došel do oblasti parkovitého vzezření. Parky mají v athénách takové neupravené. Cesty připomínají suchá koryta potůčků a dost možná jsou tak i tvořené. Později jsem našel i upravený park. Nacházel se za mostem přes dálnici dělící park na dvě části. V upraveném parku jsem se posadil a pustil do čtení knížky. Říkal jsem si, že je třeba změnit poměr sledování seriálů a čtení ve prospěch psaného média. Celý rok jsem na to dlabal a cíl, který jsem si vytičil na goodreads byl nesplnitelný.\
-
+Když už jsem cítil, že na jednom místě setrvávám příliš dlouho, vydal jsem se na cestu směrem na jih. Náhodnými ulicemi směrem k trhu, který jsem včerejšího dne promeškal. Prošel jsem bangladéšskou čtvrtí, indickou čvrtí a něčím co by se dalo nazvat asijskou čtvrtí. Čistě čínská totiž nebyla. Všechno to byl útok na smysly. Barvy ovoce, vůně skořice, kterou na pile řezal nějaký asiat, pokřikující lidé, hlasitá auta a to vůbec nemluvím o rybím trhu. Ten se naházel právě v té budově, kterou jsem minule našel již zavřenou. Chobotnice a ryby všech barev, velikostí, odérů a stádií rozřezání. Kupci překřikujcí se mezi sebou a všude na zemi voda a rozdupadné zbytky. Paráda!
+Zvenčí haly byl trh s masem. Zavěšená rozřezaná zvířata, vegan by zaplakal.
 
 <a href="../images/2021_november/18_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_1.jpg"></a>
 
+Na druhé straně ulice byl bazar s věcmi. Trumpetu, kterou bych si přál tam neměli. Zato tam ale byl obří barevný papoušek, který jen tak posedával na bidýlku a občas si něco zaskřehotal.\
+Když už jsem byl trhem přesycen pokračoval jsem dál na jih. Že k moři ani náhodou nedojdu mi začalo být jasné asi po hodině chůze, která mě dostala jen na opačnou stranu vykopávek ne až tak daleko od Akropole. Atény jsou fakt obrovské. Inu, našel jsem další hezký park, vyfotil pár fotek a pokračoval ve čtení knihy.
+
 <a href="../images/2021_november/18_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_2.jpg"></a>
+
+Když sluníčko zesláblo, přišel chlad který mě z parčíku vyhnal. Šel jsem tedy do centra blíže Akropoli.\
+U pítka mi bezdomovec nabízel jídlo. Nevím jestli jsem vypadal tak tragicky, ale podle mně ho potřeboval víc než já. Zdvořile jsem ho tedy odmítl a on se do něj pustil sám. Obloukovou cestou, kterou jsem minule došel k Paratheonu jsem se vydal do kopce, ale v půli to stočil do parku, kde prý byl uvězněný Socrates. Tutově to byl podvod. Kopec dál ale nabízel hezký výhled. Turisté tam taky nebyli skoro žádní a já si užíval chvíli zenu na špičce kopce s výhledem na slunce zapadající za moře.
 
 <a href="../images/2021_november/18_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_3.jpg"></a>
 
+Nezapadlo ale za obzor, nýbrž pomalu mizelo v oblacích. Jak přicházela tma, přicházel i hlad. V centru byly ceny vysoké a tak jsem se vydal někam dál. Dál bývá levněji.\
+Dál ale nebylo levněji. Objevil jsem se v nějaké fancy čtvrti bez špíny a odpadků na zemi. Se samými bary a kavárnami, ale postrádající dělnické jídelny. Bylo tak třeba jít ještě dál než jen dál. Google mi poradil kam. 30 minut chůze podél velké silnice. Jestli byla silnice velká nebo malá ale bylo jedno. V Aténách jsou auta všude.\
+Všude kromě snad jediné pěší ulice, do které jsem nakonec došel na základě Google recenzí. Obešel jsem celý plác a vybral jídelnu s nejlepším poměrem cena/výkon. Dal jsem si kebap s pitou a tzatziki za 5,5€ a k tomu pivo za 3€. A ještě jsem dostal dezert zadarmo!
+
 <a href="../images/2021_november/18_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/18_4.jpg"></a>
+
+Po večeři už táhlo na osmou a mě čekala cesta zpátky skrz celé město. Ve fancy jídelní třídě mě místní pingl přesvědčoval, že jsou nejlevnější široko daleko. 20€ chtěli jen za předkrm. Národní zahrady byly pořád zavřené a kopec jsem obešel zleva a domů trefil bez mapy. 
 
 ### 19.11. Vlakem pryč z turistické oblasti
 
+Dnes pojedu k moři! To byl můj plán. Počasí mi ale nepřálo. Byl zataženo a mrholilo. Proto jsem si nezabalil věci na plavání. Předešlého dne metro nejezdilo kvůli stávce (která možná souvisela se zavřenými zahradami), dnes už však měla být doprava ok.\
+Vyrazil jsem tak ven úplně opačným směrem. Na stanici modrého metra. Koupil jsem si ve stroji dvojlístek a vnořil se do podzemí. Připomínalo mi metro v Madridu. Linka M1 je nadzemní a místní jí říkají prostě jen "vlak". 
+
 <a href="../images/2021_november/19_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_1.jpg"></a>
+
+Koukat z vlaku na město mě hodně bavilo. Mám z toho natočených kopu videí. Déšť ustuoval a když jsem přijel k moři, začínalo být pěkně.\
+Tam kde jsem očakával pláž jsem ale našel jen tetrapody a rybářský přístav. Za tím byly rozpadlé budovy s hlídacími psy, kteří vypadali, že pokud se místu nevyhnu obloukem, rozkoušou mě na kousky.\
+Šel jsem tedy po tetrapodech. To je fyzicky náročná věc. Měl by to být sport. A možná že i je. Lidi jsou dementi. Musím to později vygooglit.\
+Po strastiplné cestě jsem ale došel na skutečnou pláž a zalitoval, že nemám plavky. Knížku jsem ale měl a číst si u ševelení moře je taky fajn. Jeden místní řek se se mnou snažil konverzovat, ale jeho anglická slovní zásoba byla omezená a já řecky neuměl říct ani děkuju.
 
 <a href="../images/2021_november/19_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_2.jpg"></a>
 
+Oběd jsem vyřešil jako v Lahti. U deli pultu v supermarketu. Nakoupil jsem tam bezva moussaku a paní mi jí dokonce ohřála v mikrovlnce. Ještě jsem nakoupil jablka, pečivo, taveňák a džus. Dokromady za 8,9€. Kauf ne?
+
 <a href="../images/2021_november/19_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_3.jpg"></a>
 
+Po jídle jsem došel na další pláž a taky na kopec, kde jsem doufal ve výhled na město z opačné strany. Výhled nebyl. Ale zato jsem našel přístav plný obřích lodí a betonových objektů, které tutově přežijí a výbuch atomové bomby.\
+Zpátky jsem jel metrem ze stanice nepříjemně připomínající čerňák. 90 minut, které mi garantoval lístek jsem se rozhodl využít na maximum. Jel jsem oběma linkami metra. Tramvají a podíval jsem se na nádraží, které bylo naprostým zklamáním. I ten čerňák byl honosnější.\
+Při návětěvě dalšího parku, jsem se napápálil podobně jako už jednou v Helsinkách. Byl to totiž hřbitov. A tentokrát ještě k tomu zavřený. Nebyl ale daleko od historického stadionu, kde se konaly první moderní olympijské hry. Stadion byl oplocený. Naštván na celý svět jsem blooudil podél plotu. Dlouho neúspěšně, ale nakonec se na mě štěstí přece jen usmálo a já našel průchod k workoutovému hřišti a od toho už se na vrcholek stadionu dalo jít. Kolem něj běhali lidé. Tedy ne kolem něj. Tam a zpátky, protože stadion má půdorys písmene U a je zasazený do udolíčka v kopci. Holt v 19. století neměli železobeton. Ale měli mramor. Hodně mramoru. Sleduje běžce, dal jsem si pečivo s taveňákem a jablko a kochal se svítící akropolí v dáli.
+
 <a href="../images/2021_november/19_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_4.jpg"></a>
+
+Zepředu byly schody. To me naštvalo, ale schody vedly k zamčené bráně a za ní byli turisté, kteří chteli dovnitř. Bylo trochu komické jim zevnitř vysvětlovat jak na to. Vrátil jsem se tedy nahoru, zacvičil si na bradlech a u brány v plotě jsem potkal právě ty turisty, které jsem nasměroval po vnější straně.\
+Maje už skoro 30 tisíc kroků, vydal jsem se na hostel. Tentokrát z pravé strany. Cestou jsem telefonoval s mamkou, která netrpělivě vyzvídala mé zážitky. I z prava jsem trefil domů bez mapy.
 
 ### 20.11. Vanessa a Řím
 
