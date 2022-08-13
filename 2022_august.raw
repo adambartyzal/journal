@@ -11,6 +11,7 @@
 - [9.8. V Čechách utrácím mnohem víc než ve Skandinávii](#98-v-čechách-utrácím-mnohem-víc-než-ve-skandinávii)
 - [10.8. Petr s Robinem](#108-petr-s-robinem)
 - [11.8. V práci sám](#118-v-práci-sám)
+- [12.8.](#128)
 
 ### 1.8. Zpátky do práce
 
@@ -141,3 +142,10 @@ Robin ráno kreslil obrázky lodí. Dostal jsem zprda, že nemám pastelky. Petr
 Cestou jsem si v albertu koupil snídani a v Kralíně mi došlo, že tam budu celý den sám. Ze Safiralu mi napsali, že problém s testerem vyřešili a nemusím testery posílat. Trvalo to tedy jen tři emaily než udělali co jsem po nich chtěl. V průběhu dne jsem psal jsem scénář g2lock testu a testoval desky co se vrátily z Helsinek.  Pil jsem u toho další kávu a pociťoval příznaky vysazení kofeinu. Za poslední dva měsíce jsem vypil víc kafe než kdykoliv v životě a cítil jsem, že mě to dobíhá. Bylo třeba na chvíli vysadit. Naštěstí moje oblíbená Colombia Decaf je jedna z nejlepších káv, které jsem kdy pil.\
 Kvůli absťáku jsem se ale cítil grogy. Cítil jsem to i při plavání. Kilometr mi dal zabrat. Doma jsem s sebou sekl na gauč a koukal na Stranger Things.\
 Večer mi Marťa s Olou přinesly klíče od jejího bytu, abych jí mohl zalít kytky až tu nebude.
+
+### 12.8. 
+
+Spánkový expert říká, že dospat ztrátu nejde. Já měl ale ráno pocit, že aspoň trochu jsem se tomu přiblížil. Ještě jedna noc pořádného spánku a možná tu nekonečnou únavu porazím, přišlo mi.\
+Francouzi nakonec napsali, že když připojili kabely stanice začala fungovat. Koho by to totiž napadlo, že musí mít zapojené kabely. Ale co už. Aspoň jsem nemusel nic dělat. Pokračoval jsem tedy v testování a opravách desek. Tentokrát z Lahti.\
+Popraskané krycí sklo na telefonu už mě začalo štvát. A žloutnoucí obal taky nebyl moc hezký. Rozhodl jsem se zainvestovat do nového. U skla to bylo opodstatěné, obal ale vyjma vzhledu funguje pořád dobře. Musím začít šetřit říkal jsem si. Opravdu jsem utrácel docela dost.\
+V Alze jsem si otevřel svůj deník na iPadu. Miniatury byly příliš nekvalitní a do pravé hrany tabletu chybělo asi 100px. Rozhodl jsem se, že skript upravím tak, aby obrázky vypadaly hezky i na tabletech.\

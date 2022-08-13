@@ -107,29 +107,68 @@ Na bližší hoře už jsem byl dvakrát. Vybral jsem tedy horu vzdálenější.
 
 ### 21.11. Výled z baziliky svatého Petra
 
+Nakonec jsem vstal až po mých spolubydlících. Protože jim ale všechno trvalo roky, dosnídal jsem dřív než oni. Snídaně mě ale skutečně zklamala. K dispozici byly sušenky a nějaké gumové sladké pečivo v igelitu. Všechno vlastně bylo v igelitu. Hostel vlastnili, nebo spíš řídili indové a s problematikou klimatické krize si zřejmě nedělali hlavu. Škoda, že na ní dojedou jako první. Co už.\
+Po snídani jsem vyrazil na památky. Směrem k Památníku otců, či jak se ta obří budova jmenuje. Mohutné mramorové schody a nad nimi socha koňáka. Dovnitř pouštěli jen ty s QR kódem potvrzujícím očkování a musím říct, že jsem byl šťastný, že ho mám. Výhled stál za to. Historické budovy v římě jsou obrovské a plné těch nejmenších detailů. A je jich asi tak milión. Kdo to opravuje musí vydělat majlant.\
+
 <a href="../images/2021_november/21_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_1.jpg"></a>
+
+Dál už jsem se toulal bez jakékoliv logiky. Doufal jsem, že dorazím do Vatikánu, ale netlačil jsem na to. Na mostě přes Tiberu mě zaujala holčina v modré blůzce. Vlastně se na mě usmála už několikrát předtím, ale až na mostě to probublalo do mé šedé kůry mozkové. Usmívala se na všechno kolem. Takovým opravdovým způsobem. Jako by byla jedimá, koho řím skutečně baví. Nikdo jiný kolem mě tak nezářil. Ještě jsem ji později zahlédl někde v davu. I na takovou dálku se usmála přímo mě do očí. Pak ale zmizela. Tím úsměvem mě ale nakazila, což bylo fajn.\
+A tak jsem se usmíval na všechny okolo a snažil se je nakazit taky. Sice k tomu nemám takové predispozice jako hezká holka v modré blůzce, ale to nevadilo. Psychologie funguje podvědomě.\
+Přišel na mě hlad. A v zemi výborného jídla nebylo třeba jít daleko. Google mi poradil, že kus ode mně je podnik jmenující se Pasta Imperiale. Člověk si tam mohl vybrat druh těstovin od špaget, tagliatell, ořes farfale až po ravioli a na ně z několika druhů omáček. Dal jsem si tonnarelli s pomodoro bazalkovou omáčkou. Trochu mě zklamali tím, že jídlo mi přinesli na papírovém talířku s plastovou vidličkou, ale jídlo samotné bylo výborné.\
+Pak jsem se vrátil k řece, přešel most naproti kterému byl kostel připomínající obří armádní bunker a asi tak 3 bloky nalevo jsem zahlédl obří kupoli. To by mohl být Vatikán napadlo mě. A taky že byl.\
+Dostat se do Vatikánu je trochu tricky. Čloěvěk musí jít po pravé straně ulice. Kdyby šel po levé dojde k brance která nevede dovnitř Vatikánu ale ven. I tou jde ale projít pokud je člověk rebel.\
+Dovnitř baziliky už jsem ale musel projít přes sekuritku. Na tu se čekala fronta. Naštěstí šla docela rychle a během čekání jsem alespoň zapsal své zážitky.\
+Uvnitř se stála další fronta. Cedule hlásala: 10€ s výtahem, 8€ po schodech. Taky ale dodávala, že za deset člověk ušetří asi jen 200 schodů z 552. 2€ mi doma zaplatí víc než jedno pivo a já mám pivo rád. Nohy mi taky fungovaly a tak jsem na kase oznámil pěší a po chvíli si to štrádoval dokola a dokola kolem výtahové šachty.\
+Po chviličce jsem došel na ochoz kupole koukal na maličkaté lidi dole v chrámu. Kopule je to vskutku veliká a bazilika ještě větší.\
+Nejlepší je ale vylézt na vyhlídku. Jde se přímo kupolé a schodiště se postupně nahýbá tak, že člověk musí jít pod úhlem. Výhled stál vskutku za to. Oběšel jsem to tam dokola snad třikrát a prohlížel si celé město. Taky jsem ho po dvou krocích nafotil a doufal, že Google mi sešije hezké panoráma.
 
 <a href="../images/2021_november/21_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_2.jpg"></a>
 
+V kapli jsem ještě chvíli pobyl. Prohlédl si kryptu papežů, vitráže na stropech a stolici uprostřed.
+
 <a href="../images/2021_november/21_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_3.jpg"></a>
 
-<a href="../images/2021_november/21_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/21_4.jpg"></a>
+Venku na náměstí mě zastavila nějaká vnucovačka náramků. Dal jsem jí 2€. Ani nepoděkovala a začala být hnusná, že jen vyrobit náramek jí stojí 10€ a že musí uživit děti. Nafoukla břicho a dělala, že je těhotná a lhala jak když tiskne. Došel jsem za policajtem a řekl mu, že chci aby mi vrátila moje dvě eura, protože pro mě je to hodně peněz a že po jejím náramku netoužím a vrátím jí ho. Policajt to vyřešil, ale náladu mi stejně zkazila.\
+Když jsem došel k Pantheonu, zrovna ukočovali rezervace pro vstup. V pondělí ale prý žádná rezervace potřeba nebude.\
+Po sedmé večerní jsem vyrazil na pizzu. Nějak se mi ale podařilo objednat těstoviny. Byly dobré, ale říkal jsem si, že takobou chybici už nesmím udělat. Pizza a rizoto. To jsou jídla, která jsem ještě chtěl v itálii ochutnat.
+Večer jsem na ubytování pújčil laptop indce v nesnázích. Spolužáci se na ní vykašlali musela udělat prezentaci na pondělí sama. Na pokoj se přistěhovali dvě španělky a ve vedlejším pokoji jsem zahlédl další 3 indky. Zdálo se, že kluk jsem tam byl jediný.
 
 ### 22.11. 40 kilometrů pěšky
 
+Tolik jsem opravdu ušel. Možná proto, že v průběhu dne mě turistická místa už začínala opravdu štvát. Ráno jsem totiž vyrazil přes park na severu ke Španělským schodům a poté k Treviho fontáně. Traduje se, že kdo hodí minci do Treviho fontány, do Říma se vrátí. Neudělal jsem to. Nevím co se traduje o fotce před fontánou, ale zdálo se, že jí potřebuje úplně každý v Římě.
+
 <a href="../images/2021_november/22_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_1.jpg"></a>
+
+Od fontány jsem se přešel k Pantheonu a vystál si frontu, jen aby mě vyhodili, protože jsem u sebe neměl ID. Občanka i pas byly zamčené ve skřínce na hostelu. Moje blbost. Co už.
 
 <a href="../images/2021_november/22_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_2.jpg"></a>
 
+Vyhládlo mi. Plán byl pizza. Jsem přece v Itálii. V internetech jsem se dočetl o skrytém pokladu. Podniku, kde se prý nejlepší pizza prodává na váhu. Musím říct, že byla fakt dobrá. Sice to nebyl nijak jedinečný podnik, neb jsem podobných potkal více, ale po snědení prvních dvou kousků jsem si koupil další dva. Smetanovo brokolicová byla dobrá, ale jsem fanda suga jako základu. Houbovo okurková to vyhrála\
+Naplněn pizzou a unaven turisty, vydal jsem se někam, kde bydlí místní. Cestou jsem prošel čtvrtí s ohromnými alejemy ještě větších platanů, čvrtí plnou paneláků, čtvrtí, kde byly zahrady plné růží, viděl circus maximus a ztratil se v obřím parku, kde nikdo nebyl. Nevíc ze věho mě ale bavila oblast, která připonínala holešovickou tržnici. Nebo spíš bývalý kravín. Něktré z dlouých domů vlastně zevnitř ještě vypadaly jako nějaké stáje. Pár jich ale bylo přestavěných do moderní podoby. Před jednou takovou mi místní holčina prozradila, že uvnitř zkouší školní kapela tamější hudební školy. Ukázalo se, že je zpěvačka oné kapely a že jsou fakt dobří. Chvíli jsem je poslouchal a zpětně lituji, že jsem tam nezůstal déle. Naštěstí mám nahrávku.\
+
 <a href="../images/2021_november/22_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_3.jpg"></a>
+
+Zpěvačka neuměla moc anglicky. Kdyby jo, určitě bychom se bavili víc a já se do ní na tuty zamiloval. Byla přesně ten typ.\
+Nakonec jsem došel ke koloseu. Pokud na světě všechny cesty vedou do Říma, v Římě věechn cesty vedou ke koloseu.
 
 <a href="../images/2021_november/22_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_4.jpg"></a>
 
+Bylo už docela pozdě. K večeři jsem si naplánoval dát si italské rizoto. Chtěl jsem ověřit, zda ho italové udělají lépe než já s Marťou. Kdyby jo, trochu by mi to zlomilo srdce, ale zase potěšilo chuťové buňky. Quid pro Quo. Koukl jsem na hodinky, objevil že jsem ušel 41411 kroků, ale hlad jsem pořád neměl. Vlastně jsem toužil akorát po kávě bez kofeinu a nečem malém a sladkém. Ne až tak daleko od Termini jsem našel podnik, kde jsem si tohle přání splnil. Byla to takový kavárna/hospoda a u vedlejšího stolu skupina italů začínala být v náladě. Já už byl unavený na to navazovat jakoukoliv konverzaci a tak jsem vyrazil na hostel, dát si sprchu a lehnout si.\
+V posteli jsem si pustil Casino Roayle. Překvapilo mě, jak je to starý. 2006, pro mě šestá třída. Asi jsem starej. Ale taky nedospělej jak Marťa zmínila. Je to se mnou složitý.\
+Káva možná nebyla tak bez kofeinu jak se mi pingl snažil nakecat. Nemohl jsem usnout a vzbudil jsem se několikrát v noci.
+
 ### 23.11. Domů
+
+Po tom co jsem se zabalil a pozdravil Španěly Hasta Luego, vyrazil jsem směrem kde bydlí Francesca. Sice tam nebyla, ale byl to jeden z jejích tipů. Nevím jestli naštěstí či naopak ale zklamal mě můj orientační smysl. Šel jsem celou dobu o 90° jinam než jsem chtěl a došel do čvtri San Lorenzo. I tu mi ale Francesca doporučila. Po chvíli bloumání jsem našel milý parčík s boudičkou, kde připravovali kávu za doprovodu latinoamerických rytmů.\
 
 <a href="../images/2021_november/23_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/23_1.jpg"></a>
 
+Na žádost káva a pečivo jsem dostal do tmava propečený corisant s marmeládou a typické italské presso. Malé presso bylo něco, co jsem do té doby ignoroval, a prozřetelnost to zdá se vyřešila za mně.
+
 <a href="../images/2021_november/23_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/23_2.jpg"></a>
+
+V rámci pracovního cvičení jsem se ještě zastavil u venkovní posilovny a chvíli dipoval a přitahoval se. Málem jsem díky tomu nestihl autobus. Tedy.. předpokládaný čas odjezdu autobusu. Nezdálo se, že by řidiče hodiny nějak trápily. Vyrazil později a ještě se zasekl v dopravě v centru. Ale letadlo jsem stihl bez potíží.\
+Přelet přes Alpy byl bez váhání jeden z nejhezčích letů, jaké jsem zažil. Zasněžené špičky hor nasvícené sluncem sice nešly hezky vyfotit, ale očima jsem je hltal co to šlo.
 
 ### 27.11. Do Pekla a zpět
 
@@ -139,4 +178,11 @@ Na bližší hoře už jsem byl dvakrát. Vybral jsem tedy horu vzdálenější.
 
 ### 28.11. Na Bena Caplana
 
+Ben opět přijel do Prahy. Eva mě přesvědčila, že na něj chci jít s ní. Sama by nešla a Petr asi není cílovka.\
+Přijela tedy za mnou domů a vlastně byla poprvé u mně doma. Na smíchov jsme došli pěšky. Sice to nebylo nejblíž, ale čas jsme měli. V Futurum Music Baru jsem do té doby ještě nebyl. Měli tam jen staráč a plzeň a ne zrovna levně. Ale přišli jsme poslouchat koncert ne pít. Dvě piva a dva cidery mě nezruinovaly. Koncert byl na sezení. Zabrali jsme židle a chvíli po tom co jsme se uadili mi někdo klepal na rameno.\
+Byl to Joel. To bylo příjemný překvápko. Vypadlo z něj, že pár let zpátky jsem mu Bena doporučil já. To mě zahřálo u srdíčka.\
+Koncert byl parádní, byť sólo. Kapelu nechal v Americe. Bylo vidět, že roky covidu ho jako hudebníka hodně omezily a že měl radost z toho, že zase může koncertovat. Většinu písní jsem znal, ale přidal i nejakou novou z muzikálu na kterém dělal.
+
 <a href="../images/2021_november/28_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/28_1.jpg"></a>
+
+Zpátky jsme jeli tramvají a Eva u mě přespávala. Já jsem se natáhl na matraci na zemi a přenechal Evě postel.
