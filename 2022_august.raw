@@ -11,7 +11,9 @@
 - [9.8. V Čechách utrácím mnohem víc než ve Skandinávii](#98-v-čechách-utrácím-mnohem-víc-než-ve-skandinávii)
 - [10.8. Petr s Robinem](#108-petr-s-robinem)
 - [11.8. V práci sám](#118-v-práci-sám)
-- [12.8.](#128)
+- [12.8. Se sklem z deště pod okap](#128-se-sklem-z-deště-pod-okap)
+- [13.8. Sbohem Ubuntu](#138-sbohem-ubuntu)
+- [14.8. Výlet po pivovarech s Nováčkovic kamarády](#148-výlet-po-pivovarech-s-nováčkovic-kamarády)
 
 ### 1.8. Zpátky do práce
 
