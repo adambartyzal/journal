@@ -143,7 +143,7 @@ Cestou jsem si v albertu koupil snídani a v Kralíně mi došlo, že tam budu c
 Kvůli absťáku jsem se ale cítil grogy. Cítil jsem to i při plavání. Kilometr mi dal zabrat. Doma jsem s sebou sekl na gauč a koukal na Stranger Things.\
 Večer mi Marťa s Olou přinesly klíče od jejího bytu, abych jí mohl zalít kytky až tu nebude.
 
-### 12.8. 
+### 12.8. Se sklem z deště pod okap
 
 Spánkový expert říká, že dospat ztrátu nejde. Já měl ale ráno pocit, že aspoň trochu jsem se tomu přiblížil. Ještě jedna noc pořádného spánku a možná tu nekonečnou únavu porazím, přišlo mi.\
 Francouzi nakonec napsali, že když připojili kabely stanice začala fungovat. Koho by to totiž napadlo, že musí mít zapojené kabely. Ale co už. Aspoň jsem nemusel nic dělat. Pokračoval jsem tedy v testování a opravách desek. Tentokrát z Lahti.\
