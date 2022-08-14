@@ -54,7 +54,10 @@ Skrz calligraphy park jsme se dostali až ke galerii moderního umění, kde mě
 <a href="../images/2018_april/1_3.jpg" target="_blank"><img src="../images/thumbnails/2018_april/1_3.jpg"></a>
 
 Poté co jsme se s ní rozloučili, jsme se odebrali k stanici uBike. Bylo třeba ale ještě navštívit záchody, a tak jsme na můj pokyn zašli do místní školy, kde i přes to, že byla neděle, bujel sportovní duch a záchody byly otevřené.\
-Na uBike jsme projeli snad 5 km na druhý noční market. Splavení jsme odevzdali kola u malého chrámu, který disponoval vodometem. Byl ale rozbitý a nestudenější voda měla tak 40°C. Ale lepší než nic. Skrz market jsme se dostali ke Couchsurferce, která Jardu ubytuje. Procházeli jsme trh, a nakonec domluvila bydlení u jejího kamaráda i nám. Na trhu jsem si dal něco jako sladké brambory. Hlad zalepily celkem rychle a byly tak sladké, že dojíst je mi dělalo problém. Když už jsme měli marketu dost, nasedli jsme na autobus. Objevil jsem, že jede stejným směrem jako ten, ve kterém jsem byl v 台中 poprvé. Ale jeli jsme ještě dále. Tam jsme přesedli na skútry a klučina Benedikt, u kterého jsme přespávali, mě hodil až k němu domů skrz garáž.\
+Na uBike jsme projeli snad 5 km na druhý noční market. Splavení jsme odevzdali kola u malého chrámu, který disponoval vodometem. Byl ale rozbitý a nestudenější voda měla tak 40°C. Ale lepší než nic. Skrz market jsme se dostali ke Couchsurferce, která Jardu ubytuje. Procházeli jsme trh, a nakonec domluvila bydlení u jejího kamaráda i nám. Na trhu jsem si dal něco jako sladké brambory. Hlad zalepily celkem rychle a byly tak sladké, že dojíst je mi dělalo problém. Když už jsme měli marketu dost, nasedli jsme na autobus. Objevil jsem, že jede stejným směrem jako ten, ve kterém jsem byl v 台中 poprvé. Ale jeli jsme ještě dále. Tam jsme přesedli na skútry a klučina Benedikt, u kterého jsme přespávali, mě hodil až k němu domů skrz garáž.
+
+<a href="../images/2018_april/1_4.jpg" target="_blank"><img src="../images/thumbnails/2018_april/1_4.jpg"></a>
+
 Večer na pokoji jsem ještě sepsal ceduli na další den, dal si sprchu a po chvíli povídání si s Benediktem jsme šli spát. 
 
 ### 2.4. Pondělí - Za Lamem
@@ -64,7 +67,10 @@ Po ulici kolem FamilyMartu, jsme zahlédli asi dvě snídárny. Popošli jsme je
 S pomocí Google překladače jsme si objednali 蛋餅 a čaj. Filip rovnou dvoje. Na mobilu jsem našel stop plác a po dojedení jsme se tam pěšky vydali. Byla to cesta tak na půl hodiny. A bylo docela horko.\
 Na daném místě jsme vytáhli cedule připravené den předtím a postavili se na krajnici.\
 Úspěch přišel asi po dvanácti minutách. Cápek, který jel jen do centra 台中 nám zastavil, s tím že to není dobré místo, ale vzal nás. A nakonec dospěl k názoru, že má čas a hodil nás až před univerzitu v 嘉義. Takže jsme k Lamovi přijeli ještě dřív, než čekal.\
-Vyzvednul nás na svém černém sportovním, ale podobně jako mém, docela starém kole. Společně jsme se vydali do ulice před univerzitou, kde se sdružovalo několikero obchodů s jídlem. Lam se rozhodl ukázat nám svou kulturu a vybral vietnamskou restauraci. Sám si dal něco jako maso a zeleninu, ne až tak lišící se od Taiwanského bufetu. My jsme si dali phở. Ale zřejmě jsme si objednali něco špatně, neb nám donesli misku s polévkou, ve které bylo kari. Lam sám prý takové jídlo neměl, ale mně chutnalo. Byly v něm brambory a zelenina. A kari není nikdy dost.\
+Vyzvednul nás na svém černém sportovním, ale podobně jako mém, docela starém kole. Společně jsme se vydali do ulice před univerzitou, kde se sdružovalo několikero obchodů s jídlem. Lam se rozhodl ukázat nám svou kulturu a vybral vietnamskou restauraci. Sám si dal něco jako maso a zeleninu, ne až tak lišící se od Taiwanského bufetu. My jsme si dali phở. Ale zřejmě jsme si objednali něco špatně, neb nám donesli misku s polévkou, ve které bylo kari. Lam sám prý takové jídlo neměl, ale mně chutnalo. Byly v něm brambory a zelenina. A kari není nikdy dost.
+
+<a href="../images/2018_april/2_0.jpg" target="_blank"><img src="../images/thumbnails/2018_april/2_0.jpg"></a>
+
 Po jídle jsme se šli ubytovat k Lamovi na kolej. Univerzita to byla vskutku obrovská. Podle Lama jedna z největších na Taiwanu. Ale poněkud vylidněná, pravděpodobně kvůli blížícím se prázdninám.\
 Došli jsme až na kolej, kde jsme se dozvěděli, kde je ukrytá karta, jak se dostat dovnitř a kde nechávají kluci klíče. Pokoj měli prostorný, čtvercový a plný bordelu. Odložili jsme věci, ale Lam musel ještě do laboratoře, a tak nám doporučil nám výlet na farmu s ananasy a kumquaty, což je něco jako mandarinka.
 
