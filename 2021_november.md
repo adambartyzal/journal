@@ -1,4 +1,4 @@
-## [Listopad](2022.md)  <!-- omit in toc --> 
+## [Listopad](2021.md)  <!-- omit in toc --> 
 
 - [13.11. Na Harlej](#1311-na-harlej)
 - [15.11. Plánování](#1511-plánování)
@@ -10,12 +10,18 @@
 - [21.11. Výled z baziliky svatého Petra](#2111-výled-z-baziliky-svatého-petra)
 - [22.11. 40 kilometrů pěšky](#2211-40-kilometrů-pěšky)
 - [23.11. Domů](#2311-domů)
+- [26.11. 7 divů světa](#2611-7-divů-světa)
 - [27.11. Do Pekla a zpět](#2711-do-pekla-a-zpět)
 - [28.11. Na Bena Caplana](#2811-na-bena-caplana)
 
 ### 13.11. Na Harlej
 
+Karel se ozval zda nechci na Harlej. Co si budem, nebyla by to moje první volba, ale Karla vídám málo a prý měl ten lupen navíc, takže jsem radostně souhlasil. Hráli ve fóru Karlín. Jel jsem tedy na kole a nechal ho v práci. Potkali jsme se před vstupem a na to že tam občas bývají nekonečné fronty jsme se dovnitř dostali docela rychhle. Vlastně tak rychle, že mi ani nedošlo, že bychom si mohli hodit bundy k nám a neplatit za šatnu, která byla napálená. Ven nás už ale pustit nechtěli.\
+Na předkapelu jsme byli nahoře a kecali. Na Harlej jsme sešli dolů do kotle.
+
 <a href="../images/2021_november/13_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/13_1.jpg"></a>
+
+Překvapivě mě to hodně bavilo. Texty jsem znal skoro ke každé druhé písni a s davem jsem si docela zazpíval. Hlavně bylo vidět, že kapelníky to baví. Koncet to totiž byl odložený o nejmíň rok, ne-li víc kvůli covidu a fanoušci i kapela byli plní naakumulované pařící energie.
 
 ### 15.11. Plánování
 
@@ -215,6 +221,17 @@ Na žádost káva a pečivo jsem dostal do tmava propečený corisant s marmelá
 
 V rámci pracovního cvičení jsem se ještě zastavil u venkovní posilovny a chvíli dipoval a přitahoval se. Málem jsem díky tomu nestihl autobus. Tedy.. předpokládaný čas odjezdu autobusu. Nezdálo se, že by řidiče hodiny nějak trápily. Vyrazil později a ještě se zasekl v dopravě v centru. Ale letadlo jsem stihl bez potíží.\
 Přelet přes Alpy byl bez váhání jeden z nejhezčích letů, jaké jsem zažil. Zasněžené špičky hor nasvícené sluncem sice nešly hezky vyfotit, ale očima jsem je hltal co to šlo.
+
+### 26.11. 7 divů světa
+
+Po dovolené na teambuilding. Pln zážitků jsem odpo zamířil na vlak do Vysočan, kam z Karlína vyráželo kolegové z Vývoje a v opačném směru Výroba z Kyjí. Vysočanské náraží bylo spíš rozkopané, než rozestavěné a promotat se skrz provizorní cestičky byl docela oříšek. Napsal jsem ostatním ať kopnou do vrtule, jinak nám to frnkne.\
+Mimopražská akce obou našich týmů to vlastně byla asi první svého druhu. Plán zněl:
+
+- Dorazit do Hradce a vypít sud, který Jirka pořídil
+- Ráno vyrazit na pěší výlet skrz Peklo až do Náchoda
+- Vlakem se vrátit a jít na bowling s dalšími členy, kteří nejsou výletní, ale jsou pro družení se (čti Martínkovic)
+
+
 
 ### 27.11. Do Pekla a zpět
 
