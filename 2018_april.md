@@ -58,7 +58,7 @@ Na uBike jsme projeli snad 5 km na druhý noční market. Splavení jsme odevzda
 
 <a href="../images/2018_april/1_4.jpg" target="_blank"><img src="../images/thumbnails/2018_april/1_4.jpg"></a>
 
-Večer na pokoji jsem ještě sepsal ceduli na další den, dal si sprchu a po chvíli povídání si s Benediktem jsme šli spát. 
+Večer na pokoji jsem ještě sepsal ceduli na další den, dal si sprchu a nepříliš dlouhém povídání si s Benediktem jsme šli spát. 
 
 ### 2.4. Pondělí - Za Lamem
 
@@ -70,6 +70,7 @@ Na daném místě jsme vytáhli cedule připravené den předtím a postavili se
 Vyzvednul nás na svém černém sportovním, ale podobně jako mém, docela starém kole. Společně jsme se vydali do ulice před univerzitou, kde se sdružovalo několikero obchodů s jídlem. Lam se rozhodl ukázat nám svou kulturu a vybral vietnamskou restauraci. Sám si dal něco jako maso a zeleninu, ne až tak lišící se od Taiwanského bufetu. My jsme si dali phở. Ale zřejmě jsme si objednali něco špatně, neb nám donesli misku s polévkou, ve které bylo kari. Lam sám prý takové jídlo neměl, ale mně chutnalo. Byly v něm brambory a zelenina. A kari není nikdy dost.
 
 <a href="../images/2018_april/2_0.jpg" target="_blank"><img src="../images/thumbnails/2018_april/2_0.jpg"></a>
+
 
 Po jídle jsme se šli ubytovat k Lamovi na kolej. Univerzita to byla vskutku obrovská. Podle Lama jedna z největších na Taiwanu. Ale poněkud vylidněná, pravděpodobně kvůli blížícím se prázdninám.\
 Došli jsme až na kolej, kde jsme se dozvěděli, kde je ukrytá karta, jak se dostat dovnitř a kde nechávají kluci klíče. Pokoj měli prostorný, čtvercový a plný bordelu. Odložili jsme věci, ale Lam musel ještě do laboratoře, a tak nám doporučil nám výlet na farmu s ananasy a kumquaty, což je něco jako mandarinka.
@@ -489,7 +490,7 @@ Večer jsme ve vedlejším pokoji koukali na film Věc. Ležel jsem v hamaku, a
 
 ### 21.4. Sobota - Na kole
 
-Ráno jsem se vzbudil a rozhodl, že dneska budu jezdit na kole. Po chvíli koukání do map a snídani, jsem se začal balit. Když tu jsem objevil, že nemám ARC a ISIC. Protože v kapse kalhot je jen EasyCard. To trochu vrazilo klín do mých plánů, neboť jsou to snad jediné dvě karty, které opravdu potřebuji. No a tak jsem je začal hledat. 
+Ráno jsem se vzbudil a rozhodl, že dneska budu jezdit na kole. Po zběžném koukání do map a snídani, jsem se začal balit. Když tu jsem objevil, že nemám ARC a ISIC. Protože v kapse kalhot je jen EasyCard. To trochu vrazilo klín do mých plánů, neboť jsou to snad jediné dvě karty, které opravdu potřebuji. No a tak jsem je začal hledat. 
 Po necelé hodině jsem došel k názoru, že na pokoji nejsou. Ba, že nejsou ani u kluků vedle. Paráda. A tak začalo sledování včerejška.\
 Na kole jsem se vydal k BigCity. To mi zabralo skoro hodinu. Tam mi na informacích řekli, že ISIC někoho jiného z 中華 mají, ale můj ne. Paní byla dokonce tak hodná, že zavolala na dopravní společnost, dala jim mé číslo, ale když mi volali zpátky, ozvala se čínština a já se snažil najít někoho kdo mi to přeloží. Dřív, než jsem někoho takového objevil, paní to položila. Ale pak mi došlo, že říkala několikrát za sebou 沒有. Takže nic moc.\
 Ve chmurném rozpoložení jsem se na kole vydal na pobřeží a bezcílně bloumal po 新竹 a Zhubenu.\
@@ -609,7 +610,7 @@ V noci jsem se několikrát probudil. Podivně mě bolela záda a nemohl jsem na
 Pořádně jsem usnul až nad ránem. A poté jsem odkládal vstávání až někdy do deseti. Chvíli jsem si četl 40 dní do Jeruzaléma a potom se konečně odhodlal slézt ze žebříku a uvařit si vločky. Chvilka psaní na počítači doplnila další část mého deníku a poté jsem se věnoval chvilku čínštině. Kali se vzbudil po jedenácté, respektive, vzbudil se, protože jsem klopkal na jejich dveře.\
 Danovi to trvalo ještě o hodinu déle. Ale když konečně vstal, byl čas oběda. Po domluvě a čekání na Filipa, který se z nejasných důvodů rozhodl oholit se, jsme vyrazili do franšízy na nudle. Kluci si ještě objednali knedlíčky, ale já jsem měl velkou misku nudlí a ta byla jídla s až kam.\
 Skoro jsem to nespořádal. Po jídle jsme diskutovali o Kimovi, uranu, válce a podobně.\
-Kali vyrazil na stop a my se vrátili na Univerzitu pro věci. Když jsme se konečně vykopali ven, přišel na mě průjem. Ve FamilyMartu jsem sice vyřešil akutní situaci, ale na stopovacím místě to na mě přišlo znovu. Chvíli jsem se zmítal v křeči, ale rozhodl jsem se ve výletu pokračovat. Po chvíli nám z as zastavili dvě paní. Maminka s dcerkou. Škoda jen že dcerce táhlo na padesát.\
+Kali vyrazil na stop a my se vrátili na Univerzitu pro věci. Když jsme se konečně vykopali ven, přišel na mě průjem. Ve FamilyMartu jsem sice vyřešil akutní situaci, ale na stopovacím místě to na mě přišlo znovu. Chvíli jsem se zmítal v křeči, ale rozhodl jsem se ve výletu pokračovat. Zanedlouho nám z as zastavili dvě paní. Maminka s dcerkou. Škoda jen že dcerce táhlo na padesát.\
 Anglicky toho moc nenapovídaly, ale maminka se prý na stará kolena učí, což setsakra cením.\
 Hodili nás do 大溪, což nebylo tak daleko od 桃園, ale pořád ještě dost daleko na pěší cestu do Decathlonu. Tak 11 kilometrů. Autobus kolem náš profrčel s řidičem mávajícím rukama, jak kdyby se o něj zrovna pokoušel záchvat.\
 Pár vteřin na to, nám ale zastavil klučina s jeho přítelkyní, protože v mé ruce zahlédl ceduli 火車. Jede prý kolem nádraží, zatímco daný autobus nikoli. Uměl docela obstojně anglicky, ale moc nepochopil, proč chceme na vlak. Moc jsme mu to nevysvětlili, to je pravda.\
