@@ -15,6 +15,7 @@
 - [13.8. Sbohem Ubuntu](#138-sbohem-ubuntu)
 - [14.8. Výlet po pivovarech s Nováčkovic kamarády](#148-výlet-po-pivovarech-s-nováčkovic-kamarády)
 - [15.8. V kyjích jsou neštastní](#158-v-kyjích-jsou-neštastní)
+- [16.8. Plánujeme výlet](#168-plánujeme-výlet)
 
 ### 1.8. Zpátky do práce
 
@@ -191,3 +192,10 @@ Něšťastní z toho, že jsme neypátrali proč motorovým deskách odchází p
 Taky jsme našli alespoň vágní spojitost mezi odešlými procesory a odešlými pas senzory. V polovině kol, kde ebmc shořela PAS nefungoval. Zda nefungoval už předtím, než k incidentu došlo je ale záhadou, protože z nějakého důvodu v Kyjích senzory netestovali.\
 V podstatě v momentu, když jsem se chystal odejít jsem našel v nabíjecím boxu baterii, která se chovala značně nestandardně. Hlásila overvoltage, ale součet napětí na článích byl pouze 35 V. Pak se na ní BMS vypnula úplně. V sudu na baterie už se válelo 6 vyřazených baterií. Mají to tam fakt na salámu klucí.
 
+### 16.8. Plánujeme výlet
+
+tlčítka z číny\
+Pěšky z karlína\
+Za ondrou\
+pivo v grébovce\
+až do půl jedenýctý
