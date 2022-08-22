@@ -16,6 +16,12 @@
 - [14.8. Výlet po pivovarech s Nováčkovic kamarády](#148-výlet-po-pivovarech-s-nováčkovic-kamarády)
 - [15.8. V kyjích jsou neštastní](#158-v-kyjích-jsou-neštastní)
 - [16.8. Plánujeme výlet](#168-plánujeme-výlet)
+- [17.8. Jedeme na výlet](#178-jedeme-na-výlet)
+- [18.8. Výhledy a puchýře](#188-výhledy-a-puchýře)
+- [19.8. Cesta je fajn](#198-cesta-je-fajn)
+- [20.8. Déšť nám cestu krátí](#208-déšť-nám-cestu-krátí)
+- [21.8. Pít v neděli už od rána](#218-pít-v-neděli-už-od-rána)
+- [22.8. Hledání chyby, která neexistuje je na dlouho](#228-hledání-chyby-která-neexistuje-je-na-dlouho)
 
 ### 1.8. Zpátky do práce
 
@@ -198,4 +204,43 @@ tlčítka z číny\
 Pěšky z karlína\
 Za ondrou\
 pivo v grébovce\
-až do půl jedenýctý
+až do půl jedenácté
+
+### 17.8. Jedeme na výlet
+
+<a href="../images/2022_august/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/17_1.jpg"></a>
+
+### 18.8. Výhledy a puchýře
+
+<a href="../images/2022_august/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_1.jpg"></a>
+
+<a href="../images/2022_august/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_2.jpg"></a>
+
+<a href="../images/2022_august/18_3.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_3.jpg"></a>
+
+<a href="../images/2022_august/18_4.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_4.jpg"></a>
+
+<a href="../images/2022_august/18_5.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_5.jpg"></a>
+
+### 19.8. Cesta je fajn
+
+<a href="../images/2022_august/19_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/19_1.jpg"></a>
+
+<a href="../images/2022_august/19_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/19_2.jpg"></a>
+
+<a href="../images/2022_august/19_3.jpg" target="_blank"><img src="../images/thumbnails/2022_august/19_3.jpg"></a>
+
+### 20.8. Déšť nám cestu krátí
+
+<a href="../images/2022_august/20_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/20_1.jpg"></a>
+
+<a href="../images/2022_august/20_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/20_2.jpg"></a>
+
+### 21.8. Pít v neděli už od rána
+
+<a href="../images/2022_august/21_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/21_1.jpg"></a>
+
+<a href="../images/2022_august/21_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/21_2.jpg"></a>
+
+### 22.8. Hledání chyby, která neexistuje je na dlouho
+
