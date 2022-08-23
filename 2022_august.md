@@ -201,39 +201,32 @@ V podstatě v momentu, když jsem se chystal odejít jsem našel v nabíjecím b
 
 ### 16.8. Plánujeme výlet
 
-tlčítka z číny\
-Pěšky z karlína\
-Za ondrou\
-pivo v grébovce\
-až do půl jedenácté
+Většinu pracovního dne jsem zabil různými testy nových plastových tlačítek z číny a opravdou desky g2 zámku po tom, co jsem tlačítkem sestřelil procesor. Už přes týden mi v Karlíně ležela krosna. Potřeboval jsem jí na výlet do Hor a taky jsem se potřeboval rozchodit. Můj krokový cíl díky ježdění na kole padl na bezmála pět tisíc kroků denně. Po práci jsem tedy sbalil batoh, nadupal ho do krosny a vyrazil na pěší cestu do Vršovic.\
+Ve skupině na messengeru se výlet začínal rýsovat. Navrhl jsem ať se sejdeme a na orionce změnil směr na Mírák, kde jsem vyzvedl Ondru. U Ťamana jsme koupili pivka a šli vstříc Jardovi do Grébovky. Tam jsme pili pivka, kecali, nic moc u toho nevyřešili, ale vlastně nebylo moc co řešit. Ondra chtěl ještě nakupovat, ale když jsme to rozpouštěli, bylo už skoro jedenáct.
 
 ### 17.8. Jedeme na výlet
 
-Manjaro má problém s nějakým linker errorem\
-Vyřešil jsem to potlačením\
-Stejně to nefunguje\
-S Vláďou jsme zjistili, že linker nenahrává do ramky zarovnaně\
-Porada k ničemu, lidi se akorát hádali\
-Na hraně poznání jsem musel pryč\
-K Martě zalít kytly\
-Ten byt opravdu docela voní\
-Na nákup\
-Sbalit\
-Jarda na nádraží\
-Kora líná\
-Jarda pro pivka přišel s Ondrou
+Manjaro mělo problém s nějakým linker errorem. V prvních pracovních hodinách jsem se probíral internetem abych objevil, jak je to možné, když Vláďovi se to neděje a obě naše distribuce by měly mít stejný zdroj balíčků. Nakonec jsem to vyřešil flagem pro potlačení.\
+Překlad sice prošel, ale procesor stejně havaroval do Hard Faultu. S Vláďou jsme zjistili, že linker nenahrává do ramky data zarovnaná na celé bajty. Vlastně žádná z našich binárek fungovala doposavaď spíš náhodou. Strasti vývoje bez OS.\
+Čtrnáctidení porada byla podle mně k ničemu, lidi se akorát hádali o blbostech a obviňovali se navzájem z toho, že v Kyjích je bordel s balíky.\
+Po poradě jsem na na hraně poznání jsem musel vyrazit pryč. Kdybych se v kódu vrtal déle, nestihl bych Martě zalít kytky a sbalit se.\
+Měla pravdu. Její byt opravdu docela voní. Převážně je to ale aviváž. Pere proti mě excesivně. I u mě to je ale lepší než to bývalo. Oblečení mi taky hezky voní a primalex ze zdí už docela vyčichl.\
+V rychlosti jsem nakoupil a sbalil se ještě ve větším spěchu. Minutku před odjezdem vlaku jsem přiběhl na nádraží a potkal Jardu. Kora ve vlaku línala a chlupy byly úplně všude. Na hlaváku Jarda skočil pro pivka z Billy se vrátil i s Ondrou.
 
 <a href="../images/2022_august/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/17_1.jpg"></a>
 
+Cesta to byla dlouhá. Prestupovali jsme v Děčíně a stihl jsem vyprázdnit dvoulitrového Bráníka. Deny s Kolínem už na nás čekali v nádražce v Jedlové. Pivko ještě točili, takže jsme si sedli a skoro se plácali po zádech, že jsme výlet nezazdili a opravdu vyrazili.\
+Po pivu už po tmě jsme vyrazili podle mapy k přístřešku na kopci nad Jedlovou a v přístřešku jsme ještě kecali a koštovali pálenku a whisku.
+
 ### 18.8. Výhledy a puchýře
 
-Kora nás v noci párkrát vzbudila a ráno už byla čilá tak, že někdy po sedmé už jsme se ze spacáku vysoukali a dali do snídaně. Jardův hummus, Ondry chleba, moje káva a pár dalších věcí. Deny si dala keto drink, u kterého jsem měl trochu pochybnosti, že jí dodá dost energie na výstup do hor. Ale kdo ví?\
+Kora nás v noci párkrát vzbudila a ráno už byla čilá tak, že někdy po sedmé už jsme se ze spacáku vysoukali a dali do snídaně. Jardův hummus, Ondry chleba, moje káva a pár dalších věcí. Deny si dala keto drink, u kterého jsem měl trochu pochybnosti, že jí dodá dost energie na výstup do hor. Ale kdo ví?
 
 <a href="../images/2022_august/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_1.jpg"></a>
 
 Věci do báglů, pár štěknutí Kory a na pár kolemjdoucích turistů, lok pálenky a mholi jsme vyrazit jsme na cestu. Rovnou pěkně do kopce.\
 Příroda kolem byla nádherná. Občas teda vykoukla lysina po smrcích napadených kůrovcem, ale úzká cesta plná zeleně evokovala kraj ze středozemně. První výhled do krajiny nám ukázal hrad Česnek. Ne že by se tak jmenoval, ale bylo to dobré jméno pro náhodnou zříceninu v dáli.\
-Most přes silnici, další dokopec a po chvíli cesty jsme byli na hranicích s německem. Vtípky na to, žě ti náckové od vedle mají trávu zelenejší padaly s nebývalou razancí. Někdo kdo bere věci vážně, by to asi nezvládl. Ale Kolín je veselá kopa, Deny od rány a my stará škola.\
+Most přes silnici, další dokopec a po chvíli cesty jsme byli na hranicích s německem. Vtípky na to, žě ti náckové od vedle mají trávu zelenejší padaly s nebývalou razancí. Někdo kdo bere věci vážně, by to asi nezvládl. Ale Kolín je veselá kopa, Deny od rány a my stará škola.
 
 <a href="../images/2022_august/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_2.jpg"></a>
 
@@ -252,7 +245,7 @@ A tak jsme se hádali, šli a potili se. Bylo totiž horko, které nás nutilo d
 Voda nám ale docházela. Ondra naplánoval přejít Německem a vrátit se do Vesnice v Čechách a tam u nějakého stavení vodu dopustit.\
 U jeskyně, do které létaly mouchy (podle Ondry na mrtvolu) jsme si dali sváču, dopili skoro všechnu vodu a vyrazili do pomalu zvedajícího se kopce, který u hranic přešel v červený cyklo trail.\ 
 Ve vsi jsme našli hospodu vedenou Němci, která už měla po zavíačce. Vodu nás ale nechali dopustit a nakonec i čtyři pivka k tomu. Kora dostala ňaminy po pejskovi, který mMajitelce umřel. Kolín oprášil svou Němčinu a nad pivem jsme koukali na Německé tuisty, co ihned po příchodu rozpálili grill petrolejem. Efektivní, ale hnusný způsob.\
-Z hospody už jsme plánovali ujít jen kilometr dva a utábořit se. Cesta byla ale strmá a všude kolem les, který nešel ruku v ruce s Denyinou fóbií z mravenců. Rozhodli jsme tedy, že přejdeme horu a na její opačné straně najdeme lepší místo se studánkou.\
+Z hospody už jsme plánovali ujít jen kilometr dva a utábořit se. Cesta byla ale strmá a všude kolem les, který nešel ruku v ruce s Denyinou fóbií z mravenců. Rozhodli jsme tedy, že přejdeme horu a na její opačné straně najdeme lepší místo se studánkou.
 
 <a href="../images/2022_august/18_5.jpg" target="_blank"><img src="../images/thumbnails/2022_august/18_5.jpg"></a>
 
@@ -261,25 +254,25 @@ Rozbili jsme stany a hamaku. Počasí věštilo déšť, takže jsem natáhl i s
 
 ### 19.8. Cesta je fajn
 
-Nepršelo. To je po stavění stříšky vždycky demotivující. Ale better safe then sorry! K snídani tentokrát přišly na řadu vločky. Každý jsme si nesli jiný mix. Kdyby je Ondra nechtěl jíst teplé, neztratil by v lese bombu. Fakt je ale, že já jsem z teplé vody dělal kávu, takže možná by studené vlořky nic nevřešily. Snad tam nevybuchne a nezapálí Lužické hory. Hřensko docela stačilo.\
-Stezka Českem nás vedla dál po hranici. Nalevo od cesty byly patníky značící Německo napravo patníky České. Byli jsme vlastně takoví piráti v mezinárodních lesích.\
-Míjeli jsme Němky se psem, hromady dříví, dřevaře a studánku u které Jarda nechal vodítko. Kora tak později musela být na lano z mé hamaky.\
-V Petrovicích jsme si chtěli dát brzký oběd. Běda ale, Petrovice neměli hospodu. Mapy.cz nás tahaly za nos. V domě označeném jako hospoda sice vařila skupina Ukrajinek, ale ne pro nás. Dokonce nám ani nechtěli napustit vodu. Alespoň tak to vypadalo po promluvě té nepříjemné vůdkyně. Další ale byly v pohodě a ukázaly nám kohout o kus dál, ze kterého tekla voda, který prý je lepší než u nich, protože je bez chlórů. Prý tam sami berou vodu na vaření.\
-S kolínem jsme tedy naplinili všechny naše láhve a vrátili se k ostatním.\
+Nepršelo. To je po stavění stříšky vždycky demotivující. Ale better safe then sorry! K snídani tentokrát přišly na řadu vločky. Každý jsme si nesli jiný mix. Kdyby je Ondra nechtěl jíst teplé, neztratil by v lese bombu. Nutno ale podotknout, že já jsem z teplé vody dělal kávu, takže možná by studené vločky stejně nic nevřešily. Snad tam nevybuchne a nezapálí Lužické hory. Hřensko docela stačilo.\
+Stezka Českem nás vedla dál po hranici. Nalevo od cesty byly patníky značící Německo napravo patníky České. Byli jsme vlastně takoví piráti v mezinárodních lesích. Kluci vtipkovali, že čmoudi v prostoru mezi hranicemi nemají žádná práva.\
+Míjeli jsme Němky se psem, hromady dříví, dřevaře a studánku u které Jarda nechal vodítko. Kora tak později musela být přivázaná na lano z mé hamaky.\
+V Petrovicích jsme si chtěli dát brzký oběd. Běda ale! Petrovice neměli hospodu. Mapy.cz nás tahaly za nos. V domě označeném jako hospoda sice vařila skupina Ukrajinek, ale ne pro nás. Dokonce nám ani nechtěli napustit vodu. Alespoň tak to vypadalo po promluvě jejich ne příliš příjemné vůdkyně. Ostatní ale byly v pohodě a ukázaly nám kohout o kus dál, ze kterého tekla voda. Ta měla údajně být lepší než u nich v domě, protože byla bez chlórů. Říkali, že tam sami berou vodu na vaření.\
+S Kolínem jsme tedy naplinili všechny naše láhve a vrátili se k ostatním.
 
 <a href="../images/2022_august/19_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/19_1.jpg"></a>
 
-Cesta pokračovala po červené. A tak jsme z nějakého tajemného důvodu šli po modré. V lese jsme si dali místo oběda sváču a rozhodli se, že do reštiky dojdeme na večeři. Nabídka ale byla omezená. Buď mega drahá hospoda, nebo hladové okno s pivkem a párkem v rohlíku. Inu, okno vedlo a finální rozhodnutí jsme se rozhodli udělat na místě.\
-Do té doby jsme si užívali cestu lesem kolem kamenitých útvarů a skal vyčnívajících nad špičky stromů. Červenou z ničeho nic přerušila nově vysázená školka. Někdo na strom dokonce nasprejoval směr obcházení. Takovou úpravu jsem já i Ondra viděli poprvé.
+Cesta pokračovala po červené. A tak jsme z nějakého tajemného důvodu šli po modré a obloukem se vraceli. V lese jsme si dali místo oběda sváču a rozhodli se, že do reštiky dojdeme na večeři. Nabídka ale byla omezená. Buď ultra drahá hospoda, nebo hladové okno s pivkem a párkem v rohlíku. Inu, okno vedlo a finální rozhodnutí jsme se rozhodli udělat na místě a do té doby jsme si užívali cestu lesem kolem kamenitých útvarů a skal vyčnívajících nad špičky stromů.\
+Červenou z ničeho nic přerušila nově vysázená školka. Někdo na strom dokonce nasprejoval směr obcházení. Takovou úpravu jsem já i Ondra viděli vůbec poprvé.
 
 <a href="../images/2022_august/19_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/19_2.jpg"></a>
 
-Od výhledu jsme sestupovali prudce z kopce. Byla to značná nálož na kolena a kdybych si nenašel dva klacky jako oporu, tutově bych skončil jako dřevák. Pod kopcem jsme si odpočinuli a poté přešli louku, za kterou se nacházela vesnice.
+Od výhledu jsme sestupovali prudce dolů z kopce. Byla to značná nálož na kolena a kdybych si nenašel dva klacky jako oporu, tutově bych skončil jako dřevák. Pod kopcem jsme si odpočinuli a poté přešli louku, za kterou se nacházela vesnice.
 
 <a href="../images/2022_august/19_3.jpg" target="_blank"><img src="../images/thumbnails/2022_august/19_3.jpg"></a>
 
-U Dennyho to bylo fajn. Párek v rohlíku byl z dobrých párků. Pivko bylo natočené dobře. Záchod taky měli a Denny sám byl docela pohodář. Když jsme chtěli napustit vodu, poslal nás na zahradu, kde byli dva obří psi, kteří si ale spíš chtěli hrát, než že by něco hlídali.\
-Akorát pro Deny toho Danny moc neměl. Musela počkat na večeři po utáboření se. To jsme plánovali o pár kilometrů dál na místě se studánkou. Mapa nás ale opět zradila. Studánka byla, ale byla na křižovatce dvou asfaltových cest. O pár set metrů dál do kopce bylo místo lepší. Cedule u chat ale stanování zakazovaly. Ukrlyli jsme se tedy ještě o trochu dál a opět postavili přístřeší. Počasí se totiž mělo zhoršit. A tentokrát jsem předpovědi věřil.\
+U Dennyho to bylo fajn. Párek v rohlíku byl z kvalitních párků, pivko bylo dobře natočené a jak zpívá Landa, měli čistý záchody a to mám rád. Navíc Denny sám byl docela pohodář. Když jsme chtěli napustit vodu, poslal nás na zahradu, kde byli dva obří psi, kteří si ale chtěli spíš hrát, než že by tam něco hlídali. Akorát pro Deny toho Danny moc neměl. Musela počkat na večeři po utáboření se. To jsme plánovali o pár kilometrů dál na místě se studánkou.\
+Mapa nás ale opět zradila. Studánka byla, ale byla na křižovatce dvou asfaltových cest. O pár set metrů dál do kopce bylo místo lepší. Cedule u chat ale stanování zakazovaly. Ukryli jsme se tedy ještě o trochu dál a opět postavili přístřeší. Počasí se totiž mělo zhoršit a tentokrát jsem předpovědi opravdu věřil. Déšť bylo cítit ve vzduchu.\
 K večeři jsme měli kuskus a tuňákem a po jídle jsme si povídali o strastech sexuálního života.
 
 ### 20.8. Déšť nám cestu krátí
@@ -289,37 +282,37 @@ Zbytky vloček a chlebu, poslední kafe a postávání u ohně, dokud nebylo opr
 
 <a href="../images/2022_august/20_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/20_1.jpg"></a>
 
-Opláštěnkovaní jsme vyrazili kratší trasou na vlak. Vody už jsme měli taky jen poskrovnu. Cestou jsem si s Kolínem povídal o zážitcích ze zkušky, z hodin klavíru a koncertování. Scházeli jsme další kopce dolů, což jsem opět cítil v kolenou. Ale nebyl jsem jediný, kdo cítil limity těla. Deny už byla unavená hodně. Měla na houby boty. Asi ještě víc na houby než moje sandále. Ty sice nehřály, ale měly dobrou podrážku. Její stříbrné boty z budoucnosti se hodily spíš na asfalt.
+Opláštěnkovaní jsme vyrazili kratší trasou na vlak. Vody už jsme měli taky jen poskrovnu. Cestou jsem si s Kolínem povídal o zážitcích ze ZUŠky, z hodin klavíru a koncertování. Scházeli jsme další kopce dolů, což jsem opět cítil v kolenou. A nebyl jsem jediný, kdo cítil limity těla. Deny už byla unavená hodně. Měla na houby boty. Asi ještě víc na houby než moje sandále. Ty sice nehřály, ale měly dobrou podrážku. Její stříbrné boty z budoucnosti se hodily spíš na asfalt.
 
 <a href="../images/2022_august/20_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/20_2.jpg"></a>
 
-Došli jsme na nádraží a než přijel vlak, dali si partičku karetních Monopolů. Dráhy měly zpožední, kartu nebral, protože prý nejsme v Kauflandu.\
-V Liberci jsme nakoupili v Lidlu a došli k Deny a Kolínovi domů, kde jsme si dali těžce zaslouženou sprchu. Nohy jsem si musel vydrhnout kartáčem. Deny připravila kuře se zelím a s brambory a výbornou polévku s knedlíčky.\
-Povečeřeli jsme a poté Deny přišla s plánem vyrazit na Bena Cristovaa do parku, kde měl hrát zadarmo. Obklopen fandy bizáru, řekl jsem si, že to bude fajn zážitek. Ondra mi chtěl dát parkuku a vydávat mě za Bena, prý jsem dost čmoud. Ale po Milanovkách jsem opravdu netoužil. A že jich tam bylo. Nahrávajících na instagramy, s rovnátky a zpívajících jeho falešné a tupé texty. Překvapila mě ale kapela se kterou hrál. Táhla ho nahoru, takže je poslal pryč a pokračoval jen s beatem, čímž si podle mě značně uškodil.
+Došli jsme na nádraží a než přijel vlak, stihli jsme partičku karetních Monopolů. Dráhy měly zpožední a průvodčí kartu nebral, protože "Prý nejsme v Kauflandu".\
+V Liberci jsme nakoupili v Lidlu a došli k Deny a Kolínovi domů, kde jsme si dali těžce zaslouženou sprchu. Trochu zkravavené a naprosto černé nohy jsem si musel vydrhnout kartáčem.\
+Deny připravila kuře se zelím a s brambory a výbornou polévku s knedlíčky. Povečeřeli jsme a poté Deny přišla s plánem vyrazit na Bena Cristovaa do parku, kde měl hrát zadarmo. Obklopen fandy bizáru, řekl jsem si, že to bude fajn zážitek. Ondra mi chtěl dát parkuku a vydávat mě za Bena, prý jsem dost čmoud. Nicméně po Milanovkách jsem opravdu netoužil. A že jich tam bylo. Nahrávajících stories na instagramy, s rovnátky a falešně zpívajících jeho tupé texty. Překvapila mě ale kapela se kterou hrál. Táhla ho nahoru. Zřejmě vycítil, že jsou lepší než on, takže je poslal pryč a pokračoval jen s beatem.
 
 <a href="../images/2022_august/20_3.jpg" target="_blank"><img src="../images/thumbnails/2022_august/20_3.jpg"></a>
 
-Deny zapařila na Bomby. Ondra choval jako skalní fanoušek já jen kroutil hlavou. Jarda ho začal odszuovat, když objevil, že není pako, ale je vlastně dost chytrý a úspěšný hned v několika oborech. Hudbu dělá jen protože sype, ne protože by v ní byl dobrý.\
-Večer jsme dali ještě dvoje Monopoly. V první jsem hrozně dostal a tak jsem změnil strategii a pomáhal ostatním, čímže jsem úplně rozbil dynamiku hry, kde se ostatní snažili sobě škodit.
+Deny zapařila na Bomby. Ondra se choval jako skalní fanoušek já jen kroutil hlavou. Jarda Bena začal odsuzovat. Objeviltotiž, že není pako, ale že je dost chytrý a úspěšný hned v několika oborech. Hudbu dělá jen protože sype, ne protože by v ní byl dobrý.\
+Večer jsme dali ještě dvoje Monopoly. V první jsem hrozně dostal a tak jsem změnil strategii a pomáhal ostatním, čímž jsem úplně rozbil dynamiku hry, kde se všichni snažili ostatním škodit.
 
 ### 21.8. Pít v neděli už od rána a odpoledne jít do pivovaru
 
 Už tomu bylo čtrnáct dní od nedělního rána na Radostíně, kde jsem den začal červeným vínem. Inu pít v neděli od rána podle mě má něco do sebe a tak jsem tentokrát začal vínem bílým.\
 Taky jsem si dal k snídani kuře. Deny večer říkala, že by se mělo sníst ale večer jsem neměl hlad. Ostatní si dali vajíčka a párky.\
-Ondra objevil, že abychom stihli bzs, museli bychom kopnout do vrtule. Kdybychom to neudělali byli bychom v Praze po páté. V rychlosti jsme se tedy zbalili a Deny nás hodila na zastávku.\
-Rozloučili jsme se a po něklika minutách nastoupili do autobusu ve kterém byl značně vydýchaný a neklimatizovaný vzduch.
+Ondra objevil, že abychom stihli bus, museli bychom kopnout do vrtule. Kdybychom to neudělali byli bychom v Praze po páté. V rychlosti jsme se tedy sbalili a Deny nás hodila autem na zastávku.\
+Rozloučili jsme se a po několika minutách nastoupili do autobusu ve kterém byl značně vydýchaný a neklimatizovaný vzduch.
 
 <a href="../images/2022_august/21_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/21_1.jpg"></a>
 
 V Mladé Boleslavi jsme zavolali Filipovi, zda nechce na výlet do pivovaru v Dolních Počernicích. Z minulého víkendu jim zbyla kartička s jedním pivem zdarma a navzdory mému očekávání se jen zeptal kdy budeme na Čerňáku a oznámil, že s Anet tam budou pár minut po nás.\
-Ondra se už na další výletění necítil a tak jsme se na Čerňáku rozloučili a společně s Jardou jsme vyrazili vstříc Plechárně, kde jsme měli sraz. Po jízdě autobusem nám vyschlo a tak nám přišel jeden Starosta vhod už tam.\
-Po poslechu Kluse z Wishe, Anet neúspěšné chůzi na chůdách, končící akorát třískou v ruce jsme se vydali na rozhlednu. Dolní Počernice byly totiž příliš blízko a naše nohy si zvykly na víc.\
-Před usazením v pivovaru jsme tak prošli jsme tamější les, okolí rokytky a počernických rybníků.
+Ondra se už na další výletění necítil a tak jsme se na Čerňáku rozloučili a společně s Jardou jsme vyrazili vstříc Plechárně. Po jízdě autobusem nám vyschlo a jeden Starosta nám přišel vhod už tam.\
+Po poslechu Kluse z Wishe, Anetině neúspěšné chůzi na chůdách, končící akorát třískou v ruce jsme se vydali na rozhlednu. Dolní Počernice byly totiž příliš blízko a naše nohy si zvykly na víc.\
+Před usazením v pivovaru jsme tak prošli tamější les, okolí rokytky a počernických rybníků.
 
 <a href="../images/2022_august/21_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/21_2.jpg"></a>
 
-V pivovaru nebylo nejlevněji. Tři pivka a burger z trhaného hovězího mou peněženku zhlehčily o pěti kilo. Ale jak pivo tak jídlo bylo kvalitní. Škoda, že jedno pivo na mě Jarda vylil.\
-Mimo jiné jsme se bavili o mě a Martě. Nováčkovic totiž stále podezřívali, že jsem její záloha, kdyby to s Vildou nevyšlo. Pověděl jsem jim o tom, že jsme si to spolu vyříkali a nikdo nikoho netahá za nos. Jarda se ptal, co bych dělal, kdybyhom spolu byli a ona cituji "Shodila oblečení, vyskočila na kuchyňskou linku, roztáhla nohy a řekla ať jí to udělám teď a tady." To mě hodně pobavilo. A nelhal jsem, když jsem řekl, že bych na to nepřistoupil. Za přemýšlením nad tím, že bychom byli něco jiného než kamarádi jsem udělal tlustou čáru a jsem s tím ok. Filip sice prohlásil, že čára není zeď, ale pro mě už byla. Trvalo mi to dlouho a bolelo to, ale dostal jsem se přes to.
+V pivovaru nebylo nejlevněji. Tři pivka a burger z trhaného hovězího mou peněženku zhlehčily o pětikilo. Ale jak pivo tak jídlo bylo kvalitní. Škoda, že jedno pivo na mě Jarda vylil.\
+Mimo jiné jsme se bavili o mě a Martě. Nováčkovic totiž stále podezřívali, že jsem její záloha, kdyby to s Vildou nevyšlo. Pověděl jsem jim o večeru, kdy jsme si to spolu vyříkali a nikdo tak nikoho netahá za nos. Jarda se ptal, co bych dělal, kdybyhom spolu byli a ona cituji "Shodila oblečení, vyskočila na kuchyňskou linku, roztáhla nohy a řekla ať jí to udělám teď a tady." To mě hodně pobavilo. Ale nelhal jsem, když jsem řekl, že bych na to nepřistoupil. Za přemýšlením nad tím, že bychom byli něco jiného než kamarádi jsem udělal tlustou čáru a jsem s tím ok. Filip sice prohlásil, že čára není zeď, ale pro mě už byla. Trvalo mi to dlouho a bolelo to, ale dostal jsem se přes to.
 
 ### 22.8. Hledání chyby, která neexistuje je na dlouho
 
@@ -331,5 +324,5 @@ Pochopitelně se to nestalo a řešení mi zabralo většinu dne. Blbý bylo, ž
 Jestli v sobotu pršelo, tak tentokrát chcalo jako z konve. I tak jsem ale jel do Kyjí na kole. Ivan tam stavěl řídítka a já jsem slíbil pomoci s výrobou stovky kola na Helsinky.\
 Promokl jsem skrz na skrz. Oblečení jsem si vzal náhradní, ale boty nikoliv. Ve výrobě být bosý není moudré. Težká věc člověku nohu snadno rozdrtí. Já jsem ale šel pomáhal s předpřípravou a ta se dá dělat na židli.\
 S Ivanem jsme si stěžovali na to, že na výrobu jsme oba příliš kvalifikovaní a firma tak spíš strádá, než že by tím něco získávala. Dohodli jsme se, že to musíme s Ludvou probrat.\
-Celý den jsem tak prováděl bezmozkovou práci a povídal si o blbostech s Ríšou a Jardou, kteří jsou oba k bezmozkové práci mnohem vhodnější.
-
+Celý den jsem tak prováděl bezmozkovou práci a povídal si o blbostech s Ríšou a Jardou, kteří mají k tupé práci větší predipozice.\
+Možná že jsem v dešti a bez bot trochu nastydl. Plavat jsem tedy nešel a radši jsem byl doma, pil zázvorové smoothie a dopisoval několik dní opomíjený deník.
