@@ -23,6 +23,7 @@
 - [21.8. Pít v neděli už od rána a odpoledne jít do pivovaru](#218-pít-v-neděli-už-od-rána-a-odpoledne-jít-do-pivovaru)
 - [22.8. Hledání chyby, která neexistuje je na dlouho](#228-hledání-chyby-která-neexistuje-je-na-dlouho)
 - [23.8. Tentokrát jsme v Kyjích nešťastní my](#238-tentokrát-jsme-v-kyjích-nešťastní-my)
+- [24.8. Na pinčes po bůhví jak dlouho](#248-na-pinčes-po-bůhví-jak-dlouho)
 
 ### 1.8. Zpátky do práce
 
@@ -326,3 +327,7 @@ Promokl jsem skrz na skrz. Oblečení jsem si vzal náhradní, ale boty nikoliv.
 S Ivanem jsme si stěžovali na to, že na výrobu jsme oba příliš kvalifikovaní a firma tak spíš strádá, než že by tím něco získávala. Dohodli jsme se, že to musíme s Ludvou probrat.\
 Celý den jsem tak prováděl bezmozkovou práci a povídal si o blbostech s Ríšou a Jardou, kteří mají k tupé práci větší predipozice.\
 Možná že jsem v dešti a bez bot trochu nastydl. Plavat jsem tedy nešel a radši jsem byl doma, pil zázvorové smoothie a dopisoval několik dní opomíjený deník.
+
+### 24.8. Na pinčes po bůhví jak dlouho
+
+Protože jsme s Ivanem řekli, že pondělí a středy věnujeme vývoji, nechvátal jsem ráno a vyrazil až po osmé. Sice jsem svůj čas věnoval vývoji, ale většina činností bylo poměrně rutijních. Přesun driveru do knihovny, psaní testů a udělátko na posílání servisek, které jsem slíbil Vojtovi.
