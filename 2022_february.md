@@ -62,4 +62,3 @@ Koleno jsme rychle zchladili sněhem, podvázali ivanovou malou preventivní ort
 V chatě totiž byla Tenkyho paní a její příbuzná. Udělali nám čaj a dali moc dobrou buchtu. Postupně se do chaty trousili její obyvatelé. Tenky totiž pořádal akci pro kamrády a dohromady jich bylo asi šestnáct. Když přišli skoro všichni, rozlily se panáky a při čtvrtém jsem začal zapomínat na bolest nohy. Ivan se alkohol snažil odmítnout, takže měl asi jen dva.\
 Magdě patří obdiv, protože po zasněžených serpentinách dokázala vyjet Caravelou až nahoru k chatě bez nehody. Já jsem se dobelhal do auta a po chvíli diskuse jsme vyrazili do Prahy.\
 Vyhodili mě a Vláďu na Čerňáku a dál jsme jeli metrem. Našel jsem si, že na Národní budu moct přestoupit na nízkopodlažní tramvaj, na kterou se dá dostat výtahem. Cestu jsem absolvoval s naprostou opatrností, domu se dobelhal a uložil do postele.
- 
