@@ -24,6 +24,8 @@
 - [22.8. Hledání chyby, která neexistuje je na dlouho](#228-hledání-chyby-která-neexistuje-je-na-dlouho)
 - [23.8. Tentokrát jsme v Kyjích nešťastní my](#238-tentokrát-jsme-v-kyjích-nešťastní-my)
 - [24.8. Na pinčes po bůhví jak dlouhé době](#248-na-pinčes-po-bůhví-jak-dlouhé-době)
+- [25.8. Slejvák jako už dlouho ne](#258-slejvák-jako-už-dlouho-ne)
+- [26.8. Konečně na jih](#268-konečně-na-jih)
 
 ### 1.8. Zpátky do práce
 
@@ -335,3 +337,21 @@ Večer jsme šli s Marťou hrát pinčes. Napřed jsme se tedy zastavili v Alber
 Marťa potřebovoala na záchod. Zastavili jsme se tedy u ní a na cestě od ní z bytu jsme na schodech potkali Magdy snoubence. Magda bydlí ve stejném domě jako Marťa? To jsem teda nevěděl. Svět je fakt malej.\
 Hráli jsme ještě asi půl hodiny, ale už bylo opravdu temno a na mé straně mi akorát tak svítila lampa do očí. Marťa si myslel bůh ví jak jí to jde, ale když jsme se prohodili tak se mi se smíchem v očích omlouvala, že se mi smála.\
 Na lavičcce jsme si ještě povídali o hudebním sluchu a hraní na nástroje. Měla v telefonu aplikaci na trénování sluchu a zpěvu. Nemyslím si, že sluch se dá naučit a když jsem to řekl nahlas, asi jsem se jí trochu dotkl. Ale kdo ví, my ho na ZUŠce trénovali od mala, takže nejsem dobrý soudce.
+
+### 25.8. Slejvák jako už dlouho ne
+
+Asiatky se asi odstěhovaly. V okně, kudy se dalo dívat k nim do pokoje postával nějaký ošklivý tlusťoch. Navíc v tom okně je roleta, která tam nebývala. Pokud je ale alternativou za hot tancující asiatky bílý tlusťoch, jsem za tu roletu rád.\
+V práci zase Kyje, zase montáž hrazd. Už i Jardu to sralo. Ivan si dal na čas a přijel až před obědem. Nějak se chytl s Fílou ohledně rádia a tak jsme vrazili na oběd, aby vychladl.\
+Po práci jsem koupil nové brýle na plavání a vyrazil na šutku. V tom horku to byl docela výjezd. Cyklisté, které jsem potkával byli zřejmě samí brité, neb to že se v Čechách jezdí vpravo jim nebylo známo.\
+V bazénu jsem do toho vskutku šlápl. Padesátky jsem dával pod padesát vteřin. Můj standardní kilometr tak byl s tempem 1:44/100. I na cestě zpátky jsem valil. 50 km/h na sjezdu z Troji mi přišlo jako mírně rychlá jízda.\
+Cestou jsme chválil Prahu. Na Argentinské jsou vyrhazené pruhy místo ochranných. Na nábřežích je co do pruhů taky významný posun. Šnajer (bůh ví jak se to píše) je sympoš. V posledních dvou letech toho udělali víc než za předchozích 6 let.\
+Akorát déšŤ teda pod palcem neměli. Slejvák co na mě přišel byl tak prudký a tak nečekaný, že od karlova mostu po kavárnu Slavii jsem promokl skrz na skrz včetně batohu.\
+I když kluci z Brain We Are říkají, že pohyb vyhání chronický zánět, rhinosinusitida mě dobíhala. Pocit ucpaného nosu, bolest hlavy se u mě stupňovala už pár dní. Po zbytek dne jsem se to snažil vyležet a dát si něco zdravého a prozizánětlivého. Byl to ale boj s větrnými mlýny. 
+
+### 26.8. Konečně na jih
+
+
+Konečně jsem udělal nějaký pokrok v řešení záhady motorových desek. Opravdu za to může nový spínaný zdroj. Jen 4 desky jsem spálil abych k takovému prozření došel. Z nějakého důvodu napětí v pěti voltech vyletí chvíli po startu strmě vzhůru, lineární zdroj to nechytí a MCU to nemůže přežít. Taky se to opravdu děje jen s EBU a ne s EBUF a pas senzor oddchází díky tomu peaku a není příčinou.\
+Zas jsem před víkendem odešel v momentu, kdy bych ještě rád pracoval. Ale vlak jel v 15:30, nedalo se nic dělat. Vlastně jsem se s tím zdržoval tak dlouho, že jsem si odřekl cestu domů a vyrazil na rekole rovnou na hlavák. Aspoň jsem si díky tomu koupil něco v Bille.\
+Sever a Jih se mi stále pletou. Chvíli jsem byl neoprávněně naštván na České Dráhy, že můj vlak přistavili na špatnou stranu nádraží. Byl jsem to ale já, kdo prohloupil. Místenka zafungovala. Vlak byl docela plný. Dokonce jsem zarezevoval místo v bývalé první třídě. Rychlík Lužnice, ale rozhodně není rychlík Vltava. Vyřazené vagony z první třídy jsou nová druhá třída. Ve tři a třiceti stupních bych spíše ocenil klimu, než starou dobrou kovovou páčku na změnu polohy sedadla, ale co naděláš. Vychlazený pivo taky dobrý.
+
