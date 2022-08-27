@@ -255,6 +255,8 @@ Z hospody už jsme plánovali ujít jen kilometr dva a utábořit se. Cesta byla
 Shora byl parádní výhled. Ale únava nás dostávala. Dolů z kopce už jsme sotva motali nohama. Studánka byla vyschlá, ale kousek za ní byla příhodná rovinka.\
 Rozbili jsme stany a hamaku. Počasí věštilo déšť, takže jsem natáhl i stříšku. K večeři jsme měli těstoviny s kombinací mojí a ondrovy omáčky a po jídle jsme hádali Kolínovu černou historku a hráli na melodiku.
 
+[Trasa](https://www.strava.com/activities/7696036040)
+
 ### 19.8. Cesta je fajn
 
 Nepršelo. To je po stavění stříšky vždycky demotivující. Ale better safe then sorry! K snídani tentokrát přišly na řadu vločky. Každý jsme si nesli jiný mix. Kdyby je Ondra nechtěl jíst teplé, neztratil by v lese bombu. Nutno ale podotknout, že já jsem z teplé vody dělal kávu, takže možná by studené vločky stejně nic nevřešily. Snad tam nevybuchne a nezapálí Lužické hory. Hřensko docela stačilo.\
@@ -278,6 +280,8 @@ U Dennyho to bylo fajn. Párek v rohlíku byl z kvalitních párků, pivko bylo 
 Mapa nás ale opět zradila. Studánka byla, ale byla na křižovatce dvou asfaltových cest. O pár set metrů dál do kopce bylo místo lepší. Cedule u chat ale stanování zakazovaly. Ukryli jsme se tedy ještě o trochu dál a opět postavili přístřeší. Počasí se totiž mělo zhoršit a tentokrát jsem předpovědi opravdu věřil. Déšť bylo cítit ve vzduchu.\
 K večeři jsme měli kuskus a tuňákem a po jídle jsme si povídali o strastech sexuálního života.
 
+[Trasa](https://www.strava.com/activities/7696058725)
+
 ### 20.8. Déšť nám cestu krátí
 
 Rozpršelo se nedlouho po ulehnutí. Párkrát jsem se v noci vzbudil, ale stříška vodě odolávala. Až nad ránem se nějaké kapky dostaly na moskytiéru. Při rozdělávání ranního ohně, ale déšť spíš nabíral na síle, než že by ustupoval, jak bychom si přáli.\
@@ -297,6 +301,8 @@ Deny připravila kuře se zelím a s brambory a výbornou polévku s knedlíčky
 
 Deny zapařila na Bomby. Ondra se choval jako skalní fanoušek já jen kroutil hlavou. Jarda Bena začal odsuzovat. Objeviltotiž, že není pako, ale že je dost chytrý a úspěšný hned v několika oborech. Hudbu dělá jen protože sype, ne protože by v ní byl dobrý.\
 Večer jsme dali ještě dvoje Monopoly. V první jsem hrozně dostal a tak jsem změnil strategii a pomáhal ostatním, čímž jsem úplně rozbil dynamiku hry, kde se všichni snažili ostatním škodit.
+
+[Trasa](https://www.strava.com/activities/7696065903)
 
 ### 21.8. Pít v neděli už od rána a odpoledne jít do pivovaru
 
