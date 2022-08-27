@@ -26,6 +26,7 @@
 - [24.8. Na pinčes po bůhví jak dlouhé době](#248-na-pinčes-po-bůhví-jak-dlouhé-době)
 - [25.8. Slejvák jako už dlouho ne](#258-slejvák-jako-už-dlouho-ne)
 - [26.8. Konečně na jih](#268-konečně-na-jih)
+- [27.8. Klid na vsi](#278-klid-na-vsi)
 
 ### 1.8. Zpátky do práce
 
@@ -356,9 +357,17 @@ I když kluci z Brain We Are říkají, že pohyb vyhání chronický zánět, r
 
 ### 26.8. Konečně na jih
 
+Konečně jsem udělal nějaký pokrok v řešení záhady motorových desek. Opravdu za to může nový spínaný zdroj. Jen 4 desky jsem spálil abych k takovému prozření došel. Z nějakého důvodu napětí v pěti voltech vyletí chvíli po startu strmě vzhůru, lineární zdroj to nechytí a MCU to nemůže přežít. Taky se to opravdu děje jen s EBU a ne s EBUF a pas senzor oddchází díky tomu peaku a není příčinou.
 
-Konečně jsem udělal nějaký pokrok v řešení záhady motorových desek. Opravdu za to může nový spínaný zdroj. Jen 4 desky jsem spálil abych k takovému prozření došel. Z nějakého důvodu napětí v pěti voltech vyletí chvíli po startu strmě vzhůru, lineární zdroj to nechytí a MCU to nemůže přežít. Taky se to opravdu děje jen s EBU a ne s EBUF a pas senzor oddchází díky tomu peaku a není příčinou.\
+<a href="../images/2022_august/26_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/26_1.jpg"></a>
+
 Zas jsem před víkendem odešel v momentu, kdy bych ještě rád pracoval. Ale vlak jel v 15:30, nedalo se nic dělat. Vlastně jsem se s tím zdržoval tak dlouho, že jsem si odřekl cestu domů a vyrazil na rekole rovnou na hlavák. Aspoň jsem si díky tomu koupil něco v Bille.\
 Sever a Jih se mi stále pletou. Chvíli jsem byl neoprávněně naštván na České Dráhy, že můj vlak přistavili na špatnou stranu nádraží. Byl jsem to ale já, kdo prohloupil. Místenka zafungovala. Vlak byl docela plný. Dokonce jsem zarezevoval místo v bývalé první třídě. Rychlík Lužnice, ale rozhodně není rychlík Vltava. Vyřazené vagony z první třídy jsou nová druhá třída. Ve tři a třiceti stupních bych spíše ocenil klimu, než starou dobrou kovovou páčku na změnu polohy sedadla, ale co naděláš. Vychlazený pivo taky dobrý.\
 V kupé se mnou byl nějaký dobrodruh. Jel do Jindřichova Hradce a s Loďákem spoluvat jihočeské řeky. Taky k nám přistoupila holčina co učila na základní škole na Madeiře. Dobrodruh se jí vyptával na život na Madeiře holčina mu nadšeně celou cestu odpovídala.\
+V Sobíku ale vystoupila a pán se dal do řeči se mnou. Ukázalo se, že je hydrobiolog a pracuje v ústavu na podbabě, kde jsme s Joojse byli na koncertě. Diskuse s ním byla docela podnětná, ptal jsem se ho, jestli češi plánují meandrovat řeky. Prý k tomu není incentiva, protože například zmeandrovat rokytku stálo strašných milionů a v národním měřítku to nic nepřineslo. Takzvaná revitalizace řek se moc nenosí. Dobrý postup prý je tzv. renaturalizace, kdy se okolí řeky prohlásí za oblast náležící řece a úpravy se dělají jen v příliš hlubokých úsecích, kde už řeka sama nic nezmůže. Když se tato rychlá koryta zpomalí, řeka si časem meandry do jisté míry utvoří sama.\
+Taky mluvil o povodních 2002 a o tom jak je češi zvládli díky plánování na pětiset letou vodu místo na sto letou a hlavně díky tomu, že Lužnice, která nemá žádné přehrady se vylila do okolí a jihočeské rybníky se rozlily na trojnásobek, což zbrzdilo příliv vody na Prahu a dál.\
+Na nádraží v Hradci jsme se rozdělili. Já objevil, že Podroužek už nejezdí večerní linku, ale autobusem stále jezdí stálice jako Hvězdář a Punda.\
+Doma taťka vařil houbový guláš. Povídali jsme si o zateplení domu, na kterém dělá a mém cestování.
+
+### 27.8. Klid na vsi
 
