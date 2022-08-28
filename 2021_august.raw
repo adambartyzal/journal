@@ -33,6 +33,8 @@ Dům v Lahti jsme našli na druhou dobrou. Silnicie, kterou nás navigace byla r
 
 ### 17.8. Polák přivezl kola
 
+Leo, Markku, Juho, Akseli, Illari\
+
 ### 18.8. Coffee break
 
 ### 19.8. Nálepky a kontroly
