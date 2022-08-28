@@ -54,5 +54,7 @@ S plánem navštívit 5 nových zemí to vypadalo beldě. Ale práce mě přived
 
 <a href="../images/2021_august/29_4.jpg" target="_blank"><img src="../images/thumbnails/2021_august/29_4.jpg"></a>
 
+[Trasa](https://www.strava.com/activities/5873571015)
+
 ### 31.8. Leo opravil vrata
 
