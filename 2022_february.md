@@ -20,7 +20,7 @@ Marťa se Johnyho na pár věcí vyptala taky, ale převážně se bavila se Sá
 
 <a href="../images/2022_february/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_1.jpg"></a>
 
-Johny popíjel pivko cestou. Já jsme si řekl, že když už jdeme do těch Únětic, dáme si Únětice až jako oslavné pivo. Na únor bylo docela horko. Vlastně jsem šel v tričku. Ony Únetice jsou taky dost na kopci, takže jsme se zahřáli. obzvlášť při výstupu na Babu a na nějaký další kopec u Suchdola.\
+Johny popíjel pivko cestou. Já jsme si řekl, že když už jdeme do těch Únětic, dáme si Únětice až jako oslavné pivo. Na únor bylo docela horko. Vlastně jsem šel v tričku. Ony Únetice jsou taky dost na kopci, takže jsme se zahřáli. Obzvlášť při výstupu na Babu a na nějaký další kopec u Suchdola.\
 Navigval Tomáš. Vybíral cestu přes vesničky za Prahou a vybíral moc hezky. Sklaní útvary, ze kterých byl vidět náš cíl v nás vyvolaly touhu po stanování.
 
 <a href="../images/2022_february/13_2.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_2.jpg"></a>
@@ -30,7 +30,7 @@ Večer a sezení ale ale přinesly zimu a tak jsme se přesunuli dovnitř.
 
 <a href="../images/2022_february/13_3.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_3.jpg"></a>
 
-Autobus zpátky nám ujel a to i přes značný spěch. Byla už noc a tak si z cesty pamatuju převážně jen obří Lidl někde uprostřed ničeho a to, že jsme byli v autobuse docela hluční.\
+Autobus zpátky nám ujel a to i přes značný spěch. Byla už noc a tak si z cesty pamatuju převážně jen obří Lidl někde uprostřed ničeho a to, že jsme byli v autobuse docela hluční. S Tomášem jsme se rozloučili na podbabě a do Vršovic dojeli tramvají.
 
 ### 18.2. Divy světa u Jirky
 

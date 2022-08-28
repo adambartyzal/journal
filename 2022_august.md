@@ -26,7 +26,7 @@
 - [24.8. Na pinčes po bůhví jak dlouhé době](#248-na-pinčes-po-bůhví-jak-dlouhé-době)
 - [25.8. Slejvák jako už dlouho ne](#258-slejvák-jako-už-dlouho-ne)
 - [26.8. Konečně na jih](#268-konečně-na-jih)
-- [27.8. Klid na vsi](#278-klid-na-vsi)
+- [27.8. Za vesnickou muzikou](#278-za-vesnickou-muzikou)
 
 ### 1.8. Zpátky do práce
 
@@ -111,16 +111,19 @@ Poslední koncert, který jsem slyšel, byl takový zajímavý pančík. Hodně 
 
 ### 7.8. Sára má (morální) kocovinu
 
-Probudilo mě lamentování Sáry o tom jak je jí strašně špatně. Všem vyprávěla jak se sejmula a chovala nepatřičně. Na snídani jsme vyrazili do areálu. Boršč, který byl k dispozici, většina lidí popsala jako zelnici. Ať už to byl či nebyl boršč, mě to chutnalo. Zato kafe bylo podprůměrné. Možná že jsem začínal být zhýčkaný svou čerstvě namletou kávou připravenou v aeropressu.\
+Probudilo mě lamentování Sáry o tom jak je jí strašně špatně. Všem vyprávěla jak se sejmula a chovala nepatřičně. Na snídani jsme vyrazili do areálu. Boršč, který byl k dispozici, většina lidí popsala jako zelnici. Ať už to byl či nebyl boršč, mě to chutnalo. Zato kafe bylo podprůměrné. Možná že jsem začínal být zhýčkaný svou čerstvě namletou kávou připravenou v aeropressu.
+
+<a href="../images/2022_august/7_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_1.jpg"></a>
+
 Lidé se loučili a vyráželi. Karel chvátal a tak on, týna a Ondra s Rébou zmizeli relativně rychle. My jsme se postupně přesunuli zpátky ke stanům a začali balit. Já měl stan sbalený nejdřív a tak jsem se pustil do vína. Nejsem řidič a víkend byl ještě mladý. Bylo vidět, že další lidé to vidí podobně. Ostatně bylo hezky narozdíl od předchozího rána, takže zřejmě doháněli jistý festivalový dluh.\
 Denny s Ondrou se přišli rozloučit a když odjížděli vytroubili nás klaksonem.
 
-<a href="../images/2022_august/7_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_1.jpg"></a>
+<a href="../images/2022_august/26_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/26_1.jpg"></a>
 
 Než jsme vyrazili my, byl čas oběda. Zastavili jsme tedy v hospodě v netíně. Dali jsme si výpečky a smažák. Ten neudělal nejlíp Sáře a před nájezdem na dálnici ho šla vyzvracet. Škoda peněz, nebyl nejlevnější.\
 Když jí bylo líp, pokračovali jsme a komentovali schopnosti ostatních řidičů. Byl to totiž debil vedle debila a nešlo kvůli nim nepodjíždět.
 
-<a href="../images/2022_august/7_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_2.jpg"></a>
+<a href="../images/2022_august/7_3.jpg" target="_blank"><img src="../images/thumbnails/2022_august/7_3.jpg"></a>
 
 Kája mě hodila až domů. Tam jsem si jen na chviličku lehl a usnul asi na dvě hodiny. Když jsem se probral, přečetl jsem si zprávu, zda nevyrazíme na pho. Jarda se Sárou ale usnuli taky, takže nám to vyšlo tak nějak na stejno.\
 Vietnam food už zavíral. Vybrali jsme tedy Pho bibo na horkách. Bylo to docela autentické místečko, ale na Vietnam foods nemělo. Sára si pochvalovala svoí tofu verzi, mně moje pho bo přišlo průměrné a jahodová limonáda mohla mít víc jahod. Ale na uzavření týdne, doplnění tekutin po celovíkendovém lití to bylo fajn. U botiče jsme se rozloučili a já šel domů koukat na Orville.
@@ -140,6 +143,8 @@ Po práci jsme šel plavat. Tempo jsem záčkl na dvě na sto a kdyby nebylo v k
 Stěží jsem stihl sníst osmažené nudle a už stála dole pod domem. U ní jsme připravovali musli tyčinky pro skauty, se kterými plánovala strávit celá následující týden. U pečení jsme si dali pivo, pouštěli hudbu a povídali jsme si o zážitcích z našich víkendů. Po akrofestivalu, kde jí nechala Ola na ocet se zastavila se u Honzovi rodiny pro fošny na stůl, který by jí skoro švára Martin už asi nikdy nedal dohromady. Stýskalo se jí po jeho rodině, ale měla skoro panický záchvat, že se tam s ním potká, když zahlédla jeho auto.\
 Když jsme dopekli a Marťa pověsila prádlo, vůbec se mi nechtělo domů. Vlastně se mi nechtělo ani zvedat z podlahy na které jsem ležel. Ale i na mě čekalo v pračce prádlo a táhlo na jedenáct.\
 Před Petrohradskou postávali hipstři, kterým na rozdíl ode mně padesát za pivo zřejmě vůbec nevadilo.
+
+<a href="../images/2022_august/9_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/9_1.jpg"></a>
 
 ### 10.8. Petr s Robinem
 
@@ -363,11 +368,25 @@ Konečně jsem udělal nějaký pokrok v řešení záhady motorových desek. Op
 
 Zas jsem před víkendem odešel v momentu, kdy bych ještě rád pracoval. Ale vlak jel v 15:30, nedalo se nic dělat. Vlastně jsem se s tím zdržoval tak dlouho, že jsem si odřekl cestu domů a vyrazil na rekole rovnou na hlavák. Aspoň jsem si díky tomu koupil něco v Bille.\
 Sever a Jih se mi stále pletou. Chvíli jsem byl neoprávněně naštván na České Dráhy, že můj vlak přistavili na špatnou stranu nádraží. Byl jsem to ale já, kdo prohloupil. Místenka zafungovala. Vlak byl docela plný. Dokonce jsem zarezevoval místo v bývalé první třídě. Rychlík Lužnice, ale rozhodně není rychlík Vltava. Vyřazené vagony z první třídy jsou nová druhá třída. Ve tři a třiceti stupních bych spíše ocenil klimu, než starou dobrou kovovou páčku na změnu polohy sedadla, ale co naděláš. Vychlazený pivo taky dobrý.\
-V kupé se mnou byl nějaký dobrodruh. Jel do Jindřichova Hradce a s Loďákem spoluvat jihočeské řeky. Taky k nám přistoupila holčina co učila na základní škole na Madeiře. Dobrodruh se jí vyptával na život na Madeiře holčina mu nadšeně celou cestu odpovídala.\
+V kupé se mnou byl nějaký dobrodruh. Jel do Jindřichova Hradce a s loďákem spoluvat jihočeské řeky. Taky k nám přistoupila holčina co učila na základní škole na Madeiře. Dobrodruh se jí vyptával na život na Madeiře holčina mu nadšeně celou cestu odpovídala.\
 V Sobíku ale vystoupila a pán se dal do řeči se mnou. Ukázalo se, že je hydrobiolog a pracuje v ústavu na podbabě, kde jsme s Joojse byli na koncertě. Diskuse s ním byla docela podnětná, ptal jsem se ho, jestli češi plánují meandrovat řeky. Prý k tomu není incentiva, protože například zmeandrovat rokytku stálo strašných milionů a v národním měřítku to nic nepřineslo. Takzvaná revitalizace řek se moc nenosí. Dobrý postup prý je tzv. renaturalizace, kdy se okolí řeky prohlásí za oblast náležící řece a úpravy se dělají jen v příliš hlubokých úsecích, kde už řeka sama nic nezmůže. Když se tato rychlá koryta zpomalí, řeka si časem meandry do jisté míry utvoří sama.\
 Taky mluvil o povodních 2002 a o tom jak je češi zvládli díky plánování na pětiset letou vodu místo na sto letou a hlavně díky tomu, že Lužnice, která nemá žádné přehrady se vylila do okolí a jihočeské rybníky se rozlily na trojnásobek, což zbrzdilo příliv vody na Prahu a dál.\
 Na nádraží v Hradci jsme se rozdělili. Já objevil, že Podroužek už nejezdí večerní linku, ale autobusem stále jezdí stálice jako Hvězdář a Punda.\
-Doma taťka vařil houbový guláš. Povídali jsme si o zateplení domu, na kterém dělá a mém cestování.
+Doma taťka vařil houbový guláš. Povídali jsme si o zateplení domu, na kterém dělá, a o mém cestování.
 
-### 27.8. Klid na vsi
+### 27.8. Za vesnickou muzikou
 
+Táta s Honzou dopoledne lepili perlinku na polystyrén na přední stěně. Ptal jsme se zda s tím nechtějí pomoct, ale prý ne. Ostatně dělal převážně Honza, taťka mu spíš podával věci. Sednul jsem si na zahradu a užíval si klidu vsi dokud někdo nezačal řezat na cirkulárce.\
+Přes den jsem toho moc nenadělal. Trochu jsem dopisoval deník ale spíš seděl na zahradě a pil kávu.
+Na večer jsme plánovali jet na vystoupení eternitu. Trochu jsem poladil kolo, posunul brzdy, nafoukal duše a jel ho vyzkoušet na ulici. Skoro jsem nevěřil, že jsem na něm najel tisíce kilometrů. Zpětně mi to přišlo jako hazardování se životem. Ale ono mít na houby brzdy ve výsledku v člověku vyvolá větší ostražitost. A nebo ne a pak umře. Ale volba tam je.\
+Sbalil jsem si mikču a čepku, nahodil helmu a vyrazili jsme do Žítče. Táta jel na favoritu. Asi se o Freebike bál, nebo se prostě chtěl projet na skutečném kole. Paradoxně měl těžší převody než já a docela to valil. Napřed po hlavní, skrz stavbu okruhu kolem Dolní Lhoty, pak po staré skrz Libořezy a pak zákazem do Žítče. Zákaz tam byl proto, že vedle silnice zakopávaly kabely po zem. Ale i auto se tam vešlo, takže jsme byli v suchu.\
+Pár kmetů už před hospodou na hřišti popíjelo. Byl jsem představen jako ten mladší Bartyzal a usazen někde k čele stolu. Točili pochopitelně Regenta. 
+
+<a href="../images/2022_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/27_1.jpg"></a>
+
+Kapela se postupně scházela a na kolech přijížděli další posluchači. Poslouchal jsem příbehy starých štamgastů. Kája byl přeborník. Lil jak duha a vyprávěl vtípky. Jedné rodiny tam byly hned 3 generace. Babča s dědou, dcera s manželem a vnučka. Babča mě stále přemlouvala ať jdu hrát s kapelou. Country ale není moje.
+
+<a href="../images/2022_august/27_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/27_2.jpg"></a>
+
+Tátu to ale bavilo. Foukal na foukačku zvesela a docela to i do muziky sedělo. Fikaně hráli všehcno od G, takže všechno vlastně byla variace té samé písně.\
+Někdy v půl druhé už jsme si řekli, že je čas vyrazit na cestu. Něměl jsem žádnou blikačku, takže jsem alespoň svítil iPhonem z batohu doleva dozadu. A táta svítil ruční lampičkou dopředu. Byla to docela vtipná jízda. Ale vidět jsme byli a nikdo nás nesestřelil.
