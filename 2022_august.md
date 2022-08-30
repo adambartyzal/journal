@@ -20,7 +20,7 @@
 - [18.8. Výhledy a puchýře](#188-výhledy-a-puchýře)
 - [19.8. Cesta je fajn](#198-cesta-je-fajn)
 - [20.8. Déšť nám cestu krátí](#208-déšť-nám-cestu-krátí)
-- [21.8. Pít v neděli už od rána a odpoledne jít do pivovaru](#218-pít-v-neděli-už-od-rána-a-odpoledne-jít-do-pivovaru)
+- [21.8. Pít v neděli už od rána](#218-pít-v-neděli-už-od-rána)
 - [22.8. Hledání chyby, která neexistuje je na dlouho](#228-hledání-chyby-která-neexistuje-je-na-dlouho)
 - [23.8. Tentokrát jsme v Kyjích nešťastní my](#238-tentokrát-jsme-v-kyjích-nešťastní-my)
 - [24.8. Na pinčes po bůhví jak dlouhé době](#248-na-pinčes-po-bůhví-jak-dlouhé-době)
@@ -316,7 +316,7 @@ Večer jsme dali ještě dvoje Monopoly. V první jsem hrozně dostal a tak jsem
 
 [Trasa](https://www.strava.com/activities/7696065903)
 
-### 21.8. Pít v neděli už od rána a odpoledne jít do pivovaru
+### 21.8. Pít v neděli už od rána
 
 Už tomu bylo čtrnáct dní od nedělního rána na Radostíně, kde jsem den začal červeným vínem. Inu pít v neděli od rána podle mě má něco do sebe a tak jsem tentokrát začal vínem bílým.\
 Taky jsem si dal k snídani kuře. Deny večer říkala, že by se mělo sníst ale večer jsem neměl hlad. Ostatní si dali vajíčka a párky.\
@@ -424,4 +424,4 @@ Křižík měl nádech pomeranče. Lehké letní pivo, které se do letního dne
 
 ### 30.8. V Kyjích mě až tak moc nepotřebují
 
-Až na nějakou kontrolu a opravy vložek, toho do oběda moc 
+Až na nějakou kontrolu a opravy vložek, toho do oběda moc nebylo. Po obědě v Globusu jsem se pustil do stavby řídítek. Šlo mi to překvapivě pomalu, takže ve 4 jsem měl akorát nadané a protažené brzdy a gripy. Ale učený z nebe nespadl že?\

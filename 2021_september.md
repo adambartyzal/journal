@@ -1,17 +1,24 @@
 ## [Září](2021.md)  <!-- omit in toc --> 
 
-- [1.9. Peru](#19-peru)
+- [1.9. Praní, střecha a výlet](#19-praní-střecha-a-výlet)
 - [2.9. Domů a do přístavu na pivo](#29-domů-a-do-přístavu-na-pivo)
 - [3.9. Hlídám Koru](#39-hlídám-koru)
 - [17.9. Na burčák!](#179-na-burčák)
 - [25.9 Výlet do Litschau](#259-výlet-do-litschau)
 - [26.9. Cyklookruh](#269-cyklookruh)
 
-### 1.9. Peru
+### 1.9. Praní, střecha a výlet
 
 <a href="../images/2021_september/1_1.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_1.jpg"></a>
 
 <a href="../images/2021_september/1_2.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_2.jpg"></a>
+
+<a href="../images/2021_september/1_3.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_3.jpg"></a>
+
+
+Ve zbytku dne jsem jel na poslední výlet okolo Lahti. Navštívil jsem stranu města za kolejemi. Města je vlastně trochu nadsazené. Spíš se jednalo o les ve kterém občas byly domy, či chaty. Finské vymoženosti jako krásné cyklopruhy, další veřejná cvičiště či sauna a skokanský můstek do jezera mě nepřestávaly udivovat a věděl jsem, že mi v Čechách budou chybět.
+
+<a href="../images/2021_september/1_4.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_4.jpg"></a>
 
 ### 2.9. Domů a do přístavu na pivo
 
