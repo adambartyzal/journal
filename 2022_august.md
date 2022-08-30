@@ -27,9 +27,9 @@
 - [25.8. Slejvák jako už dlouho ne](#258-slejvák-jako-už-dlouho-ne)
 - [26.8. Konečně na jih](#268-konečně-na-jih)
 - [27.8. Za vesnickou muzikou](#278-za-vesnickou-muzikou)
-- [28.8. Neděle](#288-neděle)
-- [29.8. Na stopě problému a do přístavu na křižíka](#298-na-stopě-problému-a-do-přístavu-na-křižíka)
-- [30.8.](#308)
+- [28.8. Aktivní nuda](#288-aktivní-nuda)
+- [29.8. Křižík v Přístavu](#298-křižík-v-přístavu)
+- [30.8. V Kyjích mě až tak moc nepotřebují](#308-v-kyjích-mě-až-tak-moc-nepotřebují)
 
 ### 1.8. Zpátky do práce
 
@@ -255,7 +255,7 @@ K pití jsem si dal pšenku a moc mi chutnala. Zato Jardův černý kozel byl po
 Co do vzdálenosti. Jídlo bylo asi v půlce. Čekalo nás tedy ještě deset kilometrů nahorů a dolů. Cestou jsme vedli vyostřenou diskusi ohledně zrychlování či zpomalování technologického vývoje. Ondra si tvrdohlavě stál za tím, že vývoj zpomaluje, neb na stále menší objevy je třeba stále většího úsilí a množství vědců. V tom měl sice pravdu, ale já jsem si stál za svým v tom, že vývoj zrychluje, neb socioekonomické dopady nových objevů jsou stále markantnější. Internet ovlivňuje více a rychleji, než například rádio. V posledních deseti letech se stalo to, že každý s krabičkou v kapse může být tvůrcem obsahu, který má celoplanetární dosah. Víc a víc lidí může díky technologiím cestovat, pracovat na dálku a kdo ví co ještě. Jarda diskusi točil k tomu, že AI a deep fake se rozvijí tak rychle, že dopad na společnost je nezměrný a v následující dekádě bude řádově rychlejší něž v této.\
 A tak jsme se hádali, šli a potili se. Bylo totiž horko, které nás nutilo dělat si zastávky. U krkavčí skály, dalších hezkých místech s trochou stínu nebo lavičkou.\
 Voda nám ale docházela. Ondra naplánoval přejít Německem a vrátit se do Vesnice v Čechách a tam u nějakého stavení vodu dopustit.\
-U jeskyně, do které létaly mouchy (podle Ondry na mrtvolu) jsme si dali sváču, dopili skoro všechnu vodu a vyrazili do pomalu zvedajícího se kopce, který u hranic přešel v červený cyklo trail.\ 
+U jeskyně, do které létaly mouchy (podle Ondry na mrtvolu) jsme si dali sváču, dopili skoro všechnu vodu a vyrazili do pomalu zvedajícího se kopce, který u hranic přešel v červený cyklo trail.\
 Ve vsi jsme našli hospodu vedenou Němci, která už měla po zavíačce. Vodu nás ale nechali dopustit a nakonec i čtyři pivka k tomu. Kora dostala ňaminy po pejskovi, který mMajitelce umřel. Kolín oprášil svou Němčinu a nad pivem jsme koukali na Německé tuisty, co ihned po příchodu rozpálili grill petrolejem. Efektivní, ale hnusný způsob.\
 Z hospody už jsme plánovali ujít jen kilometr dva a utábořit se. Cesta byla ale strmá a všude kolem les, který nešel ruku v ruce s Denyinou fóbií z mravenců. Rozhodli jsme tedy, že přejdeme horu a na její opačné straně najdeme lepší místo se studánkou.
 
@@ -397,21 +397,20 @@ Kapela se postupně scházela a na kolech přijížděli další posluchači. Po
 Tátu to ale bavilo. Foukal na foukačku zvesela a docela to i do muziky sedělo. Fikaně hráli všehcno od G, takže všechno vlastně byla variace té samé písně.\
 Někdy v půl druhé už jsme si řekli, že je čas vyrazit na cestu. Něměl jsem žádnou blikačku, takže jsem alespoň svítil iPhonem z batohu doleva dozadu. A táta svítil ruční lampičkou dopředu. Byla to docela vtipná jízda. Ale vidět jsme byli a nikdo nás nesestřelil.
 
-### 28.8. Neděle
+### 28.8. Aktivní nuda
 
 Dopřál jsem si osm hodin spánku. Díky tomu jsem objevil, že nám došel chleba až po desáté a když jsem se zastavil v obchodě, žádný čerstvý už neměli. Trochu rozezlený jsem koupil někaý v plastu a doma si dal brunch z chlebu a zbytku guláše. Honza s lepidlem venku docela pohnul a dům už začínal vypadat jako dům. Sice s dvacetiletým zpožděním, ale přece.
 
-<a href="../images/2022_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/27_1.jpg"></a>
+<a href="../images/2022_august/28_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/28_1.jpg"></a>
 
 Marťa říkala, že by si přála den, kdy by se mohla nudit. Já jsem k tomu konečně našel den a opravdu jsem si docela odpočinul. Po všech těch víkendech, kdy jsem se do práce vracel víc zničený než jsem v pátek odcházel. Až do sedmi, kdy jsme se vydali na autobus, který měl zpoždění, jsem posedával na zahradě, ujídal zrající kuličky vína a aktivně se nudil.
 
-<a href="../images/2022_august/27_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/27_2.jpg"></a>
+<a href="../images/2022_august/28_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/28_2.jpg"></a>
 
 RegioPanther je vskutku fancy vlak. Má WiFi, zásuvky, držák na lahváč a moc hezkou průvodčí. Poslední zmíněné asi nemá každá souprava, ale ta moje měla a měl jsem z toho radost.\
 Ve vlaku do Prahy jsem si dal pivo a koukal na [Everything Everywhere All at Once](https://www.csfd.cz/film/865902-vsechno-vsude-najednou/prehled/), čínštinou protkaný SciFi bizár s tématikou mnohovesmíru.
 
-### 29.8. Na stopě problému a do přístavu na křižíka
-
+### 29.8. Křižík v Přístavu
 
 V práci jsem pokračoval v diagnostice problému s EBMC. Dokázal jsem ho nasimulovat i bez EBF a dokonce na desce bez MCU. To bylo značně pozitivní. Nemusel jsem tak ničit další a další desky. Nakonec jsem pochopil princip toho proč deska odchází. Mohl za to 2g burst. Z nějakého důvodu při něm poklesne feedback a spínaný se tak snažil pokles kompenzovat a 5V tak roste až na vstupních 18V. Burst se na EBMC dostává po UTP a do UTP zřejmě nějak z antény. Různé pozice kabelu totiž měly efekt na to zda se fenomén objevoval.
 Na oběd jsme šli do Indie. Vojta si objednal pouze kolu. Sice nás přesvědčoval, že je unavený a nemá kocovinu, ale všechny jeho příznaky značily opak.\
@@ -423,4 +422,6 @@ Dělal jsem si srandu z toho, že náš showroom funguje jako komnata nejvyšš�
 V půl čvrté jsme s Jiřím a Vláďou vyrazili k metru, nabrali Petra, Tomáše a Ríšu a vydali se do Karlínského přístavu na pivo Křižík. Naposledy jsem tam byl skoro přesně rok zpátky. Od té doby přidali plot a my tak museli prolézat dírou v plotě. Barman nás poznal podle trička a vyprávěl nám, že byl hrdým uživatelem našeho testovacího provozu v praze v dobách Homeport G2 systému.\
 Křižík měl nádech pomeranče. Lehké letní pivo, které se do letního dne po širým nebem hodně hodilo. Po druhém kousku jsem ale přešel na pazdráta. Chříč je záruka kvality. Pivo chutnalo všem. A italská placka s pršutem taky. Možná proto jsme tam seděli až do devíti, takže Tomášovi ujel autobus, který by ho dovezl až domu a musel kvůli tomu jít z centra Mníšku domů pěšky.
 
-### 30.8. 
+### 30.8. V Kyjích mě až tak moc nepotřebují
+
+Až na nějakou kontrolu a opravy vložek, toho do oběda moc 
