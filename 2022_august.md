@@ -27,6 +27,9 @@
 - [25.8. Slejvák jako už dlouho ne](#258-slejvák-jako-už-dlouho-ne)
 - [26.8. Konečně na jih](#268-konečně-na-jih)
 - [27.8. Za vesnickou muzikou](#278-za-vesnickou-muzikou)
+- [28.8. Neděle](#288-neděle)
+- [29.8. Na stopě problému a do přístavu na křižíka](#298-na-stopě-problému-a-do-přístavu-na-křižíka)
+- [30.8.](#308)
 
 ### 1.8. Zpátky do práce
 
@@ -365,7 +368,7 @@ I když kluci z Brain We Are říkají, že pohyb vyhání chronický zánět, r
 
 ### 26.8. Konečně na jih
 
-Konečně jsem udělal nějaký pokrok v řešení záhady motorových desek. Opravdu za to může nový spínaný zdroj. Jen 4 desky jsem spálil abych k takovému prozření došel. Z nějakého důvodu napětí v pěti voltech vyletí chvíli po startu strmě vzhůru, lineární zdroj to nechytí a MCU to nemůže přežít. Taky se to opravdu děje jen s EBU a ne s EBUF a pas senzor oddchází díky tomu peaku a není příčinou.
+Konečně jsem udělal nějaký pokrok v řešení záhady motorových desek. Opravdu za to může nový spínaný zdroj. Jen 4 desky jsem spálil abych k takovému prozření došel. Z nějakého důvodu napětí v pěti voltech vyletí chvíli po startu strmě vzhůru, lineární zdroj to nechytí a MCU to nemůže přežít. Taky se to opravdu děje jen s EBU a ne s EBUF a pas senzor oddchází díky tomu peaku a není příčinou. Vláďa poznamenal, že je to jako Lost. Každá odpověd vyvolala víc otázek.
 
 <a href="../images/2022_august/26_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/26_1.jpg"></a>
 
@@ -393,3 +396,31 @@ Kapela se postupně scházela a na kolech přijížděli další posluchači. Po
 
 Tátu to ale bavilo. Foukal na foukačku zvesela a docela to i do muziky sedělo. Fikaně hráli všehcno od G, takže všechno vlastně byla variace té samé písně.\
 Někdy v půl druhé už jsme si řekli, že je čas vyrazit na cestu. Něměl jsem žádnou blikačku, takže jsem alespoň svítil iPhonem z batohu doleva dozadu. A táta svítil ruční lampičkou dopředu. Byla to docela vtipná jízda. Ale vidět jsme byli a nikdo nás nesestřelil.
+
+### 28.8. Neděle
+
+Dopřál jsem si osm hodin spánku. Díky tomu jsem objevil, že nám došel chleba až po desáté a když jsem se zastavil v obchodě, žádný čerstvý už neměli. Trochu rozezlený jsem koupil někaý v plastu a doma si dal brunch z chlebu a zbytku guláše. Honza s lepidlem venku docela pohnul a dům už začínal vypadat jako dům. Sice s dvacetiletým zpožděním, ale přece.
+
+<a href="../images/2022_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/27_1.jpg"></a>
+
+Marťa říkala, že by si přála den, kdy by se mohla nudit. Já jsem k tomu konečně našel den a opravdu jsem si docela odpočinul. Po všech těch víkendech, kdy jsem se do práce vracel víc zničený než jsem v pátek odcházel. Až do sedmi, kdy jsme se vydali na autobus, který měl zpoždění, jsem posedával na zahradě, ujídal zrající kuličky vína a aktivně se nudil.
+
+<a href="../images/2022_august/27_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/27_2.jpg"></a>
+
+RegioPanther je vskutku fancy vlak. Má WiFi, zásuvky, držák na lahváč a moc hezkou průvodčí. Poslední zmíněné asi nemá každá souprava, ale ta moje měla a měl jsem z toho radost.\
+Ve vlaku do Prahy jsem si dal pivo a koukal na [Everything Everywhere All at Once](https://www.csfd.cz/film/865902-vsechno-vsude-najednou/prehled/), čínštinou protkaný SciFi bizár s tématikou mnohovesmíru.
+
+### 29.8. Na stopě problému a do přístavu na křižíka
+
+
+V práci jsem pokračoval v diagnostice problému s EBMC. Dokázal jsem ho nasimulovat i bez EBF a dokonce na desce bez MCU. To bylo značně pozitivní. Nemusel jsem tak ničit další a další desky. Nakonec jsem pochopil princip toho proč deska odchází. Mohl za to 2g burst. Z nějakého důvodu při něm poklesne feedback a spínaný se tak snažil pokles kompenzovat a 5V tak roste až na vstupních 18V. Burst se na EBMC dostává po UTP a do UTP zřejmě nějak z antény. Různé pozice kabelu totiž měly efekt na to zda se fenomén objevoval.
+Na oběd jsme šli do Indie. Vojta si objednal pouze kolu. Sice nás přesvědčoval, že je unavený a nemá kocovinu, ale všechny jeho příznaky značily opak.\
+Dělal jsem si srandu z toho, že náš showroom funguje jako komnata nejvyšší potřeby. Nevyspalý Vojta v něm našel gauč, který tam až do předešlého dne nebyl a den následující měl zase zmizet. Natáhl se tak a dospával svůj deficit, dokud ho Evička neprobudila zvonkem, při vracení freebiku.
+
+<a href="../images/2022_august/29_1.jpg" target="_blank"><img src="../images/thumbnails/2022_august/29_1.jpg"></a>
+
+Úplně jsem zapoměl, že Vojta svolal pivo na odpoledne. V batůžku jsem měl plavky a ručník a plánoval jsem po práci jít si zaplavat. Pivo s kolegy ale byla mnohem lepší volba. Obvlášť protože měli přijet i zástupci z Kyjí a to je věc, která se děje málokrát do roka. Na pivu jsme měli domluvit jak bude probíhat cyklo cesta k Vojtovi na chatu.\
+V půl čvrté jsme s Jiřím a Vláďou vyrazili k metru, nabrali Petra, Tomáše a Ríšu a vydali se do Karlínského přístavu na pivo Křižík. Naposledy jsem tam byl skoro přesně rok zpátky. Od té doby přidali plot a my tak museli prolézat dírou v plotě. Barman nás poznal podle trička a vyprávěl nám, že byl hrdým uživatelem našeho testovacího provozu v praze v dobách Homeport G2 systému.\
+Křižík měl nádech pomeranče. Lehké letní pivo, které se do letního dne po širým nebem hodně hodilo. Po druhém kousku jsem ale přešel na pazdráta. Chříč je záruka kvality. Pivo chutnalo všem. A italská placka s pršutem taky. Možná proto jsme tam seděli až do devíti, takže Tomášovi ujel autobus, který by ho dovezl až domu a musel kvůli tomu jít z centra Mníšku domů pěšky.
+
+### 30.8. 
