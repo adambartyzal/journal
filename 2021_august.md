@@ -130,7 +130,7 @@ Ve zbytku večera jsme jim ukázali Lahti a vyrazili na nákup potravin.
 
 Víc hlav víc ví. Teoreticky. Fíla, Omar, Leo a Markku se rozhodli opravit dveře svépomocí. Chvilku jsem inženýroval s nimi, víc abych věděl jak dveře fungují než se snahou je opravdu opravit. Ale kdo by nechtěl být za hrdinu?\
 Když se ale poznávání mechanismu změnilo ve visení na vratkém žebříku ve třech metrech a držení zkurveně těžkého segmentu vrat jednou rukou, o kterou mohl Omar každou chvilku přijít, nějak mě na hrdinství přešla chuť. Navíc se vrata spíš rozpadala, než že by se společenství blížilo jejich opravě.\
-Radši jsem se věnoval ověřování faktu, že cínové boule na testovacích bodech na EBMC se prokousnou a tranzistory se spálí.\ 
+Radši jsem se věnoval ověřování faktu, že cínové boule na testovacích bodech na EBMC se prokousnou a tranzistory se spálí.\
 Když už v naší firmě výjezdy slouží jako teambulding, domluvili jsme se, že půjdeme na procházku do lesa za skokanskými můstky. Už jsem tam byl několikrát a zaručil jsem se za to, že je to dobrá výletní destinace.
 Přes den jsme s Monikou učili kluky servisovat a ovládat backend. Vymýšleli jsme jim scénáře typu kolo se hlásí za geofence a podobně.
 
