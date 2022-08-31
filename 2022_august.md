@@ -30,6 +30,7 @@
 - [28.8. Aktivní nuda](#288-aktivní-nuda)
 - [29.8. Křižík v Přístavu](#298-křižík-v-přístavu)
 - [30.8. V Kyjích mě až tak moc nepotřebují](#308-v-kyjích-mě-až-tak-moc-nepotřebují)
+- [31.8. Odřeknuté rande](#318-odřeknuté-rande)
 
 ### 1.8. Zpátky do práce
 
@@ -434,3 +435,10 @@ Kilometr jsem ale uplaval docela s dobrým tempem a měl jsem ze sebe radost.\
 Zpátky jsem to vzal po magistrále. Výhledy z Hlávkova mostu během zlaté hodince stojí za to.
 
 <a href="../images/2022_august/30_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/30_2.jpg"></a>
+
+### 31.8. Odřeknuté rande
+
+V kalendáři svítily dvě věci. Porada a rande s Klárou. Holkou s Tinderu, která mě pořád nechávala trochu vlažným, takže jsem do plánování rande moc nedal. Chtěl jsem jít do A Maze in Tchaiovny, ale odřekla to. Prý měla nějakou přednášku, která byla zaplacená či co. Ani mě to nemrzelo.\
+V Karlíně jsem rešil reklamace a Vláďa ode mně přebral řešení problému s ebmc. Zaobíral se hodně vysokofrekvenčním poklesem napětí na vstupu. Vypadalo to, že dělo jen, když pětivoltový zdroj blbnul a tlačil napětí nahoru. Důmal, zda to je příčina nebo důsledek. Napadlo mě vyzkratovat feedback růčo a nasimulovat tak 2g burst. Pokles na vstupu tam byl taky. I s těmi vysokofrekvenčními chlupy. Měl jsem radost, že jsem ho postrčil, ale vlastně nás to akorát posunulo do ještě většího nevědění.\
+Na EBUFu vynutil 2g taky a na 5V nahoře jsme nárust neviděli, ale dokázal ho vyvolat na EBMC připojené k EBUF. 700 kol v Helsinkách má tuhle kombinaci. Až se z nějakého důvodu rozhodnout přeskočit na 2g, šance že procesor poletí do luftu tam je.\
+Večer jsem neměl chuť nic dělat. Pustil jsem si Interstellar. Ten film je 8 let starý. Ale je to fakt špička. Do dnešního dne ho Nolan nepřekonal.
