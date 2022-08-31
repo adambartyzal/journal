@@ -171,7 +171,7 @@ Až do Radotína to ale byla rutina. Trasu A1 znám nazpaměť. Zrovna asi jako 
 Hlad na Marťu přišel už v Radotíně. Marťa má totiž vždycky hlad. Je jak Filip, na jídlo černá díra. Zastavili jsme tedy u Řeky a podle recenzí vybrali restauraci Rozmarýn. Dala si Buřť guláš a jí rizoto. Ne italské, ale obyč české. Já jsem ale vděčný strávník a tak ve mně zmizelo i s půllitrem Bernarda.\
 Z Radotína to bylo do kopce. Ondra měl pravdu s tím, že cedule zakazující používat rádiová zařízení kvůli možnosti výbuchu jsou i kolem Prahy. Trochu mě to zklamalo. Jižní čechy přišly o jistou výjmečnost.\
 V opačném směru jezdili longbordisté. Prohodil jsem pár slovo o tom jak se v takové rychlosti brzdí a odpovědí mi byla parádní ukázka.\
-V řeporyjích jsem zahlídl kovovou rozhlednu a rozhdl se, že tam musíme zajít. Nacházela se na dětském hřišti ale byla zamčená. I tak to ale bylo hezké hřiště a tak jsme tam chvilku zůstali na prolézačkách.\
+V řeporyjích jsem zahlídl kovovou rozhlednu a rozhdl se, že tam musíme zajít. Nacházela se na dětském hřišti ale byla zamčená. I tak to ale bylo hezké hřiště a tak jsme tam chvilku zůstali na prolézačkách.
 
 <a href="../images/2022_april/23_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/23_1.jpg"></a>
 
@@ -185,7 +185,7 @@ jedu vlakem později\
 přes pole\
 rozbíjím beton\
 práce pro dnešek hotová\
-grillujeme\
+grillujeme
 
 <a href="../images/2022_april/29_1.jpg" target="_blank"><img src="../images/thumbnails/2022_april/29_1.jpg"></a>
 

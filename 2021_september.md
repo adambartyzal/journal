@@ -9,7 +9,7 @@
 
 ### 1.9. Praní, střecha a výlet
 
-Praní v zahraničí je vždycky větší sranda než v domovině. Možná proto jsou asi 3 z mých příspěvků na facebooku právě o praní. A tři není málo vzhledem k tomu, že ročně jsem přispíval tak maximálně dvakrát.\
+Praní v zahraničí je vždycky větší sranda než v domovině. Možná proto jsou asi 3 z mých příspěvků na facebooku právě o praní. A tři není málo vzhledem k tomu, že ročně jsem přispíval tak maximálně dvakrát.
 
 <a href="../images/2021_september/1_1.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_1.jpg"></a>
 

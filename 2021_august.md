@@ -71,7 +71,7 @@ Po práci jsme jeli zpátky na byt připravit si jídlo, u brzké veřeře kouka
 
 ### 20.8. Po stanicích
 
-Dokončení kontrol a odfajvkování všech kol jako "Zkontrolované před předáním" nám ale rutinu rozbilo. Další plán byl objet místa, které město vytipovalo jako místa pro virtuální stanice. Zhodnotit, zda jsou to dobrá místa, zda jsou opatřená značkou a zdokumentovat to.\
+Dokončení kontrol a odfajvkování všech kol jako "Zkontrolované před předáním" nám ale rutinu rozbilo. Další plán byl objet místa, které město vytipovalo jako místa pro virtuální stanice. Zhodnotit, zda jsou to dobrá místa, zda jsou opatřená značkou a zdokumentovat to.
 
 <a href="../images/2021_august/20_1.jpg" target="_blank"><img src="../images/thumbnails/2021_august/20_1.jpg"></a>
 
@@ -158,7 +158,7 @@ bydlí u nemocnice\
 ### 28.8. Spouštíme
 
 Ludvík si zvykl trávit čas u nás\
-Holčina z městské rady je mexikáncova žena\
+Holčina z městské rady je mexikáncova žena
 
 <a href="../images/2021_august/28_1.jpg" target="_blank"><img src="../images/thumbnails/2021_august/28_1.jpg"></a>
 

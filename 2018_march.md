@@ -341,7 +341,7 @@ Protože jsme minule dostali za úkol přečíst si do následující hodiny dva
 I přes naše téměř pětiminutové zpoždění jsme byli ve třídě jedni z prvních. Zanedlouho dorazil Jeff a vysvětlil nám, že pokud venku pršelo, je pravděpodobnost vysoké účast prachbídná.\
 Ale třída se pomalu začala plnit, a tak jsme si v první půlhodině odbyli pravidelné new&interesting a pak se vrhli na otázky ke článkům, které bacha… nikdo nečetl. A tak Jeff zavelel, aby si všichni článek dočetli ze smartphonů. Trochu jsem se u toho nudil a začal vypínat, což se neslo celým zbytkem dne. Pět hodin spánku mi prostě nestačí.\
 Po angličtině jsme měli mezeru a vyrazili s Kalim a Danem do raníkárny na brunch. Snažil jsem se vybrat něco bez vraždy a vydařilo se. Vybral jsem si sendvič s volským okem a hashbrownem. Ostatní měli burgery a sendviče s masem.\
-Po jídle jsme šli všichni na chromatologii. Tentokrát vybaveni skicáky, paletami a temperami jsme se cítili podstatně připravenější.\
+Po jídle jsme šli všichni na chromatologii. Tentokrát vybaveni skicáky, paletami a temperami jsme se cítili podstatně připravenější.
 
 <a href="../images/2018_march/16_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/16_1.jpg"></a>
 
@@ -397,7 +397,7 @@ Po zbytek večera jsme už toho moc konstruktivního nenadělali. Jarda si prohl
 Vstal jsem až po deváté. Jednou za čas jsem tedy dospal plných osm hodin, a potom jsem se vrhnul na dopisování deníku. Jde to pomalu, obzvlášť když píšu roztržitě. A tak jsem dopoledne střídavě psal, snídal vločky s pomerančem a pročítal internety.\
 Na docela brzký oběd jsme vyrazili s Thomasem a s Ondrou, který se pomalu ale jistě připravoval na filmové rande s Filipínkou z Tinderu.\
 Oběd jsme dali blízko zadní brány. Ptal jsem se Thomase, která jídla neobsahují maso. Vyhýbavě mi odpověděl, že možná jedno. Byla to polévka s nudlemi. Ostatní dostali 炒飯.\
-Oběd s Thomasem\
+Oběd s Thomasem
 
 <a href="../images/2018_march/18_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/18_1.jpg"></a>
 

@@ -218,7 +218,7 @@ Klima mě srala. Nevyspal jsem se. Měl jsem rýmu a byl jsem nevyspalý, ale t�
 
 <a href="../images/2018_february/21_1.jpg" target="_blank"><img src="../images/thumbnails/2018_february/21_1.jpg"></a>
 
-Společně jsme se vydali trhem až do Chinatownu. Filip koupil kávu v pytlíku, který byl v dalším pytlíku s ledem a pak nás Bloom vzala do čínského chrámu, kde jsme se Já a Filip přidali k rituální modlitbě s hořícími tyčinkami. Po návštěvě chrámu jsme prošli zbytek Chinatownu a vydali se hledat jídlo.\
+Společně jsme se vydali trhem až do Chinatownu. Filip koupil kávu v pytlíku, který byl v dalším pytlíku s ledem a pak nás Bloom vzala do čínského chrámu, kde jsme se Já a Filip přidali k rituální modlitbě s hořícími tyčinkami. Po návštěvě chrámu jsme prošli zbytek Chinatownu a vydali se hledat jídlo.
 
 <a href="../images/2018_february/21_4.jpg" target="_blank"><img src="../images/thumbnails/2018_february/21_4.jpg"></a>
 
