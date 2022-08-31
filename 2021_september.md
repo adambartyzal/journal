@@ -9,12 +9,17 @@
 
 ### 1.9. Praní, střecha a výlet
 
+Praní v zahraničí je vždycky větší sranda než v domovině. Možná proto jsou asi 3 z mých příspěvků na facebooku právě o praní. A tři není málo vzhledem k tomu, že ročně jsem přispíval tak maximálně dvakrát.\
+
 <a href="../images/2021_september/1_1.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_1.jpg"></a>
+
+Janne mi pod příspěvek s pračkou napsala, že má tu samou a že mi může pomoct, jestli chci. Tou dobou se ale už moje prádlo dobře hodinu převalovalo v bubnu a i prášek jsem nasypal do správného šuplíčku.
 
 <a href="../images/2021_september/1_2.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_2.jpg"></a>
 
-<a href="../images/2021_september/1_3.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_3.jpg"></a>
+Freebiky jsou skvělým pomocníkem do života. Jako sušák ručníku a plavek je v Karlíně po raním plavání používám v jednom kuse. V Lahti jsem to ale dotáhl o fous dál.
 
+<a href="../images/2021_september/1_3.jpg" target="_blank"><img src="../images/thumbnails/2021_september/1_3.jpg"></a>
 
 Ve zbytku dne jsem jel na poslední výlet okolo Lahti. Navštívil jsem stranu města za kolejemi. Města je vlastně trochu nadsazené. Spíš se jednalo o les ve kterém občas byly domy, či chaty. Finské vymoženosti jako krásné cyklopruhy, další veřejná cvičiště či sauna a skokanský můstek do jezera mě nepřestávaly udivovat a věděl jsem, že mi v Čechách budou chybět.
 
