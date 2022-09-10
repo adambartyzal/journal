@@ -1,7 +1,7 @@
 ## [Říjen](2021.md)  <!-- omit in toc --> 
 
 - [5.10. Opět do Finska](#510-opět-do-finska)
-- [7.10.](#710)
+- [7.10. Nové tvář, stejný přístup](#710-nové-tvář-stejný-přístup)
 - [9.10. Volby z Helsinek](#910-volby-z-helsinek)
 - [10.10. Cvičíme](#1010-cvičíme)
 - [11.10. Výměna senzoru rutinou](#1110-výměna-senzoru-rutinou)
@@ -25,7 +25,7 @@ Hotel Forenom jsme začali nesnášet hned co jsme vešli dovnitř. Na chodbách
 Tenhle fenomén se dá vygooglit. Finské okno v googlu odhalilo, že jsme nebyli jední koho taková zrada překvapila. Do mobil jsem si dal poznámku, že musím ve skladu vzít nějaký nástroj, kterým okno dokážeme otevřít.\
 Alespoň jsme ale měli sámošku minutu chůze od dveří.
 
-### 7.10.
+### 7.10. Nové tvář, stejný přístup
 
 Kvůli placení za parkování jsme se rozhodli nechat auto před skladem a přejít na dopravu pomocí freebiků. Alspoň jsme tak mohli z města stahovat kola se špatnou šarží PAS senzorů.\
 Podzim finsku sluší. Jehličnany zůstávají zelené, ale břízy mezi nimy oranžoví a výsledná strakatost je tak bezva na pohled. Teplo ale rozhodně nebylo. Můj podzimní kabát byl téměř nedostatečný a za zimní cyklistické rukavice jsem byl rád. Moje backovka byla značně nedostatečná a uši mi málem upadly.
@@ -61,8 +61,9 @@ Rozhodli jsme se, že po práci jednou za dva nebo tři dny půjdeme napřed cvi
 
 ### 13.10. Bolí mě zub
 
-nákup čepice\
-vodka v alku\
+Už večer jsem si toho všimnul, ale ráno přišlo potvrzení. Bolel mě zub a jak jsem si ho tak prohlížel v zrcadle, žřejmě v něm byl kaz. Vzpoměl jsem si na Jardu, kterého rozbolel zub na cestě po Balkánu. Vysadil sladké a jal se ústní dutinu dezinfikovat tvrdým alkoholem.\
+K zubaři ve Finsku se mi nechtělo. Možná by mi to nějaká pojistka i proplatila, ale cíil jsem, že radši pojedu za Pokorným. Během dopoledne jsem se mu snažil dovolat, ale marně.\
+Při obědě jsme se zastavili v Alku. Vybral jsem docela fér a hlavně silnou Kosekrkovnu v plastové láhvi. Paní ale chtěla občanku a tu já jsem měl v batohu ve skladu. Vysvětlil jsem jí, že vodku potřebuju na bolavý zub, čemuž zřejmě porozuměla, ale stejně mi nic neprodala. Geši se nabídl, že to houpí za mě, ale baba řekla, že ví, že by to kupoval pro mě a tak nesmí. Zpropadení finové, řekl jsem si a vzdal to. Vrátili jsme se do skladu a já si s občankou dojel zpátky do krámu na freebiku.\
 
 ### 14.10. Cvičíme s Ivanem
 

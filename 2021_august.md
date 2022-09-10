@@ -11,7 +11,7 @@
 - [23.8. Nabíjíme baterie](#238-nabíjíme-baterie)
 - [25.8. Fíla, Omar a Monča](#258-fíla-omar-a-monča)
 - [26.8. Na houby](#268-na-houby)
-- [27.8 Ludvík](#278-ludvík)
+- [27.8. Ludvík](#278-ludvík)
 - [28.8. Spouštíme](#288-spouštíme)
 - [29.8. Okolo jezera](#298-okolo-jezera)
 - [30.8. Leo opravil vrata](#308-leo-opravil-vrata)
@@ -102,11 +102,11 @@ Přímo v centru byla knihovna, kterou mi někdo doporučil. Tušil jsem, že to
 Geši po knihách netoužil. Jeho srdce prahlo po vinylech. Metrem jsme proto popojeli do shopu s deskami a cédéčky. Výběr měli opravdu velký, ale sekce s D'n'B byla malá. Inu.. těžko se divit. Přesto tam ale nakoupil.
 Zpátky jsme šli přes centrum. Viděli jsme instalace na náměstí, vylezli ke kostelu, který je vždy na Helsinských panoramatech, došli po hlavní třídě k nádraží a dál až k autu. 
 
-<a href="../images/2021_august/21_2.jpg" target="_blank"><img src="../images/thumbnails/2021_august/21_2.jpg"></a>
+<a href="../images/2021_august/22_2.jpg" target="_blank"><img src="../images/thumbnails/2021_august/22_2.jpg"></a>
 
 To jsme dle plánu přeparkovali na ulici a opět vyjeli tramvají. Tentokrát k moři. To nevonělo slaně. Byli tam ale rybáři a pozorovat rybáře byla sranda. Dali jsme si k tomu pivo a kdyby tam nekřičelo nějaké arabské dítě, byla by to hezká idyla.
 
-<a href="../images/2021_august/21_3.jpg" target="_blank"><img src="../images/thumbnails/2021_august/21_3.jpg"></a>
+<a href="../images/2021_august/22_3.jpg" target="_blank"><img src="../images/thumbnails/2021_august/22_3.jpg"></a>
 
 Po pivu jsme pokračovali dál po pobřeží. Nachodili jsme desetitisíce kroků a unavení si sedli na kamení a sledovali vlny. Postupně jsme to stáčeli zpátky do centra. K večeru už bylo docela chladno, měli jsme hlad potřebovali na záchod a nechtěli moc utrácet. McDonald's dokázal utišit věechny tyhle potřeby. Seděli jsme tam asi 2 hodiny, než jsme se vrátili k autu a dojeli pro Vojtu do Vanty.\
 Cestou se nás Vojta vyptával jak nám to tam jde, jací jsou Leovi kluci vůbec, na co se má těšit.
@@ -149,7 +149,7 @@ Postupně jsme se oblouhem vrátili na hlavní cestu. Zastavili jsme se u pseudo
 Cestou zpátky jsme diskutovali co z hub udělat. Vojta tvrdě orodoval za smaženici. Já s ní neměl dobré zkušenosti, ale bez vstupování do nekomfortní zóny nepřichází postup vpřed a navíc Geši se nabídl, že smaženici udělá a když se kuchař nabízí, byla by hloupost odmítnout.\
 Večer jsme houby krájeli a bylo jich víc než jsme na smaženici pro všechny potřebovali. Zamrazili jsme tedy několik krabiček na houbovou polévku a možná i na guláš. Smaženice mi překvapivě docela dost chutnala. Holt s postupným zařazováním hub do mého jídelníčku se mi změnily chutě a taky.. celý byt nesmrděl jako když pálíš gumu, takže Geši zřejmě volí jinou metodu přípravy než taťka.
 
-### 27.8 Ludvík
+### 27.8. Ludvík
 
 ludvík přijel vlakem\
 oběd ve fancy reštice\
@@ -182,10 +182,10 @@ Leova schopnost vyřešit vše nějakou kulišárnou mě opět překvapila. Mís
 
 <a href="../images/2021_august/30_1.jpg" target="_blank"><img src="../images/thumbnails/2021_august/30_1.jpg"></a>
 
-křídla\
+grilování s terhem
 
 ### 31.1. Komíny a grilování
 
 <a href="../images/2021_august/31_1.jpg" target="_blank"><img src="../images/thumbnails/2021_august/31_1.jpg"></a>
 
-grilování s terhem
+křídla\
