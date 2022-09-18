@@ -13,6 +13,9 @@
 - [13.9. Nové pláště](#139-nové-pláště)
 - [14.9. Počasí jde do borovice](#149-počasí-jde-do-borovice)
 - [15.9. Nekonečné opravy](#159-nekonečné-opravy)
+- [16.9. Stárnu](#169-stárnu)
+- [17.9. Květiny a pivo](#179-květiny-a-pivo)
+- [18.9. Sport jen tak pro radost](#189-sport-jen-tak-pro-radost)
 
 ### 1.9. Grilování u Jardy
 
@@ -147,7 +150,68 @@ Na tiskařské byla moc hezká zlatá hodinka. Fotkou se mi ale nepodařilo zach
 
 ### 14.9. Počasí jde do borovice
 
-Jak by řekli ve Finsku. U nás spíš do kopru. At už jedno či druhé, prostě chcalo.
+Jak by řekli ve Finsku. U nás spíš do kopru. At už jedno či druhé, prostě chcalo.\
+pomaloučku po mokré cestě za cyklistkou na esce\
+kyje
 
 ### 15.9. Nekonečné opravy
+
+
+
+### 16.9. Stárnu
+
+kyje\
+jedno na plechárně\
+
+<a href="../images/2022_september/16_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/16_1.jpg"></a>
+
+na chodov plavat\
+domů\
+procházka po praze\
+už vůbec nechodím po hospodách\
+václavák je kamenné peklo\
+tramvají zpátky\
+
+### 17.9. Květiny a pivo
+
+pěšky do OBI\
+několikrát prší\
+kroupy\
+voda v levé botě\
+
+<a href="../images/2022_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_1.jpg"></a>
+
+litr za květináče\
+metrem a busem zpět\
+přesazování\
+
+<a href="../images/2022_september/17_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_2.jpg"></a>
+
+monstera to asi nedá\
+kepka výtah\
+ondra\
+do vzletu\
+ukrajinský koncert\
+
+<a href="../images/2022_september/17_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_3.jpg"></a>
+
+suterén\
+
+### 18.9. Sport jen tak pro radost
+
+Už jsem starší. Pět piv po týdnu nepití po ránu jsem cítil. Rozhodl jsem se kocovinu vyhnat sportem. Na kole jsem poslední dobou jezdíl pouze jako na dopravním prostředku. Už dlouho jsem nejel jen protože rádvv jezdím na kole. Počasí tomu sice nepřálo, ale vzal jsem si svetřík a vyrazil na cestu.\
+
+<a href="../images/2022_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/18_1.jpg"></a>
+
+Můj plán bylo vydřít si kopce do Dolních Břežan a užít si sjezd roklí. Spálil jsem se ale, protože na začátku rokle chyběl most a cesta byla zavřená. Musel jsem zvolit náhradní cestu přes točnou, která byla ještě výš.\
+Sjezd k řece ale stál za to. Pomalejší a klikatější než z Břežan, ale možná o to příjemnější.\
+V Radotíně už měli hotovou lávku. Nostalgicky jsem si tam zavzpomínal na to, že naposledy jsme tudy jeli s Marťou a místo mostu měli pouze brod.\
+
+<a href="../images/2022_september/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/18_2.jpg"></a>
+
+Zradám ale nebyl konec. Cyklostezka pod Baranďákem byla zavřená. Asi mi to mělo dojít, když most je zavřený už od jara. Vynesl jsem kolo do srázu a pokračoval po několikaproudové silnici.\
+Cítil jsem, že mi dochází krevní cukr. Cukr.. jelo mi hlavou. Cukr je v kole. A kolu dávají v Mekáči k burgeru. Šlapaje, nedokázal jsem uhasit chuť na fastfood jinak než zastávkou v McDonaldu. Za sto pade to bylo chudé jídlo. Chvíli jsem googlil, zda Big Mac nebýval větší a internet mi hypotézu potvrdil.\
+Doma jsem tak ještě snědl spoustu chlebu s pomazánkou.\
+Čtyřicet kilometrů jsem ujel.. triatlonovou vzdálenost. Kdybych uběhl deset kilometrů a uplaval kilometr a půl, měl bych den s olympijským triatlonem. To znělo lákavě.\
+Nazul jsem boty a vyběhl směrem Hamerský rybník. Těch deset kilometrů jsem uběhl. Spíš ale vůli než fyzičkou. Věděl jsem, že budu trpět a že plavání je ze hry. I tak to ale byl sportovní den, ne že ne.
 
