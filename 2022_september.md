@@ -16,6 +16,11 @@
 - [16.9. Stárnu](#169-stárnu)
 - [17.9. Květiny a pivo](#179-květiny-a-pivo)
 - [18.9. Sport jen tak pro radost](#189-sport-jen-tak-pro-radost)
+- [19.9. Pro nový řidičák](#199-pro-nový-řidičák)
+- [20.9. Neúspěšný výběr bot](#209-neúspěšný-výběr-bot)
+- [21.9. Co den to defekt?](#219-co-den-to-defekt)
+- [22.9. Do Karlína kvůli Vojtovi..](#229-do-karlína-kvůli-vojtovi)
+- [23.9. Do Velryby](#239-do-velryby)
 
 ### 1.9. Grilování u Jardy
 
@@ -215,3 +220,56 @@ Doma jsem tak ještě snědl spoustu chlebu s pomazánkou.\
 Čtyřicet kilometrů jsem ujel.. triatlonovou vzdálenost. Kdybych uběhl deset kilometrů a uplaval kilometr a půl, měl bych den s olympijským triatlonem. To znělo lákavě.\
 Nazul jsem boty a vyběhl směrem Hamerský rybník. Těch deset kilometrů jsem uběhl. Spíš ale vůli než fyzičkou. Věděl jsem, že budu trpět a že plavání je ze hry. I tak to ale byl sportovní den, ne že ne.
 
+### 19.9. Pro nový řidičák
+
+Když člověku vyprší platnost řidičáku, jak se dostane na registr řidičů pro nový? Autem asi těžko. Městskou by to šlo dobře, ale kolo se úplně nabízí. Jakožto [@jsem_hater](https://twitter.com/jsem_hater/status/1571876508385386496) jsem cítil povinnost napsat o faktu, že před budovou registru není jediný cyklostojan. Naprosto promarněná příležitost. Ostatně přilehlé kongresové centrum na tom není o mnoho lépe. Na asi 9000 míst uvnitř připadá jeden cyklostojan pro asi pět kol.\
+
+### 20.9. Neúspěšný výběr bot
+
+obalen proti dešti\
+ríša prohodil dráty\
+odporový drát\
+řídítka\
+z kyjí\
+defekt\
+oprava\
+do edenu\
+nemají\
+
+### 21.9. Co den to defekt?
+
+Při odjezdu jsem objevil, že přední duše je prázdná. Včera defekt, dneska defekt.. Michelin pláště mě fakt rozezlily. Navíc přední byl opravdu menší než zadní, jak se mi zdálo když jsem je nasazoval poprvé. Půl hodina zabitá opravou. O tři bloky dál plášť vyskočil z ráfku, takže další oprava. Navíc jsem si všiml, že špalky už jsou skoro pryč. Proto jsem předchozího dne skoro nedobrzdil na Broumarské.\
+Plán koupit boty jsem tak zase posunul někam do budoucna. Stěží jsem večer stihl nakoupit, uvařit a vyprat.
+
+### 22.9. Do Karlína kvůli Vojtovi..
+
+..úplně zbytečně. Spolu jsme kromě oběda neřešili vůbec nic. Po dovolené v Chorvatsku se mu nakupily emaily a přípravy na výjezd jsme tak odsunuli na další den.
+
+Konečně jsem se prokousal opravami, Ale monča přivezla další z helsinek\
+ERP je docela nedotažené, vymýšlel jsem jak to zlepšit a reportoval bugy
+
+plavání - 400 metrů kraulem v kuse/
+
+### 23.9. Do Velryby
+
+Zničené kalhoty\
+
+<a href="../images/2022_september/23_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_1.jpg"></a>
+
+Na kole v kabátu do velryby\
+
+jarda se sárou na karláku\
+kolo u značky\
+
+<a href="../images/2022_september/23_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_2.jpg"></a>
+
+david\
+hlad burger\
+
+<a href="../images/2022_september/23_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_3.jpg"></a>
+
+o anče\
+
+<a href="../images/2022_september/23_4.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_4.jpg"></a>
+
+do popa\
