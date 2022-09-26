@@ -166,12 +166,12 @@ kyje
 
 nuda v práci\
 v září jsem nudnej člověk\
-rutina\
+rutina
 
 ### 16.9. Stárnu
 
 kyje\
-jedno na plechárně\
+jedno na plechárně
 
 <a href="../images/2022_september/16_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/16_1.jpg"></a>
 
@@ -180,7 +180,7 @@ domů\
 procházka po praze\
 už vůbec nechodím po hospodách\
 václavák je kamenné peklo\
-tramvají zpátky\
+tramvají zpátky
 
 ### 17.9. Květiny a pivo
 
@@ -191,12 +191,12 @@ A po asi hodině výběru obyčejných terakotových květináčů tam nechal be
 <a href="../images/2022_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_1.jpg"></a>
 
 Zpátky jsem jel metrem a autobusem (který jsem dobíhal) z Pražáku. Taška s nákuep se pronesla. Terakota váží svoje a to jsem cestou ještě nabral štěrk na drenáž.\
-Květiny jsem výtahem svezl dolů a dal se do přesazování. Dracenu mi několikrát shodil vítr a bál jsem se, že dostala sodu. Substrát jsem použil všechen a při cestě zpátky nahoru jsem si asi trochu natáhl záda, protože s novým květináčem dracena vážila tak čtyřicet kilo.\
+Květiny jsem výtahem svezl dolů a dal se do přesazování. Dracenu mi několikrát shodil vítr a bál jsem se, že dostala sodu. Substrát jsem použil všechen a při cestě zpátky nahoru jsem si asi trochu natáhl záda, protože s novým květináčem dracena vážila tak čtyřicet kilo.
 
 <a href="../images/2022_september/17_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_2.jpg"></a>
 
 Kepka na mě shora řval, ať neblokuju výtah. Dopo se totiž nahoru někdo stěhoval a těch pět minut, kdy jsem výtah využíval já, mu už asi přišlo přes čáru. zařval jsem na něj zpátky, ať počká až květiny vyložím u sebe ve třetím a neřve. Sousedské vztahy ma jedničku!\
-Sotva jsem kytky dozalil, Ondra zvonil dole. Vyrazili jsme na pivo do vzletu. Kdybychom přišli jen o trochu dříve, viděli bychom program Zažít Město Jinak, ale nemůžeš mít všechno. Dali jsme dvě venku a pak se přesunuli dovnitř. Tam zrovna začínal koncert dvou Ukrajinců. Zpěvačky a kytaristy. Byli dobří, mám nahrávku.\
+Sotva jsem kytky dozalil, Ondra zvonil dole. Vyrazili jsme na pivo do vzletu. Kdybychom přišli jen o trochu dříve, viděli bychom program Zažít Město Jinak, ale nemůžeš mít všechno. Dali jsme dvě venku a pak se přesunuli dovnitř. Tam zrovna začínal koncert dvou Ukrajinců. Zpěvačky a kytaristy. Byli dobří, mám nahrávku.
 
 <a href="../images/2022_september/17_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_3.jpg"></a>
 
@@ -204,13 +204,13 @@ Po deváté Vzlet zavíral. Navrhnul jsem z nostalgie Suterén. Ondra vyjel nap�
 
 ### 18.9. Sport jen tak pro radost
 
-Už jsem starší. Pět piv po týdnu nepití po ránu jsem cítil. Rozhodl jsem se kocovinu vyhnat sportem. Na kole jsem poslední dobou jezdíl pouze jako na dopravním prostředku. Už dlouho jsem nejel jen protože rádvv jezdím na kole. Počasí tomu sice nepřálo, ale vzal jsem si svetřík a vyrazil na cestu.\
+Už jsem starší. Pět piv po týdnu nepití po ránu jsem cítil. Rozhodl jsem se kocovinu vyhnat sportem. Na kole jsem poslední dobou jezdíl pouze jako na dopravním prostředku. Už dlouho jsem nejel jen protože rádvv jezdím na kole. Počasí tomu sice nepřálo, ale vzal jsem si svetřík a vyrazil na cestu.
 
 <a href="../images/2022_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/18_1.jpg"></a>
 
 Můj plán bylo vydřít si kopce do Dolních Břežan a užít si sjezd roklí. Spálil jsem se ale, protože na začátku rokle chyběl most a cesta byla zavřená. Musel jsem zvolit náhradní cestu přes točnou, která byla ještě výš.\
 Sjezd k řece ale stál za to. Pomalejší a klikatější než z Břežan, ale možná o to příjemnější.\
-V Radotíně už měli hotovou lávku. Nostalgicky jsem si tam zavzpomínal na to, že naposledy jsme tudy jeli s Marťou a místo mostu měli pouze brod.\
+V Radotíně už měli hotovou lávku. Nostalgicky jsem si tam zavzpomínal na to, že naposledy jsme tudy jeli s Marťou a místo mostu měli pouze brod.
 
 <a href="../images/2022_september/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/18_2.jpg"></a>
 
@@ -222,7 +222,7 @@ Nazul jsem boty a vyběhl směrem Hamerský rybník. Těch deset kilometrů jsem
 
 ### 19.9. Pro nový řidičák
 
-Když člověku vyprší platnost řidičáku, jak se dostane na registr řidičů pro nový? Autem asi těžko. Městskou by to šlo dobře, ale kolo se úplně nabízí. Jakožto [@jsem_hater](https://twitter.com/jsem_hater/status/1571876508385386496) jsem cítil povinnost napsat o faktu, že před budovou registru není jediný cyklostojan. Naprosto promarněná příležitost. Ostatně přilehlé kongresové centrum na tom není o mnoho lépe. Na asi 9000 míst uvnitř připadá jeden cyklostojan pro asi pět kol.\
+Když člověku vyprší platnost řidičáku, jak se dostane na registr řidičů pro nový? Autem asi těžko. Městskou by to šlo dobře, ale kolo se úplně nabízí. Jakožto [@jsem_hater](https://twitter.com/jsem_hater/status/1571876508385386496) jsem cítil povinnost napsat o faktu, že před budovou registru není jediný cyklostojan. Naprosto promarněná příležitost. Ostatně přilehlé kongresové centrum na tom není o mnoho lépe. Na asi 9000 míst uvnitř připadá jeden cyklostojan pro asi pět kol.
 
 ### 20.9. Neúspěšný výběr bot
 
@@ -234,7 +234,7 @@ z kyjí\
 defekt\
 oprava\
 do edenu\
-nemají\
+nemají
 
 ### 21.9. Co den to defekt?
 
@@ -256,7 +256,7 @@ V práci mi zatuhla modrá barva na jištění šroubů. Ředidlem nešla rozře
 
 Jarda se Sárou se vrátili s Madeiry a svolali pivo na večer do kavárny Velryba. AdHoc akce bývají úspěšnější než plánované srazy. Mělo nás být přes deset a dokonce neplánovaně dorazil David, který šel z práce za rohem. Trochu v marném rozpoložení, neb ve fireballu končil. Startapu, kterém založil. Apple hadr!\
 Já vyrazil na kole v kabátu se zámkem za páskem. Okoukal jsem to od hipstera na zelené silničce a musím říct, že je to dobrý trik. Na Karláku jsem potkal Sáru s Jardou. Jarda byl vymóděný jak do divadla a Sára to ihned komentovala tím, že kvůli němu musela převléct aby to nebylo trapný.\
-Kolo jsem nechal u značky a radši si ho vyfotil, kdybych ho viděl naposled. Ve švédský zámek mám sice víru, ale ulice to byla frekventovaná.\
+Kolo jsem nechal u značky a radši si ho vyfotil, kdybych ho viděl naposled. Ve švédský zámek mám sice víru, ale ulice to byla frekventovaná.
 
 <a href="../images/2022_september/23_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_2.jpg"></a>
 
@@ -280,7 +280,7 @@ Kolo jsem nechal dole v ikei a pěšky šel na nákup bot. Pán mi tmavé musel 
 
 <a href="../images/2022_september/24_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/24_1.jpg"></a>
 
-Zastavil jsem se ještě v dekáči pro nové cyklorukavice. Staré boty jsem jim tam nechal v koši.y
+Zastavil jsem se ještě v dekáči pro nové cyklorukavice. Staré boty jsem jim tam nechal v koši.
 
 <a href="../images/2022_september/24_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/24_2.jpg"></a>
 
