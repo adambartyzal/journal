@@ -12,7 +12,7 @@
 - [12.9. Po dvou měsících běhat](#129-po-dvou-měsících-běhat)
 - [13.9. Nové pláště](#139-nové-pláště)
 - [14.9. Počasí jde do borovice](#149-počasí-jde-do-borovice)
-- [15.9. Nekonečné opravy](#159-nekonečné-opravy)
+- [15.9. Rutina](#159-rutina)
 - [16.9. Stárnu](#169-stárnu)
 - [17.9. Květiny a pivo](#179-květiny-a-pivo)
 - [18.9. Sport jen tak pro radost](#189-sport-jen-tak-pro-radost)
@@ -21,6 +21,9 @@
 - [21.9. Co den to defekt?](#219-co-den-to-defekt)
 - [22.9. Do Karlína kvůli Vojtovi..](#229-do-karlína-kvůli-vojtovi)
 - [23.9. Do Velryby](#239-do-velryby)
+- [24.9. Nové boty](#249-nové-boty)
+- [25.9.](#259)
+- [26.9. Do La Rochelle konečně jinak než po dálnici](#269-do-la-rochelle-konečně-jinak-než-po-dálnici)
 
 ### 1.9. Grilování u Jardy
 
@@ -159,9 +162,11 @@ Jak by řekli ve Finsku. U nás spíš do kopru. At už jedno či druhé, prost�
 pomaloučku po mokré cestě za cyklistkou na esce\
 kyje
 
-### 15.9. Nekonečné opravy
+### 15.9. Rutina
 
-
+nuda v práci\
+v září jsem nudnej člověk\
+rutina\
 
 ### 16.9. Stárnu
 
@@ -245,31 +250,69 @@ Plán koupit boty jsem tak zase posunul někam do budoucna. Stěží jsem večer
 
 ..úplně zbytečně. Spolu jsme kromě oběda neřešili vůbec nic. Po dovolené v Chorvatsku se mu nakupily emaily a přípravy na výjezd jsme tak odsunuli na další den.
 
-Konečně jsem se prokousal opravami, Ale monča přivezla další z helsinek\
-ERP je docela nedotažené, vymýšlel jsem jak to zlepšit a reportoval bugy
-
-plavání - 400 metrů kraulem v kuse/
+Konečně jsem se prokousal opravami, Ale monča přivezla další z helsinek a tajemná kravice "Chybující desky - Předat Adamovi", ležela u techniků už opravdu dlouho bez tknutí. Založil jsem reklamaci z Helsinek, aby se mohl Vláďa další den trápit s platebními terminály a napsal si metody do svého API udělátka pro ERP. Webová aplikace mi přišla docela nedotažená. Vymýšlel jsem jak to zlepšit a reportoval bugy.\
+Po práci jsem jel plavat do Podolí. Dal jsem 400 metrů kraulem v kuse. Pak 300 a 300. Vytrvalost se začínala vyplácet.
 
 ### 23.9. Do Velryby
 
-Zničené kalhoty\
+V práci mi zatuhla modrá barva na jištění šroubů. Ředidlem nešla rozředit, ale aceton jí pomohl. Řeďení ale bylo medvědí službou. Tekutá barva při manipulaci vycákla z lahvičky a zničila mi kalhoty. Chvíli jsem flek čistil acetonem, ale úplně sundat nešel. Holt jsou teď už pouze pracovní.
 
 <a href="../images/2022_september/23_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_1.jpg"></a>
 
-Na kole v kabátu do velryby\
-
-jarda se sárou na karláku\
-kolo u značky\
+Jarda se Sárou se vrátili s Madeiry a svolali pivo na večer do kavárny Velryba. AdHoc akce bývají úspěšnější než plánované srazy. Mělo nás být přes deset a dokonce neplánovaně dorazil David, který šel z práce za rohem. Trochu v marném rozpoložení, neb ve fireballu končil. Startapu, kterém založil. Apple hadr!\
+Já vyrazil na kole v kabátu se zámkem za páskem. Okoukal jsem to od hipstera na zelené silničce a musím říct, že je to dobrý trik. Na Karláku jsem potkal Sáru s Jardou. Jarda byl vymóděný jak do divadla a Sára to ihned komentovala tím, že kvůli němu musela převléct aby to nebylo trapný.\
+Kolo jsem nechal u značky a radši si ho vyfotil, kdybych ho viděl naposled. Ve švédský zámek mám sice víru, ale ulice to byla frekventovaná.\
 
 <a href="../images/2022_september/23_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_2.jpg"></a>
 
-david\
-hlad burger\
+Nejedl jsem od jedenácti. Jídlo měli docela napálené, ale burger stál za to. Halloumi na jedničku, cibulka v těstíčku a výborná majonéza v ještě lepší bulce. (Teď když to píšu, dal bych si hned znova!)
 
 <a href="../images/2022_september/23_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_3.jpg"></a>
 
-o anče\
+Sára vyprávěla o Madeiře. Hodně komicky. Cestovali na půjčené motorce skrz mrak a viděli docela hovno. Na čechy odmítali zaplatit za útulnu a spali venku a s dalšími čechy chodili i tam, kam se zástupci jiných kultur neodvážili.\
+Později se přidala Kronešová s Kohym a pak i Réba.
 
 <a href="../images/2022_september/23_4.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_4.jpg"></a>
 
-do popa\
+Když Velryba skončila, pokračovali jsme do Popa. Na to, že jsem si deset dní zpátky stěžoval, že už nechodím do hospod, jich v posledních dnech navštívil docela dost.
+
+### 24.9. Nové boty
+
+Vstát v sobotu dřív než v deset se mi nedaří. Spánkový fašista sice říká, že spánek se nedá nahnat, mě co do hodin asi nechybí, ale vyhřátá postel o víkendu je vyhřátá postel.\
+Plán zněl koupit boty! Moje Originals Adieas to dali pár dní přes dva roky. 741 dní konkrétně. Stály 1240 korun takže 1.67 koruny na den. To považuju za dobrý výkon. Tentokrát jsem se ale rozhodl firmu Adiho Dasslera opustit a vyzkoušet boty jeho bratra Rudolfa. Puma Ever Cord totiž byly z manšestráku a to chceš!\
+Nemohl jsem se ale rozhodnout zda modré nebo šedé. Jen na čerňáku měli obě varianty. Protože tam jezdím pořád, zkusil jsem alespoň jinou trasu kolem Tesca na skalce. Cesta vedla podél ikei a oběd v ikei já nikdy nevynechám. Měli bezmasé koule a musím říct, že jsou prostě lepší než masové.\
+Kolo jsem nechal dole v ikei a pěšky šel na nákup bot. Pán mi tmavé musel přinést někde ze skladu, ale zamiloval jsem se do nich hned. Světlý by mě prostě nezvládly.
+
+<a href="../images/2022_september/24_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/24_1.jpg"></a>
+
+Zastavil jsem se ještě v dekáči pro nové cyklorukavice. Staré boty jsem jim tam nechal v koši.y
+
+<a href="../images/2022_september/24_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/24_2.jpg"></a>
+
+Napadlo mě, že když jsem Toma nechytil týden zptky, mohl by mít čas tentokrát. Prý zrovna umyl okna a měl čas sednout si s vínem a pivkem na terasu. Dole ve večerce jsem tedy koupil dva lahváče Bráníku a společně jsme se vydali nahoru. Povídali jsme si o tramvajích, autech, kolech a politice. Až zima po západu slunka nás zahnala dovnitř, kde jsme ještě kecali a to se mi trochu vymstilo, neb cestou zpátky jsem solidně vymrzl.
+
+### 25.9. 
+
+Nemohl jsem spát. Budil jsem se s pocitem těžkých rukou a nohou. Možná za to mohla noční cyklojízda. Ale taky za to možná může nějaký long covid z toho nachalazení co se o mne pokouší celé září.\
+Po poledni jsem jel plavat. Rozhodl jsem se svůj kilometr rozdělit na tři úseky po 333 metrech ve 33 metrovém bazénu. Nějak mi ale selhal mozek, protože jsem si napočítal, že musím uplavat 3x 11 bazénů a tak jsem skončil s 1100 metry. Ale šlo mi to. Malý bazén nehřejí a už měl 19 stupňů. Říkal jsem si, že nesmím polevit v otužování a chodit pravidelně abych nezemřel šokem.\
+Odpo jsem si šel sednout do Grébovky a meditovat. Meditace je asi přehnaný termín, ale sezení, dechové cvičení a vědomé vyklízení bordelu z hlavy rozhodně probíhalo.
+
+<a href="../images/2022_september/25_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/25_1.jpg"></a>
+
+Pak jsem ještě obešel grébovku abych měl dost kroků a večer uvařil česnečku a koukal na House.
+
+### 26.9. Do La Rochelle konečně jinak než po dálnici
+
+Už zase jsem se budil. Cesta do La Rochelle pro mě rozhodně nebyla bezprecedentní a cítil jsem, že to mám tak na háku jak jen to jde. Psychikou to to tedy nebylo. Spal jsem ale o něco lépe než předchozí den.\
+Sbalil jsem se jen do batůžku. Tahat krosnu se mi nechtělo a kufr jsem si ještě nepořídil a nevím, jestlu to někdy udělám. Vypil jsem mléko, které by se zkazilo, zalil kytky, vypnul topení a vytáhl spotřebiče ze zásuvky. Bazalka stejně asi uschne, ale kvůli ní se mi nechtělo řešit zalévání někým kdo bydlí poblíž.\
+Odlet byl po dvanácté, ale sedět doma nemělo smysl a tak jsem vyrazil na tramvaj. Cesta byla naprosto rutiiní.\
+Vystál jsem si frontu, vyzvedl palubenku a vydal se na sekuritku, odkud mě poprvé v životě vyhodili. Vadila jim vrtačka. Tím, že jsem měl asi hodinu a půl k dobru jsem stihl vystát frontu na odbavení ještě jednou před tím, než se objevila Štěpánka a posléze Vojta. S Vojtou jsme ještě zašli do KFC. Tedy on si dal KFC a já si ještě koupil v Bille sendvič.\
+Napodruhé sekuritkou bez potíží. Letadlo mě ale zklamalo. Seděl jsem v poslední řadě u okéneka ale běda, okénko tam nebylo. Vedle mě seděl starší pár, pánovi smrdělo z pusy a paní do mě pořád vrážela loktem. Rozečetl jsem knížku [4000 weeks](https://www.goodreads.com/book/show/54785515-four-thousand-weeks), která říká, že právě tolik týdnů trvá jeden lidský život a čím efektivněji se ho snažíme žít, tím rychleji nás semele.
+
+<a href="../images/2022_september/26_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_1.jpg"></a>
+
+Ve Francii pršelo. Po chvilkovém boji s automatem jsme koupili lístky na vlak do centra a vydali se na přeplněný vlak B12. V Paříži už bylo počasí o trochu lepší. Asi kilometr a půl jsme šli čtvrcovou sítí činžáků a po chvíli čekání nastoupili na TGV. Sice jsme seděli pozpátku, ale byl to frkot.
+
+<a href="../images/2022_september/26_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_2.jpg"></a>
+
+I přes to, že jsme jeli skoro 300 km/h, trvala cesta skoro tři hodiny.
