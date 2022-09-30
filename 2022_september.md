@@ -24,6 +24,10 @@
 - [24.9. Nové boty a pivo na střeše](#249-nové-boty-a-pivo-na-střeše)
 - [25.9. Plavíní a klid](#259-plavíní-a-klid)
 - [26.9. Do La Rochelle konečně jinak než po dálnici](#269-do-la-rochelle-konečně-jinak-než-po-dálnici)
+- [27.9. Práce začíná](#279-práce-začíná)
+- [28.9. Tlačítka v dešti](#289-tlačítka-v-dešti)
+- [29.9. Simkarty a Itálie](#299-simkarty-a-itálie)
+- [30.9. Opět na Il de Ré a na večeři s Emou](#309-opět-na-il-de-ré-a-na-večeři-s-emou)
 
 ### 1.9. Grilování u Jardy
 
@@ -313,3 +317,107 @@ Ve Francii pršelo. Po chvilkovém boji s automatem jsme koupili lístky na vlak
 I přes to, že jsme jeli skoro 300 km/h, trvala cesta skoro tři hodiny. V La Rochelle jsme byly po setmění. Došli jsme na naše ubytování, Štěpánka to domluvila a vyrazila k sobě. Poprvé jsem viděl samsung the frame. Je to stylový, ale ve tmě to překvapivě hodně svítí. Byt byl typické airb'n'b, splácanina malých místonstí rozdělených sádrošem. Ale bylo v něm ticho, teplo a měl kuchyňku. Kousek od Plácu Vedrdun.. nebylo si na co stěžovat.
 
 <a href="../images/2022_september/26_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_3.jpg"></a>
+
+<a href="../images/2022_september/26_4.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_4.jpg"></a>
+
+<a href="../images/2022_september/26_5.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_5.jpg"></a>
+
+### 27.9. Práce začíná
+
+V pokoji jsem měl naprostou tmu a ticho. I tak jsem se vzudil někdy ve dvě a po šesté už jsem se obracel jak ražniči.\
+ráno kafe z kapsle, nářadí do batohu\
+nákup jídla v carefourru\
+snídaně na office de tourisme\
+schůze - mají věci špatně nastavené, řeší píčoviny jako překlady velo mechanique\
+na oběd do šafránu\
+zpátky do crnm\
+s anthonym po stanicích -  
+
+### 28.9. Tlačítka v dešti
+
+snídaně chcanec\
+na technoforum\
+první tlačítko jsem dojebal\
+zbytek dobrý\
+kafe z mekáče\
+oprava s technikem
+
+<a href="../images/2022_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/28_1.jpg"></a>
+
+do CDM\
+na vieux port\
+prší
+
+<a href="../images/2022_september/28_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/28_2.jpg"></a>
+
+pro baterii\
+vojta\
+na fac de science\
+do carefourru\
+lasagne v troubě co se musí přepnout z myčky
+příprava mapy na zítřek
+
+### 29.9. Simkarty a Itálie
+
+počasí se vylepšilo dle předpovědi\
+dělíme se\
+do Lagordu\
+fief rose, liutenant bernier, aristide briand, marcel de flandre, prefectura zbytečně, vieux port, maison de la mobilité, kafe doma, renesance, aresnal 2, office de tourisme
+
+<a href="../images/2022_september/29_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/29_1.jpg"></a>
+
+na pláž\
+displej\
+bageta 
+
+<a href="../images/2022_september/29_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/29_2.jpg"></a>
+
+na gare\
+do cdm\
+kolo co nefunguje\
+na večeři do města\
+itálie\
+o cestování a kraví hlavě
+
+### 30.9. Opět na Il de Ré a na večeři s Emou
+
+do carrfouru\
+snídaně na cestě\
+oprava kola\
+loučení s vincentem\
+na europe\
+oprava meoprava\
+technoforum 2\
+na clos margat zadem\
+renesance, komisariat, eglise de la genete\
+na ostrov, kola z laleau
+
+<a href="../images/2022_september/30_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_1.jpg"></a>
+
+oběd - steak a burger a hromada hranolků
+
+<a href="../images/2022_september/30_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_2.jpg"></a>
+
+na pláž\
+koupačka\
+zpátky napřímo do centra
+
+<a href="../images/2022_september/30_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_3.jpg"></a>
+
+čtečky od štěpánky\
+komisariát\
+pěšky dom\
+vojta do postele\
+za štěpánkou a neteří\
+o škole v brně\
+hledání nehledání\
+ginger, červené
+
+<a href="../images/2022_september/30_4.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_4.jpg"></a>
+
+ema je barmanka\
+sýr a přesnídávka s ořechy\
+po vieux portu do baru\
+čtyři pokoje patří k baru který neexistuje\
+o kubě a o školách\
+domů
