@@ -4,14 +4,14 @@
 - [10.10 S Marťou ven](#1010-s-marťou-ven)
 - [11.10. Box v Kyjích](#1110-box-v-kyjích)
 - [12.10. Porada](#1210-porada)
-- [13.10. Na Signál](#1310-na-signál)
+- [13.10. Signál](#1310-signál)
 - [14.10. Na Kolech k Vojtovi](#1410-na-kolech-k-vojtovi)
 - [15.10. Po letech v Písku](#1510-po-letech-v-písku)
 - [16.10. Zpátky do Prahy](#1610-zpátky-do-prahy)
-- [17.10. Týden stavění desek](#1710-týden-stavění-desek)
-- [18.10.](#1810)
-- [19.10.](#1910)
-- [20.10.](#2010)
+- [17.10. Kola plný zuby](#1710-kola-plný-zuby)
+- [18.10. Plavat každý den?](#1810-plavat-každý-den)
+- [19.10. Stavění desek](#1910-stavění-desek)
+- [20.10. Pořád HW](#2010-pořád-hw)
 - [21.10. Opět do Velryby](#2110-opět-do-velryby)
 - [22.10. Rozebrat a složit Draka](#2210-rozebrat-a-složit-draka)
 - [23.10. Ještě víc rozebrat a složit Draka](#2310-ještě-víc-rozebrat-a-složit-draka)
@@ -25,40 +25,33 @@
 
 ### 1.10. Prší
 
-Vojta spí\
-pěšky na trh
+Jak Vojta avizoval, tak provedl. Spal celé dopoledne. Se dvěma malými dětmi, spoustou povinností doma a manažerováním v naší chaotické firmě se mu spánku dostává nedostatek a tak pro něj dopoledne ve francii bylo vysvobozením. Já jsem se ale probudil bolestivě brzy a po snídani neměl co dělat. Koukat do laptopu mi přišlo jako ztráta času, když už jsem byl ve Francii. La Rochelle sice znám nazpaměť ale tržiště vždycky stojí za návštěvu.\
+Bylo to co by kamenem dohodil. Ještě, že tak, počasí totiž stálo za starou bačkoru. Útok na smysly to byl, ale přesně takový jak jsem čekal. Vůně ryb na jedné straně, pečiva na straně druhé. Zelenina, houby, káva a další plody moře.
 
 <a href="../images/2022_october/1_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/1_1.jpg"></a>
 
-tržnice civilizovaná, ale stejně zajímavá jako v asii
+Oproti tržnicím v Asii bylo všechno organizované. A taky cenově úplně jinde. Možná proto, jsem nic nekoupil i když nad quichem jsem váhal opravdu dlouho.
 
 <a href="../images/2022_october/1_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/1_2.jpg"></a>
 
-pěšky na věž, ale chtěli vstupné
+Dál se moje kroky ubírali skrze malé uličky vnitřního města. A na chvíli jsme se dokonce ztratil. Ať už ale člověk chce či nechce.. v La Rochelle vždycky skončí na Vieux Portu. Do oka mi parla mořská brána. Vypadalo to, že se dá vylézt nahoru, odkud by mohl být výhled. V mlho dešti, tedy výhled ne moc dobrý, takže za ruské kolo by nemělo smysl mrhaz penězi, ale z veže.. proč ne. I za tu ale chteli peníze. Vydřiduši žabožroutští.
 
 <a href="../images/2022_october/1_3.jpg" target="_blank"><img src="../images/thumbnails/2022_october/1_3.jpg"></a>
 
-kolo všude mozně\
-bird watching area\
-velký kerfur\
-potkal jsem vojtu\
-těstoviny\
-house\
-vlajky\
-nákup na sendviče na cestu
+Vzal jsem si tedy freebike a začal brázdit ulice širšího okolí. Kolem kolejí, skrz mokřad, kde byly ptačí pozorovatelny. Až k velkému Carrefouru. Tam jsem nakoupil potraviny na uvaření obědu a večeře a vydal se nepříliš přímou cestou zpátky.\
+Kousek od dveří jsem narazil na Vojtu. Vyrážel na trh. Odpo trh už není co ráno, takže jsem mu popřál úspěšný lov a vzal si od něj klíče. Doma jsem si uvařil těstoviny a pustil si k tomu doktora House.\
+Později jsme s Vojtou hádali evropské vlajky a světové státy na mapě. První šlo podstatně lépe jemu, druhé mně.
+Večer jsem ještě koupil suroviny na sendviče, abych na cestě domů nebyl hladový.
 
 ### 10.10 S Marťou ven
 
-po schůzi jídlo\
-naproti\
-do grébovky\
-naštvaná na celine\
-výhled na čecháč\
-kolem houpaček\
-na pivo do vinohradského\
-zelnice, mikina a psi\
-c++ a bash\
-přes čecháč k nám
+Ne že bych to nečekal, ale co je Marťa s Vilémem, vídáme se míň. Proto mě potěšilo, že jsme se domluvili na tom jít ven.\
+Zase měli schůzi SVJ, i když tentokrát se zdálo, že je jen virtuální, neb když skončila, byla Marťa překvapivě rychle ready. Sešli jsme se před gymplem a vyrazili do Grébovky. Byla naštvaná na Celine. Obsadila její byt a nechovala se jako host, ale jako by tam bydlela už leta.\
+Posadili jsme se nahoře u vily a koukali na město. na Čecháči svítilo nějaké světlo. Podle mně to byla příprava na Signál. Marťa ani nevěřila, že to je Čecháč. Orientační smysl mám zřejmě lepší. Trochu přšelo což nás nakonec popohnalo k odchodu.\
+Vzali jsme to přes Vinohrady, kolem houpaček, kde měli první rande s Vildou. I tam už signál stavěli. Dál jsme šli po korunní a skončili ve Vinohradském pivovaru. Bylo tam i přes akustické úpravy u stropu poměrně hlučno. Marťa byla hrdá na svůj poslední šicí počin. její mikinu s integrovanými rukavicemi. Nebo spíš delšími, ne úplně došitými rukávy.\
+Dali jsme si každý nějaký speciál a myslím, že s polotmavým jsem to vyhrál. Protože nejsem černá díra, nedal jsem si polévku, ale vypadala pěkně. Zelnice, taková napůl bílá napůl červená.\
+Dál jsme se bavili o tom, že jako firemní benefit si marťa vzala čas na vzdělávání. Konkrétně chce chodit na kurz bashe a c++. Dvě věci, které by se mi hodily. Rozhodl jsem se, že až bude umět nějaké triky, musí je naučit i mně.\
+Po pivu jsme to vzali přes ten čecháč. Vskutku tam stavěli mapping a vypadalo to, že to bude dobrý.
 
 ### 11.10. Box v Kyjích
 
@@ -80,7 +73,7 @@ kendy
 <a href="../images/2022_october/12_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/12_1.jpg"></a>
 
 
-### 13.10. Na Signál
+### 13.10. Signál
 
 <a href="../images/2022_october/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/13_1.jpg"></a>
 
@@ -92,28 +85,52 @@ kendy
 
 Trvalo to dlouho. Původně jsme měli vyjet na cyklo teambuilding k Vojtovi na chatu někdy v květnu. Ale Helsinky a tak dál.. nakonec byl říjen, ale zadařilo se. A ke Karlínskému jádru se na cyklovýlet přidal ještě Tenky a Fíla. Obzvlášť u Fíly jsem to cenil, protože prý na kole nejezdí a plánoval přijet vlakem se Štépou. Štěpán se ale rozhodl že nepojede a tak to Fíla kousnul a vytáhl treka z Garáže u rodičů.\
 Plán jsme vybrousili do podoby:
+
 - Jet Vlakem do Tábora
 - Z Tábora do Semic skrze sérii hospod
 - V Semicích se setkat s automotorovou částí výpravy
 - Grilovat křídla, která Ríša naložil a vypít sud Únětické 10.7°
 
+Protože jsme jeli ICčkem, muslel jsem z Vršovic ráno na hlavák. Tyhle cesty tam a zase zpátky, jsou trochu na hlavu. Obzvlášť když pak člověk vidí svoje okna z vlaku. Naproti tomu ale můžu říct, že to bylo popvé, kdy jsem na hlavák přijel skrz starou budovu.\
+V pekárně na severní straně jsem si koupil kafe a vyrazil k pokladnám, kde jsme měli domluvený sraz. Minutku po mně přijeli Ivan, Vláďa a Tenky a v těsném závěsu za nimi Fíla, který na ně prý čekal marně čekal nad tunelem, protože se rozhodli jet přes Bulhara.\
+Srdcař Tenky šel koupit pivka. Jirka jel vlakem z Hradce a tak už jsme čekali jen na organizátora Vojtu. Přijel v československém dresku na propůjčeném horáku. Tenky se vrátil s pivky a tak první půllitr padl ještě v nádražní hale na stojáka. Další pivka padla v jídelním voze jihočeského expresu poté co jsme zavěsili kola na věšáky a uložili své věco do kupé, do kterého už jsme se z jídelního vozu nevrátili. Inu cestování vlakem má svoje výhody. 
+
 <a href="../images/2022_october/14_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/14_1.jpg"></a>
+
+První úsek vedl skoro do Radimovic. Takže do kopce. Se svou reflexní bundou jsme se zařadil na konec. Jeli jsme opravdu výletním tempem. I tak ale v kopci začalo být jasné, že Ivanovi a Fílovi cyklotrénink chybí. Ale enthusiasmus rozhodně nikoliv a tak po pár vlozích, fotkách, dokopci a skopci jsme najednou stavěli v hospůdce za kulturákem v Malšicích.\
+Točili Bernarda. Pijíci včetně mě neváhali a dali si velký. Ivan rozebral svoje kolo, protože.. vlastně asi jen proto, že je konstruktér a jinak to prostě nejde.
 
 <a href="../images/2022_october/14_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/14_2.jpg"></a>
 
+Kousek za Malšicemi jsme sjížděli z asfaltu na lesní terén. Převážně to byl sjezd, neb jsme se blížili přejezdu přes Lužnici u zříceniny hradu Dobronice. Tam jsme se vyfotili a dali pát tahů z placatky s nápisem tekutý svetr. Nahoru zase vedl asfalt na kterém Fíla havaroval. Nic vážného, ale nějak se mu povedlo sjet z krajnice a spadnout. trochu nebezpečně vypadalo, když se jak sbírat své věci a málem ho u toho srazilo auto. Podělil jsem se o náplast, zavolal ostatním, že jsme v pohodě a na kopci jsme se opět sjednotili.\
+Oběd jsme dali v Bernaticích na návsi. Já guláš, většina kachnu. A k tomu Platana. Byly jsme přeci nedaleko od Protivína.
+
 <a href="../images/2022_october/14_3.jpg" target="_blank"><img src="../images/thumbnails/2022_october/14_3.jpg"></a>
+
+Úsek po obědě vedl k podolskému mostu vedoucímu přes Orlík. Ivan zřejmě píchl. Byť kolo ucházelo jen pomalu a občasná zastávka na dofouknutí stačila. Orlík byl vypuštěný a vypadal smutně. A kopec od přehrady nám dal zabrat, ale už jsme se blížili cíli.\
+Poslední dokopce..táhlé dva kilometry poměrně strmě vzhůru jsme vzali jako závod. Tedy jen Vojta, Jiří a já. Vyhrál jsem s přehledem, ale zadýchal jsem se pořádně. Vítězné pivko na vrcholu jsem mi po s bušícím srdíčkem šlo rovnou do hlavy a tak sjezd až do Semic si pamatuju jen matně.\
+Motorová část osazenstva už na nás čekala u chaty. Chata samotná byla opravdu trochu v rozpadu. Ale měla ducha né že ne. Místnost s pecí na člověka dýchla kouzlem dnů minulých.\
+Na nostalgii ale nebyl čas. Bylo třeba rozdělat oheň a malý gril a dát se do pití. Tomáš už narazil Únětický sud a tak jsme připili na úspěšnou cestu a první část teambuildingu.
+
+<a href="../images/2022_october/14_4.jpg" target="_blank"><img src="../images/thumbnails/2022_october/14_4.jpg"></a>
+
+S Vojtou a Fílou jsme se střídali v otáčení křídel na grilu. Malý Tenkyho gril byl sice pomaljší z dvou, které byly k dispozici, zato ale neopaloval ruce plameny jako ten větší, z kamení stvořený. Během konzumace jídla padla noc. Polovina z nás se uchýlila pod střechu, druhá dál diskutovala kolem stolu. Téma oblíbené.. je DJ pro firmu přítěžím, či ne.\
+Nakonec nás ale zima zahnala dovnitř k ostatním. Vytáhl jsem kytaru a podpořil opileckou atmosféru podkresem pod zpěc ostatních. I ty husličky jsme dali.
+
+<a href="../images/2022_october/14_5.jpg" target="_blank"><img src="../images/thumbnails/2022_october/14_5.jpg"></a>
+
+Mám radost, že jsem si natočil Vojtu, hrajícího těžce rasistickou píseň trvající asi 10 minut.\
+Omar s Mončou s námi vydrželi překvapivě dloho. Vyráželi domů až někdy kolem jedné. Po druhé nám Vojta vyjevil svou touhu po záletnictví a po třetí se probral Tenky, který nějak tajemně dokázal prospat virvál kolem půlnoci a pokračoval v pití.
 
 ### 15.10. Po letech v Písku
 
-Tenky mě probudil\
-snídaně\
-jsem nějak grogy\
-na autobus
+Spal jsem v kuchyni na matraci hozené na zemi. Podobně na tom byl ještě Vláďa, pohovku vyhrál Tenky. Ten mě někdy kolem sedmé vzbudil. Vyrážel totiž s Ivanem na autobus zpátky do Prahy. O to víc jsem cenil, že se přidali na cyklojízdu.
+O hodinku později už chata ožívala celá a tak jsme se pustili do chlebů s česnekovou pomazánkou. Dle Vojty magického léku na kocovinu. Byla dobrá, nic proti tomu, ale kocovina na mě přišla. Nebo spíš únava. Prostě jsem toho moc nenaspal a spánek na pivu člověka moc nedobije.\
+Po snídani jsme vyšli na MHD do písku. Plán byl totiž projít si starou část města. Popchávalo, ale i tak se mi Písek líbil. Historických budov je tam habaděj, Otava je řeka mohutná a obří bábovičky z písku jdou názvu města k duhu. 
 
 <a href="../images/2022_october/15_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/15_1.jpg"></a>
 
-pěšky po písku\
-sochy z písku\
+Oběd 
 do kozlovny\
 bagel\
 skoro na rozhlednu\
@@ -137,59 +154,49 @@ sedm divů
 
 ### 16.10. Zpátky do Prahy
 
-snídaně\
-poslední půlka piva\
-úklid\
-loučení\
-na kole na vlak
+Ještě jednou jsme zasedli k jídelnímu stolu. Posnídali jsme chleba, tentokrát s vysočinou. Chtěl jsem si k snídani natočit pivo, ale v sudu zbývala poslední decka.\
+Po snídani jsme začali uklízet. Dal jsem se napřed do umývání nádobí a poté se vyměnil s Jirkou v zametání. Vojta proplachoval pípu, a kluci sklízeli pokoj a věci venku. Společnými silami bylo uklizeno cobydup.\
+Chatu jsme zavřeli, věci naházeli do auta, zamčeli bránu, rozloučili se s Tomem a Ríšou a vyrazili na nádraží.
 
 <a href="../images/2022_october/16_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/16_1.jpg"></a>
 
-arrivou do zdic\
-bláto\
-pak už lepší
-až na dálnici hezká příroda s potůčkem\
-soutok s berounkou\
+Tentokrát jsme jeli západní cestou. Stejným vlakem jako z Deziluze. Vlastně jsem z okénka pivovar Herold zahlédl. Alča mi vnukla nápad, zastavit se v Řevnickém pivovaru ale k tomu to bylo ještě daleko, tak jsem v arrivě googlil, jaké další minipivovary potkáme. Srbský Lok, u lezeckých skal nad Berounkou se jevil jako dobrá volba.\
+Ze Zdic Jirka nevybral dobrou cestu. Kombinace bláta a listí mi ucpala vidlici a přední brzdu, tak že se skoro nedalo jet a musel jsem vodo bláto vyplachovat. Holt Karmínový drak patří na asfalt.\
+Naštěstí po asi dvou kilometrech toho marastu přišla lepší cesta. A počasí se vybarvilo. Podzimní barvy kolem potoka byly radost pohledět. Jen ta Plzeňská dálnice tu idilu rušila. V Berouně jsme se dohodli, že ještě nemáme hlad a pokračovali podél řeky dále.
 
 <a href="../images/2022_october/16_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/16_2.jpg"></a>
 
-srbský lok a zelňačka\
-chvátakčka pod karlštejnem\
-minutí mostu\
-na druhé straně víc v klidu\
-pivo v řevincích\
+U Srbských skal jsme si ale dali nejen Srbský Lok ale taky moc dobrou zelnačku. Pod Karlštejnem nás předjeli nějací dva silničkáři a Jiří se rozhodl, že tak to nepůjde a nasadil ostré tempo tak, abychom je předjeli. Povedlo se to, ale v té závratné rychlosti jsme minuli náš most a museli se vracet, takže vynaložená energie navíc přišla vniveč.\
+Druhý břeh řeky nabízel větší klid a Řevnický pivovar se blížil. Jirka nás doprovodil až ke stolu na předzahrádku pivovaru, kde se do nás opřelo sluníčko, tak silné, že v tričku mi bylo teplo, ale tam nás opustil a skočil na vlak, tak aby se do Hradce dostal před večerem.\
+Řevnická devítka je bezva pivo. Pochvaloval si ho jak Vláďa tak Vojta, pro kterého to bylo málem pivo poslední. Ne že by ho nějak otrávilo, ale plánoval vysadit pití alespoň na měsíc a možná přes celou zimu. Přes léto toho vypil prý až až.
 
 <a href="../images/2022_october/16_3.jpg" target="_blank"><img src="../images/thumbnails/2022_october/16_3.jpg"></a>
 
-jirka na vlak\
-přes vlakový most, trochu ztracení přes černošice a milionovou lávku na pivo u modřan\
-u hamru vojta domů\
-vláďu opouštím u výtoně\
-doma jsem odpadl\
-po šlofíku překvapivě fit
+Poslední ale nebylo. Po přejetí vlakového mostu, mírného pochybení v Černšicích, přejezdu přes milionovou lávku jsme si sedli ještě na záverečné pivko. Měli jen Plzeň ale co naděláš.\
+Sluníčko ale ztrácelo sílu rychleji než se nám líbilo a když byly půllitr prázdné, bylo třeba vyrazit domů. Vojta se odpojil u Ledáren a Vláďa na Výtoni. Doma jsem si dal sprchu a odpadl asi na dvě hodiny do postele. Když jse jsem se vzbudil, cítil jsem se překvapivě fit, ale praveděpodobně to byl jen zbytkáč po třech dnech lití.
 
-### 17.10. Týden stavění desek
+### 17.10. Kola plný zuby
 
-pěšky do vršovic\
-telefonát s mámou\
-pěšky do podolí\
+Kola jsme měl za poslední dobu nějak nad hlavu. Po práci jsem ho nechal opřené v Karlíně a vyrazil domů pěšky. Maje sluchátka v uších zavolal jsem Mámě, když si pořád stěžuje, že jí nevolám. Prý se zděsila, že je něco špatně, když jí volám. Takže špatně je když nevolám i když volám. Na hlavu to s ní je.\
+Cesta domů pěšky ale díky rozhovoru utekla rychleji. Protože měníla práci a byla nějak nervozní z peněz, slíbil jsem jí, že jí nějaké pošlu aby byla v poho.\
+Večer jsem šel plavat a i na cestu do bazénu jsem zvolil chůzi. Zpátky už jsem ale jel na rekole. Chozneí je přece jen hrozná zdržovačka.
 
-### 18.10.
+### 18.10. Plavat každý den?
 
-v bazénu natřískáno
+V ponědlí v Podolí, v úterý na Olšance. Lidí tam bylo ale jako smetí a plán nepříliš možný plán plavat každý den mi to rozbilo. Další den jsem do bazén neplánoval.
 
-### 19.10.
+### 19.10. Stavění desek
 
-### 20.10. 
+### 20.10. Pořád HW
 
 ### 21.10. Opět do Velryby
 
-pěšky přes staromák\
-první\
-je výčepní pivo desítka\
-filip ubytovaný, pojede do brazílie\
-ondra chce na houby\
-sára později
+Filip napsal do skupiny, zda bychom nešli na pivo. Šance vidět Filipa po jeho nastoupení do Německa značně klesli a tak nikdo nedělal Zagorku a na večer jsme domluvili opět Velrybu. Jet z Karlína do Vršovic a zpátky do centra mi přišlo zbytečné. Zůstal jsem tedy v práci déle a poté pěšky vyrazil skrz staré město k národce.\
+Byla to zajímavá procházka. Mezi turisty se člověk cítí taky trochu jako na cestách. A stejně jako na cestách mě turisté serou, srali mě i v domovině. Možná i víc.\
+Domluvení jsme byli na sedmou. Dorazil jsme v 6:59. U mně nezvyk. U ostatních taky. Filip druhý dorazil asi po dvanácti minutách. Poslední Sára se skoro hodinovým zpožděním. zato s Korou, který jako vždy byla atrakcí pro blízké okolí.\
+Z Filipa vypadlo, že pojede pracovně do Brazílie. Vysoko míří tihle korporátníci. Já si ale vlastně nemám úplně na co stěžovat. I když v Brazílii kola opravdu nemáme.\
+Ondra plánoval jít další den na sbírání lysohlávek. Úplně jsem mu to nepotrvdil, ale taky moc nevyvrátil. Jarda nadhodil, že ve Ždáře zná dobré místo a že v sobotu tam jede autem takže nás může hodit.\
+
 
 ### 22.10. Rozebrat a složit Draka
 
@@ -242,7 +249,6 @@ Ocenili, sílu toho dotazu oproti jak se máte a vyprávěli o výhře v soutě�
 Někdy v tom dorazil Jarda s Korou. Diskuse tak uhnula k cestování během turné a k tomu jak *Nepochopitelně* velký New York vlastně je. Nakonec se diskuse stočila v válce. V Nizozemí mají zdá se politici více rozumu a na populismus tam není tak zjevný jako u nás. Překvapilo mě, že prý mají vlastní zásoby plynu, ale protože na ložiscích jsou postavené domy, radši plyn kupují.\
 Před jedenácou začali zavírat. Dopili jsme a rozloučili jsme se. Bylo moc fajn je vidět.
 
-
 ### 27.10. Koncert Kájny nové kapely
 
 Když jsem dorazil, kapela už hrála a uvnitř bylo fakt hodně lidí. Tak moc, že když jsem konečně dostal pivo a zehlédl jsem někde na druhé straně místnosti viděl Filipa, nebyl jsem s to dostat se k němu. Hudba byla nahlas. Fakt zbytečně nahlas. Uvědomuju si, že zním jako důchodce, ale fakt tomu tak bylo.
@@ -262,9 +268,9 @@ Nakonec jsme tam zbyli s Markem, Kubou (dudákem), Jardou s Sárou a ti si taky 
 
 ### 28.10. Stanování co nebylo, pěšky do Podolí a zpět
 
-nakonec jen kilometr\
-do kopce na budějovickou\
-halloumi durum\
+Kalendář mi zvonil s událostí *Poslední stanování sezóny*. Všichni ale vycouvali (A to mají teplejší spacáky než já!). Mobil jsem utišil a pokračoval v polehávání. Pročítáním internetu v posteli jsem strávil celé dopoledne. Odpoledne jsem šel plavat. Důraz na slovo šel. Vyrazil jsem totiž pěšky a zdaleka ne přímo. Směrem do Michle, pak nehezkým lesem zkratkou k Vršovické vodárně, která nevyšla a já se zjevik na Pankráci. Z pankráce kolem Kavčích hor a pak už přímo dolů. I tak to ale zabralo dost času a zátky jsem plánoval jít přes Budějickou.\
+Při prvním bazénu jsme se cítil na bazénu desítky, ale když se jsem uplaval dle hodinek kilometr, cítil jsem se grogy. Později jsem zjistil, že hodinky vyignorovaly několik otoček, ale víc než kilometr a půl to nebyl.\
+Budějovická byla překvapivě daleko. Přemýšlel jsem zda si na dvorcích nedat legendární kebab, ale 170 si můžou strčit za klobouk. Semínko myšlenky ale bylo zaseto a po objevu, že ve svátek jsou zavřené nejen sámošky, ale i celá ócéčka, jsem nakoupil halloumi durum před DBK od dvou usměvavých turků za kulatých sto.
 
 ### 29.10. Výlet k přehradě
 
@@ -275,7 +281,7 @@ Blešák byl tragédie.\
 Pokračovali jsme přes most k nádraží. Dokonce jsme zahlédli ten první autobus, ale nenaděláš nic. Jarda zmizel na záchody na nádraží a my se Sárou jsme se postavili do fronty na bus další.\
 Jarda si dával na čas. Pustili jsme do autobusu celou frontu a ani během toho nepřišel. Ostatně tak Ondra s Rébou. Chtě sedět, nastoupili jsme a zabrali sedadla. Ostatní se ukázali o pár minut později.\
 Šel na mě bolehlav. Už ráno jsem cítil, že sinusitida mě dobíhá a teplá sprcha nepomohla. V autobuse jsem tak spíš poslouchal diskusi o lomení mostů proti či po proudu.\
-Po půl hodině jízdy pozadu a stupňující bolesti v dutinách jsme dorazili do Štěchovic a vydali se na cestu. Hned za vsí jsme prošli kolem přečerpávající elektrárny, která rozpoutala diskusi o ukládání energie, vlacích na principu zeměpádu, vesmírném výtahu a háku a lineárních městech v poušti.\ 
+Po půl hodině jízdy pozadu a stupňující bolesti v dutinách jsme dorazili do Štěchovic a vydali se na cestu. Hned za vsí jsme prošli kolem přečerpávající elektrárny, která rozpoutala diskusi o ukládání energie, vlacích na principu zeměpádu, vesmírném výtahu a háku a lineárních městech v poušti.
 
 <a href="../images/2022_october/29_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/29_1.jpg"></a>
 
@@ -301,4 +307,4 @@ Doma jsem si dal ještě jednu teplou sprchu a uvařil vývar s česnekem. Ten m
 Jak jsem si myslel.. na plavání jsem se necítil. Další vývar a ibalgin mě trochu spravily.\
 K jídlu doma toho moc nebylo. Měl jsem tak záminku konečně odnést láhve ze skříně. Účet za zálohu jsem si dal k mobilu, abych ho na kase nezapoměl odevzdat, ale stejně jsem to nějak nezvládl.\
 Přes den jsem toho moc nenadělal. Umyl trochu nádobí a dokoukal doktora house. Už úplně. Skvělá příležitost přestat se závislostí na seriálech.\
-Za poslední měsíc jsem nezapsal do deníku ani jeden den. Tu a tam jsem si dělal poznámky, ale celistvý text chyběl. Začal jsem soupisem výletu k přehradě a pokračoval prokousáváním se proti směru času.
+Za poslední měsíc jsem nezapsal do deníku ani jeden den. Tu a tam jsem si dělal poznámky, ale celistvý text chyběl. Začal jsem soupisem výletu k přehradě a plánoval pokračovat proti směru času, ale moc jsem tomu nedal.
