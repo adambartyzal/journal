@@ -18,10 +18,11 @@
 - [24.10. Pondělí rutinou](#2410-pondělí-rutinou)
 - [25.10. Kolo s novou deskou umřelo](#2510-kolo-s-novou-deskou-umřelo)
 - [26.10. Janne a Dave](#2610-janne-a-dave)
-- [27.10. Koncert Kájny nové kapely](#2710-koncert-kájny-nové-kapely)
+- [27.10. Koncert Kájiny nové kapely](#2710-koncert-kájiny-nové-kapely)
 - [28.10. Stanování co nebylo, pěšky do Podolí a zpět](#2810-stanování-co-nebylo-pěšky-do-podolí-a-zpět)
 - [29.10. Výlet k přehradě](#2910-výlet-k-přehradě)
 - [30.10. Dopsat deník?](#3010-dopsat-deník)
+- [31.10. Opět na ORL](#3110-opět-na-orl)
 
 ### 1.10. Prší
 
@@ -103,7 +104,7 @@ Točili Bernarda. Pijíci včetně mě neváhali a dali si velký. Ivan rozebral
 <a href="../images/2022_october/14_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/14_2.jpg"></a>
 
 Kousek za Malšicemi jsme sjížděli z asfaltu na lesní terén. Převážně to byl sjezd, neb jsme se blížili přejezdu přes Lužnici u zříceniny hradu Dobronice. Tam jsme se vyfotili a dali pát tahů z placatky s nápisem tekutý svetr. Nahoru zase vedl asfalt na kterém Fíla havaroval. Nic vážného, ale nějak se mu povedlo sjet z krajnice a spadnout. trochu nebezpečně vypadalo, když se jak sbírat své věci a málem ho u toho srazilo auto. Podělil jsem se o náplast, zavolal ostatním, že jsme v pohodě a na kopci jsme se opět sjednotili.\
-Oběd jsme dali v Bernaticích na návsi. Já guláš, většina kachnu. A k tomu Platana. Byly jsme přeci nedaleko od Protivína.
+Oběd jsme dali v Bernaticích na návsi. Já guláš, většina kachnu. A k tomu Platana. Byli jsme přeci nedaleko od Protivína.
 
 <a href="../images/2022_october/14_3.jpg" target="_blank"><img src="../images/thumbnails/2022_october/14_3.jpg"></a>
 
@@ -222,17 +223,19 @@ petr\
 po opravě do prokopského údolí\
 ztracen někde u vidoule\
 z ničeho nic u globusu\
+plán byl jet do ikei, ale co už\
 burger
+
+<a href="../images/2022_october/23_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/23_2.jpg"></a>
+
+past vedle pasti
 
 <a href="../images/2022_october/23_3.jpg" target="_blank"><img src="../images/thumbnails/2022_october/23_3.jpg"></a>
 
-plán byl jet do ikei, ale co už\
 zpátky přes řeporyje a z kopce do radotína\
 nechápu jak jsme to vyjeli naopak
 
 ### 24.10. Pondělí rutinou
-
-
 
 ### 25.10. Kolo s novou deskou umřelo
 
@@ -249,7 +252,7 @@ Ocenili, sílu toho dotazu oproti jak se máte a vyprávěli o výhře v soutě�
 Někdy v tom dorazil Jarda s Korou. Diskuse tak uhnula k cestování během turné a k tomu jak *Nepochopitelně* velký New York vlastně je. Nakonec se diskuse stočila v válce. V Nizozemí mají zdá se politici více rozumu a na populismus tam není tak zjevný jako u nás. Překvapilo mě, že prý mají vlastní zásoby plynu, ale protože na ložiscích jsou postavené domy, radši plyn kupují.\
 Před jedenácou začali zavírat. Dopili jsme a rozloučili jsme se. Bylo moc fajn je vidět.
 
-### 27.10. Koncert Kájny nové kapely
+### 27.10. Koncert Kájiny nové kapely
 
 Když jsem dorazil, kapela už hrála a uvnitř bylo fakt hodně lidí. Tak moc, že když jsem konečně dostal pivo a zehlédl jsem někde na druhé straně místnosti viděl Filipa, nebyl jsem s to dostat se k němu. Hudba byla nahlas. Fakt zbytečně nahlas. Uvědomuju si, že zním jako důchodce, ale fakt tomu tak bylo.
 
@@ -257,7 +260,7 @@ Když jsem dorazil, kapela už hrála a uvnitř bylo fakt hodně lidí. Tak moc,
 
 Postavil jsem se vedle reproduktorů. Paradoxně to bylo nejtišší místo, alespoň co do výšek. Taky jsem viděl přímo na kapelu. Hráli covery rockových fláků. Překvapilo mě, že kája hraje v něčem tak šablonovitém.
 
-<a href="../images/2022_october/27_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/27_1.jpg"></a>
+<a href="../images/2022_october/27_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/27_2.jpg"></a>
 
 Venku jsem se dal do řeči s Jardou. Postupně přicházeli další lidé. Sára s Korou a pak Tomáše s Míšou. S Míšou jsem se nebavil od Vody a vlastně ani tam jsme si toho moc neřekli. Přitom mi přišla zajímavá. Zeptal jsem se jí na mou obligátní otázku. Prý její sestra měla svatbu. Přišlo mi to jako vyhýbavá odpověď a trochu jsem do ní šil, ale zvládala to. Prý nemá ráda davy lidí a cítí se v nich nesvá. Smalltalky prý taky nejsou její silnou stránkou. Rozhovor s ní mě začínal bavit.\
 Když koncert první kapely skončil, přidali se k nám Nováčkovic a společně s nimi přišla holčina, co mě přesvědčovala o tom, že se známe. Bára. Absolutně vůbec jsem si na ní nevzpomínal. Ale působila fajn. V průběhu večera jsme prohodily pár smalltalků, jak by řekla Míša, ale pak zmizela bez rozloučení.\
@@ -308,3 +311,11 @@ Jak jsem si myslel.. na plavání jsem se necítil. Další vývar a ibalgin mě
 K jídlu doma toho moc nebylo. Měl jsem tak záminku konečně odnést láhve ze skříně. Účet za zálohu jsem si dal k mobilu, abych ho na kase nezapoměl odevzdat, ale stejně jsem to nějak nezvládl.\
 Přes den jsem toho moc nenadělal. Umyl trochu nádobí a dokoukal doktora house. Už úplně. Skvělá příležitost přestat se závislostí na seriálech.\
 Za poslední měsíc jsem nezapsal do deníku ani jeden den. Tu a tam jsem si dělal poznámky, ale celistvý text chyběl. Začal jsem soupisem výletu k přehradě a plánoval pokračovat proti směru času, ale moc jsem tomu nedal.
+
+
+### 31.10. Opět na ORL
+
+Rok jsem to odkládal. Říkám, že doktorům nevěřím a je to pravda. Ale taky z nich mám strach. Tedy z těch co by do mě měli řezat. Jenže moje chronická rýma mě zase doběhla. Bolení hlavy se posledních pár dní stupňovalo, nos byl ucpaný víc než obvykle a to že jsem poslední dva měsíce co víkend polehával s tím bylo tutově spojené. Inu bylo na čase vyrazit zpět na ORL do Vinohradské.\
+Vyrazil jsem tam před jednou. V jednu totiž měli otevírat, ale už tam byl kopec lidí prý od rána. Naštěstí venku bylo sluníčko a já měl dost rozumu na to vzít si s sebou laptop, takže jsem mohl pokračovat v práci. A ještě, že jsem si ho vzal. Čekal jsem tam totiž do šesti.\
+Mladá doktorka se mnou prošla jak na tom jsem a jak jsem na tom byl minule a naplánovala mi operaci na 25.11.\
+Šlo to rychle.. snad mi to pomůže.

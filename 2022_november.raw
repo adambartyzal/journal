@@ -4,7 +4,14 @@
 - [2.11. Zimní čas je pruda](#211-zimní-čas-je-pruda)
 - [3.11. Víc než jen refactor](#311-víc-než-jen-refactor)
 - [4.11. V práci do devíti večer](#411-v-práci-do-devíti-večer)
-- [5.11. Ozvěny skandinávie](#511-ozvěny-skandinávie)
+- [5.11. Ozvěny skandinávie a k Dandům](#511-ozvěny-skandinávie-a-k-dandům)
+- [6.11. Vietnam léčí kocovinu](#611-vietnam-léčí-kocovinu)
+- [7.11. Višegrádské cestování](#711-višegrádské-cestování)
+- [8.11. V úterý mi nikdo nepomáhá](#811-v-úterý-mi-nikdo-nepomáhá)
+- [9.11. V středu mám o to víc otázek](#911-v-středu-mám-o-to-víc-otázek)
+- [10.11 Je třeba tužka a papír](#1011-je-třeba-tužka-a-papír)
+- [11.11 Znovuotevření presta](#1111-znovuotevření-presta)
+- [12.11 Kasárna a monitor](#1211-kasárna-a-monitor)
 
 ### 1.11. Sprej pomáhá, ale je to dvojsečná sekera
 
@@ -22,8 +29,96 @@ Já jsem pokračoval v přepisování cbqt. Z prvu to vypadalo bezvýchodně, al
 Chcalo ale pořád.\
 Nakonec jsem vyrážel po deváté a draka jsem vyměnil za freebike, hlavně kvůli blatníkům.
 
-### 5.11. Ozvěny skandinávie
+### 5.11. Ozvěny skandinávie a k Dandům
 
 S psaním deníku to nebylo slavné. Sice byly Září a Říjen méně rušnější měsíce, než léto, ale pár věcí, které jsem dopsal v Neděli zdaleka nepokryly vešeré uplynulé dění. Doma se na psaní prostě neumím soustředit a nejlíp se mi na cestách psalo v Ikei. Bílý šum lidí v jídelně a nekonečná zásoba kafe je ideální kombo. Déšť předchozího dne se vytratil a tak jsem po mírném úklidu sedl na freebike a vyrazil na východ Prahy.
 
 Asi u páté kávy jsem si uvědomil, že kofein mě množství kofeinu v krvi dosahovalo nadkritické hodnoty a začínal jsem se cítit sjetě. Z rozjímání mne vytrhla velmi dobrá píseň kterou mi spotify přehodilo a při čtení jejího názvu jsem se hlasitě rozesmál. *Caffeinated Consciousness* se jmenovala.
+Na kole zpátky přes karlín\
+k dandům po roce\
+na taiwan?\
+k ondrovi\
+víra v vztahy\
+prý je mi 16\
+za tramvají se sárou
+
+### 6.11. Vietnam léčí kocovinu
+
+bolehlav\
+na nákup\
+vařit asii\
+sára píše o pho\
+jarda lil až do pěti ráno\
+před nádražím\
+do vietnam food\
+uvnitř ne venku\
+marťa jede domů ze skautu a píše\
+zpátky dom\
+měsíc září\
+
+### 7.11. Višegrádské cestování
+
+Vstávat ve 4:30 je nelidské. Proto jsem měl dva budíky a na hodinkách jsem si ještě nastavil časovač, co kdybych znova usnul. Nasoukat do sebe snídani je taky úplně jiný zážitek než po sedmé.\
+Na kole byla i přes zimní rukavice, mikinu kabát a šálu docela zima. A v Kyjích jsem byl první, byť ostatní dorazili v těsném závěsu. Vidět DJe v šest ráno je věc.. inu není lepší termín než nevídaná.\
+Naložili jsme co bylo třeba a vyrazili na cestu. Jižní Spojka, Spořilovská radiála, mekáč. A pak už D1 až do Brna.\
+Česká zem je nádherná na pohled. Obzvlášť po ránu. Mlhy nad řekami v údolích a ranní paprsky prosvěcujícíc podzimní barvy stromů na vrcholcích kopců. Prostě radost..\
+..dokud tedy člověka nezačne srát slunce neustále člověka bodajícího do očí, protože jede směrem na východ.
+v trnavě kolem jedenácté\
+jako minule mě box vypekl\
+rychlý oběd na benzíně\
+žilina
+
+### 8.11. V úterý mi nikdo nepomáhá
+
+Hodně jsem posunul QML\
+
+
+### 9.11. V středu mám o to víc otázek
+
+Ráno jsem na Vláďu nasypal hromadu dotazů. Pochválil mi, že jsem přešel na repeater a modely.
+
+Tešně před odchodem jsem ale zjistil velkou nepříjemnost. Při připojení dvou stejně nadipovaných boxů se druhý nastavý jako špatně nastavený. Po sem dobrý. Jenže, když se ho člověk pokusil odpojit, odpojil se ten první. Seznam boxů totiž držel jen jejich čísla, nikoliv reference na objekty. A protože objekty zakládála třída station, nebylo z toho cesty ven.
+
+### 10.11 Je třeba tužka a papír
+
+Bylo třeba udělat to celý jinak. Vláďa navrhnul ať starý i nový box dědí obecný box, jejichž seznam bude držet stanice. Elegantní a velmi objektové řešení.\
+První půlku dne jsem tedy strávil s tužkou a papírem a rozkresloval si objekty, dědičnost a hlavně analogické schéma s obecným autem od kterého dědí elektro auto a spalovací auto. Vyrábí je dvě továrny a předávají je řidiči do garáže. Řidiči, kterému je jedno jaký motor auto má, hlavně že se kola točí, když sešlápne pedál. Analogie s autem v OOP vždycky funguje. Cítil jsem se jako v prváku na vysoký. Ne.. spíš na střední. Ale věšchny věci, na které jsem se Vláďi ptal, jsem si vlastně zodpoivěděl sám. Přihodil mi spíš céčkové vychytávky a znalosti toho, jak k mému návrhu bude přistupovat compiler.\
+Většinu druhé poloviny pracovního dne zabrala schůze.\
+
+### 11.11 Znovuotevření presta
+
+Dopsal jsem nové rozdělení objektů a dal se do testování na skutečném hardware. S boxy připojenými přes sériovou linku jsem si stejně nic moc jiného dovolit nemohl.
+11.11 v 11:11 mělo znovu otevřít presto. Podnik, kde vaří "masový nadšenec", vlastnící přilehlé řeznictví. Kluci se těšili jak.. malí kluci a já jsem si řekl, že to tedy zkusím. Nidky jsem tam ještě nebyl, protože v dobách, kdy měli naposledy otevřeno jsem byl poměrně striktní vegetarián.\
+fronta\
+marná fotka
+
+![image](11_1.jpg)
+
+bolest hlavy\
+
+starý a nový box naráz
+
+![image](11_2.jpg)
+
+večer pěšky\
+simpsonovi
+
+### 12.11 Kasárna a monitor
+
+Bolesti zad a krku v poslední době byly tutově od hrbení se doma u laptopu. Už dlouho jsem si říkal, že chci-li doma někdy pracovat, potřebuju monitor. Staré dva monitory jsem věnoval dětem v covidové nouzi a alzák hlásil Black Friday.\
+Seřadil jsem tedy Full HD monitory od nejlevnějšího a paradoxne vybral zahnutý, protože na něm byla největší sleva, měli ho v Holeškách a lidem se líbil. Taky jsem koupil stejný HUB, který mám v práci, takže budu muset připojovat jen jeden kabel a to cením.\
+Venku bylo pěkně a tak jsem cestu do Holešovic absolvoval pěšky. V Karlíně jsem se pozastavil u kasáren, uvědomil si, že jsem nikdy nebyl v kavárně bazén a šel si tam dát flat white. Sympatický podnik to je. Bazén je maličký, ale je tam. 
+
+![image](12_1.jpg)
+
+Hipsterky připravující kávu usměvavé, káva výborná. Rozhodně se tam vrátím.
+
+![image](12_2.jpg)
+
+Škoda, že HolKa ještě nestojí. Musel jsem přes Hlávkův most a byla to oklika. Překvapilo mě ale, že pilíře pod lávkou jsou stavěné po staru v bednění. Poslal jsem to Martě.
+
+![image](12_3.jpg)
+
+V Alze jsem zamáz skoro 4 tisíce a vyzvednul si monitor a hub. Krabice neměla držátko a tak mě její nošení přestalo bavit jetě v prostoru tržnice. Rozhodl jsem se otestovat přední nosič nextbiku. Neobstál. Krabice by se tam i vešla, ale gumiciky byly krátké. Pěšky se mi ale nechtělo a tak jsem to zvládl s krabicí pod ramenem.\
+Centrum bylo nepříjemně plné a kličkování s krabicí byl docela výkon, ale nerozmradal jsem ho hned po nákupu.\
+Doma jsem moje nová udělátka zapojil a zjistil, že do rohu pokoje nedosáhne wifi. Trochu jsem to tušil, ale naštvalo mě to. Přeorganizoval jsem tedy zrcadlově celý pokoj a stejně si nepomohl. Nakonec jsem objecil, že wifi rušil HUB. Co bylo ale nejzáhadnější, dělo se to pouze při zapojení USB-C jedním směrem.\
