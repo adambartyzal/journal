@@ -56,27 +56,44 @@ Po pivu jsme to vzali přes ten čecháč. Vskutku tam stavěli mapping a vypada
 
 ### 11.10. Box v Kyjích
 
-ráno zdržuju abych vyjel po dešti\
-místo průmyslové po novém asfaltu\
-zakládání cbn\
-serva, dveře, ivan, barva
+Ráno zdržuju abych vyjel až po dešti. Cítil jsem opravdu nechuť jet až do Kyjí kvůli Trnavskýmu boxu. Už mi to sežralo dost času. Ale třeba to tentokrát vyjde, řekl jsem si nakonec.\
+Na Městem na Kole psali, že člověk jedoucí do Kyjí už nemusí jet po Průmyslové, protože naproti tiskařské je nově vyasfaltovaný několika kilometrový úsek vedoucí někam na nedokončenou. Jel jsem to tedy prubnout a až na ceduli zákaz vjezdu, probíhají práce tam ta asfaltka fakt je. A je pěkná. Akorát vede někam do prostředka Nedokončený. Pro obyvatele Jahodnic asi dobrý, ale já zůstanu u Průmyslový.\
+Nody v Kyjích ale neprošly testerem. Když už jsem tam byl, otestoval jsem je všechny což zabralo první polovinu dne.\
+Omar rozjel bitvu vůči historickým položkám ve skladu. Nebylo to od věci. Vzadu měli opravdu velkou hromadu šitu. Ale občas člověka překvapí co v tom bordelu najde. Tentokrát jsme třeba našli fosforeskující barvu. Idea prý byla, že řídítka budou v noci celá svítit. Ale nějak to nevyšlo.
 
 <a href="../images/2022_october/11_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/11_1.jpg"></a>
 
-box\
-bez oběda\
-do globusu\
-domů\
-kendy
+Přemýšlel jsem, zda to nějak nevyužít na Signálový outfit, ale ukázalo se, že barva je před vypálením jedovatá.\
+Nějak jsem prokaučoval dobu oběda a řekl jsem si, že to zvládnu bez něj. Chtěl jsem mít ten box z krku. Po dostavění jsem ho nechal běžet, jak si DJ přál a vyrazil do globusu na pozdní jídlo.\
+Domu mezitím přijel Kendy a celý večer hrál Factorio.
 
 ### 12.10. Porada
 
+Jsem v práci jediný, komu nechodí email o tom, že bude porada. Tentokrát mě překvapila. Její trvání bylo značné a Tenky to nakonec vystihl hezky.. Vyřešilo se kulový.
+
 <a href="../images/2022_october/12_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/12_1.jpg"></a>
 
+V bazénu na mě přišla lenost a uplaval jsem jen tři čtvrtě kilometru.\
+Holt není každý den posvícení.
 
 ### 13.10. Signál
 
+Slunce už zapadalo před sedmou a tak přišel čas, kdy je v Praze signál. Docela jsem se těšil. Rok zpátky jsem byl ve Finsku a festival minul. Dva roky zpátky jsem si ale vybavil docela živě. Rande s holkou z Tinderu, která mě asi chtěla na nezávaznou zábavu, ale já jsem pro to nic neudělal. Zpětně vzato chybice. Prsa měla fakt moc pěkný a zřejmě si s nima hrál další den někdo jinej. Co už..\
+Byli jsme domluvení s Alčou, že se potkáme po práci na Čecháči, koukneme na mapping a pak pojedeme za ostatními.\
+Když jsem za Alčou na Čecháč vyrážel, stihla už si někde dát pivko. Prý ale není alkoholik. Vlastně jsem si vůbec nebyl jistý, jestli jí poznám. Konec konců jsme se viděli jednou a docela jsme tehdá lili. Ale napsala že stojí u levého ze dvou projektorů a byla opradu tam.\
+Maping byl docela fajn. Přišlo mi, že se snažili navodit pocit že dva paprsky z follow spotů tvoří ony obrazy promítané na zdi, což mi přišlo jako tahání diváka za nos a taky mi přišlo škoda, že levá i pravá strana dělala to samé. Ale v rámci v všech signálů to bylo docela dobrý.\
+Počkali jsme na 22 a vyrazili na Karlák. V tramvaji se k nám přidal Ondra. Prý mě skrz tramvaj poznal po hlase, protože jsem křičel. Nepřišlo mi, ale kdo ví. Sára si taky neuvědomuje, že je hlučná.\
+Marťa s Vildou u ž na nás čekali. Sáře to ještě chvíli trvalo.\
+Čvutaři nic moc abych pravdu řekl. Několik Lidarů skenovalo obecenstvo a jejich pohyb měl rozpohybovat roboty na podiu. Jestli to tak fungovalo těžko říct. Spíš jsem v tom viděl chaos.\
+Marťa nám z aplikace předčítala co měly jednotilvé výstavy reprezentovat. To mi přišlo jako nejzábavnější prvek festivalu.\
+Cestou k Národnímu divadlu jsme se bavili o jejich cestě do Rumunska. Vyjma spousty psů, které by si odvezli domů je zaujali honosné brány rumunksých stavení a ukazovali nám jejich fotky.\
+Na Havlově náměstí byla skleněná kostka s lasery s na můj vkus zbytečně hlasitým podkresem. V Klementunu zase Neuronkou generované koberce a zavešené svítící balóny aka dračí vejce. Na Mariánském náměstí byly z Ukrajinské války dovezené vraky aut. Kouřostroje a svěla jim dávala nádech tajemna a socilálně politický přesah instalace mi přišel super. Trochu to shazovalo to, že spousta lidí si to neuvědomovala. Taky mě pobavil jeden z organizátorů telefonující na technickou podporu, protože "došel kouř".\
+Zpátky na Vinohradskou část festivalu už se Alče nechtělo. Bydlí konec konců někde na Stodůlkách, takže jsem se jí až tak nedivil. Ale vypadalo to, že jí to s námi bavilo.\
+V metru na Můstk jsme se tedy rozdělili a Vinohradsko/Vršovická banda pokračovala na Mírák. Tradičně plný lidí, tradičně propracovaný a tentokrát překvapivě barevný.
+
 <a href="../images/2022_october/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/13_1.jpg"></a>
+
+Dál do sadů s houpačkami, kde byla instalace organického vzezření, poháněná motorky z průšových tiskáren a nakonec na Vršovické náměstí, kde byl interaktivní mrak z vyřazených žárovek a z nějakého neznámého důvodu koza na vodítku.
 
 <a href="../images/2022_october/13_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/13_2.jpg"></a>
 
@@ -131,25 +148,20 @@ Po snídani jsme vyšli na MHD do písku. Plán byl totiž projít si starou č�
 
 <a href="../images/2022_october/15_1.jpg" target="_blank"><img src="../images/thumbnails/2022_october/15_1.jpg"></a>
 
-Oběd 
-do kozlovny\
-bagel\
-skoro na rozhlednu\
-hádání se o směru co křižovatku\
-ríša hrubián\
-hezkou krajinou\
-jirka na fotbal\
-šlofíček
+Na oběd Vojta naplánoval Kozlovnu na Plechandě. Co to znamená, to netuším, ale prostor to byl obstojný. Vývar, o kterém Ríša snil už několik hodin byl opravdu výborný a bagel s rostbífem byl báječný. Přecpal jsem se a nebyl jsem jediný. Do kopce na rozhlednu se nám pak nikomu nechtělo. I tak jsme ale šli do kopce a i trocha výhledu na město byla.\
+V lese jsme se trochu rozhádali ohledně toho, kudy jít dál. Tomášovi totiž teklo do bot. Doslova. Voja s Vláďou se taky přeli o to která je z cest je lepší a nakonec to rozsekl Ríša, když poměrně hrubě vybafl na kolemjdoucí: "Kudy do Semic!".\
+Osloveni hrubě či nikoliv, odpověděli nám a my jsme poděkovali a vydali se hezkou cestou do kopce lesem.\
+Jirka s Vojtou plánovali jít na fotbal což mě nelákalo. Rozdělili jsme se tady na ty aktivní a lenochy. Lenoši obsadili postele a dali si šlofíčka.
 
 <a href="../images/2022_october/15_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/15_2.jpg"></a>
 
-podcast na lehátku\
-výměna tašek na střeše\
-opékání buřtů
+Já si venku pustil podcast na lehátku a dal si k tomu pivko.\
+Po fotbale se Vojta vrátil opravovat střechu. Chtěl jsem mu s tím pomoci, ale nakonec vyměňoval jen dvě tašky, takže celá má pomoc spočívala v podání žebříku.\
+K večeři jsme opékali buřty.
 
 <a href="../images/2022_october/15_3.jpg" target="_blank"><img src="../images/thumbnails/2022_october/15_3.jpg"></a>
 
-sedm divů
+Večení zábava byla dvojí. Karty proti lidskosti a Sedm divů světa.
 
 <a href="../images/2022_october/15_4.jpg" target="_blank"><img src="../images/thumbnails/2022_october/15_4.jpg"></a>
 
@@ -303,7 +315,6 @@ Hodně mě to tam překvapilo. Prostor nebyl vůbec stísněný. Stěny obložen
 Po jídle jsme seděli ještě s jednou ipou z chříče a koláčem. Réba měla problém i s ním. Těžký to s ní musí Ondra někdy mít.\
 Domů jeli ostatní tramvají, já jsem si vzal Nextbike. Pivo a jídlo bylo dobré, ale s bolehlavem mi moc nepomohlo. Při výstupu v protisměru Kateřinskou jsem cítil, že se to zhoršuje a to dost.\
 Doma jsem si dal ještě jednu teplou sprchu a uvařil vývar s česnekem. Ten mi naštěstí spustil rýmu, ale plán jít trénovat v bazénu otočky příští den jsem viděl bledě.
-
 
 ### 30.10. Dopsat deník?
 
