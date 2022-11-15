@@ -12,10 +12,19 @@
 - [10.11 Je třeba tužka a papír](#1011-je-třeba-tužka-a-papír)
 - [11.11 Znovuotevření presta](#1111-znovuotevření-presta)
 - [12.11 Kasárna a monitor](#1211-kasárna-a-monitor)
+- [13.11. Náhody a výročí](#1311-náhody-a-výročí)
+- [14.12. Nemá to konce](#1412-nemá-to-konce)
+- [15.12. Na prohlídku](#1512-na-prohlídku)
 
 ### 1.11. Sprej pomáhá, ale je to dvojsečná sekera
 
+Nespat je průser. A spát s oteklým nosem se mi nedařilo. Být nevyspalý jsem opravdu nepotřeboval. Člověk pak cítí jak jde do hajzlu uplně všechno. Koupil jsem su tedy sprej do nosu. Má se používat jen týden, jinak si člověk sliznici rozjebe ještě víc.\
+Pomáhal. Tak čtyři hodiny. Pak šel jeho efekt do háje. Řekl jsem si, že ho budu používat přes den jen prvních pár dní a pak přejdu na dávku jen před spaním.
+
 ### 2.11. Zimní čas je pruda
+
+Prvních pár hodin jsem opravdu spal jak zabitý. Nad ránem jsem měl nos už zase plný, ale hluvoký spánek se koná v první polovině, takže jsem slavil aspoň tu trochu štěstí v neštěstí.\
+Hodiny jsme byli nuceni přetočit sotva dva dny zpátky a už mě ta večerní tma srala. Dlouho jsem byl zastánce toho, že mi posouvání času nevadí.. ale vadí. Tma v zimě po páté je prostě voser. A vyhlídky nejsou dvakrát růžové. Ještě dva měsíce se to bude zhoršovat.
 
 ### 3.11. Víc než jen refactor
 
@@ -31,16 +40,16 @@ Nakonec jsem vyrážel po deváté a draka jsem vyměnil za freebike, hlavně kv
 
 ### 5.11. Ozvěny skandinávie a k Dandům
 
-S psaním deníku to nebylo slavné. Sice byly Září a Říjen méně rušnější měsíce, než léto, ale pár věcí, které jsem dopsal v Neděli zdaleka nepokryly vešeré uplynulé dění. Doma se na psaní prostě neumím soustředit a nejlíp se mi na cestách psalo v Ikei. Bílý šum lidí v jídelně a nekonečná zásoba kafe je ideální kombo. Déšť předchozího dne se vytratil a tak jsem po mírném úklidu sedl na freebike a vyrazil na východ Prahy.
-
-Asi u páté kávy jsem si uvědomil, že kofein mě množství kofeinu v krvi dosahovalo nadkritické hodnoty a začínal jsem se cítit sjetě. Z rozjímání mne vytrhla velmi dobrá píseň kterou mi spotify přehodilo a při čtení jejího názvu jsem se hlasitě rozesmál. *Caffeinated Consciousness* se jmenovala.
-Na kole zpátky přes karlín\
-k dandům po roce\
-na taiwan?\
-k ondrovi\
-víra v vztahy\
-prý je mi 16\
-za tramvají se sárou
+S psaním deníku to nebylo slavné. Sice byly Září a Říjen méně rušnější měsíce, než léto, ale pár věcí, které jsem dopsal v Neděli zdaleka nepokryly vešeré uplynulé dění. Doma se na psaní prostě neumím soustředit a nejlíp se mi na cestách psalo v Ikei. Bílý šum lidí v jídelně a nekonečná zásoba kafe je ideální kombo. Déšť předchozího dne se vytratil a tak jsem po mírném úklidu sedl na freebike a vyrazil na východ Prahy.\
+Cesta na Čerňák je už rutina. K obědu jsem zvoilil zeleninové kuličky místo těch bezmasých. S bulgurem a zeleninou místo kaše. Hlavně protože byly levnější a maso jsem nechtěl. Zato jsem chtěl dortík ke kafi.\
+Po jídle jsem vytáhl laptop a začal psát. Asi u páté kávy jsem si uvědomil, že kofein mě množství kofeinu v krvi dosahovalo nadkritické hodnoty a začínal jsem se cítit sjetě. Z rozjímání mne vytrhla velmi dobrá píseň kterou mi spotify přehodilo a při čtení jejího názvu jsem se hlasitě rozesmál. *Caffeinated Consciousness* se jmenovala. Náhoda?Nemyslím si.\
+Ondra svolal spontánní pivko v centru. Respektive, původně chtěl do Dejvic, ale Rébě ani Sáře se to nepozdávalo.\
+Vzal jsem to přes Karlím, kde jsem vyměnil baterii a zkontroloval, zda nehoří baterie z přechozího dne. Taky jsem onjevil, že prostor, který Ondra vybral je zavřený. Skončili jsme tedy u Dandů.\
+Byl to téměř přesně rok co jsem tam byl naposledy. Ondra s Rébou se chystali do Jižní Ameriky a já se zrovna vrátil z Athén a Říma.\ To znamenalo, že se s Marťou budeme znát rok. Čas letí neúprosně.\
+Možná kvůli ozvěnám minula jsme se bavili kam dál. Na Taiwan? Když už je zas otevřený? Na GR20, kam chci já. Někam do Pobaltí? Ondra s Rébou do Rigy koupili nějaké levné letenky.\
+Pivo teklo docela proudem. Hospodský se o to staral tak dobře, až ho Réba musela zarazit. Nakonec jsme se přesunuli k Ondovi domů a pokračovali rumem a diskuzí o vztazích.\
+Prý je mi duševně tak šestnáct a půl.. to jsem teda nevěděl.\
+Někdy po třetí už docela s hladinkou jsme to zabalili. Sára jela tramvají a já za tramvají na kole.
 
 ### 6.11. Vietnam léčí kocovinu
 
@@ -72,7 +81,6 @@ rychlý oběd na benzíně\
 
 Hodně jsem posunul QML\
 
-
 ### 9.11. V středu mám o to víc otázek
 
 Ráno jsem na Vláďu nasypal hromadu dotazů. Pochválil mi, že jsem přešel na repeater a modely.
@@ -83,25 +91,31 @@ Tešně před odchodem jsem ale zjistil velkou nepříjemnost. Při připojení 
 
 Bylo třeba udělat to celý jinak. Vláďa navrhnul ať starý i nový box dědí obecný box, jejichž seznam bude držet stanice. Elegantní a velmi objektové řešení.\
 První půlku dne jsem tedy strávil s tužkou a papírem a rozkresloval si objekty, dědičnost a hlavně analogické schéma s obecným autem od kterého dědí elektro auto a spalovací auto. Vyrábí je dvě továrny a předávají je řidiči do garáže. Řidiči, kterému je jedno jaký motor auto má, hlavně že se kola točí, když sešlápne pedál. Analogie s autem v OOP vždycky funguje. Cítil jsem se jako v prváku na vysoký. Ne.. spíš na střední. Ale věšchny věci, na které jsem se Vláďi ptal, jsem si vlastně zodpoivěděl sám. Přihodil mi spíš céčkové vychytávky a znalosti toho, jak k mému návrhu bude přistupovat compiler.\
+
+<a href="../images/2022_november/10_1.jpg" target="_blank"><img src="../images/thumbnails/2022_november/10_1.jpg"></a>
+
+<a href="../images/2022_november/10_2.jpg" target="_blank"><img src="../images/thumbnails/2022_november/10_2.jpg"></a>
+
 Většinu druhé poloviny pracovního dne zabrala schůze.\
 
 ### 11.11 Znovuotevření presta
 
 Dopsal jsem nové rozdělení objektů a dal se do testování na skutečném hardware. S boxy připojenými přes sériovou linku jsem si stejně nic moc jiného dovolit nemohl.
 11.11 v 11:11 mělo znovu otevřít presto. Podnik, kde vaří "masový nadšenec", vlastnící přilehlé řeznictví. Kluci se těšili jak.. malí kluci a já jsem si řekl, že to tedy zkusím. Nidky jsem tam ještě nebyl, protože v dobách, kdy měli naposledy otevřeno jsem byl poměrně striktní vegetarián.\
-fronta\
-marná fotka
+Před malým bistrem už byla fronta. Prý to není nevídané a měli jsme s tím počítat. Když už jsme tam ale byli, nemělo smysl odcházet a tak jsme skoro půl hodinku vyčkali.\
+Vyfotil jsem jen jednu velmi špatnou fotku, takže alespoň zkusím zapsat, jak strašně dobré to bylo.
 
 <a href="../images/2022_november/11_1.jpg" target="_blank"><img src="../images/thumbnails/2022_november/11_1.jpg"></a>
 
-bolest hlavy\
-
-starý a nový box naráz
+*Pomalu tažený jihoamerický Chuck Roll v Chipotle BBQ podávaný s domácím americkým dipem a hranolkami z čerstvé mrkve*. Tahle komplikovaně se to jmenovalo, ale maso bylo tak dobře připravené, že se rozpadalo na jazyku, ale mělo v sobě šťávu. Omáčka začínala sladce, ale postupně v puse přecházela do příjemného páliva, což šlo ještě brzdit jogurtovým dipem. Americké brambory, ve výčtu nezmíněné pravděpodobě proto, že třikrát americké už by bylo moc, byly tak akorát opeklé a mrkvička.. ta je dobrá ke všemu.
+Ta fronta i 179 korun za to stálo. Místní kuchař/řezník rozhodně věděl co dělá. Když jsem ho při práci poslouchal, bylo mi jasné, že příprava jídla je jeho celý život.\
+Abychom zoho neměli málo, zastavili jsme se na faře pro zákusek. I brownie ke kávě byl výbornou volbou. Inu, žili jsme si jako správný hipstr v Karlíně.\
+Jediný mráček na prosluněném dni byla pomlu se plížící bolest hlavy. Ráno byla mírná, ale odpo už mě to štval´o docela dost.\
+Dopsal jsem integraci starých a nových boxů pod sjednocenou třídu a zapojil si to na našem vývojovém boxu. Fungovalo to. Ne hned.. někde jsem nenuloval index při změně starých boxů, ale to byla drobnost.
 
 <a href="../images/2022_november/11_2.jpg" target="_blank"><img src="../images/thumbnails/2022_november/11_2.jpg"></a>
 
-večer pěšky\
-simpsonovi
+Na kolo domů jsem to ale necítil. Zvolil jsem nohy a domů se tak dostal docela pozdě. Réba psala, že promítají, mají víno a že jsme zvaní, ale večer přišla mlha a s ní hrozná zima, takže jsem doma skončil u sledování poslední řady Simpsonů. Pár dílů v 33 řadě je fakt dobrých. [Pixelated and Afraid]() je podle mně jeden z nejlepších dílů vůbec. Skoro jsem se u něj rozbrečel.
 
 ### 12.11 Kasárna a monitor
 
@@ -122,3 +136,30 @@ Hipsterky připravující kávu usměvavé, káva výborná. Rozhodně se tam vr
 V Alze jsem zamáz skoro 4 tisíce a vyzvednul si monitor a hub. Krabice neměla držátko a tak mě její nošení přestalo bavit jetě v prostoru tržnice. Rozhodl jsem se otestovat přední nosič nextbiku. Neobstál. Krabice by se tam i vešla, ale gumiciky byly krátké. Pěšky se mi ale nechtělo a tak jsem to zvládl s krabicí pod ramenem.\
 Centrum bylo nepříjemně plné a kličkování s krabicí byl docela výkon, ale nerozmradal jsem ho hned po nákupu.\
 Doma jsem moje nová udělátka zapojil a zjistil, že do rohu pokoje nedosáhne wifi. Trochu jsem to tušil, ale naštvalo mě to. Přeorganizoval jsem tedy zrcadlově celý pokoj a stejně si nepomohl. Nakonec jsem objecil, že wifi rušil HUB. Co bylo ale nejzáhadnější, dělo se to pouze při zapojení USB-C jedním směrem.\
+
+### 13.11. Náhody a výročí
+
+V posteli na druhé straně místnosti se mi špatně spalo. Jestli to bylo umístěním, nebo pár Braníky před spaním nevím. Každopádně na mě padla blbá nálada hned z rána. Rozhodl jsem se jí rozbít sportem a vyrazil pěšky do Podolí, kde jsem potkal Kubu s Niki.\
+
+Ve tři přišla Marťa s matrací, kterou jsem půjčoval Celine. Byli jsme domluvení, že půjdeme na kafe. Slavili jsme totiž výročí. Od našho neúspěšného rande už utekl rok. Neskutečný.\
+Prý místo na mně zazvonila na Kepku a ten na ní z balkonu křičel.\
+Hodili jsme matraci nahoru a vyrazili ven. Ne že bychom měli nějaký konkrétní plán. Jediné na čem jsme se prozatím shodli bylo: pivo ne, radši dort. Po plavání byl dort zasloužený. Moje váha je sice posledních pár let konstatní, takže dieta nebyla mou motivací, ale po sportu sladké vždycky chutní líp. Směr Vinohrady se jevil jako nejvíc dortu nosný. Marťa nakonec vybrala kavárnu Šlágr. Znělo to strašně, ale pohled dovnitř nás přesvědčil. Prvorepubliková kavárna jak pro Havelku.\
+Měl jsem pocit, že Štěpánka by to místo hodně cenila. Někdy bych jí tam měl vzít.
+
+<a href="../images/2022_november/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_november/13_1.jpg"></a>
+
+Dortíků měli raketu. A byly obrovské. Dospěl jsem k názoru, že sledké chci, ale cukrovku oželím a vybral jsem indiána. Marťa taky. Chvíli jí bylo blbý dát si to samý, ale vypadal prostě dobře.\
+Vyptávala se mě, jestli už jsem někam pozval Alču a když jsem odvětil, že nikoliv, zatvářila se, jako bych byl fakt marnej. Asi jsem. Měl bych se sebou něco udělat. Přesně tuhle formulaci jsem použil a jí to rozesmálo. Prý se používá spíš, když chceš shodit.\
+Indián byl fakt moc dobrý. A flat white taky. Limonáda vypadala jako marmeláda rozpuštěná ve vodě. Ale prý byla taky dobrá.
+Dál jsme se vydali na procházku. Marťa si v každé druhé ulici neodpustila poznámku, že už jsme tam spolu šli. Asi jsem jí tím nakazil. Abychom nekopírovali svou poslední trasu, otočili jsme se a uzavřeli okruh proti směru hodinových ručiček přes Lužickou a dolů Grébovkou.\
+Vyprávěla mi o shánění truhláře na výrobu stolu k lavici, kterou jí vyrobil skorošvára. Po několika dělnících co si za stůl řekli přes padesát tisíc našla povídavého pána ze Strakonic, který mimo truhlářský um vedl cestovku, profesionálně tančil a dělal spoustu dalších věcí o kterých jí během předávání materiálu stihl vyprávět.\
+
+### 14.12. Nemá to konce
+
+Charging box má víc vrstev než zlobři. Jako opravdu. Je to custom linux pro raspberry. Je to QML rozhraní, Qt aplikace, integrační testy, hned několik hardwarových rozhraní, firmware pro nabíjecí konroler, firmware pro nabíjecí nody, hardware obou desek a pak ten hardware samotnýho boxu. Rozhodnutí překopat jak Qt funguje mělo dalekosáhlý následky.\
+První polovinu dne jsem se sral s testy. Druhou jsem zas všechno rozboutal, protože sice boxy fungují parádně hot plug, ale když se stanice pustí a nějaký box není v zásuvce, na displeji se po zapojení neobjeví. V druhé polovině dne jsem vyřešil i to, ale rozjebal si tím testy.\
+Nemá to konce.
+
+### 15.12. Na prohlídku
+
+Vstávat v šest se nakonec nevyplatilo. Stejně jsem si četl v posteli deník a vykpal se ven až po sedmé.
