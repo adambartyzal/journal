@@ -16,6 +16,7 @@
 - [14.11. Nemá to konce](#1411-nemá-to-konce)
 - [15.11. Na prohlídku](#1511-na-prohlídku)
 - [16.11. Opravdu to nemá konce](#1611-opravdu-to-nemá-konce)
+- [17.11. Za svobodu a Demokracii](#1711-za-svobodu-a-demokracii)
 
 ### 1.11. Sprej pomáhá, ale je to dvojsečná sekera
 
@@ -96,13 +97,13 @@ Ráno jsem šel pěšky. U Grébovky mě pobavila kytara hozená do Botiče. Lid
 ![image](10_1.jpg)
 
 Bylo třeba udělat to celý jinak. Vláďa navrhnul ať starý i nový box dědí obecný box, jejichž seznam bude držet stanice. Elegantní a velmi objektové řešení.\
-První půlku dne jsem tedy strávil s tužkou a papírem a rozkresloval si objekty, dědičnost a hlavně analogické schéma s obecným autem od kterého dědí elektro auto a spalovací auto. Vyrábí je dvě továrny a předávají je řidiči do garáže. Řidiči, kterému je jedno jaký motor auto má, hlavně že se kola točí, když sešlápne pedál. Analogie s autem v OOP vždycky funguje. Cítil jsem se jako v prváku na vysoký. Ne.. spíš na střední. Ale věšchny věci, na které jsem se Vláďi ptal, jsem si vlastně zodpoivěděl sám. Přihodil mi spíš céčkové vychytávky a znalosti toho, jak k mému návrhu bude přistupovat compiler.\
-
-![image](10_2.jpg)
+První půlku dne jsem tedy strávil s tužkou a papírem a rozkresloval si objekty, dědičnost a hlavně analogické schéma s obecným autem od kterého dědí elektro auto a spalovací auto. Vyrábí je dvě továrny a předávají je řidiči do garáže. Řidiči, kterému je jedno jaký motor auto má, hlavně že se kola točí, když sešlápne pedál. Analogie s autem v OOP vždycky funguje. Cítil jsem se jako v prváku na vysoký. Ne.. spíš na střední. Ale věšchny věci, na které jsem se Vláďi ptal, jsem si vlastně zodpoivěděl sám. Přihodil mi spíš céčkové vychytávky a znalosti toho, jak k mému návrhu bude přistupovat compiler.
 
 ![image](10_3.jpg)
 
-Většinu druhé poloviny pracovního dne zabrala schůze.\
+![image](10_2.jpg)
+
+Většinu druhé poloviny pracovního dne zabrala schůze.
 
 ### 11.11 Znovuotevření presta
 
@@ -121,7 +122,7 @@ Dopsal jsem integraci starých a nových boxů pod sjednocenou třídu a zapojil
 
 ![image](11_2.jpg)
 
-Na kolo domů jsem to ale necítil. Zvolil jsem nohy a domů se tak dostal docela pozdě. Réba psala, že promítají, mají víno a že jsme zvaní, ale večer přišla mlha a s ní hrozná zima, takže jsem doma skončil u sledování poslední řady Simpsonů. Pár dílů v 33 řadě je fakt dobrých. [Pixelated and Afraid]() je podle mně jeden z nejlepších dílů vůbec. Skoro jsem se u něj rozbrečel.
+Na kolo domů jsem to ale necítil. Zvolil jsem nohy a domů se tak dostal docela pozdě. Réba psala, že promítají, mají víno a že jsme zvaní, ale večer přišla mlha a s ní hrozná zima, takže jsem doma skončil u sledování poslední řady Simpsonů. Pár dílů v 33 řadě je fakt dobrých. [Pixelated and Afraid](https://trakt.tv/shows/the-simpsons/seasons/33/episodes/12) je podle mně jeden z nejlepších dílů vůbec. Skoro jsem se u něj rozbrečel.
 
 ### 12.11 Kasárna a monitor
 
@@ -178,3 +179,17 @@ V práci jsem opravil to, co jsem rozbil úpravou v pondělí a dal se do řeše
 
 Pokud jsem měl v pondělí pocit, že se uzavření přepisování cbqt blížím jen velmi pomalu, nevěděl jsem co přijde o dva dny později. Sice jsem v průběhu dne uzavřel většinu issues, vydal verzi cbqt, připravil verzi rpicb, ale skutečném železe objevil, že v novém buildu nefunguje wifi.\
 Škoda že nejsem Linux Guru. Rozchodit Wifi přes WPA supplicanta mi zabralo druhou polovinu dne. A tím jsem jen ověřil, že driver funguje. Proč connman stagnuje jsem neobjevil.
+
+### 17.11. Za svobodu a Demokracii
+
+Kája mi přece jen naspala. V 0:52, kdy už jsem dávno spal. Plán prý byl sejit se na Stalinu a proběhnout se po místech spojených s revolucí.. A ráno se mi opravdu nechtělo vstávat a vyrážet do mlhy a teploty jen dvou stupňů nad nulou.\
+Ale hecnul jsem to. Vyrazil jsem na kole, nakonec k Rudlofinu, skrz Prahu, která se chystala k deštivému dni plnému oslav svobody a demokracie.\
+
+![image](17_1.jpg)
+
+Kromě Káji u Rudolfina bylo několik lidí, které jsem potkal na jejím koncertě a pár dalších, kteří se mi představili a já stejě okamžitě zapoměl jejich jména. Dokud nemám příběh, pamatuju si pouze tváře. Běželi jsme [tudy](https://www.strava.com/activities/8130126134). Povídali si u toho, párkrát se zastavili prohlídnout si listopadové události a nakonec skončili v hospodě na malé straně. Točili Vinnetoua. Volba byla jasná. 
+
+![image](17_2.jpg)
+
+Cesta na kole zpátky mě ale poznamenala. Začalo pršet a byla fakt zima. Málem mi upadly prsty a ani teplý čaj a sprcha mě moc nezahřály. Rozečetl jsem tedy v postely už asi potřetí [Jméno Větru](https://www.goodreads.com/book/show/6687286-jm-no-v-tru---kniha-prvn).\
+Večer jsme šli s Ondrou do café v lese. Pro velký úspěch jsem pokračoval v pití Vinnetoua a vypil hned dva kousky. Asi stárnu, protože mi přijde lepší dát si dvě dražší IPy, než 4 výčepáky. 
