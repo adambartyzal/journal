@@ -9,14 +9,15 @@
 - [7.11. Višegrádské cestování](#711-višegrádské-cestování)
 - [8.11. V úterý mi nikdo nepomáhá](#811-v-úterý-mi-nikdo-nepomáhá)
 - [9.11. V středu mám o to víc otázek](#911-v-středu-mám-o-to-víc-otázek)
-- [10.11 Je třeba tužka a papír](#1011-je-třeba-tužka-a-papír)
-- [11.11 Znovuotevření presta](#1111-znovuotevření-presta)
+- [10.11. Je třeba tužka a papír](#1011-je-třeba-tužka-a-papír)
+- [11.11. Znovuotevření presta](#1111-znovuotevření-presta)
 - [12.11 Kasárna a monitor](#1211-kasárna-a-monitor)
 - [13.11. Náhody a výročí](#1311-náhody-a-výročí)
 - [14.11. Nemá to konce](#1411-nemá-to-konce)
 - [15.11. Na prohlídku](#1511-na-prohlídku)
 - [16.11. Opravdu to nemá konce](#1611-opravdu-to-nemá-konce)
 - [17.11. Za svobodu a Demokracii](#1711-za-svobodu-a-demokracii)
+- [18.11. Po sto letech koulaudačka](#1811-po-sto-letech-koulaudačka)
 
 ### 1.11. Sprej pomáhá, ale je to dvojsečná sekera
 
@@ -47,7 +48,7 @@ Cesta na Čerňák je už rutina. K obědu jsem zvoilil zeleninové kuličky mí
 Po jídle jsem vytáhl laptop a začal psát. Asi u páté kávy jsem si uvědomil, že kofein mě množství kofeinu v krvi dosahovalo nadkritické hodnoty a začínal jsem se cítit sjetě. Z rozjímání mne vytrhla velmi dobrá píseň kterou mi spotify přehodilo a při čtení jejího názvu jsem se hlasitě rozesmál. *Caffeinated Consciousness* se jmenovala. Náhoda?Nemyslím si.\
 Ondra svolal spontánní pivko v centru. Respektive, původně chtěl do Dejvic, ale Rébě ani Sáře se to nepozdávalo.\
 Vzal jsem to přes Karlím, kde jsem vyměnil baterii a zkontroloval, zda nehoří baterie z přechozího dne. Taky jsem onjevil, že prostor, který Ondra vybral je zavřený. Skončili jsme tedy u Dandů.\
-Byl to téměř přesně rok co jsem tam byl naposledy. Ondra s Rébou se chystali do Jižní Ameriky a já se zrovna vrátil z Athén a Říma.\ To znamenalo, že se s Marťou budeme znát rok. Čas letí neúprosně.\
+Byl to téměř přesně rok co jsem tam byl naposledy. Ondra s Rébou se chystali do Jižní Ameriky a já se zrovna vrátil z Athén a Říma. To znamenalo, že se s Marťou budeme znát rok. Čas letí neúprosně.\
 Možná kvůli ozvěnám minula jsme se bavili kam dál. Na Taiwan? Když už je zas otevřený? Na GR20, kam chci já. Někam do Pobaltí? Ondra s Rébou do Rigy koupili nějaké levné letenky.\
 Pivo teklo docela proudem. Hospodský se o to staral tak dobře, až ho Réba musela zarazit. Nakonec jsme se přesunuli k Ondovi domů a pokračovali rumem a diskuzí o vztazích.\
 Prý je mi duševně tak šestnáct a půl.. to jsem teda nevěděl.\
@@ -90,7 +91,7 @@ Ráno jsem na Vláďu nasypal hromadu dotazů. Pochválil mi, že jsem přešel 
 
 Tešně před odchodem jsem ale zjistil velkou nepříjemnost. Při připojení dvou stejně nadipovaných boxů se druhý nastavý jako špatně nastavený. Po sem dobrý. Jenže, když se ho člověk pokusil odpojit, odpojil se ten první. Seznam boxů totiž držel jen jejich čísla, nikoliv reference na objekty. A protože objekty zakládála třída station, nebylo z toho cesty ven.
 
-### 10.11 Je třeba tužka a papír
+### 10.11. Je třeba tužka a papír
 
 Ráno jsem šel pěšky. U Grébovky mě pobavila kytara hozená do Botiče. Lidi jsou kreténi.
 
@@ -105,7 +106,7 @@ První půlku dne jsem tedy strávil s tužkou a papírem a rozkresloval si obje
 
 Většinu druhé poloviny pracovního dne zabrala schůze.
 
-### 11.11 Znovuotevření presta
+### 11.11. Znovuotevření presta
 
 Dopsal jsem nové rozdělení objektů a dal se do testování na skutečném hardware. S boxy připojenými přes sériovou linku jsem si stejně nic moc jiného dovolit nemohl.
 11.11 v 11:11 mělo znovu otevřít presto. Podnik, kde vaří "masový nadšenec", vlastnící přilehlé řeznictví. Kluci se těšili jak.. malí kluci a já jsem si řekl, že to tedy zkusím. Nidky jsem tam ještě nebyl, protože v dobách, kdy měli naposledy otevřeno jsem byl poměrně striktní vegetarián.\
@@ -142,7 +143,7 @@ Hipsterky připravující kávu usměvavé, káva výborná. Rozhodně se tam vr
 
 V Alze jsem zamáz skoro 4 tisíce a vyzvednul si monitor a hub. Krabice neměla držátko a tak mě její nošení přestalo bavit jetě v prostoru tržnice. Rozhodl jsem se otestovat přední nosič nextbiku. Neobstál. Krabice by se tam i vešla, ale gumiciky byly krátké. Pěšky se mi ale nechtělo a tak jsem to zvládl s krabicí pod ramenem.\
 Centrum bylo nepříjemně plné a kličkování s krabicí byl docela výkon, ale nerozmradal jsem ho hned po nákupu.\
-Doma jsem moje nová udělátka zapojil a zjistil, že do rohu pokoje nedosáhne wifi. Trochu jsem to tušil, ale naštvalo mě to. Přeorganizoval jsem tedy zrcadlově celý pokoj a stejně si nepomohl. Nakonec jsem objecil, že wifi rušil HUB. Co bylo ale nejzáhadnější, dělo se to pouze při zapojení USB-C jedním směrem.\
+Doma jsem moje nová udělátka zapojil a zjistil, že do rohu pokoje nedosáhne wifi. Trochu jsem to tušil, ale naštvalo mě to. Přeorganizoval jsem tedy zrcadlově celý pokoj a stejně si nepomohl. Nakonec jsem objecil, že wifi rušil HUB. Co bylo ale nejzáhadnější, dělo se to pouze při zapojení USB-C jedním směrem.
 
 ### 13.11. Náhody a výročí
 
@@ -192,4 +193,6 @@ Kromě Káji u Rudolfina bylo několik lidí, které jsem potkal na jejím konce
 <a href="../images/2022_november/17_2.jpg" target="_blank"><img src="../images/thumbnails/2022_november/17_2.jpg"></a>
 
 Cesta na kole zpátky mě ale poznamenala. Začalo pršet a byla fakt zima. Málem mi upadly prsty a ani teplý čaj a sprcha mě moc nezahřály. Rozečetl jsem tedy v postely už asi potřetí [Jméno Větru](https://www.goodreads.com/book/show/6687286-jm-no-v-tru---kniha-prvn).\
-Večer jsme šli s Ondrou do café v lese. Pro velký úspěch jsem pokračoval v pití Vinnetoua a vypil hned dva kousky. Asi stárnu, protože mi přijde lepší dát si dvě dražší IPy, než 4 výčepáky. 
+Večer jsme šli s Ondrou do café v lese. Pro velký úspěch jsem pokračoval v pití Vinnetoua a vypil hned dva kousky. Asi stárnu, protože mi přijde lepší dát si dvě dražší IPy, než 4 výčepáky.
+
+### 18.11. Po sto letech koulaudačka
