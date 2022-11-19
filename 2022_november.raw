@@ -1,6 +1,6 @@
 ## [Listopad](2022.md)  <!-- omit in toc --> 
 
-- [1.11. Sprej pomáhá, ale je to dvojsečná sekera](#111-sprej-pomáhá-ale-je-to-dvojsečná-sekera)
+- [1.11. Dvojsečná sekera](#111-dvojsečná-sekera)
 - [2.11. Zimní čas je pruda](#211-zimní-čas-je-pruda)
 - [3.11. Víc než jen refactor](#311-víc-než-jen-refactor)
 - [4.11. V práci do devíti večer](#411-v-práci-do-devíti-večer)
@@ -17,9 +17,9 @@
 - [15.11. Na prohlídku](#1511-na-prohlídku)
 - [16.11. Opravdu to nemá konce](#1611-opravdu-to-nemá-konce)
 - [17.11. Za svobodu a Demokracii](#1711-za-svobodu-a-demokracii)
-- [18.11. Po sto letech koulaudačka](#1811-po-sto-letech-koulaudačka)
+- [18.11. Kolaudačka a sníh](#1811-kolaudačka-a-sníh)
 
-### 1.11. Sprej pomáhá, ale je to dvojsečná sekera
+### 1.11. Dvojsečná sekera
 
 Nespat je průser. A spát s oteklým nosem se mi nedařilo. Být nevyspalý jsem opravdu nepotřeboval. Člověk pak cítí jak jde do hajzlu uplně všechno. Koupil jsem su tedy sprej do nosu. Má se používat jen týden, jinak si člověk sliznici rozjebe ještě víc.\
 Pomáhal. Tak čtyři hodiny. Pak šel jeho efekt do háje. Řekl jsem si, že ho budu používat přes den jen prvních pár dní a pak přejdu na dávku jen před spaním.
@@ -83,17 +83,16 @@ rychlý oběd na benzíně\
 
 ### 8.11. V úterý mi nikdo nepomáhá
 
-Hodně jsem posunul QML\
+Hodně jsem posunul QML. přišlo mi, že dole v qt se plácám už dloho. Uchopil jsem tedy problém z úplně opačné strany a začal navrhovat GUI a jeho mocky. Když vymyslím mocky, dopsat reálný kód už bude jednoduché, řekl jsem si. A byť to znělo až příliš optimisticky.. rozhodně mě to posunulo.
 
 ### 9.11. V středu mám o to víc otázek
 
-Ráno jsem na Vláďu nasypal hromadu dotazů. Pochválil mi, že jsem přešel na repeater a modely.
-
+Ráno jsem na Vláďu nasypal hromadu dotazů. Pochválil mi, že jsem přešel na repeater a modely. Povrdil mi tak, že přístup shora nebyl špatný.\
 Tešně před odchodem jsem ale zjistil velkou nepříjemnost. Při připojení dvou stejně nadipovaných boxů se druhý nastavý jako špatně nastavený. Po sem dobrý. Jenže, když se ho člověk pokusil odpojit, odpojil se ten první. Seznam boxů totiž držel jen jejich čísla, nikoliv reference na objekty. A protože objekty zakládála třída station, nebylo z toho cesty ven.
 
 ### 10.11. Je třeba tužka a papír
 
-Ráno jsem šel pěšky. U Grébovky mě pobavila kytara hozená do Botiče. Lidi jsou kreténi.
+Do práce jsem šel pěšky. U Grébovky mě pobavila kytara hozená do Botiče. Lidi jsou kreténi.
 
 ![image](10_1.jpg)
 
@@ -184,7 +183,7 @@ Pokud jsem měl v pondělí pocit, že se uzavření přepisování cbqt blíž�
 ### 17.11. Za svobodu a Demokracii
 
 Kája mi přece jen naspala. V 0:52, kdy už jsem dávno spal. Plán prý byl sejit se na Stalinu a proběhnout se po místech spojených s revolucí.. A ráno se mi opravdu nechtělo vstávat a vyrážet do mlhy a teploty jen dvou stupňů nad nulou.\
-Ale hecnul jsem to. Vyrazil jsem na kole, nakonec k Rudlofinu, skrz Prahu, která se chystala k deštivému dni plnému oslav svobody a demokracie.\
+Ale hecnul jsem to. Vyrazil jsem na kole, nakonec k Rudlofinu, skrz Prahu, která se chystala k deštivému dni plnému oslav svobody a demokracie.
 
 ![image](17_1.jpg)
 
@@ -195,4 +194,24 @@ Kromě Káji u Rudolfina bylo několik lidí, které jsem potkal na jejím konce
 Cesta na kole zpátky mě ale poznamenala. Začalo pršet a byla fakt zima. Málem mi upadly prsty a ani teplý čaj a sprcha mě moc nezahřály. Rozečetl jsem tedy v postely už asi potřetí [Jméno Větru](https://www.goodreads.com/book/show/6687286-jm-no-v-tru---kniha-prvn).\
 Večer jsme šli s Ondrou do café v lese. Pro velký úspěch jsem pokračoval v pití Vinnetoua a vypil hned dva kousky. Asi stárnu, protože mi přijde lepší dát si dvě dražší IPy, než 4 výčepáky.
 
-### 18.11. Po sto letech koulaudačka
+### 18.11. Kolaudačka a sníh
+
+V práci jsem si dal dva úkoly. Vyřešit tu zpropadenou wifi a připravit udělátko pro Vojtu na testování zámků. Oboje jsem zvládl a dokonce jsem měl pocit, že dobře. Vydal jsem release rpicb-0.9 a kvůli udělátku si napsal hezké třídy, takže kód je čitelný a dokonce jsem šel tak daleko, že jsem k tomu udělal návod na wiki. Dělat věci pořádně je někdy fajn. Měl bych se k tomu dokopávat i v dalších oblastech.\
+Večer jsme jeli do Horních Počernic k Filipovi a Anet. Na kolaudačku po asi roce a půl toho co tam bydlí. Když jsem vyrazil z práce začalo sněžit. Podzim utekl opravdu rychle.\
+Na Čerňáku jsme se sešli s Ondrou a Rébou a po mírném zmatení autobusem dojeli na úplný konec Prahy. Já už jsem tam byl několikrát, takže jsem věděl kudy. Sníh získával na síle a začal zůstávat na zemi. Vypadalo to, že v noci bude opravdu sněžit a nebude to jen trocha sňáta.\
+
+![image](18_1.jpg)
+
+Anet s Filipem nás přivítali připraveným občerstvením a německým pivkem. Po chvíli dorazili Jarda se Sárou a z nějakého důvodu se ábavou stalo sbírání papíru ze země na jedné noze pusou. Sára měla kocovinu, respektive už jí asi tak 18 hodin vyspávala, ale asi to byla docela kvalitka, když se někdy na ránem rozhodla, že z taxíku vezoucího jí domů vystoupí někde v nuslích, sedne si na zem a bude spát. Ale měla dost důvtipu na to zapnout sdílení polohy a tak jí Jarda našel.\
+Filip nám taky připravil brazilský drink a povídal nám o tom jak tam bylo. Prý vychytali jediný týden zimy v Sao Paolu. Taky týden plný stávek, kvůli volbám a celkově se zdálo, že si to tak moc neužil. Ale pak povídal o jídle a v té oblasti zřejmě nestrádal ani trochu.\
+Pak jsme se pustili do znalostně-tipovací hry Země. Nikdy mi tyhle hry nešly, ale neprohrál jsem úplně tragicky. A byla to docela zábava.
+
+![image](18_2.jpg)
+
+Pak Ondra vyhlásil anarchii. Do hry jsme opravdu zapojili přesýpací hodiny a dokud se písek nepřesypal kostičky jsme vsázeli nez limitů oficiálních pravdel. Bylo to o poznání zábavnější.
+
+![image](18_3.jpg)
+
+Abychom se z toho konce světa ale dostali zpátky do centra, museli jsme vyrazit někdy před půlnocí.\
+Na vlakovoé zastávce jsme už byli zřejmě dost mázlí, neb vydedukovat odkud vlak pojede byl docela úkol. Když drážní rozhlas zamumlal něco čemu jsem nerozuměl, zakřičel jsem.. "Můžete to zopakovat!" a ono se to skutečně stalo!\
+Z vlaku jsme sice běželi, ale 95ku nestihli. Nezbývalo než dojtít domů pěšky. Na ípáku jsme ještě zahlédli 96ku, ale ani tu bychom nedoběhli a tak nás nohy donesly až dom.

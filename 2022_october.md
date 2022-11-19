@@ -208,21 +208,14 @@ Filip napsal do skupiny, zda bychom nešli na pivo. Šance vidět Filipa po jeho
 Byla to zajímavá procházka. Mezi turisty se člověk cítí taky trochu jako na cestách. A stejně jako na cestách mě turisté serou, srali mě i v domovině. Možná i víc.\
 Domluvení jsme byli na sedmou. Dorazil jsme v 6:59. U mně nezvyk. U ostatních taky. Filip druhý dorazil asi po dvanácti minutách. Poslední Sára se skoro hodinovým zpožděním. zato s Korou, který jako vždy byla atrakcí pro blízké okolí.\
 Z Filipa vypadlo, že pojede pracovně do Brazílie. Vysoko míří tihle korporátníci. Já si ale vlastně nemám úplně na co stěžovat. I když v Brazílii kola opravdu nemáme.\
-Ondra plánoval jít další den na sbírání lysohlávek. Úplně jsem mu to nepotrvdil, ale taky moc nevyvrátil. Jarda nadhodil, že ve Ždáře zná dobré místo a že v sobotu tam jede autem takže nás může hodit.\
-
+Ondra plánoval jít další den na sbírání lysohlávek. Úplně jsem mu to nepotrvdil, ale taky moc nevyvrátil. Jarda nadhodil, že ve Ždáře zná dobré místo a že v sobotu tam jede autem takže nás může hodit.
 
 ### 22.10. Rozebrat a složit Draka
 
-Nechtělo se mi na houby\
-Až do poledne se válí\
-k obědu zbytek špaget\
-na freebikeu s do karlína\
-kafe\
-na drakovi do kyjí\
-kód od ivana\
-rozebrat kolo\
-pohromadě paráda\
-cestou v něm nějak praská
+Jak Ondra naplánoval, tak činil. Psal, zda se připojím ke sběru hub. Mě se ale opravdu nechtělo. Radši jsem se válel v posteli až někdy do poledne. Snědl jsem zbytek špaget a přemýšlel co dál.\
+Už delší dobu jsem chtěl dát kolo do pořádku. Na freebiku jsem tedy přejel do Karlína, dal si kafe, přesedlal na draka a vyrazil do Kyjí, kde je na rozebírání kola a čištění komponent lepší prostor. Měl jsem klíče, ale neměl kód. Psal jsem tedy DJovi a Ivanovi. Ivan byl rychlejší. Asi používat cizí kód není úplně legit, ale otevírám tam jednou do roka.\
+Zabralo mi to většinu dne. Rozebrat všechno na kousky, wapkou vyčistit a pak zas složit. Na mastné díly jsem použil nějaký odmašťovač na motory. Špína šla dolů raz dva. Čeho jsem si ale všiml později bylo, že svrchní vrstva kůže na rukou šla dolů taky raz dva. Inu.. chybami se člověk učí.\
+I na centrování přišlo. A tam jsem zřejmě udělal další chybu, protože cestou zpátky v předním kole něco praskalo. Jinak všechno jelo krásně drak se blýskal jak nikdy.
 
 ### 23.10. Ještě víc rozebrat a složit Draka
 
