@@ -16,8 +16,20 @@
 - [14.11. Nemá to konce](#1411-nemá-to-konce)
 - [15.11. Na prohlídku](#1511-na-prohlídku)
 - [16.11. Opravdu to nemá konce](#1611-opravdu-to-nemá-konce)
-- [17.11. Za svobodu a Demokracii](#1711-za-svobodu-a-demokracii)
+- [17.11. Za Svobodu a Demokracii](#1711-za-svobodu-a-demokracii)
 - [18.11. Kolaudačka a sníh](#1811-kolaudačka-a-sníh)
+- [19.11. Změny?](#1911-změny)
+- [20.11. Do Hory](#2011-do-hory)
+- [21.11. Pólaři kradou bazén](#2111-pólaři-kradou-bazén)
+- [22.11. EKG](#2211-ekg)
+- [23.11. Dropout](#2311-dropout)
+- [24.11. Kamarády potkávám v bazénu](#2411-kamarády-potkávám-v-bazénu)
+- [25.11. Doktoři se mezi sebou nebaví](#2511-doktoři-se-mezi-sebou-nebaví)
+- [26.11. Naposledy plavat](#2611-naposledy-plavat)
+- [27.11. Do FNKV](#2711-do-fnkv)
+- [28.11. Operace a Morfium](#2811-operace-a-morfium)
+- [29.11. V bolestech](#2911-v-bolestech)
+- [30.11. Radši o den navíc](#3011-radši-o-den-navíc)
 
 ### 1.11. Dvojsečná sekera
 
@@ -180,7 +192,7 @@ V práci jsem opravil to, co jsem rozbil úpravou v pondělí a dal se do řeše
 Pokud jsem měl v pondělí pocit, že se uzavření přepisování cbqt blížím jen velmi pomalu, nevěděl jsem co přijde o dva dny později. Sice jsem v průběhu dne uzavřel většinu issues, vydal verzi cbqt, připravil verzi rpicb, ale skutečném železe objevil, že v novém buildu nefunguje wifi.\
 Škoda že nejsem Linux Guru. Rozchodit Wifi přes WPA supplicanta mi zabralo druhou polovinu dne. A tím jsem jen ověřil, že driver funguje. Proč connman stagnuje jsem neobjevil.
 
-### 17.11. Za svobodu a Demokracii
+### 17.11. Za Svobodu a Demokracii
 
 Kája mi přece jen naspala. V 0:52, kdy už jsem dávno spal. Plán prý byl sejit se na Stalinu a proběhnout se po místech spojených s revolucí.. A ráno se mi opravdu nechtělo vstávat a vyrážet do mlhy a teploty jen dvou stupňů nad nulou.\
 Ale hecnul jsem to. Vyrazil jsem na kole, nakonec k Rudlofinu, skrz Prahu, která se chystala k deštivému dni plnému oslav svobody a demokracie.
@@ -198,7 +210,7 @@ Večer jsme šli s Ondrou do café v lese. Pro velký úspěch jsem pokračoval 
 
 V práci jsem si dal dva úkoly. Vyřešit tu zpropadenou wifi a připravit udělátko pro Vojtu na testování zámků. Oboje jsem zvládl a dokonce jsem měl pocit, že dobře. Vydal jsem release rpicb-0.9 a kvůli udělátku si napsal hezké třídy, takže kód je čitelný a dokonce jsem šel tak daleko, že jsem k tomu udělal návod na wiki. Dělat věci pořádně je někdy fajn. Měl bych se k tomu dokopávat i v dalších oblastech.\
 Večer jsme jeli do Horních Počernic k Filipovi a Anet. Na kolaudačku po asi roce a půl toho co tam bydlí. Když jsem vyrazil z práce začalo sněžit. Podzim utekl opravdu rychle.\
-Na Čerňáku jsme se sešli s Ondrou a Rébou a po mírném zmatení autobusem dojeli na úplný konec Prahy. Já už jsem tam byl několikrát, takže jsem věděl kudy. Sníh získával na síle a začal zůstávat na zemi. Vypadalo to, že v noci bude opravdu sněžit a nebude to jen trocha sňáta.\
+Na Čerňáku jsme se sešli s Ondrou a Rébou a po mírném zmatení autobusem dojeli na úplný konec Prahy. Já už jsem tam byl několikrát, takže jsem věděl kudy. Sníh získával na síle a začal zůstávat na zemi. Vypadalo to, že v noci bude opravdu sněžit a nebude to jen trocha sňáta.
 
 <a href="../images/2022_november/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_november/18_1.jpg"></a>
 
@@ -215,3 +227,98 @@ Pak Ondra vyhlásil anarchii. Do hry jsme opravdu zapojili přesýpací hodiny a
 Abychom se z toho konce světa ale dostali zpátky do centra, museli jsme vyrazit někdy před půlnocí.\
 Na vlakovoé zastávce jsme už byli zřejmě dost mázlí, neb vydedukovat odkud vlak pojede byl docela úkol. Když drážní rozhlas zamumlal něco čemu jsem nerozuměl, zakřičel jsem.. "Můžete to zopakovat!" a ono se to skutečně stalo!\
 Z vlaku jsme sice běželi, ale 95ku nestihli. Nezbývalo než dojtít domů pěšky. Na ípáku jsme ještě zahlédli 96ku, ale ani tu bychom nedoběhli a tak nás nohy donesly až dom.
+
+### 19.11. Změny?
+
+Psát si deník žere dost času. Ale není to čas, kterého bych litoval. Jedna z věcí, které se v souvislosti se psaním si deníku zminují, je pomoc se změnou zvyků a zlozvyků. A já mám pár věcí, které chci změnit. Už dlouho a zatím neúspšně.\
+Jeden ze zvyků, které chci zavést je zdravá ranní rutina. Chci vstát po tom co se probudím, vypít sklenici vody, zacvičit si, dát si střídavou sprchu a pak jít snídat. Občas se mi to povede. Ale jsou dny, kdy sáhnu po mobilu a jsem schopný do něj koukat hodinu, než se vykopu z postele.\
+Taky chci přestat koukat na porno. Už jsem to několikrát zvládnul na docela dlouhou dobu. Ale nakonec vždycky přišel relaps. Oficiálně prý neexistuje závislost na pornografii. Prý to prostě není nemoc. Ale pokud se rozhodnu, že něco nebud dělat, pak to udělám a to mi přinese akorát neštěstí, řekl bych že závislost je víc než jen analogie.\
+Podle [The Power of Habit](https://www.goodreads.com/book/show/12609433-the-power-of-habit) nejde zvyk z hlavy vymazat. Dá se jen nahradit jiným.\
+Zkusím to nějak spojím to s psaním deníku. Tohle je první vlaštovka. 20.11. Bude den, kdy zas zkusím přestat koukat na porno.\
+19.11. to ještě nevyšlo. Měl jsem kocovinu a válel se v posteli až moc dlouho.\
+Taky jsem toho moc nezvládl. Ale koupil jsem si tyčový mixér, který jsem chtěl už dlouho. Budu vařit zeleninové krémy. A taky jsem uvařil veganský guláš. Byl jedlý, ale nějaká chuť v něm chyběla. Nějspíš kyselá. Zkusím příště přidat protlak.
+Odpoledne jsem pokračoval ve Jménu Větru. Mít na houby paměť se konečně projevilo jako výhoda. Užíval jsem si tu knížku skoro, jako bych jí četl poprvé.
+
+### 20.11. Do Hory
+
+jóga a sprcha\
+pozdějším přímým vlakem\
+otravný děti\
+pěšky na šipší\
+kafe\
+robinovi knížku\
+řízky\
+z pohádky do pohádky
+
+<a href="../images/2022_november/20_1.jpg" target="_blank"><img src="../images/thumbnails/2022_november/20_1.jpg"></a>
+
+pájíme světlo\
+příprava jednohubek\
+Daiana a Štěpán\
+hra na ps4\
+lízátka\
+na nádro\
+horko ve vlaku\
+do guáše zelí
+
+### 21.11. Pólaři kradou bazén
+
+V ranním rituálu se mi daří pokračovat. Jóga odhalovala, že jsem zkrácený. A to značně. Přitáhnout se vsedě obličejem k zemi byl nadlidský úkol. Ale co.. nemusí pršet, stačí když kape.
+
+Chtěl jsem zajít do dlouhého bazénu. Vyhrálo podolí. Když jsem plaval asi desátý bazén, začali plavčíci stahovat sítě kvůli vodnímu pólu. Plavat jak králík u kraje se mi nechtělo a tak jsem dal poslední tři padesátky a šel do páry.
+
+### 22.11. EKG
+
+Úterek jsem vybral jako ideální den k návštěvě zapomenutého EKG. Oproti minule jsem zvolil freebike. Nějak se mi nechtělo tahat se v zimě na drakovi. Vlastně poslední dobou jezdím na freebiku, nextbiku nebo rekole skoro všude. Nejspíš je to kvůli kabátu. Jezdit na silničce v kabátu je prostě voser.\
+EKG byla skoro nuda. Překvapilo mě, že přístroj pořád kreslí na papír, který vám vrazí do ruky abyste ho přenesli doktorovi. 21 století!\
+
+
+### 23.11. Dropout
+
+Práce byla tentokrat relativně nudná. Řešil jsem opravu věcí z Francie. Trochu mě překvapilo, že na některých deskách byla chyba popsána mým písmem, ale tak už to holt ve startupu chodí. V provozu vyřadíš, doma opravíš. Kamion jsme taky naložili v Kyjích, nasedli do letadla a ve Finsku vyložili.\
+Ondra chtěl převodník, zavolal že se zastaví, čekal jsem na něho, ale nepřišel. Dokoukal jsem tak celý [Dropout](). Seriál graduje až do poslední chvíle. Elisabeth Holmes si těch 11 let zaslouží.\
+
+### 24.11. Kamarády potkávám v bazénu
+
+Ráno k doktorovi. Budík na šestou... budíky by měli zakázat.
+
+### 25.11. Doktoři se mezi sebou nebaví
+
+na desátou do fnkv\
+do druhých dvěří\
+lidi v pohodě\
+všechno trvá\
+doktor trochu kokot\
+čekání na anesteziologa\
+minul jsem špenát\
+místo toho čočka\
+fbe se nespouští\
+špatně nastavená ram a flash\
+sériovka nejde nastartovat z konstruktoru\
+
+### 26.11. Naposledy plavat
+
+### 27.11. Do FNKV
+
+### 28.11. Operace a Morfium
+
+přišel honza
+stříhání náramků
+
+<a href="../images/2022_november/28_1.jpg" target="_blank"><img src="../images/thumbnails/2022_november/28_1.jpg"></a>
+
+ondra jde na sál\
+nervozita stoupá\
+oblbovák\
+do andílka co nejde zavázat\
+odváží mně\
+vtipkujeme o mém jménu\
+nadychuju se a pak už nic\
+probouzím se při přesunu zpátky na pokoj\
+na nose funda\
+
+### 29.11. V bolestech
+
+### 30.11. Radši o den navíc
+
+Opravdu jsem se nemohl dočkat až mi z nosu vyndají tampony.
