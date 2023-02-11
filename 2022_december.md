@@ -26,7 +26,10 @@
 - [25.12. Dárky](#2512-dárky)
 - [26.12. Další dárky](#2612-další-dárky)
 - [27.12. Badminton a oběd s Marťou](#2712-badminton-a-oběd-s-marťou)
-- [28.12. Dopsat deník](#2812-dopsat-deník)
+- [28.12. Do Ikey a Horbnachu](#2812-do-ikey-a-horbnachu)
+- [29.12. Poučen, opět do Hornbachu](#2912-poučen-opět-do-hornbachu)
+- [30.12.](#3012)
+- [31.12. K Jardovi](#3112-k-jardovi)
 
 ### 1.12. Domů
 
@@ -91,7 +94,8 @@ na pivo s ondrou
 
 ### 6.12. Ze dvou piv kocovina?
 
-
+Po práci jsme šli s Ondrou na pivo. Přijel jsem za ním na freebiku a společně jsme vybral nějaký podnik kousek od jeho bytu. Ondra se vyptával na to jak funguje septoplastika a k čemu mi to bude. V podniku vařili vlastní piva. Oba jsme si dali nějaký svrchně kvašený speciál a už po prvním jsem začínal být docela opilý. Asi mi po operaci klesla tolerance. Během druhého dorazila Réba a diskuse se stočila k rodině a k tomu jak jsem vyrůstal. Ondru hodně bavilo to, že mě táta vychovával tak, že mi do ruky vrazil páječku a nechal mě rozebírat televize a třídit součástky.\
+Druhé pivo mi dalo snad ještě víc a na cestě na kole jsem jel s pocitem alkoholového opojení.
 
 ### 7.12. Na Projekci s Tomášem
 
@@ -326,7 +330,18 @@ marek klíče\
 nákup na vege guláš\
 strike\
 
-### 28.12. Dopsat deník
+### 28.12. Do Ikey a Horbnachu
 
 Od nástupu do nemocnice jsem vyjma pár poznámek nic nenapsal do deníku. To znamená, že se mi nakupil celý měsíc k zápisu. Sice jsem toho poslední měsíc moc nenadělal, hlavně kvůli tomu, že mě akorát tak bolel nos a moje nadšení do čehokoliv bylo na bodě mrazu, ale protože nám Ludva de facto nakázal nepracovat, čas k psaní jsem rozhodně měl. A protože se minulý výlet do ikey ukázal jako zápisutvorný, hrál jsem si s myšlenkou vyrazit tam opět. Akorát že venku bylo kolem nuly a ikea byla daleko.\
 Stejně jsem ten plán realizoval. Bezmasé kuličky a nekonečné kafe za ten výlet vždycky stojí. Než jsem ale vyjel, strávil jsem asi půlhodinu proplachováním nosu slanou vodou, protože jsem cítil, že mi levou dírku ucpal nějaký hnus sestávající se z hlenu/strupu/hnisu. Měsíc po operaci a pořád to takovýhle zrady.\
+ikea\
+do hornbachu\
+
+
+### 29.12. Poučen, opět do Hornbachu
+
+
+### 30.12. 
+
+
+### 31.12. K Jardovi
