@@ -9,6 +9,7 @@
 - [9.2. Kladivem řetěz nespojíš](#92-kladivem-řetěz-nespojíš)
 - [10.2. Nakonec to nepůjde](#102-nakonec-to-nepůjde)
 - [11.2. Den proti stresu](#112-den-proti-stresu)
+- [12.2. Je Bára kamioňák?](#122-je-bára-kamioňák)
 
 ### 1.2. Smallville
 
@@ -17,7 +18,7 @@ První středa v měsíci ale přestala být jen dnem sirén. Založili jsme tot
 Lístky tentokrát vyzvedla Marťa, která dorazila do Aera s předstihem a knížkou, kterou plánovala číst, dokud se k ní někdo nepřidá na pivo. Respektive.. tak to podala v chatu Výletníci. Když jsem po sedmé dorazil a zamčel si kolo protentokrát ve vnitrobloku, seděla nad knížkou a dojedeným hermelínem, ale lístky nikde. Naštěstí bylo místa dost. A to i pro Sáru, která nakonec nepřišla. Přišli ale Ondra s Rébou. A to s tím, že venku se prý odehrává něco jako živelná katastrofa. Kroupy s deštěm prý létaly všemi směry.\
 Doufal jsem, že během filmu to přejde. Přece jen jízda na silničce blizárdem není žádná zábava. Po chvíli konverzace o mém zubu, zubařích a čtení knížek v originále či češtině, dorazil Vilda. Ten nebyl pomlácený od krup, ale záčený fest.\
 Před filem jsem se rozhodl stihnout ještě jedno pivo naknop, ale délka fronty mi to málem znemožnila.\
-Film naslepo jsem tentokrát už viděl. Z nás všech jediný. Ale neodešel jsem pro kinem slíbený drink. Smallville je fajn film a já ho viděl už docela dávno. Sice vícekrát, ale i tak má paměť spoustu drobností vymazala a já se bavil. Vidět film v kině, kde je uvolněná atmosféra je přece jen jiné než na Nově po zprávách s Rayem a Borhyovou.\
+Film naslepo jsem tentokrát už viděl. Z nás všech jediný. Ale neodešel jsem pro kinem slíbený drink. Pleasantville(https://www.csfd.cz/film/19307-pleasantville-mestecko-zazraku) je fajn film a já ho viděl už docela dávno. Sice vícekrát, ale i tak má paměť spoustu drobností vymazala a já se bavil. Vidět film v kině, kde je uvolněná atmosféra je přece jen jiné než na Nově po zprávách s Rayem a Borhyovou.\
 Ostatní film bavil moc. Aero naslepo je dobrá tradice.\
 Domů jsem jel opět na Drakovi. Dokonce jsem ještě Vildu s Marťou potkal na Želvě, kde přestupovali z tramvaje na autobus.
 
@@ -85,3 +86,7 @@ Pětikilometrový běh skrz Folimanku a Grébovku mě tak skoro vůbec nesundal.
 Letos jsem ještě nenahrál nic do deníku. Měsíc a půl pryč a poslední půblikovaná změna byla 28.12.2022. Bylo třeba s tím trochu pohnout. Psaní má přece jen terapeutickou hodnotu. Poznámky jsem naštěstí nějaké měl.\
 Zimní měsíce jsou proti létu nuda. Skoro jsem přemýšlel, zda má smysl psát si, co se mi děje, když spousta dní je téměř stejných. Ale není každý den posvícení a jak jinak se člověk má posunout dopředu, než skrz trochu retrospektivy.\
 Nasedl jsem proto na freebike a vyrazil na Čeňák do ikey. Kafe, pití a Hasselpähkinäpulla za 40. To jinde neseženeš. Dokonce jsem v jídelně nebyl jediný s laptopem.
+Večer napsal Ondra zda nevyrazíme do Suterénu. Byl jsem trochu grogy, ale hecnul jsem to. Do Výletníků jsem napsal a přidali se Jarda se Sárou.\
+V suterénu se po zavíračce kouří. Rébě se to nelíbilo a diskuse o tom zda je to ok přístup či není skončila tím, že se zvedla a odešla. Přišlo mi to trochu zbytečný, protože nás čekalo už jen jedno pivo a když jí to šlo tak moc proti srsti, mohla se aspoň rozloučit.
+
+### 12.2. Je Bára kamioňák?
