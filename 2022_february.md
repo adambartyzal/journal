@@ -20,13 +20,13 @@ Marťa se Johnyho na pár věcí vyptala taky, ale převážně se bavila se Sá
 
 <a href="../images/2022_february/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_1.jpg"></a>
 
-Johny popíjel pivko cestou. Já jsme si řekl, že když už jdeme do těch Únětic, dáme si Únětice až jako oslavné pivo. Na únor bylo docela horko. Vlastně jsem šel v tričku. Ony Únetice jsou taky dost na kopci, takže jsme se zahřáli. Obzvlášť při výstupu na Babu a na nějaký další kopec u Suchdola.\
+Johny popíjel pivko cestou. Já jsem si řekl, že když už jdeme do těch Únětic, dáme si Únětice až jako oslavné pivo. Na únor bylo docela horko. Vlastně jsem šel v tričku. Ony Únetice jsou taky dost na kopci, takže jsme se zahřáli. Obzvlášť při výstupu na Babu a na nějaký další kopec u Suchdola.\
 Navigval Tomáš. Vybíral cestu přes vesničky za Prahou a vybíral moc hezky. Sklaní útvary, ze kterých byl vidět náš cíl v nás vyvolaly touhu po stanování.
 
 <a href="../images/2022_february/13_2.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_2.jpg"></a>
 
-U Lasíků bylo živo. Fronta až ven, ale stůl u kterého jsme seděli na Silvestra byl volný. Všichni byli nadšení z koláčů a postupně jsme od sebe nazvžíjem vyzkoušeli skoro všechno co tam měli. A pivo? 10,7° je záruka kvality, která mě nikdy nezklamala.\
-Večer a sezení ale ale přinesly zimu a tak jsme se přesunuli dovnitř.
+U Lasíků bylo živo. Fronta až ven, ale stůl u kterého jsme seděli na Silvestra byl volný. Všichni byli nadšení z koláčů a postupně jsme od sebe nazvzájem vyzkoušeli skoro všechno co tam měli. A pivo? 10,7° je záruka kvality, která mě nikdy nezklamala.\
+Večer a sezení ale přinesly zimu a tak jsme se přesunuli dovnitř.
 
 <a href="../images/2022_february/13_3.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_3.jpg"></a>
 

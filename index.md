@@ -21,3 +21,5 @@ Dvakrát do Lahti a ke konci roku do Řecka a Itálie. Pátou zemi z mého plán
 Rok, kdy mi nabíhal deficit vypadnout někam daleko, protože rok zpátky to Ondra zazdil tím, že se nechal zaměstnat v korporátu. Což vyůstilo v cestu z Helsinek domů na Karmínovém Drakovi.
 
 ## [2023](2023.md)
+
+Rok volby prezidenta a věcí zatím neznámých.
