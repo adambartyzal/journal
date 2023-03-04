@@ -11,7 +11,20 @@
 - [11.2. Den proti stresu](#112-den-proti-stresu)
 - [12.2. Je Bára kamioňák?](#122-je-bára-kamioňák)
 - [13.2. Body za snahu](#132-body-za-snahu)
-- [14.2. Grogy](#142-grogy)
+- [14.2. Pro další kazetu, která se tam taky nevešla?](#142-pro-další-kazetu-která-se-tam-taky-nevešla)
+- [15.2. Posouvání drakových limitů](#152-posouvání-drakových-limitů)
+- [16.2. Co z kola vytáhnu](#162-co-z-kola-vytáhnu)
+- [17.2. První den v Malešicích](#172-první-den-v-malešicích)
+- [18.2. Pořádně se projet](#182-pořádně-se-projet)
+- [19.2. Za mamkou do Kolína a za Marťou na palačinky](#192-za-mamkou-do-kolína-a-za-marťou-na-palačinky)
+- [20.2. Pro zasloužený koláč](#202-pro-zasloužený-koláč)
+- [21.2. Night Cruising](#212-night-cruising)
+- [22.2. Lepší tobogány](#222-lepší-tobogány)
+- [23.2. U Benyho](#232-u-benyho)
+- [24.2. Dvouhra se Sabčou](#242-dvouhra-se-sabčou)
+- [26.2. Čtyřhra se Sabčou, Marťou a Vildou](#262-čtyřhra-se-sabčou-marťou-a-vildou)
+- [27.2. Bouračka](#272-bouračka)
+- [28.2. Ondra staví kolo](#282-ondra-staví-kolo)
 
 ### 1.2. Pleasantville 
 
@@ -116,6 +129,159 @@ Z podolí, kde mi nějaká mrdka ukradla ve sprchách brýle, jsem šel pěšky 
 
 Ráno jsem chtěl běhat, ale tvrdě se mi to nevydařilo. Už jen z postele jsem se hrabal tak 40 minut. Nakonec jsem šel běhat večer a nebyl to žádný zázrak. 6 min/km. Ale šel jsem a to se cení.
 
-### 14.2. Grogy
+### 14.2. Pro další kazetu, která se tam taky nevešla?
 
 Večer špatný tempo, ráno ještě horší vstávání. Nějak mě opustila energie. Necítil jsem se ale nemocně a hodinky taky neukazovaly velkou míru stresu, což je většinou prekurzor chřipky. Možná mi chyběl hořčík nebo déčko.\
+V práci opravy cbn\
+do kopce pro kazetu 12-28\
+až do desíti večer\
+
+### 15.2. Posouvání drakových limitů
+
+po práci dvě hodiny vrtal v kole. Naučil jsem se co je G pulley, T pulley, B tension a ač ne dokonale, seřídil jsem přehazovačku, tak že s 12-28 kazetou frčí
+
+### 16.2. Co z kola vytáhnu
+
+42 na rovině
+
+### 17.2. První den v Malešicích
+
+<a href="../images/2023_february/17_1.jpg" target="_blank"><img src="../images/thumbnails/2023_february/17_1.jpg"></a>
+
+<a href="../images/2023_february/17_2.jpg" target="_blank"><img src="../images/thumbnails/2023_february/17_2.jpg"></a>
+
+
+Pod 160 BPM
+na pivo do bašty\
+pozvánka na svatbu\
+sára v norsku\
+
+### 18.2. Pořádně se projet
+
+přes zbraslav a po opačném břehu\
+dvorecký most už staví
+
+<a href="../images/2023_february/18_1.jpg" target="_blank"><img src="../images/thumbnails/2023_february/18_1.jpg"></a>
+
+píchl jsem\
+
+### 19.2. Za mamkou do Kolína a za Marťou na palačinky
+
+zabouchnutý klíče\
+před osmou vlakem\
+dvě ukrajinky\
+mrholení až déšť\
+marťa píše že doma bude po pátý\
+k mamce\
+čaj a polévka
+
+<a href="../images/2023_february/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_february/19_1.jpg"></a>
+
+povídání o babičce\
+rozebírání světla\
+deštěm do obi\
+výběr baterie, světlo nekupujeme\
+aby robin dosáhl\
+za litr to nestojí\
+zpátky už neprší\
+montáž\
+chleby\
+na autobus zadarmo\
+vlak má zpoždění\
+snad poslední místo\
+za marťou a vildou\
+palačinky a muzika\
+
+### 20.2. Pro zasloužený koláč
+
+lepení kolena\
+běhat, srdíčko po ránu pomalejší, tempo vyšší\
+bláto, takže na fb\
+opravy\
+přes rajskou zahradu a riegráče
+
+<a href="../images/2023_february/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_february/20_1.jpg"></a>
+
+koláč a čaj\
+kus lasagní\
+réba má novou práci\
+pěšky dom
+
+### 21.2. Night Cruising
+
+probouzel jsem se v noci\
+lepení duše\
+v kratǎsech\
+v práci jen petr a ten odjel do malešic\
+čtení knihy A
+večerní projížka\
+roklí po tmě je to creepy\
+25\
+
+### 22.2. Lepší tobogány
+
+nýtování\
+zenklova nahoru\
+pláště pro draka\
+do bazénu\
+nová pára\
+lepší tobogány a ještě lepší pára\
+
+### 23.2. U Benyho
+
+dress code\
+malý stoleček\
+k většímu\
+málem jsme tak přišlo o jídlo\
+
+<a href="../images/2023_february/23_2.jpg" target="_blank"><img src="../images/thumbnails/2023_february/23_2.jpg"></a>
+
+lidé ze zonky\
+
+### 24.2. Dvouhra se Sabčou
+
+> "Sabča je skvělá!" 
+
+prohlásila Sára po tom co jí viděla na paliárce.\
+
+> "Sabču nesnášíme!" 
+
+opravila své tvrzení po tom co jsem jí informoval, že během toho co jsme se neviděli si stihla pořídit přítele, kterým byl někdo jiný než já.\
+
+Inu, tehdá mě to rozesmutnilo. Přišla mi skvělá, stejně jako na začátku Sáře. Ale vystřízlivěl jsem. Nicméně párkrát jsme si napsali. Vlastně mi psala ona, protože jsem zmínil, že bych rád šel hrát badminton a ona hraje badminton moc ráda. Ale byl jsem zrovna s vyhozeným kolenem a tak z toho nic nebylo. V mezičase se stihla přestěhovat do Berlína, stuovat double degree v ekonomii. Ale vítr jí zavál k nám a dohodli jsme se, že na ten badminton přece jen půjdeme.\
+
+na kole do dekáče.. až tam mi došlo, že jsem si mohl míčky koupit třeba v edenu.\
+
+Byli jsme domluvení na čtvrtou a 15:21 mi toho dne neodepsala. Vyrazil jsem kolem třetí a doufal, že prostě jen nekouká do mobilu. A vyšlo to. Jen chvilku jsem seděl v tělovýchovné jednotě Zahradní město a přijela. Autem. To mě překvapilo, ale ne všichni jsou cyklofašisti jako já a když pendluje mezi Německem a Prahou, tak to auto na rozdíl od spousty jiných asi i využije.\
+Protože mě za rohem nezahlédla, vyrazili přímo za pánem na kase s tím, že přišla na rezervaci na mé jméno. Doběhl jsem za ní a společně jsme vyřídili nutnosti a poté vyrazili do převlékáren.\
+Ale.. objevil jsem, že jsem si doma nechal převlečení. Boty, raketu a míčky jsem měl. Freebike polokošile taky dobrý ale ty kalhoty! Naštěstí mi pán půjčil nějaké děsně malé, ale lepší než žádné kraťásky.\
+
+
+na tramvaj\
+z šestky mě vykopli\
+
+### 26.2. Čtyřhra se Sabčou, Marťou a Vildou
+
+Ráno jsme si zacvičil jógu. Říkal jsem si, že při badmintonu budu pružnější a minimalizuju tak pravděpodobnost zranění. Pak jsem vyrazil na autobus. Ale měl jsem náskok a tak jsem šel podél trati po Nuselské. Na Michelské vypadalo, že bych na autobus 10 minut čekal, takže jsem to riskl a pokračoval až k teplárně, ale musel jsem popoběhnout. Chůze je fakt pomalý způsob dopravy. Na kole bych to sfoukl za minutku.\
+V autobuse na mě volal Vilda a společně s ním a Marťou jsme obsadili čtyřku. Sabča napsala, že se zapoměla, ale nabere maximálně patnácti minutové zpoždění.\
+My jsme z autobusu zamířili do zadní haly. Byl tam stejný milý pán jako předchozího dne a vysvětlil nám jak to vzadu chodí. Vilda to tam znal a tak jsme vyrazili nahoru do šatny převléct se.\
+Rozcvičili jsme se dva na jednoho. Napřed jsme týrali Vildu a pak se Bekrovic otočili proti mně.\
+Když Sabča dorazila, prodiskutovali jsme pravidla čtyřhry a pustili se do toho. Tempo hry zdaleka nebylo tak vražedné jako předchozího dne a nutno podotknout, šlo nám to hůř.\
+Ale bavilo mě to hodně. Vildův styl rozesmívání všech okolo, nás stál pár bodů, moje promachy "Na Sabinu" taky ale všeobecně to bylo skoro vyrovnané. Ale vždy jsme vedli o pár bodů a mezi mnou a Sabčou byla fajnový energie.\
+Po badmintonu nás Sabča hodila do Vršovic na Pho k paní Hoa. V autě vyzpovídala Marťu s Vildou co mají vystudováno a během toho stihla urazit polovinu vysokoškolské populace včetně mně. Byla to prdel. Nad phočkem diskuse vážněla. Ze Sabčy vypadlo, že se v noci vyspala se svým ex a on to pravděpodobně bude brát, příliš vážně. Vlastně toho na nás naložila docela hodně, ale prý z ní spadl nepříjemný pocit, když se mohla vypovídat lidem, které tak uplně nezná, protože její bublina by jí odsoudila.\
+To bylo fér. A celou dobu mi přišla ještě sympatičtější. Možná kromě toho, že hraje Magicy. Ale v Černém koni prý hrají lidi co smrdí a s tím musím souhlasit. Je to díra.\
+Na zbytek dne si toho naplánovala ještě raketu. Volejbal s dalšími kamarády, a ještě něco večer. Na to že na dnešek spala prý 3 hodiny jsem měl starost o to, že za volantem usne.\
+Já sám už jsem toho moc dalšího neprovedl. Kromě čtení a psaní si s ní o zavařování.. protože, když jsme se bavili o tinedru, Marťa na mě práskla, že holku která ráda zavařuje bych swajpů doprava a prý bych měl přijet do Berlína zavařovat s ní. Což nebyl eufemismus a o to víc jsem si říkal, že to opravdu udělám. 
+
+### 27.2. Bouračka
+
+U zastávky Otakarova je pravidelně trojstopá kolona. Úplně napravo jsem se nevešel a tak jsem vybral uličku mezi auty napravo a uprostřed. Místa tam bylo na kolo a kus, takže jsem neohroženě projížděl dokud mi nějakej zmrd neotevřel dveře. Musím říct, že to bylo poprvé co se mi tohle stalo a mám radost, že jsem jel asi tak 5 km/h. I přes brždění jsem do těch dvěří narazil docela s vervou a složil jsem se do mezery mezi auty. Člověk co dveře odevřel se mě chytl za rameno a vyptával se, jestli jsem dobrej.\
+Rukavice chytla většnu. Klepl jsem se do prstu a vyháknout nohu ze strapu mi chvíli trvalo. Ale díky bohu žádná zlomenina či nějaká horší věc. Stejně mě to ale vyvedlo z míry.\
+Zbytek cesty jsem jel trochu v šoku a až tak moc si toho nepamatuju. Zpětně vzato jsem měl asi vydýchnout na místě dýl, ale moc se mi tam posedávat na obrubníku nechtělo. Paní v autě za námi mi pověděla, že jak vystupující, tak řidič vozu napravo byli debilové, kteří se víc starali o auto a o sebe, než o mně.\
+
+
+### 28.2. Ondra staví kolo
+
+Remerx nám poslal radiálně zapletené zadní kolo. Ondra se rozhodl, že kolo postaví sám. Jeho výkřiky "God dammit!", "Dopiče!", "For fuck's sake!" mě provázely během procházení knih EMVCo a přemýšlení, jak realizovat přenost APDU.\
+Nakonec za mnou přišel o radu. Spolu jsme vykoumali jak sundat volnoběžku, jak nasadit kolo do rámu, jak seřídit třmeny a nakonec opravdu odjel na novém funkčním kole.
+
