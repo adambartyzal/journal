@@ -4,6 +4,15 @@
 - [2.3. Nejhorší je, když tě to začne bavit](#23-nejhorší-je-když-tě-to-začne-bavit)
 - [3.3. Ponořen v EMVCo](#33-ponořen-v-emvco)
 - [4.3. Další den zabitý](#43-další-den-zabitý)
+- [7.3. Vykládat kamion](#73-vykládat-kamion)
+- [8.3. Proložit fyzickou práci vývojem](#83-proložit-fyzickou-práci-vývojem)
+- [9.3. Do poetické hospůdky](#93-do-poetické-hospůdky)
+- [10.3. Kocovina a další kamiony](#103-kocovina-a-další-kamiony)
+- [11.3. Eva dostala klarinet](#113-eva-dostala-klarinet)
+- [13.3. Návratilec z Austrálie](#133-návratilec-z-austrálie)
+- [15.3. Odpověď na PPSE](#153-odpověď-na-ppse)
+- [16.3. Plášť v háji, box v plamenech, počasí v prdeli](#163-plášť-v-háji-box-v-plamenech-počasí-v-prdeli)
+- [17.3. Jeden spálený box zřejmě nestačí](#173-jeden-spálený-box-zřejmě-nestačí)
 
 ### 1.3. Zevlovat a prudit
 
@@ -26,6 +35,10 @@ To je asi nešťastný tvrzení, ale time management se pod dávkou enthusiasmu 
 ### 3.3. Ponořen v EMVCo
 
 Od posledního běhu uběhlo deset dní. Tomu se stěží dá říkat konzistence. Dal jsem si po ráno krátkou jógu na protažení a vyběhl na kapitol a běhal okolo hřiště. Dva asiaté tam tentokrát nebyli, ale jiný potarší Asiat chodil kolem hřiště šnečím tempem pozadu a mával rukama. Taiwan vibes hadr.\
+Každý správný závodník má na lýtku převodník, možná si ho nechám vykérovat.
+
+<a href="../images/2023_march/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/3_1.jpg"></a>
+
 V práci jsem pokračoval v programování nfc protokolu. Úplně mě to pohltilo. I když pokroky jsem dělal minimální. Pocit, že dokumentace je úplná sračka mě ale opouštěl.\
 Zapoměl jsem, nebo spíš se mi nechtělo odepsiovat paní Nejedlé ze Safiralu. Snad to počká do pondělí.
 
@@ -34,3 +47,110 @@ Zapoměl jsem, nebo spíš se mi nechtělo odepsiovat paní Nejedlé ze Safiralu
 Nečekaná věc se mi stala. Při roztahaném ránu jsem si brnkal na kytaru a přišlo mi, že jsem přišel s něčím nahrání hodným. Z nostalgie jsem si pouštěl nahrávky a doroloval až ke dni, kdy jsem byl v Římě. Spotify mě musí tutově šiclovat, protože stejnou píseň jako zpívala v hudbní škole ta hot italka, o hodinu později hrála v náhodném playlistu. A to jsem jí do té doby nikdy neslyšel a myslem jse si, že to nebyl cover.\
 Nebyla až tak hrozná zima a doma jsem se k ničemu kromě programování nfc protokolu neměl, takžse jsem si sedl na kolo a dojel do ikey a šel psát deník. Ale nfc protokol mi nešl z hlavy a většinu času jsem zabil refactorem toho, co jsem zatím napsal.\
 Na to, že jsem týden nadával, že tomu nikdo nemůže rozumět jsem PCD stranu napsal na asi 50 čitelných řádků a PICC stranu jen na 35. Testy taky byly čitelné a já jsem začínal věřit tomu, že až pošlu do karty první APDU, dostanu odpověď.
+
+### 7.3. Vykládat kamion
+
+Vojta přijel z Helsinek. A s ním přijela i práce. Vykládání kamionů plných helsinských kol. A protože skoro všichni z Kyjí byli buď ve Finsku, stavěli kola pro Lahti, nebo uklízeli Zličín, zbylo to na mě a Vojtovi.\
+Kamion nepřijel jeden ale hned dva.. Vojta to na mně určitě narafičil. 4 stupně v Malešicích, tahání stovek kol a otevírání zatuhlých víček člověka docela domrdá. Snad ještě víc, než Finové domrdali kola.
+
+<a href="../images/2023_march/7_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/7_2.jpg"></a>
+
+Alepsoň jsem si s Petrem prošel areál pořádně. Některé nálezy stáli za vidění jako třeba zkurveně velký rozvaděč.
+
+<a href="../images/2023_march/7_3.jpg" target="_blank"><img src="../images/thumbnails/2023_march/7_3.jpg"></a>
+
+Jiné jako hromady klíčů všude možně působili spíš podivně.
+
+<a href="../images/2023_march/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/7_1.jpg"></a>
+
+Nejvíc mě ale rozesmál návod na použití regálového zakladače, který jsem poslal do slacku, načež okamžitě přišel zákaz byť se k němu jen přibližovat.
+
+<a href="../images/2023_march/7_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/7_4.jpg"></a>
+
+
+### 8.3. Proložit fyzickou práci vývojem
+
+Dvakrát za sebou se nám do zimy nechtělo a tak jsme si dali den v Karlíně. Vojta s ve Finsku vypěstoval závislost na kávě. Naprosto jsem tomu rozuměl a protože jsem si zapoměl novou dávku kávových zrn doma, vyrazili jsme do emy na pořádný flatwhite.
+
+<a href="../images/2023_march/8_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/8_1.jpg"></a>
+
+
+### 9.3. Do poetické hospůdky
+
+Poučen minulou směnou v Malešicích, sbalil jsem ráno rychlovarnou konvici, drip a kafe a vyrazil do té ldnice s vidinou práce s teplým nápojem.
+
+<a href="../images/2023_march/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_1.jpg"></a>
+
+Během dopoledne mi napsala Marťa jestli půjdu na koncert. Úplně jsem zapoměl, že Jarda hraje a moc se mi jít nechtělo. Dejvice jsou daleko a po práci v Malešicích jsem očekával, že budu grogy. Kroucení zápěstí kvůli víčkům a tahání kol bez kol mi dávalo zabrat.
+
+<a href="../images/2023_march/9_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_2.jpg"></a>
+
+V Lidlu jsem si koupil tuňákový sendvič. Byl slevněný na asi 35 korun. No nekup to. V tescu, nebo v automatech stejná věc stojí třeba 70 korun. Asi jsem to ale neměl dělat. Když jsem ho venku s nadšením pořádal, kousl jsem do kusu skla. A ne jen tak nějakého. Střepu jako prase. Bolelo to jak čert a vážil jsem, zda chci jít zpátky do krámu, jít to řešit. Ale pochyboval jsem, že by mi cokoliv uhádal. Po rozlomené osmičce to ale byl další atak na můj chrup. Letos si zažívá zkoušku ohněm. Asi bych si už opravdu měl najít zubaře v Praze.
+
+<a href="../images/2023_march/9_3.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_3.jpg"></a>
+
+Únava těla a bolset zubu mě přesvědčily, že do Dejvic nepojedu. Marťa mě ale vyvedla z omylu. Koncert byl na Vinohradech a to bylo v dochozí vzdálenosti. Snedl jsem tedy doma ještě nějaké zbytky, opláchl ze sebe ve sprše smrad manuální práce a vyrazil směrem k ní. Nakonec šel i Vilda.\
+Připravoval jsem je, že Kedé Chim je podivný mezigenerační projekt a že nás možná bude jen pár, protože jejich fanouškovská základna není početná. Vlastně se asi můžu počítat za skalního fanouška a to jsem se ještě nerothodl, jestli se mi líbí.\
+Přítomní byli členové kapely, jeden páč důchodců, Sára, Bořejk s jeho přítelkyní Míšou, a pár lidí vpředu, které jsem neznal ale vypadali jako uzavřená společnost.Sára mi dlužila piva a tak jsem pil docela bezstarostně. U refrénů jsem prozpěvoval, takže se mi ta kapela asi líbí. A vypadalo to, že Marťě i Vildovi se líbí taky.
+
+<a href="../images/2023_march/9_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_4.jpg"></a>
+
+Někdy před půlnocí přišlo pár dalších lidí a mezi nimi byl Luboš se kterým jsme se viděli na jedněch Tomových narozeninách. Dal jsem se s nimi do řeči. Jeho holčina zrovna psala diplomku na téma, které jsem překřtil na "Šaty dělaj člověka" a dávala mi přečíst úryvky. Myslím, že jsem s nimi vypil dalších pár pivek. Spát jsem pozdě po třetí a to že jsem jel domů na nextbiku si pamatují víc moje hodinky než já.
+
+### 10.3. Kocovina a další kamiony
+
+Hlavně že jsem všem říkal, že potřebuju být druhý den v sedm ráno ready na vykládání kamionů. Ready jsem teda rozhodně nebyl. Na druhou stranu, taky jsem vlastně nevěděl kdy kamiony dorazí. A nevěděl to ani Vojta. A ani Miti, které jsme volali. Věděli jsme jen, že se snaží přijet ještě v pátek, jinak by tam kysli přes víkend. Chvíli jsme v té zimě dělali každý svojí práci, ale nakonec jsme to zabalili, svezli se autem do Karlína a šli do Indie s Vláďou. S vidinou toho, že jakmile si sedneme k jídlu, Miti zabolá, že kamiony přijely.A taky že jo. Ale naštěstí jim to trvalo ještě půl hodiny přes Prahu a tak jsme dorazili víceméň s nimi.\
+Oba kamioňáci byli poláci a jeden z nich byl takový děda, který se projel na našich rowerech publiczných.\
+Přišel slejvák a ze zakladače nám začalo téct do skladu. S Petrem jsme hledali díru a objevili, že celá boční zeď je děravá jak řešeto. 
+
+### 11.3. Eva dostala klarinet
+
+32. Nedávno bylo Evě 24. Nějak moc rychle to letí.\
+Teda zpětně vzato. Videa, kde vydávala pazvuky na klarinet, který dostala k narozeninám utíkaly až nepříjemně pomalu. Ale nějaký pokrok z nich čišel. Když tomu dá čas, asi se to naučí dobře. Držím jí palec.
+
+### 13.3. Návratilec z Austrálie
+
+Dny už se protáhly dost na to, aby slunce svítilo i po tom co přijedu po práci domů. To mě skutečně zahřálo u srdíčka, protože vitamín D už mi pravděpodobně definitvně došel.
+
+<a href="../images/2023_march/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/13_1.jpg"></a>
+
+Adél se po půl roce vrátila z Austrálie a jarda tak svolal sraz na víno na uvítanou. Nakonec z vína bylo pivo v Blatouchu. A z piva v Blatouchu se nakonec stalo SlidesLive pivo. Museli jsme srazit dva stoly a já byl rozpolcen mezi dvě diskuse. Nad rámec lidí, které jsem znal dorazil ještě metalově vyhlížející klučina, jenž ode mně seěl tak daleko, že jsem vůbec nepochytil jeho jméno a Kristián a jeho přítelkyně z Brna. A se zpožděním se k Tomášovi přidala Míša.\
+Jak mám Blatouch rád, tak se jim nedařilo. Jeden číšník byl ignorant a jeho kolegyně ten večer obsluhovala poprvé a inu.. moc jí to nešlo. Kupodivu to nebyla Réba, kdo by jí hejtoval nejvíc. Možná proto, že její bagel přišel takový, jaký si objednala. Máca takové štěstí neměla, neb její bagel s hummusem v sobě neměl ani hummus, ani granátové jablko.\
+Korunu tomu nasadili, když jí přinesli ten samý bagel, který vrátila. Tomáš tomu klukovi šel vysvětlit, že takhle by to nešlo a že by si měl uvědomit, co je jeho práce.\
+Dál už jsme ho neviděli.\
+Z Adél jsme nevytáhli skoro nic o jejím cestování. Z Bali Jardovi přivezla sušený Durian. Sušená varianta tohohle zla je podstatně méně potentní než varianta čerstvá. I tak to ale při kolování kolem dvou stolů bylo cítit dost.\
+Na cestě domů jsem se bavil s Kristiánem a jeho přítelkyní o prozatím asi nejlepším použití nově se objevucící AI. Cestování! Na své cestě po islandu dávali chatGPT dotazy typu: Jedeme autem, máme tolik a tolik dní, zhruba takový a takový budget, chceme spát v ne moc fancy, ale ne úplně špatném místě a chceme toho vidět co nejvíc. A po pár dalších upřesněních jim AI plánovala prý velmi dobrý trip. To se mi hodně líboli, neb vím, že plánování dokáže být oser.
+
+### 15.3. Odpověď na PPSE
+
+Dělat věci pomalu.. moje nové motto. Zdá se mi, že se začíná vyplácet. Pořád nejsem tak daleko, že bych napsal testy od A do Z, pak napsal implementace tříd a měl hotovo. Ale můj kód se mi líbí. Přijde mi řádově čitelnější než kdysi. Obzvlášť mě potěšil wrapper na external memory, který řeší přičítání modfikačních ovládacích bajtů a posílání callbacků, takže psaní a čtení paměti je mrtě přehlednejší.\
+Navíc mi konečně všechny EMV karty odpověděli na PPSE APDU, což byl můj původní cíl.
+
+### 16.3. Plášť v háji, box v plamenech, počasí v prdeli
+
+Až do Karlína jsem dojel bez potíží, vlastně jsem si docela liboval že je hezky sluníčko a že Karmínový drak jede jak už dlouho ne. Jenže jak počasí tak kolo šlo toho dne do hajzlu. Napřed to kolo. A to tak, že jsem vůbec nepochopil co se stalo. Asi tak vteřinu po tom co jsem dojel do Karlína se ozvala petelice jak kráva. Šel jsem kontrolovat nabíjecí box, jestli nevybuchl nějaký node, ale objevil jsem, že mi praskla přední duše. A po dalším ohledání jsem objevil, že zbrusu nový plášť Vittoria Rubino Pro má v sobě díru jak vrata a duše je roztrhaná cucky. Nepochopil jsem to a nasralo mě to. Měl jsem s DJem jet do Malešic a odtud na kole zpátky.\
+Jeho tempo nás ale dostalo do Malešic až kolem druhé. S sebou jsme si vzali freebike, na kterém bych se vezl spíš rovnu domů než zpátky do Kalína. Kolem třetí začalo být jasné, ža na kole nikam nepojedu protože z nebe začala padat voda s kusy ledu.\
+A tak jsme se pustili do třídění baterií pomocí třech boxů, které jsem zprovoznil. Ale při naplnění třetího boxu se z něj vyvalil dým a smrad a termín komínový efekt nabral reálných obrysů. Spodní node byl poškozený vodou, čehož jsem si předtím nevšiml. Baterie naštěstí nezačala hořet a tak ten den stál jen za hovno, ne za úplnou piču.\
+DJ mě nastěstí hodil domů autem. V tom jsem ale nechal mobil a uvědomil si jak je člověk bez mobilu v háji. Přihlásit se do datovky, do bankovnictví a pomalu ani do mejlu prostě nejde. V kombinaci s eSIMkou může být rozbitý mobil opravdu omrd.
+
+### 17.3. Jeden spálený box zřejmě nestačí
+
+Baterie, které jsme vytřídili, přivezl DJ Vláďovi k analýze. Já jsem konečně objevil, proč náš box vydává divné zvuky a následné debugování fw CBN vedlo k sestřelení nodu v našem boxu. Vláďou ne mnou. Inu.. ještě to má pořád mouchy.
+
+<a href="../images/2023_march/17_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/17_4.jpg"></a>
+
+Ondra se ozval zda-li máme nějaký flexi filament a protože jsem nějaký našel, zastavil se u nás po čtvrté a společně jsme vyrazili dát si pivko na Vítkov.
+
+<a href="../images/2023_march/17_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/17_4.jpg"></a>
+
+Teplo ale odcházelo se zapadajícím slunkem a tak jsme se přesunuli do nové čítárny, kam už jsem dlouho chtěl. Psal jsem ostatním ať dorazí, ale Jarda se Sárou mířili do Irish Pubu někde v centru, kde hrál Marek s partou dalších hudebníků Irskou hudbu. Potkali jsme je venku s Guinessem v záplavě zelně odděných lidí.
+
+<a href="../images/2023_march/17_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/17_4.jpg"></a>
+
+Uvnitř bylo fakt narváno. ne tak, žse se nedalo sednout si, ale tak, že se nedalo hýbat. Fronta na pivo byla tak na hodinu a když jsem se do ní postavil, lidi přede mnou spíš přibývali než ubývali. Po chvíl jsem to vzdal. A vzdala to i Sára. Ne tu frontu, ale celý ten bar. A tak jsme vyrazili jinam. Navrhl jsem Pivovarnickou nalévárnu, ale do cesty nám přišel Lokál.\
+Pivo za 62, hluk a hlad, jenže vařit už přestali.\
+Po chvíli se k nám přidali Anička s Honzou.
+
+<a href="../images/2023_march/17_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/17_4.jpg"></a>
+
+Po dvou Plzních mi bylo jasné, že mi bude blbě když budu pokračovat. A ranní bolehav už je nevyhnutelný. Cesta na kole dmů mě ale trochu probrala. Možná proto, že jsem jel skrz staré město po kočičích hlavách.
