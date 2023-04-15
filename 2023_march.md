@@ -1,4 +1,4 @@
-## [Únor](2023.md) <!-- omit in toc --> 
+## [Březen](2023.md) <!-- omit in toc --> 
 
 - [1.3. Zevlovat a prudit](#13-zevlovat-a-prudit)
 - [2.3. Nejhorší je, když tě to začne bavit](#23-nejhorší-je-když-tě-to-začne-bavit)
@@ -13,16 +13,16 @@
 - [15.3. Odpověď na PPSE](#153-odpověď-na-ppse)
 - [16.3. Plášť v háji, box v plamenech, počasí v prdeli](#163-plášť-v-háji-box-v-plamenech-počasí-v-prdeli)
 - [17.3. Jeden spálený box zřejmě nestačí](#173-jeden-spálený-box-zřejmě-nestačí)
-- [18.3. Dopsat deník](#183-dopsat-deník)
 - [19.3. V tričku](#193-v-tričku)
 - [20.3. Desítka po ránu](#203-desítka-po-ránu)
 - [21.3. Ankh](#213-ankh)
 - [22.3. Skoro nic na práci](#223-skoro-nic-na-práci)
 - [23.3. Boxy v Malešicích](#233-boxy-v-malešicích)
-- [24.3. Opravy na dýl](#243-opravy-na-dýl)
+- [24.3. Levné pláště](#243-levné-pláště)
 - [25.3. Březnové Gran Fondo](#253-březnové-gran-fondo)
 - [26.3. Do Únětic](#263-do-únětic)
-- [27. - 29.3. Aprílové počasí v Malešicích](#27---293-aprílové-počasí-v-malešicích)
+- [27-29.10. Podivné jídelny v Malešicích](#27-2910-podivné-jídelny-v-malešicích)
+- [30.3. S Alčou na Pilulky Štěstí](#303-s-alčou-na-pilulky-štěstí)
 - [31.3. Scraping google map](#313-scraping-google-map)
 
 ### 1.3. Zevlovat a prudit
@@ -163,24 +163,48 @@ Po chvíli se k nám přidali Anička s Honzou.
 
 Po dvou Plzních mi bylo jasné, že mi bude blbě když budu pokračovat. A ranní bolehav už je nevyhnutelný. Cesta na kole dmů mě ale trochu probrala. Možná proto, že jsem jel skrz staré město po kočičích hlavách.
 
-### 18.3. Dopsat deník
-
 ### 19.3. V tričku
 
 ### 20.3. Desítka po ránu
 
 ### 21.3. Ankh
+
+Už dlouho mě štvalo, že kluci restartují baterie nůžkami. Zatím je nikdo nesvařil, ale dřív nebo později se to musí stát, pokud jim někdo nedá lepší metodu restartu baterie. Vytisknul jsem si proto udělátko a pojmenival ho ANKH, po metodě vzkříšení z Warcraftu.
+
+<a href="../images/2023_march/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/21_1.jpg"></a>
+
 ### 22.3. Skoro nic na práci
 
 příprava nákupu\
 
 ### 23.3. Boxy v Malešicích
 
-
-
-### 24.3. Opravy na dýl
+### 24.3. Levné pláště
 
 ### 25.3. Březnové Gran Fondo
+
+Nové pláště bylo třeba otestovat. Podle předpovědi mělo foukat z Jihozápadu. Podle mapy je na jihozápadě Beroun. Z Berouna už jsem ale jen několikrát. zato z Rakovníka ani jednou. Vlak do Rakovníka jel ze Smícháče a já jsem nahodil kraťasy, tričko s dlouhým rukávem a mikinu a vyrazil na vlak. Už na naší straně řeky se mi ale myšlenka dávat kilo za vlak začala příčit. Kolem Smícháče jsem tedy jen projel a vyrazil do Prokopáku vystoupat na Zličín. V ikee jsem si dal k snídani srdíčkové wafle a na mapě vytušil kudy dál. Do už zmíněného Berouna.
+
+<a href="../images/2023_march/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_1.jpg"></a>
+
+Kde jsem vlastně nikdy nebyl na náměstí. Rozhodl jsem se to napravit a chvíli se slunil na lavičce a díval se na paní co prodávala med a medovinu.
+
+<a href="../images/2023_march/25_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_2.jpg"></a>
+
+Předchozích asi 30 kilomtrů proti větru stálo to za to. V momentě kdy jsem se vydal po břehu Berounky jsem měl vítr v zádech. 30 km/h bez námahy. Ani jsem se nenadál a byl jsem v Řevnicích, kde jsem plánoval dát si pivko a polévku. Vítr jim tam mával židlemi, ale číšník byl třída. A jak kapustnice, tak pivečko nejvyšší kvality.\
+
+<a href="../images/2023_march/25_3.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_3.jpg"></a>
+
+U kralštejna mě začalo pobolívat koleno. Dospěl jsem k názoru, že to je tím, že sedím příliš vzadu. Měl jsem sadu, ale imbus pod sedlem byl utažený tak na krev, že jsem to ráčničkou nedal. Během šroubování na mě vybafnul bez pozdravení nějaký Rus, kde je prý zámek. Byl tak nepříjemný, že jsem ho informoval, že Karlštejn není zámek ale hrad a poslal ho opačným směrem. Asi to nebyl zrovna nejlepší krok pro mojí karmu, ale byl to debil.\
+50 kilometrů bylo za mnou. Padesát ještě dám, řekl jsem si a vyrazil dál podél řeky s plánem překročit obě řeky, vystoupat Modřanskou rokli a uzavřít Gran Fondo cestou kolem přehrady.\
+Jenže nové pláště to vzdaly. Na retardéru u chatové oblasti vyskočil zadní plášť z ráfku. Zvládnul jsem ho vypustit ventilkem dřiv, než explodivala duše, ale zpátky se mu nechtělo. Při nahuštění přes 3 atmosféry zase lezl ven. Nakonec jsem sundal obě kola a pláště prohodil. Magicky to pomohlo, ale dál jsem jel trochu připosraně.
+
+<a href="../images/2023_march/25_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_4.jpg"></a>
+
+Někde u šeberáku jsem odbočil blbě a magicky jsem se dostal do Průhonic, i když do Průhonic jsem tutově nechtěl. Přehradu jsem tak nakonec minul a jel až horní Hostivaří. Díky tomu se mi ale v hlavě ukul plán navštivit Hostivar s Marťou.\
+Nad plánovanou stovečku jsem měl ještě 9 kilometrů, ale koleno začalo docela tahat a bylo jasný, že jsem to kvůli odznáčku na stravě přestřelil. 
+
+[Záznam trasy](https://www.strava.com/activities/8776014057)
 
 ### 26.3. Do Únětic
 
@@ -192,7 +216,21 @@ na metro\
 ondra\
 kolem davida\
 
-### 27. - 29.3. Aprílové počasí v Malešicích
+<a href="../images/2023_march/26_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/26_1.jpg"></a>
+
+<a href="../images/2023_march/26_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/26_2.jpg"></a>
+
+
+### 27-29.10. Podivné jídelny v Malešicích
+
+První tři dny v týdnu jsem byl v Maelšicích a vyndaval z kol baterky. Z Helsinek se vrátili
+
+<a href="../images/2023_march/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/27_1.jpg"></a>
+
+<a href="../images/2023_march/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/28_1.jpg"></a>
+
+
+### 30.3. S Alčou na Pilulky Štěstí
 
 
 
