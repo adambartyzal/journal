@@ -16,6 +16,11 @@
 - [23.4. Nějaký nemocný](#234-nějaký-nemocný)
 - [24.4. Z práce oklikou](#244-z-práce-oklikou)
 - [25.5. S Míšou na Meandry](#255-s-míšou-na-meandry)
+- [26.4. Nekonečná bedna EBF](#264-nekonečná-bedna-ebf)
+- [27.4. Neuspokojivá ale úspěšná oprava logování](#274-neuspokojivá-ale-úspěšná-oprava-logování)
+- [28.4. Nahrávání karet](#284-nahrávání-karet)
+- [29.4. Postel, kniha a podcast](#294-postel-kniha-a-podcast)
+- [30.4. Čáry](#304-čáry)
 
 ### 1.4. Opravdu aprílové počasí
 
@@ -171,9 +176,13 @@ Buď na mě Robin něco nakašlal, nebo za to mohly torteliny co se venku přece
 
 ### 24.4. Z práce oklikou
 
+Po práci jsem cítil silnou motivaci vyjet na dál než jen přes Vinohrady.
 
+<a href="../images/2023_april/24_1.jpg" target="_blank"><img src="../images/thumbnails/2023_april/24_1.jpg"></a>
 
 ### 25.5. S Míšou na Meandry
+
+Rozhovor s Ludvíkem\
 
 Na úterý jsme se domluvili s Míšou, že půjdeme ven. Velmi vágní plán byl jít na procházku s lidmi z CAMPu po Rohanském ostrově, kde měl utvářet nějaký hudební podkres orchestr BERG. Rohanský ostrov byl ale rozkopaný a tak jsem vymyslel alternativní plán. Dojet k meandrům Rokytky na sdíleném kole z Karlína a tam se procházet a kochat se přírodou, která byla navrácená k původnímu obrazu.\
 A jak to tak při mém vágním plánování bývá, naskytlo se nám rozšíření našeho programu. Dan Vertigo se vrátil z Vietnamu a napsal mi, že k večeru bude povídat o svých zážitcích.\
@@ -185,17 +194,79 @@ U elektry skončila první část našeho výletu. Odevzdali jsme kola a vyrazil
 Oznámit Míše, že jí vyfotím do svého deníku byla chyba. Úpěnlivě se vyhýbala čočce fotoaparátu a tak mám jen křivou fotku jejích zad před meandrem.\
 Kachny na vodě, zátoky a nutrie. Příroda hadr. Byli jsme nadšení. Povídali jsme si o cestování a trošku o její práci. Rozhodl jsem se, že je třeba jí dát kontakt na Skořiče, neb měla otázky na plánováná RANu.
 
-<a href="../images/2023_april/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_april/13_1.jpg"></a>
+<a href="../images/2023_april/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_april/25_1.jpg"></a>
 
 Čas ale kvapil a tak jsme se vydali na tramvaj, která by nás zavezla přímo na Vltavskou, odkud jsme pokračovali do Liberálu za Daníkem.\
 Když jsme přišli do již započaté přednáčšky, Dan nahlas oznámil, že je "HEZKÉ, ŽE ADAM BARTYZAL DORAZIL PŘESNĚ NA ČAS." Debil :). Byla to docela prdel. Ale překvapilo mě, že dobrodruh jako Dan cestu pojal překvapivě turisticky. Ale zas toho stihli vidět mrtě.
 
-<a href="../images/2023_april/13_2.jpg" target="_blank"><img src="../images/thumbnails/2023_april/13_2.jpg"></a>
+<a href="../images/2023_april/25_2.jpg" target="_blank"><img src="../images/thumbnails/2023_april/25_2.jpg"></a>
 
 Během pauzičky vařili vietnamskou kávu a my s Míšou jsme se bavili s takovým fajn dredatým cápkem. Ale Míše zvonila hrana. V deset potřebovala být na strahově. Když předáška skončila, doprovodil jesm jí na Vltavskou a pak se vrátil do Liberálu.\
 Byla tam Alex s krátkými vlasy a Sláva, který si mě nepamatoval, ale byl nadšený, že já si pamatuju jeho.. i když.. vzpoměl jsem si jen na to, že se jmemjuje od B. Něco jako Bohouš ale ne úplně.
 
-<a href="../images/2023_april/13_3.jpg" target="_blank"><img src="../images/thumbnails/2023_april/13_3.jpg"></a>
+<a href="../images/2023_april/25_3.jpg" target="_blank"><img src="../images/thumbnails/2023_april/25_3.jpg"></a>
+
+Zbyli jsme tam v pár lidech, hráli na piáno, zpívali, pili pivo a měli se fajn. Byl to fakt příjemný večer. Venku se mezitím ochladilo ještě víc a tak jsem místo do Vršek sjel na nextbiku jen do Karlína, půjčil si Jiřího spacák a natáhl se na zem ve vývoji.
+
+### 26.4. Nekonečná bedna EBF
+
+Snídaně v mekáči
+
+### 27.4. Neuspokojivá ale úspěšná oprava logování
+
+Po delší době jsem začal den jógou. Byl to fajn start dne. Je škoda, že je tak strašně jednoduchý se na to ráno vybodnout.\
+Dopo se zastavili slováci. Společně s Adamem jsem se domluvili, že budou čistit konektory kontaktolem a vyčistili si jeden společně u nás. Zbytek dne jsem věnoval hledání příčiny toho, že QT aplikace mi nelogují do journalu. Nešťastný na tom je, že jsem na to nepřišel. Objevil jsem ale, že překldáme aplikace jako general package, i když buildroot nabízí qmakepackage. A ten g++ předhazuje správnou porci flagů, místo někakých vymyšlených právě pro general packages.\
+
+### 28.4. Nahrávání karet
+
+Myslel jsem, že jsem se z toho jak na mě Robin nakašlal nějaký moribundus dostal. Vlastně během celého týdne jsem asi jen párkrát zakašlal a trochu smrkal. Ale asi na mě předešlého večera nafoukala nějaká vetší zima či co, přišla na mě zaseklá rýma. A to je vždycky přezvěst zla. Ráno mi trochu pomohla horká sprcha a tak jsem vyrazil do práce, ale řekl jsem si, že odpo půjdu rovnou do postele.\
+Moc jsem toho taky v práci nenadělal. Napsal jsem si skript pro automatické vyčtení našeho unique ID z SD karty a pak jejího přehrátí na nový fw. Inu a pak už jsem jen roboticky vyměňoval karty a u toho testoval EBU.\
+Odpo jsem se stavil v Tescu a udělal tam kauf století. 5kg brambor, dvě pečiva se špenátem, sklenici zelí za 66 korun. Vézt pětikilový pytel brambor na zádech byl sice kumšt a nějaký zmrd mě informoval, že jsem kretén, kterýho sundá auto z prava, ale poslal jsem ho do příslučných končin a ve zdraví dojel dom, kde jsem z právě nabytých surovin navařil kočičák.
+
+### 29.4. Postel, kniha a podcast
+
+Vývar s česnekem, Smoothie ze zázvoru a mandarinek a knížka. Během dopoledne jsem dočetl Tommorow and tommorow and tommorow. Hodně mě to do sebe vtáhlo a napůl otevřený konec mě potěšil i rozezlil, tak jak to u dobrých knížek bývá. Rozhodl jsem se, že se pustím do další knížky od téže autorky.\
+
+víc psát o pocitech, cílech a víc se zpětně dívat, zda se mi něco povedlo či nikoliv\
+snížit očekávání\
+
+### 30.4. Čáry
+
+vyléčen\
+na kole do bazénu\
+pomalu se soustředěním na nohy\
+počasí nádhera\
+na oběd do globusu prokopákem vzhůru\
+plněné knedlíky se spustou omastku\
+na 8100\
+modré nebe, slunce hřeje\
+spustu úseků jsem už vytěsnil,
+unetice za 105,
+
+<a href="../images/2023_april/30_2.jpg" target="_blank"><img src="../images/thumbnails/2023_april/30_2.jpg"></a>
+
+holčina s modrým drakem a pán se žlutým drakem\
+sjezd ze suchdola\
+kolo v IPRu\
+Filip a Anet\
+Pivo za žeton
+
+<a href="../images/2023_april/30_3.jpg" target="_blank"><img src="../images/thumbnails/2023_april/30_3.jpg"></a>
+
+nasťa\
+batoh\
+marťa\
+Oba jsme vyhráli žeton\
+za pivní stánek\
+o svatbě v améru\
+po západu slunka zima\
+bára jde dom\
+Anet bojuje za opékání buřtů\
+Do Albertu a pak pěšky na Smíchovskou náplavku\
+Vetřeli jsme se ke grilu\
+Přednáška o náccích a skinech\
 
 
-Zbyli jsme tam v pár lidech, hráli na piáno, zpívali, pili pivo a měli se fajn. Byl to fakt příjemný večer. Venku se mezitím ochladilo ještě víc a tak jsem místo do Vršek sjel na nextbiku jen do Karlína, půjčil si Jiřího spacák a natáhl se na zem ve vývoji.\
+buřty
+
+<a href="../images/2023_april/30_4.jpg" target="_blank"><img src="../images/thumbnails/2023_april/30_4.jpg"></a>
