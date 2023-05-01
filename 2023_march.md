@@ -165,7 +165,12 @@ Po dvou Plzních mi bylo jasné, že mi bude blbě když budu pokračovat. A ran
 
 ### 19.3. V tričku
 
+První záchvěv pořádného jara! Do práce jsem vyrazil v tričku a neměl pocit, že by mi byla zima!
+
 ### 20.3. Desítka po ránu
+
+Poslední dva měsíce jsem běhal samý pětikilometry. Nějak jsem se cítil na víc a v ranních hodinýách jsem zdolal [desítku](https://www.strava.com/activities/8745071153). Zkoušel jsem běžet ve třetí zóně a musím říct, že mě to hodně limitovalo. Tempo jsem měl přes 6. Ale zase jsem nebyl po běhu vyšťavenej a to je fajn.\
+Bylo troch u divný o půl hodiny později projíždět podobnou trasou. Deja Vu téměř.
 
 ### 21.3. Ankh
 
@@ -181,17 +186,20 @@ příprava nákupu\
 
 ### 24.3. Levné pláště
 
+Po týdnu roztržená Vittorie mi roztrhla srdíčko. Nebo spíš mě prostě a jen nasrala. Litr v hajzlu. Na proříznutí se žádná záruka nevztahuje. Aspoň myslím.\
+Při návštěvě dekáče jsem chtěl koupit jen novou duši a přední nahradit mým nenáviděným, ale ještě ne úplně sjetým, Michelinem. Nakonec jsem ale koupil 2 nejlevnější 25kový pláště s drátovou patkou. Levný dekáčový kola na tom jezdí tak to přece nemůže být takový průser řekl jsem si a naplánoval si na další den testovací stovku.
+
 ### 25.3. Březnové Gran Fondo
 
-Nové pláště bylo třeba otestovat. Podle předpovědi mělo foukat z Jihozápadu. Podle mapy je na jihozápadě Beroun. Z Berouna už jsem ale jen několikrát. zato z Rakovníka ani jednou. Vlak do Rakovníka jel ze Smícháče a já jsem nahodil kraťasy, tričko s dlouhým rukávem a mikinu a vyrazil na vlak. Už na naší straně řeky se mi ale myšlenka dávat kilo za vlak začala příčit. Kolem Smícháče jsem tedy jen projel a vyrazil do Prokopáku vystoupat na Zličín. V ikee jsem si dal k snídani srdíčkové wafle a na mapě vytušil kudy dál. Do už zmíněného Berouna.
+Podle předpovědi mělo foukat z Jihozápadu. Podle mapy je na jihozápadě Beroun. Z Berouna už jsem ale jen několikrát, zato z Rakovníka ani jednou. Vlak do Rakovníka jel ze Smícháče a já jsem nahodil kraťasy, tričko s dlouhým rukávem, mikinu a vyrazil na vlak. Už na naší straně řeky se mi ale myšlenka dávat kilo za vlak začala příčit. Kolem Smícháče jsem tedy jen projel a vyrazil do Prokopáku vystoupat na Zličín. V ikee jsem si dal k snídani srdíčkové wafle a na mapě vytušil kudy dál. Do už zmíněného Berouna, neb Rakovník byl fakt daleko.
 
 <a href="../images/2023_march/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_1.jpg"></a>
 
-Kde jsem vlastně nikdy nebyl na náměstí. Rozhodl jsem se to napravit a chvíli se slunil na lavičce a díval se na paní co prodávala med a medovinu.
+V Berouně jsem vlastně nikdy nebyl na náměstí. Rozhodl jsem se to napravit a chvíli se slunil na lavičce a díval se na paní, která prodávala med a medovinu.
 
 <a href="../images/2023_march/25_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_2.jpg"></a>
 
-Předchozích asi 30 kilomtrů proti větru stálo to za to. V momentě kdy jsem se vydal po břehu Berounky jsem měl vítr v zádech. 30 km/h bez námahy. Ani jsem se nenadál a byl jsem v Řevnicích, kde jsem plánoval dát si pivko a polévku. Vítr jim tam mával židlemi, ale číšník byl třída. A jak kapustnice, tak pivečko nejvyšší kvality.\
+Předchozí zhruba třiceti kilometrové trápení se vyplatilo. V momentě kdy jsem se vydal po břehu Berounky jsem měl vítr v zádech. 30 km/h bez námahy. Ani jsem se nenadál a byl jsem v Řevnicích, kde jsem plánoval dát si pivko a polévku. Vítr jim tam mával židlemi, ale číšník byl třída. A jak kapustnice, tak pivečko nejvyšší kvality.\
 
 <a href="../images/2023_march/25_3.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_3.jpg"></a>
 
@@ -208,13 +216,12 @@ Nad plánovanou stovečku jsem měl ještě 9 kilometrů, ale koleno začalo doc
 
 ### 26.3. Do Únětic
 
-na devátou\
-nikde nikdo\
-na nádraží - telefon\
-tramvají\
-na metro\
-ondra\
-kolem davida\
+
+Jak jsem se naučil vstávat před sedmou, sraz v 9 mi přišel skoro pozdě. Na Vršovické náměstí jsem tak dorazil s předstihem. Nikde nikdo nebyl, ale nečekal jsem, že by někdo dorazil dřív. U tramvaje v 9 taky nikdo nebyl, tak jsem se šel podívat přímo na náměstí. I tam jsem asi čekal tak 12 minut, než se objevila Adél se svojí kamarádkou Bárou. Adél váhala zda náhodou neměla dorazit na nádraží Vršovice. Proč? To byla záhada nám i jí. Všude jsme jasně psali náměstí.\
+V krátkém závěsu dorazili Marťa s Vildou. A nakonec Jarda se Sárou. Inu měli to nejblíž.\
+Tramvají jsme vyrazili na Mírák a přesedli na Áčko, kde se zjevil Ondra. Nějak ho prý nenapadlo, že pojede s námi a plánoval v metru ještě pracovat a potkat se s námi na Veleslavíně.\
+Z Adél jsem dokázal vydolovat historku z Austrálie o jízdě k nějaké osamělé hoře, kde létali supi, tak na ní radši nešli. Pokud to mými slovy nepůsobí jako dobrá historka, tak je to tím, že opravdu nebyla.\
+kolem davida
 
 <a href="../images/2023_march/26_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/26_1.jpg"></a>
 
@@ -232,7 +239,25 @@ První tři dny v týdnu jsem byl v Maelšicích a vyndaval z kol baterky. Z Hel
 
 ### 30.3. S Alčou na Pilulky Štěstí
 
+bílý rolák a moje oblečení od kolomazi\
 
 
 ### 31.3. Scraping google map
 
+Občas se pozastavím nad svou pamětí. Za prvý, není co bývala. A za druhý.. všechno tam asi někde hluboko pořád je, protože čas od času se mi vrátí nějaká vzpomínka na něco, co jsem mysel, že je dávno pryč. Nebo spíš.. vůbec nevěděl, že se stalo.\
+Hodně to dělají chutě a vůně. Vzpomínky na cyklocestu ale často přináší další cyklocesty. Jedeš zatáčkou a na milisekundu jsi někde úplně jinde. Malešice, jedeš, zatáčíš, BUM Vietnam.\
+A tak mě to napadlo. Chci si vygenerovat Hyperlapse svých cest. Většina jich je nahraných v GPX. A ty co nejsou dokážu vygenerovat z map. Jenže Google je svině. Za API k streetview chce platit.\
+
+> Google mapy ale nejsou placený a tam streetview je ne?
+
+Takže to musí nějak jít.\
+Ukázalo se, že zrada není ani tak v získání obrázků, byť je třeba je sešít z dlaždic, ale v získání panoid, neboli unikátního id jednotlivé streetview bubliny. Ale scrapingem to nějak jde. Ale trvá to.
+
+<a href="../images/2023_march/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/31_1.jpg"></a>
+
+A zrada je v tom, že výchozí pohled je tam, kam jede auto. Což je u jízdy na kole 50/50 správně. Ale dost náhodně se ten směr mění.\
+Ve skandinávii je zrad víc. Tím, že jsem jel po cyklostezkách, ale google auto ne, poskakuje poloha na dost podivná místa. Z nadjedu na dálnici a podobně. Tayky v jednom panu mají víc než 360. For whatever reason.
+
+<a href="../images/2023_march/31_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/31_2.jpg"></a>
+
+Možná si to zkusím na pokusy zaplatit.

@@ -15,7 +15,6 @@
 - [21.10. Opět do Velryby](#2110-opět-do-velryby)
 - [22.10. Rozebrat a složit Draka](#2210-rozebrat-a-složit-draka)
 - [23.10. Ještě víc rozebrat a složit Draka](#2310-ještě-víc-rozebrat-a-složit-draka)
-- [24.10. Pondělí rutinou](#2410-pondělí-rutinou)
 - [25.10. Kolo s novou deskou umřelo](#2510-kolo-s-novou-deskou-umřelo)
 - [26.10. Janne a Dave](#2610-janne-a-dave)
 - [27.10. Koncert Kájiny nové kapely](#2710-koncert-kájiny-nové-kapely)
@@ -240,8 +239,6 @@ past vedle pasti
 zpátky přes řeporyje a z kopce do radotína\
 nechápu jak jsme to vyjeli naopak
 
-### 24.10. Pondělí rutinou
-
 ### 25.10. Kolo s novou deskou umřelo
 
 V Úterý je v práci vždycky mrtvo. Před obědem jsme tak cvičili jen já s Vojtou. Při vytváření prostoru jsem objevil, že kolo 696908 obsaující EMBC05a je mrtvé. To nebyla dobrá zpráva.\
@@ -315,7 +312,6 @@ Jak jsem si myslel.. na plavání jsem se necítil. Další vývar a ibalgin mě
 K jídlu doma toho moc nebylo. Měl jsem tak záminku konečně odnést láhve ze skříně. Účet za zálohu jsem si dal k mobilu, abych ho na kase nezapoměl odevzdat, ale stejně jsem to nějak nezvládl.\
 Přes den jsem toho moc nenadělal. Umyl trochu nádobí a dokoukal doktora house. Už úplně. Skvělá příležitost přestat se závislostí na seriálech.\
 Za poslední měsíc jsem nezapsal do deníku ani jeden den. Tu a tam jsem si dělal poznámky, ale celistvý text chyběl. Začal jsem soupisem výletu k přehradě a plánoval pokračovat proti směru času, ale moc jsem tomu nedal.
-
 
 ### 31.10. Opět na ORL
 
