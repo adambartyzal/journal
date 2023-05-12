@@ -41,22 +41,22 @@ Marťa v kině zůstala s Ivanem a ještě dalšími dvěma kolegy a my ostatní
 
 ### 2.3. Nejhorší je, když tě to začne bavit
 
-To je asi nešťastný tvrzení, ale time management se pod dávkou enthusiasmu rozpadá. Zabil jsem návrhem testů a interface PCD a PICC tříd celý den a celou noc.
+To je asi nešťastný tvrzení, ale time management se pod dávkou entusiasmu rozpadá. Zabil jsem návrhem testů a interface PCD a PICC tříd celý den a celou noc.
 
 ### 3.3. Ponořen v EMVCo
 
-Od posledního běhu uběhlo deset dní. Tomu se stěží dá říkat konzistence. Dal jsem si po ráno krátkou jógu na protažení a vyběhl na kapitol a běhal okolo hřiště. Dva asiaté tam tentokrát nebyli, ale jiný potarší Asiat chodil kolem hřiště šnečím tempem pozadu a mával rukama. Taiwan vibes hadr.\
+Od posledního běhu uběhlo deset dní. Tomu se stěží dá říkat konzistence. Dal jsem si po ráno krátkou jógu na protažení a vyběhl na kapitol a běhal okolo hřiště. Dva asiaté tam tentokrát nebyli, ale jiný postarší Asiat chodil kolem hřiště šnečím tempem pozadu a mával rukama. Taiwan vibes hadr.\
 Každý správný závodník má na lýtku převodník, možná si ho nechám vykérovat.
 
 <a href="../images/2023_march/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/3_1.jpg"></a>
 
 V práci jsem pokračoval v programování nfc protokolu. Úplně mě to pohltilo. I když pokroky jsem dělal minimální. Pocit, že dokumentace je úplná sračka mě ale opouštěl.\
-Zapoměl jsem, nebo spíš se mi nechtělo odepsiovat paní Nejedlé ze Safiralu. Snad to počká do pondělí.
+Zapomněl jsem, nebo spíš se mi nechtělo odepisovat paní Nejedlé ze Safiralu. Snad to počká do pondělí.
 
 ### 4.3. Další den zabitý
 
-Nečekaná věc se mi stala. Při roztahaném ránu jsem si brnkal na kytaru a přišlo mi, že jsem přišel s něčím nahrání hodným. Z nostalgie jsem si pouštěl nahrávky a doroloval až ke dni, kdy jsem byl v Římě. Spotify mě musí tutově šiclovat, protože stejnou píseň jako zpívala v hudbní škole ta hot italka, o hodinu později hrála v náhodném playlistu. A to jsem jí do té doby nikdy neslyšel a myslem jse si, že to nebyl cover.\
-Nebyla až tak hrozná zima a doma jsem se k ničemu kromě programování nfc protokolu neměl, takžse jsem si sedl na kolo a dojel do ikey a šel psát deník. Ale nfc protokol mi nešl z hlavy a většinu času jsem zabil refactorem toho, co jsem zatím napsal.\
+Nečekaná věc se mi stala. Při roztahaném ránu jsem si brnkal na kytaru a přišlo mi, že jsem přišel s něčím nahrání hodným. Z nostalgie jsem si pouštěl nahrávky a doroloval až ke dni, kdy jsem byl v Římě. Spotify mě musí tutově špiclovat, protože stejnou píseň jako zpívala v hudbení škole ta hot italka, o hodinu později hrála v náhodném playlistu. A to jsem jí do té doby nikdy neslyšel a myslel jsem si, že to nebyl cover.\
+Nebyla až tak hrozná zima a doma jsem se k ničemu kromě programování nfc protokolu neměl, takže jsem si sedl na kolo a dojel do ikey a šel psát deník. Ale nfc protokol mi nešl z hlavy a většinu času jsem zabil refactorem toho, co jsem zatím napsal.\
 Na to, že jsem týden nadával, že tomu nikdo nemůže rozumět jsem PCD stranu napsal na asi 50 čitelných řádků a PICC stranu jen na 35. Testy taky byly čitelné a já jsem začínal věřit tomu, že až pošlu do karty první APDU, dostanu odpověď.
 
 ### 7.3. Vykládat kamion
@@ -81,27 +81,27 @@ Nejvíc mě ale rozesmál návod na použití regálového zakladače, který js
 
 ### 8.3. Proložit fyzickou práci vývojem
 
-Dvakrát za sebou se nám do zimy nechtělo a tak jsme si dali den v Karlíně. Vojta s ve Finsku vypěstoval závislost na kávě. Naprosto jsem tomu rozuměl a protože jsem si zapoměl novou dávku kávových zrn doma, vyrazili jsme do emy na pořádný flatwhite.
+Dvakrát za sebou se nám do zimy nechtělo a tak jsme si dali den v Karlíně. Vojta s ve Finsku vypěstoval závislost na kávě. Naprosto jsem tomu rozuměl a protože jsem si zapoměl novou dávku kávových zrn doma, vyrazili jsme do emy na pořádný flat white.
 
 <a href="../images/2023_march/8_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/8_1.jpg"></a>
 
 
 ### 9.3. Do poetické hospůdky
 
-Poučen minulou směnou v Malešicích, sbalil jsem ráno rychlovarnou konvici, drip a kafe a vyrazil do té ldnice s vidinou práce s teplým nápojem.
+Poučen minulou směnou v Malešicích, sbalil jsem ráno rychlovarnou konvici, drip a kafe a vyrazil do té lednice s vidinou práce s teplým nápojem.
 
 <a href="../images/2023_march/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_1.jpg"></a>
 
-Během dopoledne mi napsala Marťa jestli půjdu na koncert. Úplně jsem zapoměl, že Jarda hraje a moc se mi jít nechtělo. Dejvice jsou daleko a po práci v Malešicích jsem očekával, že budu grogy. Kroucení zápěstí kvůli víčkům a tahání kol bez kol mi dávalo zabrat.
+Během dopoledne mi napsala Marťa jestli půjdu na koncert. Úplně jsem zapomněl, že Jarda hraje a moc se mi jít nechtělo. Dejvice jsou daleko a po práci v Malešicích jsem očekával, že budu grogy. Kroucení zápěstí kvůli víčkům a tahání kol bez kol mi dávalo zabrat.
 
 <a href="../images/2023_march/9_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_2.jpg"></a>
 
-V Lidlu jsem si koupil tuňákový sendvič. Byl slevněný na asi 35 korun. No nekup to. V tescu, nebo v automatech stejná věc stojí třeba 70 korun. Asi jsem to ale neměl dělat. Když jsem ho venku s nadšením pořádal, kousl jsem do kusu skla. A ne jen tak nějakého. Střepu jako prase. Bolelo to jak čert a vážil jsem, zda chci jít zpátky do krámu, jít to řešit. Ale pochyboval jsem, že by mi cokoliv uhádal. Po rozlomené osmičce to ale byl další atak na můj chrup. Letos si zažívá zkoušku ohněm. Asi bych si už opravdu měl najít zubaře v Praze.
+V Lidlu jsem si koupil tuňákový sendvič. Byl zlevněný na asi 35 korun. No nekup to. V Tescu, nebo v automatech stejná věc stojí třeba 70 korun. Asi jsem to ale neměl dělat. Když jsem ho venku s nadšením pořádal, kousl jsem do kusu skla. A ne jen tak nějakého. Střepu jako prase. Bolelo to jak čert a vážil jsem, zda chci jít zpátky do krámu, jít to řešit. Ale pochyboval jsem, že by mi cokoliv uhádal. Po rozlomené osmičce to ale byl další atak na můj chrup. Letos si zažívá zkoušku ohněm. Asi bych si už opravdu měl najít zubaře v Praze.
 
 <a href="../images/2023_march/9_3.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_3.jpg"></a>
 
-Únava těla a bolset zubu mě přesvědčily, že do Dejvic nepojedu. Marťa mě ale vyvedla z omylu. Koncert byl na Vinohradech a to bylo v dochozí vzdálenosti. Snedl jsem tedy doma ještě nějaké zbytky, opláchl ze sebe ve sprše smrad manuální práce a vyrazil směrem k ní. Nakonec šel i Vilda.\
-Připravoval jsem je, že Kedé Chim je podivný mezigenerační projekt a že nás možná bude jen pár, protože jejich fanouškovská základna není početná. Vlastně se asi můžu počítat za skalního fanouška a to jsem se ještě nerothodl, jestli se mi líbí.\
+Únava těla a bolest zubu mě přesvědčily, že do Dejvic nepojedu. Marťa mě ale vyvedla z omylu. Koncert byl na Vinohradech a to bylo v dochozí vzdálenosti. Snedl jsem tedy doma ještě nějaké zbytky, opláchl ze sebe ve sprše smrad manuální práce a vyrazil směrem k ní. Nakonec šel i Vilda.\
+Připravoval jsem je, že Kedé Chim je podivný mezigenerační projekt a že nás možná bude jen pár, protože jejich fanouškovská základna není početná. Vlastně se asi můžu počítat za skalního fanouška a to jsem se ještě nerozhodl, jestli se mi líbí.\
 Přítomní byli členové kapely, jeden páč důchodců, Sára, Bořejk s jeho přítelkyní Míšou, a pár lidí vpředu, které jsem neznal ale vypadali jako uzavřená společnost.Sára mi dlužila piva a tak jsem pil docela bezstarostně. U refrénů jsem prozpěvoval, takže se mi ta kapela asi líbí. A vypadalo to, že Marťě i Vildovi se líbí taky.
 
 <a href="../images/2023_march/9_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/9_4.jpg"></a>
@@ -110,14 +110,14 @@ Někdy před půlnocí přišlo pár dalších lidí a mezi nimi byl Luboš se k
 
 ### 10.3. Kocovina a další kamiony
 
-Hlavně že jsem všem říkal, že potřebuju být druhý den v sedm ráno ready na vykládání kamionů. Ready jsem teda rozhodně nebyl. Na druhou stranu, taky jsem vlastně nevěděl kdy kamiony dorazí. A nevěděl to ani Vojta. A ani Miti, které jsme volali. Věděli jsme jen, že se snaží přijet ještě v pátek, jinak by tam kysli přes víkend. Chvíli jsme v té zimě dělali každý svojí práci, ale nakonec jsme to zabalili, svezli se autem do Karlína a šli do Indie s Vláďou. S vidinou toho, že jakmile si sedneme k jídlu, Miti zabolá, že kamiony přijely.A taky že jo. Ale naštěstí jim to trvalo ještě půl hodiny přes Prahu a tak jsme dorazili víceméň s nimi.\
+Hlavně že jsem všem říkal, že potřebuji být druhý den v sedm ráno ready na vykládání kamionů. Ready jsem tedy rozhodně nebyl. Na druhou stranu, taky jsem vlastně nevěděl kdy kamiony dorazí. A nevěděl to ani Vojta. A ani Miti, které jsme volali. Věděli jsme jen, že se snaží přijet ještě v pátek, jinak by tam kysli přes víkend. Chvíli jsme v té zimě dělali každý svojí práci, ale nakonec jsme to zabalili, svezli se autem do Karlína a šli do Indie s Vláďou. S vidinou toho, že jakmile si sedneme k jídlu, Miti zabolá, že kamiony přijely.A taky že jo. Ale naštěstí jim to trvalo ještě půl hodiny přes Prahu a tak jsme dorazili víceméně s nimi.\
 Oba kamioňáci byli poláci a jeden z nich byl takový děda, který se projel na našich rowerech publiczných.\
 Přišel slejvák a ze zakladače nám začalo téct do skladu. S Petrem jsme hledali díru a objevili, že celá boční zeď je děravá jak řešeto. 
 
 ### 11.3. Eva dostala klarinet
 
 32. Nedávno bylo Evě 24. Nějak moc rychle to letí.\
-Teda zpětně vzato. Videa, kde vydávala pazvuky na klarinet, který dostala k narozeninám utíkaly až nepříjemně pomalu. Ale nějaký pokrok z nich čišel. Když tomu dá čas, asi se to naučí dobře. Držím jí palec.
+Tedy zpětně vzato. Videa, kde vydávala pazvuky na klarinet, který dostala k narozeninám utíkaly až nepříjemně pomalu. Ale nějaký pokrok z nich čišel. Když tomu dá čas, asi se to naučí dobře. Držím jí palec.
 
 ### 13.3. Návratilec z Austrálie
 
@@ -125,16 +125,16 @@ Dny už se protáhly dost na to, aby slunce svítilo i po tom co přijedu po pr�
 
 <a href="../images/2023_march/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/13_1.jpg"></a>
 
-Adél se po půl roce vrátila z Austrálie a jarda tak svolal sraz na víno na uvítanou. Nakonec z vína bylo pivo v Blatouchu. A z piva v Blatouchu se nakonec stalo SlidesLive pivo. Museli jsme srazit dva stoly a já byl rozpolcen mezi dvě diskuse. Nad rámec lidí, které jsem znal dorazil ještě metalově vyhlížející klučina, jenž ode mně seěl tak daleko, že jsem vůbec nepochytil jeho jméno a Kristián a jeho přítelkyně z Brna. A se zpožděním se k Tomášovi přidala Míša.\
+Adél se po půl roce vrátila z Austrálie a jarda tak svolal sraz na víno na uvítanou. Nakonec z vína bylo pivo v Blatouchu. A z piva v Blatouchu se nakonec stalo SlidesLive pivo. Museli jsme srazit dva stoly a já byl rozpolcen mezi dvě diskuse. Nad rámec lidí, které jsem znal dorazil ještě metalově vyhlížející klučina, jenž ode mně seděl tak daleko, že jsem vůbec nepochytil jeho jméno a Kristián a jeho přítelkyně z Brna. A se zpožděním se k Tomášovi přidala Míša.\
 Jak mám Blatouch rád, tak se jim nedařilo. Jeden číšník byl ignorant a jeho kolegyně ten večer obsluhovala poprvé a inu.. moc jí to nešlo. Kupodivu to nebyla Réba, kdo by jí hejtoval nejvíc. Možná proto, že její bagel přišel takový, jaký si objednala. Máca takové štěstí neměla, neb její bagel s hummusem v sobě neměl ani hummus, ani granátové jablko.\
 Korunu tomu nasadili, když jí přinesli ten samý bagel, který vrátila. Tomáš tomu klukovi šel vysvětlit, že takhle by to nešlo a že by si měl uvědomit, co je jeho práce.\
 Dál už jsme ho neviděli.\
 Z Adél jsme nevytáhli skoro nic o jejím cestování. Z Bali Jardovi přivezla sušený Durian. Sušená varianta tohohle zla je podstatně méně potentní než varianta čerstvá. I tak to ale při kolování kolem dvou stolů bylo cítit dost.\
-Na cestě domů jsem se bavil s Kristiánem a jeho přítelkyní o prozatím asi nejlepším použití nově se objevucící AI. Cestování! Na své cestě po islandu dávali chatGPT dotazy typu: Jedeme autem, máme tolik a tolik dní, zhruba takový a takový budget, chceme spát v ne moc fancy, ale ne úplně špatném místě a chceme toho vidět co nejvíc. A po pár dalších upřesněních jim AI plánovala prý velmi dobrý trip. To se mi hodně líboli, neb vím, že plánování dokáže být oser.
+Na cestě domů jsem se bavil s Kristiánem a jeho přítelkyní o prozatím asi nejlepším použití nově se objevující AI. Cestování! Na své cestě po islandu dávali chatGPT dotazy typu: Jedeme autem, máme tolik a tolik dní, zhruba takový a takový budget, chceme spát v ne moc fancy, ale ne úplně špatném místě a chceme toho vidět co nejvíc. A po pár dalších upřesněních jim AI plánovala prý velmi dobrý trip. To se mi hodně líbili, neb vím, že plánování dokáže být oser.
 
 ### 15.3. Odpověď na PPSE
 
-Dělat věci pomalu.. moje nové motto. Zdá se mi, že se začíná vyplácet. Pořád nejsem tak daleko, že bych napsal testy od A do Z, pak napsal implementace tříd a měl hotovo. Ale můj kód se mi líbí. Přijde mi řádově čitelnější než kdysi. Obzvlášť mě potěšil wrapper na external memory, který řeší přičítání modfikačních ovládacích bajtů a posílání callbacků, takže psaní a čtení paměti je mrtě přehlednejší.\
+Dělat věci pomalu.. moje nové motto. Zdá se mi, že se začíná vyplácet. Pořád nejsem tak daleko, že bych napsal testy od A do Z, pak napsal implementace tříd a měl hotovo. Ale můj kód se mi líbí. Přijde mi řádově čitelnější než kdysi. Obzvlášť mě potěšil wrapper na external memory, který řeší přičítání modifikačních ovládacích bajtů a posílání callbacků, takže psaní a čtení paměti je mrtě přehlednější.\
 Navíc mi konečně všechny EMV karty odpověděli na PPSE APDU, což byl můj původní cíl.
 
 ### 16.3. Plášť v háji, box v plamenech, počasí v prdeli
@@ -151,11 +151,11 @@ Ondra se ozval zda-li máme nějaký flexi filament a protože jsem nějaký na�
 
 <a href="../images/2023_march/17_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/17_1.jpg"></a>
 
-Teplo ale odcházelo se zapadajícím slunkem a tak jsme se přesunuli do nové čítárny, kam už jsem dlouho chtěl. Psal jsem ostatním ať dorazí, ale Jarda se Sárou mířili do Irish Pubu někde v centru, kde hrál Marek s partou dalších hudebníků Irskou hudbu. Potkali jsme je venku s Guinessem v záplavě zelně odděných lidí.
+Teplo ale odcházelo se zapadajícím slunkem a tak jsme se přesunuli do nové čítárny, kam už jsem dlouho chtěl. Psal jsem ostatním ať dorazí, ale Jarda se Sárou mířili do Irish Pubu někde v centru, kde hrál Marek s partou dalších hudebníků Irskou hudbu. Potkali jsme je venku s Guinessem v záplavě zeleně oděných lidí.
 
 <a href="../images/2023_march/17_2.jpg" target="_blank"><img src="../images/thumbnails/2023_march/17_2.jpg"></a>
 
-Uvnitř bylo fakt narváno. ne tak, žse se nedalo sednout si, ale tak, že se nedalo hýbat. Fronta na pivo byla tak na hodinu a když jsem se do ní postavil, lidi přede mnou spíš přibývali než ubývali. Po chvíl jsem to vzdal. A vzdala to i Sára. Ne tu frontu, ale celý ten bar. A tak jsme vyrazili jinam. Navrhl jsem Pivovarnickou nalévárnu, ale do cesty nám přišel Lokál.\
+Uvnitř bylo fakt narváno. ne tak, žse se nedalo sednout si, ale tak, že se nedalo hýbat. Fronta na pivo byla tak na hodinu a když jsem se do ní postavil, lidi přede mnou spíš přibývali než ubývali. Po chvíli jsem to vzdal. A vzdala to i Sára. Ne tu frontu, ale celý ten bar. A tak jsme vyrazili jinam. Navrhl jsem Pivovarnickou nalévárnu, ale do cesty nám přišel Lokál.\
 Pivo za 62, hluk a hlad, jenže vařit už přestali.\
 Po chvíli se k nám přidali Anička s Honzou.
 
@@ -169,12 +169,12 @@ První záchvěv pořádného jara! Do práce jsem vyrazil v tričku a neměl po
 
 ### 20.3. Desítka po ránu
 
-Poslední dva měsíce jsem běhal samý pětikilometry. Nějak jsem se cítil na víc a v ranních hodinýách jsem zdolal [desítku](https://www.strava.com/activities/8745071153). Zkoušel jsem běžet ve třetí zóně a musím říct, že mě to hodně limitovalo. Tempo jsem měl přes 6. Ale zase jsem nebyl po běhu vyšťavenej a to je fajn.\
+Poslední dva měsíce jsem běhal samý pětikilometry. Nějak jsem se cítil na víc a v ranních hodinách jsem zdolal [desítku](https://www.strava.com/activities/8745071153). Zkoušel jsem běžet ve třetí zóně a musím říct, že mě to hodně limitovalo. Tempo jsem měl přes 6. Ale zase jsem nebyl po běhu vyšťavenej a to je fajn.\
 Bylo troch u divný o půl hodiny později projíždět podobnou trasou. Deja Vu téměř.
 
 ### 21.3. Ankh
 
-Už dlouho mě štvalo, že kluci restartují baterie nůžkami. Zatím je nikdo nesvařil, ale dřív nebo později se to musí stát, pokud jim někdo nedá lepší metodu restartu baterie. Vytisknul jsem si proto udělátko a pojmenival ho ANKH, po metodě vzkříšení z Warcraftu.
+Už dlouho mě štvalo, že kluci restartují baterie nůžkami. Zatím je nikdo nesvařil, ale dřív nebo později se to musí stát, pokud jim někdo nedá lepší metodu restartu baterie. Vytiskl jsem si proto udělátko a pojmenoval ho ANKH, po metodě vzkříšení z Warcraftu.
 
 <a href="../images/2023_march/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/21_1.jpg"></a>
 
@@ -203,13 +203,13 @@ Předchozí zhruba třiceti kilometrové trápení se vyplatilo. V momentě kdy 
 
 <a href="../images/2023_march/25_3.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_3.jpg"></a>
 
-U kralštejna mě začalo pobolívat koleno. Dospěl jsem k názoru, že to je tím, že sedím příliš vzadu. Měl jsem sadu, ale imbus pod sedlem byl utažený tak na krev, že jsem to ráčničkou nedal. Během šroubování na mě vybafnul bez pozdravení nějaký Rus, kde je prý zámek. Byl tak nepříjemný, že jsem ho informoval, že Karlštejn není zámek ale hrad a poslal ho opačným směrem. Asi to nebyl zrovna nejlepší krok pro mojí karmu, ale byl to debil.\
+U Karlštejna mě začalo pobolívat koleno. Dospěl jsem k názoru, že to je tím, že sedím příliš vzadu. Měl jsem sadu, ale imbus pod sedlem byl utažený tak na krev, že jsem to ráčničkou nedal. Během šroubování na mě vybafnul bez pozdravení nějaký Rus, kde je prý zámek. Byl tak nepříjemný, že jsem ho informoval, že Karlštejn není zámek ale hrad a poslal ho opačným směrem. Asi to nebyl zrovna nejlepší krok pro mojí karmu, ale byl to debil.\
 50 kilometrů bylo za mnou. Padesát ještě dám, řekl jsem si a vyrazil dál podél řeky s plánem překročit obě řeky, vystoupat Modřanskou rokli a uzavřít Gran Fondo cestou kolem přehrady.\
-Jenže nové pláště to vzdaly. Na retardéru u chatové oblasti vyskočil zadní plášť z ráfku. Zvládnul jsem ho vypustit ventilkem dřiv, než explodivala duše, ale zpátky se mu nechtělo. Při nahuštění přes 3 atmosféry zase lezl ven. Nakonec jsem sundal obě kola a pláště prohodil. Magicky to pomohlo, ale dál jsem jel trochu připosraně.
+Jenže nové pláště to vzdaly. Na retardéru u chatové oblasti vyskočil zadní plášť z ráfku. Zvládnul jsem ho vypustit ventilkem dřív, než explodovala duše, ale zpátky se mu nechtělo. Při nahuštění přes 3 atmosféry zase lezl ven. Nakonec jsem sundal obě kola a pláště prohodil. Magicky to pomohlo, ale dál jsem jel trochu připosraně.
 
 <a href="../images/2023_march/25_4.jpg" target="_blank"><img src="../images/thumbnails/2023_march/25_4.jpg"></a>
 
-Někde u šeberáku jsem odbočil blbě a magicky jsem se dostal do Průhonic, i když do Průhonic jsem tutově nechtěl. Přehradu jsem tak nakonec minul a jel až horní Hostivaří. Díky tomu se mi ale v hlavě ukul plán navštivit Hostivar s Marťou.\
+Někde u šeberáku jsem odbočil blbě a magicky jsem se dostal do Průhonic, i když do Průhonic jsem tutově nechtěl. Přehradu jsem tak nakonec minul a jel až horní Hostivaří. Díky tomu se mi ale v hlavě ukul plán navštívit Hostivar s Marťou.\
 Nad plánovanou stovečku jsem měl ještě 9 kilometrů, ale koleno začalo docela tahat a bylo jasný, že jsem to kvůli odznáčku na stravě přestřelil. 
 
 [Záznam trasy](https://www.strava.com/activities/8776014057)
@@ -230,7 +230,7 @@ kolem davida
 
 ### 27-29.10. Podivné jídelny v Malešicích
 
-První tři dny v týdnu jsem byl v Maelšicích a vyndaval z kol baterky. Z Helsinek se vrátili
+První tři dny v týdnu jsem byl v Malešicích a vyndaval z kol baterky. Z Helsinek se vrátili
 
 <a href="../images/2023_march/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/27_1.jpg"></a>
 
@@ -244,7 +244,7 @@ bílý rolák a moje oblečení od kolomazi\
 
 ### 31.3. Scraping google map
 
-Občas se pozastavím nad svou pamětí. Za prvý, není co bývala. A za druhý.. všechno tam asi někde hluboko pořád je, protože čas od času se mi vrátí nějaká vzpomínka na něco, co jsem mysel, že je dávno pryč. Nebo spíš.. vůbec nevěděl, že se stalo.\
+Občas se pozastavím nad svou pamětí. Za prvý, není co bývala. A za druhý.. všechno tam asi někde hluboko pořád je, protože čas od času se mi vrátí nějaká vzpomínka na něco, co jsem myslel, že je dávno pryč. Nebo spíš.. vůbec nevěděl, že se stalo.\
 Hodně to dělají chutě a vůně. Vzpomínky na cyklocestu ale často přináší další cyklocesty. Jedeš zatáčkou a na milisekundu jsi někde úplně jinde. Malešice, jedeš, zatáčíš, BUM Vietnam.\
 A tak mě to napadlo. Chci si vygenerovat Hyperlapse svých cest. Většina jich je nahraných v GPX. A ty co nejsou dokážu vygenerovat z map. Jenže Google je svině. Za API k streetview chce platit.\
 
