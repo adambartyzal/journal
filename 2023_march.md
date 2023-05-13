@@ -180,13 +180,15 @@ Už dlouho mě štvalo, že kluci restartují baterie nůžkami. Zatím je nikdo
 
 ### 22.3. Skoro nic na práci
 
-příprava nákupu\
+Bylo to zvláštní, ale skoro jsem neměl co dělat. Muslel jsem se uchýlit k nudným činnostem jako bylo třídění součástek navrácených z výroby a přípravy na nákup součástek na FBC00.
 
 ### 23.3. Boxy v Malešicích
 
+Poláci v Krakově toužili po dalším nabíjecím boxu. Stavět nový mi přišlo jako nesmysl, když se nám jich z Helsinek vrátilo 9. Zkontrolovat v jakém stavu jsou se ale ukázalo jako práce na celý den. Během kontrol jsem vymyslel, že poškrábané běhouny pod bateriemi bychom mohli přelepit nějakou nálepkou. Cítil bych se míň blbě, když tvrdíme, že box je nový.
+
 ### 24.3. Levné pláště
 
-Po týdnu roztržená Vittorie mi roztrhla srdíčko. Nebo spíš mě prostě a jen nasrala. Litr v hajzlu. Na proříznutí se žádná záruka nevztahuje. Aspoň myslím.\
+Po týdnu roztržená Vittorie mi roztrhla srdíčko. Nebo spíš mě prostě jen nasrala. Litr v hajzlu. Na proříznutí se žádná záruka nevztahuje. Aspoň myslím.\
 Při návštěvě dekáče jsem chtěl koupit jen novou duši a přední nahradit mým nenáviděným, ale ještě ne úplně sjetým, Michelinem. Nakonec jsem ale koupil 2 nejlevnější 25kový pláště s drátovou patkou. Levný dekáčový kola na tom jezdí tak to přece nemůže být takový průser řekl jsem si a naplánoval si na další den testovací stovku.
 
 ### 25.3. Březnové Gran Fondo
@@ -230,17 +232,22 @@ kolem davida
 
 ### 27-29.10. Podivné jídelny v Malešicích
 
-První tři dny v týdnu jsem byl v Malešicích a vyndaval z kol baterky. Z Helsinek se vrátili
+První tři dny v týdnu jsem byl v Malešicích a vyndaval z kol baterky. Hlad jsme zaháněli v místních jídelnách. Navštívili jsme jídelnu technického komplexu TTC.
 
 <a href="../images/2023_march/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/27_1.jpg"></a>
 
+Jídelnu Mafry.
+
 <a href="../images/2023_march/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_march/28_1.jpg"></a>
 
+A ve středu nás Tomáš táhl zkratkou mezi areály, která se ukázala jako nikam nevedoucí. Poté jsme se v jídelně LOM dozvěděli, že je jen pro zaměstnance a vyrazili do mnou posvěceného TTC.
 
 ### 30.3. S Alčou na Pilulky Štěstí
 
-bílý rolák a moje oblečení od kolomazi\
-
+Festival Jeden Svět se chýlil ke konci. Alča byla na pěti filmech, já to až tak neprožíval a rozhodl se jít s ní na ten poslední, jehož název [Pilulky Štěstí](https://www.csfd.cz/film/1022820-pilulky-stesti/recenze/) mě zaujal nejvíce.\
+Do kina v městské knihovně jsem dorazil na kole po tom co jsem se chvíli vrtal v Karlíně v kole. Alča mě objala v dokonale bílém roláku a jen štěstíčkem se nezamazalo o všechnu tu kolomaz co na mě byla.\
+Film byl zajímavý. Asi 7 pohledů do různých koutů světa a různých kultur, které farmacie nějakým způsobem mění. Jestli k lepšímu či horšímu bylo ponecháno na divákově soudu.\
+Po filmu chcalo. Přeběhli jsme do skautského institutu na staromáku. Vyptával jsem se jí na její život, vztahy a tak. Je mrtě introert. Asi není taková královna pohodlí jak jsem si myslel, ale rozhodně je jedna z těch co k životu nikoho jiného úplně nepotřeuje a jen tak někdo se přes její filtry nedostane.
 
 ### 31.3. Scraping google map
 
