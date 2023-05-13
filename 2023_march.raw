@@ -23,7 +23,7 @@
 - [26.3. Do Únětic](#263-do-únětic)
 - [27-29.10. Podivné jídelny v Malešicích](#27-2910-podivné-jídelny-v-malešicích)
 - [30.3. S Alčou na Pilulky Štěstí](#303-s-alčou-na-pilulky-štěstí)
-- [31.3. Scraping google map](#313-scraping-google-map)
+- [31.3. Scraping Google map](#313-scraping-google-map)
 
 ### 1.3. Zevlovat a prudit
 
@@ -201,13 +201,13 @@ V Berouně jsem vlastně nikdy nebyl na náměstí. Rozhodl jsem se to napravit 
 
 ![image](25_2.jpg)
 
-Předchozí zhruba třiceti kilometrové trápení se vyplatilo. V momentě kdy jsem se vydal po břehu Berounky jsem měl vítr v zádech. 30 km/h bez námahy. Ani jsem se nenadál a byl jsem v Řevnicích, kde jsem plánoval dát si pivko a polévku. Vítr jim tam mával židlemi, ale číšník byl třída. A jak kapustnice, tak pivečko nejvyšší kvality.\
+Předchozí zhruba třiceti kilometrové trápení se vyplatilo. V momentě kdy jsem se vydal po břehu Berounky jsem měl vítr v zádech. 30 km/h bez námahy. Ani jsem se nenadál a byl jsem v Řevnicích, kde jsem plánoval dát si pivko a polévku. Vítr jim tam mával židlemi, ale číšník byl třída. A jak kapustnice, tak pivečko nejvyšší kvality.
 
 ![image](25_3.jpg)
 
 U Karlštejna mě začalo pobolívat koleno. Dospěl jsem k názoru, že to je tím, že sedím příliš vzadu. Měl jsem sadu, ale imbus pod sedlem byl utažený tak na krev, že jsem to ráčničkou nedal. Během šroubování na mě vybafnul bez pozdravení nějaký Rus, kde je prý zámek. Byl tak nepříjemný, že jsem ho informoval, že Karlštejn není zámek ale hrad a poslal ho opačným směrem. Asi to nebyl zrovna nejlepší krok pro mojí karmu, ale byl to debil.\
 50 kilometrů bylo za mnou. Padesát ještě dám, řekl jsem si a vyrazil dál podél řeky s plánem překročit obě řeky, vystoupat Modřanskou rokli a uzavřít Gran Fondo cestou kolem přehrady.\
-Jenže nové pláště to vzdaly. Na retardéru u chatové oblasti vyskočil zadní plášť z ráfku. Zvládnul jsem ho vypustit ventilkem dřív, než explodovala duše, ale zpátky se mu nechtělo. Při nahuštění přes 3 atmosféry zase lezl ven. Nakonec jsem sundal obě kola a pláště prohodil. Magicky to pomohlo, ale dál jsem jel trochu připosraně.
+Jenže nové pláště to vzdaly. Na retardéru u chatové oblasti vyskočil zadní plášť z ráfku. Zvládl jsem ho vypustit ventilkem dřív, než explodovala duše, ale zpátky se mu nechtělo. Při nahuštění přes 3 atmosféry zase lezl ven. Nakonec jsem sundal obě kola a pláště prohodil. Magicky to pomohlo, ale dál jsem jel trochu připosraně.
 
 ![image](25_4.jpg)
 
@@ -247,13 +247,13 @@ A ve středu nás Tomáš táhl zkratkou mezi areály, která se ukázala jako n
 Festival Jeden Svět se chýlil ke konci. Alča byla na pěti filmech, já to až tak neprožíval a rozhodl se jít s ní na ten poslední, jehož název [Pilulky Štěstí](https://www.csfd.cz/film/1022820-pilulky-stesti/recenze/) mě zaujal nejvíce.\
 Do kina v městské knihovně jsem dorazil na kole po tom co jsem se chvíli vrtal v Karlíně v kole. Alča mě objala v dokonale bílém roláku a jen štěstíčkem se nezamazalo o všechnu tu kolomaz co na mě byla.\
 Film byl zajímavý. Asi 7 pohledů do různých koutů světa a různých kultur, které farmacie nějakým způsobem mění. Jestli k lepšímu či horšímu bylo ponecháno na divákově soudu.\
-Po filmu chcalo. Přeběhli jsme do skautského institutu na staromáku. Vyptával jsem se jí na její život, vztahy a tak. Je mrtě introert. Asi není taková královna pohodlí jak jsem si myslel, ale rozhodně je jedna z těch co k životu nikoho jiného úplně nepotřeuje a jen tak někdo se přes její filtry nedostane.
+Po filmu chcalo. Přeběhli jsme do skautského institutu na staromáku. Vyptával jsem se jí na její život, vztahy a tak. Je mrtě introvert. Asi není taková královna pohodlí jak jsem si myslel, ale rozhodně je jedna z těch co k životu nikoho jiného úplně nepotřebuje a jen tak někdo se přes její filtry nedostane.
 
-### 31.3. Scraping google map
+### 31.3. Scraping Google map
 
 Občas se pozastavím nad svou pamětí. Za prvý, není co bývala. A za druhý.. všechno tam asi někde hluboko pořád je, protože čas od času se mi vrátí nějaká vzpomínka na něco, co jsem myslel, že je dávno pryč. Nebo spíš.. vůbec nevěděl, že se stalo.\
 Hodně to dělají chutě a vůně. Vzpomínky na cyklocestu ale často přináší další cyklocesty. Jedeš zatáčkou a na milisekundu jsi někde úplně jinde. Malešice, jedeš, zatáčíš, BUM Vietnam.\
-A tak mě to napadlo. Chci si vygenerovat Hyperlapse svých cest. Většina jich je nahraných v GPX. A ty co nejsou dokážu vygenerovat z map. Jenže Google je svině. Za API k streetview chce platit.\
+A tak mě to napadlo. Chci si vygenerovat Hyperlapse svých cest. Většina jich je nahraných v GPX. A ty co nejsou dokážu vygenerovat z map. Jenže Google je svině. Za API k streetview chce platit.
 
 > Google mapy ale nejsou placený a tam streetview je ne?
 

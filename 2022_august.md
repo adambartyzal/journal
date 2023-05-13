@@ -222,7 +222,7 @@ Ve skupině na messengeru se výlet začínal rýsovat. Navrhl jsem ať se sejde
 Manjaro mělo problém s nějakým linker errorem. V prvních pracovních hodinách jsem se probíral internetem abych objevil, jak je to možné, když Vláďovi se to neděje a obě naše distribuce by měly mít stejný zdroj balíčků. Nakonec jsem to vyřešil flagem pro potlačení.\
 Překlad sice prošel, ale procesor stejně havaroval do Hard Faultu. S Vláďou jsme zjistili, že linker nenahrává do ramky data zarovnaná na celé bajty. Vlastně žádná z našich binárek fungovala doposavaď spíš náhodou. Strasti vývoje bez OS.\
 Čtrnáctidení porada byla podle mně k ničemu, lidi se akorát hádali o blbostech a obviňovali se navzájem z toho, že v Kyjích je bordel s balíky.\
-Po poradě jsem na na hraně poznání jsem musel vyrazit pryč. Kdybych se v kódu vrtal déle, nestihl bych Martě zalít kytky a sbalit se.\
+Po poradě jsem na na hraně poznání jsem musel vyrazit pryč. Kdybych se v kódu vrtal déle, nestihl bych Marťě zalít kytky a sbalit se.\
 Měla pravdu. Její byt opravdu docela voní. Převážně je to ale aviváž. Pere proti mě excesivně. I u mě to je ale lepší než to bývalo. Oblečení mi taky hezky voní a primalex ze zdí už docela vyčichl.\
 V rychlosti jsem nakoupil a sbalil se ještě ve větším spěchu. Minutku před odjezdem vlaku jsem přiběhl na nádraží a potkal Jardu. Kora ve vlaku línala a chlupy byly úplně všude. Na hlaváku Jarda skočil pro pivka z Billy se vrátil i s Ondrou.
 
@@ -334,7 +334,7 @@ Před usazením v pivovaru jsme tak prošli tamější les, okolí rokytky a po�
 <a href="../images/2022_august/21_2.jpg" target="_blank"><img src="../images/thumbnails/2022_august/21_2.jpg"></a>
 
 V pivovaru nebylo nejlevněji. Tři pivka a burger z trhaného hovězího mou peněženku zhlehčily o pětikilo. Ale jak pivo tak jídlo bylo kvalitní. Škoda, že jedno pivo na mě Jarda vylil.\
-Mimo jiné jsme se bavili o mě a Martě. Nováčkovic totiž stále podezřívali, že jsem její záloha, kdyby to s Vildou nevyšlo. Pověděl jsem jim o večeru, kdy jsme si to spolu vyříkali a nikdo tak nikoho netahá za nos. Jarda se ptal, co bych dělal, kdybyhom spolu byli a ona cituji "Shodila oblečení, vyskočila na kuchyňskou linku, roztáhla nohy a řekla ať jí to udělám teď a tady." To mě hodně pobavilo. Ale nelhal jsem, když jsem řekl, že bych na to nepřistoupil. Za přemýšlením nad tím, že bychom byli něco jiného než kamarádi jsem udělal tlustou čáru a jsem s tím ok. Filip sice prohlásil, že čára není zeď, ale pro mě už byla. Trvalo mi to dlouho a bolelo to, ale dostal jsem se přes to.
+Mimo jiné jsme se bavili o mě a Marťě. Nováčkovic totiž stále podezřívali, že jsem její záloha, kdyby to s Vildou nevyšlo. Pověděl jsem jim o večeru, kdy jsme si to spolu vyříkali a nikdo tak nikoho netahá za nos. Jarda se ptal, co bych dělal, kdybyhom spolu byli a ona cituji "Shodila oblečení, vyskočila na kuchyňskou linku, roztáhla nohy a řekla ať jí to udělám teď a tady." To mě hodně pobavilo. Ale nelhal jsem, když jsem řekl, že bych na to nepřistoupil. Za přemýšlením nad tím, že bychom byli něco jiného než kamarádi jsem udělal tlustou čáru a jsem s tím ok. Filip sice prohlásil, že čára není zeď, ale pro mě už byla. Trvalo mi to dlouho a bolelo to, ale dostal jsem se přes to.
 
 ### 22.8. Hledání chyby, která neexistuje je na dlouho
 

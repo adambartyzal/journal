@@ -148,7 +148,7 @@ Hipsterky připravující kávu usměvavé, káva výborná. Rozhodně se tam vr
 
 <a href="../images/2022_november/12_2.jpg" target="_blank"><img src="../images/thumbnails/2022_november/12_2.jpg"></a>
 
-Škoda, že HolKa ještě nestojí. Musel jsem přes Hlávkův most a byla to oklika. Překvapilo mě ale, že pilíře pod lávkou jsou stavěné po staru v bednění. Poslal jsem to Martě.
+Škoda, že HolKa ještě nestojí. Musel jsem přes Hlávkův most a byla to oklika. Překvapilo mě ale, že pilíře pod lávkou jsou stavěné po staru v bednění. Poslal jsem to Marťě.
 
 <a href="../images/2022_november/12_3.jpg" target="_blank"><img src="../images/thumbnails/2022_november/12_3.jpg"></a>
 

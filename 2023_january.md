@@ -76,15 +76,15 @@ podle televize 26 lidí\
 navíc dvě dráhy zabraly děcka\
 se mnou v dráze vilda za 15 let\
 naštěstí kolo nikdo neukradl\
-drak je kolo s duší, ale je to docela vrak\
+drak je kolo s duší, ale je to docela vrak
 
 ### 4.1. Aero na slepo
 
 Rozhodl jsem se vynechat teplou část sprchování. Ledovou člověk vyžene z těla víc kortizolu, spotřebuje míň vody a elektřiny.\
 Cestou do práce jsem se hodně zasmál, neb do stoupáku na Zvonařku mi Spotify pustilo [Little Less conversation](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) a když mi docházela energie, Elvis na mě křičel "C'mon c'mon!". Za Bulharem mě ale málem srazil zmrd v Audině. Na křižovatce jsem mu chtěl zaklepat na okno, ale už ho tam kárala jeho žena, takže spravedlnosti bylo učiněno za dost.\
-V práci jsem věechny zdržoval. Respektive.. všichni měli tendenci necaht se mnou vyrušit a jít googlit věci nesouvisející s jejich prací. Napříkald o nádraží v Brně. Půl dne jsem zabil debugingem rozbitého CBC. V 3V3 něco žralo a po sundání věho co šlo, nakonec se ukázalo, že to bylo MCU, které ale normálně odpovídalo. Nakonec jsem ho stejně vyhodil. Dokončil jsem tak ale opravy z krabice hrůzy a to mi přineslo slunce v duši.\
-Večer nás ale čekalo kino. Aero naslepo. Doma jsem se zastavil dojíst knedlíky se zbytky a na draku jsme vyrazil na Žikov. Ještě jsem se zastavil v Lidlu pro Balkánskou kostku, protože knedlíků bylo málo, vyzvednul jsem 4 lístky doprostřed doprostřed, koupil si pivo a šel si číst, než dorazí ostatní. Protože jsem u stolku pro čtyři seděl sám, přisedl si ke mně pán s kávou. Zřejmě si chtěl popvídat a byl překvapený konceptem jít do kina naslepo. Prý za komára býval členem klubu kinematografie. Nakonec se ale ztratil ve svém mobilu a po chvíli dorazili Ondra s Rébou.\
-Před filmem měl místní člověk proslov. Mluvil o tom, že správný scénář filmu človeka v průběhu sledování překvapuje, ale po shlédnutí si řekne, jak to do sebe hezky zapadne. Film Charely Varrick někdy ze sedmdesátých měl scénář opravdu parádní. Na začítku byl teda zbytečně nahlas, ale nějak to dali do kupy, nebo jsem dostatečně ohluchl. Všichni jsme byli nadšení. Lidé se v průběhu filmu smáli a a vůbec atomosféra Aera je o světelné roky lepší než kdejaký multiplex.\
+V práci jsem všechny zdržoval. Respektive.. všichni měli tendenci nechat se mnou vyrušit a jít googlit věci nesouvisející s jejich prací. Například o nádraží v Brně. Půl dne jsem zabil debugingem rozbitého CBC. V 3V3 něco žralo a po sundání všeho co šlo, nakonec se ukázalo, že to bylo MCU, které ale normálně odpovídalo. Nakonec jsem ho stejně vyhodil. Dokončil jsem tak ale opravy z krabice hrůzy a to mi přineslo slunce v duši.\
+Večer nás ale čekalo kino. Aero naslepo. Doma jsem se zastavil dojíst knedlíky se zbytky a na draku jsme vyrazil na Žižkov. Ještě jsem se zastavil v Lidlu pro Balkánskou kostku, protože knedlíků bylo málo, vyzvedl jsem 4 lístky doprostřed doprostřed, koupil si pivo a šel si číst, než dorazí ostatní. Protože jsem u stolku pro čtyři seděl sám, přisedl si ke mně pán s kávou. Zřejmě si chtěl popovídat a byl překvapený konceptem jít do kina naslepo. Prý za komára býval členem klubu kinematografie. Nakonec se ale ztratil ve svém mobilu a po chvíli dorazili Ondra s Rébou.\
+Před filmem měl místní člověk proslov. Mluvil o tom, že správný scénář filmu člověka v průběhu sledování překvapuje, ale po shlédnutí si řekne, jak to do sebe hezky zapadne. Film Charely Varrick někdy ze sedmdesátých měl scénář opravdu parádní. Na začátku byl tedy zbytečně nahlas, ale nějak to dali do kupy, nebo jsem dostatečně ohluchl. Všichni jsme byli nadšení. Lidé se v průběhu filmu smáli a a vůbec atmosféra Aera je o světelné roky lepší než kdejaký multiplex.\
 
 <a href="../images/2023_january/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/4_1.jpg"></a>
 
@@ -92,34 +92,34 @@ Skončil někdy před jedenáctou. Marťa pospíchala na tramvaj, ale já byl na
 
 ### 5.1. Návrat k vývoji g5int testeru
 
-
+Tohle jsem odkládal dlouho. Roky řekl bych. Ale safiral měl intů v únoru vyrábět několik desítek. A to se mi na stole testovat nechtělo. Bylo třeba demystifikovat tajemné proudy, které jsem měl poznačené v issue.
 
 ### 6.1. Neodložil jsem to jen tak z plezíru
 
-Hodinky mi pořád měřily o dost víc stessu než před operací. Byl jsem zvědavý, jak se projeví, když plavání přesunu na ráno. Ráno se vždycky plave hůř. Navíc v bazénu bylo víc lidí, než bych před osmou čekal. Holt asi novoroční předsevzetí dělá svoje.
+Hodinky mi pořád měřily o dost víc stresu než před operací. Byl jsem zvědavý, jak se projeví, když plavání přesunu na ráno. Ráno se vždycky plave hůř. Navíc v bazénu bylo víc lidí, než bych před osmou čekal. Holt asi novoroční předsevzetí dělá svoje.
 
 ### 7.1. Trocha běhu a hodně chůze
 
-24.8 kilometrů. Tolik jsem naběhal za rok 2022. Moje adidasky se tak sice nerozpadly, ale byly určitě smutné z toho kolik času strávily ve skříni. Vlastně skoro polovinu z toho jsem naběhal ve finsku bosky. Dlužil jsem tedy botám lepší rok a bylo na čase ho odstartovat. Nechtěl jsem se ale sundat hned prvním během a tak jsem se polovinu rána protahoval u poslechu rozhovoru s potenciálními prvními dámami a prvním gentlemanem. Nejsympatičtější mi přišla paní Hilšerová. Hrom do toho.. už jsem se začínal klonit k tomu, že budu volit rozumem generála, protože prezident nemá dělat ostudu a Nerudová je sázka na nejistotu a Hilšer zřejmě nemá žádnou reálnou šanci dostat se do druhého kola. Ale prostě teď by byl symaptický jak on tak jeho choť.\
+24.8 kilometrů. Tolik jsem naběhal za rok 2022. Moje adidasky se tak sice nerozpadly, ale byly určitě smutné z toho kolik času strávily ve skříni. Vlastně skoro polovinu z toho jsem naběhal ve finsku bosky. Dlužil jsem tedy botám lepší rok a bylo na čase ho odstartovat. Nechtěl jsem se ale sundat hned prvním během a tak jsem se polovinu rána protahoval u poslechu rozhovoru s potenciálními prvními dámami a prvním gentlemanem. Nejsympatičtější mi přišla paní Hilšerová. Hrom do toho.. už jsem se začínal klonit k tomu, že budu volit rozumem generála, protože prezident nemá dělat ostudu a Nerudová je sázka na nejistotu a Hilšer zřejmě nemá žádnou reálnou šanci dostat se do druhého kola. Ale prostě teď by byl sympatický jak on tak jeho choť.\
 Ještě venku v kraťasech a mikině jsem se chvíli rozcvičoval než jsem vyběhl. 5k skrz Folimanku a zpátky přes Grébovku. Protažení mi hodně pomohlo, ale stejně jsem to cítil.\
 K obědu jsem spíchl brokolicový krém. Místo smetany jsem dal bílý jogurt a šlo to. Dvacka ušetřená!\
-Taky jsem si řekl, že možá je na čase opět pohnout s deníkem a že je venku tak hezky, vydal jsem se opět psát do ikey, tentokrát ale pěšky. A to asi byla chyba. Výlet to byl pěkný, ale 13 kilometrů ke docela střela po tom co člověk s z ničeho nic uběhne kilometrů pět. Ale já nikdy nebyl troškař. Když už tak už.\
-Než jsem na čerňák došel, slunko zapadalo. Výled na komín malešické spalovny byl ale impozantní.\
+Taky jsem si řekl, že možná je na čase opět pohnout s deníkem a že je venku tak hezky, vydal jsem se opět psát do ikey, tentokrát ale pěšky. A to asi byla chyba. Výlet to byl pěkný, ale 13 kilometrů ke docela střela po tom co člověk s z ničeho nic uběhne kilometrů pět. Ale já nikdy nebyl troškař. Když už tak už.\
+Než jsem na Čerňák došel, slunko zapadalo. Výhled na komín malešické spalovny byl ale impozantní.\
 Do ikey jsem došel kolem páté. 40 korun za lístek ušetřeno!\
-165 za bezmasé koule, nekonečné pití a nekonečné kafe. Tady je to s šetřením trochu na hraně.. ale jedo kafe by v kavárně stálo nejmíň pade a já vypil 4. Takže dobrý.\
+165 za bezmasé koule, nekonečné pití a nekonečné kafe. Tady je to s šetřením trochu na hraně.. ale jedno kafe by v kavárně stálo nejméně pade a já vypil 4. Takže dobrý.
 
 ### 8.1. Očkování a debaty
 
 na kole na anděl\
 ve žluté bundě o dost lepší než v kabátu\
-Bylo to bolestivě jednoduchý. Přijdeš, vyplňíš elementární formulář, paní tě píchne a jsi dobrej. Seděl jsem tam ještě tak 20 minut, ale nic na mě nepřišlo. Šel jsem si koupit něco ke svačině v Tescu a nasral jsem se na přepážce "Služby zákazníkům", kde mi nebyla paní schopná říct číslo mojí Club Card. Ne že by byla blbá a neuměla s počítačem. Prý to prostě nejde. Jediná možnost je zavolat na Club Card linku, která o víkendu nefunguje.\
-Z OC Smíchov jsem přejel do OC Eden a koupil si pixlu proteinu. Plavu dost, chci víc běhat, po ránu cvičím a bez bílkovin bych chřadnul.\
-Protože jsem se obával, že mě očkování sundá, moc jsem toho nedělal. Pustil jsem si rozhovory s kandidáty na prezidenta a sledoval jak je Babiš úplně neschopen odpovědět na jakoukoliv otázku a to i malým dětem. Večer měla být na ČT super debata a před tou jsem ještě šel nakoupit do Lidlu, protože kromě pixly proteinu jsem měl doma houby. Teda ani houby.\
+Bylo to bolestivě jednoduchý. Přijdeš, vyplníš elementární formulář, paní tě píchne a jsi dobrej. Seděl jsem tam ještě tak 20 minut, ale nic na mě nepřišlo. Šel jsem si koupit něco ke svačině v Tescu a nasral jsem se na přepážce "Služby zákazníkům", kde mi nebyla paní schopná říct číslo mojí Club Card. Ne že by byla blbá a neuměla s počítačem. Prý to prostě nejde. Jediná možnost je zavolat na Club Card linku, která o víkendu nefunguje.\
+Z OC Smíchov jsem přejel do OC Eden a koupil si pixlu proteinu. Plavu dost, chci víc běhat, po ránu cvičím a bez bílkovin bych chřadl.\
+Protože jsem se obával, že mě očkování sundá, moc jsem toho nedělal. Pustil jsem si rozhovory s kandidáty na prezidenta a sledoval jak je Babiš úplně neschopen odpovědět na jakoukoliv otázku a to i malým dětem. Večer měla být na ČT super debata a před tou jsem ještě šel nakoupit do Lidlu, protože kromě piksly proteinu jsem měl doma houby. Tedy ani houby.\
 Debata byla fakt plodná. Diviš tam střílel do generála a Danuše, Bašta byl mimo, Středula valil hlášky na nepřítomného Babiše a nakonec odstoupil. Akorát Hilšer mě zklamal. Valil svojí rétoriku ve zbytečně dlouhých a nesouvisejících větách.
 
 ### 9.1. Po Pfizeru vymletej
 
-Nevyspal jsem se. Pfizer kolující v žíle mě nahlodal a v průběhu dne spíš ještě víc rozjebával. Taky mi přišlo, že jsem úplně vymletej. Bojoval jsem s g5int testerem a dělal jsem detinské chyby. Prohodil jsem TP7 a TP6 a pípákem se mi to vůbec nedařilo najít.\
+Nevyspal jsem se. Pfizer kolující v žíle mě nahlodal a v průběhu dne spíš ještě víc rozjebával. Taky mi přišlo, že jsem úplně vymletej. Bojoval jsem s g5int testerem a dělal jsem dětinské chyby. Prohodil jsem TP7 a TP6 a pípákem se mi to vůbec nedařilo najít.\
 V práci zřejmě praskla nějaká trubka, protože z ventilace se táhl smrad jako ze záchodu a vyvětrat to prostě nešlo. Takže jsme měli permanentně otevřené dveře, což nějak prohloubilo můj nastupující pocit nemoci.\
 Na cestě domů už mi regulérně bušilo v kebuli a do večera jsem stihl jen podepsat prodloužení smlouvy s paní Kotrbatou, sepsat pár vět do deníku a lehnout si do postele.
 
@@ -129,16 +129,14 @@ Na cestě domů už mi regulérně bušilo v kebuli a do večera jsem stihl jen 
 
 ### 13.1. Za tátou
 
-kendy odjel před sedmou\
+Kendy odjel před sedmou\
 nějak bez energie\
 ledová sprcha\
 v kabátu na kole\
 smrad snad horší než v předchozích dnech\
 z nosu jsem vytáhl niť po splintu
 
-
 <a href="../images/2023_january/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/3_1.jpg"></a>
-
 
 ### 14.1. Volby
 
@@ -180,7 +178,7 @@ lidí jak much\
 1300 metrů\
 na pivo?\
 nakonec k dandům\
-guláš a kndelo zelo
+guláš a knedelo zelo
 
 <a href="../images/2023_january/17_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/17_1.jpg"></a>
 
