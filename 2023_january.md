@@ -291,28 +291,21 @@ množení jazyka
 
 ### 28.1. Volby a jiné kabely
 
-pomalé ráno\
-volit, policajti, zvídač, spodní patro školy\
-zima\
-čištění sporáku\
-vařit jsem měl asi před čištěním\
-praní a proto čtení\
-vrátit kabely\
-flatwhite od zmatený krásný holčiny
+Někdo má pomalé neděle, já většinou soboty. Po týdnu vstávání brzo (což já teda stejně moc nedělám) si rád poležím. Možná to někdy dokonce přeháním, ale dneska to nevadilo. Po snídani jsem šel volit. Ve Vršovicích jsem ještě nevolil. Odehrávalo se to ve škole u zastávky tramvaje. Před vstupem do školy byli policajti a nějaký zvídač. Vyptával jsem se, koho půjdu volit a když jsem mu odpověděl, že demokracii, začal být dotěrný. Fízl mi říkal, že mu nemusím na nic odpovídat a řekl mu ať se uklidní. Další den na obědě jsem se od DJ, který šel volit o hodinu později, dozvěděl, že tam ho nakonec odvezli v policejním autě.\
+Volič s lístkem mohl jít do jakékoliv volební místnosti. Vybral jsem si spodní patro a cestou si prohlížel školu. Vypadala pokrokově. Volba samotná byla rychlá, žádné fronty se nekonaly. Andrejův lístek jsem vrazil do kapsy a vrátil se domů.\
+Doma na mě čekal úklid. Dal jsem prát oblečení, vydrhl jsem sporák a pak jsem šel vařit. Během vaření mi došlo, že jsem to asi měl udělat naopak, neb jsem sporák zase zasral. Ale jen trochu a šlo to uklidit rychle. Inu, poučení do příště.\
+Prodlužovací kabely, které sice umí přenést HDMI, Power Delivery a USB3 ale USB2 nikoliv jsem se rozhodl vrátit do alzy a místo nich pořídit jiné. Během čekání na výdej jsem si dal kafe v té jejich kavárně, kde vaří kafe z Doubleshotu. Připravila mi ho krásná holčina, která byla trochu mimo. Odsouhlasila mi, že kafe bude tady, ale dala mi ho do papírového kelímku. Nepůsobila vůbec tupě, jen prostě přemýšlela nad něčím úplně jiným. Kafe je kafe. Vzal jsem ho a šel si sednout ke stěně s časovou osou mapující různé kafostroje. Aeropress je prý současná a dobrá metoda přípravy kávy. Frenchpress nikoliv a drip taky ne. Neví o čem mluví. Drip je super.\
 
 <a href="../images/2023_january/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/28_1.jpg"></a>
 
-nové kabely\
-pavel vyhrál, kus proslovu\
-do karlína\
-omýt draka a centrem zpět\
-pizza a polévka\
-nové kabely jsou ne tak pěkné, ale fungují
+Nové kabely nebyly zdaleka tak pěkně omotané. Ale jestli budou fungovat tak to asi neva.\
+Pavel vyhrál. Koukal jsem nad kávou na kus jeho proslovu. Po dopití jsem došel do Karlína, kde jsem omyl Draka a skrz centrum jsem se vrátil domů. Pojedl jsem polévku a pizzu a dal se do cable managementu. 
 
 <a href="../images/2023_january/28_2.jpg" target="_blank"><img src="../images/thumbnails/2023_january/28_2.jpg"></a>
 
-<a href="../images/2023_january/28_3.jpg" target="_blank"><img src="../images/thumbnails/2023_january/28_3.jpg"></a>
+Na druhý pokus dobrý. PD, HDMI, USB2 i 3. Všechno jelo jak jsem si představoval. Až si někdy pořídím bezdrátovou myš a klávesnici. Budu mít na stole jen jeden kabel do laptopu.
 
+<a href="../images/2023_january/28_3.jpg" target="_blank"><img src="../images/thumbnails/2023_january/28_3.jpg"></a>
 
 ### 29.1. Doma skoro uklizeno
 
