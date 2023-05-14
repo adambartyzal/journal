@@ -179,53 +179,32 @@ Kupéčko jsem sdílel se dvěma ukrajinkami. Mamkou a dcerou. Byla to takový a
 
 Máma povídala o babičce. Ne moc hezky. Nebo spíš, podivně otevřeně. Že měla děti ve škole radši než vlastní. Možná, že to je úděl učitelů. Já si jí nepamatuji, tak nemůžu soudit.\
 Po jídle jsem se dal do rozebírání rozbitého světla a kontroly vodovodní baterie, která to měla za sebou. Když jsem objevil co potřebujeme, vyrazili jsme deštěm do OBI.\
-
-výběr baterie, světlo nekupujeme\
-aby robin dosáhl\
-za litr to nestojí\
-zpátky už neprší\
-montáž\
-chleby\
-na autobus zadarmo\
-vlak má zpoždění\
-snad poslední místo\
-za marťou a vildou\
-palačinky a muzika\
+Pršelo. Bylo třeba jít pod deštníkem. V Kolíně naštěstí není nic daleko a tak nám cesta zabrala asi jen 20 minut. Prohlédli jsme si asi padesát tisíc světel. Všechny byly drahé a žádné hezké. Do košíku mířily pouze nové žárovky. U baterií to bylo podobné, ale pár hezkých bylo a vybrali jsme takovou pěknou obloukovou s drobnou pákou na boku. Byli jsme tam dost dlouho na to, aby déšť ustal a cestou zpátky jsme dokonce viděli sluníčko.\
+Za montáž baterie jsem dostal chleba s vajíčkovou pomazánkou. Když jsem dával dohromady světlo, vůbec jsem tam nevrátil skleněné stínidlo. Ale to nebylo vůbec na škodu. Vlastně ten kus skla byl příčinou potíží, protože do něj vráželo okno při plném otevření. Tahle visely 4 lampy vedle sebe jen na drátu. Moderní design hadr.\
+Čas se nachýlil a já vyrazil na nádraží. Mamka mě doprovodila na autobusovou zastávku. V Kolíně jezdí MHD zadarmo. Jsou dál. Vlak měl zpoždění a když přijel, byl napráskanej. Ale našel jsem jedno sezení asi o 3 vagony dál než jsem nastoupil.\
+Do Prahy jsem dorazil notně po páté, takže jsem šel rovnou k Marťě a Vildovi pro klíče. Pozvali mě na palačinky, poslouchali jsme muziku a povídali si.
 
 ### 20.2. Pro zasloužený koláč
 
-lepení kolena\
-běhat, srdíčko po ránu pomalejší, tempo vyšší\
-bláto, takže na fb\
-opravy\
-přes rajskou zahradu a riegráče
+Před ranním výběhem jsem si preventivně zalepil koleno tejpou. Vyběhl jsem rychleji, než minule, ale srdeční limit na hodinkách jsem měl stejný. Zdá se, že ranní běhy vytěžují srdíčko méně. Možná, že je to zimou. Přijde mi, že když je zima, mám nižší tep.\
+Doma jsem měl jak Draka, tak freebike. Ale bylo bláto, takže jsem svezlo freebike do práce.\
+Jako revanž za frenchpress, který jsem Rébě věnoval jsem měl slíbený kus makového koláče. Na dnešek připadl den, kdy byl makový koláč upečen a mě díl oddělen. Proto jsem vyrazil na Vinohrady. Po letech jsem šel přes Rajskou zahradu. Riegráče vzadu už nebyly rozkopané a vypadalo to tam fancy. Výhled na hrad byl jako vždy parádní. A jako vždy nešel vyfotit.
 
 <a href="../images/2023_february/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_february/20_1.jpg"></a>
 
-koláč a čaj\
-kus lasagní\
-réba má novou práci\
-pěšky dom
+Vyjídání zásob mých kamarádů se stalo mojí oblíbenou kratochvílí zdá se. Koláč jsem měl slíbený, ale protože jsem přišel v čase večeře, dostal jsem kus vegetariánských lasagní. Fakt se Rébě povedly. Nad jídlem povídala o své nové práci. Moc jsem to nepochopil. Ale jde o nějaké psaní spisů a je to o ekologii. Asi dobrý. Prý sedí v kanclu s trochu podivnými lidmi, jenže kdo podle Réby není podivnej.\
+Přemýšlel jsem, že dom si vezmu rekolo, ale nakonec jsem to došel pěšky.
 
 ### 21.2. Night Cruising
-
-probouzel jsem se v noci\
-lepení duše\
-v kratǎsech\
-v práci jen petr a ten odjel do malešic\
-čtení knihy A
-večerní projížka\
-roklí po tmě je to creepy\
-25\
+                                                                                                    
+Nevím čím to bylo, ale v noci jsem se probouzel. Že bych toho moc nachodil? Tím to spíš nebude. Ani po přečtení knihy spánkového fašisty nejsem z probouzení moc moudrý.\
+Úterky.. Vláďa rozbil všechny. V práci tak byl jen Petr a ten odjel řešit něco do Malešic.\
+Protože jsem měl vzadu ty nový kolečka, měl jsem chuť jezdit víc a vyrazil tak na večerní projížďku. Přes Michli do Kuratic a dál Modřansku roklí dolů k řece. Musím říct, že jen s mojí blikačkou je v únorové noci rokle docela creepy. Nakonec z toho bylo 25 kilometrů na metr přesně.
 
 ### 22.2. Lepší tobogány
 
-nýtování\
-zenklova nahoru\
-pláště pro draka\
-do bazénu\
-nová pára\
-lepší tobogány a ještě lepší pára\
+Už zase Zenklova nahoru. Tentokrát ale po svých. Konec těm prokletým Michelinům! Dva litry jsem tam za červený Vittorie nechal. Ale mám ty pláště rád. Přejel jsem na nich Skandinávii.\
+A že už jsem byl v těch končinách, zajel jsem na Šutku. Od dob kdy jsem bydlel v Holešovicích to tam vylepšili. Páry mají na stropě světýlka a nové dlaždičky. Tobogány mají také vnitřní blikátka a dokonce si člověk může vybrat program. V rámci gamifikace jsou skluzavky dokonce opatřené měřičem rychlosti a žebříčkem nejrychlejších.
 
 ### 23.2. U Benyho
 
@@ -233,7 +212,7 @@ Ráno jsme u popelnic viděl rám favoritky. Poslal jsem Ivanovi fotku, ale neod
 
 <a href="../images/2023_february/23_1.jpg" target="_blank"><img src="../images/thumbnails/2023_february/23_1.jpg"></a>
 
-Po práci jsem v Karlíně ladil dráty Karmínového Draka. Měl jsem pocit, že tak vyřeším podobné zvonění v předním kole. Zpětně vzato to asi vyšlo, protože ve dnech následujících zvuk utichl. Takové centrování kol ale trvá a trvá dlouho. Moje pravidlo na vypínání notifikací není bůhví jak chytré. Dokud jsem v Karlíně, chodí pouze pracovní notifikace. Ale nějakou šťastnou náhodou jsem si všiml, že Jarda psal do Výletníků že je zpátky z hor, venčí Koru v riegráčích a naplánoval pivo v Lokále u Benyho. Zavzpomínal jsem, že tam mají dobrý guláš, brnknul zda už tam jsou a dozvěděl se, že zrovna dostali první pivo.\
+Po práci jsem v Karlíně ladil dráty Karmínového Draka. Měl jsem pocit, že tak vyřeším podobné zvonění v předním kole. Zpětně vzato to asi vyšlo, protože ve dnech následujících zvuk utichl. Takové centrování kol ale trvá a trvá dlouho. Moje pravidlo na vypínání notifikací není bůhví jak chytré. Dokud jsem v Karlíně, chodí pouze pracovní notifikace. Ale nějakou šťastnou náhodou jsem si všiml, že Jarda psal do Výletníků že je zpátky z hor, venčí Koru v Riegráčích a naplánoval pivo v Lokále u Benyho. Zavzpomínal jsem, že tam mají dobrý guláš, brnknul zda už tam jsou a dozvěděl se, že zrovna dostali první pivo.\
 Kola byla dostatečně rovná na to dostat mě do hospody a tak jsem nechal v Kanclu DJe lamentovat nad manuálem pro finy a vyrazil na Vinohrady.\
 Trochu jsem se bál, že s kalhotou zajebanou od kolomazi nebudu splňovat dress code, ale u benyho se dress code neřeší. Je to místo, kde pobíhá několik psů, číšnice mezi lidmi tančí a působí že na něčem trochu jede. Kuchař si dává panáky se štamgasty a všichni hovoří značně hlasitě. Esence Vinohradské party jak nikde jinde.\
 Ondra s Jardou seděli u maličkého stolku, kam by se jídlo pro čtyři rozhodně nevešlo. I tak jsme ho ale objednali a protože jsme se pár vteřin po zapsání si naší objednávky přesunuli k našemu rohovému stolu, málem jsme o jídlo přišlo, neb veselá servírka ho přinesla novým obyvatelům malého stolku a ti ho poslali zpátky do kuchyně. Ale holčina za barem si našeho přesunu byla vědoma a jídlo zachránila. Guláš byl výborný. Ondra se vyptával, zda má Jarda Rébu rád. Neřekl to explicitně, ale Réba zřejmě hodně řešila situaci v suterénu.
@@ -278,8 +257,7 @@ Já sám už jsem toho moc dalšího neprovedl. Kromě čtení a psaní si s ní
 
 U zastávky Otakarova je pravidelně trojstopá kolona. Úplně napravo jsem se nevešel a tak jsem vybral uličku mezi auty napravo a uprostřed. Místa tam bylo na kolo a kus, takže jsem neohroženě projížděl dokud mi nějakej zmrd neotevřel dveře. Musím říct, že to bylo poprvé co se mi tohle stalo a mám radost, že jsem jel asi tak 5 km/h. I přes brždění jsem do těch dvěří narazil docela s vervou a složil jsem se do mezery mezi auty. Člověk co dveře odevřel se mě chytl za rameno a vyptával se, jestli jsem dobrej.\
 Rukavice chytla většnu. Klepl jsem se do prstu a vyháknout nohu ze strapu mi chvíli trvalo. Ale díky bohu žádná zlomenina či nějaká horší věc. Stejně mě to ale vyvedlo z míry.\
-Zbytek cesty jsem jel trochu v šoku a až tak moc si toho nepamatuju. Zpětně vzato jsem měl asi vydýchnout na místě dýl, ale moc se mi tam posedávat na obrubníku nechtělo. Paní v autě za námi mi pověděla, že jak vystupující, tak řidič vozu napravo byli debilové, kteří se víc starali o auto a o sebe, než o mně.\
-
+Zbytek cesty jsem jel trochu v šoku a až tak moc si toho nepamatuju. Zpětně vzato jsem měl asi vydýchnout na místě dýl, ale moc se mi tam posedávat na obrubníku nechtělo. Paní v autě za námi mi pověděla, že jak vystupující, tak řidič vozu napravo byli debilové, kteří se víc starali o auto a o sebe, než o mně.
 
 ### 28.2. Ondra staví kolo
 
