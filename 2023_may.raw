@@ -14,7 +14,8 @@
 - [12.5. Přesazování kytek](#125-přesazování-kytek)
 - [13.5. Levou nohou z postele](#135-levou-nohou-z-postele)
 - [14.5. Na Vyšehrad](#145-na-vyšehrad)
-- [15.5.](#155)
+- [15.5. Na Babu jedině s dalekohledem](#155-na-babu-jedině-s-dalekohledem)
+- [16.5. Přetekl mi buffer](#165-přetekl-mi-buffer)
 
 ### 1.5. Sapa a Zibura
 
@@ -238,6 +239,33 @@ Ve výletnících jsme se ne příliš konkrétně dohodli, že si půjdme s Nov
 Filipovi jsem předal tipy na to co vidět v Berlíně. A pak jsme se bavili o výletu do Albánie o vodě, a když Fip vyrazil za Anet, o rozlučce. Moc jsme toho ale stejně nepořešíli.\
 Pěšky se Sárou domu někdy po páté, když přicházel přepovězený déšť. Ještě jsem nakoupil v Lidlu na pečení Tartiflette. Nějak jsem na to ale neměl náladu a rozpekl si pre-made pizzu. Leden pořád není moc dopsaný. Když ale každý den zapíšu víc než jeden den, nakonec to vyjde. Nemusí pršet, stačí když kape.
 
-### 15.5.
+### 15.5. Na Babu jedině s dalekohledem
 
-O tom, že pršet nemusí zřejmě někdo nahoře neslyšel a tak ráno chcalo. To bylo sice naprd, ale vlastně mi celá dovolená vyšla ve sluníčku. 
+O tom, že pršet nemusí zřejmě nahoře neslyšeli. Ráno totiž chcalo. Moje optimistická stránka si řekla, že je fajn, že mi celá dovolená vyšla ve sluníčku. Moje pesimistická stránka ale řešila akutní problém toho, že chcalo fest.\
+I přes pláštěnku pro mě a pláštěnku pro batoh jsem přijel do Karlína docela mokrej. Hlavně boty dostaly na Ondříčkový záhul. Naštěstí máme větrák a ten suší docela dobře.\
+Vláďa mi v NFCM našel chybu. Protože mám docela fajn debugovací skript do GDB, odhalil jsem jí docela rychle. Dokonce jsem objevil, že na větvi, kde řeším přenost APDU už jsem jí dávno vyřešil. Taky jsem tam toho ale změnil raketu. Jednoduché řešení jsem tak implementoval hned, ale chtěl jsem přenést do masteru i většinu dalších věcí, které jsem si na nfc_protocol větvi vyvinul.\
+Na draku jsem dojel přes kostelní do Dejvic. Už dlouho jsem tuhle cestu nejel. Byla to docela nostalgie. Letná je uhlazenenší než bývala. To že jsem si kalhoty na noze oblepil izolepou abych předešel zamazání moc nepomhlo, nějak jsem si dokázal zamazat kolomazí koleno na druhé noze. V Dejvicích na kulaťáku vyrostl nový dům. Asi už jsem tam fakt dlouho nebyl.
+
+![image](15_1.jpg)
+
+Míša přijela 5 minut po mně. Zamkli jsme kolo před FELem a z nostalgie vyjeli do naší věže páternosterem. Je pořád stejně hnusná jako bývala. Jen děcka jsou mladší. Nebo spíš my starší. Před NTKčkem už není lešení na ochranu hlav před padajícím sklem. Asi jen 5 let to trvalo?\
+Bylo sluníčko a měli Aperol a Únětice 10,7°. Nebyl důvod se nezastavit. Před Architekturou jsme potkali kaliho ex. Fakt bych si rád vzpoměl jak se jmenuje.. Dopisovala diplomku a prý je to sinusovka. Když to začíná jít, tak už se to zas otáčí k průseru.\
+Dál naše kroky pokračovali do kopce na babu. Lodě tam tentokrát nebyly, ale viděli jsme balón nad Prahou. Míša se mnou nechtěla vylézt na zříceninu, ale přemluvil jsem jí a vytáhl nahoru.\
+
+![image](15_2.jpg)
+
+Osvěltil jsem jí mojí teorii o kletbě uvalené na Zoo. Nakonec jsme jí ale prolomili. U kamzíků byly nějaké fleky co se hýbali. Taky jsme zjistili, že ramena v čističce se opravdu točí a že balón vyletěl neskutečně vysoko.\
+Abychom nezkejsli v Šárce do noci, vydali jsme se do údolí docela svižným tempem. Tuhle vilka, tuhle párek domků s krásnými obřími okny, dokonce i tiny house jsme viděli. Příroda neskutečná. Rozhodli jsme se, že vyloupíme banku a koupíme si ty dva vedle sebe.\
+Cestou jsme řešili záhadu červených stromů. Já jsem vsázel na lišejník a Míšy taťka nám to později potvrdil. Je to stromolog.
+
+![image](15_3.jpg)
+
+Lákal jsem na zastávku u jeskyně. Ale odbočili jsme blbě. Jeskyně nebyla. Údolí vedlo do Nebušic. Vesnice pro lepší třídu lidí než jsme my. Chvilku jsme si tak říkali, kdo tam může bydlet a když kolem nás prošel pár se psem mlucící britsky, oba jsme nahlas prohlásili: *Jo no :/*.\ 
+Žlutá podél Nebušic je ale moc pěkná procházka. Možná až na ty bizární vily. Některé vypadaly jako ze středomoří, jiné jako z británie. Některé jako z minulosti, jiné jako z budoucnosti.\
+Na konci Nebušic jsme se zastavili a šli se houpat na houpačkách. Taky jsme se bavili o svých kytkách. Míša je na své tchýniny jazkyky pyšná skoro stejně jako já. Navíc má něco co vypadá jako banánovník a já to chci.\
+Cesta na Šárku lesem už byla opravdu tmou. Na tramvaj jsme došli značně po desáté. Ale bylo to super. Na Kulaťáku mě doprovodila ke kolu a já jí k busu na Strahov. Tipovala, že cesta mi zabere 30 minut a já si fandil na 26. Oba dva jsme přestřelili. Do Vršek to trvá 22 i s rozkopanou cestou.
+
+### 16.5. Přetekl mi buffer
+
+To je tak generická chyba hodící se spíš do ITCrowd, že mi její odhalení trvalo fakt dlouho. Dopoledne jsem totiž přenesl nové fíčury z protokol větve do masteru. Testy mi procházely, ale v reálu se čtečka dostávala do nějaké tajemné smyčky. Proč, to jsem netušil. Ale byla to fakt hloupost. Odpověd na ApGEN v B' kartě byla prostě o pár bajtů delší než buffer.\
+Na obědě jsme byli s Vojtou a se Štěpánkou ve Vietnamce. Se Štepánkou jsem zvyklý obědvat jen ve Francii, ale je fajn mít další v Karlíně v úterý další duši. Vlastně se stala podle mě bezprecedentní situace, kdy nás byl stejný poměr mužů a žen v kanceláři.\
