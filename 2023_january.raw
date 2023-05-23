@@ -21,7 +21,7 @@
 - [22.1. Běh, Badminton a pivo](#221-běh-badminton-a-pivo)
 - [24.1. Bolehlav](#241-bolehlav)
 - [25.1. Menší bolehlav, ale pořád žádná paráda](#251-menší-bolehlav-ale-pořád-žádná-paráda)
-- [26.1. Spasitel nylonem](#261-spasitel-nylonem)
+- [26.1. Spasitel z nylonu](#261-spasitel-z-nylonu)
 - [27.1. Kabely](#271-kabely)
 - [28.1. Volby a jiné kabely](#281-volby-a-jiné-kabely)
 - [29.1. Doma skoro uklizeno](#291-doma-skoro-uklizeno)
@@ -256,10 +256,9 @@ pak už jen čtení a simpsonovi\
 
 
 
-### 26.1. Spasitel nylonem
+### 26.1. Spasitel z nylonu
 
-slackbot připoměl fílu\
-spasitel z PET, ABS a nylonu s karbonem\
+Slackbot mi připoměl, že jsem Fílovi slíbil vytisknout mu dalšího Spasitele. Pustil jsem se do krájení a když už jsem byl u toho, vydal jsem ho hned v několika materiálech. PET, ABS a nad rámec standardních jsem vyzkoušel Nylon s karbonem. To se mi napoprvé nepovedlo. Zawarpoval a utrhl se po pár vrstvách
 karbon nevyšel\
 ani podruhé v impro izolační komoře\
 s Vláďou do Gastra\
@@ -272,6 +271,7 @@ film mě překvapil, role hlupáka je asi dost těžká\
 
 ### 27.1. Kabely
 
+Ivana nějak uhranula myšlenka Spasitele. To že jsem se ho snažil. 
 ivan posedlý spasitelem\
 osazování\
 antiklimatický výsledek\
