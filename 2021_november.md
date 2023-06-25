@@ -196,16 +196,20 @@ Od fontány jsem se přešel k Pantheonu a vystál si frontu, jen aby mě vyhodi
 <a href="../images/2021_november/22_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_2.jpg"></a>
 
 Vyhládlo mi. Plán byl pizza. Jsem přece v Itálii. V internetech jsem se dočetl o skrytém pokladu. Podniku, kde se prý nejlepší pizza prodává na váhu. Musím říct, že byla fakt dobrá. Sice to nebyl nijak jedinečný podnik, neb jsem podobných potkal více, ale po snědení prvních dvou kousků jsem si koupil další dva. Smetanovo brokolicová byla dobrá, ale jsem fanda suga jako základu. Houbovo okurková to vyhrála\
-Naplněn pizzou a unaven turisty, vydal jsem se někam, kde bydlí místní. Cestou jsem prošel čtvrtí s ohromnými alejemy ještě větších platanů, čvrtí plnou paneláků, čtvrtí, kde byly zahrady plné růží, viděl circus maximus a ztratil se v obřím parku, kde nikdo nebyl. Nevíc ze věho mě ale bavila oblast, která připonínala holešovickou tržnici. Nebo spíš bývalý kravín. Něktré z dlouých domů vlastně zevnitř ještě vypadaly jako nějaké stáje. Pár jich ale bylo přestavěných do moderní podoby. Před jednou takovou mi místní holčina prozradila, že uvnitř zkouší školní kapela tamější hudební školy. Ukázalo se, že je zpěvačka oné kapely a že jsou fakt dobří. Chvíli jsem je poslouchal a zpětně lituji, že jsem tam nezůstal déle. Naštěstí mám nahrávku.
+Naplněn pizzou a unaven turisty, vydal jsem se někam, kde bydlí místní. Cestou jsem prošel čtvrtí s ohromnými alejemy ještě větších platanů, čvrtí plnou paneláků, čtvrtí, kde byly zahrady plné růží, viděl circus maximus a ztratil se v obřím parku, kde nikdo nebyl.
 
 <a href="../images/2021_november/22_3.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_3.jpg"></a>
 
+Nevíc ze všěho mě ale bavila oblast, která připomínala holešovickou tržnici. Nebo spíš bývalý kravín. Některé z dlouhých domů vlastně zevnitř ještě vypadaly jako nějaké stáje. Pár jich ale bylo přestavěných do moderní podoby. Před jednou takovou mi místní holčina prozradila, že uvnitř zkouší školní kapela tamější hudební školy. Ukázalo se, že ona je zpěvačka té kapely a že jsou fakt dobří. Chvíli jsem je poslouchal a zpětně lituji, že jsem tam nezůstal déle. Naštěstí mám nahrávku.
+
+<p><audio controls><source src="../images/2021_november/22_1.m4a" type="audio/x-m4a"></audio></p>
+
 Zpěvačka neuměla moc anglicky. Kdyby jo, určitě bychom se bavili víc a já se do ní na tuty zamiloval. Byla přesně ten typ.\
-Nakonec jsem došel ke koloseu. Pokud na světě všechny cesty vedou do Říma, v Římě věechn cesty vedou ke koloseu.
+Nakonec jsem došel ke koloseu. Pokud na světě všechny cesty vedou do Říma, v Římě věechny cesty vedou ke koloseu.
 
 <a href="../images/2021_november/22_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_4.jpg"></a>
 
-Bylo už docela pozdě. K večeři jsem si naplánoval dát si italské rizoto. Chtěl jsem ověřit, zda ho italové udělají lépe než já s Marťou. Kdyby jo, trochu by mi to zlomilo srdce, ale zase potěšilo chuťové buňky. Quid pro Quo. Koukl jsem na hodinky, objevil že jsem ušel 41411 kroků, ale hlad jsem pořád neměl. Vlastně jsem toužil akorát po kávě bez kofeinu a nečem malém a sladkém. Ne až tak daleko od Termini jsem našel podnik, kde jsem si tohle přání splnil. Byla to takový kavárna/hospoda a u vedlejšího stolu skupina italů začínala být v náladě. Já už byl unavený na to navazovat jakoukoliv konverzaci a tak jsem vyrazil na hostel, dát si sprchu a lehnout si.\
+Bylo už docela pozdě. K večeři jsem si naplánoval dát si italské rizoto. Chtěl jsem ověřit, zda ho italové udělají lépe než já s Marťou. Kdyby jo, trochu by mi to zlomilo srdce, ale zase potěšilo chuťové buňky. Quid pro Quo. Koukl jsem na hodinky, objevil že jsem ušel 41411 kroků, ale hlad jsem pořád neměl. Vlastně jsem toužil akorát po kávě bez kofeinu a něčem malém a sladkém. Ne až tak daleko od Termini jsem našel podnik, kde jsem si tohle přání splnil. Byla to takový kavárna/hospoda a u vedlejšího stolu skupina italů začínala být v náladě. Já už byl unavený na to navazovat jakoukoliv konverzaci a tak jsem vyrazil na hostel, dát si sprchu a lehnout si.\
 V posteli jsem si pustil Casino Roayle. Překvapilo mě, jak je to starý. 2006, pro mě šestá třída. Asi jsem starej. Ale taky nedospělej jak Marťa zmínila. Je to se mnou složitý.\
 Káva možná nebyla tak bez kofeinu jak se mi pingl snažil nakecat. Nemohl jsem usnout a vzbudil jsem se několikrát v noci.
 
@@ -230,7 +234,6 @@ Mimopražská akce obou našich týmů to vlastně byla asi první svého druhu.
 - Dorazit do Hradce a vypít sud, který Jirka pořídil
 - Ráno vyrazit na pěší výlet skrz Peklo až do Náchoda
 - Vlakem se vrátit a jít na bowling s dalšími členy, kteří nejsou výletní, ale jsou pro družení se (čti Martínkovic)
-
 
 
 ### 27.11. Do Pekla a zpět

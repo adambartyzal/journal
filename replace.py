@@ -15,6 +15,6 @@ with open(newfilename, 'w') as new:
         new.write(f'<a href="../images/{filename}/{image_name}" target="_blank"><img src="../images/thumbnails/{filename}/{image_name}"></a>\n')
       elif (line[0:7] == '[audio]'):
         audio_name = line[line.find('(') + 1 : line.find(')')]
-        new.write(f'<audio controls><source src="../images/{filename}/{audio_name}" type="audio/x-m4a"></audio>\n')
+        new.write(f'<p><audio controls><source src="../images/{filename}/{audio_name}" type="audio/x-m4a"></audio></p>\n')
       else:
         new.write(line)
