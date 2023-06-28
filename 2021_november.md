@@ -7,7 +7,7 @@
 - [18.11. Pěšky všude možně](#1811-pěšky-všude-možně)
 - [19.11. Vlakem pryč z turistické oblasti](#1911-vlakem-pryč-z-turistické-oblasti)
 - [20.11. Vanessa a Řím](#2011-vanessa-a-řím)
-- [21.11. Výled z baziliky svatého Petra](#2111-výled-z-baziliky-svatého-petra)
+- [21.11. Výhled z baziliky svatého Petra](#2111-výhled-z-baziliky-svatého-petra)
 - [22.11. 40 kilometrů pěšky](#2211-40-kilometrů-pěšky)
 - [23.11. Domů](#2311-domů)
 - [26.11. 7 divů světa](#2611-7-divů-světa)
@@ -157,7 +157,7 @@ Telefonoval jsem s mamkou a pomalu obloukem mířil zpátky. Táhlo na desátou 
 
 Na pokoji to mezitím ožilo. Hrála hudba a ukázalo se, že bydlím s britkami a američanem. Po sprše a chvíli psaní jsem ale odpadl i přes zapnuté světlo a hrající hudbu.
 
-### 21.11. Výled z baziliky svatého Petra
+### 21.11. Výhled z baziliky svatého Petra
 
 Nakonec jsem vstal až po mých spolubydlících. Protože jim ale všechno trvalo roky, dosnídal jsem dřív než oni. Snídaně mě ale skutečně zklamala. K dispozici byly sušenky a nějaké gumové sladké pečivo v igelitu. Všechno vlastně bylo v igelitu. Hostel vlastnili, nebo spíš řídili indové a s problematikou klimatické krize si zřejmě nedělali hlavu. Škoda, že na ní dojedou jako první. Co už.\
 Po snídani jsem vyrazil na památky. Směrem k Památníku otců, či jak se ta obří budova jmenuje. Mohutné mramorové schody a nad nimi socha koňáka. Dovnitř pouštěli jen ty s QR kódem potvrzujícím očkování a musím říct, že jsem byl šťastný, že ho mám. Výhled stál za to. Historické budovy v římě jsou obrovské a plné těch nejmenších detailů. A je jich asi tak milión. Kdo to opravuje musí vydělat majlant.

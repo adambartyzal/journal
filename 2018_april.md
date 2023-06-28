@@ -221,7 +221,7 @@ Pláž nebyla na koupání, ale na natáčení zpomaleného vlnobití byla jak d
 <a href="../images/2018_april/7_2.jpg" target="_blank"><img src="../images/thumbnails/2018_april/7_2.jpg"></a>
 
 Pokračoval jsem několik kilometrů, když se po mé pravici zjevila kopa Asiatů fotících si moře z upravené vyhlídky. Teda, spíš fotili sebe, ale na to už si zvykám. Takže jsem si vyfotil panorama, a dokonce jedno selfie. Tahle země má na mě špatný vliv, ale odůvodnil jsem to tím, že doma budou mít radost, když uvidí, jak vypadám.\
-Pár kilometrů severněji, jsem došel na pláž, kterou jsem předtím zahlédl v Google mapách. Byla písečná, ale zanešená velkým množstvím větví.
+Pár kilometrů severněji, jsem došel na pláž, kterou jsem předtím zahlédl v Google mapách. Byla písečná, ale zanesená velkým množstvím větví.
 
 <a href="../images/2018_april/7_3.jpg" target="_blank"><img src="../images/thumbnails/2018_april/7_3.jpg"></a>
 
@@ -242,7 +242,7 @@ Tam jsem chvíli váhal, zda jít spát do altánu, ale byl jsem v pokušení j
 
 ### 8.4. Neděle - oBike
 
-Nějak se mi nic nechtělo, postel dělá svoje. Ale venku krásně, takže jsem se vyhrabal ven. Dal ranní sprchu, seběhnul dolů na recepci, kde stejně nikdo nebyl a vyrazil se ven najíst.
+Nějak se mi nic nechtělo, postel dělá svoje. Ale venku krásně, takže jsem se vyhrabal ven. Dal ranní sprchu, seběhl dolů na recepci, kde stejně nikdo nebyl a vyrazil se ven najíst.
 
 <a href="../images/2018_april/8_1.jpg" target="_blank"><img src="../images/thumbnails/2018_april/8_1.jpg"></a>
 
