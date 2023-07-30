@@ -12,6 +12,6 @@ text before audio
 
 text before video
 
-<p><video width="800" height="600" controls><source src="../images/sample/4_3.mov" type="video/mp4"></video></p>
+<p><video controls width="100%"><source src="../images/sample/4_3.mov" type="video/mp4"></video></p>
 
 text after video
