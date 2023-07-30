@@ -16,5 +16,8 @@ with open(newfilename, 'w') as new:
       elif (line[0:7] == '[audio]'):
         audio_name = line[line.find('(') + 1 : line.find(')')]
         new.write(f'<p><audio controls><source src="../images/{filename}/{audio_name}" type="audio/x-m4a"></audio></p>\n')
+      elif (line[0:7] == '[video]'):
+        audio_name = line[line.find('(') + 1 : line.find(')')]
+        new.write(f'<p><video width="800" height="600" controls><source src="../images/{filename}/{audio_name}" type="video/mp4"></video></p>\n')
       else:
         new.write(line)
