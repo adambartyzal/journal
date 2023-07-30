@@ -12,6 +12,6 @@ text before audio
 
 text before video
 
-<p><video controls loop autoplay muted width="100%"><source src="../images/sample/4_3.mov" type="video/mp4"></video></p>
+<p><video controls loop autoplay muted style="width:100%;max-width:800px"><source src="../images/sample/4_3.mov" type="video/mp4"></video></p>
 
 text after video
