@@ -1,4 +1,4 @@
-## [Prosinec](2020.md) <!-- omit in toc -->
+## [Prosinec](2020.md) 
 
 - [20.12. Freebike pro tátu](#2012-freebike-pro-tátu)
 - [27.12. Darovat postel](#2712-darovat-postel)

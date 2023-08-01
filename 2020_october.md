@@ -1,4 +1,4 @@
-## [Říjen](2020.md) <!-- omit in toc -->
+## [Říjen](2020.md) 
 
 - [6.10. Do La Rochelle s Omarem](#610-do-la-rochelle-s-omarem)
 - [](#)

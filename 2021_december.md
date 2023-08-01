@@ -1,4 +1,4 @@
-## [Prosinec](2021.md)  <!-- omit in toc --> 
+## [Prosinec](2021.md)   
 
 - [17.12. Nevšední zážitek](#1712-nevšední-zážitek)
 - [22.12. iPhone to nedal](#2212-iphone-to-nedal)
