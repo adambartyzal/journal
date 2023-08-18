@@ -2,7 +2,7 @@
 
 - [1.8. Na schovávanou](#18-na-schovávanou)
 - [2.8. Terapie naslepo](#28-terapie-naslepo)
-- [3.8. Dospat ztrátu](#38-dospat-ztrátu)
+- [3.8. Dospat ztrátu nejde](#38-dospat-ztrátu-nejde)
 - [4.8. Mít Radost](#48-mít-radost)
 - [5.8. Vyhnáni deštěm](#58-vyhnáni-deštěm)
 - [6.8. Dělníci jsou hovada](#68-dělníci-jsou-hovada)
@@ -10,10 +10,14 @@
 - [8.8. Když déšť kvůli tanci odejde](#88-když-déšť-kvůli-tanci-odejde)
 - [9.8. Ráno nažmach, večer na pivo](#98-ráno-nažmach-večer-na-pivo)
 - [10.8. Druhé v řadě](#108-druhé-v-řadě)
-- [11.8. Splněné přání bez padajících hvězd](#118-splněné-přání-bez-padajících-hvězd)
-- [12.8. Low Cost, High Yield](#128-low-cost-high-yield)
+- [11.8. Splněná přání bez padajících hvězd](#118-splněná-přání-bez-padajících-hvězd)
+- [12.8. Low Cost, High Yield zábava](#128-low-cost-high-yield-zábava)
 - [13.8. Dvě mrtvolky](#138-dvě-mrtvolky)
 - [14.8. Čas na psaní](#148-čas-na-psaní)
+- [15.8. Grilování u Vojty](#158-grilování-u-vojty)
+- [16.8. K přehradě se Sabčou](#168-k-přehradě-se-sabčou)
+- [17.8. Barák jde do hajzlu a DB ruší vlaky](#178-barák-jde-do-hajzlu-a-db-ruší-vlaky)
+- [18.8.](#188)
 
 ### 1.8. Na schovávanou
 
@@ -67,7 +71,7 @@ pivo v zadu co točil roky, ven nemůžeme, dost horko<br>
 vyptává se na míšu<br>
 po druhé domů<br>
 
-### 3.8. Dospat ztrátu
+### 3.8. Dospat ztrátu nejde
 
 vojta v karlíně<br>
 zažívací potíže, vyloučil asii a skoro i jídelnu, do itálie u metra ven<br>
@@ -217,7 +221,7 @@ druhé bosoboty<br>
 běh<br>
 miška u šéfa na grilování<br>
 
-### 11.8. Splněné přání bez padajících hvězd
+### 11.8. Splněná přání bez padajících hvězd
 
 Už dlouho jsem nezačínal den jógou. Napravil jsem to a vyrazil do práce, kde nikdo kromě mě nebyl.
 jóga<br>
@@ -245,7 +249,7 @@ mezi stromy až na kopec, chvíli na výhledu a pak najít místo na spaní
 čtu wericha<br>
 přišla zima a budil jsem se
 
-### 12.8. Low Cost, High Yield
+### 12.8. Low Cost, High Yield zábava
 
 Ale nevybavuju si budík. Miška ho prý típla hned jak začal zvonit. Probudilo mě šustění jejího spacáku. Hvězdy už byly pryč. Nahradila je tmavě modrá obloha a červánky na východě. Ze spacáku se mi moc nechtělo. Vlastně vůbec. Ale po asi deseti minutách jsem se přemluvil a přesunuli jsme se na výhled. Venku ze spacáku jsem se klepal zimou a kdyby mi Miška nedala teplý čaj, asi bych byl hodně grumpy.<br>
 Ale stálo to za to. Oranžově nasvícené mraky se postupně rozsvěcovaly intenzivnějšími barvami a scéna nabírala na kontrastu.
@@ -270,44 +274,29 @@ Ale šli jsme plavat a při plavání jsem v pohodě. Oba jsme plavali jako pan�
 Na dece jsme se pak váleli, dokud nám nebyla opravdu zima. Docela jsem se jí posmíval, když se pod osuškou převlékala z plavek do spodního prádla. Trvalo jí to fakt dlouho.<br>
 Přes studentskou louku jsme došli opět k autu a v tescu nakoupili vodu pro jistotu, 3 kaiserky, žervé, buráky a dva banány na snídani.<br>
 Skrz Tanvald, kudy jsme měsíc zpátky projížděli do Harachova, jsme dojeli k přehradě Souš.<br>
-za parkování se platí, trochu zpátky a před hospodu<br>
-na cestu<br>
-večeře na piknik místě bez koše<br>
-zpátky vynést odpadky<br>
-po silnici<br>
-hvězdy úplně neskutečné<br>
-taky dost aut<br>
-padat první hvězdu vidím já<br>
-celou cestu vyvrácené krky, fotit to moc nejde<br>
-dvě třetiny cesty po silnici<br>
-hledám severku ale nevidím jí, hvězd je prostě moc
+Za parkování se platilo asi 100 korun. Byť bychom to zvládli, Miška má podobný pohled na věc jako já a tak jsme se vrátili trochu zpátky a nechali Auroru naproti hospodě.<br>
+Vyšli jsme už potmě. A protože už na nás opravdu přišel hlad, u prvních laviček jsme se pustili do jídla. Žervé s kaiserkou jsem doplnil o mrkve, které jsem přinesl z domova. Byla to dobrá bašta. A hvězdy nad námi začínaly nabírat na síle. Piknikové místo z nějakého důvodu postrádalo koš na odpadky a tak jsme se museli vrátit na parkoviště.<br>
+Když jsme se vydali na cestu, byla už regulérní noc. A hvězdy se s Pražskou oblohou nemohly srovnávat. Cesta vedla přímo za velkým vozem a nad námi byla vidět snad všechna souhvězdí a mezi nimi mléčná dráha. Šli jsme tak se zaklopenými hlavami, snažili se to vyfotit a užívali si tu dechberoucí krásu.
 
 <a href="../images/2023_august/12_4.jpg" target="_blank"><img src="../images/thumbnails/2023_august/12_4.jpg"></a>
 
-stopání a odbočka co chybí<br>
-ale našli jsme další a ta vypadala legit<br>
-mišku za ruku a jdeme do kopce
+Jasně že to vyfotit nešlo. Proto tam taky byl takovej provoz. Co pár minut jsme uhýbali autu. Ale nenechali jsme si to tím zkazit. První padající hvězdu jsme zahlídl já. Bylo to tak rychlý, že jsem si nestihl nic přát. U druhý taky ne. A pak už mě Miška dohnala. Byly to její první perseidy a její reakce byly kouzelný. Tak jak mě baví její citoslovce číst, tak mě baví je poslouchat naživo. Tu nefalšovanou dětskou radost.<br>
+Většinu cesty jsem hledal, kde je severka. Věděl jsem, že se dá nějak odpočítat od Velkého vozu. Věděl jsem, že severkou začíná oj Malého vozu. Ale stejně mi unikala. Zato jsme viděli Kasiopeu. A musím říct, že mě překvapilo jak daleko jdeme. Naše tempo kvůli zastavování se a prohlížení si oblohy nebylo zrovna bryskní, ale i tak jsme po několika hodinách dorazili do dvou třetin asfaltové cesty a to nás ještě čekala cesta lesní.<br>
+Při odbočování s asfatu jsme objevili, že cesta tam chybí. Miška proto vybrala jinou a když jsme se k ní dostali, moc se jí do toho temného hvozdu nechtělo. Když jsem jí ale vzal za ruku, nejistota z ní opadla a společně jsme se vydali do kopce.
 
 <a href="../images/2023_august/12_5.jpg" target="_blank"><img src="../images/thumbnails/2023_august/12_5.jpg"></a>
 
-voda v botách<br>
-občas ztraceni<br>
-na křeslo na skále<br>
-opřeni o sebe hledíc na hvězdy<br>
-Ale spát tam nešlo<br>
-Ještě dál do kopce<br>
-už dost skalnato, šel jsem první a prý jsem hodně nadával<br>
-probudili jsme další lidi<br>
-kousek před vrcholem plácek akorát pro nás<br>
-ještě chvíli koukat na hvězdy, usnul jsem dřív než miška
+Stezka byla zároveň potokem a borůvčím. Poměrně rychle mi nateklo do mých nových bosobot. Chtěl jsem si je vzít do Slovinska, ale tohle mě trochu zarazilo. Ale po chvilce zas vyschly. Lehce dovnitř, lehce ven. Celkově jsem byl z bot nadšený. Mišce se taky líbily. Ruku v ruce jsme stoupali terénem více a více popsatelným jako houšť boruvčí uprostřed skal. Jedna z těch skal byla ale obzvlášť super. Vypadal jako gauč s výhedem do okolí. Napřed jsem to šel očíhnout sám, ale přesvědčil jsem Mišku, že to ke místo, odkud chceme hvězdopád pozorovat. Společně jsme tam leželi opření o sebe a užívali si pohled na desítky pádů meteoritů. Bylo to kouzelný. Úplná borůvka na dortu.<br>
+Ale spát tam nešlo. Ze skály bychom v noci spadli a před případným deštěm by nás nic neochránilo. Vyrazili jsme dál na Jizeru. Moc se mi nechtělo a zpětně jsem se dozvěděl, že jsem byl extra sprostý. Asi mě už ta cesta unavila za nějakou únosnou hranici. Ale nechtěl jsem se smířit se spaním na nějakém nehezkém místě. V jednu chvíli už to vypadalo nadějně, ale kopeček už byl zabraný jinými podširákovníky.<br>
+Nakonec jsme ale našli mítinku u malého ohniště. Ve světle čelovky jsme se zabydleli a ještě chvíli koukali na nebe. Moc jsem tomu ale nedal. Po pár minutách jsem zalomil a Miška mě prý následovala po pár minutách.
 
 ### 13.8. Dvě mrtvolky
 
-miška měla pravdu, borůvky na dosah
+Něco co prohlásila večer se ukázalo pravdivé. Ze spacáku jsem dosáhl na borůvčí. Snídaně tak byla obohacená o vitamíny. Dál jsme měli banány, mrkve, buráky a mořskou řasu. Vlastně to bylo nutriční terno.
 
 <a href="../images/2023_august/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/13_1.jpg"></a>
 
-mám energii, k snídani banány, borůvky, buráky, řasa a mrkev<br>
+Na vrchol Jizery už to byl jen kousek. 
 100 metrů na jizeru, výhledy a sezení na skále
 
 <a href="../images/2023_august/13_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/13_2.jpg"></a>
@@ -359,3 +348,82 @@ nepíše.. ale nakonec je v pořádku
 
 ### 14.8. Čas na psaní
 
+moc jsem tomu nakonec nedal
+
+### 15.8. Grilování u Vojty
+
+ivan s krosnou<br>
+
+<a href="../images/2023_august/15_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/15_1.jpg"></a>
+
+<a href="../images/2023_august/15_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/15_2.jpg"></a>
+
+### 16.8. K přehradě se Sabčou
+
+domů<br>
+kroupy jako kráva
+
+<a href="../images/2023_august/16_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/16_1.jpg"></a>
+
+miška má starosti o auru
+
+<p><video controls loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2023_august/16_1.mov" type="video/mp4"></video></p>
+
+na vlak a pak 177
+
+<a href="../images/2023_august/16_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/16_2.jpg"></a>
+
+ztracený v panelácích<br>
+sabča mokla<br>
+nadšeně povídá o nové práci v lidlu<br>
+edita<br>
+podél přehrady<br>
+trocha červánků<br>
+prý romantické procházky s kamarádkami
+
+<a href="../images/2023_august/16_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/16_3.jpg"></a>
+
+horem, trochu ztracení, recept na buchtu<br>
+pořád s cápkem co je kokot<br>
+pod přehradou zpátky k zoo
+jak to chodí v lidlu<br>
+uplně maličkou stezičkou<br>
+pod deštníkem<br>
+na pivo, merunkové a pšenku<br>
+fotky z cest<br>
+do zavíračky<br>
+loučení u autobusu<br>
+telefonovat mišce, nervozní z prezentace<br>
+prý jí náš rozhovor pomohl<br>
+
+### 17.8. Barák jde do hajzlu a DB ruší vlaky
+
+honorace slintačky tavky
+
+<a href="../images/2023_august/17_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/17_1.jpg"></a>
+
+nepustili do reichstagu<br>
+V půl čtvrté mi volal pan Kepka, že plyn<br>
+domů<br>
+nic se nedělo<br>
+krize v berlíně, vlak nejede, máma neštastná, odnavigovat na flix, jízdenky, zvládli nastoupit<br>
+membrána nefunguje<br>
+telefonovat s míšou<br>
+petr s robinem čekali ale ne dlouho<br>
+večeře, pivo a pendrek<br>
+
+<a href="../images/2023_august/17_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/17_2.jpg"></a>
+
+fotbal psát deník<br>
+
+<a href="../images/2023_august/17_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/17_3.jpg"></a>
+
+spát radši trochu dřív<br>
+
+### 18.8.
+
+potkal sáru<br>
+
+<a href="../images/2023_august/18_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/18_1.jpg"></a>
+
+hudba do kopce
