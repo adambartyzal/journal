@@ -18,6 +18,7 @@
 - [16.8. K přehradě se Sabčou](#168-k-přehradě-se-sabčou)
 - [17.8. Barák jde do hajzlu a DB ruší vlaky](#178-barák-jde-do-hajzlu-a-db-ruší-vlaky)
 - [18.8. Cesty nevedou do Říma ale k Adamovi](#188-cesty-nevedou-do-říma-ale-k-adamovi)
+- [19.9. Za Mamkami](#199-za-mamkami)
 
 ### 1.8. Na schovávanou
 
@@ -223,28 +224,26 @@ miška u šéfa na grilování<br>
 
 ### 11.8. Splněná přání bez padajících hvězd
 
-Už dlouho jsem nezačínal den jógou. Napravil jsem to a vyrazil do práce, kde nikdo kromě mě nebyl.
-jóga<br>
-v práci dopo sám<br>
-jídlo z minulého pátka pod komínem<br>
-DJ přišel, nahráli jsme manuály a odešel<br>
-red handles<br>
-domů<br>
-miška po sedmé<br>
-pinčes před nádražím<br>
-pro nanuk a hnusný pivo<br>
-slunce za kopcem, o koupi bytu s výhledem<br>
-do heroldových sadů<br>
-nevidíme na to<br>
-pán nás vyprovodil<br>
-pro věci<br>
-na vyšehrad<br>
-pod vyšehradem na vyhlídce zda přes vily<br>
+Už dlouho jsem nezačínal den jógou. Napravil jsem to a vyrazil do práce, kde nikdo kromě mě nebyl. Možná právě proto jsem na oběd nevyrazil nikam ven, ale zkusil jsem jestli je k zeleninový mix s cuketou z minulého týdne. Vlastně byl v lednici přes týden. Ale schválně jsem v lednici snížil teplotu a skleněné ikeové krabičky izolují skvěle. O tom značí fakt, že po snědení jídla venku na terásce u komína jsem se neposral.<br>
+Po obědě se ke mně přidal DJ. Dopsal anglický manuál na stavbu kola. Společně jsme poopravili poslední chybky a nahráli je na manual.freebike.com. Pak se zase zdejchnul. Na tester jsem si vytiskl červené ovládací prvky a musím říct, že to vizuál pákostroje hodně pozvedlo.
+
+<a href="../images/2023_august/11_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/11_1.jpg"></a>
+
+Den ale neměl být o práci. Měl jsem plán. Respektive Miška a já jsme měli plán. Vlastně hned několik plánů. Protože když chceš vidět východ slunce nad Prahou, máš času docela dost.<br>
+A tak jsme začali pinčesem. Miška si u mně nechala věci na přespání a společně jsme vyrazili před nádraží. Stůl obsazený nebyl a tak jsme se pustili do vysoké hry nízké úrovně. Což je ale nefér. Miška byla v pinčesu nová. A na to že byla nalepená na stole a držela raketu jak výpravčí plácačku jí to docela šlo. Cítil jsem, že stačí pár dalších her a rozbije mě.<br>
+Po chvíli hraní přišli dva postarší ukrajinci s pivkem a pálkami. Ještě chvíli jsme hráli, ale pak jsme jim stůl přenechali. Vypadalo to, že když si pospíšíme, stihneme si koupit pivo, nanuk a vylézt nahoru do grébovky na západ slunce.<br>
+Což nejde, i když se nahoru člověk vydrápe zkratkou, protože Grébovka se svažuje na jih a na západě jí překáží Vinohrady. Ale výhled tam je hezký o tom žádná. Zato to nealko šťávopivo bylo echt hnusný. Nahoře jsme si povídali o tom jak Miška uvažovala o koupi bytu na Pankráci. (Protože má výhled.. obviously)
+
+<a href="../images/2023_august/11_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/11_3.jpg"></a>
+
+Pinčes jsme ale ještě nepověsili na hřebík. Z grébovky jsme kolem jinanu dvoulaločného vyrazili od Heroldových sadů. Tam už ale moc hrát nešlo. Lampa na jedné straně oslňovala a na druhé byla tma jak v pytli. Ještě chvíli jsme si pinkali, ale pak jsme si jen lehli na stůl a koukali, zda nezahlédneme nějaké hvězdy. Padající nebo statické. Ale ani to nám dlouho nevydrželo. Přišel pán a vyprovodil nás, protože park zamykal.<br>
+Co naplat, zastavili jsme se pro věci na spaní a vyrazili na Dívčí hrady. Přes Vyšehrad, protože dolem je to nuda. Šli jsme stejnou cestou jako jsem šel, když jsme si telefonovali za úplňku. Pod vyšehradem jsme se zastavili na vyhlídce a Miška rozhodla, že musíme jít na opačné straně přes vilovou čtvrť. Ne že by se dalo vilám v té oblasti nějak vyhnout. Výhledy ze Smíchova už jsou dávno rozebrané smetánkou. Což je trochu absurdní, když to člověk srovná s tím jak hnusný to je dole. Vlastně jsme se bavili o tom, jestli bychom tam chtěli bydlet, až to po stavbě Smíchov City prokoukne. Podle mně to bude další Karlín. <br>
 přes mostek co nebyl zavřený<br>
 standardní cestou<br>
 mezi stromy až na kopec, chvíli na výhledu a pak najít místo na spaní
 
-<a href="../images/2023_august/11_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/11_1.jpg"></a>
+<a href="../images/2023_august/11_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/11_3.jpg"></a>
+
 
 čtu wericha<br>
 přišla zima a budil jsem se
@@ -304,53 +303,34 @@ Ale výhled to byl parádní. Od Krkonoš po důl Turów. Posadili jsme se na k�
 Při sestupu jsme potkali několik chodců. Jeden pár měl moc chytře vypadajícího psa co se nechal podrbat. Sestup v barefootech je doslova chození po špičkách. Potěšilo mě, že mi u toho nelupe v koleni. Taky mě potěšilo, že jsme šli po skutečné stezce. Ne že by ta noční cesta nebyla romatická, ale měli jsme před sebou docela štrák cesty a chtělo to trochu do vrtule.<br>
 Miška měla trochu spálený nos. Ne moc, ale byl červený. Bylo to roztomilý. Trochu jsem jí rozhodil, když jsem si natočil jak našlapuje ve slow-mo. A šlo jí to pěkně. Hezky na plosku.<br>
 Z ničeho nic jsme byli na Jizerské Padesátce. Jakože byli jsme na Jizeře v Jizerkách. Asi mi mělo dojít, že už jsem tam byl. Ale léto je prostě jiný než zima. Hledal jsem místa, kudy jsme s kolegy projížděli. Ale mám naše dva běžkařské výlety pomotané. Kupříkadu kopec dolů od Krčmy rozhodně nebyl kopec dolů, kde Vláďa jel jako babička. Protože to bylo v Orlických horách.<br>
-Pod tím jiným kopcem jsme zatočili na panelku. Spílal jsem na panelky. Ale kola tam jezdila. Vlastně hodně.   
-doleva na panelku, kola nahoru i dolů<br>
-pauzička, dvě mrtvolky<br>
-u studánky<br>
-o sebevraždění a hacienda<br>
-divný rozcestník<br>
-k protržené přehradě<br>
-Kanta & Bartyzal Waterworks
+Pod tím jiným kopcem jsme zatočili na panelku. Spílal jsem na panelky. Ale kola tam jezdila. Vlastně hodně. Horko mě nějak zmáhalo. Rozhodl jsem, že až bude nějaký fajnový místo, dáme si pauzičku. A vskutku po chvilce jsme sešli na úbočí cesty, kde jsem chtěl odpočívat u kamene. Miška ale měla lepší plán. Natáhla karimatku. A musím říct, trochu jsem jí to záviděl. Jenže Miška je strašně hodná a pustila mě na karimatku vedle ní.<br>
+A tak jsme se tam váleli, koukali na oblohu a nabírali síly. Občas kolem nás projelo kolo a dvě starší paní naše ležení komentovaly slovy *Támhle leží dvě mrtvolky!*.
+Z panelky jsme sešli na malou asfaltku, u studánky dočepovali vodu, u lesní chaty, která by se dala popsat spíš jako hacienda jsme diskutovali o mém nápadu zabít se, když se stanu přítěží a o její babičce, které je 92 a tak trochu odmítá uvěřit tomu, že už je vlastně docela stará.<br>
+Žlutá nás dovedla k protržené přehradě. Všudypřítomné borůvky mi už začínaly trochu lézt krkem, ale oblast kolem přehrady nebyla zajímavá jen historií, ale taky malinovými keři.<br>
+Na ledovém potoce, ve kterém jsme si chladili nohy jsme vylepšili již rozpracovanou přehradu. Nazval jsem naše dílo *Kanta & Bartyzal Waterworks* a byl pyšný na to, že jsem zvedl hladinu asi o 1 cm.
 
 <a href="../images/2023_august/13_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/13_3.jpg"></a>
 
-maliny<br>
-malinovka<br>
-uťapaní
+Z malin jsem se rozhodl udělat malinovku. Nasbíral jsem je do láhve s vodo a hodně s ní štěrchal. Moc to nefungovalo. Ufouknutí a mačkání na bok se ukázalo jako potentnější metoda. Ale stejně to nechutnalo jako malinovka. Chyběla tomu ta tuna cukru a citronové kyseliny.<br>
+Už jsme začínali být docela uťapaní, ale pár kilometrů nám ještě chybělo. Plán zněl jít nad přehradou Souš. Jenže na odbočce byla fízlpáska zákaz vstupu. Museli jsme tak kopec obejít z opačné strany.
 
 <a href="../images/2023_august/13_4.jpg" target="_blank"><img src="../images/thumbnails/2023_august/13_4.jpg"></a>
 
-cesta zavřená<br>
-najednou jdeme rychle<br>
-až ke krátké lesní a pak opět na šotolinu
-kolem real waterworks, vycházíme kousek pod parkovištěm<br>
-pár se psem<br>
-auroře nic není<br>
-do tanvaldu do lidlu<br>
-pár se psem<br>
-věci i na večeři<br>
-na mšeno<br>
-oběd geniální<br>
-plaveme na bóji<br>
-škytka a trochu blbě<br>
-po osušení a chvíli chillu balení a do auta<br>
-young folks, gorillaz, massive attack západ slunka nad prahou<br>
-ke mně<br>
-vařit zeleninu<br>
-harry potter<br>
-je slovensky,
-opření o sebe<br>
-jídlo do krabičky a loučení dole,
-nepíše.. ale nakonec je v pořádku
+Cesta vedla krátkou lesní a pak opět na šotolinu. Dál kolem skutečných waterworks a nakonec jsme se octli kousek od parkoviště, kde jsme večer vyhazovali odpadky.<br>
+Auroře se naštěstí nic nestalo. Opět jsme potkali pár se psem a vyrazili pro velký úspěch na přehradu Mšeno. V Tanvaldu jsme se zastavili v Lidlu pro něco k jídlu. Opet potkali pár se psem. A jeli se koupat.<br>
+Mišky rodiče byli opět na studentské pláži. K jídlu jsme měli ten nejlepší horský chléb, bazalkové pesto, sýrové nitě a červené papričky. Po jídle jsme plavali k bóji a objevili, že Míša je z těch které po jídle plavat nemůžou, protože je rozbolí břicho a rozeškytají se. I já jsme se rozeškytal. Možná jsme mysleli na sebe navzájem.<br>
+Cestou zpátky jsme poslouchali *Young Folks*, náhodné písně od *Gorillaz, Massive Attack* a před Prahou olohu zalil zlatavý západ slunka<br>
+To ale nebyl konec našich plánů. Čekala na nás závěrečná část Harryho a k večeři jsme si uvařili zeleninu s rýží. Pouze mírné dušení společně s tofu a sezamovým olejem udělalo super jídlo. Zelenina je prostě strašně dobrá.<br>
+Oba nás překvapilo, že Harry je slovensky. Úplně jsme to zapomněli. Opření o sebe jsme film dokoukali. Bylo to moc hezký. Jídlo jsme si rozdělili do krabiček na další den a dole u auta prý velmi vřelým objetím rozloučili.<br>
+Trvalo jí, než mi napsala že je doma v pořádku. Úplně mě rozhodilo jak nervózní jsem do tý doby byl. Přece jen jsme byli mrtě unavení a ona musela řídit po Praze.
 
 ### 14.8. Čas na psaní
 
-všichni jsme byli na horách<br>
-
-moc jsem psaní nakonec nedal
+V práci jsem vyzvídal co ostatní o víkendu dělali. Vláďa přecházel nějaké slovenské pohoří, Ivan byl s rodinou někde v prašných horách. Petr přecházel Šumavu a Jiří byl stejně jako my v Jizerkách. Vlastně jsem si myslel, že tam na něj narazíme, ale na vrcholu jsme se minuli o den.<br>
+Na večer jsem plánoval dopisovat deník a nic nedělat. Víc se mi dařilo to druhé a tak deník nabral další zpoždění. Nejmíň čtrnáct dní už bylo jen ve stavu nejasných poznámek a to vůbec nezmiňuji Filipovu rozlučku, na kterou jsem nesáhl přes měsíc.
 
 ### 15.8. Grilování u Vojty
+
 
 ivan s krosnou<br>
 
@@ -427,3 +407,26 @@ hudba do kopce<br>
 debilní slogan<br>
 dostavět první tester<br>
 potkal petra<br>
+
+### 19.9. Za Mamkami
+
+stejně dobíhám<br>
+psát ve vlaku<br>
+steží jeden den<br>
+pěšky na dělnickou<br>
+vajíčková pomazánka a šípový čaj<br>
+máma se vyptává na mišku jako kdybychom spolu plánovali děcka<br>
+k medvědům<br>
+debil v autě na cyklomostě<br>
+festival pro romy<br>
+na birel a limču<br>
+naučnou stezkou<br>
+fakt horko<br>
+trochu ztracení u čističky<br>
+pak lesem a u labe zas horko<br>
+na zmrzlinu<br>
+nakoupit na tousty<br>
+véča<br>
+klidke po jídle<br>
+20 minut na vlak<br>
+tak akorát<br>
