@@ -19,7 +19,12 @@
 - [17.8. Barák jde do hajzlu a DB ruší vlaky](#178-barák-jde-do-hajzlu-a-db-ruší-vlaky)
 - [18.8. Cesty nevedou do Říma ale k Adamovi](#188-cesty-nevedou-do-říma-ale-k-adamovi)
 - [19.8 Za Mamkami](#198-za-mamkami)
-- [20.8.](#208)
+- [20.8. Na letný je Rybník!](#208-na-letný-je-rybník)
+- [21.8. Strategická porada](#218-strategická-porada)
+- [22.8. Krajem zlých lidí](#228-krajem-zlých-lidí)
+- [23.8. Jahody a Šotoušství](#238-jahody-a-šotoušství)
+- [24.8. Se zmrzlým přívěškem](#248-se-zmrzlým-přívěškem)
+- [25.8](#258)
 
 ### 1.8. Na schovávanou
 
@@ -437,6 +442,142 @@ klidke po jídle<br>
 20 minut na vlak<br>
 tak akorát<br>
 
-### 20.8.
+### 20.8. Na letný je Rybník!
 
 pára mi dýmí na oblečení
+pěšky na zmrzlinu<br>
+dle googlu prý 40 minut<br>
+mě to trvalo 41.. čest googlu<br>
+s Miškou v podstatě naráz
+do kornoutu veganskou čokoládu a lesní ovoce a do kelímku pistáciovou s 
+podchodem k vodě<br>
+mrtvá krysa tomu trochu ubrala<br>
+na zemi v krásných šatokalhotách<br>
+do rudolfína kolem toxíků a alkáčů<br>
+na podlaze<br>
+vzadu oficiální ležení<br>
+až do úplného konce<br>
+na letnou<br>
+pivo na stalinu?<br>
+radši nahoru<br>
+rybník na letné?<br>
+dítě co se topí<br>
+chlazení nohou<br>
+pivo u cirkusu?<br>
+na hrad<br>
+lampa co opravdu svítí<br>
+k aslanovi pro vodu, pomalu fotoshooting<br>
+kamínky do okna?<br>
+čas tíží<br>
+přes petřín k mišce<br>
+vařit v dokonale uklizené kuchyni<br>
+cuketa, houby, rajčata sýr a ktomu salát a jablka<br>
+předkrm z přebytku<br>
+koukat na film u jídla na zemi<br>
+zbytek na posteli<br>
+zůstávám<br>
+
+### 21.8. Strategická porada
+
+Je skvělý se probudit vedle Mišky<br>
+pomalé vstávání<br>
+pěšky na anděl<br>
+tramvají domů<br>
+na kole do práce s hodinovým zpožděním<br>
+karlínský fine dining
+na kole do billy<br>
+chleba mrkev rajče cottage<br>
+na letnou, naproti dětem<br>
+réba s ondrou plavou<br>
+za jardy nic nevypadlo<br>
+asi bude chcát<br>
+katalpu pro ondru<br>
+kostky pod sešupem jsou zlo
+
+### 22.8. Krajem zlých lidí
+
+po práci s frantou na kolo<br>
+doi kralup a zpět<br>
+most u doku zavřený<br>
+jezdí rychle<br>
+po správné straně<br>
+stoupák<br>
+vre vesnici jsme prý kokoti nesmírní<br>
+asi se pohádali<br>
+sjezd skrz vodochody<br>
+paní v kralupech další problém<br>
+bojí se tmy bez blikaček<br>
+krásný západ slunka<br>
+sjezd do unetic a pak ten ze suchdola<br>
+v karlíně se dělíme<br>
+
+### 23.8. Jahody a Šotoušství
+
+áďa přišla s jiskrou v oku že ví co hezkého se jí stalo - houby bez červů od nymburka<br>
+hoří jako když se pálí guláš<br>
+ivan plánuje bežět asi 17 km<br>
+já po chvili jedu stejným směrem<br>
+v globusu kuskus a potom cizrovné čipsy, dýňový semínka a nealko radler<br>
+potkal jsem toma s terkou<br>
+do kina<br>
+film debilní<br>
+pro kolo a skrz centrum<br>
+do hokejky<br>
+jeden birel venku, druhý uvnitř<br>
+povádají o dovolené v řecku a o šotoušství<br>
+docela jsme se zasmáli<br>
+vyptávali se na mišku<br>
+zpátky docela zima<br>
+
+### 24.8. Se zmrzlým přívěškem
+
+Jet ráno do Malaešic stenou cestou jako jsem večer jel z Čerňáku mi přišlo trochu absurdní. Ale slíbil jsem rozchodit tester a sliby je třeba plnit. Až ráno mi ale došlo, že jsem si měl vzít laptop. Na Čerňák se mi ale tahat nechtěl. Řekl jsem si, že to musí vyjít na první dobrou.<br>
+U brány mi došlo, že nemám nejen laptop, ale ani klíče. Kluci naštěstí slyšeli moje klepání. Kluci, myšleno Omar a Šťépa. Ostatní měli dovolenou. O dovolených se Štěpán i rozpovídal. Plánoval vyrazit s rodinou do Turecka do resortu. Nic pro mně ale jemu jesm to přál. Naposledy se vrátil nadšený.<br>
+Na první dobrou to nevyšlo. Tester při připojování na WiFi vyžadoval pin k WPS. Vlastně jsem měl vědět, že se to stane. Issue na to v GitHubu viselo dost dlouho. Bez laptopu jsem s tím ale stěží mohl pohnout. Dostavil jsem pákostroj, ukázal Omarovi jak ho používat a vyrazil na kole do Karlína.<br>
+Jel jsem přes Malešický park, který jsme plánovali navštívit s Miškou. Kvůli obřím houpačkám pochopitelně.<br>
+
+<a href="../images/2023_august/24_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_1.jpg"></a>
+
+Taky jsem si poznačil, že qtester nejde shodit Escapem. Do toho jsem se pustil v Karlíně. Interface to prostě neuměl. Ale když jsem ho to naučil, vytáhl jsem ze skříně kostlice špatně se ukončujícícho QT. Byl to debugging na dýl.<br>
+Na oběd jsme šli do Vietnamky a *Bun Dau Nam Bo* bylo výtečné. Vláďa chvátal, protože měli nějakou impromptu schůzi se zásuvkářema v Modřanech.<br>
+QT jsem uložil k ledu, v GMku koupil lineární zdroje a osadil je na G2 zámky. Fungovalo to parádně. A vypadalo jako Tripody z Války světů.
+
+<a href="../images/2023_august/24_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_2.jpg"></a>
+
+Byť Miška v tom viděla paní na podpatcích.
+
+<a href="../images/2023_august/24_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_3.jpg"></a>
+
+Anet poslala fotky ze svatby. Po práci jsem si je chvilku procházel. Chtěl jsem vidět Mišku, ale ve stromovce na ní čekali Ondra, Iva a Pepa. A já musel nakoupit kolíky do stanu a věci k jídlu.<br>
+Levné kolíky měl dekáč až na Chodově. Ale jsem chudý na to abych kupoval levné věci. Koupil jsem lehčí a lepší kolíky na Smícháči. A strávil tam vlastně docela dost času. Dost na to aby mi vyhládlo a musel jsem to zahnat houskou z tesca, kterou se mi u kasy podařilo hodit do koše vedle samoobslužné pokladny.<br>
+Doma jsem vyhodil věci a pěšky došel do Lidlu. Rozhodl jsem se, že nebudu na vodě pít. Koupil jsem tak jen jídlo a vyrazil ven, kde jsem narazil na osamělou Koru.<br>
+
+<a href="../images/2023_august/24_4.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_4.jpg"></a>
+
+Počkal jsem na páníčky a vyrazil s nimi k nám. Až tak moc jsme nepokecali. Stejně ale měl přijít Petr s Robinem, tak nebylo moc času. Ti se ozvali, když jsem vykládal nákup. Že prý potřebují pomoct, protože mi nesou nože od Dědy. Došel jsem jim naproti k pizzerii, kde nakupovali večeři a společně jsme věci donesli k nám.<br>
+Petr opět sledoval fotbal. Robin byl unavený a otravoval Petra s nic moc kloudnýho z něj nevypadlo. Šel brzo spát a vlastně jsme byli to tak s Petrem viděli taky. Dal jsem si sprchu a natáhl pyžamo.<br>
+Ale napsala mi Miška, že s kamarády už to rozpustili a že *klidně si dojedu jen pro jedno obejmutí*. Inu, plán to byl dobrý. Převlékl jsem se zpět z pyžama a vyrazil na Vyšehrad, protože šestka jedoucí do Vešovic prý nepřijela.<br>
+Potkali jsme se na perónu. Každý jsme byli na jedné straně. Naštěstí to jde podejít. Puntíkovaná sukně jí ohromně slušela. Zastavili jsme se v dřevěném umění, které nebylo od Davida Černého a pokračovali k Vyšehradu se zastávkou v parčíku, protože záchody byly prý zavřené a pán jí poradil ať prý najde křoví.
+
+<a href="../images/2023_august/24_4.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_4.jpg"></a>
+
+Nahoru jsme vyšli tunelem, který měl být děsivý, ale byl osvětlený. Výhled byl jako vždy parádní, ale radši jsme se šli válet na trávu a povídali si. Až do chvíle dokud jí nebyla zima. Miška je zimomřivá. Naštěstí jsem jí mohl předat trochu tepla ze svých rukou. Slíbila ale, že mě domů vrátí do půlnoci.<br>
+Seběhli jsme tak na Ostrčilák a po dlouhém objetí nastoupili tramvaje v opačných směrech. Ty 3 zastávky jsem jel bez lístku, ale domů jsem se dostal přesně minutu po půlnoci.
+
+### 25.8
+
+hluk a horko<br>
+petr s robinem vyráží dřív než já<br>
+moc se mi nechce<br>
+na kole do malešic<br>
+kurýr<br>
+
+Dneska jsem potvrdil, že problémy řeším následovně:
+
+- Moc nevím a plácám se v tom.
+- Když začnu být zoufalý, popíšu detailně co dělám Vláďovi.
+- Nedostanu odpověď, protože je na obědě, nebo dělá pro zásuvky.
+- Sám si odpovím, protože to v tom podrobným popisu uzřím.
+- Vyřeším to.
+- Pochlubím se jak jsem to vyřešil.
+- Vláďa napíše, že takhle mi radí rád.
