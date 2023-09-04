@@ -24,7 +24,13 @@
 - [22.8. Krajem zlých lidí](#228-krajem-zlých-lidí)
 - [23.8. Jahody a Šotoušství](#238-jahody-a-šotoušství)
 - [24.8. Se zmrzlým přívěškem](#248-se-zmrzlým-přívěškem)
-- [25.8](#258)
+- [25.8. Těžká novina](#258-těžká-novina)
+- [26.8. Neprší](#268-neprší)
+- [27.8. Do Vláďova kraje](#278-do-vláďova-kraje)
+- [28.8. Ohnivá Čaša](#288-ohnivá-čaša)
+- [29.8. Bez plánu](#298-bez-plánu)
+- [30.8. Klapky a knedlíky](#308-klapky-a-knedlíky)
+- [31.8. Světlonoš](#318-světlonoš)
 
 ### 1.8. Na schovávanou
 
@@ -564,7 +570,7 @@ Potkali jsme se na perónu. Každý jsme byli na jedné straně. Naštěstí to 
 Nahoru jsme vyšli tunelem, který měl být děsivý, ale byl osvětlený. Výhled byl jako vždy parádní, ale radši jsme se šli válet na trávu a povídali si. Až do chvíle dokud jí nebyla zima. Miška je zimomřivá. Naštěstí jsem jí mohl předat trochu tepla ze svých rukou. Slíbila ale, že mě domů vrátí do půlnoci.<br>
 Seběhli jsme tak na Ostrčilák a po dlouhém objetí nastoupili tramvaje v opačných směrech. Ty 3 zastávky jsem jel bez lístku, ale domů jsem se dostal přesně minutu po půlnoci.
 
-### 25.8
+### 25.8. Těžká novina
 
 hluk a horko<br>
 petr s robinem vyráží dřív než já<br>
@@ -581,3 +587,59 @@ Dneska jsem potvrdil, že problémy řeším následovně:
 - Vyřeším to.
 - Pochlubím se jak jsem to vyřešil.
 - Vláďa napíše, že takhle mi radí rád.
+
+### 26.8. Neprší
+
+přší<br>
+100 spacích bodů<br>
+buchty k snídani<br>
+pod stromy docela dobrý<br>
+snídaně tam<br>
+balení stanůa na mokro<br>
+dolů, přes most, vyhodit odpad, 
+samba půjčovna, fronta lidí, marťa občanku, tři samby,
+pro vodu ke zmrzlinářce, ostatní taky, 3 velké zmrzliny,
+pod jezem na vodu,
+docela to teče, počasí se vylepšilo, otava pěkná přírodní,
+jet sám jde, sedím na rantlu,
+pod rábím krásný výhled na hrad,
+před mostem koupačka a birell,
+první jez je rozbořený
+oběed v kulturáku, drahý smažák, tak radši sladký knedlíky, 4 kofoly, jedno pivo<br>
+o celine
+
+### 27.8. Do Vláďova kraje
+
+### 28.8. Ohnivá Čaša
+
+### 29.8. Bez plánu
+
+### 30.8. Klapky a knedlíky
+
+noční můra v šest<br>
+10 po ránu<br>
+marťa před domem<br>
+v mírném dešti přes vinohrady<br>
+
+do knihovny se zastávkou pro pečivo<br>
+jsem tam první<br>
+holčina u klapek<br>
+končí a zabírám klavír<br>
+miška v zápětí<br>
+trénuje dole co se naučila dole<br>
+já si nahoře blbnu, víc a víc jazzově<br>
+metronom a ležení na zemi<br>
+asitata pobavilo, že hraju z podlahy<br>
+v půl osmé končíme<br>
+co teď, hlad, na kolech na letnou<br>
+občas spíš chůze než jízda<br>
+kola za billou<br>
+dim sum<br>
+4 chutě: 
+bezedný čaj a konvička<br>
+státy ameriky
+
+### 31.8. Světlonoš
+
+do
+
