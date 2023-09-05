@@ -164,11 +164,11 @@ Míša to byla. Neděle zdá se netráví v Německu, ale u nás. Vypadala přek
 
 ### 18.4. Je libo Feig?
 
-<a href="../images/2023_april/18_1.jpg" target="_blank"><img src="../images/thumbnails/2023_april/18_1.jpg"></a>
+<a href="../images/2023_april/18_2.jpg" target="_blank"><img src="../images/thumbnails/2023_april/18_2.jpg"></a>
 
 Protože Feig mi k chuti opravdu nepřišel, pořídil jsem v horní jídelně kromě zapečených špaget ještě makový koláč.
 
-<a href="../images/2023_april/18_2.jpg" target="_blank"><img src="../images/thumbnails/2023_april/18_2.jpg"></a>
+<a href="../images/2023_april/18_1.jpg" target="_blank"><img src="../images/thumbnails/2023_april/18_1.jpg"></a>
 
 Stravování se během jízdy na kole už jsem během let vypiloval na jedničku.
 

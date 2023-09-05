@@ -7,29 +7,24 @@
 
 ### 1.9. Aurou na pozemek
 
-Miška měla v práci nálož<br>
-na sedmou k ní autem<br>
-kočka z map opravdu byla před jejím domem<br>
-draka dovnitř<br>
-aurou k ondrovi<br>
-tunely, spojkou na D1<br>
-zužení a zdržování<br>
-do deště a do temna<br>
-přes mostek a na pozemek<br>
-pozdravit ostatní<br>
-pro věci k autu<br>
-hody: 2 saláty, maso, vege placky co nedržely po hromadě ale byly skvělý<br>
-Miška poslouchá tomáše, který vypráví o havaji a africe<br>
-povídání s nováčkovic o taiwanu<br>
-jarda nakoupil nepivo<br>
-stanové městečko<br>
-deka co smrdí<br>
-před jednou spát<br>
-Miška studené ruceq
+Miška měla v práci nálož práce. Místo jednoho slajdu po ní chtěli 4. Nad rámec její normální práce. Proto jsme se domluvili, že na pozemek nebudeme spěchat a vyrazíme od ní, takže se bude moct připravit a nebude muset jezdit Aurou ve špičce.<br>
+Po práci jsem se otočil doma, sbalil spacák a karimatku, dal si sprchu a vyrazil za Miškou. Když jsem hledal, jak dlouho mi bude trvat cesta, pobavil mě na mapě bod zájmu [Kočka Micka](https://goo.gl/maps/Q3yRhmLu3nYrxabw9). Ještě víc mě pobavilo, když jsem tam na tu kočku opravdu narazil.
+
+<a href="../images/2023_september/1_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/1_1.jpg"></a>
+
+Miška nebrala telefon. Přemýšlel jsem, zda jí do okna házet kamínky, ale vysklít okno v jejich zámku by asi nebylo nejlepší. Po chvilce mi zavolala zpátky a o pár minut později už jsme dávali draka spát do chodby a Aurou vyráželi přes Strahov pro Ondru s Rébou na Břevnov.<br>
+Dálnice byla zasekaná a rozkopaná. Miška jela hezky opatrně a nejen když pršelo. Déšť ale uvalil okolí do naprosté tmy, jako by slunce zapadalo o hodinu dříve. Kousek před pozemkem si Miška nebyla jistá, zda se aura vejde na malý mostek vedoucí k Sáře a Jardovi, ale Ondra už tudy jel dodávkou, tak jí ukazoval a vešla se tam bez potíží.<br>
+Já jsem z auta vyběhl pozdravit ostatní a pak doběhl dozadu, kde mezitím auto zaparkovalo a ostatní vykládali náklady.<br>
+Sára připravila úplné hody. Dva druhy salátů, maso na gril, vegeplacky co nedržely po hromadě ale byly skvělý. A já nevím co ještě. Nováčkovic vyprávěli o Taiwanu. Přivezli víno na vaření, které jsem doufal, že už nikdy nepozřu. Tomáš zas vyprávěl o Africe a Havaji a ukazoval spoutu fotek což Mišku zaujalo. Jízda na polorozpadlých kolech mezi žirafami vypadala fakt dobře.<br>
+Potěšilo mě, že Jarda nakoupil nepivo a tak se mi podařilo nepít. Večer si Karel, Hengalovic a Nováčkovic postavili své stany. Byl to vtipný průřez historií stanování. Já s Miškou jsme měli to privilegium přespávat v Tinyhousu. I když o tom, jestli to bylo privilegium by se dalo polemizovat. Kberec na zemi smrděl psem tak moc, že jsem ho musel srolovat a odnést a podlaha pod ním nebyla taky nic moc. Ale zase jsme byli s Korou a to je srdcehřivé.<br>
+Před spaním měla Miška strašně studené ruce. Trochu jsem jí před spaním svého tepla předal.
 
 ### 2.9. Kostel v Mostě 2.0
 
-Ráno se situace obrátila. Studené ruce jsem měl já, zato Miška hřála jako kamna. Držením ruky mi předala určitě víc tepla, než já večer. Kora s tím ale nějak nesouhlasila. Rozhodla se, že buď s ní nekdo půjde ven, nebo nám oběma bude olizovat hlavu. Vstal jsem tak první a šel jí vyvenčit do lesa za pozemkem. Když jsem se asi po půl hodině vrátil, ostatní už byli vzhůru a Miška dokonce balila spacák, protože stěhovat se spacákem je přece nesmysl.<br>
+Ráno se situace obrátila. Studené ruce jsem měl já, zato Miška hřála jako kamna. Držením ruky mi předala určitě víc tepla, než já večer. Kora s tím ale nějak nesouhlasila. Rozhodla se, že buď s ní nekdo půjde ven, nebo nám oběma bude olizovat hlavu. Vstal jsem tak první a šel jí vyvenčit do lesa za pozemkem. Když jsem se asi po půl hodině vrátil, ostatní už byli vzhůru a Miška dokonce balila spacák, protože stěhovat se spacákem je přece nesmysl.
+
+<a href="../images/2023_september/2_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/2_1.jpg"></a>
+
 Večer děda prohlásil, že vstávat budeme v osm, snídat v devět a pracovat v deset. Až ráno nás napadlo, že to nebylo plánování, ale že si  nás možná dělal srandu, jak zhýčkaní jsme. Rozhodně to tak vypadalo, když jsme snídali a on už byl nastoupený u tinyhousu a přivrtával do něj oka pro hupcuk. Vypili jsme tedy kávy, zkonzumovali chleba s vajíčkovou pomazánkou, humusem a salátem a přidali se k němu. Společně jsme vystěhovali věci z tinyhousu, odpojili kamínka a začali se připravovat na posun. Ondra, Filip a já jsme se dali do zpevňování kolejí. Vrtali jsme plechy a přibíjeli je do spojů trámů. Dřevěnými dlahami je spojili k sobě, flexou srovnali nerovnosti a použili špalíčky k zafixování trámů k podkladu. Tom vyměnil řetězu na pile. Já s Filipem jsme uřízli poslední trám na kolej a s Ondrou jsme jí přidělali na konec. Stejně jsme jich měli málo. Plán byl zvednout dům. Postavit kolej pod ním. Popojet na postavenou kolej, tu z pod domu sundat a přesunoout na pylony na spáleništi. Dědovi se sice nelíbil, ale Tomáš si ho prosadil a nám se to zdálo dobrý. Inu začali jsme tedy dvěma hevery zvedat dům a pomalu ho podkládat špalíky.<br>
 První strana šla dobře. A druhá taky. Postupně jsme zvedli dům dost vysoko na vložení kolejí, spojili je plechem a vruty místo šroubů, protože spoj musel být rozebíratelný a vložili kulánky. Děda zatím připravil tahání. Lano mezi železobetonové sloupky po verandě chaty a kurtnu zaháknutou za řetěz skrz oka na bocích domu. Kvůli jistotě jsme ještě dům obehnali lanem, které poté sloužilo ke korekci trasy.<br>
 Jal jsem se kurtny a začal navíjet. A posunul dům o asi 4 centimetry!<br>
@@ -38,39 +33,27 @@ A šlo to. Dokud jsme nedojeli na další kulánek. Kladl velký odpor a společ
 To šlo o poznání rychleji. Navíjení se ujal Tomáš. My ostatní jsme lany korigovali směr a dm se tak posouval bryskním tempem k železobetonovým sloupkům. Když byl hupcuk navinutý, skončila první fáze a šlo se obědvat. Sára se hodně vytáhla. Připravila výborné Chilli sin Carne s tortilou.  
 Napřed obědvaly holky, potom kluci. <br>
 Holky přesouvaly rododendrony. První malý zvládli vykopat samy a na hloubení díry za chatou zneužily Koru. Velký u brány jim ale dával zabrat a tak jsem jim šel pomoci. Miška prohlásila, že je to absurdní snažení a že rodonendron by radši zapálila, ale Sára se rozhodla, že jí nějaký keř neporazí. Krumpáčem jsem vykopal rigol okolo keře a nechal je vykopávat změkčenou hlínu. Pak jsem pendloval mezi krumpáním a posunem domu. Až do momentu, kdy se podařilo rododendron uvolnit a pomocí fošen jsme ho společnými silami naložili na kolečko.<br>
-Holky pomohly se zatáčením chaty a usazení keře a domu se stalo téměř naráz. Oba nesmyslně náročné úkony byly dokonány. Úspěch jsme oslavili domácí zmrzlinou. Slaný karamel byl přespříliš slaný, ale čokoládová s kokosem byla neskutečně dobrá.<br>
+Holky pomohly se zatáčením chaty a usazení keře a domu se stalo téměř naráz. Oba nesmyslně náročné úkony byly dokonány. Úspěch jsme oslavili domácí zmrzlinou. Slaný karamel byl přespříliš slaný, ale čokoládová s kokosem byla neskutečně dobrá.
+
+<a href="../images/2023_september/2_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/2_2.jpg"></a>
+
 Rozebrali jsme koleje, poklidili některé nástroje a opět na nás přišel hlad. Rozhodli jsme se pro Rybářskou Baštu. Karel vyrazil domů a Nováčkovic se taky sbalili, ale na Večeři ještě vyrazili s námi. Miška tak aspoň viděla okolí a příroda se jí líbila. Z chatových oblastí má ale z mládí trauma.<br>
 Na baště jsme seděli pod stříškou, ze které se na nás spouštěli pavouci. Tomáš byl děsně nerozhodný. Porce tam měli obří a svůj obalovaný květák s bramborem jsem stěží snědl. Miška s tím taky měla co dělat a o poslední sousta jsme se rozdělili. Jenže! Čokoládový fondán se do ní ještě nějak magicky vlezl.<br>
-Zpátky už jsme šli po tmě. U ohně jsme si povídali o Bratrech Mašínech.<br>
+Zpátky už jsme šli po tmě. U ohně jsme si povídali o Bratrech Mašínech a mikroplastech.<br>
 Spali jsme opět v tinyhousu, byť tentokrát s jiným výhledem. Opět jsme potvrdili, že večer má Miška ruce studené a já teplé.
 
 ### 3.9. Válet se na zemi by nám šlo
 
-probudil jsem se grumpy<br>
-tomáš v 8 za dveřmi<br>
-nepivo k snídani<br>
-mexický humus na zbytek chlebu<br>
-o teflonu<br>
-tomáš opravuje kliku<br>
-snídaně se trochu protáhla<br>
-v autě jsme si povídali o tom jak se lidé mění<br>
-hengalovic na břevnově<br>
-auru na strahově se škraboškou a pěšky k mišce<br>
-na drakovi domů<br>
-sprcha a lenošení<br>
-na vršovické náměstí<br>
-stůl v sadech plný<br>
-válíme se na trávě<br>
-o účtenkách, hormonech a spermiogramech<br>
-jdeme hrát<br>
-hraje líp<br>
-až do tmy<br>
-pěšky do grébovky<br>
-opět se válet na trávě<br>
-ježek až k nám<br>
-o pohonu toyoty<br>
-půjdeme do malešic<br>
-na tramvaj a jít brzo spát<br>
+V noci jsem šel čůrat. Koře jsem přikázal aby zůstala uvnitř, ale když jsem se vracel Miška se mě opakovaně ptala, kde jsem Koru nechal i přesto, že ležela vedle nás. Když jí to v polospánku došlo, okamžitě odpadla. Já jsem se ještě chvíli převracel a nějak jsem se celkově vyspal špatně.<br>
+V osm ráno Kora začala šílet, protože Tomáš stál za dveřmi připraven na nový den. Já se necítil připravený vůbec na nic. Byl jsem ještě míň ochotný vstávat než Sára a to je co říct. K snídani jsem si dal nepivo a společně jsme se pustili do zbytku chlebu a humusu. Zbyl taky koriandr a limety a musím říct, že humus po mexicku je teda hodně velká paráda.<br>
+Diskuse se točila kolem produkce masa, mléka, škodlivosti teflonu a zdraví poškozujících nástrahách, které na nás číhají úplně všude. Tomáš, který byl plný energie se pustil do opravy kování v brance. Nakonec došel k tomu, že se tam bude muset dát jiná, protože jde zamčít jen z jedné strany, ale zavírání opravit dokázal.<br>
+Réba večer říkala, že by v Praze byla ráda v 11. Nakonec to ale byla ona s Ondrou kdo vlastně zdržovali. Po desáté jsme se ale rozloučili a vyrazili k Auře. Cestou jsme si povídali o tom jak dlouho se Ondra s Rébou znají a o tom jak se lidé mění.<br>
+Hengalovic jsme vyhodili na Břevnově. Aurou dojeli na Strahov, Miška jí dala škrabošku na spaní, což mě ohromě pobavilo, protože sama s jednou spí a pěšky jsme vyrazili k ní.<br>
+Oba nás čekaly nějaké povinnosti. Sprcha, praní, úklid, oprava stanu a podobně. Chvíli jsme si tak povídali na schodech, ale pak jsem nasedl na draka a vyrazil do Vršovic.
+Po sprše a chvíli lenošení jsem se pustil do opravy stanu. Nebylo o to úplně jednoduchý. Chvíli mi trvalo pochopit, že ta poslední ferule je ve skutečnosti dutá, jen tak kvůli deseti letům zapichování do hlíny nevypadá. Opravené tyčky se ale skládaly skoro samy. Úplná magie. Stan jsem taky vysušil a zabalil, během čehož jsem dokázal ztratit nové kolíky. přeházel jsem půlku bytu a až večer mi došlo, že by mohly být zabalené ve stanovém vaku.<br>
+Protože čas s Mišku se nám před odjezdem do Slovinska krátil, rozhodli jsme se ještě odpoledne sejít a zahrát si stolní tenis v Heroldových sadech. Sešli jsme se na Vršovickém náměstí, ale v sadech byl stůl byl obsazený. Miška s sebou plácla do trávy jako by po válení se toužila celý den. Leželi jsme, pojídali preclíky v čokoládě a povídali si o BPA v účtenkách, hormonech a spermiogramech. Dle statistiky jsou prý chlapi šovinističtí kreténi. Moje slova, ne její, ale silně to naznačila.<br>
+Když se stůl uvolnil odehráli jsme dva sety po třech hrách. Oba jsem vyhrál. Ale už ne zdaleka s takovým náskokem jako minule. Zlepšovala se rychleji než já. Vyhnala nás až tma. Válet se na trávě v Grébovce znělo jako dobrý plán.<br>
+V jednu chvíli k nám přišel ježek. Tak na dva metry blízko. Spekulovali jsme nad tím, jaktože Toyota neřadí, ale z nákresů ním to stejně moc nedocházelo. Rozhodli jsme se, že v úterý půjdeme do Malešic a velmi dospěle, šli snad poprvé brzo na Tramvaj, abychom stihli pořádný spánek.
 
 ### 4.9. Hipsta fairtrade ledovcovou vodou odkofeinovaný zrnkový kafe a bio sójový mlíko
 
@@ -82,3 +65,4 @@ do dmka pro kafe<br>
 zulu spacák?<br>
 jeto domu a zapsat aspoň poznámky<br>
 měsíční deficit<br>
+

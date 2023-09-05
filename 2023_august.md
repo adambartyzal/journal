@@ -28,7 +28,7 @@
 - [26.8. Neprší](#268-neprší)
 - [27.8. Do Vláďova kraje](#278-do-vláďova-kraje)
 - [28.8. Ohnivá Čaša](#288-ohnivá-čaša)
-- [29.8. Bez plánu](#298-bez-plánu)
+- [29.8. Odstávka od akce](#298-odstávka-od-akce)
 - [30.8. Klapky a knedlíky](#308-klapky-a-knedlíky)
 - [31.8. Světlonoš](#318-světlonoš)
 
@@ -460,7 +460,10 @@ podchodem k vodě<br>
 mrtvá krysa tomu trochu ubrala<br>
 na zemi v krásných šatokalhotách<br>
 do rudolfína kolem toxíků a alkáčů<br>
-na podlaze<br>
+na podlaze
+
+<a href="../images/2023_august/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/20_1.jpg"></a>
+
 vzadu oficiální ležení<br>
 až do úplného konce<br>
 na letnou<br>
@@ -470,9 +473,15 @@ rybník na letné?<br>
 dítě co se topí<br>
 chlazení nohou<br>
 pivo u cirkusu?<br>
-na hrad<br>
+na hrad
+
+<a href="../images/2023_august/20_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/20_2.jpg"></a>
+
 lampa co opravdu svítí<br>
-k aslanovi pro vodu, pomalu fotoshooting<br>
+k aslanovi pro vodu, pomalu fotoshooting
+
+<a href="../images/2023_august/20_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/20_3.jpg"></a>
+
 kamínky do okna?<br>
 čas tíží<br>
 přes petřín k mišce<br>
@@ -491,9 +500,15 @@ pěšky na anděl<br>
 tramvají domů<br>
 na kole do práce s hodinovým zpožděním<br>
 karlínský fine dining
+
+<a href="../images/2023_august/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/21_1.jpg"></a>
+
 na kole do billy<br>
 chleba mrkev rajče cottage<br>
-na letnou, naproti dětem<br>
+na letnou, naproti dětem
+
+<a href="../images/2023_august/21_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/21_2.jpg"></a>
+
 réba s ondrou plavou<br>
 za jardy nic nevypadlo<br>
 asi bude chcát<br>
@@ -511,13 +526,21 @@ stoupák<br>
 vre vesnici jsme prý kokoti nesmírní<br>
 asi se pohádali<br>
 sjezd skrz vodochody<br>
-paní v kralupech další problém<br>
+paní v kralupech další problém
+
+<a href="../images/2023_august/22_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/22_1.jpg"></a>
+
 bojí se tmy bez blikaček<br>
-krásný západ slunka<br>
+krásný západ slunka
+
+<a href="../images/2023_august/22_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/22_2.jpg"></a>
+
 sjezd do unetic a pak ten ze suchdola<br>
 v karlíně se dělíme<br>
 
 ### 23.8. Jahody a Šotoušství
+
+<a href="../images/2023_august/23_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/23_1.jpg"></a>
 
 áďa přišla s jiskrou v oku že ví co hezkého se jí stalo - houby bez červů od nymburka<br>
 hoří jako když se pálí guláš<br>
@@ -551,14 +574,11 @@ QT jsem uložil k ledu, v GMku koupil lineární zdroje a osadil je na G2 zámky
 <a href="../images/2023_august/24_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_2.jpg"></a>
 
 Byť Miška v tom viděla paní na podpatcích.
-
-<a href="../images/2023_august/24_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_3.jpg"></a>
-
 Anet poslala fotky ze svatby. Po práci jsem si je chvilku procházel. Chtěl jsem vidět Mišku, ale ve stromovce na ní čekali Ondra, Iva a Pepa. A já musel nakoupit kolíky do stanu a věci k jídlu.<br>
 Levné kolíky měl dekáč až na Chodově. Ale jsem chudý na to abych kupoval levné věci. Koupil jsem lehčí a lepší kolíky na Smícháči. A strávil tam vlastně docela dost času. Dost na to aby mi vyhládlo a musel jsem to zahnat houskou z tesca, kterou se mi u kasy podařilo hodit do koše vedle samoobslužné pokladny.<br>
 Doma jsem vyhodil věci a pěšky došel do Lidlu. Rozhodl jsem se, že nebudu na vodě pít. Koupil jsem tak jen jídlo a vyrazil ven, kde jsem narazil na osamělou Koru.<br>
 
-<a href="../images/2023_august/24_4.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_4.jpg"></a>
+<a href="../images/2023_august/24_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/24_3.jpg"></a>
 
 Počkal jsem na páníčky a vyrazil s nimi k nám. Až tak moc jsme nepokecali. Stejně ale měl přijít Petr s Robinem, tak nebylo moc času. Ti se ozvali, když jsem vykládal nákup. Že prý potřebují pomoct, protože mi nesou nože od Dědy. Došel jsem jim naproti k pizzerii, kde nakupovali večeři a společně jsme věci donesli k nám.<br>
 Petr opět sledoval fotbal. Robin byl unavený a otravoval Petra s nic moc kloudnýho z něj nevypadlo. Šel brzo spát a vlastně jsme byli to tak s Petrem viděli taky. Dal jsem si sprchu a natáhl pyžamo.<br>
@@ -572,13 +592,10 @@ Seběhli jsme tak na Ostrčilák a po dlouhém objetí nastoupili tramvaje v opa
 
 ### 25.8. Těžká novina
 
-hluk a horko<br>
-petr s robinem vyráží dřív než já<br>
-moc se mi nechce<br>
-na kole do malešic<br>
-kurýr<br>
+V noci byl hluk a horko. Nevyspal jsem se nejlíp a vlastně jsem ten přerušovaný spánek natahoval déle než obvykle. Petr s Robinem tak vstali dřív než já. Taky jsem vlastně neměl úplně moc důvod chvátat. Chtěl jsem si v Malešicích odchytit chybu při připojování na WiFi a všichni z výroby mli dovolenou, takže jsem tam plánoval být sám.<br>
+Omar měl nakonec štěstí, že jsem tam byl, protože přijel nějaký kurýr, který chtěl zaplatit.<br>
 
-Dneska jsem potvrdil, že problémy řeším následovně:
+Během dne jsem potvrdil, že problémy řeším následovně:
 
 - Moc nevím a plácám se v tom.
 - Když začnu být zoufalý, popíšu detailně co dělám Vláďovi.
@@ -588,58 +605,122 @@ Dneska jsem potvrdil, že problémy řeším následovně:
 - Pochlubím se jak jsem to vyřešil.
 - Vláďa napíše, že takhle mi radí rád.
 
+Odpoledne přijel DJ opravovat testovací kola. Ještě jsem změnu v qtCommonu implementoval v qTesteru a ověřil, že funguje na jejich novém testeru.<br>
+Po třetí jsem jel domů. Připravit se na vodu a dojíst zbytky, které by se přes víkend zkazily. Když jsem se balil, zavolal mi Jarda, že nepojedou, protože Sáře se zabila máma. To byl teda šok. Poprosil mě, ať to vyřídím s ostatními.<br>
+Přemýšlel jsem jestli má vůbec smysl jet, ale pro Sáru tu byl Jarda a v Praze bychom akorát zvyšovali míru chaosu. Navíc Marťa s Vildou už vyrazili autem, nebo jsem si to aspoň myslel. Zavolal jsem Ondrovi a Rébu napadlo, že Nováčkovic by se vešli do uvolněné lodě. Ale už vyrazili do Jižních Čech na chatu a pomáhat babičce.<br>
+Inu dobalil se, sedl na sedmičku, v Albertu na Andělu koupil 3 štávo-piva a úplně zbytečně popojel tramvají na zastávku *Na Knížecí*, která je od autobusáku dál než Anděl. Réba ani Ondra nebyli v dohledu. Ondra nestíhal a musel si vzít tágo, Réba se objevila po chvíli čekání. Zaplatila za nás za všechny a pomalu jsme se vydali do Jižních Čech.<br>
+Pomalu proto, že na silnici byla zácpa a bylo jasný, že vlak ze Strakonic nestihneme. Zato jsme stihli dvojitou duhu.
+double rainbow all the way
+
+<a href="../images/2023_august/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/25_1.jpg"></a>
+
+V druhém autobusu, kterým jsme mohli uplně v klidu jet už z Prahy jsme nabrali Marťu s Vildou se spoustou tašek. Za okny byla zlatá hodinka a do Sušeice to byla taky tak hodinka.
+
+<a href="../images/2023_august/25_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/25_2.jpg"></a>
+
+V Sušici jsme ještě popojeli městskou a pak prošli pěšky kemp, kde jsme se rozhodli nestanovat. Tábořiště jsme rozbili za lesíkem nad jezem, kde jsme měli druhý den začínat.<br>
+Můj byl v tristním stavu. Sice už jsem měl kolíky, ale tyčky měly zpřetrhané gumy a bez těch se nestaví zrovna nejlíp.<br>
+Společně jsme uvařili v Marťině hrnci kuskus a asi do jedenácti si povídali.
+
 ### 26.8. Neprší
 
-přší<br>
-100 spacích bodů<br>
-buchty k snídani<br>
-pod stromy docela dobrý<br>
-snídaně tam<br>
-balení stanůa na mokro<br>
+Ráno pršelo. Siri řekla, že to přejde a v dálce se déšť trhal, tak jsem jí pro jednou věřil. Ale stan by neuschnul, takže jsem ho zabalil mokrý. Posnídal jsem buchty ze slevněnky, ale tentokrát jsem se napálil. Na poslední řádce byla plíseň a já to naneštěstí objevil až v puse.<br>
+Hodinky mě poprvé odměnily stem ze sta spacích bodů. Necítil jsem se dokonale vyspaný, ale tak nějak ok asi jo. Ostatní balili stany až po mně a já se tak mohl skrývat před deštěm v lesíku.<br>
+Zavolal jsem do půjčovny, že jednu loď nebudeme potřebovat.
 dolů, přes most, vyhodit odpad, 
 samba půjčovna, fronta lidí, marťa občanku, tři samby,
 pro vodu ke zmrzlinářce, ostatní taky, 3 velké zmrzliny,
 pod jezem na vodu,
 docela to teče, počasí se vylepšilo, otava pěkná přírodní,
 jet sám jde, sedím na rantlu,
-pod rábím krásný výhled na hrad,
+pod rábím krásný výhled na hrad
+
+<a href="../images/2023_august/26_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/26_1.jpg"></a>
+
 před mostem koupačka a birell,
 první jez je rozbořený
+
+<a href="../images/2023_august/26_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/26_2.jpg"></a>
+
 oběed v kulturáku, drahý smažák, tak radši sladký knedlíky, 4 kofoly, jedno pivo<br>
 o celine
 
 ### 27.8. Do Vláďova kraje
 
+<a href="../images/2023_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/27_1.jpg"></a>
+
+<a href="../images/2023_august/27_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/27_2.jpg"></a>
+
 ### 28.8. Ohnivá Čaša
 
-### 29.8. Bez plánu
+do knihovny<br>
+buď kartičku na lepší piáno, nebo sluchátka na klapky v dětské zóně<br>
+jiný plán<br>
+šachy v kavárně, nemají, pán poradil, bez kartičky to nejde, ale pán nás pustil<br>
+her trilión<br>
+našel jsem krabici schach.
+
+<a href="../images/2023_august/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/28_1.jpg"></a>
+
+dvě partie
+
+<a href="../images/2023_august/28_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/28_2.jpg"></a>
+
+z knihovny k mišce s kolem v ruce<br>
+pršelo tak jsme si dali zmrzlinu<br>
+v albertu věci na kotlik<br>
+přes jiráskův most, pod památným stromem, malou zoo, sacrecour až k ní<br>
+terka vařila, tak jsme připravili film<br>
+ohnivý pohár je ohnivá čaša<br>
+vaření kotlíku a film<br>
+konec filmu ruku v ruce<br>
+domů v pěkný kose<br>
+
+### 29.8. Odstávka od akce
+
+Miška šla s Ondrou a Ivou do divadla a já jsem si řekl že budu doma dopisovat deník a prát. 
 
 ### 30.8. Klapky a knedlíky
 
-noční můra v šest<br>
-10 po ránu<br>
-marťa před domem<br>
-v mírném dešti přes vinohrady<br>
+Ráno mě probrala nějaká hnusná noční můra. Nějak v ní figurovaly hádající se rodiče, ale zpětně si vybavuju jen ten nepříjemnej pocit z toho snu. Rozhodl jsem se to vyběhat a byť jsem plánoval pět, uběhl jsem celou desítku. Když jsem před domem vydýchával, přišla ke mně Marťa s Cedrikem. Prý ještě těžce nesl loučení s mamkou, ale už pomalu zapomínal.
+Taky se trochu rozpršelo a během jízdy přes vinohrady jsem musel pomalu abych nebyl ohozenej blátem.<br>
+Po práci jsme měli s Miškou v plánu uspořádat reparát minulého neúspěchu s piánem. Cestou jsem se v Albertu zastavil pro sváču a pak jel přes celetnou. Nechápu jestli celetná je pěší zóna nebo ne, ale měla by. Dorazil jsem první. U piána seděla holčina, ale zeptal jsem se jak dlouho bude hrát a prý zrovna končila. Zabral jsem tak klapky po ní a po malé chvilce se Miška objevila na točitých schodech.<br>
+Digitální klapky mají jednu nespornou výhodu. Zabudovaný metronom. Donutil jsem Mišku hrát podle něj. Jsem hroznej fuhrer. Ale lepší se učit pořádně už od začátku. Když se do tho dostala víc, začal jsem si nahoře blbnout. Čím dál víc jazzově.
 
-do knihovny se zastávkou pro pečivo<br>
-jsem tam první<br>
-holčina u klapek<br>
-končí a zabírám klavír<br>
-miška v zápětí<br>
-trénuje dole co se naučila dole<br>
-já si nahoře blbnu, víc a víc jazzově<br>
-metronom a ležení na zemi<br>
-asitata pobavilo, že hraju z podlahy<br>
-v půl osmé končíme<br>
-co teď, hlad, na kolech na letnou<br>
-občas spíš chůze než jízda<br>
-kola za billou<br>
-dim sum<br>
-4 chutě: 
-bezedný čaj a konvička<br>
-státy ameriky
+<a href="../images/2023_august/30_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/30_1.jpg"></a>
+
+V jednu chvíli jsem ležel na podlaze a jen tak si drnkal poslepu nad hlavou což pobavilo kolemjdoucího asiata. Bavilo nás to až do půl osmé. Ale přemohl nás hlad.
+
+<a href="../images/2023_august/30_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/30_2.jpg"></a>
+
+Co s tím?Miška se rozhodla, že nejlepší řešení bude, vzít kola a dojet na Letnou do knedlíčkárny. Nextbike přes ošemetná místa spíš vedla, ale když jsme zajeli víc k vodě a potom na Letnou, valila snad rychleji než já. Kola jsme zamkli za Billou a pěšky vyrazili do pasáže na Milady Horákové.<br>
+Bylo docela nacpáno, ale usadili nás. Vybrali jsme 4 příchutě.
+
+- Tofu s hráškem a mátou
+- Tempeh se zelím
+- Shitake s arašídy
+- Kořeněnou mrkev s petrželí
+
+Miška si dala nekonečný jasmínový čaj a já konvičku s bylinkovým čajem. Bylo to super. Poměrně vysoká cena se tak dala skousnout.<br>
+Po jídle jsme se snažili vyjmenovat co nejvíc států USA. Docela jsme pohořeli. Dal jsem jich 30. Mišku ale ještě honila mlsná. Rozhodli jsme se tak dát si ještě 4 sladké knedlíčky. Bylo to strašně dobrý. Trochu jako štrůdl, ale vlastně ne. Omáčka byla trochu jako šodó ale taky ne. Nadchlo mě to.<br>
+Po dojedení a dopití jsme se vrátili na Letenskou pláň, kvůli houpačkám. Vzdálenější nám přišly větší, ale nebylo tomu tak. Houpali jsme se tam asi půl hodiny. Teda houpala se ona, mě z toho bylo docela blbě.<br>
+Nakonec jsme se ale vrátili ke kolu a k tramvaji. I přes mou nedůvěru mířila miška na dvanáctku směrem dolů na Štross. Ale když přijela, dala mi za pravdu, že měla jet tou opačnou, která minutku nazpátek.
 
 ### 31.8. Světlonoš
 
-do
+Ptal jsem se Davida jak se má a vypadlo z něj, že *Gauč je můj kamarád*. Na říjen měl naplánované vyndavání šroubů z nohy a do té doby toho moc nenachodí. Vlastně toho nenachodí moc ani potom. Po zákroku by měl mít rehabilitace a chodit by měl až někdy na jaře. Rozhodli jsme se proto s Miškou, že ho navštívíme aby mu z bytu nepraskla kebule.<br>
+Miška toho ale měla v práci hodně. A v průběhu dne jim ještě přidali další práci. Navíc měla po práci odvézt firemní auto někam na Jarov. Vymysleli jsme to tak, že z Jarova pojede jedničkou na Letnou, nakoupíme něco v Bille a na kolech se vydáme na Veleslavín za Davidem.<br>
+A tak se taky stalo. Jen do Holešovic přijela nějaká skleslá. Ale nakoupili jsme nějaké pečivo, žervé, fazolovou pomazánku, šťávo-nepivo a tonic a před krámem si půjčili nextbike. Přes křižovatky ho Miška spíš vedla. Ale na Letné už naskočila a šlapala do pedálů. Kolem hradu nejsou oddělené cyklopruhy a tak jsme na rebela jeli po chodníku. Možná je i legalizovaný. Minimálně část je.<br>
+Trochu jsme se nepohodli ohledně cyklostezky do Střešovic, po které už jsme spolu prý jeli. Pivo na Zdenině oslavě mi to opravdu vymazalo z hlavy. Ale stál jsem si za svým a řekl jsem, že to později zjistím ze záznamu. Musel jsem se omluvit, protože měla pravdu.<br>
+Cukrovarnická ulice je moc hezká. Platanová alej, domy pro úplně jinou sociální vrstvu než jsme my. Ale ty výhledy!<br>
+K Davidovi jsme se Střešovicemi a Vokovicemi motali snad hodinu. Mišky nextbike špatně řadil. Mrzelo mě to. Asi kvůli tomu trochu trpěla. Ale dorazili jsme zrovna v momentu, kdy se David vyptával, zda jsme se ztratili.<br>
+Nebyl jsem u nich doma dlouho. Výhled tam opravdu stojí za to.
 
+<a href="../images/2023_august/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/31_1.jpg"></a>
+
+Povídali jsme si o tom co hezkého se nám stalo za dobu co jsme se neviděli a co nás překvapilo. David je překvapivě otevřený člověk. Mluvi o operaci a musím říct, že jsem mu to nezáviděl.<br>
+Vybrali jsme hru Glow. Bára se k nám přidala a David luštil a vysvětloval jak se ta krásně černobíle malovaná hra s obřím množstvím kostek vlastně hraje. Hra to byla skvělá a Bára nás drtila. Prý poprvé. Když nás porazila, měla z toho skoro dětskou radost. Ještě chvíli jsme si povídali, ale pak se odebrala ke čtení Harryho Pottera a my jsme se rozloučili s Davidem a vyrazili dom.
+
+<a href="../images/2023_august/31_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/31_2.jpg"></a>
+
+Miška utíkala na metro, ale na Kafkový měla čekat asi 13 minut. Najdel jsem jí frčákem po Evropské a počkal s ní na autobus. Dali jsme si tak závod a kolo vyhrálo. Ale neměl jsem z tý jízdy dobrej pocit. Radši bych jel tramvají domů s ní.
