@@ -4,6 +4,8 @@
 - [2.9. Kostel v Mostě 2.0](#29-kostel-v-mostě-20)
 - [3.9. Válet se na zemi by nám šlo](#39-válet-se-na-zemi-by-nám-šlo)
 - [4.9. Hipsta fairtrade ledovcovou vodou odkofeinovaný zrnkový kafe a bio sójový mlíko](#49-hipsta-fairtrade-ledovcovou-vodou-odkofeinovaný-zrnkový-kafe-a-bio-sójový-mlíko)
+- [5.9. Byla rychlejší](#59-byla-rychlejší)
+- [6.9.](#69)
 
 ### 1.9. Aurou na pozemek
 
@@ -66,3 +68,13 @@ zulu spacák?<br>
 jeto domu a zapsat aspoň poznámky<br>
 měsíční deficit<br>
 
+### 5.9. Byla rychlejší
+
+Protože jsem srab a všechno mi hrozně moc trvá. Nakonec to musela být Miška, kdo se zeptal jestli k ní cítím něco víc než jen kamarádství. Zeptala se na to když jsme šli Malešickým lesem po pikniku v Malešickém parku. Odpověděl jsem jí že je to tak. A že chci aby z toho bylo víc a že to myslím vážně. A z lesa zpátky do parku houpat se na houpačkách už jsme nešli jako kamarádi, ale jako pár.<br>
+Maličko jsem to čekal. Konec konců, tak nějak podivně platonicky jsme spolu chodili už dlouho. A Miška mi psala, že se mě na něco chce zeptat a že jí k tomu mám popostrčit. Takže jsem jí do toho postrkával. Od jízdy autobusem z Tachovského náměstí. Během nakupování zeleniny, pomazánky, pečiva a dvou moc dobrých čokoládových zmrzlin. Během Pikniku a polehávání v trávě kousek od šlapací zvonkohry v parku. A během procházky lesem.<br>
+Když jsme pak seděli u houpaček, měla najednou ruce teplejší než já. Prý z toho, že jsem jí prohnal stresem. Taky prý věděla, že spolu chodíme dřív než já. Už na Madeiře si prý uvědomila, že je v *průseru*. Ten termín mě pobavil. Dostat někoho do průseru by mi šlo.<br>
+Ve zbytku večera jsme chodili po parku a hráli si s vodními hračkami. Bože já jsem opravdu jak dvanáciletej. Nakonec jsme ruku v ruce vyrazili na Želvu odkud jí jela 26ka. Na zastávce jsme se rozloučili. Vlastně na hodně dlouhou dobu. A já jsem šel hledat sdílené kolo, které by mě dovezlo domů.<br>
+Jak vymyslet první rande, když spolu vlastně randíme posledního půl roku? *Napřed kamarádi* má svoje nevýhody. Jediný na co jsem přišel byl fakt, že na výletě do Slovinska mi bude hrozně moc chybět. Ale měl jsem na co se těšit!
+
+
+### 6.9. 
