@@ -3,7 +3,7 @@
 - [1.9. Aurou na pozemek](#19-aurou-na-pozemek)
 - [2.9. Kostel v Mostě 2.0](#29-kostel-v-mostě-20)
 - [3.9. Válet se na zemi by nám šlo](#39-válet-se-na-zemi-by-nám-šlo)
-- [4.9. Hipsta fairtrade ledovcovou vodou odkofeinovaný zrnkový kafe a bio sójový mlíko](#49-hipsta-fairtrade-ledovcovou-vodou-odkofeinovaný-zrnkový-kafe-a-bio-sójový-mlíko)
+- [4.9. Hipsta kafe](#49-hipsta-kafe)
 - [5.9. Byla rychlejší](#59-byla-rychlejší)
 - [6.9.](#69)
 
@@ -57,24 +57,31 @@ Protože čas s Mišku se nám před odjezdem do Slovinska krátil, rozhodli jsm
 Když se stůl uvolnil odehráli jsme dva sety po třech hrách. Oba jsem vyhrál. Ale už ne zdaleka s takovým náskokem jako minule. Zlepšovala se rychleji než já. Vyhnala nás až tma. Válet se na trávě v Grébovce znělo jako dobrý plán.<br>
 V jednu chvíli k nám přišel ježek. Tak na dva metry blízko. Spekulovali jsme nad tím, jaktože Toyota neřadí, ale z nákresů ním to stejně moc nedocházelo. Rozhodli jsme se, že v úterý půjdeme do Malešic a velmi dospěle, šli snad poprvé brzo na Tramvaj, abychom stihli pořádný spánek.
 
-### 4.9. Hipsta fairtrade ledovcovou vodou odkofeinovaný zrnkový kafe a bio sójový mlíko
+### 4.9. Hipsta kafe
 
-Po měsíci do bazénu<br>
-lidem ukazuji časosběr<br>
-vietnamka zdražila a změnila čísla<br>
-nákupy na desky za asi 10 tisíc<br>
-do dmka pro kafe<br>
-zulu spacák?<br>
-jeto domu a zapsat aspoň poznámky<br>
-měsíční deficit<br>
+Vyrazil po ránu plavat. Kilometr mi dal docela zabrat. Ráno sice bývám docela chcípák, ale měsíc bez multisportky byl znát.<br>
+V práci jsem se chlubil časosběrem z posouvání domu. Taková věc se děje jednou za život. Se Štěpánkou jsme vyrazili do Vietnamky. Zdražili. A změnili čísla. Mátlo to jak zákazníky, tak číšnice. Ale Bún Dau Nam Bo uměli pořád dobře.<br>
+Vláďa se pustil do nákupu na FBMC, FBBC, EBR a nový G2LOCK. Včetně baterií to byl docela nákup. Komínem proletělo asi deset tisíc. Ale oproti Ivanovi jsme šetřílkové.<br>
+Kafe mi došlo. A vlastně i mléko. Rozhodl jsem se, že si pořídím kafe z DMka. Koupil jsem Fairtrade, ledovcovou vodou kofeinu zbavenou, zrnkovou kávu puro a bio sójové mléko s rain forest aliance značkou. Víc Karlínskej jsem už ani být nemohl.<br>
+Večer jsem si zapsal nějaké poznámky z víkendu a koukal na spacáky. V mém mi byla zima i v Tiny Housu. Někde ve Slovinsku v horách bych asi chcípl. Zulu Ultralight mi padl do oka. 
 
 ### 5.9. Byla rychlejší
 
 Protože jsem srab a všechno mi hrozně moc trvá. Nakonec to musela být Miška, kdo se zeptal jestli k ní cítím něco víc než jen kamarádství. Zeptala se na to když jsme šli Malešickým lesem po pikniku v Malešickém parku. Odpověděl jsem jí že je to tak. A že chci aby z toho bylo víc a že to myslím vážně. A z lesa zpátky do parku houpat se na houpačkách už jsme nešli jako kamarádi, ale jako pár.<br>
 Maličko jsem to čekal. Konec konců, tak nějak podivně platonicky jsme spolu chodili už dlouho. A Miška mi psala, že se mě na něco chce zeptat a že jí k tomu mám popostrčit. Takže jsem jí do toho postrkával. Od jízdy autobusem z Tachovského náměstí. Během nakupování zeleniny, pomazánky, pečiva a dvou moc dobrých čokoládových zmrzlin. Během Pikniku a polehávání v trávě kousek od šlapací zvonkohry v parku. A během procházky lesem.<br>
 Když jsme pak seděli u houpaček, měla najednou ruce teplejší než já. Prý z toho, že jsem jí prohnal stresem. Taky prý věděla, že spolu chodíme dřív než já. Už na Madeiře si prý uvědomila, že je v *průseru*. Ten termín mě pobavil. Dostat někoho do průseru by mi šlo.<br>
-Ve zbytku večera jsme chodili po parku a hráli si s vodními hračkami. Bože já jsem opravdu jak dvanáciletej. Nakonec jsme ruku v ruce vyrazili na Želvu odkud jí jela 26ka. Na zastávce jsme se rozloučili. Vlastně na hodně dlouhou dobu. A já jsem šel hledat sdílené kolo, které by mě dovezlo domů.<br>
+Ve zbytku večera jsme chodili po parku a hráli si s vodními hračkami. Bože já jsem opravdu jak dvanáciletej. Nakonec jsme ruku v ruce vyrazili na Želvu odkud jí jela 26ka. Na zastávce jsme se rozloučili. Vlastně to mělo být na hodně dlouhou dobu. A já jsem šel hledat sdílené kolo, které by mě dovezlo domů.<br>
 Jak vymyslet první rande, když spolu vlastně randíme posledního půl roku? *Napřed kamarádi* má svoje nevýhody. Jediný na co jsem přišel byl fakt, že na výletě do Slovinska mi bude hrozně moc chybět. Ale měl jsem na co se těšit!
 
 
 ### 6.9. 
+
+Probudil jsem se šťastný. Jako už dlouho ne. Ale hned druhá ranní zpráva od Mišky mě z mého nadšeného obláčku rychle vrátila na zem. Nebo spíš mě vzala vítr z plachet. Dozvěděla se, že Juraj umřel.<br>
+Nenapsala jak a já jsem nechtěl moc vyzvídat. Ale měl jsem o ní strach. Juraj hodně řídil a statisticky bylo pravděpodobný, že se to stalo na silnici. Jenže Miška měla ten den vyzvedávat auto ze servisu a dovézt ho na Roztyly. Bál jsem se, že jí to při řízení rozhodí tak, že si něco udělá. Taky jsem si myslel, že jedou do Bonnu autem a že bude řídit. To mě děsilo ještě víc. Sice je skvělá řidička, ale když ti umře jeden z nejlepších kamarádů, nedá se předpovědět vůbec nic. Slíbila mi ale, že bude opatrná a že do Bonnu letí, takže za volantem nebude. Taky mě poprosila, zda bych se za ní nezastavil před tím než pojedou. Nemohl jsem nepřijet.<br>
+Z práce jsem tak v 10 vyrazil metrem a sice jsme se před vstupem do T-Mobilu nějak minuli, ale po chvilce mě našla a skončili jsme ve smutném objetí.<br>
+Tyhle situace neumím. Nevím co říkat. Ale Eliška Remešová říkala, že nejdůležitější je si s tím druhým prostě sednout do toho bláta. Tak jsme seděli, drželi se za ruku a snažili se vypořádat s nevypořádatelným. A pak jsme stáli v objetí. Objetí léčí říká Miška. Prý už neměla sílu brečet.<br>
+Nevěřila že Juraj už jí nenapíše. A byla na něj naštvaná, protože lezl někde v horách sám a spadl. Já si ho pamatoval jen zběžně. Chodili jsme spolu asi na dva předměty a státnicovali jsme ve stejný den.<br>
+Nakonec už musela jít, objal jsem jí ještě jednou naposledy, sundala ze mě několik jejích vlasů a rozloučili jsme se.<br>
+Když jsem se vracel do Karlína, potkal jsem Vláďu s Ivanem jak jdou na oběd. Nešel jsem ale s nimi do jídelny. Dal jsem si něco ve Vegance. Ve zbytku pracovního dne na mě šla podivná tíha. Vlastně se to může stát každýmu. Já jsem byl taky v horách sám. Jasně, nelezl jsem někde bez zajištění. Ale smekne se ti kolo v blbým místě, vletíš pod auto a je to hned.<br>
+Zkusil jsem ten blbej pocit po práci vyplavat. Mechanicky jsem točil rukama a počítal pořád do kola do tří. Trochu to pomohlo. Miška mi občas napsala, ale bylo jasný, že prostě není v poho a ještě dlouho nebude. Naplánovala, že v pátek poletí do Katovic, s taťkou se potká v Ostravě a pojedou na pohřeb do Popradu. Ptal jsem se, jestli bych neměl jet taky, ale prý to nebylo třeba.<br>
+Do kina naslepo jsem dorazil před sedmou a šel jsem psát deník. Réba psala, že tentokrát budeme sami dva. Potěšilo mě, že to nezazdila.
