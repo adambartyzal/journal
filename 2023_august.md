@@ -19,7 +19,7 @@
 - [17.8. Barák jde do hajzlu a DB ruší vlaky](#178-barák-jde-do-hajzlu-a-db-ruší-vlaky)
 - [18.8. Cesty nevedou do Říma ale k Adamovi](#188-cesty-nevedou-do-říma-ale-k-adamovi)
 - [19.8 Za Mamkami](#198-za-mamkami)
-- [20.8. Na letný je Rybník!](#208-na-letný-je-rybník)
+- [20.8. Na Letný je Rybník!](#208-na-letný-je-rybník)
 - [21.8. Strategická porada](#218-strategická-porada)
 - [22.8. Krajem zlých lidí](#228-krajem-zlých-lidí)
 - [23.8. Jahody a Šotoušství](#238-jahody-a-šotoušství)
@@ -448,72 +448,49 @@ klidke po jídle<br>
 20 minut na vlak<br>
 tak akorát<br>
 
-### 20.8. Na letný je Rybník!
+### 20.8. Na Letný je Rybník!
 
-pára mi dýmí na oblečení
-pěšky na zmrzlinu<br>
-dle googlu prý 40 minut<br>
-mě to trvalo 41.. čest googlu<br>
-s Miškou v podstatě naráz
-do kornoutu veganskou čokoládu a lesní ovoce a do kelímku pistáciovou s 
-podchodem k vodě<br>
-mrtvá krysa tomu trochu ubrala<br>
-na zemi v krásných šatokalhotách<br>
-do rudolfína kolem toxíků a alkáčů<br>
-na podlaze
+Praní už jsem odkládal dlouho. Když jsem se do toho konečně pustil a věšel prádlo venku na šňůry, na nádraží začali přikládat uhlí do parní lokomotivy a půlka Vršovic smrděla kouřem. To jsem moc nevyhrál.<br>
+Jeden z našich plánů s Miškou bylo vyrazit na zmrzlinu. Bylo horko, a tak se tenhle plán vybral skoro sám. Ale protože jsme akční, neplánovali jsme jen zmrzlinu, ale i návštěvu Rudolfínské galerie. Měli tam mít nějakou zvukovou instalaci.<br>
+Vyrazil jsem pěšky. Nechtělo se mi utrácet za městskou. Vyrazil jsem docela v předstihu, ale musel jsem se vracet domů a tak jsem nabral zpoždění. Když jsme byl na Otakarce, volala mi Miška, jak dlouho mi to bude trvat. Řekl jsem, že nevím, ale že jdu pěšky a Google Mapy vytrénované na její rychlost chůze (což podle google fóra, ta aplikace nedělá) prý odhadly, že mi to bude trvat 40 minut. Rozhodla se, že pojede dopravou a vystojí frontu u Crème de la Crème.<br>
+Šel jsem na Karlov, psychiatrický zahrada byla zase zavřená, Štěpánskou, kolem Neustadtu, ke Kafkový hlavě a po národní ke zmrzlinárně a trvalo mi to asi 41 minut. Palec nahoru pro Google. Miška dorazila minutu po mě. Prý se autobus zasekl, kvůli nějaké paní.<br>
+Dal jsem si do kornoutu veganskou čokoládu a lesní ovoce a Miška do kelímku pistáciovou v kombinaci s lesními plody s levandulí. Oboje bylo mrtě dobrý. Rozhodli jsme se jít se zmrzlinou k vodě a já si vzpomněl, že jsem ještě nešel nově vykopaným podchodem k Vltavě. Sešli jsme tam, objevili že podchod je vlastně bar a sedli si na břeh řeky.
+Miška seděla na zemi v jejích krásných šato-kalhotách. Ptal jsem se jí, jestli jí to neva. Ale prý se mnou je to většinou takový, takže to čekala. Zase stoupla v mých očích.<br>
+Po dojedení zmrzliny bylo načase vyrazit do galerie. Vlastně bylo skoro pozdě. Měli jsme necelou hodinu do zavíračky. Skrz parky toxíků a alkáčů jsme došli do Rudolfina a chvíli bloumali prázdnými místnostmi, ve kterých potichu hrála ambientní hudba umělce Briana Ena.<br>
+Oba jsme došli k tomu, že nejlepší bude lehnout si doprostřed místnosti na zem.
 
 <a href="../images/2023_august/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/20_1.jpg"></a>
 
-vzadu oficiální ležení<br>
-až do úplného konce<br>
-na letnou<br>
-pivo na stalinu?<br>
-radši nahoru<br>
-rybník na letné?<br>
-dítě co se topí<br>
-chlazení nohou<br>
-pivo u cirkusu?<br>
-na hrad
+Leželi jsme tam třeba 15 minut? Ale pak jsme si řekli, že chceme vidět co je vzadu. Trochu nás pobavilo, že tam bylo oficiální ležení s polštáři na zemi a instalací uprostřed. Která byla mega nudná. Prostě jen taková dřevěná stěna. Ale leželo se tam hezky a tak jsme tam byli až do konce.<br>
+Dál naše kroky směřovaly na Letnou. Přemýšlel jsem o pivu na stalinu, ale zamítl jsem to. Nahoře jsem přemýšlel o pivu u cirkusů, ale zamítl jsem to. Co mě ale skoro vyrazilo dech byl fakt, že na Letný je rybník. Nebo spíš jezero. Loni vyhloubené, letos napuštěné. Čerpadlem, vyčištěnou vodou z Vltavy.
+Sedli jsme si na břeh a chladili nohy. Koupala se spousta lidí včetně kluka co vypadal, že se utopí. Hlídal jsem ho, jestli nejde ke dnu, nakonec doplaval k nějakému pánovi co ho vytáhl. Bylo to tam moc sympatický. Seděli bychom tam asi opravdu dlouho, kdyby nám nedošla voda. Našli jsme pítka na mapě. Na opačné straně Letné a u Hradu.<br>
+Hrad byl cestou k Mišce, což se jevilo jako lepší volba. Chtěli jsme večer dát zapéct cuketu.
 
 <a href="../images/2023_august/20_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/20_2.jpg"></a>
 
-lampa co opravdu svítí<br>
-k aslanovi pro vodu, pomalu fotoshooting
+Přešli jsme tak most do Chotkových sadů, zastavili se na výhledu u letohrádku, prošli zahradami, málem se otočili na podpatku u zavřené brány, kdybych si nevšiml, že druhá vedle je otevřená. Prošli hradem. Zastavili se na výhledu od hradu. Viděli svítit lampu, která tam je vždycky, ale Miška jí viděla poprvé a došli k pítku ve tvaru lví hlavy, která nebyla vyschlá a voda v ní byla moc dobrá.
 
 <a href="../images/2023_august/20_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/20_3.jpg"></a>
 
-kamínky do okna?<br>
-čas tíží<br>
-přes petřín k mišce<br>
-vařit v dokonale uklizené kuchyni<br>
-cuketa, houby, rajčata sýr a ktomu salát a jablka<br>
-předkrm z přebytku<br>
-koukat na film u jídla na zemi<br>
-zbytek na posteli<br>
-zůstávám<br>
+Fotila se tam nějaká paní, ale nevěnoval jsem jí velkou pozornost. Přemýšleli jsme, že půjdeme Ondrovi s Rébou házet kamínky do oken, ale bylo to ještě nekolik bloků daleko a mimo náš směr. Radši jsme vyrazili ke strahovskému klášteru.<br>
+Zastavili jsme se na našem piknikovém místě a pak přes zahrady došli k ní na zámek. Čekalo nás vaření v dokonale uklizené kuchyni. Vydlabat cuketu. Rajčata, žampiony a cuketu podusit v hrnci a pak tím nacpat cuketu a zasypat nastrouhaným sýrem. K tomu Miška udělala salát a nakrájela jablko. Náplně bylo moc, takže jsme měli překrm a rozhodli se pustit si film. Vybral jsem Waltra Mittyho. Mám ten film moc rád, i když je trochu divnej. Koukali a jedli jsme na zemi. Chutnalo to neskutečně dobře.<br>
+Bez talířů jsme se s filmem přesunuli do postele. Mišce se film líbil, což mě zahřálo u srdíčka. Dokoukali jsme ho ale dost po půlnoci, takže jsme se domluvili, že přespím. Dostal jsem supr malý curaprox a po sprše jsme si v posteli ještě chvíli povídali.
 
 ### 21.8. Strategická porada
 
-Je skvělý se probudit vedle Mišky<br>
-pomalé vstávání<br>
-pěšky na anděl<br>
-tramvají domů<br>
-na kole do práce s hodinovým zpožděním<br>
-karlínský fine dining
+Bylo skvělý se probudit vedle ní. Zpětně vzato jsem měl to nebyla špatná příležitost říct, že k ní cítím mnohem víc než jen ke kamarádce. Ať už večer nebo ráno. Vlastně mi to hodně šrotovalo hlavou. Ale nějak jsem se k tomu pořád neměl.<br>
+Vstávali jsme pomalu. Já rád vstávám pomalu, takže jsem to nějak přenesl i na ní. Ale práce čekala a my tam nemohli být věčně. Asi o hodinu později jsme šli parkem dolů na Anděl. Nechtělo se mi loučit, a tak objetí trvalo déle než obvykle. Ale nakonec jí eskalátor odvezl z dohledu.<br>
+Šel jsem na tramvaj. Původně jsem si brousil zuby na rekolo, ale z Vršovic jsem chtěl jet na drakovi, takže jedno kolo stačilo. Doma jsem nemohl najít velké klíče což přispělo k hodinovému zpoždění.<br>
+Na oběd kluci šli do Indie, ale na mě v krabičce čekala cuketa a salát. Karlínský fine dining pod komínem mě opravdu nadchl.
 
 <a href="../images/2023_august/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/21_1.jpg"></a>
 
-na kole do billy<br>
-chleba mrkev rajče cottage<br>
-na letnou, naproti dětem
+Po práci jsme měli naplánovanou strategickou poradu ohledně vody. Pro velké nadšení jsem jako místo srazu navrhl rybník na letné. Sára byla za, neb Kora tam mohla plavat. Vyrazil jsem tak na kole se zastávkou v Bille na Milady Horákové. Koupil jsem trhací chleba, mrkev, rajčata a cottage. Sára napsala, že sedí co nejdál od dětí což mě pobavilo a nebylo tak těžký jí díky tomu najít.
 
 <a href="../images/2023_august/21_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/21_2.jpg"></a>
 
-réba s ondrou plavou<br>
-za jardy nic nevypadlo<br>
-asi bude chcát<br>
-katalpu pro ondru<br>
-kostky pod sešupem jsou zlo
+Réba s Ondrou šli do jezera plavat. Z Jardy nevypadlo skoro nic ohledně měsíce stráveného na Havaji. A co do vody jsme dohodli akorát to, že asi bude chcát a že pojedeme busem a pak dvěma vlaky, protože to je nejrychlejší.<br>
+Při loučení jsme potkali katalpu a Ondra říkal, že by se jim hodila na balkon. Slíbil jsem, že nějakou táta dodá. A pak jsem vyrazil sešupem dolů a jako vždy se dole vyklepal na kostkách.
 
 ### 22.8. Krajem zlých lidí
 
