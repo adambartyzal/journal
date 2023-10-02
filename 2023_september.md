@@ -9,6 +9,27 @@
 - [7.9.](#79)
 - [8.9.](#89)
 - [9.9.](#99)
+- [10.9. Zas ne Albánie](#109-zas-ne-albánie)
+- [11.9. Slovinské AVU](#119-slovinské-avu)
+- [12.9. Humorné přešlapy](#129-humorné-přešlapy)
+- [13.9. Jsem jak Dědek](#139-jsem-jak-dědek)
+- [14.9. Třetí koloseum](#149-třetí-koloseum)
+- [15.9. Neuleželá Adéla](#159-neuleželá-adéla)
+- [16.9. 4-1](#169-4-1)
+- [17.9. Čekej pomalu!](#179-čekej-pomalu)
+- [18.9. Po stopách Hanibalových slonů](#189-po-stopách-hanibalových-slonů)
+- [19.9. Na střechu Evropy](#199-na-střechu-evropy)
+- [20.9. Bivak Apač nebyl zdarma](#209-bivak-apač-nebyl-zdarma)
+- [21.9. Koncentrovaná Itálie](#219-koncentrovaná-itálie)
+- [22.9. Rozmočený Solný Hrad](#229-rozmočený-solný-hrad)
+- [23.9. Vlci a Katalpy](#239-vlci-a-katalpy)
+- [24.9. Zmrzlina na zahřátí](#249-zmrzlina-na-zahřátí)
+- [25.9. První platba přes Sfey](#259-první-platba-přes-sfey)
+- [26.9. 0603](#269-0603)
+- [27.9. Strasti kvůli španělům](#279-strasti-kvůli-španělům)
+- [28.9. Jeseníky, skoroúplněk a první pusa](#289-jeseníky-skoroúplněk-a-první-pusa)
+- [29.9. Dál než jsme chtěli](#299-dál-než-jsme-chtěli)
+- [30.9. Dvojvrstvě opeřená](#309-dvojvrstvě-opeřená)
 
 ### 1.9. Aurou na pozemek
 
@@ -99,9 +120,123 @@ do bazénu<br>
 
 ### 8.9.
 
-
+miška jede na pohřeb<br>
 pro spacák<br>
 domů<br>
 miška jede domů<br>
 
 ### 9.9.
+
+měl bych se balit<br>
+dopo tomu dám<br>
+odpo s marťou na pinčes<br>
+povídáme si o mišce<br>
+telefonát s miškou<br>
+s ondrou do kotvy<br>
+
+### 10.9. Zas ne Albánie
+
+### 11.9. Slovinské AVU
+
+### 12.9. Humorné přešlapy
+
+### 13.9. Jsem jak Dědek
+
+### 14.9. Třetí koloseum
+
+### 15.9. Neuleželá Adéla
+
+### 16.9. 4-1
+
+### 17.9. Čekej pomalu!
+
+### 18.9. Po stopách Hanibalových slonů
+
+### 19.9. Na střechu Evropy
+
+### 20.9. Bivak Apač nebyl zdarma
+
+### 21.9. Koncentrovaná Itálie
+
+Únava a Mišky magnesium zřejmě fungují. Hodinky mi daly 91 spánkových bodů. Co vác, nějak jsem dokázal prospat hluk z párty, déšť, ještě hlučnější párty po skončení deště, štěkání psa, zpěv ptáků a další hluky, které budily Sáru.<br>
+Raní sprcha sice nebyla teplá, jen vlažná, ale příjemně mi nastartovala den. S Jardou jsme uvařili luštěninovou snídani z cibule (Anom stále jsme měli hromadu cibule.), cizrny, která by to do večera nedala a z plechovky fazolí. Byl to překvapivě gurmánský zážitek.<br>
+Na hike se nikomu moc nechtělo. Zvolili jsme místo toho výlet do města Udine, vzdáleného asi 30 minut jízdy autem od kempu. Na Itálii jsme neměli mnoho času a Udine nabízelo architekturu, espresso, těstoviny, gelato a možná i pizzu a další věci, kvůli kterým lidé do Itálie jezdí<br>
+Podél cesty jsme míjeli topinambury, fabriky, políčka, kostely a hory. Podivně mi to připomínalo Vietnam a o tom jsme se cestou bavili. Jarda se Sárou tam v zimě chtějí. Co budu v zimě dělat já mi bylo tajemstvím. Miška plánovala 5 týdnů na Zélandu a i přes to, že jsme si sotva řekli, že spolu chodíme, stýskalo se mi po ní už po pár dnech dovolené.<br>
+V Udine jsme nechali auto v podzemním parkovišti, kde mimo jiné parkovalo hned několik zaprášených veteránů. Líně jsme se přesunuli do centra a kolem dvanácté začali přemýšlet o obědě. Jarda vybral nějakou tratorii kousek od nás a cestou do ní jsme prošli skrz tržiště, kde nám velmi hlučný ital prodal olivy a sýr.<br>
+Restaurace byla nacpaná. Vnitřek vypadal trochu jako irský pub. Překvapilo mě, že místo evropských záchodů byly přítomné turecké díry do země. Jarda se Sárou si dali překvapivě neitalská jídla. Tatarák s burratou a guláš s polentou. Jako předkrm si ale dali penne se sýrovou omáčkou, což bylo jídlo, které jsem já zvolil jako hlavní. Něž ho přinesli, začalo pršet. Lidé se přesouvali dovnitř, ale náš slunečník nás držel víceméně v suchu. Při dojídání ale sloupec vody překonal schopnosti celty a začalo nám pršet do jídla. Zůstali jsme jen já a Jarda. Bylo to docela komické.<br>
+Po jídle jsme se přesunuli na kávu do podniku přes ulici. Zjistili jsme, že do Itálie se dostala káva z Etiopie přes Turecka.<br>
+Dál nás naše kroky vedly na výhled. Šli jsme podél nějaké muzejní na kopci, ve které se konal raut. Na to abychom si mohli nabrat jídlo a pití zdarma jsme vypadali moc jako vágusové. Obzvlášť když jsme zmokli.
+
+### 22.9. Rozmočený Solný Hrad
+
+
+
+### 23.9. Vlci a Katalpy
+
+### 24.9. Zmrzlina na zahřátí
+
+### 25.9. První platba přes Sfey
+
+### 26.9. 0603
+
+plavat<br>
+hot holka, ale já mám hot holku<br>
+ivan v práci, má už skoro hotovu střechu<br>
+fbbc, 0603 je fakt títěrný<br>
+opět do vietnamu<br>
+doma dojíst těstoviny<br>
+kendy přijel<br>
+miška na večeři s huawei<br>
+já s ondrou na pho a pivo<br>
+
+### 27.9. Strasti kvůli španělům
+
+### 28.9. Jeseníky, skoroúplněk a první pusa
+
+I přesto že byl budík nastavený na 4:15, probudil jsem půl hodinu před ním. Kdybych měl zapnuté notifikace, objevil bych, že Miška už mi v té době psala. Možná že mě probudilo to že na mě myslela.<br>
+Domyl jsem nádobí, dal si sprchu, trochu se času měl vlastně dost, ale vlak jsem stejně skoro dobíhám. Jak jinak, mám přece nádraží ta domem.<br>
+Byl jsem v něm téměř sám. Všichni nastupovali až na hlaváku včetně Mišky. Viděl jsem jí z okénka a šel jí ven naproti. Aplikace můj vlak nás posadila za sebe. Jak její stupidní algoritmus funguje je mi vskutku záhadou, posadili jsme se ale vedle sebe. Nacpat Mišky obří krosnu nad nás dalo zabrat. Chvíli jsme si povídali, ale Miška naspala jen asi 3,5 hodin, takže chtěla ještě dohnat aspoň trochu spánku. Zkoušela různé polohy na svém sedle, ale usnout se jí nedařilo. Nakonec jsme se prohodili a opřená o mé rameno, konečně začala podřimovat.
+
+<a href="../images/2023_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/28_1.jpg"></a>
+
+Nad mlhou zalitými loukami kolem České Třebové vycházelo slunce a byla to nádherná podívaná. V Zábřehu jsme přestoupili na vlak do Šumperka. Byl to jeden z těch vlaků co se někde za jízdy rozdělí na dva. V kupé jsme byli se dvěma pejsky a jejich paničkami. Na nádraží v Šumperku jsme přeskupili náklad nebo Miška měla více těžkých věcí a došli ani ne 0,5 km na autobusové nádraží.<br>
+Skoro všichni v autobusu měli stejnou cestu jako my. K rozcestí u skřítka.<br>
+Nutno říct že výhled na Jeseníky nebyl jako výhled do alp. Žádná obří skaliska, za to krásné kopce s loukami protkanými lesy. Ranní světlo si sním hrála a my se začínáme těšit na výšlap.<br>
+Lidem bez cross and jsme dali náskok a pak se pomalu vydali vzhůru na první výlet. Vyprávěl jsem Mišce o filmu předchozího večera. Byl fakt hroznej.<br>
+První výhled mi připomněl Jizeru. Seděli jsme na kamení, jedli k křupínky a koukali na hory, za kterými bylo Polsko. Miška vytáhla svůj nový foťák a fotila trávu, borůvčí, výhledy a kleč.<br>
+Klečí totiž vedla stezka po hřebeni od výhledu k výhledu.
+
+<a href="../images/2023_september/28_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/28_2.jpg"></a>
+
+Zanedlouho jsme na obzoru spatřili Praděd. Hodina pokročila a přicházel hlad. Pan byl uvařit polévku. Sešli jsme ze stezky našli Závětří, A vytáhli ešusy a vařič. Zátka na bombě nám dala zabrat. hráškový krém z pytlíku se trochu připravoval, neboť plná bomba šla špatně regulovat. Nakonec se ale byla dobrá bašta. Polévku z Lidlu jsme vylepšili jarní cibulkou a ředkvičkami, které jsem doma nechtěl nechat shnít a chlebem, který by doma zplesnivěl.<br>
+Na stezce mezitím proudily davy. U Vřesové studánky stála celá procesí. Dál už ale turistů ubývalo. U Vysoké Hole jsme potkali pána, co se vyptával, zda jsme u studánky neviděli lidi stanovat. Přátelsky jsem si s ním povídal a až když jsme se rozdělili, pověděla mi Miška, že to byl strážce parku.<br>
+Minuli jsme starý rezavý vlek. Došli k Ovčárny, dopustili vodu a po asfaltu se vydali vzhůru na Praděd. Tam zase bylo lidí milion. stíny už se ale prodlužovali a když jsme pod křižovatkou nechávali batohy, přišel i vítr. Nahoře u vysílače foukalo opravdu děsivé. Hory v inverzi se zapadajícím sluncem ale byly vskutku nádherné. Miška fotografovala a já jsem se před větrem schovával za sloupem. Po chvíli se ke mně přidala. Byl to skvělý čas na první pusu, Ale já jsem si naplánoval na východ super úplňků, který měl přijít o pár chvil později.
+
+<a href="../images/2023_september/28_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/28_3.jpg"></a>
+
+Zima nás ještě před západem slunka vyhnala zpět k batohům. Teplej jsme se oblékli a za notování si Mňágy, pokračovali ke Švycárně, kde se to stalo. Byla už opravdu tma a já se otočil, protože jsem si myslel, že světla v našich zádech značí přijíždějící auto. Byl to ale extrémně svítící měsíc. Koukali jsme na něj ruku v ruce. zeptal jsem se, jestli jí můžu políbit a dostal svolení. Byla jen taková letmá pusa, ale byla první a vůbec to nebylo divný spíš naopak.<br>
+zbytek večera jsme hledali kde přespat. První nález byl příliš větrný a strmý. Místo mezi zelenou a červenou byla mnohem lepší. Sice jsme se museli prodírat borůvčím, ale nakonec jsem pod jedním stromem našel hezký plácek. Natáhli jsme tarpu a dospěli k názoru že přijdeš těmi nás asi uchránila oba, ale hýbat bychom se nemohli.<br>
+Zabalení ve spacácích Jsme si k večeři dali křupínku s parmazánem a mini mrkvičkami, neb do vaření se nám nechtělo a vlastně jsme neměli moc velký hlad.<br>
+Po jídle jsme ještě demystifikovali naše paměťové zámky a pak už jsme se jen párkrát políbili a šli spát.<br>
+
+### 29.9. Dál než jsme chtěli
+
+Nikdo nás nepřišel pokutovat. V noci kolem nás sice prošli dva lidé s čelovkou ale nemyslím si, že nás viděli. Připravili jsme si snídani, stále schovaný ve spacácích. Ovesnou kaši s čokoládou a do termosky zelený čaj.<br>
+Nepřišlo mi, že bychom byli nějací extra pomalý, ale na stezku českém jsme se z lesa dostali až v 10:30. A ani tak jsme nešli nejrychleji. Na dřevěném chodníčku skrz bažiny Miška rozhodla, že potřebujeme společnou fotku. Na kamenný patník nastražila foťák, a kolem něj jsme procházeli tam a zpátky, podobně jako na balkáně.
+
+<a href="../images/2023_september/29_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/29_1.jpg"></a>
+
+Po červené proudila spousta lidí. Naplánovaná trasa nás vedla z kopce dolů a pak zase do kopce nahoru. Pomalu ale jistě se nám otevíral výhled na Praděd.<br>
+Další asi hodině chůze jsme dorazili do Bělé, kdye jsme plánovali doplnit vodu. V restauraci Červenohorské sedlo jsme si dali nepivo a Kofolu. Když jsem byl na záchodě, proletěl venku ptáček a napálil to přímo do okna. Našel jsem venku Mišku sedící na zemi, držící ptáčka v ruce v obavách, že to nedá. Ale zmátořil se, odlétl na blízkou židli a po chvíli rozkoukávání odlétl pryč.
+
+<a href="../images/2023_september/29_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/29_2.jpg"></a>
+
+<a href="../images/2023_september/29_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/29_3.jpg"></a>
+
+### 30.9. Dvojvrstvě opeřená
+
+<a href="../images/2023_september/30_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/30_1.jpg"></a>
+
+<a href="../images/2023_september/30_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/30_2.jpg"></a>
+
+<a href="../images/2023_september/30_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/30_3.jpg"></a>

@@ -29,7 +29,7 @@
 - [27.8. Do Vláďova kraje](#278-do-vláďova-kraje)
 - [28.8. Ohnivá Čaša](#288-ohnivá-čaša)
 - [29.8. Odstávka od akce](#298-odstávka-od-akce)
-- [30.8. Klapky a knedlíky](#308-klapky-a-knedlíky)
+- [30.8. Klapky a knedlíčky](#308-klapky-a-knedlíčky)
 - [31.8. Světlonoš](#318-světlonoš)
 
 ### 1.8. Na schovávanou
@@ -661,7 +661,7 @@ domů v pěkný kose<br>
 
 Miška šla s Ondrou a Ivou do divadla a já jsem si řekl že budu doma dopisovat deník a prát. Moc jsem tomu nedal. Cítíl jsem že se toho děje moc a že už jsem toho nezapsal tolik, že to prostě nedokážu zachytit. Popadla mě úplná paralýza a tak jsem se radši válel na gauči a koukal na novou Futuramu.
 
-### 30.8. Klapky a knedlíky
+### 30.8. Klapky a knedlíčky
 
 Ráno mě probrala nějaká hnusná noční můra. Nějak v ní figurovaly hádající se rodiče, ale zpětně si vybavuju jen ten nepříjemnej pocit z toho snu. Rozhodl jsem se to vyběhat a byť jsem plánoval pět, uběhl jsem celou desítku. Když jsem před domem vydýchával, přišla ke mně Marťa s Cedrikem. Prý ještě těžce nesl loučení s mamkou, ale už pomalu zapomínal.
 Taky se trochu rozpršelo a během jízdy přes vinohrady jsem musel pomalu abych nebyl ohozenej blátem.<br>
