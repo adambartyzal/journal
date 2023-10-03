@@ -136,25 +136,106 @@ s ondrou do kotvy<br>
 
 ### 10.9. Zas ne Albánie
 
+<a href="../images/2023_september/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/10_1.jpg"></a>
+
+<a href="../images/2023_september/10_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/10_2.jpg"></a>
+
 ### 11.9. Slovinské AVU
+
+<a href="../images/2023_september/11_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/11_1.jpg"></a>
+
+<a href="../images/2023_september/11_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/11_2.jpg"></a>
+
+<a href="../images/2023_september/11_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/11_3.jpg"></a>
+
+<a href="../images/2023_september/11_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/11_3.jpg"></a>
 
 ### 12.9. Humorné přešlapy
 
+<a href="../images/2023_september/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/12_1.jpg"></a>
+
+<a href="../images/2023_september/12_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/12_2.jpg"></a>
+
+<a href="../images/2023_september/12_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/12_3.jpg"></a>
+
 ### 13.9. Jsem jak Dědek
+
+<a href="../images/2023_september/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/13_1.jpg"></a>
+
+<a href="../images/2023_september/13_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/13_2.jpg"></a>
+
+<a href="../images/2023_september/13_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/13_3.jpg"></a>
 
 ### 14.9. Třetí koloseum
 
+<a href="../images/2023_september/14_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/14_1.jpg"></a>
+
+<a href="../images/2023_september/14_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/14_2.jpg"></a>
+
+<a href="../images/2023_september/14_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/14_3.jpg"></a>
+
 ### 15.9. Neuleželá Adéla
+
+<a href="../images/2023_september/15_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/15_1.jpg"></a>
+
+<a href="../images/2023_september/15_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/15_2.jpg"></a>
 
 ### 16.9. 4-1
 
+<a href="../images/2023_september/16_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/16_1.jpg"></a>
+
+<a href="../images/2023_september/16_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/16_2.jpg"></a>
+
+<a href="../images/2023_september/16_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/16_3.jpg"></a>
+
 ### 17.9. Čekej pomalu!
+
+<a href="../images/2023_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/17_1.jpg"></a>
+
+<a href="../images/2023_september/17_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/17_2.jpg"></a>
+
+<a href="../images/2023_september/17_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/17_3.jpg"></a>
+
+<a href="../images/2023_september/17_4.jpg" target="_blank"><img src="../images/thumbnails/2023_september/17_4.jpg"></a>
+
+<a href="../images/2023_september/17_5.jpg" target="_blank"><img src="../images/thumbnails/2023_september/17_5.jpg"></a>
 
 ### 18.9. Po stopách Hanibalových slonů
 
+<a href="../images/2023_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_1.jpg"></a>
+
+<a href="../images/2023_september/18_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_2.jpg"></a>
+
+<a href="../images/2023_september/18_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_3.jpg"></a>
+
+<a href="../images/2023_september/18_4.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_4.jpg"></a>
+
 ### 19.9. Na střechu Evropy
 
+<a href="../images/2023_september/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/19_1.jpg"></a>
+
+<a href="../images/2023_september/19_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/19_2.jpg"></a>
+
+<a href="../images/2023_september/19_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/19_3.jpg"></a>
+
 ### 20.9. Bivak Apač nebyl zdarma
+
+Zdály se mi dějem extrémně nabité sny. Vlastně jsem v nich vůbec nevystupoval. Byla to zvláštní směsí cestu Suffit o umělých planetách, ještě divnější m experimentu ve dvou skupinách sledovaných televizi a… Inu Pointa se mi ráno rychle vytratila.<br>
+Zato se objevily Strážci zákona. Podle nich přespávání v bivaku Apač Nebylo vůbec legální. I když jsme jim říkali že na dveřích je napsáno bivak, nejsou zamčená a nikomu naše prespání nevadilo, Odmítli s námi diskutovat, a řekli že domek slouží skautům a že dlužíme 41 € na hlavu.<br>
+Chtěli doklady, které jsme já a sára měli v autě. Sbalili jsme se tedy, co jim přišlo přišlo příliš pomalé a poté jsme u auta zaplatili kartou.<br>
+Hádat se s nimi nemělo smysl. Bylo vidět, že by nám pokutu akorát tak zvedli.<br>
+Když už jsme byli u auta, dali jsme se do už dlouho nutného úklidu. Protože nás ale policajti donutili odjet před snídani, našel jsem na mapě, že u vojenské pevnosti směrem k jezeru, které jsem vytipoval bude sezení, kde budeme moci snídat.<br>
+Vyjeli jsme tak do hor a při východu slunce jsme si uvařili vejce natvrdo a dojedli zeleninu s fetou.<br>
+Od pevnosti vedl podél rokle malý hike. Vyšli jsme serpentinou vzhůru ruinám armádního bunkru. Prošli jsme si polorozpadlé vnitřky, vylezli na střechu a slezly do podzemí, the jarda vykřikoval ra ta ta bum bum bum a napodoboval střílení na nepřátele.<br>
+Dál nás čekal přijet do Itálie a koupačka v jezeře. Úplně mi nedošlo, že jezero bude opět 100 m víš, bude u něj zima a bude extrémně ledové.<br>
+Ale i tak jsem přeplaval na protější Bře ch. Bez teplého zázvorového čaje bych ale zřejmě nastydla.<br>
+Italské zatáčky nám se Sárou nedělali dobře od žaludku. Místní řeka ale byla neobjevená Soča. Vlastně ne. Byla hezčí než Soča.<br>
+
+<a href="../images/2023_september/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/20_1.jpg"></a>
+
+<a href="../images/2023_september/20_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/20_2.jpg"></a>
+
+<a href="../images/2023_september/20_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/20_3.jpg"></a>
 
 ### 21.9. Koncentrovaná Itálie
 
@@ -162,20 +243,63 @@ s ondrou do kotvy<br>
 Raní sprcha sice nebyla teplá, jen vlažná, ale příjemně mi nastartovala den. S Jardou jsme uvařili luštěninovou snídani z cibule (Anom stále jsme měli hromadu cibule.), cizrny, která by to do večera nedala a z plechovky fazolí. Byl to překvapivě gurmánský zážitek.<br>
 Na hike se nikomu moc nechtělo. Zvolili jsme místo toho výlet do města Udine, vzdáleného asi 30 minut jízdy autem od kempu. Na Itálii jsme neměli mnoho času a Udine nabízelo architekturu, espresso, těstoviny, gelato a možná i pizzu a další věci, kvůli kterým lidé do Itálie jezdí<br>
 Podél cesty jsme míjeli topinambury, fabriky, políčka, kostely a hory. Podivně mi to připomínalo Vietnam a o tom jsme se cestou bavili. Jarda se Sárou tam v zimě chtějí. Co budu v zimě dělat já mi bylo tajemstvím. Miška plánovala 5 týdnů na Zélandu a i přes to, že jsme si sotva řekli, že spolu chodíme, stýskalo se mi po ní už po pár dnech dovolené.<br>
-V Udine jsme nechali auto v podzemním parkovišti, kde mimo jiné parkovalo hned několik zaprášených veteránů. Líně jsme se přesunuli do centra a kolem dvanácté začali přemýšlet o obědě. Jarda vybral nějakou tratorii kousek od nás a cestou do ní jsme prošli skrz tržiště, kde nám velmi hlučný ital prodal olivy a sýr.<br>
+V Udine jsme nechali auto v podzemním parkovišti, kde mimo jiné parkovalo hned několik zaprášených veteránů. Líně jsme se přesunuli do centra a kolem dvanácté začali přemýšlet o obědě. Jarda vybral nějakou tratorii kousek od nás a cestou do ní jsme prošli skrz tržiště, kde nám velmi hlučný ital prodal olivy a sýr.
+
+<a href="../images/2023_september/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/21_1.jpg"></a>
+
 Restaurace byla nacpaná. Vnitřek vypadal trochu jako irský pub. Překvapilo mě, že místo evropských záchodů byly přítomné turecké díry do země. Jarda se Sárou si dali překvapivě neitalská jídla. Tatarák s burratou a guláš s polentou. Jako předkrm si ale dali penne se sýrovou omáčkou, což bylo jídlo, které jsem já zvolil jako hlavní. Něž ho přinesli, začalo pršet. Lidé se přesouvali dovnitř, ale náš slunečník nás držel víceméně v suchu. Při dojídání ale sloupec vody překonal schopnosti celty a začalo nám pršet do jídla. Zůstali jsme jen já a Jarda. Bylo to docela komické.<br>
 Po jídle jsme se přesunuli na kávu do podniku přes ulici. Zjistili jsme, že do Itálie se dostala káva z Etiopie přes Turecka.<br>
 Dál nás naše kroky vedly na výhled. Šli jsme podél nějaké muzejní na kopci, ve které se konal raut. Na to abychom si mohli nabrat jídlo a pití zdarma jsme vypadali moc jako vágusové. Obzvlášť když jsme zmokli.
 
+<a href="../images/2023_september/21_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/21_2.jpg"></a>
+
+TODO dopsat
+
+<a href="../images/2023_september/21_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/21_3.jpg"></a>
+
 ### 22.9. Rozmočený Solný Hrad
 
+Balení stanu v dešti je ojeb. Windy ukázalo běž dešťové okno mezi 7:45 a 8:15. Přenosil jsem věci i Stando altánů a nechali odkapávat. Horká sprcha mi bodla a snídaně sestávající se ze sýrů, oliv, cibule chleba byla výborná. Akorát Sára vůni cibule už nezvládala.<br>
+Po sbalení jsme se vydali do rakouska. První tři zastávky ale byli ještě v Itálii. Napřed obchoďák kvůli věcem na večeři a dobrotám do Čech. Potom na pizzu a kávu. zdálo se že v pizzerii obědvali buď staří Italové, nebo mladí Češi a Slováci.
 
+<a href="../images/2023_september/22_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/22_1.jpg"></a>
+
+A nakonec vykopat topinambur.
+
+<a href="../images/2023_september/22_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/22_2.jpg"></a>
+
+Na velkém sjezdu z hory v rakousku jsme přehráli brzdy. Zdálo se nám že auto před náma brzdí nějak divně. Když si ale sára otevřela okýnko, Ucítili jsme smrad a pozastavení objevili že jde z našeho auta. Z brzd se kouřilo a My se dali do googlení toho co dělat a jestli jsme v prdeli.<br>
+Pak mě ale napadlo, čuchnout si k projíždějícím autu. Páchla stejně odporně. Počkali jsme tady ještě asi 10 min. a vyrazili na cestu dál.<br>
+při sjíždění z větších kopců jsme otevírali okýnka a strkali ruce ven. zvyšuje to spotřebu, tak to zákonitě musí brzdit auto.<br>
+Do Čech bylo daleko, neb jsme nejeli po dálnicích. Měli jsme tedy V plánu dojet do salcburku, ubytovat se v tamějším kempu, a městskou dopravou dojet do centra.<br>
+První část plánu nám vyšla, ale už v kempu bylo jasné že počasí jde do háje. Rozpršelo se tak, že ani stany se nám nechtělo stavit.<br>
+Přeskupili jsme tedy věci v autě, a vařili v jeho zadní části večeři. Já jsem měl Tortellini se sýrem a s pestem. Byla mi zima na nohy a tak mi je Kora hřála. 
+
+<a href="../images/2023_september/22_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/22_3.jpg"></a>
+
+Nakonec se počasí trošku zlepšilo a tak jsem si mohl postavil stan, který opět nabral pach rybiny. Byl jsem tak grogy, že mi to bylo jedno. Aspoň že voda ve sprše byla teplá.<br>
 
 ### 23.9. Vlci a Katalpy
 
+<a href="../images/2023_september/23_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/23_1.jpg"></a>
+
+<a href="../images/2023_september/23_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/23_2.jpg"></a>
+
+<a href="../images/2023_september/23_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/23_3.jpg"></a>
+
 ### 24.9. Zmrzlina na zahřátí
 
+<a href="../images/2023_september/24_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/24_1.jpg"></a>
+
+<a href="../images/2023_september/24_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/24_2.jpg"></a>
+
+<a href="../images/2023_september/24_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/24_3.jpg"></a>
+
 ### 25.9. První platba přes Sfey
+
+<a href="../images/2023_september/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/25_1.jpg"></a>
+
+<a href="../images/2023_september/25_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/25_2.jpg"></a>
 
 ### 26.9. 0603
 
@@ -239,4 +363,3 @@ Další asi hodině chůze jsme dorazili do Bělé, kdye jsme plánovali doplnit
 
 <a href="../images/2023_september/30_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/30_2.jpg"></a>
 
-<a href="../images/2023_september/30_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/30_3.jpg"></a>
