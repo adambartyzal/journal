@@ -197,11 +197,8 @@ Plaval jsem na ostrova a zpátky. Po chvíla zas na ostrov a z něho na další 
 Když jsem se vracel, Adél zjistil jsem, že Adél se ještě jednou otočila v pekárně a dokonce pořídila pivo. Druhé jsem vynechal, ale kobliha, která nebyla vůbec přecukrovaná, jako v čechách, mi bodla.<br>
 Jarda se evidentně nudil. Napadlo mě, že budeme hrát Kontakt. Vysvětlil jsem ostatním pravidla a začal testovací kolo. Kontakt mívá úspěch a Sára se podobně jako u Kubbu na svatbě do hry nadchla. Jarda jí dokázal vyhrát se slovem Mačky.<br>
 Miška si s Ondrou v praze na střeše T-Mobilu dávala čaj a posílala mi z toho fotky. Těšilo mě, že si rozumí.<br>
-
-<a href="../images/2023_september/13_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/13_3.jpg"></a>
-
 Čekal nás nákup věcí na večeři. Měli jsme jednorázový gril, který Jarda našel v Praze u popelnice nerozbalený. Autem jsme dojeli do Konzumu, nakoupili zeleninu a maso a pak se ještě zastavili v Plodine. To byl lepší krám. Měli jsme do něj jít hned. Akorát pivo neměli tak vychlazené. Zato měli nepivo a to jsem cenil.<br>
-Dle nálepky na grilu jeho trvanlivost prošla v roce 2001. Asi to souviselo s tím, kdy z podpalovacích ubrousků vyprachala zápalná směs. Použili jsme normální papír a větvičky z okolí a volilá, gril fungoval.<br>
+Dle nálepky na grilu jeho trvanlivost prošla v roce 2001. Asi to souviselo s tím, kdy z podpalovacích ubrousků vyprchala zápalná směs. Použili jsme normální papír a větvičky z okolí a volilá, gril fungoval.<br>
 Moje žampiony byly výborné. Jedli je všichni i když ostatní měli maso. Ale byl jich randál, tak to nevadilo.<br>
 Ve zbytku večera jsme nad žhavými uhlíky vedli težké diskuse o smrti. O tom jak se naše kultura smrti vyhýbá. Společnosti za nás řeší pohřby, nakládání se zemřelým a podobně.<br>
 Po jisté chvíli jsem se odpojil, neb jsem měl naplánovaný telefonát s Miškou. Při procházce kolem moře jsme si povídali asi hodinu a půl a když jsem se vrátil. Ostatní už spali.
@@ -259,7 +256,7 @@ Náš plán byl najít necky, které Sára našla na Instagramu. Po výšlapu na
 
 <a href="../images/2023_september/17_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/17_3.jpg"></a>
 
-Aspoň jsme si dali sváču. Chlév s máslem, banán a kousek čokolády jako dezert. Po tom výšlapu jsem měl pocit, že to je hostina jak pro bohy. Mlhou jsme se vydali po hřebeni dál a pomalu uzavřeli okruh. Sára učila Koru chodit po horách. Nekonečný kolotoč povelů Čekej, Pomalu, asi nikdy nezapomenu.<br>
+Aspoň jsme si dali sváču. Chléb s máslem, banán a kousek čokolády jako dezert. Po tom výšlapu jsem měl pocit, že to je hostina jak pro bohy. Mlhou jsme se vydali po hřebeni dál a pomalu uzavřeli okruh. Sára učila Koru chodit po horách. Nekonečný kolotoč povelů Čekej, Pomalu, asi nikdy nezapomenu.<br>
 Nakonec jsme dohromady ušli jen asi 5 kilometrů. Ale to nevadilo. Chtěli jsme malý výlet na začátek a to vyšlo.<br>
 Autem jsme sjeli dolů k bivaku Apač u řeky. Cestou jsme se ještě zastavili v pajzlu na kafe a nepivo. Uvnitř to smrdělo a vypadalo to jako prostor zakonzervovaný z dob totáče. Sestup mi připomínal Pyreneje.<br>
 K bivaku Apač se muselo dojít pěšky asi kilometr. 
@@ -362,15 +359,11 @@ Nakonec se počasí trošku zlepšilo a tak jsem si mohl postavil stan, který o
 
 <a href="../images/2023_september/23_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/23_2.jpg"></a>
 
-<a href="../images/2023_september/23_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/23_3.jpg"></a>
-
 ### 24.9. Zmrzlina na zahřátí
 
 <a href="../images/2023_september/24_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/24_1.jpg"></a>
 
 <a href="../images/2023_september/24_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/24_2.jpg"></a>
-
-<a href="../images/2023_september/24_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/24_3.jpg"></a>
 
 ### 25.9. První platba přes Sfey
 
