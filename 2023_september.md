@@ -273,36 +273,59 @@ Před spaním jsme jídlo pověsili po větru od nás aby na nás nepřišel med
 
 Budík v 6:12. Nelidský. Pomalu jsme sklidili a přesunuli se ven na snídani. Vločky s proteinem a oříšky. Byla to příprava na větší hike než předešlého dne.<br>
 Museli jsme vyjet tisícimetrové převýšení. U pítka jsme doplnili vodu a vydali se nahoru. Na výhledovou cestu, která se musela platit, ale za těch 10€ stála. Sára v každé serpentině říkala, jak její hladina kortizolu stoupá. A aby ne. Kdybychom sjeli, byli bychom tutově mrtví. Tak dobrý ty výhledy byly.<br>
-
-
+Nahoře jsme potkali 2 slovenky s vybavením na feraty. Ptali jsme se jestli to dáme se psem a po Italské stezce prý áno. Přeskupili jsme tedy věci, zabalili jen to nutné a vyrazili pěšky vzhůru. Nesl jsem většinu vody a bylo to znát. Ale nejsem béčko a nešli jsme vlastně nijak daleko.
 
 <a href="../images/2023_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_1.jpg"></a>
 
+Napřed jsme šli po asfaltu, což byla trochu pruda, ale po asi dvou kilometrech jsme přešli na kamenitou stezku a stoupali prudce k hřebeni. Přes ten se valil vítr jako blázen. Musel jsem se hůlkami zapírat aby mě nepřekotil.
+
 <a href="../images/2023_september/18_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_2.jpg"></a>
+
+Od Itálie nás dělil plot. Společnými silami jsme přenesli Koru ze Slovinska do Itálie a za hřebenem jsme se větru schovali. Minuly nás další 3 slovenky. Prý přespávali v bivaku, do kterého jsme měli namířeno, ale další noc plánovali jinde. To byla dobrá zpráva. Akorát bychom se tam mačkali. Bivak jsme vlastně viděli před sebou, ale i tak nám sestup k němu trval skoro hodinu. Nikdo tam nebyl. Uložili jsme krosny, chvíli si odpočali a pak jsme vyrazili na výlet dolů k ledovci.
 
 <a href="../images/2023_september/18_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_3.jpg"></a>
 
-<a href="../images/2023_september/18_4.jpg" target="_blank"><img src="../images/thumbnails/2023_september/18_4.jpg"></a>
+Šel jsem první. Bez krosny se čtyř a půl litry vody, ešusem a já nevím čím se mi najednou šlo podstatně lehčeji. Tak moc, že jsem zbytku docela utíkal. Většinou jsem kontroloval, zda jsou za mnou, ale když jsem došel ze sestupu dolů na zatravněnou plochu, najednou za mnou nebyli. Trochu mě to vykolejilo. Vrátil jsem se tak a našel je sedět na kamenu s tím, že dál nejdou. Prý únava a zhoršující se počasí. Poprchávalo a ušli jsme toho docela dost. Uznal jsem to a vyrazil zas nahoru.<br>
+Výstup trval další hodinu a půl a došli jsme do domečku tak akorát. Pršet začalo pořádně. Večeři jsme tak uvařili uvnitř. Kuskus se sušenými rajčaty, cibulí a taiwanskými pálivými tyčinkami. Jarda se Sárou si ještě přidali tuňáka.
+
+
+Venku pršelo a byla tma a hráli jsme chvíli ferbla. Všechny hry jsem vyhrál já. Obával jsem se že takové štěstí ve hře musí znamenat neštěstí v lásce. Napsal jsem Mišce a ta zrovna popíjela víno se dvěma Jurajovými kamarády a psala mi, že je slušně lízlá. Poprosil jsem jí ať mě nepodvádí a usnul.
 
 ### 19.9. Na střechu Evropy
 
+Celou noc pršelo. Hodně. Někdy v pět ráno jsem se probudil a asi hodinu nemohl zabrat. Nakonec ale déšť přešel a když jsme vstávali, rýsovalo se krásné ráno. Výhled do okolí byl neskutečný. S hrníčkem čaje jsem fotil jedno panorama za druhým, protože vycházející slunce krajinu vykreslovalo stále lépe a lépe.
+
 <a href="../images/2023_september/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/19_1.jpg"></a>
+
+Snídali jsme opět vločky s vlašskými ořechy a americkým proteinem. Čekal nás totiž stejný výšlap jako den zpátky, akorát v protisměru. Nebyl čas ztrácet čas. Uklidili jsme bivak a vyrazili vzhůru. Ten jeden kilometr na vrchol trval absurdně dlouho. Na hranici jsem nechal batožinu a vyběhl na úplný vrchol. Miška mi napsala, že z těch záběrů jí srdce plesá.
 
 <a href="../images/2023_september/19_2.jpg" target="_blank"><img src="../images/thumbnails/2023_september/19_2.jpg"></a>
 
+Při sestupu jsme potkali 3 ovce a stádo koz. Na parkovišti se v mezičase začali srocovat filmaři. A filmaři ti čas nemaří. Radši jsme popojeli z parkoviště pryč a věci přeorganizovali až pár set metrů níže.<br>
+Cestou dolů jsme málem nabourali do bílého bavoráka. Těžko říct čí to byla chyba. Jarda prý na vteřinku koukl na palubku v blbý moment. Ostrá zatáčka a za kamenem auto. Vlasntě jsem tam viděl o dost dřív než on a zakřičel jsem bacha! Prý to pomohlo. Dobrzdili jsme to asi 5 centimetrů před němkou proti nám.<br>
+Plán zněl: dojet na nákup do Sparu v Boveči a poté se vydat na trail podél řeky Soči. Do obchodu jsme se dostali po dvanácté, takže jsme pořídili rovnou věci na oběd a přesunuli jsme se do volnomyšlenkářeského kempu. První kemp totiž měl plnou kapacitu psů.<br>
+Nějakým němcům jsme zřejmě zabrali sezení, ale než by nás konfrontovali, popojeli o kus dál. Burek a skyr pro mě , burek a kuře pro Jardu a pečivo a kuře pro Sáru.<br>
+Šla na mě teplota. přemýšleli jsme, zda se tam ubytujeme, ale 16€ za osobu nám přišlo jako moc. V kempu o 8 minut jízdy dál chtěli to samé a paní správcová byla nepříjemná kráva. Vrátili jsme se tak do kempu Koryta a pěšky vyrazili na trail Soča. Nějak jsme se připletli do skupiny Američanů s průvodcem, ale byli pomalí a průvodce nic neříkal.<br>
+Soča je krásně čistá a ledová. Koryta jsou opravdu pohledná, ale po asi půl hodině, to vlastně začala být docela nuda.
+
 <a href="../images/2023_september/19_3.jpg" target="_blank"><img src="../images/thumbnails/2023_september/19_3.jpg"></a>
+
+U kempu klín na soutoku s řekou Lepenicou chtěli za hlavu 20€. Otočili jsme se a vyrazili zpět. Bivak Apač zdarma nám přišel jako lepší volba.<br>
+V Bovči jsme dotočili vodu, koupili pivo, víno a pomerančový džus pro mě a vydali se grilovat k bivaku. V ohništi jsme založili oheň a uhlíky opet použili v jednorázovém grilu. Ostatní měli čevapi a já tofu. Dohromady jsme měli salát a chutnalo to bezva.<br>
+V devět jsem si šel telefonovat s Miškou. Odvezla Davida do Brna za jeho prababičkou do Nemocnice. Byla naštvaná na klepy v práci. Šéf s Pepou prý měli nějaký šuškání o tom, že má něco s Karlem.<br>
+Po desáté jsme se přesunuli do domečku a šli spát.
 
 ### 20.9. Apač nebyl zdarma
 
-Zdály se mi dějem extrémně nabité sny. Vlastně jsem v nich vůbec nevystupoval. Byla to zvláštní směsí cestu Suffit o umělých planetách, ještě divnější m experimentu ve dvou skupinách sledovaných televizi a… Inu Pointa se mi ráno rychle vytratila.<br>
+Zdály se mi dějem extrémně nabité sny. Vlastně jsem v nich vůbec nevystupoval. Byla to zvláštní směsice příběhů o umělých planetách, ještě divnějším experimentu ve dvou skupinách sledovaných televizí a… Inu Pointa se mi ráno rychle vytratila.<br>
 Zato se objevily Strážci zákona. Podle nich přespávání v bivaku Apač Nebylo vůbec legální. I když jsme jim říkali že na dveřích je napsáno bivak, nejsou zamčená a nikomu naše prespání nevadilo, Odmítli s námi diskutovat, a řekli že domek slouží skautům a že dlužíme 41 € na hlavu.<br>
 Chtěli doklady, které jsme já a sára měli v autě. Sbalili jsme se tedy, co jim přišlo přišlo příliš pomalé a poté jsme u auta zaplatili kartou.<br>
 Hádat se s nimi nemělo smysl. Bylo vidět, že by nám pokutu akorát tak zvedli.<br>
-Když už jsme byli u auta, dali jsme se do už dlouho nutného úklidu. Protože nás ale policajti donutili odjet před snídani, našel jsem na mapě, že u vojenské pevnosti směrem k jezeru, které jsem vytipoval bude sezení, kde budeme moci snídat.<br>
+Když už jsme byli u auta, dali jsme se do už dlouho nutného úklidu. Protože nás ale policajti donutili odjet před snídaní, našel jsem na mapě, že u vojenské pevnosti směrem k jezeru bude sezení, kde budeme moci snídat.<br>
 Vyjeli jsme tak do hor a při východu slunce jsme si uvařili vejce natvrdo a dojedli zeleninu s fetou.<br>
 Od pevnosti vedl podél rokle malý hike. Vyšli jsme serpentinou vzhůru ruinám armádního bunkru. Prošli jsme si polorozpadlé vnitřky, vylezli na střechu a slezly do podzemí, the jarda vykřikoval ra ta ta bum bum bum a napodoboval střílení na nepřátele.<br>
 Dál nás čekal přijet do Itálie a koupačka v jezeře. Úplně mi nedošlo, že jezero bude opět 100 m víš, bude u něj zima a bude extrémně ledové.<br>
-Ale i tak jsem přeplaval na protější Bře ch. Bez teplého zázvorového čaje bych ale zřejmě nastydla.<br>
+Ale i tak jsem přeplaval na protější Bře ch. Bez teplého zázvorového čaje bych ale zřejmě nastydl.<br>
 Italské zatáčky nám se Sárou nedělali dobře od žaludku. Místní řeka ale byla neobjevená Soča. Vlastně ne. Byla hezčí než Soča.<br>
 
 <a href="../images/2023_september/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/20_1.jpg"></a>
