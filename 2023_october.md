@@ -59,7 +59,10 @@ zbytky z výletu k večeři<br>
 
 ### 3.9. Atypické úterý
 
-španělé čekali vedle na ludvu celé dopoledne<br>
+španělé čekali vedle na ludvu celé dopoledne
+
+<a href="../images/2023_october/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/3_1.jpg"></a>
+
 do indie v úterý
 španělé domů<br>
 blesky<br>
@@ -70,9 +73,13 @@ lukáš s kendym<br>
 
 ### 4.10. Horečka středeční noci
 
+<a href="../images/2023_october/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/4_1.jpg"></a>
+
 ### 5.10. Sbírat šípky říkala
 
 ### 6.10. Všichni jsou nemocní
+
+<a href="../images/2023_october/6_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/6_1.jpg"></a>
 
 táta chřipku<br>
 vrátit lístek<br>
@@ -84,11 +91,18 @@ pochod it is<br>
 
 ### 7.10. Pivní pochod
 
+<a href="../images/2023_october/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/7_1.jpg"></a>
+
+<a href="../images/2023_october/7_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/7_2.jpg"></a>
+
+<a href="../images/2023_october/7_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/7_3.jpg"></a>
+
 ### 8.10. Jedno čisté okno a pár poznámek
 
 Spali jsme asi do deseti. A z postele se dostali ve dvanáct. Do té doby jsme 
 
 ### 9.10. Kuchyňský hack
+
 
 do bazénu<br>
 email štěpánce<br>
@@ -98,15 +112,28 @@ nefunguje<br>
 loogování<br>
 bolest hlavy<br>
 prší<br>
-napařování v cedníku<br>
+napařování v cedníku
+
+<a href="../images/2023_october/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/9_1.jpg"></a>
+
 kendy a lukáš
 
 ### 10.10. Provolané hodiny
 
+Pěšky<br>
+drahý kafe
+
+<a href="../images/2023_october/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/10_1.jpg"></a>
+
 Monča se vrátila z Finska a Belgie. Ráno jsme si tak povídali o tom, jak se měla, co v Belgii jedla a o mých výletech a zážitcích.
 Z Finska přivezla velkou krabici desek. Řekl jsem si, že věnovat se opravám bude lepší v úterý když je vláďa pryč a že sběrnici nechám na středu.
 Úplně jsem tomu nedostál. Připravil jsem si ale hezký držák na zámky, který minimalizoval pravděpodobnost nechtěného zkratu na stole.
+
+<a href="../images/2023_october/10_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/10_2.jpg"></a>
+
 Cestou zpátky jsem si telefonoval s Miškou. Šel jsem pěšky a tak to trvalo docela dlouho. Po 2 hod. nás a odstřihla síť. Nějak jsme neměli do povídá no tak jsme telefonovali ještě asi hodinu a půl. Je bezva, že si můžeme takhle povídat. Doufám že nám to vydrží.
+
+<a href="../images/2023_october/10_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/10_3.jpg"></a>
 
 ### 11.10. Lepší debugging
 
@@ -123,13 +150,18 @@ Cestou jsem se opět telefonoval s Miškou. Díky tomu mi to uteklo jak voda. Do
 
 ### 12.10. Signál
 
+<a href="../images/2023_october/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/12_1.jpg"></a>
+
+<a href="../images/2023_october/12_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/12_2.jpg"></a>
+
+<a href="../images/2023_october/12_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/12_3.jpg"></a>
+
 ### 13.10. 
 
 zaspal jsem<br>
 zázvorvo česnekový smoothie<br>
 na kole<br>
-opravy<br>
-
+opravy
 
 ### 14.10. Bojovat s nemocí
 
