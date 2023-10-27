@@ -11,7 +11,9 @@ if (len(sys.argv) < 2):
   sys.exit(f'Usage: python {sys.argv[0]} folder with images')
 
 folder_name = sys.argv[1]
-images = os.listdir(folder_name)
+images = sorted(os.listdir(folder_name))
+
+print(images)
 
 days = [0] * 31
 print(days)

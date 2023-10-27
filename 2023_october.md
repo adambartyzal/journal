@@ -14,7 +14,19 @@
 - [12.10. Signál](#1210-signál)
 - [13.10.](#1310)
 - [14.10. Bojovat s nemocí](#1410-bojovat-s-nemocí)
-- [15.10.](#1510)
+- [15.10. Pro chleba](#1510-pro-chleba)
+- [16.10. Klapky a struny](#1610-klapky-a-struny)
+- [17.10.](#1710)
+- [18.10. Dub nebyl červený](#1810-dub-nebyl-červený)
+- [19.10. Dle plánu](#1910-dle-plánu)
+- [20.10.](#2010)
+- [21.10. První rande](#2110-první-rande)
+- [22.10. Krásy velkoměsta i maloměsta](#2210-krásy-velkoměsta-i-maloměsta)
+- [23.10.](#2310)
+- [24.10.](#2410)
+- [25.10. Stavění draka](#2510-stavění-draka)
+- [26.10. Opět nemocný](#2610-opět-nemocný)
+- [27.10.](#2710)
 
 ### 1.10. Na vrchol bez vyvrcholení
 
@@ -76,6 +88,8 @@ lukáš s kendym<br>
 <a href="../images/2023_october/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/4_1.jpg"></a>
 
 ### 5.10. Sbírat šípky říkala
+
+
 
 ### 6.10. Všichni jsou nemocní
 
@@ -165,4 +179,271 @@ opravy
 
 ### 14.10. Bojovat s nemocí
 
-### 15.10. 
+
+
+### 15.10. Pro chleba
+
+miška přijela<br>
+s buchtou nahoru<br>
+ven do grébovky<br>
+na výhled<br>
+zbytek sluníčka<br>
+studené kamení<br>
+pro chleba<br>
+na parcelu s pánem co zná lidi<br>
+na chai latté a čokoládu do zahradnictví<br>
+chleba u antonína<br>
+kolem marťi domů
+
+### 16.10. Klapky a struny
+
+zapoměl jsem na ondru<br>
+po práci na kole do kytar<br>
+
+
+### 17.10. 
+
+### 18.10. Dub nebyl červený
+
+po práci na pivo do mlíkárny<br>
+dub nebyl červný<br>
+přesun dovnitř<br>
+polička<br>
+týna o festivalu a válce<br>
+třetí pivo mě docela sundalo<br>
+na kole dom<br>
+balení<br>
+na tramvaj<br>
+přes palčák až na hřebenku<br>
+miška mě vyzvedla<br>
+
+
+### 19.10. Dle plánu
+
+Terka nás vzbudila sprchováním se. Miška ještě zvládla usnout, ale já už ne. Únava na mě přišla až po zazvonění budíku. Měli jsme hodinu na to se sbalit a vyrazit na autobus.<br>
+Protože rudá armáda ještě neustoupila, vstávání nám vlastně šlo docela rychle. Kvůli alkoholu jsem se ale moc nevyspal. Tři piva. To není moc. Ale když přes měsíc nepiješ a k tomu přidáš jen asi 5 a půl hodiny spánku, sečte se to.<br>
+Miška není zvyklá snídat tak brzy. Začal jsem tedy sám jablkem. Sbalení jsme před osmou vyrazili na autobus. Jeli jsme do Barcelony. Bylo to trochu neuvěřitelný. Na Strahově jsme přestoupili do 191. Chvíli to vypadalo, že nepojede. A můj krátký lístek jí vlastně nemohl pokrýt. Oproti 119 jede strašnou oklikou.<br>
+Mrkli jsme jak dlouho budou trvat kontroly, zastavili se v Bille pro žvýkačky a vydali se do fronty. Cedule říkala, že v ní strávíme 27 minut. Hodně lidí jsme ale předběhli, protože vzadu bývá volněji.<br>
+Doplnili jsme vodu, chvilku jsme si hrál s Mišky foťákem, moc jsem nepochopil, proč na manuál stejně čaruje nějaký auto kouzla a pak už začal boarding. Vueling je asi docela fér aerolinka, nastupovali jsme chobotem a seděli vedle sebe i když jsme za to nezaplatili. Prolétli jsme krásně nad Prahou. Viděli jsme oba naše domy a T-Mobile. Pak už nás Airbus vynesl nad mléčné mraky. Ani Alpy, ani Pyreneje jsme neviděli.<br>
+Miška mi chvíli spala na rameni, chvíli jsme se líbali, ale většinu času jsme si povídali. Turbulence si Miška užívala, ale mě moc dobře nedělaly. Sára mi psala, že lítat s kocovinou je nejlepší. Nesouhlasím. Až smaženkami jsem to trochu zajedl a spravil se.<br>
+Aerobus do centra by nás stál 9€. Vlak měl stát 2€. Akorát měl jet z T2 a my přistáli na T1. Jezdil mezi nimi ale bezplatný autobus.
+nakup lístků<br>
+češi ve vlaku<br>
+hudebníci<br>
+pod zem<br>
+bikesharing
+
+<a href="../images/2023_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/19_1.jpg"></a>
+
+do gotického centra<br>
+foťák se zasekával<br>
+do lidlu pro gaspacho<br>
+kolem oblouku do parku<br>
+papoušci<br>
+postavili si park, ale chodili jim tam lidi<br>
+lodičky nebyly zadarmo<br>
+stavení nad vodou
+
+<a href="../images/2023_october/19_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/19_2.jpg"></a>
+
+zpátky k oblouku<br>
+minuli jsme knihovnu<br>
+vykopávky
+
+<a href="../images/2023_october/19_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/19_3.jpg"></a>
+
+bloumat historickým centrem<br>
+přes La Ramblu<br>
+ke katedrále
+
+<a href="../images/2023_october/19_4.jpg" target="_blank"><img src="../images/thumbnails/2023_october/19_4.jpg"></a>
+
+na tržnici<br>
+do alehopu<br>
+k univerzitě<br>
+pod zem na výstavu Ai co vypadala divně<br>
+skejťáci u galerie<br>
+SIDA<br>
+potemělými uličkami k obelisku<br>
+na autobus a metrem do poblenou<br>
+do lidlu, tortillu a jugo naranja<br>
+na hostel, rovnou ohřát tortillu<br>
+
+### 20.10. 
+
+Na východ slunce a na nákup snídaně
+
+<a href="../images/2023_october/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/20_1.jpg"></a>
+
+kterej se nekonal<br>
+výhled na troj komínovou elektrárnu a v dálce na tibidábo<br>
+lidi na pláži jógovali<br>
+obchod byl vietnamec<br>
+do mercadony, kolem vězení, knoflíkárny, bikesharingu, karlínem<br>
+najednou trh, miška koupila vajíčka, mercadona v patře, chleba, paštel de nata, salát, sýr intenzity 3<br>
+francouzky nám dali jídlo
+
+<a href="../images/2023_october/20_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/20_2.jpg"></a>
+
+do parku guiel, metrem a pak autobusem s výhledy<br>
+spousta lidí<br>
+schody zkratka<br>
+výhled na sagradu<br>
+češi<br>
+na výhledy, miška vedla a pak jsme kopec obešli<br>
+eskalátory s výhledem na opačnou stranu<br>
+terasa s kafárnou<br>
+focení na výhledu<br>
+eskalátorem a přes zahradu pro tiny house 
+
+<a href="../images/2023_october/20_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/20_3.jpg"></a>
+
+podél plotu dolů a podél velkých paneláků na dětské hřiště na piknik<br>
+skrz čtvercovou síť až sagrádě<br>
+vyhozen z fastfoodu<br>
+miška četla o sagradě<br>
+skrz kontroly, nadšený pán<br>
+mišce vzali láhev<br>
+bez časového limitu hledíc na sochy sagrady venku<br>
+světlo skrz barevná okna
+
+<a href="../images/2023_october/20_4.jpg" target="_blank"><img src="../images/thumbnails/2023_october/20_4.jpg"></a>
+
+zčořený křížek<br>
+konečně záchod<br>
+spodek, obchod a informace o gaudím<br>
+ven metrem na paralel<br>
+do lidlu - fokáča, tortilla, čokoláda, kombucha<br>
+opuštěný schody<br>
+pár co se rozcházel<br>
+zahrada co měla být zavřená s hracími měchy<br>
+oblast k osahávání<br>
+serpentínami<br>
+k pevnosti co byla cerado<br>
+výhled na přístav<br>
+lodě a letadla<br>
+poslední autobus, utíkali z kopce zpátky do kopce<br>
+defecto lístek<br>
+na plaza catalonya<br>
+nový lístek<br>
+rapující pán v L3<br>
+tortilla s čočkovým burgerem<br>
+
+### 21.10. První rande
+
+Nastavil jsem si budík abychom vstali nějak rozumně. Nějak se mi ale podařilo nastavit si ho na všední den a ten v sobotu nebudí. Probudil jsem nás tak hodinu později, než jsme plánovali. Později jsme to označili jako přizpůsobení se Španělskému času. Naštěstí jsme měli všechno co jsme potřebovali na snídani. A k našemu tuctu vajíček jsme měli ještě ohřáté fazole.<br>
+Cestou na metro jsme se zastavili ve Fair Trade obchodě s příšernou haloweenskou výzdobou. Překvapivě levně jsme tam nakoupili moc dobré blumy, hrušku a bio čokoládu.
+
+<a href="../images/2023_october/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/21_1.jpg"></a>
+
+Metro L3 nás dovezlo na Paseo de Gracia, kde jsme přesedali na autobus V15. Nový Barcelonský systém autobusů totiž dělí linky na Vertikální, Horizontální a Diagonální v pohledu od moře.<br>
+V15 byl moderní elektrobus. Měli jsme jet skoro hodinu a naštěstí jsme si sedli. Konečnou jsme přejeli, protože autobus po ní vesele pokračoval dál. Ale jen o jednu stanici.<br>
+Prošli jsme kolem nějaké soukromé školy v honosném stavení a výstup začali v parčíku, kde byly stezky přehrazené zákazy vstupu. Spíš proto, že tam byl bordel, než proto, že by tam někdo něco opravoval. Trochu jsem se tam ztratil ve výhledech. Jak v těch do dáli, tak v těch do Miščina výstřihu.<br>
+Dál nás naše kroky vedly podél lanovky. Vybírali jsme stezky menší, protože po těch větších jezdili mountainbikeři. Nějak jsme plánovali dojít k observatoři, ale nakonec jsme jí minuli.
+
+<a href="../images/2023_october/21_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/21_2.jpg"></a>
+
+Z parkoviště jsme měli výhled na Montserrat. Z opačné strany jsme měli výhled na město a úplně nahoře u kostela jsme obsadili lavičku. Opláchnul jsem ovoce, namasíroval jsem Mišce nohu, do které jí chytala křeč a aby se to nedělo znova, dali jsme si čokoládu.<br>
+Od kostela byl výhled od okolí ještě lepší. Akorát tam děcka hrála fotbal. Což bylo vlastně vtipný. Ve Španělsku si děcka můžou kopat do míče přímo v opatství.
+
+<a href="../images/2023_october/21_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/21_3.jpg"></a>
+
+V krámku pod kostelem jsme si pořídili pohledy. Já tři různé a Miška 4 stejné. Známky tam naneštěstí neprodávali.<br>
+Při sestupu dolů jsem navigoval já. V zádech jsme měli obří vysílač a mířili jsme na další výhledy. Na jednom z nich jsme si dali svačinu. Po francouzskách jsem dojídal paštiku a mišce jsem ukrojil srdíčko ze sýru.
+
+<a href="../images/2023_october/21_4.jpg" target="_blank"><img src="../images/thumbnails/2023_october/21_4.jpg"></a>
+
+O kus dál jsme potkali houpačku. Neexistuje případ, kdy Miška uzří houpačku a nejde se houpat. Já jsem si šel prohlédnout blízkou rotundu, ale měla dveře zastavěné cihlami.<br>
+Nakonec jsme sestoupili z kopců Tibidaba zpátky do civilizace. Šli jsme podél poměrně velké silnice, na horizontální autobus H4, který nás popovezl k neexistujícímu tunelu. Vystrašili jsme pána s lehátkem a Metrem jsme se přesunuli opět na Paralel.<br>
+Abychom stihli Motjuic ještě za světla, vyrazili jsme rovnou vzhůru. Bylo divný vidět Tibidabo z opačný strany města. Miška fotila papouška, přeskakovali jsme výkop a pak zamířili k plaveckému bazénu.<br>
+Neplavali v něm lidé, ale rackové. Fotili jsme si bazén skrz plot, což podle mě bude vypadat dobře. Nebyli jsme si jistí, jak moc se dá jít dovnitř, ale ukázalo se, že Barcelonští hipsteři nelení a u tribun rozjeli bar. Lidé tam popíjeli drinky a pojídali nachos. Vypadalo to dobře. Miška šla dolů fotit racky a já jsem pořídil dvě sangrie a nachos.<br>
+Sotva jsem dostal nachos Miška se vrátila od bazénu a naše první rande mohlo začít. Výhled na celou Barcelonu na které zapadající slunko kreslilo stíny byl neskutečný. Saxofonista, který hrál jazzové fláky jako Caravan a Girl from Ipanema, moc dobře věděl co dělá. Sangria chutnala skvěle a nachos byly taky moc fajn. Seděli jsme tam na tribuně a odškrtávali si v hlavě bodíky, které by se na prvním rande měli stát. Rozesmál jsem jí. Udělala nejapný vtípek. Měli jsme občerstvení. Výhled. Dali jsme si letmou pusu. Sáhl jsem jí na stehno. Dali jsme si pusu, která rozhodně nebyla letmá. Ptali se na otázky co se na první rande nehodí. A měli z toho srandu a zároveň nás to sblížilo ještě víc.
+
+<a href="../images/2023_october/21_5.jpg" target="_blank"><img src="../images/thumbnails/2023_october/21_5.jpg"></a>
+
+Bylo to skvělý rande. Moje nejlepší v životě. A večer ještě neskončil. O kus výš na Motjuicu jsme našli další houpačky. Slunko zapadlo a my spolu na dětském hřišti tančili a nakonec jsme opět prošli i skrz osahávací oblast, byť tam jsme se nezastavili. Jsou lepší místa.<br>
+Třeba výhled na přístav, kde jsme byli už podruhé. Koukali jsme tam na autíčka vozící kontejnery. Pokračovali dál podél pevnosti a už za tmy se dotali k hřbitovu, o kterém jsem četl v Pohřebišti zapomenutých knih. Bylo to trochu creepy. Nebyl to hřbitov jaký máme v čechách. Místo toho byl plný hranatých objektů, které na nás koukaly shora z pod noční oblohy.<br>
+Vydali jsme se podél hřbitovní zdi, ale vstup jsme nenašli. Jediné místo, které na mapě vypadalo jako průchod, byla zavřená brána. Alespoň tam ale byl výhled na opačnou stranu města a na olympisjký stadion. K tomu jsme vyrazili. Cesta k němu byla narozdíl od trasy, kterou našly mapy.cz osvětlená. I tak to ale bylo bizární místo. Silnice se dvěma chodníky, vedoucí do nikam. Ba ne do nikam. Ale do schůdků, které vedly do nikam.<br>
+Do olympijského stadionu se stahovala mračna lidí. Nějaký španělský zpěvák tam měl od devíti koncert. Nás naše kroky vedly k telekomunikační věži a k muzeu.<br>
+To do jisté míry připomíná muzeum v Praze. Dokonce i ten Václavák před nám je. Akorát svítící a hrající kašna byla vypnutá. Seděli jsme tak nahoře a cítili, že jsme uťapaní.<br>
+Barcelonské eskalátory vedly i k muzeu. Akorát teda opačně. My jsme sešli dolů, nasedli do metra a stejnou cestou jako předešlého dne jsme se nechali převézt zpátky do Le Poblenou na hostel, kde jsme si dali poslední tortillu. Bez čočkového burgeru byla lepší.<br>
+Večer jsem ještě Mišku navštívil v její vrchní části palandy. Bylo to moc fajn, ale v noci bychom se tam mačkali a tak jsem se po chvíli mazlení vrátil k sobě dolů.
+
+### 22.10. Krásy velkoměsta i maloměsta
+
+Čekal nás poslední den v Barceloně. Poslední třetina z tuctu vajíček. Akorát pečivo nám došlo. Protože jsem byl sbalený rychleji, vyrazil jsem pro chleba. První pekárna se mi moc nepozdávala, ale ve druhé to vypadalo dobře. S paní jsem vybral chléb s vlašskými ořechy a jako dezert jablečné pečivo zalité medem.<br>
+Když jsem se vrátil, Miška už vařila.<br>
+U snídaně jsme koupili jízdenky na autobus z Tarragony na letiště. Propočítali jsme, že nám to ušeří čas a vlastně to bylo téměř stejně drahé jako jet vlakem přes Barcelonu.<br>
+Plavat jsme ale ještě nestihli. Byl poslední moment na to to provést. Taky ale bylo asi 9 stupňů a moře bylo ledové. Stejně jsem šel. Byla to poslední možnost vykoupat se v moři v roce 2023. V parku u moře stanovali nějací cyklisté. Možná to byli bezdomovci těžko říct. Ale bylo to na stan docela cool místo.<br>
+Koupalo se víc lidí. Nejméně 2 další. I tak jsem ve vodě ale vydržel ne víc než pět minut. A když jsem pak přešel ke sprchám, objevil jsem, že nefungují. Trochu jsem při převlékání zastryptízoval kolemjdoucím, ale ledová voda stejně schovala věci k vidění.<br>
+Na pláži jsme si našli hezkou mušli. Taky jsme našli pouzdro od airpodů, ale sluchátka v něm chyběla. Náš plán byl jít do altánku, kde lidé jógují a protáhnout se tam.<br>
+Miška předcvičovala. Bylo to skvělý. Těšil jsem se, až si zacvičíme znova.<br>
+Já jsem chtěl vidět moderní část města. Napřed jsme došli k architektuře co byla vidět z pláže, ale ukázalo se, že je to jen kasino. Zrovna tak jeden ze dvou mrakodrapů k němu patřil. Druhý byl prý office building a paní bachařka nám řekla, že nás tam pustit nemůže.<br>
+Procházeli jsme se tedy Le Poblenou, neboli Karlínem, jak jsme jej překřtili. O víkendu byla čtvrť vylidněná.
+
+<a href="../images/2023_october/22_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/22_1.jpg"></a>
+
+Mírně diagonální ulicí jsme došli k moderním domům. Mišce se líbil jeden skandinávský dřevěný. Od Okurky byl výhled na sagrádu a bylo vidět, že moderní čtvrť je teprve ve výstavbě.<br>
+Zbývalo nám ještě pár jízd, takže jsme nasedli na metro a vyrazili ke Gaudího domům. Tedy.. já jsem nasedl na metro. Mišku ode mě oddělily dveře a zůstala na perónu. Přijela za mnou dalším vlakem.<br>
+Vylezli jsme na zeleném trojúhelníku, kde už jsme předtím byli a doplnili tak mentální mapu. První Gaudího dům byl čínská restaurace. Druhý byl na Paseo del Gracía a byl úplně přeplněný lidmi a třetí byl jen o blok dál a byla v něm nějaký fancy restaurace, ve které bylo lidí snad ještě víc.
+
+<a href="../images/2023_october/22_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/22_2.jpg"></a>
+
+Přišel na nás hlad. Nebyli jsme daleko od Adél lilku. Vybrali jsme ale Green & Berry, na které jsme koukali před odletem. Byli tam moc milí, hráli tam CCR a měli jsme extra zdravý oběd a po tom extra sladký dezerty.
+
+<a href="../images/2023_october/22_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/22_3.jpg"></a>
+
+Po jídle jsme spěšně vyrazili na nespěšný vlak. Lístek nám prodal zamilovaný pán, který posílal srdíčka do whatsappu a ve vlaku jsme seděli se dvěma zmatenými američany, co s sebou měli obří kufry. Během cesty jsme nahrávali zážitky do diktafonu.<br>
+Tarragonu jsme poznali podle římských staveb. Vystoupili jsme na nádraží a vydali se do našeho hotelu Pigal. Pobavilo nás, že i do římských památek katalánci nainstalovali eskalátory.<br>
+V hotelu nás uvítal mladý klučina Alberto. Daroval nám mapu města a barevnými fixy nám vyznačil, kudy kam v Tarragoně jít. Na pokoji jsme doplnili vodu a vyrazili do uliček starého města.<br>
+A potkali zmrzlinu. Ale neměli pistáciovou. Takže jsme po nové Ramble došli k další. Ti už pistácii měli. A dobrý mangový sorbet a dobrou čokoládu. Tu jsme konzumovali s výhledem na moře a amfiteátr.
+
+<a href="../images/2023_october/22_4.jpg" target="_blank"><img src="../images/thumbnails/2023_october/22_4.jpg"></a>
+
+K amfiteátru jsme sestoupili, ale úplně dovnitř se jít nedalo. Staré město bylo moc hezké. V oknech nějakého domu se učil nějaký hudebník a my jsme tančili v podobně kostrbatém rytmu jako on hrál. Alberto nám říkal, že se ve starém městě máme prostě ztratit a to jsme udělali. Chodili jsme po masážním chodníku. Obcházeli katedrálu. Našli prázdné náměstíčko. Seděli na nároží a pak našli velké náměstí plné života.<br>
+Tam jsme si řekli, že si dáme offeru 2 skleny vína, olivy a brambůrky. Miška se tam vydala objednat přesně tohle combo a trvalo to asi 20 minut. Na baru se dokázali pohádat, protože servírka na ní byla hnusná, nějaký američan jí tam pomáhal, ale vlastně se servírka rozčílila ještě víc.<br>
+Nakonec ale druhá servírka nabídla lepší vína, která nakonec stála 10€ místo 6€. No a pak už to zas byl dobrý večer. Seděli jsme, povídali si. Já jsem objevil, že na náměstí rostou Parkinsonie Pichlavé.<br>
+Hodně mě ale pobavil business model tamějšího harmonikáře. Nehrál. Napřed chtěl po lidech peníze a když mu je nedali, začal vydávat disharmonické zvuky. Stejně mu nikdo nic nedal.<br>
+Nicméně posezení to bylo moc fajn. Miška později řekla, že to bylo takový docela randíčko. Možná proto se potom večer na pokoji ještě děly věci a spát jsme šli až někdy po jedné.
+
+### 23.10. 
+
+Ani ráno jsme nebyli o moc rozumnější. Nebo spíš já. Probudil jsem se docela brzy a nedařilo se mi usnout. Být spolu tělo na tělo ale bylo skvělý. Začali jsme blbnout a zpětně lituju jen toho prostěradla. Nic na co by v hotelu nebyli zvyklí. Taky jsme si odškrtli další metu. Společnou sprchu. Když mi Miška v Září psala, že se mám po výletě do Slovinska stavit rovnou u ní, že neva že budu špinavej a budu smrdět, protože si dáme sprchu spolu. Moc jsem jí to nevěřil. A přiznala, že by se opravdu ostýchala. Ale krůček po krůčku..<br>
+Po neobyčejně dlouhé době strávené ve sprše jsme se zabalili a vyrazili ven. Tentokrát na tržiště. A cestou jsme potkali poštu. Měli jsme v batohu 7 pohledů a ani jednu známku. Pošta nám ale moc nepomohla. Vůbec tam neměli obchůdek. Jen pořadník a spoustu lidí. Miška si tedy vzala lístek a já vyrazil do města, hledat známky jinde. A jak internet radil, v prvním tabáku je měli. Sice jsem si spletl seis a siete, ale nakonec jsme to nějak zvládli. Na lavičce jsme pohledy opatřili známkami a vložili je do schránky před poštou.<br>
+Následovala snídaně. Pořád jsme měli sýr intenzity 5. Taky půlku chlebu. Chyběla nám ale zelenina. Na tržišti jsme koupili papriku a dvě jablka. Uprostřed náměstí jsme si sedli na kulatou lavičku a pustili se do toho. Paprika to byla fakt výborná. Ale i po jídle nás ještě honila mlsná. Vrátili jsme se na tržnici, koupili nějaké anýzové sladkosti a u moc příjemné paní koupili dva dekafy. Miška koukala na důchodce u kafostánku a popíjející své dopolední drinky. Říkala, že takhle si to představuje. Venku se mezitím rozpršelo, takže jsme s kávou nechvátali. 
+
+<a href="../images/2023_october/23_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/23_1.jpg"></a>
+
+Nakonec ale zas vykouklo sluníčko. Vydali jsme se na Novou Ramblu a odtud do okolních uliček. Dospěl jsem k názoru, že pokud chceme vidět Pont del Diablo, můžeme tam dojít pěšky a autobusem jet zpátky. Měla to být cesta na hodinku a vypadala docela zajímavě.<br>
+A tak jsme šli. Vzhůru z Tarragony ven. Dokonce i výhledy byly. Ale po dešti bylo zamlženo. Mapy nás vedly po žluté, skrz nepříliš uklízený park. Vesničkou kde na nás koukali psi z balkónu. Kolem školy. A pak takovým skoro lesem k dálnici, kterou jsme museli podejít. Zákazem. Proč tam ale zákaz byl nám moc jasné nebylo. Ostatně tam chodili i ostatní lidé a z opačné strany žádný zákaz nebyl.<br>
+A to už jsme byli jen pár kroků od našeho cíle. Akvaduktu uprostřed ničeho.
+
+<a href="../images/2023_october/23_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/23_2.jpg"></a>
+
+Snědli jsme jablka. Přešli most. A potkali Taiwance. Přijeli ve skupině autobusem. Chtěl jsem fotku na pilíři akvaduktu, ale dospěl jsem k názoru, že na lezení nahoru nemám vybavení. Prošli jsme ještě dolů pod ním a pak na autobus. 5ka nejela úplně nejlíp. Museli jsme na konečnou a pak zpátky. Ale vlastně jsme nikam nechvátali. Povídali jsme si o finsku a o kamarádech.<br>
+Zpátky v Tarragoně jsme ještě vyrazili k moři. Potkávali jsme pekárny a já jsem zatoužil mít na cestu nějakou bagetu. Řekli jsme si, že před nástupem na autobus něco pořídíme. V mezičase jsme se šli podívat na marinu. Lodě to byly obrovské. Se strašnou spoustou radarů. Chvíli jsme seděli na lavičce a pak jsme se vydali k vodě zchladit si nohy.<br>
+Čas ale kvapil. Odnavigoval jsem nás zpět k nádraží. Pekárna, kterou jsem vytipoval byla zavřená. A v další měli bagetu vegetal, ve které byl tuňák. Objednal jsem tak Mišce jednu sin carne. Queso ok. A do letadla jsme koupili bagetu s patatas.<br>
+Autobus vyjel ve tři a jel stejným směrem odkud jsme právě přijeli. Dokonce i akvadukt jsme z něj viděli. Ale nelituju ničeho. Byla to bezva procházka. Nahráli jsme si do diktafonu nedělní dění a než jsme se nadáli, byli jsme na terminálu.<br>
+Pak už to bylo poměrně rutijní. Sekuritka, čekání na letadlo, zpoždění takže víc čekání na letadlo, nástup chobotem a sezení přes uličku. Letadlo bylo plné čechů a bylo vtipné, že spoustu párů vueling rozesadil stejně jako nás. Dalo se to poznat podle spojených rukou v uličce.
+
+<a href="../images/2023_october/23_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/23_3.jpg"></a>
+
+
+Objevili jsme, že k Samsungu opravdu jdou připojit dvoje sluchátka naráz. Budeme tančit, teď už není výmluv.<br>
+V Praze jsme netradičně vystoupili na odletech. Nasedli na 119, dojeli na Šárku a nesmyslně dlouho čekali na 191. Nesnáším ten autobus. Naštěstí jsme na Strahově stihli přestup.<br>
+U Mišky jsem pozdravil Terku, ale tikala mi jízdenka, takže mě Miška vyprovodila ven, rozloučili jsme se a já pěšky vyrazil na tramvaj. Ta mi frnkla. V Tescu jsem si koupil housku a dojel na Vinohrady desítkou. Na míráku si vzal rekolo a dojel domů v momentu, kdy tam projížděla ona zpropadená sedmička.
+
+### 24.10. 
+
+Nestíhal jsem psát deník. Vůbec. Na jednu stranu mě to ohromě těšilo, poslední dobou jsem žil jak nikdy. Říkal jsem si, že jsem ten nejšťastnější kluk na planetě a opravdu se tak cítil. Ale štvalo mě to. Chtěl jsem mít záznam toho, co mě činilo šťastným. Bylo třeba zpomalit a za jeden den zapsat aspoň dva, spíš tři.<br>
+
+
+### 25.10. Stavění draka
+
+
+
+### 26.10. Opět nemocný
+
+minul jsem drakiádu
+
+### 27.10. 
