@@ -29,7 +29,7 @@
 - [27.10. Není to Covid](#2710-není-to-covid)
 - [28.10. Vykašlávám hleny](#2810-vykašlávám-hleny)
 - [29.10. Avatar](#2910-avatar)
-- [30.10.](#3010)
+- [30.10. Zpátky do práce](#3010-zpátky-do-práce)
 - [31.10. Pro filtr](#3110-pro-filtr)
 
 ### 1.10. Na vrchol bez vyvrcholení
@@ -507,20 +507,25 @@ V tašce bylo koření, test na covid, čaj ze slézu a kodein a hlavně dopis. 
 ### 28.10. Vykašlávám hleny
 
 Psát si deník je většinou zábava. Ale občas je to i přítěž. Obzvlášť když nestíhám. A za poslední dva měsíce se toho stalo tolik, co bych chtěl mít zaznamenanýho, ale nemůžu říct, že by se mi to dařilo. A to ani přes to, že jsem se celý den válel v posteli.<br>
-Ono, nebyl jsem úplně fit. Ale cítil jsem, že jsem se z nejhoršího přehoupl do další fáze.
+Ono, nebyl jsem úplně fit. Ale cítil jsem, že jsem se z nejhoršího přehoupl do další fáze. Možná mi k tomu pomohla moje zelňačka. Ne že by se mi povedla. Během vaření jsem si celou dobu říkal, že je něco špatně. Ale až v prvním ochutnání mi došlo, že v polívce nejsou brambory.<br>
+Taky se mi stokrát smetana, protože koho by napadlo že smetana K šlehání ní nejde nalít do kyselé polévky. A to jsem jí předtím ohřál, protože studená smetana se zdrcne vždycky.<br>
+Ale jíst šla, vitamíny měla, a zakysanku a brambory použiju příště.
 
 ### 29.10. Avatar
 
-### 30.10.
+Miška říká, že nejsme připravení na binge watching. Je to příliš mnoho emocí naráz a kvůli seriálům nám už nezbývá kapacita prožívat emoce v reálném životě. Do jistý míry s ní souhlasím. Nebo.. úplně s ní souhlasím. Stejně to ale dělám. Ne tak moc jako někteří, ale binge watching má v mém životě místo.<br>
+Dnešek byl rozhodně ten den. Čtvrtý den v posteli. Už jsem to nezvládal. Vzal jsem si na pomoc s krácením času posledního vládce větru. Ne ten ohavný film od M. Night Shyamalana. Ten původní.  Nejlepší seriál na planetě.
+Zvládnul jsem celou první řadu.
 
-vlakem<br>
-džus, pěšky a na rekole<br>
-vláďa stejnou rýmu jako já<br>
-do vietnamky<br>
-odhalení chyby<br>
-pěšky domů s myškou v uších<br>
-o velkých tématech jako dětech, adopci, polyamorii apod<br>
-až skoro do deseti<br>
-čištění sprchy
+### 30.10. Zpátky do práce
+
+Šel jsem do práce. Doma už bych to nedal. Sice jsem ještě trochu kašlal a rozhodně jsem měl rýmu, ale teploty už byli pryč a necítil jsem se téměř vůbec špatně. Pro jistotu jsem si do lékárničky přibalit kdyby se to zhoršilo a musel jsem jet zpátky domů, a místo kola jsem zvolil vlak.
+Dokonce jsem si na tu jednu stanici koupil lístek, byť až ve vlaku jsem si uvědomil, že jsem nastoupil do dřívějšího zpožděného spoje a lístek mi neplatí takže těch 14 Kč by mě od pokuty nezachránilo.<br>
+V Lidlu u nádraží jsem si koupil pomerančový džus. Vitamín C je třeba. Pěšky vyrazil po highlině a v Karlíně mě to přestalo bavit a zbytek byl na Rekole.
+Ukázalo se že s rýmou nejsem jediný. Vláďa zněl taky značně nakřáple.<br>
+Během dne jsem svá snažení posledních dvou týdnů nahrála minitotem a objevil že byl buildrootu je chyba. Vláďa necommitnul read-only overlay. Slíbil že to do středy opraví, ale musel tím změnit historii asi 7 verzi zpátky.<br>
+Cestou zpátky domů jsem si telefonoval s Miškou. Diskuse začala hravě, ale dostali jsme se do hlubokých témat. Povídali jsme si o dětech, o polyamorii, o adopci.
+Telefonovali jsme takhle až někdy do deseti večer a přineslo mi to klid v duši. Myslím že máme šanci.<br>
+Sprcha přestala odtékat. Místo zvonu jsem dokázal použít láhev od džusu. A fungovalo to parádně. Velký hrdlo láhve odpovídá odtoku skoro jak kdyby to tak navrhli. Taky jsem trochu očistil sprcháč. Byt už ale začínal žadonit o nějaký generální úklid.
 
 ### 31.10. Pro filtr
