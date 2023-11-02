@@ -1,4 +1,4 @@
-## [Říjen](2023.md)  
+## [Říjen](2023.md) 
 
 - [1.10. Na vrchol bez vyvrcholení](#110-na-vrchol-bez-vyvrcholení)
 - [2.10. Cooltra](#210-cooltra)
@@ -16,18 +16,21 @@
 - [14.10. Vyležet to](#1410-vyležet-to)
 - [15.10. Pro chleba](#1510-pro-chleba)
 - [16.10. Klapky a struny](#1610-klapky-a-struny)
-- [17.10.](#1710)
+- [17.10. Tuctové úterý](#1710-tuctové-úterý)
 - [18.10. Dub nebyl červený](#1810-dub-nebyl-červený)
 - [19.10. Dle plánu](#1910-dle-plánu)
-- [20.10.](#2010)
+- [20.10. Na výhledy eskalátorem](#2010-na-výhledy-eskalátorem)
 - [21.10. První rande](#2110-první-rande)
 - [22.10. Krásy velkoměsta i maloměsta](#2210-krásy-velkoměsta-i-maloměsta)
-- [23.10.](#2310)
-- [24.10.](#2410)
+- [23.10. Příliš rychle](#2310-příliš-rychle)
+- [24.10. Zpátky v práci](#2410-zpátky-v-práci)
 - [25.10. Stavění draka](#2510-stavění-draka)
 - [26.10. Opět nemocný](#2610-opět-nemocný)
 - [27.10. Není to Covid](#2710-není-to-covid)
 - [28.10. Vykašlávám hleny](#2810-vykašlávám-hleny)
+- [29.10. Avatar](#2910-avatar)
+- [30.10.](#3010)
+- [31.10. Pro filtr](#3110-pro-filtr)
 
 ### 1.10. Na vrchol bez vyvrcholení
 
@@ -82,7 +85,21 @@ lukáš s kendym<br>
 
 ### 4.10. Horečka středeční noci
 
+Další první středa. Další Aero naslepo.<br>
+Oproti poslední návštěvě, kdy jsme byli přítomní pouze já a Rebeka, měl přijít ranec lidí. Ondra pozval Jeňýka. Marťa Vildu a jejího kolegu. A ke mně se konečně mohla přidat Miška, protože nebyla v říši.<br>
+Vyzvedla mě po práci u nás. Popsal jsem jí, že mě najde u žlutého kola a opravdu se po páté objevila u nás v Corsu. Prý to tam máme moderní a krásný. To asi máme. Hlavně máme platany. Překvapilo mě, že i prý uvnitř to prý máme hezčí než na Roztylech. Nevím. Náš showroom plný tiskáren a bordelu. Stoly plné věcí na kterých pracujeme. Prostě inženýrský prostor.<br>
+Kromě mě byl v práci už jen DJ, takže byl první z mých kolegů, kteří Mišku poznali osobně. Trochu se mě dotklo, že si Miška všimla, že Ivan má nejuklizenější stůl. Jendou za pět let si ho uklidil, protože měl být měsíc pryč a hned další den to mám takhle na talíři. Napsal jsem mu to a hodně ho to pobavilo.<br>
+Před filmem jsme se chtěli ještě projít a něco si sníst. Otočili jsme se v Albertu. Vrátili se ještě pro láhev a mrkve a pak vyrazili tunelem nahoru a pak na Vítkov.
+
 <a href="../images/2023_october/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/4_1.jpg"></a>
+
+Na výhledu jsme si dali sváču a jako dezert perník, který Miška upekla. Bylo to výborný. Slunko pomalu zapadalo za petřínem, ale skutečný západ vidět nebyl. Zmizelo někde v mracích.<br>
+V Aeru jsme chtěli být kolem sedmé. Z Vítkova je to docela kousek. Miška mi ukazovala, kde všude jsou tam schované houpačky a musím říct, že málo jich není. Dál jsme přešli přes mostek, prošli kolem koupaliště a před kinem narazili na Rébu.<br>
+Sotva jsme pořídili lístky, dorazil Ondra. A pak Marťa s Vidlou a kolegou Honzou. A pak Jeňýk. Byl nás kolem stolu docela randál. Řešili jsme, kdo je vlastně ten kdo u stolu spojuje nejvíc lidí a pokud se nemýlím, byl jsem to já. Vlastně mě to nepřekvapovalo. Já jsem s Marťou Aero naslepo začal.<br>
+Film byl naštěstí mnohem lepší než minule. [The 'Burbs](https://www.csfd.cz/film/2274-lide-z-predmesti). Trochu absurdní komedie z dob, kdy byl Tom Hanks ještě mladý.<br>
+Po filmu jsme už neposedávali. Společně jsme všichni vyrazili na tramvaje.<br>
+Já s Miškou a Ondra s Rébou jsme jeli devítkou. Réba během jízda nadšeně založila zmrzlinovou skupinu, která mi přišla naprosto zbytečná, ale třeba jí někdy využijeme.<br>
+U Mišky doma jsme si splnili rest z Neděle a vyvrcholení přišlo. Nejedno.
 
 ### 5.10. Sbírat šípky říkala
 
@@ -116,7 +133,29 @@ pochod it is<br>
 
 ### 7.10. Pivní pochod
 
+sraz u motola<br>
+pár lidí jsem neznal<br>
+ondra si nevšiml Mišky<br>
+filip v japonsku<br>
+autobusem do první hospody<br>
+chilli pivo<br>
+přes les<br>
+pečovatel a oftalmoložka<br>
+o svatbě<br>
+ke golfu<br>
+pivo po dlouhý době
+
 <a href="../images/2023_october/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/7_1.jpg"></a>
+
+lesem<br>
+do hospody, kde by asi šlo jíst, ale byla tam strašná fronta<br>
+podél potoka loděnice<br>
+do dědkova mlýna<br>
+jsme staří?<br>
+brouk a rádoby dřevěná BTS<br>
+anet rodičů chata<br>
+opuštěná radiostanice<br>
+
 
 <a href="../images/2023_october/7_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/7_2.jpg"></a>
 
@@ -124,7 +163,7 @@ pochod it is<br>
 
 ### 8.10. Jedno čisté okno a pár poznámek
 
-Spali jsme asi do deseti. A z postele se dostali ve dvanáct. Do té doby jsme 
+Spali jsme asi do deseti. A z postele se dostali ve dvanáct. Do té doby jsme
 
 ### 9.10. Kuchyňský hack
 
@@ -161,7 +200,7 @@ Cestou zpátky jsem si telefonoval s Miškou. Šel jsem pěšky a tak to trvalo 
 
 ### 11.10. Lepší debugging
 
-Vousy vlasy už přerostly únosnou mez. Den jsem tady začal tím, že jsem se trochu zkultivoval. Na kole se mi nechtělo, a na bazén asi nebyl po ránu čas. 
+Vousy vlasy už přerostly únosnou mez. Den jsem tady začal tím, že jsem se trochu zkultivoval. Na kole se mi nechtělo, a na bazén asi nebyl po ránu čas.
 Taky už začínalo být chladno. Rozhodl jsem se nechat kraťasy doma a vyrazit manšestrákách. Na plavání ráno jsem se necítil.
 Výstup na Vinohrady ale člověka zahřeje. Mikinu jsem tak schoval do batohů ještě ve Vršovicích.
 Trh na Jiřáku voněl. Dýňový quiche s Kozím sýrem mě málem přemluvil k tomu abych utratil další peníze. Snídal jsem ale doma.
@@ -174,19 +213,35 @@ Cestou jsem se opět telefonoval s Miškou. Díky tomu mi to uteklo jak voda. Do
 ### 12.10. Signál
 
 Do práce pěšky<br>
-Večer mělo pršet, ale ráno bylo zlatavé<br>
-ě
+Večer mělo pršet, ale ráno bylo zlatavě
+
+<a href="../images/2023_october/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/12_1.jpg"></a>
+
 pěšky ke knihovně<br>
 akorát tak na čas<br>
 všichni ostatní zpoždění<br>
 na druhé promítání všichni<br>
-akorát adél nás našla až po
-
-<a href="../images/2023_october/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/12_1.jpg"></a>
+akorát adél nás našla až po<br>
+na pivo do skauťáku<br>
+až nahoru<br>
+dvanáctku s tomášem<br>
+Miška z říše za námi<br>
+na staromáku svetýlka co bez kouře moc nefungovaly<br>
+na ovocňák, kde kamery snímaly mobily<br>
+na senovážné, kde kapaly kapky<br>
+na republikáč, kde vonělo kafe a blikaly kruhy
 
 <a href="../images/2023_october/12_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/12_2.jpg"></a>
 
+do kasáren, kde do hudby blikaly opakuící se vzorce<br>
+ke kostelu co byl napřed opatrný, pak trojrozměrný a pak mu ruplo v bedně<br>
+k pojišťovně, kde AI hýbala rybami<br>
+karlínem k výstavě co se platila<br>
+do parku, kde byly nudý kruhy a ještě nudnější laser
+
 <a href="../images/2023_october/12_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/12_3.jpg"></a>
+
+a pak na metro co naštěstí neujelo
 
 ### 13.10. I já jsem nemocný
 
@@ -218,8 +273,7 @@ kolem marťi domů
 zapoměl jsem na ondru<br>
 po práci na kole do kytar<br>
 
-
-### 17.10. 
+### 17.10. Tuctové úterý
 
 ### 18.10. Dub nebyl červený
 
@@ -234,7 +288,6 @@ balení<br>
 na tramvaj<br>
 přes palčák až na hřebenku<br>
 miška mě vyzvedla<br>
-
 
 ### 19.10. Dle plánu
 
@@ -256,7 +309,7 @@ Podobně jako u nás v parku létají holubi, v Barceloně mají papoušky. Při
 <a href="../images/2023_october/19_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/19_2.jpg"></a>
 
 Potěšilo mě, že v Barceloně jsou skoro všude pítka. Nemuseli jsme se tak tahat s velkým množstvím vody. Došli jsme zpátky k oblouku a až o kousek dál jsme si uvědomili, že jsme minuli knihovnu, kterou chtěla Miška vidět. Říkala, že se tam zastavíme později. Měl jsem pochyby. Zas tak moč času jsme neměli.<br>
-Radši jsme bloumali gotickým centrem. Nadchly nás vykopávky původní Barcelony, kterou téměř kompletně zbořili při Španělských válkách. 
+Radši jsme bloumali gotickým centrem. Nadchly nás vykopávky původní Barcelony, kterou téměř kompletně zbořili při Španělských válkách.
 
 <a href="../images/2023_october/19_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/19_3.jpg"></a>
 
@@ -269,9 +322,9 @@ Dál jsme potemělými uličkami mířili k obelisku. Museli jsme se ubytovat a 
 Nakoupili jsme tortillu de patatas se špenátem a zumo de naranja. Pod deštníkem jsme se přesunuli do hostelu Jacobs Inn a hned po checkinu si tortillu ohřáli na pánvi.<br>
 Hostel to byl moc fajn. Společné prostory byly čisté, pokoj klidný. Co víc si přát. Měli jsme jednu palandu. Miška spala nahoře a já dole. Poměrně vyřízení jsme si rychle dali sprchu, vyčistili zuby a šli spát.
 
-### 20.10. 
+### 20.10. Na výhledy eskalátorem
 
-Vzbudili jsme se docela brzo. A ve Španělsku vychází slunce pozdě. Navíc jsme potřebovali koupit si něco na snídani. Ideální kombo. Východ měl být v 8:03. Spousta času na to dostat se na pláž. Ostatně byla jen asi 3 bloky od nás. 
+Vzbudili jsme se docela brzo. A ve Španělsku vychází slunce pozdě. Navíc jsme potřebovali koupit si něco na snídani. Ideální kombo. Východ měl být v 8:03. Spousta času na to dostat se na pláž. Ostatně byla jen asi 3 bloky od nás.
 
 <a href="../images/2023_october/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/20_1.jpg"></a>
 
@@ -292,7 +345,7 @@ V parku bylo asi trilion lidí. Sice jsme tomu dali šanci, ale vstupný bylo vy
 Došli jsme tam zkratkou po barevných schodech. Potkali další čechy, co se nás vyptávali jak se vracíme domů a fotili jsme si výhled na Sagradu. Dál vedla Miška. Dohodli jsme se, že kopec obejeme a budeme tak mít výhled i na druhou stranu. A to stálo za to. Nejen, že bylo vidět na hory a další část města. Navíc jsme objevili, že jsme v podivně důchodcovské části města, kde jsou vedle schodů eskalátory a výtahy.<br>
 Koukali jsme na střechy na kterých lidé měli sezení a u jedné nám přišlo, že tam musí být dobré párty. Až když jsme sešli dolů, objevili jsme, že to je střecha knihovny a že má nahoře kavárnu, ve které jsme si španělsky objednali 2 kávy bez kofeinu.<br>
 Miška zatoužila po společné fotce. Bluetooth ve foťáku sice odmítal fungovat, ale stará dobrá časospoušť nás zachránila. Mám radost, že na fotce Mišce hrabu na zadek. Je to autentický.<br>
-Po kamenných schodech přes zahradu ideální pro tiny house jsme konečně vyšli k 360° výhledům. 
+Po kamenných schodech přes zahradu ideální pro tiny house jsme konečně vyšli k 360° výhledům.
 
 <a href="../images/2023_october/20_3.jpg" target="_blank"><img src="../images/thumbnails/2023_october/20_3.jpg"></a>
 
@@ -387,11 +440,11 @@ Nakonec ale druhá servírka nabídla lepší vína, která nakonec stála 10€
 Hodně mě ale pobavil business model tamějšího harmonikáře. Nehrál. Napřed chtěl po lidech peníze a když mu je nedali, začal vydávat disharmonické zvuky. Stejně mu nikdo nic nedal.<br>
 Nicméně posezení to bylo moc fajn. Miška později řekla, že to bylo takový docela randíčko. Možná proto se potom večer na pokoji ještě děly věci a spát jsme šli až někdy po jedné.
 
-### 23.10. 
+### 23.10. Příliš rychle
 
 Ani ráno jsme nebyli o moc rozumnější. Nebo spíš já. Probudil jsem se docela brzy a nedařilo se mi usnout. Být spolu tělo na tělo ale bylo skvělý. Začali jsme blbnout a zpětně lituju jen toho prostěradla. Nic na co by v hotelu nebyli zvyklí. Taky jsme si odškrtli další metu. Společnou sprchu. Když mi Miška v Září psala, že se mám po výletě do Slovinska stavit rovnou u ní, že neva že budu špinavej a budu smrdět, protože si dáme sprchu spolu. Moc jsem jí to nevěřil. A přiznala, že by se opravdu ostýchala. Ale krůček po krůčku..<br>
 Po neobyčejně dlouhé době strávené ve sprše jsme se zabalili a vyrazili ven. Tentokrát na tržiště. A cestou jsme potkali poštu. Měli jsme v batohu 7 pohledů a ani jednu známku. Pošta nám ale moc nepomohla. Vůbec tam neměli obchůdek. Jen pořadník a spoustu lidí. Miška si tedy vzala lístek a já vyrazil do města, hledat známky jinde. A jak internet radil, v prvním tabáku je měli. Sice jsem si spletl seis a siete, ale nakonec jsme to nějak zvládli. Na lavičce jsme pohledy opatřili známkami a vložili je do schránky před poštou.<br>
-Následovala snídaně. Pořád jsme měli sýr intenzity 5. Taky půlku chlebu. Chyběla nám ale zelenina. Na tržišti jsme koupili papriku a dvě jablka. Uprostřed náměstí jsme si sedli na kulatou lavičku a pustili se do toho. Paprika to byla fakt výborná. Ale i po jídle nás ještě honila mlsná. Vrátili jsme se na tržnici, koupili nějaké anýzové sladkosti a u moc příjemné paní koupili dva dekafy. Miška koukala na důchodce u kafostánku a popíjející své dopolední drinky. Říkala, že takhle si to představuje. Venku se mezitím rozpršelo, takže jsme s kávou nechvátali. 
+Následovala snídaně. Pořád jsme měli sýr intenzity 5. Taky půlku chlebu. Chyběla nám ale zelenina. Na tržišti jsme koupili papriku a dvě jablka. Uprostřed náměstí jsme si sedli na kulatou lavičku a pustili se do toho. Paprika to byla fakt výborná. Ale i po jídle nás ještě honila mlsná. Vrátili jsme se na tržnici, koupili nějaké anýzové sladkosti a u moc příjemné paní koupili dva dekafy. Miška koukala na důchodce u kafostánku a popíjející své dopolední drinky. Říkala, že takhle si to představuje. Venku se mezitím rozpršelo, takže jsme s kávou nechvátali.
 
 <a href="../images/2023_october/23_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/23_1.jpg"></a>
 
@@ -413,23 +466,61 @@ Objevili jsme, že k Samsungu opravdu jdou připojit dvoje sluchátka naráz. Bu
 V Praze jsme netradičně vystoupili na odletech. Nasedli na 119, dojeli na Šárku a nesmyslně dlouho čekali na 191. Nesnáším ten autobus. Naštěstí jsme na Strahově stihli přestup.<br>
 U Mišky jsem pozdravil Terku, ale tikala mi jízdenka, takže mě Miška vyprovodila ven, rozloučili jsme se a já pěšky vyrazil na tramvaj. Ta mi frnkla. V Tescu jsem si koupil housku a dojel na Vinohrady desítkou. Na míráku si vzal rekolo a dojel domů v momentu, kdy tam projížděla ona zpropadená sedmička.
 
-### 24.10. 
+### 24.10. Zpátky v práci
 
 Občas mám pocit, že co jsem začal psát deník, žiju čím dál tím víc a nestíhám ho psát. Je to do jistý míry frustrující, ale zároveň mě baví, když zážitky zaznamenám. tentokrát jsem ale byl mrtě pozadu. Na jednu stranu mě to ohromě těšilo. Žil jsem jak nikdy. Říkal jsem si, že jsem ten nejšťastnější kluk na planetě a opravdu se tak cítil. Ale štvalo mě to. Chtěl jsem mít záznam toho, co mě činilo šťastným. Bylo třeba zpomalit a za jeden den zapsat aspoň dva, spíš tři.<br>
 
 
 ### 25.10. Stavění draka
 
-
+tyčky po jhonym<br>
+jirka na bulharu<br>
+o práci kreslit spojky<br>
+docela to trvalo<br>
+vteřiňák nelepil<br>
+pro jídlo do alberta<br>
+byla mi zima i horko<br>
+tyčky byly příliš tenké<br>
+k martě pro klíče<br>
+kašlal jsem cestou<br>
+v noci to propuklo naplno
 
 ### 26.10. Opět nemocný
 
-minul jsem drakiádu
+tramvají do karlína<br>
+sbalil jsem elektroniky<br>
+mucosolvan a ibáč<br>
+mohl jsem jet na jeden lístek<br>
+doma pracovat v dece<br>
+horšilo se to<br>
+nákup zeleniny a ovoce<br>
+telefonát s miškou až do večera<br>
+minul jsem drakiádu<br>
 
 ### 27.10. Není to Covid
 
 V úterý jsem si stěžoval, že na psaní deníku nemám čas. A najednou jsem ho měl fůru. Akorát mě teda občas chytil záchvat kašle. Bolela mě hlava a pokoušela se o mě zimnice. Ale měl jsem měsíční skluz. Do večera jsem chtěl zapsat alespoň Barcelonu. A docela se mi to povedlo.<br>
 Ale byl jsem fakt nemocnej. Už jen vaření polévky mě zmohlo na půl dne dopředu. Asi na mě přišel Covid. Fakt mě to štvalo. Chtěl jsem jet domů do Lásenice a tohle bylo podruhé, co mi to nemoc znemožnila.<br>
-
+Miška za mnou přijela po návratu z říše. Jen na pár minut, předtím než pokračovala dál do Třebové k babičce. Oblékl jsem se do teplého, ale stejně jsem se rozklepal zimou. Taky jsem si nasadil roušku abych na ní náhodou nenaprskal. Přijela v zeleném svetru, který jsem ještě neviděl. Hrozně moc jí to slušelo a hrozně moc jsem jí chtěl obejmout a políbit. Ale nechtěl jsem jí nakazit. Asi pět minut jsme venku chodili a pak jsme se rozloučili. Cítil jsem, že na víc moc nemám. Předala mi T-Mobile tašku prý s vitamíny. Zamával jsem jí shora když vyjížděla a podíval jsem se co jsem vlastně dostal.<br>
+V tašce bylo koření, test na covid, čaj ze slézu a kodein a hlavně dopis. Při jeho čtení jsem se rozbrečel. Vděčností, že mám tak skvělou a hodnou holku, která na mě myslí. A nejen na mě. Miška je hodná na všechny kolem sebe. Mám ohromný štěstí.
 
 ### 28.10. Vykašlávám hleny
+
+Psát si deník je většinou zábava. Ale občas je to i přítěž. Obzvlášť když nestíhám. A za poslední dva měsíce se toho stalo tolik, co bych chtěl mít zaznamenanýho, ale nemůžu říct, že by se mi to dařilo. A to ani přes to, že jsem se celý den válel v posteli.<br>
+Ono, nebyl jsem úplně fit. Ale cítil jsem, že jsem se z nejhoršího přehoupl do další fáze.
+
+### 29.10. Avatar
+
+### 30.10.
+
+vlakem<br>
+džus, pěšky a na rekole<br>
+vláďa stejnou rýmu jako já<br>
+do vietnamky<br>
+odhalení chyby<br>
+pěšky domů s myškou v uších<br>
+o velkých tématech jako dětech, adopci, polyamorii apod<br>
+až skoro do deseti<br>
+čištění sprchy
+
+### 31.10. Pro filtr
