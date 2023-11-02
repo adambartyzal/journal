@@ -165,6 +165,11 @@ opuštěná radiostanice<br>
 
 Spali jsme asi do deseti. A z postele se dostali ve dvanáct. Do té doby jsme
 
+<a href="../images/2023_october/8_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/8_1.jpg"></a>
+
+<a href="../images/2023_october/8_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/8_2.jpg"></a>
+
+
 ### 9.10. Kuchyňský hack
 
 do bazénu<br>
@@ -481,6 +486,9 @@ vteřiňák nelepil<br>
 pro jídlo do alberta<br>
 byla mi zima i horko<br>
 tyčky byly příliš tenké<br>
+
+<a href="../images/2023_october/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/25_1.jpg"></a>
+
 k martě pro klíče<br>
 kašlal jsem cestou<br>
 v noci to propuklo naplno
@@ -529,3 +537,5 @@ Telefonovali jsme takhle až někdy do deseti večer a přineslo mi to klid v du
 Sprcha přestala odtékat. Místo zvonu jsem dokázal použít láhev od džusu. A fungovalo to parádně. Velký hrdlo láhve odpovídá odtoku skoro jak kdyby to tak navrhli. Taky jsem trochu očistil sprcháč. Byt už ale začínal žadonit o nějaký generální úklid.
 
 ### 31.10. Pro filtr
+
+<a href="../images/2023_october/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/31_1.jpg"></a>
