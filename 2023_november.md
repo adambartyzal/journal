@@ -1,12 +1,18 @@
 ## [Listopad](2023.md)  
 
-- [1.11. Votovo brano](#111-votovo-brano)
+- [1.11. Vojtovo brano](#111-vojtovo-brano)
 - [2.11. Miška zpět](#211-miška-zpět)
 - [3.11. 日本國](#311-日本國)
 - [4.11. Do bažantího údolí](#411-do-bažantího-údolí)
 - [5.11. Nech muže pracovat](#511-nech-muže-pracovat)
+- [6.11. Metličky pro Arnošta](#611-metličky-pro-arnošta)
+- [7.11. Polední sluníčko](#711-polední-sluníčko)
+- [8.11. Čínský syndrom](#811-čínský-syndrom)
+- [9.11. Nahá Míša Kantová v mojí posteli](#911-nahá-míša-kantová-v-mojí-posteli)
+- [10.11. Medvědí spánek](#1011-medvědí-spánek)
+- [11.11.](#1111)
 
-### 1.11. Votovo brano
+### 1.11. Vojtovo brano
 
 Vlakem a na rekole<br>
 Ivan zas chodí do práce<br>
@@ -102,4 +108,112 @@ Do sprchy a spát v před jedenáctou
 
 Pomalé probouzená, další démoni, další flek na prostěradle<br>
 Štětiny pro arnošta<br>
-Dát zapéct zeleninu
+Dát zapéct zeleninu<br>
+oběd na dece, sušenky, jogurt s psaním a granátové jablko<br>
+mišku popadly démoni<br>
+hodiny ubíhaly, nepočítali jsme to<br>
+slunce trochu zašlo<br>
+ven kolem páté?<br>
+aurou nahoru<br>
+výhledy a západ slunka<br>
+od hradu dolů a přes most<br>
+výstava, napřed nudná, ale světelná instalace byla super<br>
+i zbytek docela fajn<br>
+loučení<br>
+na rekole domů<br>
+
+### 6.11. Metličky pro Arnošta
+
+Nějak jsem se stále necítil na ježdění na drakovi. Zvolil jsem opět metodu vlak na hlavák, zastávka v Lidlu, pěšky do Karlína. Nakoupil jsem věci na salát s tofu k obědu. Bylo třeba nabrat vitamíny a taky trochu šetřit.<br>
+Sára konečně poslala modely vykrajovátek na sušenky. Ve sliceru mě trochu zarazilo, že jsou to halloweenské tvary. Předvečer všech svatých byl pár dní zpátky. Prý ale není zpožděná, nýbrž připravená téměř rok dopředu.
+
+<a href="../images/2023_november/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/7_1.jpg"></a>
+
+Kromě vykrajovátek jsem tiskl ještě červená madla na pákostroje ze Safiralu. Když už nám je vrátili, chtělo to upgrade. A bajonet na zuby za tu práci rozhodně stojí.<br>
+Doma jsem se pustil do další zelnice. Tentokrát bez smetany, ale s brambory a paprikou. A byla lepší. Takhle i příště.
+
+<a href="../images/2023_november/7_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/7_2.jpg"></a>
+
+Při konzumaci jsem se pustil do opravy Arnošta. Jeho metličky už byly v opravdu žalostném stavu. Radši jsem mu koupil dvoje až si otrhá i tyhle. Snad jsem se ale poučil a tkaničky a kabely už mu do cesty nedávám.
+
+<a href="../images/2023_november/7_3.jpg" target="_blank"><img src="../images/thumbnails/2023_november/7_3.jpg"></a>
+
+### 7.11. Polední sluníčko
+
+Kvůli certifikaci boxu jsme ráno s DJem vyrazili do Malešic. Úterý jsem možná podvědomě vybral proto, že na Kubáni mají v úterý a ve čtvrtek trhy. A trhy znamenají koláč k snídani. Makový koláč!
+
+<a href="../images/2023_november/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/7_1.jpg"></a>
+
+Ve výrobě byl Filip, Šťépa a Ríša. S DJem jsme se pustili do příprav a testování boxu a odebírání displejů na vyhodnocení testu zalévání. Do oběda jsme měli hotovo. Ríša mi ukázal horní skladovací prostory a v kuchyňce jsem pokecal s ostatními.<br>
+Na oběd jsem ale vyrazil do Karlína. Cestou svítilo sluníčko. Musím uznat, že jezdit mezi výrobou a vývojem na kole je v takový dny hodně fajn. Sluníčko v Malešickém parku mi přineslo aspoň trochu vitamínu D. I když málo. Kvůli chladu jsem byl obalený třemi vrstvami. V Lidlu na Žižkově jsem koupil věci na snědl si ho u Vojty na stole. Nic kloudnějšího se na stole už od května nedělo.<br>
+
+čím víc pák, tím větší zábava<br>
+
+### 8.11. [Čínský syndrom](https://www.csfd.cz/film/12163-cinsky-syndrom)
+
+Ráno jsem chtěl jít plavat. Nějak jsem se ale zasekl při mytí nádobí a pak už mi přišlo, že bych do Karlína přišel pozdě. A tak se stalo to, že jsem do Karlína přišel v úplně první. Ivan s Vláďou ale dorazili než jsem dovařil kafe. Ivan se pustil do věcí co jsem po něm chtěl. Bavili jsme se o Barceloně a Sagrádě a hodně se to podepsalo na vzhledu nového dílu testeru.
+
+<a href="../images/2023_november/8_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/8_1.jpg"></a>
+
+Na oběd jsme šli do Vietnamky. Bun Dau Nam Bo začíná být mé nejoblíbenější jidlo. Nic moc zapamatování hodnějšího se toho v práci asi nestalo.<br>
+V bazénu bylo asi trilión lidí. První tři dráhy byly plné dětí, které zřejmě měly nějakou plavací přehlídku, protože nahoře na ochozu seděli jejich rodiče. V lajně nás tak bylo pět a nějaký pár strašně zdržoval. Po kilometru mě to přestalo bavit.<br>
+Sice jsem si říkal, že nakupovat už ten den nic nebudu, ale přišla na mě chuť na čokoládu. A Albert byl coby kamenem dohodil. Něchal jsem kolo na Olšance a otočil se pro faitradeovou čokoládu Delicata. Byla fakt delikátní. Ale stejně dobrá čokoláda se dá koupit v Lidlu za polovic. A k fairtrade přihodí i bio.<br>
+Posilněn řádkou čokolády jsem nasedl na kolo a sjel do Aera. Ondra už tam byl. A nikdo jiný už přijít neměl. Dali jsme si pivko a povídali si o jeho novém držáku na projektor a o promítání Demolition Mana, které bychom měli uskutečnit. Na Ondru přišel hlad a tak jsme se přesunuli do nedaleké Vietnamky, kde si dal Pho.<br>
+Další pivo jsme už měli do plastu abychom s ním mohli do sálu.<br>
+Film byl bezva. Měl přes dvě hodiny a gradoval až do konce. Michael Douglas vypadá už 44 let skoro stejně.<br>
+Po filmu už jsme vyrazili dom. Trasu z Aera mám už naučenou nazpaměť. Místo toho abych šel robnou spát jsem ale šel uklízet. Nějak mě to chytlo a když je uklizený jeden roh a druhý ne, je to otrava.
+
+### 9.11. Nahá Míša Kantová v mojí posteli
+
+I ráno jsem uklízel. Začal jsem notně zašpiněnou lednicí. Když prokoukla, pokračoval jsem čištěním obkladaček. Hlavně v kuchyni na nich byla spousta mastné špíny. Ale i koupelna a záchod chtěly vyleštit. Taky jsem se rozhodl pořídit si takový ten závěs do toalety. Třeba mi to ušetří práci s čištěním mísy a bude hezky vonět.<br>
+A tak jsem šel ráno nakupovat. Kromě drogerie jsem pořídil rýži, zeleninu, pečivo na snídani a lámankový chléb ve slevněnce. Poslední byla zřejmě chyba. Už při prvním soustu se mi zdálo, že se blíží konci víc než píšou.<br>
+Do práce jsem dojel trochu později než jsem chtěl, ale aspoň na mě cestou svítilo. Hledal jsem, proč v testeru zámek nečte zatím co ve skořápce jo. Po třech hodinách jsem se začal hodně stydět. Objevil, že mi tester celou dobu říká co je blbě. Timeout na odpověď byl kratší než na čtení. Prostě jsem si shora podřízl větev. Hledal jsem chybu, která tam nebyla.<br>
+Po opravení timeoutu, se ale ukázalo, že tam stejně byla. Vyčítat se občas dařilo až na podruhé. Listen skript mi pomohl objevit co se děje. Je to sice nejjednodušší věc co jsem za dlouhou dobu napsal, ale je nejvíc nápomocná.<br>
+Po práci jsem nechal Arnošta vytřít a došel k Marťě zalít kytky. Nic neumíralo a její žíhané monsteře se klubal nový lístek.
+
+<a href="../images/2023_november/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/9_1.jpg"></a>
+
+Cestou jsem si telefonoval s Mámou a když jsem se vrátil, měl Arnošt skoro hotovo. Nijak extra aktivně vytírat neumí, ale když mu člověk pomůže s většími fleky, je výsledek docela fajn.
+Mišce naproti<br>
+bartoškova skoro plná<br>
+Miška si všimla že jsem uklízel. Prý to tam Kendy nepozná. Zahřálo mě to u srdíčka. Hlavně to teda těšilo mě, protože jsem kolem sebe neměl bordel naakumulovaný během několika let, ale je fajn, když to vidí někdo další.<br>
+Pustili jsme se do vaření. Stir fry mexické zeleniny a špenátu.
+vařili jsme mexickou zeleninu s rýží<br>
+v pokoji harryho<br>
+Musel jsem se rozesmát. V mojí posteli byla nahá Míša Kantová. To by mě pár let zpátky nenapadlo. A bylo to skvělý. Až někdy do půl jedný.
+
+### 10.11. Medvědí spánek
+
+Miška se nevysplala nejlíp. Prý to bylo novým místem. Něco na tom bude, když jsem spal poprvé u ní v posteli, taky jsem se budil. Snídani jsme vynechali. Možná jí budu muset naučit snídat aspoň něco. Aby nedostala pokutu, zaplatila 22 korun a po sesypání zbytku včerejší večeře do krabičky a opláchnutí nádobí jsme vyrazili k autu.<br>
+Miška na magistrálu jižně, já severně. Z Nuseláku jsem si vyfotil ranní Prahu a dorazil do Karlína.
+
+<a href="../images/2023_november/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/10_1.jpg"></a>
+
+HDMI přes USB-C v Karlíně taky nefungovalo. Rozebral jsem počítač a vyndal baterku. To pomohlo. Doufám, že se to nestane znova, opravovat je to ojeb.<br>
+Den to byl rutinní. Vylepšil jsem Parser ve fbtestu, dal vyčítání LfReaderem 3 pokusy a připravil si release RpiTesteru. A pak jsem nahrával bootloader pákostrojem a lakoval elektroniky.<br>
+DJ s Vláďou šli na oběd do jídelny, ale já jsem se těšil na mexiko co jsem měl v batohu. Taky jsem dojedl špenát, papriku a rajče, které jsem měl v lednici. Dohromady to bylo správně barevné.
+
+<a href="../images/2023_november/10_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/10_2.jpg"></a>
+
+Plánoval jsem jet domů vlakem. Ten kterým bych stihl autobus do Lásenice už byl drahý. Ten na večer ještě ne. Musel bych ale jet na kole. Řekl jsem si, že teda ještě sjedu domů, protože jsem tam nechal chleba. Stejně už začal být plesnivý. Vlak v mezičase zdražil. Zavolal jsem tátovi, že přijedu v sobotu dopoledne. Lepší jet za dne a na mě šla silná únava. Chvilku jsem koukal na Avatara, ale usnul jsem ještě před sedmou.
+
+### 11.11.
+
+A spal jedenáct a půl hodiny. A kdybych nemusel vstávat na vlak. Asi bych spal ještě dýl. K snídani jsem nic neměl. Stejně bych jí nestihl. Ve 6:47 jsem sbíhal schody a v 6:51 mi jel vlak.<br>
+Pověsil jsem draka na hák a šel si sednout naproti starému pankáčovi. Vlastně těžko říct jestli byl starý. Pankáčství tělu neprospívá zdá se.<br>
+Za okny vlaku mrzlo.
+
+<a href="../images/2023_november/11_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/11_1.jpg"></a>
+
+Nový koridor kolem Olbramovic byl fajn. Obzvlášť mě pobavil tunel skrz horu rozdělující dvě počasí. Na jedné straně nebyla mlha a na druhé nebylo vidět na metr.<br>
+kafe a linecký na peronu<br>
+se psem v kupé, průzor na kolo<br>
+nádherný podzim za okny<br>
+přes město a pak po velký<br>
+doma na čas<br>
+čaj<br>
+na výšlap po okolí<br>
+pevné boty jsou oser<br>
+stromy nešly moc fotit<br>
+o skandinávii a o výletu do jeseníků<br>
+kuře k obědu<br>
