@@ -469,29 +469,24 @@ Pak už to bylo poměrně rutijní. Sekuritka, čekání na letadlo, zpoždění
 
 Objevili jsme, že k Samsungu opravdu jdou připojit dvoje sluchátka naráz. Budeme tančit, teď už není výmluv.<br>
 V Praze jsme netradičně vystoupili na odletech. Nasedli na 119, dojeli na Šárku a nesmyslně dlouho čekali na 191. Nesnáším ten autobus. Naštěstí jsme na Strahově stihli přestup.<br>
-U Mišky jsem pozdravil Terku, ale tikala mi jízdenka, takže mě Miška vyprovodila ven, rozloučili jsme se a já pěšky vyrazil na tramvaj. Ta mi frnkla. V Tescu jsem si koupil housku a dojel na Vinohrady desítkou. Na míráku si vzal rekolo a dojel domů v momentu, kdy tam projížděla ona zpropadená sedmička.
+U Mišky jsem pozdravil Terku, ale tikala mi jízdenka, takže mě Miška vyprovodila ven, rozloučili jsme se a já pěšky vyrazil na tramvaj. Ta mi frnkla. V Tescu jsem si koupil housku a dojel na Vinohrady desítkou. Na Míráku si vzal rekolo a dojel domů v momentu, kdy tam projížděla ona zpropadená sedmička.
 
 ### 24.10. Zpátky v práci
 
 Občas mám pocit, že co jsem začal psát deník, žiju čím dál tím víc a nestíhám ho psát. Je to do jistý míry frustrující, ale zároveň mě baví, když zážitky zaznamenám. tentokrát jsem ale byl mrtě pozadu. Na jednu stranu mě to ohromě těšilo. Žil jsem jak nikdy. Říkal jsem si, že jsem ten nejšťastnější kluk na planetě a opravdu se tak cítil. Ale štvalo mě to. Chtěl jsem mít záznam toho, co mě činilo šťastným. Bylo třeba zpomalit a za jeden den zapsat aspoň dva, spíš tři.<br>
 
-
 ### 25.10. Stavění draka
 
-tyčky po jhonym<br>
-jirka na bulharu<br>
-o práci kreslit spojky<br>
-docela to trvalo<br>
-vteřiňák nelepil<br>
-pro jídlo do alberta<br>
-byla mi zima i horko<br>
-tyčky byly příliš tenké<br>
+Ondra svolal drakiádu na čtvrtek. Zkoukl jsem doma, co mám za materiál a dospěl k názoru, že nic kupovat nemusím. Johny nám z minulé drakiády nechal zbytek tyček a na tělo draka jsem se rozhodl použít strečku. Nacpal jsem tyčky do batohu a vyrazil na kole do práce.<br>
+Na bulharu jsem potkal Jirku na nextbiku. Na rozdíl ode mě měl zelenou, ale dojel jsem ho u Ponce.<br>
+Po práci jsem se dal do stavby draka. Šel jsem na to technicky. Spojky jsem se rozhodl vytisknout z plastu. Nakreslil jsem si je ve FreeCadu a nechal první tiskárnu pracovat.<br>
+Vypadalo to, že tam budu dlouho. Zastavil jsem se v Albertu pro něco k jídlu a když jsem dovečeřel, tiskárna měla hotovo.<br>
+První spojky byly moc malé. Druhé zas moc volné. Vteřiňák nelepil. Nakonec jsem inženýrsky přešel na izolepu. Tyčky ale byly příliš tenké a celý drak se kroutil.<br>
 
 <a href="../images/2023_october/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/25_1.jpg"></a>
 
-k martě pro klíče<br>
-kašlal jsem cestou<br>
-v noci to propuklo naplno
+Během stavby mi začalo být horko a zima zároveň. Byl to první indikátor toho, že je něco špatně. Během jízdy na kole k Marťě, která mi měla předat klíče jsem začal kašlat.<br>
+Dostal jsem instrukce jak co zalévat, popřál Vildovi s Marťou hezký výlet a šel s sebou mrsknout do postele. V noci to propuklo naplno. Šla na mě chřipka.
 
 ### 26.10. Opět nemocný
 

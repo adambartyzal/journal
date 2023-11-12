@@ -11,26 +11,24 @@
 - [9.11. Nahá Míša Kantová v mojí posteli](#911-nahá-míša-kantová-v-mojí-posteli)
 - [10.11. Medvědí spánek](#1011-medvědí-spánek)
 - [11.11.](#1111)
+- [12.11.](#1211)
 
 ### 1.11. Vojtovo brano
 
-Vlakem a na rekole<br>
-Ivan zas chodí do práce<br>
-Přivezl bramobry a cibuli<br>
-Na oběd ale nešel, protože čekal na vojtu<br>
-S Vláďou do indie<br>
-Vojta přinesl brano ze svý nový práce<br>
-NFCM by vlastně mohlo mít VSAM i na EBU, protože sériovka tam už je<br>
-Ludva řeší certifikace<br>
-pěšky domů<br>
-volám tátovi<br>
-nákup na zelnici<br>
-nápad na zablokování kolečka<br>
-kreslím až do večera<br>
-do noci si povídám s Miškou<br>
-Goran není pokorný
+V rámci rekonvalescence jsem na cestu do práce zvolil kombinaci vlak/rekolo. V Karlíně jsem potkal Ivana. To znamenalo, že utekl další měsíc. Taky to znamenalo, že se v showroomu válely pytle s cibulí a brambory. Ale bylo jich tam víc než bych čekal. Ukázalo se, že s listopadem přišel nejen Ivan do práce, ale taky sýrová sezona do McDonald's a na tu měl přijít Vojta. Měl přijít až někdy po jedné a protože já a Vláďa jsme měli hlad a mekáči moc neholdujeme, vyrazili jsme do Indie.<br>
+Po obědě Vojta přinesl udělátko na automatické otevírání oken ze své nové práce. Taky nám konečně vysvětlil, proč vlastně jejich korporát koupil onu skomírající firmu a jaké jsou jeho plány. Chtěl po nás, abychom mu to udělátko předělali na baterii.<br>
+Letmým výpočtem se to ukázalo jako nesmysl. I kdyby změnil mechaniku na západkový systém, stejně by mu baterka kvůli WiFi modulu došla po dvou dnech.<br>
+Rozhodl se nám nechat prototyp a nabídku toho, že kdybychom to chtěli nějak předělat, měl by pro nás práci.<br>
+Když se vydal povídat si vedle s Monikou, vrátili jsme se s Vláďou k tomu, že NFCM by vlastně mohlo mít VSAM i na EBU, protože sériovka tam už je.<br>
+Probrali jsme to před odchodem s Ludvou, kterého ze všeho nejvíc trápily certifikace, kvůli požáru ve Francii.<br>
+Domů jsem šel celou cestu pěšky. Zastavil jsem se v Lidlu pro věci na zelnici, zavolal tátovi a pak mě napadlo jak zablokovat kolečko ve Vojtově branu. Nadchlo mě to a až do noci jsem si to kreslil ve Freecadu.
+
+<a href="../images/2023_november/1_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/1_1.jpg"></a>
+
+Pak jsem si ještě povídal s Miškou. Byla nešťastná z Gorana. Prý chtěl mít všechno hotové hned, ale sám do ničeho moc neinvestoval svůj čas, chuť a energii. S takovými lidmi se těžko pracuje. Moc jsem jí s tím nebyl s to pomoci. Ale prý se alespoň vypovídala.
 
 ### 2.11. Miška zpět
+
 
 Miška se vracela na sedmou do Prahy<br>
 Na hlavák a pak vlakem<br>
@@ -216,4 +214,9 @@ na výšlap po okolí<br>
 pevné boty jsou oser<br>
 stromy nešly moc fotit<br>
 o skandinávii a o výletu do jeseníků<br>
-kuře k obědu<br>
+kuře s kaší k obědu<br>
+opravdu se rozpršelo<br>
+rozhýbat obrázek<br>
+diskuse o politice až do večera<br>
+
+### 12.11.
