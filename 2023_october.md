@@ -2,7 +2,7 @@
 
 - [1.10. Na vrchol bez vyvrcholení](#110-na-vrchol-bez-vyvrcholení)
 - [2.10. Cooltra](#210-cooltra)
-- [3.9. Atypické úterý](#39-atypické-úterý)
+- [3.10. Atypické úterý](#310-atypické-úterý)
 - [4.10. Horečka středeční noci](#410-horečka-středeční-noci)
 - [5.10. Sbírat šípky říkala](#510-sbírat-šípky-říkala)
 - [6.10. Všichni jsou nemocní](#610-všichni-jsou-nemocní)
@@ -42,13 +42,13 @@ Pán, který spal s paní ve společném spacáku byl první kdo se pustil do va
 
 Miška vybrala cestu po modré. Prošli jsme tak kolem lidí, co regulérně stanovali u vedlejší chatky. Ale působili v pohodě. Jen tím ohněm podle mě dráždili hada bosou nohou.<br>
 Modrá nás vedla z kopce dolů. Byla štěrková a co nevidět jsme došli na rozcestí. Mapa ale tvrdila, že žádné rozcestí tam ještě není. Pokračovali jsme tak dál a došli k čerstvě nařezanému dříví. Jeho vůně byla poměrně intenzivní a Miška přelétala od jednoho kmenu k druhému. Omámení vůní dřeva jsme pokračovali rovně k výhledu do okolí.<br>
-Aby to byl správný výhled, vydrápal jsem se na vysoký pařez a Mišku vytáhl k sobě nahoru. Byl to dobrej trik. Museli jsme být úplně u sebe a mělu jsme se tam moc hezky. Navíc jsme viděli od Brenné až po já nevím kam.<br>
-Ale v mapě jsme objevili, že se musíme vrátit zhruba někam k težké technice, která měla na svědomí ony pokácené stromy.<br>
+Aby to byl správný výhled, vydrápal jsem se na vysoký pařez a Mišku vytáhl k sobě nahoru. Byl to dobrej trik. Museli jsme být úplně u sebe a měli jsme se tam moc hezky. Navíc jsme viděli od Brenné až po já nevím kam.<br>
+Ale v mapě jsme objevili, že se musíme vrátit zhruba někam k těžké technice, která měla na svědomí ony pokácené stromy.<br>
 Zaujaly mě zvláštní fialové houby. Moc nevím co to bylo za druh, ale vedle nich byly moc hezké muchomůrky, tak jsem jednu vyfotil Ivanovi, který je má rád.
 
 <a href="../images/2023_october/1_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/1_2.jpg"></a>
 
-Dál jsme pokračovali dolů krajinou co se měnila z lesa na bažinu. Potkali jsme opuštěný seník, ve kterém by se spalo lépe než v útulně, který na spaní úplně smysl nedávala. Máme ho uložený na mapě. Štěrk se změnil v asfalt. Adamovské údolí se to tam jmenovalo a bylo to tam moc pěkný. Jen malý kus jsme museli přejít po větší silnci.<br>
+Dál jsme pokračovali dolů krajinou co se měnila z lesa na bažinu. Potkali jsme opuštěný seník, ve kterém by se spalo lépe než v útulně, který na spaní úplně smysl nedávala. Máme ho uložený na mapě. Štěrk se změnil v asfalt. Adamovské údolí se to tam jmenovalo a bylo to tam moc pěkný. Jen malý kus jsme museli přejít po větší silnici.<br>
 Z té jsme ale sešli do stoupáku ve kterém na nás šel hlad, ale nikde nebylo dobré místo k sezení.<br>
 Místo na piknik se ukázalo až nahoře. Na louce s výhledem. Jo jsme trapní, ale výhledy jsou prostě cool. Miška rozložila její karimatku a dali jsme si křupínky, mrkvičky, čokoládu a sušené mango.<br>
 A pak jsme se tam váleli. Bylo to moc dobrý místo na válení se. Na šmějdění rukama pod tričkem už to tak dobrý místo nebylo. Přece jen to bylo rozcestí a docela často kolem nás procházeli lidé. Vytvořili jsme ale plán. Jednoho dne se budeme oddávat pozemským radostem v lese.<br>
@@ -69,19 +69,23 @@ Ve vývoji jsme se sešli úplně všichni. Částečně to bylo tím, že v út
 Byli dva. Camil a Orian. Camil byl výřečnější a vlastně to nebyl Španěl, ale francouz, který ve španělsku bydlí. Vyptával se na stanice. Točil si venku u g5ky viděla a vlastně byl docela v poho. Orian asi řešil víc peníze a tak se bavil převážně s Ludvou. Když mě nepotřebovali, vrátil jsem se k osazování.<br>
 Večer jsem chtěl jít plavat, ale objevil jsem, že Ondra mi musí dát další Multisportku, protože záříjová byla jen zkušební. Aspoň jsem tak měl čas nacpat věci do pračky a trochu snížit chaos v bytě.
 
-### 3.9. Atypické úterý
+### 3.10. Atypické úterý
 
-španělé čekali vedle na ludvu celé dopoledne
+Španělé seděli v kanclu vedle už od rána. Vypadalo to, že jsou to naši noví kolegové. Prostě si tam pracovali a dohadovali se o něčem mezi sebou a vypadlo to, že ke štěstí jim nic nechybí. Napřiklad někdo s kým by se bavili. Například Ludva. Ten se ale objevil až před obědem. Nejspíš tak byli dohodnutí, ale působilo to zvláštně.<br>
+Já jsem v mezičase dostavil prototypy FBMC00. 0603 mi daly zabrat a nový driver v QFN pouzdru taky. Ale vypadalo to dobře. Od EBMC byl vidět posun. Těšil jsem se až to bude fungovat.
 
 <a href="../images/2023_october/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/3_1.jpg"></a>
 
-do indie v úterý
-španělé domů<br>
-blesky<br>
-dj v lidlu<br>
-déšť - telefonát s miškou<br>
-neštastná z gorana<br>
-lukáš s kendym<br>
+Vláďa byl v práci. To byl v úterý nezvyk. Vlastně všichni byli. Kvůli Španělům. Ale ti se jen občas na něco zeptali a jinak nás moc nepotřebovali.<br>
+Po letech jsme vyrazili do Indie v úterý. Měli tam Chana Masalu. Škoda, že to nemají třeba ve středu, kdy tam býváme často.<br>
+Odpo se s námi Španělé rozloučili. Vypadali, že se jim naše produkty líbí, ale bylo na nich vidět, že cena se jim nepozdává. I tak nad námi ale prý nezlomili hůl.<br>
+Když jsem dojel domů, děsivě se zatáhlo a přišly blesky. Při cestě na nákup jsem si je točil na slowmo.
+
+<p><video controls loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2023_october/3_2.mov" type="video/mp4"></video></p>
+
+Když už opravdu začalo pršet, přesunul jsem se do krámu a potkal tam DJe. Video blesků ho nadchlo.<br>
+Při cestě z obchodu už regulérně chcalo. Schovával jsem se u vstupních dvěří domů a přebíhal, když se mi zdálo že srážky nejsou tak intenzivní. To se mi moc nedařilo a tak jsem se posadil na zápraží domu naproti Mobaitu a zavolal Mišce. Byla nešťastná z Gorana. Jakožto nový kolega neznalý problematiky jí práci spíš přidělával než ubíral.<br>
+Doma jsem narazil na Lukáše s Kendym. Druhý den zvučili akci v Kachlíkárně a tak přijeli už večer před.
 
 ### 4.10. Horečka středeční noci
 
@@ -121,15 +125,14 @@ Nakonec jsme ale místo přenechali jiným a vydali se potemnělou prahou zpátk
 
 ### 6.10. Všichni jsou nemocní
 
+Když jsem dojel do práci, Vláďa se skoro klepal na židli. Vzduchotechnika se rozhodla nás zmrazit místo zahřát.
+
 <a href="../images/2023_october/6_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/6_1.jpg"></a>
 
-táta chřipku<br>
-vrátit lístek<br>
-co s víkendem<br>
-výlet, balkánský festival<br>
-pivní pochod s anet bez piva?<br>
-večer volám s miškou, prý je bossy<br>
-pochod it is<br>
+I přes nastavených 21 nám z fukaru lezlo 16 stupňů. Nakonec jsme objevili, že je to tím, že máme nastavné topení. Kotel asi ještě nebyl zapnutý a někde v suterénu, kde pravděpodobně sídlil musela být zima. Když jsme nastavili chlazení, teplota se zvedla někam k osmnácti stupňům.
+Volal jsem tátovi, že přijedu domů, ale ukázalo se, že na něj přišla nějaká chřipka a že už dva dny leží a nechce mě nakazit. Inu zadal jsem do aplikace ČD, že chci stornovat lístek a připravil se na víkend v Praze.<br>
+Miška na víkend plánovala návštěvy dvou kamarádů. Oba jí to odřekli. Taky kvůli nemoci. A tak jsme měli čas na sebe. Anet psala, že půjde na pivní pochod. Sára s Jardou zas chtěli na Balkánský festival. Sic jsem abstinoval už skoro dva měsíce, ale pochod do přírody mě lákal víc. A Miška byla pro.<br>
+Ondra se taky chtěl přidat. Bylo rozhodnuto, v sobotu se bude pochodovat Údolím Kačáku od hospody k hospodě.
 
 ### 7.10. Pivní pochod
 
