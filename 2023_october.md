@@ -81,7 +81,7 @@ Po letech jsme vyrazili do Indie v úterý. Měli tam Chana Masalu. Škoda, že 
 Odpo se s námi Španělé rozloučili. Vypadali, že se jim naše produkty líbí, ale bylo na nich vidět, že cena se jim nepozdává. I tak nad námi ale prý nezlomili hůl.<br>
 Když jsem dojel domů, děsivě se zatáhlo a přišly blesky. Při cestě na nákup jsem si je točil na slowmo.
 
-<p><video controls loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2023_october/3_2.mov" type="video/mp4"></video></p>
+<p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2023_october/3_2.mov" type="video/mp4"></video></p>
 
 Když už opravdu začalo pršet, přesunul jsem se do krámu a potkal tam DJe. Video blesků ho nadchlo.<br>
 Při cestě z obchodu už regulérně chcalo. Schovával jsem se u vstupních dvěří domů a přebíhal, když se mi zdálo že srážky nejsou tak intenzivní. To se mi moc nedařilo a tak jsem se posadil na zápraží domu naproti Mobaitu a zavolal Mišce. Byla nešťastná z Gorana. Jakožto nový kolega neznalý problematiky jí práci spíš přidělával než ubíral.<br>
