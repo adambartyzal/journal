@@ -12,6 +12,8 @@
 - [10.11. Medvědí spánek](#1011-medvědí-spánek)
 - [11.11. Za tátou](#1111-za-tátou)
 - [12.11. Jih cyklistický](#1211-jih-cyklistický)
+- [13.11. Počasí v prdeli](#1311-počasí-v-prdeli)
+- [14.11. Revitalizace nabíjecích boxů](#1411-revitalizace-nabíjecích-boxů)
 
 ### 1.11. Vojtovo brano
 
@@ -227,3 +229,17 @@ Doma jsem se pustil do dopisování deníku. Ajša mi seděla na klíně a slun�
 V pět jsem ale chtěl vyrazit. Slunko už zapadlo a já jsem chtěl v Soběslavi chytit vlak před sedmou. Naházel jsem věci do batohu, rozloučili jsme se a já vyrazil na noční cestu.<br>
 Na kopci do Vydří mi blikačka začala signalizovat že je vybitá. To mě moc nepotěšilo a jízda napoloslepo byla adrenalinová. Vydržela ale až na nádraží. Navíc jsem měl žlutou bundu s odrazkami a rozhodně jsem byl vidět. Auta mě objížděla obloukem už zdaleka.<br>
 Noční obloha ale byla velkolepá. Jel jsem skoro celou cestu za velkým vozem a měl tak pocit, že jedu za Miškou. S ní je velký vůz vždy před námi. Nakonec jse si cestu zkrátil a v Kardašce nasedl na vlak. Přijel 2 minuty po mě. Ve Veslí jsem si koupil kakao z kafostroje a v rychlíku pokračoval v psaní deníku.
+
+### 13.11. Počasí v prdeli
+
+To jsem si řekl, když jsem viděl předpověď na týden dopředu. Mělo pršet, být hnusně, pršet ještě víc a to samý dál a dál. Víkend byl asi poslední čas, kdy podzim stojí za to být venku.<br>
+Den jsem ale začal jógou. To už jsem neudělal dlouho. Přemýšlel jsem jestli náhodou nepůjdu ráno běhat, ale řekl jsem si, že bazén po práci bude lepší volba.<br>
+Pro snídani a mléko jsem se stavil cestou v Bezovce. Decaf z Aeropressu mi přišel vhod. Kofeinová káva v posledních dnech mi nedělala nejlíp. Klepaly se mi ruce a pobolívávala hlava. Je to divný. Co jsem kofein vyřadil, už ho asi nedokážu zařadit bez silných následků. Stejný je to s chlastem. Dvě piva mě rozbijou. Ale co. Prostě se akoholu a kofeinu budu vyhýbat. Stejně mi to skoro nic nedávalo.<br>
+V průběhu dne Jarda psal, že bude mít v Balbínce koncert. Přemýšlel jsem zda jít, ale Kadé Chim už jsem viděl x-krát a skoro vždycky mi to přineslo spíš depku než nějakou radost.<br>
+Po dvanácti set metrech na Olšance, kde sice bylo lidí randál, ale v mojí lajně byli obdobně rychlí lidé jsem jel do Lidlu a potom domů, udělat si miš maš na pánvi z noků, mražené zeleniny, tofu, salátu a sýru.<br>
+Bylo to moc dobrý. U jídla jsem koukal na poslední díl Invincible. Přišlo mi, že drive předchozí série byl pryč. Stejný pocit jsem měl předtím i u Lokiho. Zlatá éra televize asi skončila. Řekl jsem si, že se musím vrátit ke knížkám. Ostatně Rowlingová vydala nového Strika.<br>
+Před spaním jsme měli naplánovaný hovor s Miškou.<br>
+Jako vždy se to natáhlo na několik hodin. A byl to docela vážný telefonát. O budoucnosti bytí v domovině či jinde.
+
+### 14.11. Revitalizace nabíjecích boxů
+
