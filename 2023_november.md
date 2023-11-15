@@ -14,6 +14,7 @@
 - [12.11. Jih cyklistický](#1211-jih-cyklistický)
 - [13.11. Počasí v prdeli](#1311-počasí-v-prdeli)
 - [14.11. Revitalizace nabíjecích boxů](#1411-revitalizace-nabíjecích-boxů)
+- [15.11. Lepší workflow](#1511-lepší-workflow)
 
 ### 1.11. Vojtovo brano
 
@@ -243,3 +244,24 @@ Jako vždy se to natáhlo na několik hodin. A byl to docela vážný telefonát
 
 ### 14.11. Revitalizace nabíjecích boxů
 
+<a href="../images/2023_november/14_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/14_1.jpg"></a>
+
+<a href="../images/2023_november/14_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/14_2.jpg"></a>
+
+<a href="../images/2023_november/14_3.jpg" target="_blank"><img src="../images/thumbnails/2023_november/14_3.jpg"></a>
+
+lepení dvířek mikrovlnky
+
+### 15.11. Lepší workflow
+
+Čekalo mě pokračování opravování boxů v Malešicích. Vyvezl jsem odpad, který se několik měsíců válel za košem a opět tak mirně snížil míru chaosu v bytě. Ve skříních toho ješetě čekalo hodně, ale bylo to na dobrý cestě. Neměl jsem nic k snídani a tak jsem se zastavil v Penny a koupil si kaiserky a sýr. Posnídal jsem to přímo před krámem, kde na mě nějak měšťák čuměl jak z višně.<br>
+V Malešicích mi Fíla nabídl překapávaný kafe. Že nabízel, neodmítl jsem. Taky jsem se cítil ne úplně probuzeně. Poslední dobou mě hodinky za kvalitu spánku moc nechválily. Poslední dobou jsem ale taky tu a tam začal pít kofein. Řekl jsem si, že opět začnu být striktnější a uvídím, jestli je tam souvislost.<br>
+Chaos v Malešicích mi začínal jít na nervy. Bylo třeba vylešit pracovní workflow. Uklidil jsem stůl v rohu, udělal z něj docela legit ESD pracoviště, zrušil křížení na kabelech a dal se do práce na dalších boxech.
+
+<a href="../images/2023_november/15_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/15_1.jpg"></a>
+
+Ohořelý lísteček s nápisem fire ve mně nevyvolal pocit nejlepší pocit. Vlastně jsem si ale pamatoval jak to vzniklo a až tak žhavý to nebylo. No pun intended.
+
+<a href="../images/2023_november/15_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/15_2.jpg"></a>
+
+Daník napsal, že večer bude hrát v Kaštanu. Dal jsem vědět Ondrovi, zda by nešel. Taky jsem doufal, že by šla Miška s námi, protože se vracela s předstihem, ale přišlo na ní nějaké churavění.<br>
