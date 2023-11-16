@@ -15,6 +15,7 @@
 - [13.11. Počasí v prdeli](#1311-počasí-v-prdeli)
 - [14.11. Revitalizace nabíjecích boxů](#1411-revitalizace-nabíjecích-boxů)
 - [15.11. Lepší workflow](#1511-lepší-workflow)
+- [16.11. Sacharidy](#1611-sacharidy)
 
 ### 1.11. Vojtovo brano
 
@@ -254,9 +255,9 @@ lepení dvířek mikrovlnky
 
 ### 15.11. Lepší workflow
 
-Čekalo mě pokračování opravování boxů v Malešicích. Vyvezl jsem odpad, který se několik měsíců válel za košem a opět tak mirně snížil míru chaosu v bytě. Ve skříních toho ješetě čekalo hodně, ale bylo to na dobrý cestě. Neměl jsem nic k snídani a tak jsem se zastavil v Penny a koupil si kaiserky a sýr. Posnídal jsem to přímo před krámem, kde na mě nějak měšťák čuměl jak z višně.<br>
-V Malešicích mi Fíla nabídl překapávaný kafe. Že nabízel, neodmítl jsem. Taky jsem se cítil ne úplně probuzeně. Poslední dobou mě hodinky za kvalitu spánku moc nechválily. Poslední dobou jsem ale taky tu a tam začal pít kofein. Řekl jsem si, že opět začnu být striktnější a uvídím, jestli je tam souvislost.<br>
-Chaos v Malešicích mi začínal jít na nervy. Bylo třeba vylešit pracovní workflow. Uklidil jsem stůl v rohu, udělal z něj docela legit ESD pracoviště, zrušil křížení na kabelech a dal se do práce na dalších boxech.
+Čekalo mě pokračování opravování boxů v Malešicích. Vyvezl jsem odpad, který se několik měsíců válel za košem a opět tak mírně snížil míru chaosu v bytě. Ve skříních toho ještě čekalo hodně, ale bylo to na dobrý cestě. Neměl jsem nic k snídani a tak jsem se zastavil v Penny a koupil si kaiserky a sýr. Posnídal jsem to přímo před krámem, kde na mě nějak měšťák čuměl jak z višně.<br>
+V Malešicích mi Fíla nabídl překapávaný kafe. Že nabízel, neodmítl jsem. Taky jsem se cítil ne úplně probuzeně. Poslední dobou mě hodinky za kvalitu spánku moc nechválily. Poslední dobou jsem ale taky tu a tam začal pít kofein. Řekl jsem si, že opět začnu být striktnější a uvidím, jestli je tam souvislost.<br>
+Chaos v Malešicích mi začínal jít na nervy. Bylo třeba vylepšit pracovní workflow. Uklidil jsem stůl v rohu, udělal z něj docela legit ESD pracoviště, zrušil křížení na kabelech a dal se do práce na dalších boxech.
 
 <a href="../images/2023_november/15_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/15_1.jpg"></a>
 
@@ -265,3 +266,15 @@ Ohořelý lísteček s nápisem fire ve mně nevyvolal pocit nejlepší pocit. V
 <a href="../images/2023_november/15_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/15_2.jpg"></a>
 
 Daník napsal, že večer bude hrát v Kaštanu. Dal jsem vědět Ondrovi, zda by nešel. Taky jsem doufal, že by šla Miška s námi, protože se vracela s předstihem, ale přišlo na ní nějaké churavění.<br>
+
+### 16.11. Sacharidy
+
+Chyba je nepít!
+Nemůžeš pak pivo lít,
+a ráno fit být.
+
+Haiku, co mi přišlo na mysl během rána. Reálně byl spíš problém v tom, že jsem nespal. Jenže i to co jsem naspal stálo za starou bačkoru. Hodinky mě informovaly o tom, že jsem naspal přesně 0 minut REM spánku. Už se to stalo vícekrát a chlast v tom měl vždycky roli. Dvě piva. Abstinencí jsem se rozbil.<br>
+Na kole jsem jel netradiční cestou. Pod magistrálou, Kateřinskou, Štěpánskou, Na Příkopě a pak Na Florenci. Cesta, víc cyklistická než magistrála. A paradoxně mnohem nebezpečnější. Několikrát mě někdo ohrozil.<br>
+V Lidlu jsem koupil snídani. Cormoran Strike říkal, že kocovina je nedostatek tekutin a cukru. K banánům a jablkové mřížce jsem si koupil ještě čokoládu. Sekundárním problémem kalorií v pivu jsou zdá se kalorie v čokoládě.<br>
+V práci jsem se jal třídit součástky. A zabralo mi to celý den. Ale měl jsem radost. Pořádek v součástkách mírní bolehlavy.<br>
+Čtvrtek, gastro, buchtičky se šodó. Další prázdný kalorie.<br>
