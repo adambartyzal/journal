@@ -308,7 +308,11 @@ Mrkli jsme jak dlouho budou trvat kontroly, zastavili se v Bille pro žvýkačky
 Doplnili jsme vodu, chvilku jsme si hrál s Mišky foťákem, moc jsem nepochopil, proč na manuál stejně čaruje nějaký auto kouzla a pak už začal boarding. Vueling je asi docela fér aerolinka, nastupovali jsme chobotem a seděli vedle sebe i když jsme za to nezaplatili. Prolétli jsme krásně nad Prahou. Viděli jsme oba naše domy a T-Mobile. Pak už nás Airbus vynesl nad mléčné mraky. Ani Alpy, ani Pyreneje jsme neviděli.<br>
 Miška mi chvíli spala na rameni, chvíli jsme se líbali, ale většinu času jsme si povídali. Turbulence si Miška užívala, ale mě moc dobře nedělaly. Sára mi psala, že lítat s kocovinou je nejlepší. Nesouhlasím. Až smaženkami jsem to trochu zajedl a spravil se.<br>
 Aerobus do centra by nás stál 9€. Vlak měl stát 2€. Akorát měl jet z T2 a my přistáli na T1. Jezdil mezi nimi ale bezplatný autobus. Ten nás dovezl do budovy T2, která měla kouzelně osmdesátkový design. Šli jsme podél cedulí ukazující cestu k vlaku. Upřímně mi to připomínalo Mexiko. Měli jsme trochu srandu z toho, že narozdíl od normálních lidí jdeme někam docela daleko abychom ušetřili pár euro.<br>
-Ale rozhodně to stálo za to a to nejen kvůli těm pár euro. Na perónu jsme pořídili jednorázové lístky na vlak a deseti jízdové lístky do Barcelony. Vlak nakonec nestál 2€ ale asi 4€. Pořád byl ale komfortnější a co víc, procházeli skrz něj tři jazzmani a hráli. Taky s námi jeli nějací češi. Jejich jazykový projev nebyl moc valný, ale vlastně jsem si říkal, že je super, že češi všeho druhu vyráží z Česka ven.<br>
+Ale rozhodně to stálo za to a to nejen kvůli těm pár euro. Na perónu jsme pořídili jednorázové lístky na vlak a deseti jízdové lístky do Barcelony. Vlak nakonec nestál 2€ ale asi 4€. Pořád byl ale komfortnější a co víc, procházeli skrz něj tři jazzmani a hráli.
+
+<p><audio controls><source src="../images/2023_october/19_1.m4a" type="audio/x-m4a"></audio></p>
+
+Taky s námi jeli nějací češi. Jejich jazykový projev nebyl moc valný, ale vlastně jsem si říkal, že je super, že češi všeho druhu vyráží z Česka ven.<br>
 Nakonec nás vlak zavezl pod zem a až do úplného centra na Passeo del Grácia. Tam jsme vyšli ven a mě do očí ihned padl městský stanicový bikesharing.
 
 <a href="../images/2023_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/19_1.jpg"></a>
@@ -370,7 +374,10 @@ Dole v kostele jsme si konečně došli na záchod. Miška koupila záložku Ter
 Dál nás čekal Montjuic. Metrem jsme přejeli na Paral·lel. V Lidlu jsme se zastavili pro dvě fokáčy, tortillu na večeři, čokoláda protože jsme začínali být grogy, a kombuchu neb měla hezkou láhev. Po podivně opuštěných schodech jsme vystoupali k hotelu. Na výhledu byl pár co se rozcházel. Zdálo se, že lehnout si by jim už nepomohlo. Prošli jsme zahradou s hracími měchy, co měla být zavřená ale nebyla. Viděli jsme oblast k osahávání a serpentinami jsme vystoupali až k pevnosti na vrcholu.<br>
 Naneštěstí byla cerado. Neva. Šli jsme na Mišky oblíbený výhled na přístav a měli se tam hezky.<br>
 Akorát nám málem ujel poslední autobus. Utíkali jsme kvůli němu z kopce a protože jsme minuli zastávku tak zas zpátky do kopce. Taky mi přestal fungovat lístek. Docela mě to rozezlilo. Naštěstí na redditu psali, že na větších zastávkách metra mi ho dokáží vyměnit a to se přesně stalo.<br>
-V metru jsme potkali dalšího hudebníka. Tentokrát rappera. Jel s námi až do Poblenou.<br>
+V metru jsme potkali dalšího hudebníka. Tentokrát rappera. Jel s námi až do Poblenou.
+
+<p><audio controls><source src="../images/2023_october/20_1.m4a" type="audio/x-m4a"></audio></p>
+
 K večeři jsme si dali tortillu s čočkovým burgerem, který nám nechali francouzky. Nebylo to zlý. Protein navíc. Po ušlých třiceti tisících krocích se to hodilo.
 
 ### 21.10. První rande
