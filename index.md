@@ -22,4 +22,4 @@ Rok, kdy mi nabíhal deficit vypadnout někam daleko, protože rok zpátky to On
 
 ## [2023](2023.md)
 
-Rok volby prezidenta, cesty z Francie domů a roadtripu do Albánie
+Rok volby prezidenta, cesty z Francie domů, Albánie, Barcelony a hlavně proplétání mého života s Míšiným
