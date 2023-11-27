@@ -130,7 +130,7 @@ Jak mám Blatouch rád, tak se jim nedařilo. Jeden číšník byl ignorant a je
 Korunu tomu nasadili, když jí přinesli ten samý bagel, který vrátila. Tomáš tomu klukovi šel vysvětlit, že takhle by to nešlo a že by si měl uvědomit, co je jeho práce.<br>
 Dál už jsme ho neviděli.<br>
 Z Adél jsme nevytáhli skoro nic o jejím cestování. Z Bali Jardovi přivezla sušený Durian. Sušená varianta tohohle zla je podstatně méně potentní než varianta čerstvá. I tak to ale při kolování kolem dvou stolů bylo cítit dost.<br>
-Na cestě domů jsem se bavil s Kristiánem a jeho přítelkyní o prozatím asi nejlepším použití nově se objevující AI. Cestování! Na své cestě po islandu dávali chatGPT dotazy typu: Jedeme autem, máme tolik a tolik dní, zhruba takový a takový budget, chceme spát v ne moc fancy, ale ne úplně špatném místě a chceme toho vidět co nejvíc. A po pár dalších upřesněních jim AI plánovala prý velmi dobrý trip. To se mi hodně líbili, neb vím, že plánování dokáže být oser.
+Na cestě domů jsem se bavil s Kristiánem a jeho přítelkyní o prozatím asi nejlepším použití nově se objevující AI. Cestování! Na své cestě po islandu dávali chatGPT dotazy typu: Jedeme autem, máme tolik a tolik dní, zhruba takový a takový budget, chceme spát v ne moc fancy, ale ne úplně špatném místě a chceme toho vidět co nejvíc. A po pár dalších upřesněních jim AI plánovala prý velmi dobrý trip. To se mi hodně líbilo, neb vím, že plánování dokáže být oser.
 
 ### 15.3. Odpověď na PPSE
 

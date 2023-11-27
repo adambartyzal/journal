@@ -19,7 +19,14 @@
 - [17.11. Místo běhu svařák v lesích](#1711-místo-běhu-svařák-v-lesích)
 - [18.11. Kora vzala čáru](#1811-kora-vzala-čáru)
 - [19.11. Třídenní víkend?](#1911-třídenní-víkend)
-- [20.10.](#2010)
+- [20.11.](#2011)
+- [21.11. Další koncert s Mámou](#2111-další-koncert-s-mámou)
+- [22.11.](#2211)
+- [23.11. Mám štěstí](#2311-mám-štěstí)
+- [24.11. Den naopak plný událostí](#2411-den-naopak-plný-událostí)
+- [25.11. Čas je věc relativní](#2511-čas-je-věc-relativní)
+- [26.11. Pasti na Mišku](#2611-pasti-na-mišku)
+- [27.11.](#2711)
 
 ### 1.11. Vojtovo brano
 
@@ -360,4 +367,108 @@ Když jsem došel domů, byl byt zalitý večerním sluncem. Přesně tím veče
 Vyčistil jsem a olejem znovu naimpregnoval boty, uvařil jídlo, zkoul díl Ricka a Mortyho a rozhodl se, že uklidím ve skříni. Moc jsem tomu nedal. Ale aspoň jsem se zbavil nějakých krabic a bordelu. Krůček po krůčku.. zimních večerů ještě bude dost.<br>
 Krátce jsme si telefonovali s Míšou. V Amsterdamu pršelo. Moc mi toho o jejím výletu neprozradila. Navnadila mě ale na vyprávění tím, že by tam bydlet nechtěla. Díky hovoru mi bylo oboje, trochu méně smutnu a chtěl jsem jí vidět ještě víc.<br>
 
-### 20.10.
+### 20.11.
+
+plavat<br>
+potyčky s datovkou<br>
+strašným kopcem vzhůru<br>
+
+### 21.11. Další koncert s Mámou
+
+ráno pomalé vstávání a trochu radosti pro Mišku<br>
+na kole do Malešic, z kopce, šeříkovou národní, v lidli na příkopě snídani a kafe, bluhar nahoru, olšanská, basileják, malešice pozadu.<br>
+Omar s DJ ve skladu, na displeje chybí plasty, snýtoval jsem si držáky, zabalil box, olepil další co stačilo omést, otestoval zabalil a v malešicích skončil<br>
+TTC zapečené brambory<br>
+na cestě dolů DJ zrovna vyráží<br>
+malešice pozadu, basileják, ohrada, incident na hodinkách a vypnutý podcast, koňěvkou dolů (vlastně hartigovou)<br>
+ivan v karlíně, DJ po deseti minutách<br>
+tisky na tiskárny, SD karty, máma přišla<br>
+dvě kafata, diskuse o historii a kostelech<br>
+metrem na karlák, kolem futuristické lékárny do psychiatrické léčebny<br>
+půl hodiny před začátkem důchodci všude, průměrný věk 70<br>
+Čembalista a houslistka, usmála se na mě, Narodila se 99, jsem starej, byla zkurveně dobrá, polyfonie na housle? nechápu, škoda že samej bach a jemu podobní<br>
+kostel plný zlata a tmavých obrazů<br>
+po koncertě zima, po štěpánský do neustadtu,
+
+### 22.11.
+
+nákup v penny<br>
+trhání gingka<br>
+
+### 23.11. Mám štěstí
+
+s oblekem tramvají s dvěma pány
+
+### 24.11. Den naopak plný událostí
+
+Nemuseli jsme vstávat přehnaně brzy. Možná proto jsme o pár hodin nestíhali a z metra na Můstku běželi až do Karolína. Tomu ale předcházela klidná snídaně. Chléb od Antonína s fazolovou pomazánkou a rajčetem a jako sladkou tečkou mnoha chuťovým frgálem. Den to měl být nabitý. Dopoledne nás čekala Ivy doktorská promoce, pak společný oběd. Na odpoledne jsem si přehodil práci v Karlíně a večer nás čekala cesta na Břevnov, kde jsme plánovali promítání u Ondry s Rébou.<br>
+V 9:30 jsme vyrazili dolů. Cestou jsme měli v plánu zastavit se květinářství a pořídit Ivě kytku. Míša si udělala výzkum. Iva má ráda lilie, ale Ondra nemá rád jak voní. V květinářství u Kryštofa naštěstí prodávali lilie bez odéru.<br>
+Vybrat a svázat kytici docela trvá. A tak vzniklo to chvátání.<br>
+Naštěstí nemáme orientační smysl mojí mámy, a tak jsme to stihli ještě s pětiminutovou rezervou.<br>
+Ondra nám držel místo. Byl tam se svými rodiči a Pepou. Musím se zeptat, co Pepa dělá. Vždycky působí vesele, mluví o svém malém synovi Adamovi, o vlacích, o dění ve světě a působí jako distingovanější Robert.<br>
+Promoce samotná neprobíhala o moc jinak než naše inženýrská. Proslov byl poměrně dlouhý ale docela mě bavil. Proslov vybraného studenta už ne tolik. V podstatě říkal, že doktoři jsou lepší než ostatní lidi a že za všechno čeho dosáhli můžou sami a na jejich okolí. Mě i Ondrovi se líbilo, že na varhany hrál skutečný člověk a ne automat, ale mrzelo mě, že učenci si neodpustili velké množství latiny.<br>
+Ivu akce docela zmohla. Prý ale byla přes týden velmi unavená, a tak jsem cenil s jakou grácií celý den zvládala.<br>
+Na to jak bylo ráno krásně, se během času určeného k fotografování rozpršelo. Po pár fotkách rodiny a kamarádů jsme se metrem přesunuli na Masaryčku do Burgrárny.
+
+<a href="../images/2023_november/24_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/24_1.jpg"></a>
+
+Cestou jsme objevili, že Ondrův taťka, vystudoval pole stejně jako já a Miška. A že našich profesorů, byli jeho spolužáci.<br>
+Palanda byla extrémně masožravá restaurace. Miška ale dokázala domluvit, že nám do vymění v salátu maso za Portobello. Ondra nám vyprávěl o jeho firmě s Markem. O nákupu nového auta a o výletech které plánují s Ivou.<br>
+Mě ale čekala práce. Když odbila druhá hodina, rozloučil jsem se s ostatními, před restaurací si půjčil rekolo a v obleku na něm dojel do Karlína. Kdybych chtěl pracovat plných osm hodin, končil bych až po desáté. Měl jsem ale nějaké přesčasy, takže sedmá byl můj deadline. Čas jsem věnoval psaní manuálů. Napsat stručný ale pochopitelný manuál to není na pár minut. Kdybych měl víc modelů bylo by to ještě lepší, ale měl jsem dobré fotky a s výsledkem jsem byl spokojený.<br>
+Doma už bych se ale otočit nestihl. Vzal jsem z lednice eko-bio-víno bicicleta. Pěšky vyrazil na florenc. Koupil si v Albertu housku jablko a sýr. A metrem a tramvají vyrazil k Ondrovi. Mišku jsem nabral na Malovance.
+
+<a href="../images/2023_november/24_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/24_2.jpg"></a>
+
+Ondra pro nás seběhnul dolů. Dostali jsme, pro mě už druhou, prohlídku bytu. Tentokrát ale byla detailnější. Hodně mě pobavilo, epoxidem zalité PVC v terazzu. Je to tak strašný, až je to vtipný.<br>
+Při výběru filmu vyhrál Matt Damon. První Jason Bourne. Ondrův projektor mění barvy točícím se diskem. Okamžitě jsem si toho všiml. Miška taky. Ondra s Rebekou to viděli jen občas na titulcích. Shodli jsme se, že záclony budou na promítání v budoucnu potřeba. Už jsem to neviděl roky a musím říct, ze je to klasika oprávněně.Bylo to moc fajn promítání.<br>
+Po filmu jsme ještě poslouchali hudbu a povídali si. Za okny se rozesněžilo. Možná proto jsme vyrazili až ve dvě ráno. Šli jsme pěšky. Nebylo to daleko, cesta to byla hezká, a Miška sdílí můj názor na to, že taxíky jsou zbytečně drahý.
+
+<a href="../images/2023_november/24_3.jpg" target="_blank"><img src="../images/thumbnails/2023_november/24_3.jpg"></a>
+
+### 25.11. Čas je věc relativní
+
+Když jdeš spát někdy po třetí ráno nevstaneš nejdřív. Anebo když vstaneš tak ses nevyspíš dobře. My jsme zvolili první variantu. Po chvíli blbnutí bylo 11:30. Terka měla naplánováný generální úklid celého bytu Miška se rozhodla že jí s tím pomůže. Na mě tak zbylo uvařit něco k obědu. V zásobách jsme měli jen frgál z Antonína a ten padl na snídani.<br>
+Vyrazil jsem proto pěšky na Anděl. Do uší mi hrála veselá hudba a já ve svých barefoot cestou z kopce dolů poskakoval po špičkách z kamenu na kámen. Pobavil jsem tím nějaké dítě, které začalo poskakovat se mnou, z čehož jeho máma tak nadšená nebyla.<br>
+Rozhodl jsem se že k obědu budou noky se špenátem, podobné těm jaké jsem dělal doma asi týden zpátky. Když už jsem ale šel do obchodu chtěl jsem koupit i něco na večer. Rozhodli jsme se že zreplikujeme recept z francouzské snídárny V Lublani. Vajíčka zapečená s bazalkou a k tomu čerstvý chléb s tvarohem a na něm sušená rajčata. Jenže sušená rajčata se ukázala jako oříšek. I přes ně několik dotazů na zaměstnance Albertu, jsem po dlouhém hledání našel pouze rajčata naložená v oleji. Vlastně to ale ničemu nevadilo.<br>
+Zpátky jsem šel jinou cestu. Po dlouhých schodech jsem se vyškrábal na vrcholek parku Sacré-Coeur. Provizorní oprava prolomených prken na mostě do OC mě vskutku rozesmála.
+
+<a href="../images/2023_november/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/25_1.jpg"></a>
+
+Na Švédské jsem pobavil další dítě. Bylo proti mě přes ulici a já jsem na něj vyplázl jazyk. Vzalo to jako hru a jazyk vyplázlo taky. Jho mamku to opět nepobavilo. Mamky na Hřebence jsou asi nudný.<br>
+Pustil jsem se do vaření A když Miška douklidila koupelnu a záchod přidala se ke mně. Vařila horkou čokoládu podle receptu z *Pick Up Limes*. Můj recept jsme rozšířili o veganskou smetanu. Bylo to ještě lepší.
+
+<a href="../images/2023_november/25_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/25_2.jpg"></a>
+
+Jídlo salát a hutná čokoláda nás ale nějak zmohly. Šli jsme si lehnout a po chvíli regulérně usnuli. No a tak jsme zabili půl dne. Měli jsme v plánu odpoledne se přesunout ke mně, protože další den jsme jeli Aurou do Hory. Na Ukrajinské jsme parkovali určitě po osmé. Možná dokonce po deváté. Večeři jsme dodělali někdy v půl jedenácté. Bazalku jsme sice zapomněli na Smíchově, ale nahradili jsme jí polníčkem, rukolou a mangoldem. Byl to úspěch!
+
+<a href="../images/2023_november/25_3.jpg" target="_blank"><img src="../images/thumbnails/2023_november/25_3.jpg"></a>
+
+Po jídle jsme dopili naředěnou čokoládu, heřmánkový čaj a odpadli do postele.
+
+### 26.11. Pasti na Mišku
+
+V noci jsem se párkrát vzbudil. Hlavně kvůli zvukům, který vydávala postel. Když jsem v ní sám, nepřijde mi, že by to dělala. Vlastně mě překvapilo, že jsem se ráno probudil plný energie. Miška nikoliv. Probouzet se jí vůbec nechtělo a vstávat z postele už vůbec ne. Pustil jsem nám ke vstávání Also Sprach Zarathustra od Deodata. Funková verze téhle klasiky jí vlila do žil maličko energie.<br>
+K snídani jsem připravil vločky s teplým mlékem, čaj ze Šípků natrhaných na proslulém rande, kde holka z Tinderu, jejíž jméno si nepamatuju spadla nohou do potoka. Přišlo jí to zvláštní. Čaj to ale byl legit.<br>
+ometání aury
+
+<a href="../images/2023_november/26_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/26_1.jpg"></a>
+
+namrzlou dálnicí do kolína za lehkého jazzu<br>
+na dělnické petr s mámou<br>
+přes kaňk do hory<br>
+hledání parkování<br>
+pěšky k evě<br>
+výtah nás odmítal svézt<br>
+pěšky s Miškou<br>
+Přestavení v pohodě, robinův vlak, čaje a sezení, moc dobré dýňové rizoto, dort, sfouknutí svíček, dárků jak blázen, moc si jich nevážil<br>
+hrajeme crokinole
+
+<a href="../images/2023_november/26_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/26_2.jpg"></a>
+
+venku přestalo sněžit, na výlet, vedu luckyho, míša se kouluje s robinem, baví s mámou a být skělou přítelkyní jí ohromě jde<br>
+na svařák, chai latté, jablíčko a café latté<br>
+ke kouli,
+kolem barbory, trochu sluníčka, přes centrum zpátky<br>
+Docela jsem vymrzl
+
+### 27.11.
