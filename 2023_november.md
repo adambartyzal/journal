@@ -26,7 +26,7 @@
 - [24.11. Den naopak plný událostí](#2411-den-naopak-plný-událostí)
 - [25.11. Čas je věc relativní](#2511-čas-je-věc-relativní)
 - [26.11. Pasti na Mišku](#2611-pasti-na-mišku)
-- [27.11.](#2711)
+- [27.11. Naštěstí za kilo](#2711-naštěstí-za-kilo)
 - [28.11.](#2811)
 
 ### 1.11. Vojtovo brano
@@ -398,7 +398,16 @@ trhání gingka<br>
 
 ### 23.11. Mám štěstí
 
-s oblekem tramvají s dvěma pány
+> Dobré ráno ze země bryndzy do země syrečků.
+
+Takováhle komická zpráva mi ráno přišla. Za okny byla odporná zima, ale Mišky zprávy mě hřály u srdíčka. I později na cestě. I pak i v Malešicích. Tam jí ale pomáhal dvou kilovatový fukar horka. Prý když se jí po mě stýská, poslouchá moje playlisty. Píseň dne prý byla [Always Alright](
+https://open.spotify.com/track/4ZMhxdNqZOEvGkGZ5zrWm4) od Alabama Shakes.<br>
+Logistika prý nepřála tomu, abychom se večr viděli, ale mě to tak nepřišlo. Po práci jsme si telefonovali a dohodli se, že večer přijedu městskou za ní a druhý den půjdeme koupit květiny a na promoci spolu.<br>
+Doma jsem snědl zbytek jídla, vytáhl ze skříně oblek, kterého jsem se nedotkl od svatby a na roztrženém pytli z čistírny udělal uzlík, takže ještě jednu cestu zvládnul.<br>
+V Tramvaji jsem zavěsil oblek na tyč u stropu a posadil se na samotku u okna. Další zastávka přinesla dva opi
+lé pány. Napřed vtipkovali, že by jim můj oblek seknul, ale že mají moc velký břicha. Jeden měl starost o toho druhého, který na tom asi byl ekonomicky hodně špatně a řešil to pivem. Pivem po ránu a pivem po práci. Další pivo měl v kapse a přesvědčoval starostlivého pána, že je v pohodě. Ten mu vysvětloval, že není. Že je třeba aspoň snídaně. Nebo aspoň teplý čaj po ránu, když nic jinýho.<br>
+Nebylo lehký poslouchat. Člověk si uvědomí, jak velký rozdíly jsou doslova na jeho prahu. Napsal jsem Míše, že máme štěstí a tentokrát nedodal, že jsme onoho štěstí strůjci. Tentokrát jsem cítil, že prostě jen máme štěstí.<br>
+U Mišky jsem dostal jehlu a nit a dal se do zašívání bundy. Zjistil jsem, že jí mám už třeba 6 let. Byla to dobrá investice. A nechci aby šla do háje. Asi nejsem dobrý šič, ale před mou úpravou se rukávy trhaly a po ní ne. Myslím, že to byl úspěch.
 
 ### 24.11. Den naopak plný událostí
 
@@ -471,16 +480,21 @@ Zpátky doma jsme ještě hráli Crokinole. Tentokrát jsem byl v týmu s Evou a
 Aby ale Petr stihl vlak, sbalili jsme se a v pět vyráželi k autu. Tam na nás ale čekala výzva. Stáli jsme na invalidech. Předtím si toho ale nikdo nevšiml, protože vodorovné značení bylo zasněžené. Mišky první pokuta. Hned na místě nám tam nějaký pán řekl, že za to není jen pokuta, ale tři body. Lístek byl navíc přimrznutý k oknu a nešel sundat. Inu, to docela zkazilo náladu z jinak zatím hezky probíhajícího dne. Nemělo ale smysl nějak tam spílat. Museli jsme Petra odvézt aby to stihl.<br>
 Měl to těsný, ale zvládl to. Mámu, která nám vrazila dort do ruky, jsme hodili na Dělnickou.<br>
 Cestou zpátky jsem googlil, jak akutní taková pokuta je. Prý na místě může člověk dostat až 10000 a ve správním 5000 až 1000. Body k tomu dávají 2 ne 3. I tak to ale byla petelice.<br>
-Byli jsme z toho nešťastní všichni. Miška mě hodila domů. Dojela v pořádku na Strahov a ještě prý stihla prát a skládat prádlo. Já jsem si jen napsal nějaké poznámky do deníku, zkoukl díl Invincible a šel spát.<br>
+Byli jsme z toho nešťastní všichni. Miška mě hodila domů. Dojela v pořádku na Strahov a ještě prý stihla prát a skládat prádlo. Já jsem si jen napsal nějaké poznámky do deníku, zkoukl díl *Invincible* a šel spát.<br>
 
-### 27.11.
+### 27.11. Naštěstí za kilo
 
+Miška ráno jela opět do Hory. Hrozilo, že odpo jí pošlou do Reichu a na měšťáky už se nedostane vůbec. Takže v po sedmé ráno už jela po dálnici. Čekal jsem v napětí kolik jí naúčtují. Byli jsme dohodnutí, že si náklady na pokutu rozdělíme.<br>
+V půl deváté mi napsala:
 
+> 100 Kč!
 
-ve žluté pláštěnce do malešic<br>
-zas boxy<br>
-špagety k obědu<br>
+Měl jsem z toho radost. Sebralo jí to čas a 2 body. Ale nechceš přijít o desítku kvůli takový pakárně. Zákon prý říká, že musí být viditelné jak vodorovné tak svislé značení.<br>
+
+Nahodil jsem žlutou pláštěnku a vyrazil deštěm do Malešic. Má denní náplň byla relativně nudná. Další boxy. Řekl jsem si, že když už tím zabíjím čas, udělám to všechno a pořádně.<br>
+K obědu jsem měl špagety v TTC. <br>
 tisk papíru na nohu<br>
 koupě bot<br>
 
 ### 28.11.
+
