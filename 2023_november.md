@@ -27,6 +27,7 @@
 - [25.11. Čas je věc relativní](#2511-čas-je-věc-relativní)
 - [26.11. Pasti na Mišku](#2611-pasti-na-mišku)
 - [27.11.](#2711)
+- [28.11.](#2811)
 
 ### 1.11. Vojtovo brano
 
@@ -448,27 +449,38 @@ Po jídle jsme dopili naředěnou čokoládu, heřmánkový čaj a odpadli do po
 ### 26.11. Pasti na Mišku
 
 V noci jsem se párkrát vzbudil. Hlavně kvůli zvukům, který vydávala postel. Když jsem v ní sám, nepřijde mi, že by to dělala. Vlastně mě překvapilo, že jsem se ráno probudil plný energie. Miška nikoliv. Probouzet se jí vůbec nechtělo a vstávat z postele už vůbec ne. Pustil jsem nám ke vstávání Also Sprach Zarathustra od Deodata. Funková verze téhle klasiky jí vlila do žil maličko energie.<br>
-K snídani jsem připravil vločky s teplým mlékem, čaj ze Šípků natrhaných na proslulém rande, kde holka z Tinderu, jejíž jméno si nepamatuju spadla nohou do potoka. Přišlo jí to zvláštní. Čaj to ale byl legit.<br>
-ometání aury
+K snídani jsem připravil vločky s teplým mlékem, čaj ze Šípků natrhaných na proslulém rande, kde holka z Tinderu, jejíž jméno si nepamatuji spadla nohou do potoka. Přišlo jí to zvláštní. Čaj to ale byl legit.<br>
+Na Auru venku nasněžilo. Když jsme se k ní dostali, ometl jsem jí nahrubo smetákem a Miška doladila detaily. Vyrazili jsme na Jižní spojku a já jsem napsal mámě, že za hodinu jsme u ní.
 
 <a href="../images/2023_november/26_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/26_1.jpg"></a>
 
-namrzlou dálnicí do kolína za lehkého jazzu<br>
-na dělnické petr s mámou<br>
-přes kaňk do hory<br>
-hledání parkování<br>
-pěšky k evě<br>
-výtah nás odmítal svézt<br>
-pěšky s Miškou<br>
-Přestavení v pohodě, robinův vlak, čaje a sezení, moc dobré dýňové rizoto, dort, sfouknutí svíček, dárků jak blázen, moc si jich nevážil<br>
-hrajeme crokinole
+Dálnice asi byla trochu namrzlá. Miška ale jela krásně opatrně. Bavili jsme se o dovolených v dalším roce. Do Dánska s koly? Do Švýcarska s její rodinou? Fatra? Možností je spousta. Hrál nám k tomu lehký jazz a moc jsme toho nevyřešili. Ale diskuse započala.<br>
+Vlastně jsme jeli od Poděbrad. Cestou, kterou znám. Na kolo je nudná. Autem poměrně rychlá. Na Dělnické jsme Petra s Mámou nabírali na čas.<br>
+Máma Robinovi pořídila další nesmysly a ještě další dort, protože prý promeškala sfoukávání svíček. Přišlo mi to obojí jako kokotina, ale nechtěl jsem s v tom rýpat.<br>
+Přejeli jsme přes Kaňk a v Šipší se jali hledat místo k zaparkování. Auta stála všude. Na konci Opletalovi bylo parkoviště a na něm byla dvě volná místa. Otočili jsme se na kruháči, nechali Auru tam a vyrazili pěšky k Evě.<br>
+Robin nám zabzučel a celá naše expedice se vydala do výtahu. Asi nás ale bylo moc, protože se odmítal rozjet. Nechali jsme jet Petra s Mámou a vyšli těch 6 pater po svých. Přestavení proběhlo v pohodě, Robin měl trochu zpruzenou náladu a taky se trochu předváděl. Ale ukázal nám svůj nový lego vlak. Byl fakt parádní. Petr mu už vytiskl nějaké dodatečné koleje. Lucky si oblíbil Mišku a ta zas jeho. Eva nám udělala čaje a přesunuli jsme se do obýváku. Tam jsme si před obědem chvíli povídali, ale pak jsme se pustili do dýňového rizota. Bylo moc dobré.<br>
+Po obědě přišel dort, Robin ho sfoukl a taky mi přišlo že na něj trochu nakašlal. Vypadalo to, že má zánět spojivek. Něco co nechceš chytnout. Snad betaglukany fungují. Každý jsme měli kus bílého a kus hnědého dortu a Robin dostal další kupu dárků. Ne že by si jich bůhví jak vážil.<br>
+Petr nám ukázal jejich novou stolní hru. Crokinole. Byl to takový prstový Curling a Kubb v jednom. Napřed jsme hráli jen my dva, ale pak jsme utvořili týmy Míša a Já vs Petr s Robinem. Robinovi to hodně šlo. Měl takový nonšalatní úder, ale trefoval se s extrémní přesností.
 
 <a href="../images/2023_november/26_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/26_2.jpg"></a>
 
-venku přestalo sněžit, na výlet, vedu luckyho, míša se kouluje s robinem, baví s mámou a být skělou přítelkyní jí ohromě jde<br>
-na svařák, chai latté, jablíčko a café latté<br>
-ke kouli,
-kolem barbory, trochu sluníčka, přes centrum zpátky<br>
-Docela jsem vymrzl
+Když jsme dohráli do sta (já s Miškou jsme dostali strašně na frak), venku vysvitlo slunko. Oblékli jsme se všichni a vyrazili na výlet do města na svařák. Vedl jsem Luckyho, Míša se koulovala s Robinem a s Petrem. Pak se bavila s Mámou a velkým Petrem a být skvělou přítelkyní jí ohromě šlo. Já jsem si povídal spíš s Evou.<br>
+V centru jsme si dali svařák, chai latté, horké jablíčko a café latté. S Robinem jsme se  zastavili u obří koule. Petr si dal ještě jeden svařák pod Barborou, kde na nás vykouklo sluníčko a přes centrum jsme se vydali zpátky.<br>
+Zmrzly mi prsty u nohou. Bylo na čase pořídit si zimní boty.<br>
+Zpátky doma jsme ještě hráli Crokinole. Tentokrát jsem byl v týmu s Evou a Miška se přidala k Petrovi. Prohráli jsme asi 100:5. Ale byla to zábava a některé údery se mi opravdu povedly.<br>
+Aby ale Petr stihl vlak, sbalili jsme se a v pět vyráželi k autu. Tam na nás ale čekala výzva. Stáli jsme na invalidech. Předtím si toho ale nikdo nevšiml, protože vodorovné značení bylo zasněžené. Mišky první pokuta. Hned na místě nám tam nějaký pán řekl, že za to není jen pokuta, ale tři body. Lístek byl navíc přimrznutý k oknu a nešel sundat. Inu, to docela zkazilo náladu z jinak zatím hezky probíhajícího dne. Nemělo ale smysl nějak tam spílat. Museli jsme Petra odvézt aby to stihl.<br>
+Měl to těsný, ale zvládl to. Mámu, která nám vrazila dort do ruky, jsme hodili na Dělnickou.<br>
+Cestou zpátky jsem googlil, jak akutní taková pokuta je. Prý na místě může člověk dostat až 10000 a ve správním 5000 až 1000. Body k tomu dávají 2 ne 3. I tak to ale byla petelice.<br>
+Byli jsme z toho nešťastní všichni. Miška mě hodila domů. Dojela v pořádku na Strahov a ještě prý stihla prát a skládat prádlo. Já jsem si jen napsal nějaké poznámky do deníku, zkoukl díl Invincible a šel spát.<br>
 
 ### 27.11.
+
+
+
+ve žluté pláštěnce do malešic<br>
+zas boxy<br>
+špagety k obědu<br>
+tisk papíru na nohu<br>
+koupě bot<br>
+
+### 28.11.
