@@ -19,7 +19,7 @@
 - [17.11. Místo běhu svařák v lesích](#1711-místo-běhu-svařák-v-lesích)
 - [18.11. Kora vzala čáru](#1811-kora-vzala-čáru)
 - [19.11. Třídenní víkend?](#1911-třídenní-víkend)
-- [20.11.](#2011)
+- [20.11. Navrátilec z Nizozemí](#2011-navrátilec-z-nizozemí)
 - [21.11. Další koncert s Mámou](#2111-další-koncert-s-mámou)
 - [22.11.](#2211)
 - [23.11. Mám štěstí](#2311-mám-štěstí)
@@ -27,7 +27,7 @@
 - [25.11. Čas je věc relativní](#2511-čas-je-věc-relativní)
 - [26.11. Pasti na Mišku](#2611-pasti-na-mišku)
 - [27.11. Naštěstí za kilo](#2711-naštěstí-za-kilo)
-- [28.11.](#2811)
+- [28.11. Vzkaz Sobě](#2811-vzkaz-sobě)
 
 ### 1.11. Vojtovo brano
 
@@ -368,11 +368,18 @@ Když jsem došel domů, byl byt zalitý večerním sluncem. Přesně tím veče
 Vyčistil jsem a olejem znovu naimpregnoval boty, uvařil jídlo, zkoul díl Ricka a Mortyho a rozhodl se, že uklidím ve skříni. Moc jsem tomu nedal. Ale aspoň jsem se zbavil nějakých krabic a bordelu. Krůček po krůčku.. zimních večerů ještě bude dost.<br>
 Krátce jsme si telefonovali s Míšou. V Amsterdamu pršelo. Moc mi toho o jejím výletu neprozradila. Navnadila mě ale na vyprávění tím, že by tam bydlet nechtěla. Díky hovoru mi bylo oboje, trochu méně smutnu a chtěl jsem jí vidět ještě víc.<br>
 
-### 20.11.
+### 20.11. Navrátilec z Nizozemí
 
-plavat<br>
-potyčky s datovkou<br>
+Pěšky do práce, protože kolo bylo v práci.<br>
+potkal jsem ondru Klimeše<br>
+makový koláč v antonínovi<br>
+vláďa řešil emc na fbmc, já třídil součástky a občas mu něco přepájel<br>
+po práci jsem šel plavat<br>
+doma jsem vyplnil lejstra na příspěvek na bydlení<br>
+pořád s tím mám trochu morální problém, ale nedonutíš systém změnit se, pokud neuděláš nic.<br>
+bartoš rozbil portál občana<br>
 strašným kopcem vzhůru<br>
+míša večeří caprese<br>
 
 ### 21.11. Další koncert s Mámou
 
@@ -496,5 +503,44 @@ K obědu jsem měl špagety v TTC. <br>
 tisk papíru na nohu<br>
 koupě bot<br>
 
-### 28.11.
+### 28.11. Vzkaz Sobě
 
+Poslední dobou si jsem si v hlavě nesl takovou zajímavou myšlenku. Řekl jsem si, že si napíšu vzkaz svému budoucímu já. Člověk by mohl říct, že celej tenhle deník je vzkaz mýmu budoucímu já. Ale není to úplně tak. Smysl zápisu každého dne je to, že se k nim můžu vracet. Zamýšlený tok informací je tedy z budoucna do minula. Vzkaz budoucímu já má směr opačný.
+
+> Drahý Adame,
+>
+> V druhé polovině roku 2023 jsi byl šťastný. Byl jsi šťastný z mnoha důvodů. Viděl jsi hezká místa a dělal fajn věci. S Míšou Kantovou. Teprve jsi poznával jak skvělá je to holka. Ale už tehdá ti bylo jasný, že je to holka se kterou chceš strávit život. Dost toho byl oxytocin, to se nedá vyvracet, ale neviděl jsi to jen ty. Z Míši byli nadšení všichni kolem tebe.<br>
+> Nevím v jakých situacích se budeš nacházet v budoucnu a jestli přijde moment, kdy si řekneš, že Míša vlastně tak skvělá není. Jestli třeba nepřijde jiná, která ti bude připadat lepší. Chci abys sis vzpomněl že Adamovi roku 2023 předcházel Adam, který několik let hledal holku tak bezvadnou jako je ona. Mnohdy ne úplně aktivně. Ale žádná nebyla jako ona. Žádná nebyla tak hodná, tak milá, tak moudrá a tak sexy. A žádná tě nechtěla jako ona.<br>
+> Vzpomeň si na rozhovor s Eliškou Remešovou. Vztahová nula se skoro zákonitě stane. Možná i momenty v červených číslech. Ale z mojí perspektivy stojí za tenhle vztah bojovat co to dá.
+>
+> Tak to neposer a měj se hezky.
+
+další den v pláštěnce<br>
+fusili s hlívou a sušenými rajčaty<br>
+lakování boxu<br><br>
+Při zavírání brány jsem ale zjistil že zámek zamrzl. Asi 3 min. mi trvalo než jsem s ním pohnul. S Omarem jsem se telefonicky dohodnul že jim ho zamykat nebudu.<br>
+Jízda na silničce skrz První sněhovou dopravní kalamitu roku byla neskutečná. I přes Troje ponožky nebyla zima na nohy, sníh mi zhoršoval viditelnost a zabalené prsty na rukou.<br>
+Když jsem konečně dojel domů, šel jsem okamžitě do teplé sprchy. Vyplácal jsem téměř celý bojler.<br>
+Navečer jsem neměl konkrétní plán. Jarda ale napsal do Balkánu, zda nepůjdeme na pivo a tak jsem vyměnil barefooty za zimní kožené boty a vyrazil mu vstříc.<br>
+Prej jsme pěšky přes Nusle až na náplavku. Potkali polonahého běžce, povídali si o návštěvách rodin a pokračování stavby Tiny Housu.<br>
+Koru sníh baví. Hrál si s ním celou cestu a na Náplavce se klouzala sem a tam.<br>
+Ondro jsme potkali před kavárnou bike. Měli zavřeno. Jardu napadlo že na druhé straně mostu bude nějaká dobrá hospoda. Když jsme ale přišli řeku, uvědomil si, že je to u jiného mostu a tak jsme pokračovali ke Kampě. U dalšího mostu si uvědomil, Že vlastně jdeme opačně. Už asi patnáct minut.<br>
+A tak jsme Jardu zbavili vedení a došli do dobrý trafiky. Jarda se s Ondrou hodně bavil o AI. Řešili jak by mohl pomoci s nadcházejícím NIPSem. Měli totiž prý školení, na kterém paní říkala že ale můžeš používat hned a tvůj nástroj bude fungovat už zítra.<br>
+Po chvíli se k nám přidal tomáška. Měl na Náplavce rande s holkou z tindru Isabelou. Prý to bylo 3. rande, ale dobu ho nepozvala že prý nemám uklizeno. Ani Ondra, ani Jarda tomu nedával velkou šanci. Šanci ne šanci, mrzí mě že už s Míšou nejsou.<br>
+Seděli jsme do zavíračky. Ondra pak vyrazím na jedno kolo domů a my jsme se vydali na dvaadvacítku, Na národní se rozloučili s Tomášem a popřáli mu hodně štěstí na cestě do Ameriky a někdy po půlnoci ve vršovicích došli pěšky domů.
+
+29.11.
+
+-5 stupňů a námraza všude. Volba byla jasná. Karmínový drak dnes zůstává doma.<br>
+Kombinace vlak a chůze Mně dostaly do karlina v 8:30.<br>
+Ve vývoji jsme se sešli všichni. Vedle byla dokonce monča a omar. Na oběd jsme ale stejně šli jenom já Jirka a vláďa. V jídelně jsme si dali květákové placičky.<br>
+Českomoravská nemovitostní nám připravila svařák k navození vánoční atmosféry.<br>
+Potom co vláďa odešel, jsme se dostali do křížku s Ivanem. Kreslil výkres pro certifikaci, ale díly které nakreslil nesouhlasily s těmi které vyrábíme. A tak začala hádka mezi mnou Ivanem a DJem. Trvalo to dlouho. Hlasy byly zvýšené a nervozita rostla. Nakonec jsme ale přišli s řešením. Sice to bude víc práce pro Ivana, moje ego ale vyletělo vzhůru. Byl jsem to já kdo přišel s řešením.<br>
+Bez kola jsem pěšky vyrazil zpátky na hlavák. Spěšným vlakem za 14 Kč jsem dojel do Vršovic A vyrazil na nákup do Lidlu. První dvě pokladny byly zrušené a byly nahrazeny těmi samoobslužnými. Budoucnost přišla i k nám.<br>
+Protože jsem cítil že ze Vší té zimy mě maličko začíná bolet v krku, nakoupil jsem ovoce a samé zdravé věci. Doma se dal do vaření luštěninových těstoviny s pestem a těšil se až přijde Miška.<br>
+Bylo na ní vidět že je z Německa unavena. Prý měli celodenní jednání s nějakou tamější automobilkou ale má na to NDA, tak jsem se nedozvěděl nic. Neva. Byli jsme spolu.<br>
+Koukali jsme na cyklostezky v Dánsku a měli se hezky.
+
+30.11.
+
+Ráno jsme si ještě chvíli hráli. Tak jsem si připravil oběd, snídani pro nás pro oba a když se čas nachýlil společně jsme běžely na zastávku autobusu. Stejně měl zpoždění. A díky tomu i já. Pěší cesta přes Vinohrady prostě trvá.
