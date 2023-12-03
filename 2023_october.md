@@ -280,24 +280,26 @@ kolem marťi domů
 
 ### 16.10. Klapky a struny
 
-zapoměl jsem na ondru<br>
-po práci na kole do kytar<br>
+I přes poznámku v kalendáři jsem úplně zapoměl, že na dnešní den jsme měli s Ondrou naplánovanou cestu do Mlíkárny na Vinohradech. Půl roku zpátky jsme tam seděli a dumali nad tím, zda je strom nad námi dub červený či nikoliv. Rozseknout se to dalo až na podzim a tenhle den jsme vybrali úplně náhodou. Ondra na to naštěstí zapomněl také. Mohl jsem tak realizovat plán ze seznamu s Miškou. Návštěvu Kytar.cz.<br>
+Dohodli jsme se na šestou. Jel jsem na kole a musím říct, že z Karlína je to docela štreka. Ale dá se. Celou dobu je to kolem řeky.<br>
+Dorazil jsem před Míšou. Chvíli jsem si brnkal do kláves u vstupu a najednou stála za mnou. Chodili jsme od klapek ke klapkám a došli k názoru, že Rolandy mají nejlepší klávesy. A že ty nejlevnější nejsou vlastně o skoro nic horší než ty dražší. Pár pokročilých funkcí a skutečné pedály. Asi bych to nepotřeboval.<br>
+Do zavíračky jsme byli u kytar. Mišku jsem k hraní nepřemluvil. Ale líbily se jí metalové kytary. Další důkaz že je to skrytý skandinávec.<br>
+U vchodu jsme ještě diskutovali o užitečnosti ukulele. Jedno jsem jim naladil, protože bylo úplně mimo. Sám na něj doma ale sotva hraju.<br>
+Jel jsem na kole a Míša tramvají. Spatřil jsem jí na Otakarce. Koukala do mobilu a neviděla mě. Vyzvednul jsem jí u nás před nádražím a šli jsme k mně domů.
+Koukali jsme na Harryho. Nejsou to ale krátký filmy a tak jsme zvládli jenom kus.<br>
+Doprovodil jsem Mišku na tramvaj a když odjížděla, uvědomil jsem si, že má barefoot kozačky, které jsem na ní ještě neviděl.
 
 ### 17.10. Tuctové úterý
 
+Vláďa byl typicky pryč, krabice oprav byla plná a já tak procházel jednu elektroniku za druhou.
+
 ### 18.10. Dub nebyl červený
 
-po práci na pivo do mlíkárny<br>
-dub nebyl červný<br>
-přesun dovnitř<br>
-polička<br>
-týna o festivalu a válce<br>
-třetí pivo mě docela sundalo<br>
-na kole dom<br>
-balení<br>
-na tramvaj<br>
-přes palčák až na hřebenku<br>
-miška mě vyzvedla<br>
+Po práci jsme s Ondrou vyrazili na reparát pondělního plánu. Na kole jsem dojel do Mlíkárny a objevil, že dub červený nebyl. Inu zvolil jsem Gambrinus. Ondra mi vyprávěl o autu co nemělo rádo jahodovou zmrzlinu. Bylo to dost vtipný vyprávění.<br>
+Se západem slunka ale přišla zima. Zaplatili jsme a přesunuli se do Sokolovny na poličku. Přišla za námi Týna a vyprávěla nám o tom, že je v brutálním stresu. Pár let zpátky založila festival izraelského filmu a válka jí tak nepřinášela zrovna moc pozitivních ohlasů.<br>
+Třetí pivo mě docela sundalo. Abstinence člověka zabije. Ale měl bych se k ní vrátit. Bylo to fajn. Rozhodně to bylo bezpečnější na jízdy na kole domů.<br>
+I balení je težší, když je člověk navátej. Naštěstí jsem skoro nic nepotřeboval. Nadupal jsem do batohu spodní prádlo a vyrazil na tramvaj a následný autobus.<br>
+Miška mě vyzvedla na zastávce a zbytek večera si vlastně nepamatuju.
 
 ### 19.10. Dle plánu
 
@@ -502,15 +504,9 @@ Dostal jsem instrukce jak co zalévat, popřál Vildovi s Marťou hezký výlet 
 
 ### 26.10. Opět nemocný
 
-tramvají do karlína<br>
-sbalil jsem elektroniky<br>
-mucosolvan a ibáč<br>
-mohl jsem jet na jeden lístek<br>
-doma pracovat v dece<br>
-horšilo se to<br>
-nákup zeleniny a ovoce<br>
-telefonát s miškou až do večera<br>
-minul jsem drakiádu<br>
+Řekl jsem si, že doma pracovat zvládnu. Oblíkl jsem se a tramvají sjel do Karlína pro vybavení. Tam jsem pozdravil Petra, sbalil elektroniky a vyrazil zpátky. V Lékárně jsem ještě koupil Mucosolvan a ibáč. Když jsem kupoval lístek na cestu zpět, došlo mi, že bych to stihl na jeden delší. Holt, nebyl jsem ten den nejostřejší tužka v penále.<br>
+Doma jsem si připravil pracoviště a obalil se dekou. V průběhu dne se to horšilo. Šel jsem tak do Lidlu koupit zeleninu a ovoce a když jsem konečně práci pověsil na hřebík, uložil jsem se rovnou do postele, odkud jsem telefonoval s Miškou až do večera.<br>
+Mrzelo mě, že jsem minul drakiádu.
 
 ### 27.10. Není to Covid
 
@@ -545,4 +541,9 @@ Sprcha přestala odtékat. Místo zvonu jsem dokázal použít láhev od džusu.
 
 ### 31.10. Pro filtr
 
+Zapsat něco každý den je náročný.<br>
+Poslední říjnový den byl pro mě poměrně rutinní. S výjimkou toho, že jsem si šel koupit kovový filtr do Aeropressu. Tentokrát jsem do obchodu dorazil ve správný čas. S prodavačkou jsme se bavili docela dlouho. Uvařila mi decaf jen tak na ochutnání v Moccamasteru, který mě vrátil myšlenkově do finska a tak jsem vyprávěl nějaký historky a ona se tomu smála. Zpětně mi došlo, že po mě asi docela jela. Zaslepen láskou, vůbec mi to nedošlo.
+
 <a href="../images/2023_october/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/31_1.jpg"></a>
+
+Cestou domů jsem potkával lidi v haloweenských kostýmech. Jednoho dne půjdu za Aanga. Míša by byla dobrá Katara. Akorát by si musela nějak nabarvit vlasy na hnědo.

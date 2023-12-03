@@ -21,13 +21,15 @@
 - [19.11. Třídenní víkend?](#1911-třídenní-víkend)
 - [20.11. Navrátilec z Nizozemí](#2011-navrátilec-z-nizozemí)
 - [21.11. Další koncert s Mámou](#2111-další-koncert-s-mámou)
-- [22.11.](#2211)
+- [22.11. Největší porada vůbec](#2211-největší-porada-vůbec)
 - [23.11. Mám štěstí](#2311-mám-štěstí)
 - [24.11. Den naopak plný událostí](#2411-den-naopak-plný-událostí)
 - [25.11. Čas je věc relativní](#2511-čas-je-věc-relativní)
 - [26.11. Pasti na Mišku](#2611-pasti-na-mišku)
 - [27.11. Naštěstí za kilo](#2711-naštěstí-za-kilo)
 - [28.11. Vzkaz Sobě](#2811-vzkaz-sobě)
+- [29.11. Svařák a budoucnost](#2911-svařák-a-budoucnost)
+- [30.11. Vícero rolí](#3011-vícero-rolí)
 
 ### 1.11. Vojtovo brano
 
@@ -366,42 +368,49 @@ Když jsem došel domů, byl byt zalitý večerním sluncem. Přesně tím veče
 <a href="../images/2023_november/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/19_1.jpg"></a>
 
 Vyčistil jsem a olejem znovu naimpregnoval boty, uvařil jídlo, zkoul díl Ricka a Mortyho a rozhodl se, že uklidím ve skříni. Moc jsem tomu nedal. Ale aspoň jsem se zbavil nějakých krabic a bordelu. Krůček po krůčku.. zimních večerů ještě bude dost.<br>
-Krátce jsme si telefonovali s Míšou. V Amsterdamu pršelo. Moc mi toho o jejím výletu neprozradila. Navnadila mě ale na vyprávění tím, že by tam bydlet nechtěla. Díky hovoru mi bylo oboje, trochu méně smutnu a chtěl jsem jí vidět ještě víc.<br>
+Krátce jsme si telefonovali s Míšou. V Amsterdamu pršelo. Moc mi toho o jejím výletu neprozradila. Navnadila mě ale na vyprávění tím, že by tam bydlet nechtěla. Díky hovoru mi bylo oboje, trochu méně smutno a chtěl jsem jí vidět ještě víc.<br>
 
 ### 20.11. Navrátilec z Nizozemí
 
-Pěšky do práce, protože kolo bylo v práci.<br>
-potkal jsem ondru Klimeše<br>
-makový koláč v antonínovi<br>
-vláďa řešil emc na fbmc, já třídil součástky a občas mu něco přepájel<br>
-po práci jsem šel plavat<br>
-doma jsem vyplnil lejstra na příspěvek na bydlení<br>
-pořád s tím mám trochu morální problém, ale nedonutíš systém změnit se, pokud neuděláš nic.<br>
-bartoš rozbil portál občana<br>
-strašným kopcem vzhůru<br>
-míša večeří caprese<br>
+Ve čtvrtek jsem šel za Miškou na Florenc. Drak tak zůstal v Karlíně a já jsem musel do práce pěšky. Na schodech na Rybalkovu jsem potkal Ondru Klimeše. Neviděli jsme se roky. Chvátal. Domluvili jsme se, že si napíšeme co hezkého se nám stalo za dobu co jsme se neviděli.<br>
+Na Jířáku jsem se zastavil v Antonínovi. Možná bylo lepší, když jsem nevěděl, že je přesně na mé pěší cestě do práce. Makový závin stojí 44 a to není málo. Ale maku je v něm požehnaně a chutná výborně.<br>
+
+<a href="../images/2023_november/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/20_1.jpg"></a>
+
+Vláďa řešil emc na fbmc. Já jsem třídil součástky, poslouchal co dělá a občas mu něco přepájel. Nakonec nad tím trochu zlomil hůl, protože nezjistil odkud 50 Mhz zákmit leze. Děl se když nábojová pumpa tlačila proud do gaty koncového tranzistoru. O tom nebylo pochyb. Ale napětí na drainový proud nemělo efekt. Asi to plulo nějak celý i se zemí. Porovnával to se starou ebmc i s novou. Které dokázal sestřelit driver. Mě potěšilo, že jsem driver dokázal úspěšně vyměnit.<br>
+Po práci jsem šel plavat. Doma jsem vyplnil lejstra na příspěvek na bydlení. Pořád s tím mám trochu morální problém. Nemám se tak zle abych ho potřeboval. Ale je to blbě nastavený a systém se nezmění, když lidi nebudou dělat nic.<br>
+Při nahrávání mi ale málem praskla žilka. Bartoš se svou digitální agenturou rozbil portál občana. Jednu z mála věcí, které na eGovernmentu fungovaly. Nakonec se to nějak podalo, ale když něco funguje...<br>
+Míša se vrátila z Nizozemí. Nasedl jsem na draka a strašným kopcem vzhůru se vydal k ní na zámek. Dorazil jsem když večeřela. Caprese vypadalo fakt dobře. Já jsem ale měl břich plný z domova.
 
 ### 21.11. Další koncert s Mámou
 
-ráno pomalé vstávání a trochu radosti pro Mišku<br>
-na kole do Malešic, z kopce, šeříkovou národní, v lidli na příkopě snídani a kafe, bluhar nahoru, olšanská, basileják, malešice pozadu.<br>
-Omar s DJ ve skladu, na displeje chybí plasty, snýtoval jsem si držáky, zabalil box, olepil další co stačilo omést, otestoval zabalil a v malešicích skončil<br>
-TTC zapečené brambory<br>
-na cestě dolů DJ zrovna vyráží<br>
-malešice pozadu, basileják, ohrada, incident na hodinkách a vypnutý podcast, koňěvkou dolů (vlastně hartigovou)<br>
-ivan v karlíně, DJ po deseti minutách<br>
-tisky na tiskárny, SD karty, máma přišla<br>
-dvě kafata, diskuse o historii a kostelech<br>
-metrem na karlák, kolem futuristické lékárny do psychiatrické léčebny<br>
-půl hodiny před začátkem důchodci všude, průměrný věk 70<br>
-Čembalista a houslistka, usmála se na mě, Narodila se 99, jsem starej, byla zkurveně dobrá, polyfonie na housle? nechápu, škoda že samej bach a jemu podobní<br>
-kostel plný zlata a tmavých obrazů<br>
-po koncertě zima, po štěpánský do neustadtu,
+Se vstáváním jsme si dali na čas. Měl jsem nějak moc energie a tak jsem Mišce udělal párkrát radost.<br>
+Cesta od ní do Malešic byla dlouhá. Jel jse m z kopce dolů, dál Šeříkovou a Národní. V Lidlu Na příkopě jsem koupil snídani a kafe. Bluharem projel nahoru. Pak mě čekala Olšanská, Basileják a do Malešic jsem tak přijel zezadu.<br>
+Neměl jsem klíče a i když mě Omar pustil dovnitř. Vrata do skladu byla stejně zavřená. Musel mi otevřít Štépa. Spočítal jsem, že na displeje chybí plasty, snýtoval jsem si držáky, zabalil box, olepil další co stačilo omést, otestoval ho, zabalil a v malešicích skončil.<br>
+K obědu jsem si dal v TTC zapečené brambory. S hráškem a se sýrem. Byly fajn. Cestou do Karlína jsem potkal DJe. Předjel jsem ho a do Karlína dorazil 10 minut před ním.<br>
+Hodinky mi na ohradě zadetekovaly incident. Nevím jak k tomu přišly. Prostě jsem přejel přes koleje. Zbytečné smsky mámě a tátovy. Možná to znova vypnu. Tak jako mě to vyplo podcast, což mě naštvalo. Navíc mi celou cestu koňěvkou (vlastně hartigovou) bzučela kapsa.<br>
+V Karlíně byl Ivan. Sotva jsem dal tisknout díly na displeje, přišla Máma. Udělal jsem nám kafe, ona přinesla croissaty a zapovídala se s Ivanem a DJem o architektuře kostelů. Ivan totiž dělal zábradlí do Víta a byl na to patřičně hrdý.
 
-### 22.11.
+<a href="../images/2023_november/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/21_1.jpg"></a>
 
-nákup v penny<br>
-trhání gingka<br>
+Metrem jsme sjeli na Karlák a kolem futuristické lékárny, kde máma zarazila sekuriťáka přednáškou o tamějším technickém vybavení, došli do psychiatrické léčebny. Do koncertu zbývalo půl hodiny. Důchodci už se ale slézali ze všech stran, takže jsme šli zabrat místo na sezení. Průměrný věk obecnstva byl tak 70. Vlastně pod 30 jsem tam byl asi jen já a houslistka, která se na mě usmála vždycky, když šla hrát. Byla nějaká příliš dobrá. Narodila se v roce 99, studovala všude možně po evropě, z konzervy měla doktorát a na housle hrála polyfonicky Bacha. Jak? Nechápal jsem. Škoda, že jsem jí neslyšel hrát něco současnějšího. Hudba z roku 1620 s doprovodem na čembalo a varhany byla skvěle zahraná, ale rychle se oposlouchala.<br>
+Po koncertě se mrtě ochladilo. Rozhodl jsem se, že půjdeme Neustadtu. Kousek po Štěpánský a pak Řeznickou. Přijde mi vtipný, že kadeřničtí učni sídlí na Řeznické. Cítím tam inspiraci pro Sweenyho Todda.<br>
+Dali jsme si dvě Chai Latté a já máme na laptopu ukazoval fotky z Barcelony. Objevili jsme, že přidali další piano.
+
+<a href="../images/2023_november/21_2.jpg" target="_blank"><img src="../images/thumbnails/2023_november/21_2.jpg"></a>
+
+Devítkou jsme pak sjeli na hlavák a odtud každý svým vlakem dom. Objevil jsem, že na EC lítačka neplatí. Vypnul jsem ve svém kupé světlo a revizor mě tak v obešel bez povšimnutí.
+
+### 22.11. Největší porada vůbec
+
+Ráno se mi nic nechtělo. Přišla na mě úplná paralýza. Hodinky mi daly 75 spacích bodů. Miška mi poslala fotku ranní Bratislavy. Vypadal nějak moc moderní.<br>
+Ledová sprcha mě trochu probrala. Plánoval jsem nabrat trochu Déčka cestou pěšky. Naneštěstí bylo zataženo.<br>
+Po obědě v jídelně jsme se připravili na snad nejvetší poradu, jakou jsme kdy měli. Přišli totiž všichni z výroby. Do úplného osazení chyběla jen Štěpánka s Monikou. Ale monča vlastně přítomná byla. Mluvila s námi z Omarova laptopu.<br>
+Až tak moc jsme toho nevyradili. Řešili jsme jak to bude probíhat, jestli se pojede do Lahti. Taky jsme objevili, že kolo s terminálem úspěšně provádí platby. Peníze se z účtů strhávají, ale účetnímu nikdy nepřišel ani halíř. To by nebylo dobrý. Na vině bylo zřejmě nets.<br>
+Po práci jsem jel na Drakovi do bazénu. Měli plno, ale po asi čtvrthodině čekání jsem se dostal na řadu a v bazénu to tak hrozný nebylo. Prostě jen první tři lajny zabrala děcka.<br>
+Zapoměl jsem si ale plavání z poloviny nahrát a cestu zpátky taky. 500 metrů vodou a 3 kilometry na kole ve statistikách prolítly komínem.<br>
+Večer jsem ještě šel nakoupit, protože už nebylo z čeho uvařit večeři. Už nevím proč, vybral jsem Penny. Miška mě inspirovala s Caprses. Nakoupil jsem mozzarelu a bio rajčata. Pak taky placku do vegeburgeru a zlevněný tvaroh.<br>
+Cestou jsem potkal Jinan dvoulaločný. Otrhal jsem z něj dvě kapsy plné listů a dal je doma sušit. Po dvou dnech je ale potáhla nějaká černota tak jsem je vyhodil. Asi budu muset ginkgo koupit v oxalisu.
 
 ### 23.11. Mám štěstí
 
@@ -500,8 +509,11 @@ Měl jsem z toho radost. Sebralo jí to čas a 2 body. Ale nechceš přijít o d
 
 Nahodil jsem žlutou pláštěnku a vyrazil deštěm do Malešic. Má denní náplň byla relativně nudná. Další boxy. Řekl jsem si, že když už tím zabíjím čas, udělám to všechno a pořádně.<br>
 K obědu jsem měl špagety v TTC. <br>
-tisk papíru na nohu<br>
-koupě bot<br>
+Po práci jsem si vytiskl měřítko nohy z webu belenka. Napoprvé se mi i se sto procentním měřitkem nevešla kreditka do kontrolního rámečku. Vzpomněl jsem si ale, že tiskárny zřídka kdy tisknou od kraje do kraje. Druhý pokus vyšel. Naměřil jsem něco mezi 38 a 39. To mi přišlo trochu absurdní. Vybral jsem 40.
+
+<a href="../images/2023_november/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_november/27_1.jpg"></a>
+
+Sleva z 3590 Kč na 2154 Kč mi přišla dobrá. Jinak by to byla střela za boty. Teda podle toho jak dlouho vydrží. Ale já botám dávám čoud.
 
 ### 28.11. Vzkaz Sobě
 
@@ -515,11 +527,10 @@ Poslední dobou si jsem si v hlavě nesl takovou zajímavou myšlenku. Řekl jse
 >
 > Tak to neposer a měj se hezky.
 
-další den v pláštěnce<br>
-fusili s hlívou a sušenými rajčaty<br>
-lakování boxu<br><br>
+Vyjma rozjímání nad budoucností se den odehrával asi takhle:<br>
+Ráno jsem vyrazil v pláštěnce. Doladil jsem poslední boxy. Jeden jsem dokonce lakoval a nedopadlo to vůbec špatně. Zabalil co šlo. Vrátil nářadí a všechno vyfotil a sepsal na Slack. K obědu jsem v TTC měl moc dobré fusilli s hlívou, sušenými rajčaty a parmazánem. Někdy to zreplikuju.<br>
 Při zavírání brány jsem ale zjistil že zámek zamrzl. Asi 3 min. mi trvalo než jsem s ním pohnul. S Omarem jsem se telefonicky dohodnul že jim ho zamykat nebudu.<br>
-Jízda na silničce skrz První sněhovou dopravní kalamitu roku byla neskutečná. I přes Troje ponožky nebyla zima na nohy, sníh mi zhoršoval viditelnost a zabalené prsty na rukou.<br>
+Jízda na silničce skrz první sněhovou dopravní kalamitu roku byla neskutečná. I přes troje ponožky mi byla zima na nohy. Sníh mi zhoršoval viditelnost a zebaly mě  prsty na rukou.<br>
 Když jsem konečně dojel domů, šel jsem okamžitě do teplé sprchy. Vyplácal jsem téměř celý bojler.<br>
 Navečer jsem neměl konkrétní plán. Jarda ale napsal do Balkánu, zda nepůjdeme na pivo a tak jsem vyměnil barefooty za zimní kožené boty a vyrazil mu vstříc.<br>
 Prej jsme pěšky přes Nusle až na náplavku. Potkali polonahého běžce, povídali si o návštěvách rodin a pokračování stavby Tiny Housu.<br>
@@ -529,18 +540,35 @@ A tak jsme Jardu zbavili vedení a došli do dobrý trafiky. Jarda se s Ondrou h
 Po chvíli se k nám přidal tomáška. Měl na Náplavce rande s holkou z tindru Isabelou. Prý to bylo 3. rande, ale dobu ho nepozvala že prý nemám uklizeno. Ani Ondra, ani Jarda tomu nedával velkou šanci. Šanci ne šanci, mrzí mě že už s Míšou nejsou.<br>
 Seděli jsme do zavíračky. Ondra pak vyrazím na jedno kolo domů a my jsme se vydali na dvaadvacítku, Na národní se rozloučili s Tomášem a popřáli mu hodně štěstí na cestě do Ameriky a někdy po půlnoci ve vršovicích došli pěšky domů.
 
-29.11.
+### 29.11. Svařák a budoucnost
 
 -5 stupňů a námraza všude. Volba byla jasná. Karmínový drak dnes zůstává doma.<br>
 Kombinace vlak a chůze Mně dostaly do karlina v 8:30.<br>
 Ve vývoji jsme se sešli všichni. Vedle byla dokonce monča a omar. Na oběd jsme ale stejně šli jenom já Jirka a vláďa. V jídelně jsme si dali květákové placičky.<br>
-Českomoravská nemovitostní nám připravila svařák k navození vánoční atmosféry.<br>
+Českomoravská nemovitostní nám připravila svařák k navození vánoční atmosféry. Sedli jsme s ním v atriu a povídali si o filmech.<br>
 Potom co vláďa odešel, jsme se dostali do křížku s Ivanem. Kreslil výkres pro certifikaci, ale díly které nakreslil nesouhlasily s těmi které vyrábíme. A tak začala hádka mezi mnou Ivanem a DJem. Trvalo to dlouho. Hlasy byly zvýšené a nervozita rostla. Nakonec jsme ale přišli s řešením. Sice to bude víc práce pro Ivana, moje ego ale vyletělo vzhůru. Byl jsem to já kdo přišel s řešením.<br>
 Bez kola jsem pěšky vyrazil zpátky na hlavák. Spěšným vlakem za 14 Kč jsem dojel do Vršovic A vyrazil na nákup do Lidlu. První dvě pokladny byly zrušené a byly nahrazeny těmi samoobslužnými. Budoucnost přišla i k nám.<br>
 Protože jsem cítil že ze Vší té zimy mě maličko začíná bolet v krku, nakoupil jsem ovoce a samé zdravé věci. Doma se dal do vaření luštěninových těstoviny s pestem a těšil se až přijde Miška.<br>
 Bylo na ní vidět že je z Německa unavena. Prý měli celodenní jednání s nějakou tamější automobilkou ale má na to NDA, tak jsem se nedozvěděl nic. Neva. Byli jsme spolu.<br>
 Koukali jsme na cyklostezky v Dánsku a měli se hezky.
 
-30.11.
+### 30.11. Vícero rolí
 
-Ráno jsme si ještě chvíli hráli. Tak jsem si připravil oběd, snídani pro nás pro oba a když se čas nachýlil společně jsme běžely na zastávku autobusu. Stejně měl zpoždění. A díky tomu i já. Pěší cesta přes Vinohrady prostě trvá.
+Ráno jsme si ještě chvíli hráli. Pak jsem si připravil oběd, snídani pro nás pro oba a když se čas nachýlil společně jsme běžely na zastávku autobusu. Stejně měl zpoždění. A díky tomu i já. Pěší cesta přes Vinohrady prostě trvá.<br>
+V práci jsem byl:
+
+- uklízeč databáze
+- betatester webu
+- přepisovač pythonových skriptů
+- diagnostik hw a paječ
+
+Miška prý byla:
+
+- poradní hlas Pepovi
+- technický poradce Lukášovi
+- cestovní kancelář
+- pisatel Matlabu
+
+V pátek měla Miška volno a tak po práci jeli s bráchou domu slavit předčasné vánoce. Ptala se mě, jestli jsem koukal do schránky. Opak byl pravdou. Vlastně jsem do ní nekoukal už několik měsíců. Klíč od ní je na velkých klíčích. Ty mám jen když jedu na kole a s kolem se dole nezastavuju, protože by to byl náročný manévr.<br>
+Přišly mi ale hned dva pohledy. Výhled na Amsterdam a kreslený pohled se zkratkou A'DAM. Ten druhý si prý nemohla odpustit.
+

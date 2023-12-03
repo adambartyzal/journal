@@ -1,4 +1,4 @@
-## [Prosinec](2022.md)   
+## [Prosinec](2022.md)  
 
 - [1.12. Domů](#112-domů)
 - [2.12. Spíš se to zhoršuje](#212-spíš-se-to-zhoršuje)
@@ -47,8 +47,8 @@ Možná proto jsem si do deníku nezapsal žádné poznámky. Vybavuju si ale, �
 
 Ráno jsem se ponořil do aktivního poslechu hudby. Zní to zvláštně. Většinou mi něco hraje jako podmaz a pokud mi to vyloženě nevadí, písně aktivně nepřeskakuji. Tentokrát jsem se ale opravdu soustředil jen na poslouchání nástrojů, textů a vůbec všemu co hudba obsahuje. Byl to zvláštní zážitek.<br>
 Během poslouchání se mi povedlo maličko nadechnout nosem. Poprvé od operace. Slavil jsem to a dospěl jsem k názoru, že když zakloním hlavu, budou kapky konečně moci natéct někam, kde budou mít efekt. Ležíc na posteli s polštářem pod krkem jsem tedy nakapal do každého nosu asi tři kapky a čekal tak deset minut. A hle.. otok polevil dost na to aby oběma nosními dírkami přošla trocha vzduchu. Od vyléčení jsem byl ale daleko. Sanorin účinkuje asi 5 hodin a když jeho efekt odezní, otok se vrátí s větší razancí. Bylo tak potřeba uvolnění nosu využít. Kudy projde vzduch, tudy proteče slaná voda! Řekl jsem si a namíchal do láhve s cucákem dryják odpovídající černému moři.<br>
-V koupelně jsem nad umyvadlem asi hodinu vymýval z nosu hnis, krev a spoustu dalšího hnusu, který se v nose nahromadil. Taky jsem cítil, že ten hnis pěkně hnusně smrděl. Cítil jsem! To je to, co je třeba si z předešlé věty odnést.<br>
-Cítil jsem se dost dobře na procházku. Díra v kalhotech už byla dost velká na to abych si pořídil nové. Vyrazil jsem tedy do C&Ačka. Nejbližší bylo na Václaváku, takýže jsem přešel psí louku, vydrápal se na Zvonařku, sešel Kateřinskou a Štěpánskou. V C&Ačku mě ale přepadla nechuť dávat za cokoliv peníze a tak jsem nekoupil nic.<br>
+V koupelně jsem nad umyvadlem asi hodinu vymýval z nosu hnis, krev a spoustu dalšího hnusu, který se v nose nahromadil. Taky jsem cítil, že ten hnis pěkně hnusně smrdí. Cítil jsem! To je to, co je třeba si z předešlé věty odnést.<br>
+Bylo mi dost dobře na procházku. Díra v kalhotech už byla dost velká na to abych si pořídil nové. Vyrazil jsem tedy do C&Ačka. Nejbližší bylo na Václaváku, takýže jsem přešel psí louku, vydrápal se na Zvonařku, sešel Kateřinskou a Štěpánskou. V C&Ačku mě ale přepadla nechuť dávat za cokoliv peníze a tak jsem nekoupil nic.<br>
 Hlady jsem ale umřít nechtěl. Zastavil jsem se tedy v novém Lidlu Na Příkopě. Nějak jsem se tam nemohl rozhodnout co nakoupit až jsem nakonec skončil u inkrediencí na zelnǎčku a donutem. Na rozdíl od nás měli robopokladny a u nich hyperaktivní ukrajinku, která se mi vehementně snažila pomoct, ale byla to "taiwanská pomoc". Myslím, že bez ní bych to zvládnul 2x rychleji. Navíc jsem tam nikomu nezavazel.<br>
 Za kasou jsem objevil, že nákupní plocha se nachází v prostoru bývalého bankovního trezoru. Dveře sejfu byly stále na svém místě, za sklem vystavené na obdiv. Nějací kluci si mysleli, že je to kormidlo, a když jsem jim z plakety přečetl o co se ve skutečnosti jedná, běželi za svými tatínky sdělit jim, jak "krutopřísný" to je!<br>
 Domů jsem jel tramvají a po zbytek večera jsem měl pocit, že čas plyne nějak divně. Možná že Sanorin má vedlejší účinky.
@@ -129,7 +129,7 @@ mluvčímu nebylo rozumět<br>
 
 honza píše že je nemocný<br>
 vlakem a pak na rekole<br>
-do baráku na svařák<br> 
+do baráku na svařák<br>
 na sedmou do benedicta<br>
 filip už tam byl<br>
 jirka jen 5 minut později<br>
@@ -161,7 +161,7 @@ chlas či je s nosem něco víc špatně<br>
 řekl jsem si že pití omezím<br>
 plavat do podolí<br>
 
-### 12.12. 
+### 12.12.
 
 jedno z těch obyčejných pondělí
 
@@ -341,7 +341,7 @@ do hornbachu<br>
 ### 29.12. Poučen, opět do Hornbachu
 
 
-### 30.12. 
+### 30.12.
 
 
 ### 31.12. K Jardovi

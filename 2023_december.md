@@ -1,0 +1,42 @@
+## [Prosinec](2023.md)  
+
+### 1.12. Třetí v řadě
+
+Během dne mi přišel email, že Lenky dorazili do zásilkovny ve Vršovicích. Šachy už tam čekaly nekolik dní a otevřeno měli do šesti. Bazén po práci bych tak nestíhal. Cestou padal sníh a létal mi do očí. Udělal jsem si mentální poznámku, že musím najít cyklo nezatmavené brýle.<br>
+Krabice s šachy byla o dost větší než jsem si myslel, že bude. Ale to nevadí. Lepší vetší než menší.<br>
+Zato z Lenek přišlo rozčarování. Byly tuhé jako prase. Jasně, srovnával jsem je s mými Merrelly, které jsou tlusté asi jako ponožka a skoro na nich jde zavázat uzel. Ale stejně. Mé definici slova barefoot rozhodně neodpovídaly. Ale byl z kůže a kůže se musí rozchodit. Vyrazil jsem tak do Lidlu pro chleba, zjistit zda se trochu poddají. Velké byly tak akorát. Teda.. bez lžíce se nandavají velmi špatně. Ale jakmile noha vklouzne dovnitř, sedí krásně.<br>
+
+<a href="../images/2023_december/1_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/1_1.jpg"></a>
+
+Cestou do schodů zpátky už jsem cítil, že se trochu ohýbají. Rozhodl jsem se, že jim dám šanci. Navíc už jsem je trochu zohýbal.<br>
+Zip byl ale parádní a co do vzhledu se mi strašně líbily. Snad si sednou.
+
+### 2.12. Nová badmintonová sezóna
+
+Na půl jedenáctou jsme byli s Marťou dohodnutí na sraz na Astře. Začínali jsme novou badmintonovou sezónu a oba doufali, že dopadne lépe, než ta cyklistická, která začala a skončila ve [stejný den](2023_april/#24-zahájení-cyklistické-sezony).
+Čekal jsem, že Marťa pojede autobusem, ale já jsem plánoval rozchodit mé nové Lenky. Ráno jsem si tak dal půlhodinovou jógu a vyrazil na hodinovou cestu zasněženou Prahou.
+
+<a href="../images/2023_december/2_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/2_1.jpg"></a>
+
+Na prsty mi zima nebyla. Trochu mě trápilo, že dokonalá kůže na botách se ohýbá. Ale tomu se asi nevyhneš. Jinak se prostě rozhýbat nedá.<br>
+Cestou jsem našel hezkou šálu. Rozhodl jsem se, že jí vyperu a dám jí mámě k vánocům.
+
+<a href="../images/2023_december/2_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/2_2.jpg"></a>
+
+Marťa měla pěti minutové zpoždění. Šel jsem se převléct a když jsem se poté v liduprázdné hale protahoval, Marťa přiběhla už oblečená. Rozcvičovali jsme se dlouhýma, volejema, krátkej krátkej dlouhej, padáčky a smeče a pak začali počítat. Mám nahráno víc než ona a bylo to nefér. Asi ve třetí hře jsem přešel spíš do pinkacího režimu a víc jsme si povídali o zážitcích ze Zélandu.<br>
+Po hře jsme šli dolů na Hamr na pivo a polévku. Tam jsme se bavili o nastavení financí ve vztahu a o tom, že jejich fabie to má za pár a tak chtějí kupovat dodávku. Taky mi Marťa vyprávěla o scéně se svojí sestrou kvůli zásuvce od šicího stroje v čaji. Prý jí její sestra mrtě obdivuje a považuje za lepší, což během jejich dospívání vedlo k tomu, že Marťu šikanovala. Prý to vyřešila terapií. Já s Evou na žádný terapii nebyl. Cítil jsem se ochuzen, ale zároveň úspěšně.<br>
+Autobusem jsme pak sjeli na Kloboučnickou, došli ten zbytek a já doma dojedl těstoviny a až do večera se válel na gauči a četl nového Strika.
+
+### 3.12. Mezi běžkaři
+
+Olivie si s někým povídala asi ve 3 ráno. Trochu mi to rozbilo spánek a ráno se mi pak nechtělo z postele. Po pomalém vstávání jsem se rozhodl, že je na čase pohnout s deníkem. Doma se mi být nechtělo a ikeové nemasové koule už jsem dlouho neměl. Oblékl jsem tedy zimní bundu a seběhl dolů. Freebike se mi trochu schovával.
+
+<a href="../images/2023_december/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/3_1.jpg"></a>
+
+Ometl jsem co šlo a vyrazil přes Nusle. Do kopce abych zahřál baterku. A možná taky sebe. Cestou mi jelo hlavou, že je mi každý rok větší a větší zima. Možná, že Finsko nedám.<br>
+Cyklisté vymizeli. Za celou cestu jsem potkal jednoho. Zato se ale objevili běžkaři. Těch byl randál. Výhledy v Prokopáku byly nádherné.
+
+<a href="../images/2023_december/3_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/3_2.jpg"></a>
+
+V Butovicích se ale rozfoukalo a rozesněžilo. Moje nové Lenky to nedávaly. Začaly mi mrznout prsty na nohou i na rukou. Při chůzi jsou fajn. Noha pracuje a prokrvuje se. Na kole je to ale bída. Před ikeou už jsem se regulérně klepal. Ale uvnitř jsem to rozchodil. Teplé jídlo a káva mi vrátily krev do končetin.<br>
+Naneštěstí neměli decaf. Mírné nalomení z jízdy a dvě silné kávy mi přivedly mírný kofeinový šok. Rozhodně jsem se klepal. Přešel jsem radši na čaj.
