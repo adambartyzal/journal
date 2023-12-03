@@ -13,7 +13,7 @@ Zip byl ale parádní a co do vzhledu se mi strašně líbily. Snad si sednou.
 
 ### 2.12. Nová badmintonová sezóna
 
-Na půl jedenáctou jsme byli s Marťou dohodnutí na sraz na Astře. Začínali jsme novou badmintonovou sezónu a oba doufali, že dopadne lépe, než ta cyklistická, která začala a skončila ve [stejný den](2023_april/#24-zahájení-cyklistické-sezony).
+Na půl jedenáctou jsme byli s Marťou dohodnutí na sraz na Astře. Začínali jsme novou badmintonovou sezónu a oba doufali, že dopadne lépe, než ta cyklistická, která začala a skončila ve [stejný den](../2023_april/#24-zahájení-cyklistické-sezony).
 Čekal jsem, že Marťa pojede autobusem, ale já jsem plánoval rozchodit mé nové Lenky. Ráno jsem si tak dal půlhodinovou jógu a vyrazil na hodinovou cestu zasněženou Prahou.
 
 <a href="../images/2023_december/2_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/2_1.jpg"></a>
@@ -39,4 +39,5 @@ Cyklisté vymizeli. Za celou cestu jsem potkal jednoho. Zato se ale objevili bě
 <a href="../images/2023_december/3_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/3_2.jpg"></a>
 
 V Butovicích se ale rozfoukalo a rozesněžilo. Moje nové Lenky to nedávaly. Začaly mi mrznout prsty na nohou i na rukou. Při chůzi jsou fajn. Noha pracuje a prokrvuje se. Na kole je to ale bída. Před ikeou už jsem se regulérně klepal. Ale uvnitř jsem to rozchodil. Teplé jídlo a káva mi vrátily krev do končetin.<br>
-Naneštěstí neměli decaf. Mírné nalomení z jízdy a dvě silné kávy mi přivedly mírný kofeinový šok. Rozhodně jsem se klepal. Přešel jsem radši na čaj.
+Naneštěstí neměli decaf. Mírné nalomení z jízdy a dvě silné kávy mi přivedly mírný kofeinový šok. Rozhodně jsem se klepal. Přešel jsem radši na čaj.<br>
+Sepsal jsem toho dost. Ale taky jsem si uvědomil kolik toho ještě chybí. Trochu mě z toho chytla schíza. Pořád si myslím, že psát deník stojí za to. Občas ale cítím, že jsem jeho otrok. A to není dobrý.<br>

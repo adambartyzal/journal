@@ -191,8 +191,8 @@ kendy a lukáš
 
 ### 10.10. Provolané hodiny
 
-Pěšky<br>
-drahý kafe
+Do práce jsem šel pěšky. Věděl jsem že mi došlo kafe. Za Jířákem jsem tak poprvé vstoupil do kavárny The Miners. Chtěl jsem se podívat, zda mají zrnkovou kávu. Decaf.Měli. Jednu. Drahou jako prase.<br>
+Tamější baristka ke mně ale přiskočila a ptala se po čem moje srdce touží a když jsem jí vysvětlil, že váhám nad decafem, skočila za pressovač a udělala mi malé presso na ochutnávku. Bylo kyselé. Jakože citrusově kyselé. Skoro jsem nevěřil tomu, že je to kafe. Ale zaujalo mě to. Zaujalo mě to tolik, že jsem tam za 250g nechal 290 korun. Skoro jsem nechápal jak se to stalo. Ale život je krátký na to pít hnusný kafe. Jen jsem se bál, že po tomhle bude hnusný skoro každý.
 
 <a href="../images/2023_october/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/10_1.jpg"></a>
 
@@ -264,23 +264,21 @@ Venku pršelo. Měl jsem z toho radost. Je fajn když je venku hnusně ve dny, k
 
 ### 15.10. Pro chleba
 
-Začínal jsem se nudit. To bývá znamení, že jsem z nemoci venku.
+Začínal jsem se nudit. To bývá znamení, že jsem z nemoci venku. Cítil jsem potřebu dýchat čerstvý vzduch a tak jsem se čtečkou vyrazil ven do Grébovky.
 
-miška přijela<br>
-s buchtou nahoru<br>
-ven do grébovky<br>
-na výhled<br>
-zbytek sluníčka<br>
-studené kamení<br>
-pro chleba<br>
-na parcelu s pánem co zná lidi<br>
-na chai latté a čokoládu do zahradnictví<br>
-chleba u antonína<br>
-kolem marťi domů
+<a href="../images/2023_october/15_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/15_1.jpg"></a>
+
+Miška odpoledne přijela ke mně. Přivezla mi buchtu od mamky a protože se mi nechtělo být doma. Vyrazili jsme ven, chytit v Grébovce zbytek sluníčka. Seděli jsme nahoře na výhledu, ale kamenné zábradlí nás brzo začalo zebat do zadku. Mě sice vaječníky nenastydnou, ale Mišce by mohli. Pomalu jsme tak vyrazili pro chleba do Antonína. S několika zastávkami.<br>
+První byla moje oblíbená parcela na tiny house. Postával na ní pán a říkal, že zná lidi co jí vlastní. Víc toho neřekl. Ale z tónu bylo jasné, že si o nich nemyslí nic hezkého. Dál jsme se zastavili v zahradě za květinářstvím. Míša tam nikdy nebyla a já mám to místo moc rád. Dala si Chai Latté a já čokoládu. Seděli jsme vzadu v mém oblíbeném temném koutku a popíjeli teplý nápoj.<br>
+Míši šestý smysl zpozoroval, že na opačné stran zahrady jsou houpačky. Ponechala pití a šla se zhoupnout. Koukal jsem na ní, jak jí to sluší.
+
+<a href="../images/2023_october/15_2.jpg" target="_blank"><img src="../images/thumbnails/2023_october/15_2.jpg"></a>
+
+Antonín k večeru nezlevňuje. Škoda. Před zavíračkou jsme tak každý koupili čtvrtku chleba a postupně se vydali kolem Marťi domu je mně. Před mým domem jsme se rozloučili a Miška Aurou vyrazila na Strahov.
 
 ### 16.10. Klapky a struny
 
-I přes poznámku v kalendáři jsem úplně zapoměl, že na dnešní den jsme měli s Ondrou naplánovanou cestu do Mlíkárny na Vinohradech. Půl roku zpátky jsme tam seděli a dumali nad tím, zda je strom nad námi dub červený či nikoliv. Rozseknout se to dalo až na podzim a tenhle den jsme vybrali úplně náhodou. Ondra na to naštěstí zapomněl také. Mohl jsem tak realizovat plán ze seznamu s Miškou. Návštěvu Kytar.cz.<br>
+I přes poznámku v kalendáři jsem úplně zapomněl, že na dnešní den jsme měli s Ondrou naplánovanou cestu do Mlíkárny na Vinohradech. Půl roku zpátky jsme tam seděli a dumali nad tím, zda je strom nad námi dub červený či nikoliv. Rozseknout se to dalo až na podzim a tenhle den jsme vybrali úplně náhodou. Ondra na to naštěstí zapomněl také. Mohl jsem tak realizovat plán ze seznamu s Miškou. Návštěvu Kytar.cz.<br>
 Dohodli jsme se na šestou. Jel jsem na kole a musím říct, že z Karlína je to docela štreka. Ale dá se. Celou dobu je to kolem řeky.<br>
 Dorazil jsem před Míšou. Chvíli jsem si brnkal do kláves u vstupu a najednou stála za mnou. Chodili jsme od klapek ke klapkám a došli k názoru, že Rolandy mají nejlepší klávesy. A že ty nejlevnější nejsou vlastně o skoro nic horší než ty dražší. Pár pokročilých funkcí a skutečné pedály. Asi bych to nepotřeboval.<br>
 Do zavíračky jsme byli u kytar. Mišku jsem k hraní nepřemluvil. Ale líbily se jí metalové kytary. Další důkaz že je to skrytý skandinávec.<br>
