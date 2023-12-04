@@ -41,3 +41,20 @@ Cyklisté vymizeli. Za celou cestu jsem potkal jednoho. Zato se ale objevili bě
 V Butovicích se ale rozfoukalo a rozesněžilo. Moje nové Lenky to nedávaly. Začaly mi mrznout prsty na nohou i na rukou. Při chůzi jsou fajn. Noha pracuje a prokrvuje se. Na kole je to ale bída. Před ikeou už jsem se regulérně klepal. Ale uvnitř jsem to rozchodil. Teplé jídlo a káva mi vrátily krev do končetin.<br>
 Naneštěstí neměli decaf. Mírné nalomení z jízdy a dvě silné kávy mi přivedly mírný kofeinový šok. Rozhodně jsem se klepal. Přešel jsem radši na čaj.<br>
 Sepsal jsem toho dost. Ale taky jsem si uvědomil kolik toho ještě chybí. Trochu mě z toho chytla schíza. Pořád si myslím, že psát deník stojí za to. Občas ale cítím, že jsem jeho otrok. A to není dobrý.<br>
+Z ikey jsem jel po plzeňské. Já jsem rovnou k Mišce. Domů a zpátky bych to nedal. Byla taková zima že by mi upadly nejen nohy ale i ruce. Naštěstí jsem dokázal do velkých rukavic nacpat menší rukavice a to mě ochránilo a při jízdě z kopce.<br>
+Úplně jsem zapomněl, že mi napsala, že až se vrátí za Rokytnice, budeme si muset promluvit. V posledních několika týdnech na ní přišla obava, že je pro mě jakousi cenu útěchy, místo toho, že nejsem s Marťou a nebo s Joosje. Trochu mě to vykolejilo. Žádná taková věc ve mě nedřímá. Snažil jsem se to dát najevo slovy. Rozhodně jsem se do toho ale zabrousil a nepříliš vhodně to zakončil slovy, že je to pitomost. Prý jí ale pomohlo už jen to, že onu obavu vyjádřila nahlas. Snad to tak je.<br>
+Asi budu muset víc dávat najevo, že je to vztah, kterému věřím, jako ještě žádnému předtím.<br>
+Zbytek večera jsme si povídali, jedli chléb, sýr, rajčata a cini minis, smáli se a poměrně brzo jsme se přesunuli do postele, protože jsme možná začínali dostávat rozum a docházelo nám, že spaní 5 hodin prostě není zdravý.
+
+### 4.12. Nezmrzlý
+
+Moje hodinky stejně nebyly spokojený. 79 spacích bodů. Prý mi chyběl REM. Asi za to mohl ten kofeinový šok.<br>
+Mišku čekala jízda Meresebourgu. Mě jízda v -11 stupňích na freebiku do Karlína. Předehřál jsem si ruce v teplé vodě, dostal jsem do termosky té verde a u branky jsme se rozloučili. Pár zabrzdění opískalo brzdy a já se vydal z kopce dolů na cestu. Až pod kopcem mi došlo, že baterka už definitivně padla pod 10% a motor už mi nepomůže. Aspoň jsem se trochu zahřál tághnutím toho 35 kilového kola s jedním převodem. Ale bolela mě z toho kolena. Sedlo bylo na houby nastavené.<br>
+Z Vltavy se v ranním mrazu zvedala pára. Byl to moc hezký pohled.
+
+<a href="../images/2023_december/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/4_1.jpg"></a>
+
+V lidlu jsem si koupil snídani a dojel do Karlína. Tam jsem pokračoval v opravách ebufů a dělal DJovi korektora.<br>
+Na oběd jsme došli do Indie. Po práci jsem šel pěšky plavat. U Antonína koupil půlku chleba. A večer uvařil noky se špenátem.<br>
+
+### 5.12.
