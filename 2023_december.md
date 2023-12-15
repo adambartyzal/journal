@@ -1,5 +1,21 @@
 ## [Prosinec](2023.md)  
 
+- [1.12. Třetí v řadě](#112-třetí-v-řadě)
+- [2.12. Nová badmintonová sezóna](#212-nová-badmintonová-sezóna)
+- [3.12. Mezi běžkaři](#312-mezi-běžkaři)
+- [4.12. Nezmrzlý](#412-nezmrzlý)
+- [5.12. 2 kilometry kraulem](#512-2-kilometry-kraulem)
+- [6.12. Dobří holubi se vracejí](#612-dobří-holubi-se-vracejí)
+- [7.12. Strach, nejistota a vážný rozhovor](#712-strach-nejistota-a-vážný-rozhovor)
+- [8.12. Dárky](#812-dárky)
+- [9.12. Knížky a levičácký dýchánek](#912-knížky-a-levičácký-dýchánek)
+- [10.12. Bez zranění](#1012-bez-zranění)
+- [11.12. Lenky zpátky na Slovensko](#1112-lenky-zpátky-na-slovensko)
+- [12.12. Plavba Prahou](#1212-plavba-prahou)
+- [13.12. Je pryč](#1312-je-pryč)
+- [14.12. Malé žluté letadélko](#1412-malé-žluté-letadélko)
+- [15.12. Střípky dream teamu](#1512-střípky-dream-teamu)
+
 ### 1.12. Třetí v řadě
 
 Během dne mi přišel email, že Lenky dorazili do zásilkovny ve Vršovicích. Šachy už tam čekaly nekolik dní a otevřeno měli do šesti. Bazén po práci bych tak nestíhal. Cestou padal sníh a létal mi do očí. Udělal jsem si mentální poznámku, že musím najít cyklo nezatmavené brýle.<br>
@@ -57,8 +73,224 @@ Z Vltavy se v ranním mrazu zvedala pára. Byl to moc hezký pohled.
 V Lidlu jsem si koupil snídani a dojel do Karlína. Tam jsem pokračoval v opravách ebufů a dělal DJovi korektora.<br>
 Na oběd jsme došli do Indie. Po práci jsem šel pěšky plavat. U Antonína koupil půlku chleba. A večer uvařil noky se špenátem.<br>
 
-### 5.12.
+### 5.12. 2 kilometry kraulem
 
 Ráno bylo ponuré a nic moc se mi nechtělo. Rozhodl jsem se ho zlepšit aspoň snídaní. Zbyla mi dvě bio vajíčka, chléb od antonína, tvaroh a sušená rajčata. Na zlepšení nálady to vydalo.
 
 <a href="../images/2023_december/5_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/5_1.jpg"></a>
+
+### 6.12. Dobří holubi se vracejí
+
+rano jsem popřál míše k narozeninám<br>
+vlakem a pěšky, kafe z lidlu<br>
+vojta v 11, robert chvíli po něm, do indie,
+jel přes husqarnu<br>
+probrat s vojtou co by rád<br>
+porada docela rychlá<br>
+miti má 28 koček<br>
+po práci plavat<br>
+k večeři sýr a housky<br>
+pěšky do kina přes parukářku<br>
+šalvějový čaj
+
+<a href="../images/2023_december/6_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/6_1.jpg"></a>
+
+ondra s rébou<br>
+film od disneyho z temného období o holce co jde za tátou v době velké krize<br>
+pěšky domů<br>
+míša už si nechce telefonovat
+
+### 7.12. Strach, nejistota a vážný rozhovor
+
+Ráno padla volba na vlak. Kdybych se třeba podíval do jízdních řádů, možná by mi nefrnknul před obličejem. Další měl jet za 20 minut. Na to jsem neměl trpělivost, na patě jsem se otočil a vyrazil Grébovkou nahoru pěšky. Spíš pro zábavu jsem si pustil do uší navigaci. Byl jsem zvědavý, jestli mě stáhne do tunelu, nebo přes bulhara. Vedla mě do tunelu cestou, kterou bych šel i bez ní.<br>
+V Karlíně jsem řešil reklamace ze slovenska a pukala mi z toho cévka. Vracely se mi například desky, ve kterých byla špatně zapojená čtečka. Ne opačně, jak to někdy bývá, ale tak jak je na následující fotce.
+
+<a href="../images/2023_december/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/7_1.jpg"></a>
+
+Těsně před koncem pracovní doby mi Míša napsala zprávu, na kteou jsem koukal asi 10 minut, svět se kolem mě zastavil a moje srdce taky.
+
+> V posledních pár týdnech jsem si všimla věcí, které mi v našem vztahu nesedí, což už asi tušíš. Ráda bych si o nich promluvila, jen ti to chci dát vědět předem, aby ses na to mohl připravit a samozřejmě záleží i na tobě, zda jsi otevřený to zkusit vyřešit, nebo to nevidíš.
+
+Pár týdnech? Vždyť jsme se viděli pár dní zpátky a měli se moc hezky. Úplně mě to vykolejilo. Nevěděl jsem co dělat. Co napsat. Cítil jsem strach.<br>
+Napsal jsem něco o tom, že mě to hodně zarazilo, že náš vztah je první v mým životě, kterýmu věřím a že mi přijde, že děláme kroky dopředu a že tohle na mě přišlo docela zčista jasna.<br>
+Míša ale nastupovala do auta a vyrážela na dlouhou cestu z Mersbourgu do Prahy a tak jsme si toho víc nenapsali.<br>
+Já se vydal na stříbrném freebiku domů. Smekalo se mi to a do toho se mi klepaly ruce. Trochu zimou, ale víc tou situací. Zastavil jsem se v Albertu, nakoupil věci na salát a doma si ho připravil.<br>
+Ani plný žaludek mě moc nespravil. Dospěl jsem k názoru, že tohle spraví jen rozhovor mezi čtyřma očima. Čím dřív tím líp.<br>
+Vyletěl jsem na zastávku v takovém spěchu spěchu, že jsem ani nestihl zhasnout světlo v pokoji. Tramvaje mi vůbec nenavazovaly a můj třicetiminutový lístek tak pomalu ale jistě vyprchával, zatímco já jsem postával na synkáči a čekal na Osmičku, která měla zpoždění zhruba takové, aby mi autobus na Karláku frnknul před obličejem jako ráno vlak.<br>
+Míša se mezitím vrátila domů a pustila se do naplánovaného callu s Marťou a Michalem ohledně příprav na Zéland. Měl jsem přijet zrovna, když měli končit. Protáhlo se to ale, takže jsem procházel před domem sem a tam a četl knížku.<br>
+Po asi čtvrt hodině za mnou Miška přišla. Trochu váhavě jsem jí objal a spolu jsme se vydali vzhůru na procházku do parku pod Petřínem.<br>
+Nevrhli jsme se do toho rovnou, ale přišlo to.<br>
+Prý se chovám tak, jako by náš vztah byl víc o mně než o ní. Jenže ona do něj dává víc než já. Ten pocit nejistoty v ní umocnilo pár drobností a pár větších věcí. Mezi drobnosti patřilo třeba to, že když se vidíme, neobejmu jí. Mezi větší bylo to, že jsem jí ignoroval během jejích narozenin a šel si s kamarády do kina.<br>
+Byly to legit argumenty. A byly to věci, který na sobě chci zlepšit. Trochu se mě dotklo, že mi to neřekla dříve a to, že já narozeninám nepřikládám téměř žádnou váhu je něco, v čem se lišíme víc než jsem čekal. Jenže já je chtěl slavit v Pátek. A na tom jsme se dohodli. Či jsem si to aspoň myslel. Prý jsem ale řekl, že se v pátek uvidíme možná.<br>
+Zima nás dohnala zpátky k ní. Byli jsme trochu odtažitější než obvykle. Ale pokud to bylo možné, měl jsem radost, že jsem přijel ještě ten den. Myslím, že jinak by to bylo horší. Neusínali jsme v objetí. Ale aspoň vedle sebe.
+
+### 8.12. Dárky
+
+Miška rán chvátala míň než já. Moc se mi do vstávání nechtělo, ale bylo třeba vyrazit. Dostal jsem jablko na cestu. Při nasazování mých nových Lenek se mi zasekl zip. Jedna z šestnácti recenzí informovala kupující o tom, že se zipem jsou potíže. 1/16 není moc, řekl jsem si tehdá. Dva týdny na to začal zip jít do prdele.<br>
+Po chvíli čarování se mi podařilo zip odseknout, rozloučili jsme se a já vyběhl do mrazivého rána s působivým slunkem prosvicujícím ranní inverzi.
+
+<a href="../images/2023_december/8_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_1.jpg"></a>
+
+Sedmičkou jsem se svezl k nám. Jakž takž nacpal do batohu šachy a vyrazil na kole do Karlína.<br>
+Míše někdo odřel firemní oktávku. Ale byl to fér člověk a všechno vyřešil s policií a nechal na místě potvrzení o účasti na nehodě.<br>
+V práci jsem se pustil do psaní návodu na montáž sestavy SCR+EBUF. Mělo to hodně fotek a málo textu. Ideální návod podle mě. DJovy elaboráty mě začínaly štvát. Do uší mi hráli [xx](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) a den ubíhal poměrně kvapně.<br>
+Vláďa se ale nedotavil. S Ivanem jsme vydedukovali, že má kocovinu. Večer totiž měli sraz se zásuvkářema a ti umí lít.<br>
+Zavolali jsme mu a domluvili jsme se na Vietnamu. Pho Bo kocovinu lečí.<br>
+Po obědě ve během kterého se DJ dokázal zamknout na záchodech jsem v Albertu nakoupil balící papír a mašli. Kromě šachů jsem měl v plánu dát Mišce ještě jeden dárek. Vymodeloval jsem poukázku ve formátu kreditky na lekci pájení v Karlíně. Míša několikrát říkala, že se chce naučit pájet. Přišlo mi to hezký.
+
+<a href="../images/2023_december/8_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_2.jpg"></a>
+
+Po práci jsem balil dárky. Povídal jsem si u toho s Charlsem, který se zrovna vrátil z Berlína ze schůzky s DB a dospěl k názoru, že freebike by měl mít vlaječku. Vlakečku! No.. ještě že jsem musel vyrazit, jinak bychom se asi pohádali.<br>
+Metro mě dovezlo na Anděl a Míša na mě čekala nahoře nad schody. V kabátu, ve kterém jsem jí ještě neviděl. Objali jsme se a vyrazili na Arbesák. Měli jsme naplánovanou večeři v její oblíbené čínské restauraci Andělský Újezd.<br>
+Oba jsme si dali 蔬菜炒飯 a zázvorový čaj. Miška si dala ještě Miso polévku, ale prý byla příliš slaná. Mezi polévkou a hlavním jídlem jsem jí předal dárky.<br>
+Míša má šestý smysl na zjišťování co je v krabici. Přejela po ní rukou a řekla. *To je hra. Šachy?*. Inu byly. Ale byla z nich nadšená. A z poukazu taky. Objali jsme se a dali se do jídla.<br>
+Byl toho randál. A přišla na nás divná věc. Takový těžkost. Na mě v rukou. Na Míšu v krku a ramenou. Řešili jsme, zda je to jídlem, či pitím. Miška si radši vzala prášek proti alergii.<br>
+I já jsem dostal dárek. Ale nevěděl jsem jaký. Měl být na Ladronce od osmi. To jsme stíhali tak tak. Nechali jsme si zabalit zbytek jídla, srkli digestiv a vyrazili na autobus.<br>
+Na zastávce jsme stáli v objetí a svět byl naprosto v pořádku. Byli jsme si vědomí rozhovoru z předchozího večera, ale nic nepůsobilo nuceně. Byl to skvělej večer. A měl být ještě lepší.<br>
+Na švédské jsme vyhodili věci a vyrazili na autobus na Ladronku. Trochu jsem vymýšlel co má Miška za lubem. Ale zas tak moc jsem tomu nedával. Chtěl jsem být překvapený.<br>
+A byl jsem. Finská sauna v suterénu jedné z tamějších vil jen pro nás dva. S kádí a s postelí. Bylo to parádní.
+
+<a href="../images/2023_december/8_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_3.jpg"></a>
+
+Měli jsme dvě hodiny na to nahřívat se a chladit a relaxovat spolu. A bylo to boží. Cákat horkou vodu na rozžhavené kamení. Ležet v sauně. Sprchovat se spolu. Mrazit se sudu a pak ležet vedle sebe úplně vyklidnění! Miloval jsem to! Nejlepší vánoční dárek co jsem si mohl přát.<br>
+
+přes ladronku pěšky domů.
+
+<a href="../images/2023_december/8_4.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_4.jpg"></a>
+
+
+### 9.12. Knížky a levičácký dýchánek
+
+vzbudil jsem se brzy<br>
+četl jsem vedle spící mišky<br>
+trochu radosti<br>
+snidaně<br>
+
+<a href="../images/2023_december/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/9_1.jpg"></a>
+
+čtení knížek u topení<br>
+měli jsme plán dojít do čajovny<br>
+šachy<br>
+
+<a href="../images/2023_december/9_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/9_2.jpg"></a>
+
+k ondrovi<br>
+na škále jak spokojená s prací je<br>
+parčík který moc nepomohl<br>
+
+### 10.12. Bez zranění
+
+démoni někdy v noci<br>
+
+<a href="../images/2023_december/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_1.jpg"></a>
+
+<a href="../images/2023_december/10_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_2.jpg"></a>
+
+<a href="../images/2023_december/10_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_3.jpg"></a>
+
+
+### 11.12. Lenky zpátky na Slovensko
+
+míša řeší řidičák
+
+udon a udon<br>
+skript na tiskárny<br>
+
+
+zabalit boty<br>
+
+<a href="../images/2023_december/11_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/11_1.jpg"></a>
+
+k alza boxu<br>
+nefunguje<br>
+do albertu<br>
+u králíka v rádiu dpd ok<br>
+pěšky na staromák<br>
+míša volá kousek před disney kostelem<br>
+počkala na mě u kaprový<br>
+prý měla hlad, jíst doma<br>
+pěšky přes mánes, klárov, kampu<br>
+francouzi s jazykolamem<br>
+do antonína<br>
+mám otázky<br>
+míša trochu v nervu<br>
+v žabce žervé<br>
+vajíčka a rajčata s tvarohem a kořením, chleba a cukroví<br>
+po jídle lepší<br>
+do postele docela brzo<br>
+poslední radosti a spát<br>
+
+### 12.12. Plavba Prahou
+
+míša vstává rychleji<br>
+jablka<br>
+
+<a href="../images/2023_december/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/12_1.jpg"></a>
+
+odjela tramvají<br>
+knedlík v krku v metru<br>
+něco vánočního<br>
+větev od pána se stromky u metra<br>
+
+<a href="../images/2023_december/12_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/12_2.jpg"></a>
+
+ivan v kanclu, jirka přijel<br>
+do jídelny<br>
+monča přinesla dárky<br>
+mikina a trička<br>
+monča autem<br>
+ivan městskou<br>
+já s jirkou na nextbiku a rekole<br>
+DJovi spadl řetěz, rozdaj jerky<br>
+vánoční jen Monča, Omar a Filip<br>
+
+<a href="../images/2023_december/12_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/12_3.jpg"></a>
+
+pan soukup<br>
+lidé z ostatních firem<br>
+
+proti proudu do zdymadla<br>
+
+
+### 13.12. Je pryč
+
+budík po třetí ráno<br>
+míša nadšená, už na zastávce<br>
+
+<a href="../images/2023_december/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/13_1.jpg"></a>
+
+ještě spát<br>
+vlak mi ujel před nosem<br>
+do jídelny
+
+za sárou<br>
+mdlý čaj<br>
+
+<a href="../images/2023_december/13_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/13_2.jpg"></a>
+
+načechraná kora<br>
+štola z bouračky a shozené troleje<br>
+
+been
+
+<a href="../images/2023_december/13_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/13_3.jpg"></a>
+
+
+### 14.12. Malé žluté letadélko
+
+smoothie proti bolení v krku<br>
+vlakem<br>
+poslech přednášky o beta glukanech při opravách z krakowa<br>
+
+stalo se toho hodně, zapsal jsem málo
+
+Večer jsem se díval na flight radar. Míša přistávala v Aucklandu. Na opačný straně planety ode mě. Bylo mi z toho ouzko.
+
+### 15.12. Střípky dream teamu
+
+[Téměř přesně rok zpátky](../2022_december#2212-nic-se-mi-nechce) jsem napsal: Nic se mi nechce, stress na hodinkách, nechuť ke všemu a pocit že druhá polovina tohohle roku stála za prd.
+S tím posledním jsem v tomhle roce nemohl souhlasit. Poslední půlrok byl jeden z nejlepších půlroků vůbec. Ale ráno jsem se probudil se všemi ostatními vyjmenovanými pocity. Ne ráno. V noci jsem se budil.<br>
+Bolest v krku mě opustila, ale přišla na mě slabost. Rozhodně jsem byl nějaký nakřáplý a říkal jsem si, že jít večer na pivo je kokotina.<br>
+V práci jsem opravoval desky z Krakowa. Sundavání a nandavání procesorů. Nijak zvlášť zábavná činnost. Ale já vlastně pájím rád.<br>
+Míša šla spát, chvíli po tom co jsem dorazil do práce. I přes to, že jsem to věděl, padlo na mě, že nebude lehký najít společný čas.<br>
+Po práci jsem se dozvěděl, že na Filipa přišel Covid, Marek nás zazdil a Honzova mladá prý chtěla, aby se o ní staral, když jí je blbě místo toho aby vyrážel do víru velkoměsta. Aspoň že Skořič byl pro.
