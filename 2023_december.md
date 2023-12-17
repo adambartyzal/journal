@@ -16,7 +16,8 @@
 - [14.12. Malé žluté letadélko](#1412-malé-žluté-letadélko)
 - [15.12. Střípky dream teamu](#1512-střípky-dream-teamu)
 - [16.12. Činit lepší rozhodnutí](#1612-činit-lepší-rozhodnutí)
-- [17.12](#1712)
+- [17.12. Poklicové selhání](#1712-poklicové-selhání)
+- [18.12.](#1812)
 
 ### 1.12. Třetí v řadě
 
@@ -179,10 +180,23 @@ Oblékli jsme se a vyrazili přes Strahov k Ondroi a Rébě na Swap. Míša vzal
 k ondrovi<br>
 na škále jak spokojená s prací je<br>
 parčík který moc nepomohl<br>
+tramvají domů
 
 ### 10.12. Bez zranění
 
-démoni někdy v noci<br>
+budík na šestou<br>
+po svařáku mírná kocovina<br>
+na nádraží<br>
+vlak ujel<br>
+to znamenalo, že nestíhám nakoupit<br>
+20 čekání na další<br>
+kráva mi vyhrožovala, že lyže musí být v obalu<br>
+15 minutový přeběh jsem dal za 5<br>
+v hello buchtu, bagetu a kafe<br>
+vojta už ve vlaku, vláďa dobíhal<br>
+aplikace drah nefungovala<br>
+nahoře v elefantu<br>
+fíla chybí<br>
 
 <a href="../images/2023_december/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_1.jpg"></a>
 
@@ -319,9 +333,16 @@ Většinu dne jsem zabil čtením. *Strike* má přes tisíc stránek. To chvíl
 Večer mi napsala Sára. Prý měla kocovinu a venčení Kory by nedala. Nahodil jsem tedy oblečení a vydal se za ní. Spolu se psem jsme vyrazili kolem Botiče, do psího parku, tunelem do Nuslí, a pak zas k Botiči.<br>
 
 
-### 17.12
+### 17.12. Poklicové selhání
 
 *Vánoce už jsou příští víkend?*<br>
 Inu tohle zjištění mě hodně překvapilo. Pořád jsem měl ucpaný nos. Začínalo mi z toho hrabat. Vincentka trochu pomáhala, ale strašně málo. Měl jsem chuť jít si koupit sprej. Ale sprej to ve výsledku jen zhoršuje.<br>
 Radši jsem šel jógovat.<br>
 Telefonát s Míšou trval asi 40 minut. Zněla strašně unaveně, ale zároveň nadšeně. Možná kromě momentu, kdy na ní začal nalétávat šváb. Dokázal bych jí poslouchat vyprávět hodiny. Ale měli v plánu vstávat na východ slunce a pak jet do hobitína. Nespala před letem, nespala za letu a moc toho nenaspala ani po příletu. Zarazil jsem to s těžkým srdcem já. Ale bylo skvělý jí slyšet.<br>
+Den se rychle krátil a já chtěl stihnout aspoň trochu slunce. Vyrazil jsem plavat do Podolí. Cestu jsem ale natáhl přes Budějovickou. V DBK byl Orion. A v Orionu měli mít poklice na pánve. Když jsem tam ale došel, přišly mi podivně cheap. Vyzkoušel jsem ještě Tescomu. Tam jsem koupil poklici, který rozhodně něbyla cheap.<br>
+V Tchibo změnili Colombia Decaf opět na Brazil Decaf. Inu nekoupil jsem ho. Ale vyzkoušel jsem decaf v McDonald's. Zaujala mě akustická úprava stropu. Opravdu v tom mekáči byla radost sedět. Je to blbý, když chainy mají lepší akustiku než malé podniky. Páteční Vrátnice v Kalíně na tom ale byla fakt tragicky.<br>
+V Podolí jsem byl víc v páře než v bazénu. Ale klidných 800 metrů bylo fajn. Zpátky jsem jel na nextbiku. Kroků už jsem měl habaděj.<br>
+Přemýšlel jsem nad tím jak mi chybí Míša. Těžko to kvantifikovat. Vlastně to jde ode zdi ke zdi. Jsou momenty, kdy jsem úplně v pohodě. A pak přijde chvíle kdy je mi do breku, protože bych jí chtěl mít u sebe.<br>
+Doma jsem objevil, že poklice se do pánve sice vejde, ale nesedí dobře. Rozhodl jsem se, že jí vrátím. Byl jsem ale naštvaný. Měl jsem si tu pánev vzít s sebou.
+
+### 18.12.
