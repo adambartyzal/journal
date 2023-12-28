@@ -27,6 +27,7 @@
 - [25.12. Nic nedělání](#2512-nic-nedělání)
 - [26.12. Pozpátku](#2612-pozpátku)
 - [27.12. Je pryč už dlouho](#2712-je-pryč-už-dlouho)
+- [28.12.](#2812)
 
 ### 1.12. Třetí v řadě
 
@@ -422,20 +423,31 @@ v 11 na 22<br>
 
 vstávání lehce před osmou<br>
 ledová sprcha večer pomáhá se stresem ve spánku, i přes spánek dlouhý 6:53.<br>
-na drakovi, DJ a bělehradský<br>
-trochu jsem to přehnal a zadýchal se<br>
-do jídelny<br>
-vystřihovánky z papíru
+Do práce jsem vyrazil na drakovi. Na Bělehradský jsem spatřil DJ stoupat do kopce. I s motorem jel tak 15 km/h. Šlápl jsem do pedálů a se slovy *Čekal bych víc od těch elektrol!* jsem ho předjel a vyjel na magistrálu. Nabral zpoždění skoro 10 minut.<br>
+Ale asi jsem to neměl dělat. V tom rychlém výstupu jsem se zadýchal a ledový vzduch do plic nic moc.<br>
+Ivan nám poslal DXF vyhřívacího pásku. Ze zvědavosti jsem si ho vytiskl, slepil a vystřihl. Do modelu sedělo pěkně. Myslím, že oproti baterii od Bechu to bude velký pokrok.
 
 <a href="../images/2023_december/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/21_1.jpg"></a>
 
-Na fildě se střílí<br>
+Eva mi poslala článek, že na fildě se střílí. Nějakej magor se samopalem šel po vzoru amerických škol vystřílet spolužáky. Moc jsem tomu nevěřil. Teda, psali to na čt24 a ti jsou důvěryhodní. Spíš jsem to odmítal akceptovat jako realitu. Tohle se přece v Česku neděje.<br>
+Ale dělo. Umřelo asi patnáct lidí.<br>
+Když jsem si o tom pak četl doma, bylo mi z toho blbě. Škola je pro mě svatá půda. za většinu toho, kým dneska jsem vděčím škole. Myšlenka, že jdu na zkoušku a někdo mě zastřelí je hrozná. Myšlenka, že mi někdo zastřelí kamarády je hrozná. Nechápal jsem to. A nemyslím si, že to šlo pochopit.<br>
+Potěšilo mě ale, že mi napsala Joosje. Její:
+
+> Healthy and safe?
+
+Mě zahřálo u srdce. Chvilku jsme si psali.<br>
+Míša ze zpráv taky působila, že jí to dost rozhodilo. Aby ne. Všechny to rozhodilo. Svět se zbláznil.
 
 ### 22.12. Poslední den v práci
 
+I tentokrát jsem spatřil DJe cestou. Zrovna nastupoval. Ovšem příjezd do Karlína jsme si prohodili. Já se totiž ještě stavěl v lékárně pro magnesium a betaglukany.<br>
+Protože jsem měl špenátové noky s sebou, nepřidal jsem se v poledne k ostatním, jdoucím do indie, i přes to, že to byl vlastně můj nápad. Za okny se ale v průběhu oběda udělalo tak hnusně, že jsem toho nijak zvlášť nelitoval.<br>
+Většinu dne jsem kreslil obrázky v inkscape. Vypadaly trochu dětsky, ale rozhodně byly pochopitelnější než fotky.
 
+<a href="../images/2023_december/22_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/22_1.jpg"></a>
 
-
+Dal jsem tisknout poslední plasty v roce. Postupně jsme se loučili. Vláďa vyjel první za bráchou a pak autem na jih. Potom šel Petr a pak já. Ivan ještě řešil aktualizace a DJ manuál, ze kterého jsem nebyl nadšený. Vlastně mi přišel příšerný. Ale nějak jsem neměl sílu s tím něco dělat.
 
 ### 23.12. Máma s Petrem do Vršovic
 
@@ -516,3 +528,11 @@ Ráno mi napsala Míša. Poslala mi video jak jde po pláži.
 Byl to patnáctý den ze čtyřiceti. Chyběla mi čím dál víc. Nejvíc mě na tom štvalo, že se vrátí a já odjedu na měsíc. Řekl jsem si, že do deníku musím přidat nějakou sekci vděčnosti. Objektivně jsem se totiž měl skvěle. Skoro líp než kdy jindy. Ale stejně na mě šla trudomylsnost. Už jsem jí chtěl zpátky.<br>
 Bolely mě lýtka. Jakože hodně. Asi jsem to s tím během pozpátku přestřelil. Přemýšlel jsem jak z toho ven. Klidem? To bych zas už nikdy nevyběhnul. Šel jsem to rozchodit. Stejnou trasu jako včera. Ale pomalu. Místo plavání pára na střídačku s ledovým bazénem. Dal jsem 4 otočky. 5 minut v ledu.<br>
 Taky jsem naplánoval badminton na čtvrtek. Skoro to bylo [výročí](../2022_december/#2712-badminton-a-oběd-s-marťou). Jen jsem moc nevěděl, jak na tom budou moje lýtka.
+Po čtvrté jsem vyrazil na kole do Vojtova skladu v Petrovicích. Cestou jsem potkal 7 policejních aut se zapnutými sirénami jedoucími skrz město dobře stovkou. Jedno z nich dokonce byla zásahovka. O com jim šlo jsem se nedozvěděl.<br>
+Vojtův sklad byl v suterénu toho snad nejzaššího paneláku v Praze. Malá místnůstka, ve které se skládají zařízení na otevírání oken. I testovací okno tam měl.<br>
+Domluvili jsme se, že mi pošle přístupy k fw a zdrojům a půjčil mi jednu elektroniku.<br>
+Zpátky jsem jel už za tmy. Zastavil jsem se ještě na nákup v Edenu. Doma uvařil jednoduché rizoto. A zbytek dne se věnoval knížce.
+
+### 28.12.
+
+Pořídil jsem si pastu na zuby a veganský protein. Ne že by to měnilo moje ranní zvyky, ale cítil jsem, že když mi při čištění zubů pění pusa a ve vločkách cítím podivnou chuť, něco se mění. Taky mě pořád hrozbě bolely nohy.<br>
