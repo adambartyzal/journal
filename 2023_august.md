@@ -1,3 +1,5 @@
+[>> Červenec](2023_july.md)
+
 ## [Srpen](2023.md) 
 
 - [1.8. Na schovávanou](#18-na-schovávanou)
@@ -704,3 +706,5 @@ Vybrali jsme hru Glow. Bára se k nám přidala a David luštil a vysvětloval j
 <a href="../images/2023_august/31_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/31_2.jpg"></a>
 
 Miška utíkala na metro, ale na Kafkový měla čekat asi 13 minut. Najdel jsem jí frčákem po Evropské a počkal s ní na autobus. Z jízdy domů jsem neměl dobrej pocit. Radši bych jel tramvají domů s ní.
+
+[>> Září](2023_september.md)

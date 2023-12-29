@@ -1,3 +1,5 @@
+[<< Září](2023_september.md)
+
 ## [Říjen](2023.md) 
 
 - [1.10. Na vrchol bez vyvrcholení](#110-na-vrchol-bez-vyvrcholení)
@@ -545,3 +547,5 @@ Poslední říjnový den byl pro mě poměrně rutinní. S výjimkou toho, že j
 <a href="../images/2023_october/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_october/31_1.jpg"></a>
 
 Cestou domů jsem potkával lidi v haloweenských kostýmech. Jednoho dne půjdu za Aanga. Míša by byla dobrá Katara. Akorát by si musela nějak nabarvit vlasy na hnědo.
+
+[>> Listopad](2023_november.md)
