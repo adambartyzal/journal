@@ -1,4 +1,4 @@
-[>> Srpen](2023_august.md)
+[<< Srpen](2023_august.md)
 
 ## [Září](2023.md) 
 
