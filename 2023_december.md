@@ -548,13 +548,23 @@ Doma jsem se vrátil ke knížce. Pobavilo mě, že i na sklonku l roku dočíta
 
 ### 29.12. 52 dní je prostě moc
 
-Zjistil jsem, že 52 dní do konce roku nedopíšu. Nedopíšu ani polovinu z toho. Jedno z novoročních předsevzetí by mělo být, neodkládat deník na později. Vytyčit si na to půl hodinu denně a opravdu se tomu věnovat.
+Zjistil jsem, že 52 dní do konce roku nedopíšu. Nedopíšu ani polovinu z toho. Jedno z novoročních předsevzetí by mělo být, neodkládat deník na později. Vytyčit si na to půl hodinu denně a opravdu se tomu věnovat.<br>
+praní prádla<br>
+peřiny ven<br>
+běh pozpátku do dekáče a pak do podolí<br>
+lidí randál<br>
+rychlou chůzí do lidlu<br>
+zalít kytky u sáry<br>
+nenechala instrukce<br>
+kvásek to asi nedá<br>
+deka ulítla<br>
+dát schnout povlečení a číst
 
 ### 30.12. Provokace
 
 V posledním víkendu v roce pan kepka odečítal vodoměru. Nepřišlo mi to jako nejlepší plán. Většina Pražáků bude na silvestra z Prahy pryč, včetně mě. Opsal se mu proto spotřebu na papír a dal ho za dveře.<br>
-Odjezd z Prahy jsme měli naplánovaný na 11 hod. Telefonát s Miškou jsme nakonec na pasovali do hodiny předtím. Filip nás chtěl vyzvednout na pankráci , Což je tak 40 min. pěšky ode mě. <br>
-Ráno jsem tady posnídal, zacvičil si jógu, zabalil se, vylil kafe, vysypal zelenec na zem, uklidil po sobě ten bordel, dal Arnošta vysát, vysprchoval se, oblékl a vyrazil. <br>
+Odjezd z Prahy jsme měli naplánovaný na 11 hod. Telefonát s Miškou jsme nakonec na pasovali do hodiny předtím. Filip nás chtěl vyzvednout na pankráci , Což je tak 40 min. pěšky ode mě.<br>
+Ráno jsem tady posnídal, zacvičil si jógu, zabalil se, vylil kafe, vysypal zelenec na zem, uklidil po sobě ten bordel, dal Arnošta vysát, vysprchoval se, oblékl a vyrazil.<br>
 Míša mi vyprávěla zážitky z pěti denního Treku. Nachodili asi 75 kilometrů. Příroda byla nádherná, všude zeleno, ptáci, bílé pláže a tyrkysový oceán. Prý to byl nejkrásnější ks planety, který zatím viděla. Dokonce i brodění se skrz řeku prý bylo fajn.<br>
 Co ale fajn nebylo, byl fakt, že nějaké novozélandské slepice jim proklovali batohy, kvůli jídlu a kvůli odpadkům. Mišky nový drahý Fjällräven. Díra jak vrata. Mrzelo mě to.<br>
 Ale bylo moc fajn jí opět slyšet. V hlavě jsem pořád počítal dny. Dnešek byl to 18. ze 40. Možná jí ani nepoznám, až se vrátí.<br>
@@ -562,11 +572,24 @@ Chvilku potom co jsem došel na Pankrác jsme se rozloučili a já vyrazil hleda
 Řešili jsme to je vtípek a to je provokace. Většina našich vtípků rozhodně byly provokace. Byla to docela zábavná cesta.<br>
 Po příjezdu jsme se rozdělili na dva týmy. Tým jídlo a tým teplo. Byl jsem v týmu druhém, protože sekat dříví mě moc baví.<br>
 K obědu jsme vymysleli těstoviny s pestem. Akorát to pesto jsme nekoupili. To ale nevadilo. Měli jsme s sebou randál zeleniny a Reba z ní dokázala vykouzlit výborný oběd. Navíc jsme měli bramborové placky od Nováčkovic jako předkrm.<br>
-Když jsme byli najedení, využili jsme zbytku denního světla a vyrazili na procházku. Filip si byl jistý, že nedaleko od nás můžeme spatřit pštrosa. Google nám v tom ale moc nepomohl a tak jsme šli k mlýnu, podívat se, jak moc je řekla rozvodněná. Mlýn byl ale sotva kilometr daleko a naše nohy měli na víc. Došli jsme tak až do vesnice Drahov a co naše oči neviděli? Pštros! Teda Emu, ale to už je minimální rozdíl. Napřed se bál. Byl na opačné straně výběhu vydával divné hluboké zvuky, trochu jako bušení bubnu. Pak se ale podél plotu přiblížil a skoro u nás hupsnul na kámen. A když říkám hupsnul, myslím tím, že se snažil obšťastnit kámen pod sebou svým rudým naběhlým penisem. Asi byl osamělejší než se zdálo. Po aktu ale přišel za námi. Shodli jsme se, že to byl hřeb dne. Trochu nechutný a bizarní, ale rozhodně hřeb.
-Slunce už zapadalo a my se tak vydali zpátky na chatu. Tam jsme připravili maso, sýry, zeleninu, salát a dresing. Filip roztopil gril a po půl hodině jsme se dali do hodování.<br>
+Když jsme byli najedení, využili jsme zbytku denního světla a vyrazili na procházku. Filip si byl jistý, že nedaleko od nás můžeme spatřit pštrosa. Google nám v tom ale moc nepomohl a tak jsme šli k mlýnu, podívat se, jak moc je řekla rozvodněná.
+
+<a href="../images/2023_december/30_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_1.jpg"></a>
+
+Mlýn byl ale sotva kilometr daleko a naše nohy měli na víc. Došli jsme tak až do vesnice Drahov a co naše oči neviděli? Pštros! Teda Emu, ale to už je minimální rozdíl. Napřed se bál. Byl na opačné straně výběhu vydával divné hluboké zvuky, trochu jako bušení bubnu. Pak se ale podél plotu přiblížil a skoro u nás hupsnul na kámen. A když říkám hupsnul, myslím tím, že se snažil obšťastnit kámen pod sebou svým rudým naběhlým penisem. Asi byl osamělejší než se zdálo. Po aktu ale přišel za námi. Shodli jsme se, že to byl hřeb dne. Trochu nechutný a bizarní, ale rozhodně hřeb
+
+<a href="../images/2023_december/30_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_2.jpg"></a>
+
+Slunce už zapadalo a my se tak vydali zpátky na chatu. Tam jsme připravili maso, sýry, zeleninu, salát a dresing. Filip roztopil gril a po půl hodině jsme se dali do hodování.
+
+<a href="../images/2023_december/30_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_3.jpg"></a>
+
 Byla to bašta. Nad jídlem jsme diskutovali, zda o půlnoci půjdeme plavat nazí do Pískovny. Ochladilo se totiž na 2°C a začala jít pára od pusy. Nejsme ale sračky a tradice je tradice. Jako sladkou tečku jsme měli grilováný banán.
 Uvařili jsme svařák, zabalili ručníky a vyrazili ven. Bylo to daleko. Nejspíš mi to tak přišlo, protože jsem nepil. Navíc byla fakt zima. Boty nám přimrzali k vlakovému mostu.<br>
-Pláž byla celá bahnitá. Oblečení jsem nechal v převlékárně u lesa, narozdíl od ostatních, kteří se převlékali na kmenu spadlého stromu ležícího téměř ve vodě. S Ondrou jsme do vody vezli první. Rébu chytla křeč do nohy ale nakonec se ponořila taky. A Nováčkovic jí následovali. Žádné velké plavání se ale nekonalo. Jestli jsem byl ve vodě 30 sekund, tak hodně. Teplé oblečení a svařák rozhodně přišly vhod.<br>
+Pláž byla celá bahnitá. Oblečení jsem nechal v převlékárně u lesa, narozdíl od ostatních, kteří se převlékali na kmenu spadlého stromu ležícího téměř ve vodě. S Ondrou jsme do vody vezli první. Rébu chytla křeč do nohy ale nakonec se ponořila taky. A Nováčkovic jí následovali. Žádné velké plavání se ale nekonalo. Jestli jsem byl ve vodě 30 sekund, tak hodně. Teplé oblečení a svařák rozhodně přišly vhod.
+
+<a href="../images/2023_december/30_4.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_4.jpg"></a>
+
 Cesta zpátky byla snad ještě delší. V chatě jsme si ještě povídali, jedli jednohubky s pomazánkou, Ondra četl tweety Zrzky od vedle a spát jsme šli někdy před třetí.
 
 ### 31.12. Mezi Nadějí a Láskou
@@ -577,3 +600,7 @@ Během našeho telefonátu se ostatní pustili do snídaně a když jsem se k ni
 Navařili jsme čaj, zabalili svačinu a Méďou dojeli do Vlkova. Cestou jsme se zastavili ve Veselí u Penny. Vyslali jsme Rébu s Filipem na nákup a když se vraceli, rozhoupali jsme Auto pařením na disco verzi Popelky.<br>
 Pak jsme ale přešli na hudbu z Pána prstenů. Proto jsme si potom většinu dne dělali srandu z toho, že lidé které potkáváme jsou skřeti.<br>
 Hotel Vlkov byl zavřený. Naštěstí jsme měli Méďu a mohli jsme po návratu přejet do jiné reštiky. Cestičky byly rovné a skřetů bylo mnoho. Někteří s sebou měli i vrrky. Na zatáčkách velmi dlouhých a rovných cest jsme si rovným dílem dělili svačinu a uprostřed rybníků si vyfotili společnou fotku.<br>
+
+<a href="../images/2023_december/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/31_1.jpg"></a>
+
+<a href="../images/2023_december/31_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/31_2.jpg"></a>
