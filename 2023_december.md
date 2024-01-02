@@ -604,3 +604,5 @@ Hotel Vlkov byl zavřený. Naštěstí jsme měli Méďu a mohli jsme po návrat
 <a href="../images/2023_december/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/31_1.jpg"></a>
 
 <a href="../images/2023_december/31_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/31_2.jpg"></a>
+
+[>> Leden](2024_januarycd.md)
