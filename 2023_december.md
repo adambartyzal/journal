@@ -603,6 +603,13 @@ Hotel Vlkov byl zavřený. Naštěstí jsme měli Méďu a mohli jsme po návrat
 
 <a href="../images/2023_december/31_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/31_1.jpg"></a>
 
+Když jsme se vrátili k autu, měli jsme nachozeno asi patnáct kilometrů. Cestou jsme potkali ceduli hlásající, že v Pondědráži vaří. Anet to ověřila telefonem a ukázalo se, že cedule nelhala. Byla to vesnická hospoda se smaženými jídly. Ale byla férová. Dal jsem si květák s americkými brambory. Filipův guláš vypadal dobře, Ondrův králík taky a smažené věci nebyly nasáklé olejem.
+
 <a href="../images/2023_december/31_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/31_2.jpg"></a>
+
+Po chvíli se k nám připojili Alex se Zuzkou. Zuzka nám vyprávěla o jejím králíkovi a o tom, že se živí česáním. Plátno za nimi promítalo film, kde Menšík soutěžil v pojídání jídla s Bernardýnem.<br>
+Po dojedení a dopití jsme se se s Alexem a Zuzkou rozloučili a auty jsme vyrazili do našich chat.<br>
+Večeři jsme opět měli s grilu. Byl toho jetě větší randál než předešlého večera. Do půlnoci jsme hráli Hanabi a 2 minuty po půlnoci si připili šáňem štastný nový rok!<br>
+Čekala nás ještě výbušná koťátka. Prohrál jsem první a docela brzy. Odpsal jsem na pár zpráv, popřál ostatním dobrou noc a vyrazil do pelechu. Měl jsem s sebou špunty a tak jsem zalomil poměrně brzy.
 
 [>> Leden](2024_januarycd.md)
