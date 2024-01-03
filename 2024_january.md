@@ -4,6 +4,7 @@
 
 - [1.1. Bez kocoviny](#11-bez-kocoviny)
 - [2.1. Zpět do víru všedních dní](#21-zpět-do-víru-všedních-dní)
+- [3.1. Rok naslepo](#31-rok-naslepo)
 
 ### 1.1. Bez kocoviny
 
@@ -28,12 +29,19 @@ Nevstal jsem pár vteřin po tom, co mi zabzučel budík jak jsem si to večer n
 Poprchávalo. Šel jsem pěšky a poslouchal muziku. Někdy kousek před tunelem mi miška poslala obrázky z jejich denního hiku s Adrienem. Prý se jí po mně stýskalo trochu víc než obvykle. V myšlenkách jsem jí objal a olízl jí nos. Prý to chtěla udělat ona, ale já jsem byl rychlejší.<br>
 V práci jsem pustil tiskárny, zabalil zámky, uklidil bordel a pustil se do čtení dokumentace k zigbee a k arduinu. Na oběd jsme šli s DJem do Vietnamky. Karlín byl asi plný lidí, protože Vietnamka praskala ve švech. Navíc měli rozbité terminály, takže u kasy se hromadili lidé. Můj Pad Thai s tofu byl ale výborný jako vždy a nakonec jsem ho zaplatil QR kódem.<br>
 V bazénu bylo přecpáno. Na první dobrou mě vůbec nepustili dovnitř. Musel jsem se nahlásit, s tím, že mě zavolají až se pár míst uvolní. Šel jsem si psát. Ale tyhle lednové návaly ve mě vzbuzovaly znechucení. Lajny byly plné a tempo nevyrovnané. Snad to lidi přejde rychle.<br>
-Cestou domů jsem se zastavil u Sáry, zalil kytky, vyzvedl kvásek a zatelefonoval si Miškou. Mluvili jsme o kýblu do kterého kape voda ze stropu. Míša vyjádřila svou obavu nad tím, zda to nemám nastavený ještě laxněji než Jarda. Prý jsem jel měsíc domů a ani jednou jsem nebyl ubytovaný.<br>
-Já ale doma nemám kýbl do kterého teče voda. Na cestě jsem si nemusel mýt vlasy a holit nohy. Snad jsem jí trochu uklidnil.<br>
+Cestou domů jsem se zastavil u Sáry, zalil kytky, vyzvedl kvásek a zatelefonoval si Miškou. Mluvili jsme o kýblu do kterého kape voda ze stropu. Míša vyjádřila svou obavu nad tím, zda to nemám nastavený ještě laxněji než Jarda. Prý jsem jel měsíc domů a ani jednou jsem nebyl ubytovaný. Já ale doma nemám kýbl do kterého teče voda. Na cestě jsem si nemusel mýt vlasy a holit nohy. Snad jsem jí trochu uklidnil.<br>
+Malinu jsem přenesl domů. Nakrmil jí pšeničnou moukou, byť možná byla žitná.
+
+<a href="../images/2024_january/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/2_1.jpg"></a>
+
+### 3.1. Rok naslepo
+
+Tentokrát jsem to dokázal. Tři minuty po sedmé už jsem byl na nohou a postel byla ustlaná. Cvičení a snídaně mi sice zabraly pořád skoro hodinu, ale byl to lépe využitý čas.<br>
+Cesta přes Vinohrady byla tentokrát příjemnější. Chytil jsem zlatou hodinku.
+
+<a href="../images/2024_january/3_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/3_1.jpg"></a>
 
 <!--
-### 3.1.
-
 ### 4.1.
 
 ### 5.1.
@@ -80,6 +88,6 @@ Já ale doma nemám kýbl do kterého teče voda. Na cestě jsem si nemusel mýt
 
 ### 31.1.
 
--->
-
 [>> Únor](2024_february.md)
+
+-->
