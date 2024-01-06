@@ -5,6 +5,9 @@
 - [1.1. Bez kocoviny](#11-bez-kocoviny)
 - [2.1. Zpět do víru všedních dní](#21-zpět-do-víru-všedních-dní)
 - [3.1. Rok naslepo](#31-rok-naslepo)
+- [4.1. Doma](#41-doma)
+- [5.1.](#51)
+- [6.1.](#61)
 
 ### 1.1. Bez kocoviny
 
@@ -41,13 +44,40 @@ Cesta přes Vinohrady byla tentokrát příjemnější. Chytil jsem zlatou hodin
 
 <a href="../images/2024_january/3_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/3_1.jpg"></a>
 
-<!--
-### 4.1.
+Oběd byl roztroušený. Já jsem měl svoje těstoviny. Vláďa s Jirkou šli do jídelny. Ivan na bagetu a DJovi bylo nějak blbě a tak nešel jíst vůbec. Nakonec se rozhodl jít pracovat domů. Asi hodinu na to přišel Ludva a řekl, že si myslí, že DJ má covid, a poslal nás domů všechny 🤦🏻‍♂️.<br>
+A tak jsem vyrazil pěšky dom. Zastavil jsem se v bazénu. Zjistil, že jsem nechal doma plavky a pokračoval pěšky s knížkou v ruce.<br>
+Večer bylo aero naslepo. Pro nás výroční. Opět jsem vyrazil pěšky s knížkou, ale tentokrát mi na kindle pršelo a byla to otrava. Nováčkovic jsem potkal u bistra Bam bam. V lidlu jsme koupili jablka a po chvilce se k nám připojili Réba s Ondrou.<br>
+V kinu byl náprask. Film byl taková nezvyklá komedie s Edwardem Nortonem a Robinem Williamsem. [Death to Smoochy](https://www.csfd.cz/film/2365-smoochy/prehled/). Bylo to hodně vtipný. Réba to dokonce označila za nejlepší film zatím.<br>
+I zpátky jsem šel pěšky. Nakonec jsem ušel 28973 kroků. Byl to hodně chodící den.
+
+### 4.1. Doma
+
+Motivace pracovat doma je nízká. Fíla ale psal, že má nějaký potíže s testerem, a tak jsem mu dělal podporu. Taky jsem se vrhl na aktualizaci manuálů. Natáčení modelu v eDrawings se ukázalo jako práce na celý den.<br>
+Bez hladového Vláďi jsem skoro zapomněl jíst. Otočil jsem se tedy v lidlu a spíchl si na pánvi zeleninu s tofu a k tomu rýži s čočkou.<br>
+Po práci jsem chtěl běžet do Podolí, kde jsem chtěl plavat. Rozpršelo se ale. Byl to už několikátý den, kdy odpoledne začalo pršet a mě to přestávalo bavit. Den zpátky spíš poprchávalo. Dnešek mě ale uzavřel doma. Aspoň že jsem měl knížku a oněch [52 dní](../2023_december/#2912-52-dní-je-prostě-moc) ještě zdaleka nebylo zapsaných.<br>
+Rozhodl jsem se použít Malinu. Shlédl jsem pár videí jak udělat chleba. Bylo to set sakra komplikovaný. Trochu jsem to zjednodušil. Nemám třeba váhu. Napřed jsem smíchal jeden hrnek žitný, jeden hrnek pšeničný a jeden hrnek vody. Vody bylo moc. Dosypával jsem to pšeničnou. Po asi hodině jsem přidal Malinu. A po asi hodině jsem si uvědomil, že jsem zapoměl na sůl. To asi byla chyba. Nějak jsem jí tam domíchal. Taky jsem neměl hnětací stroj. A ošatku. Ale to jsou všechno zbytečně fancy věci. Stačí utěrka.<br>
+Před spaním jsem se podíval na první díl [Blue Eye Samurai](https://www.csfd.cz/film/1424395-modrooky-samuraj). Zarazilo mě, jak moc krve a násilí v tom je. Čekal jsem víc pohádku.<br>
+A pak jsem usnul u knížky.
 
 ### 5.1.
 
+V noci jsem se ale budil. Nebylo to žádnými sny. Prostě jsem jen tu a tam otevřel oči a pak zas usnul. Hodinky si toho ani nevšimly. Ale rozhodně jsem byl párkrát vzhůru.<br>
+Chleba nakynul. Asi ne tak moc jak by mohl, ale rozhodně byl bochánek těsta větší než večer.<br>
+A povedlo se. Upekl jsem<br>
+
+dokázal jsem nahrát firmware<br>
+běžet do podolí<br>
+jen asi 700m kvůli pólu<br>
+bežet zpátky<br>
+salát
+další díl seriálu<br>
+
 ### 6.1.
 
+Už zase jsem se budil. Možná víc než den zpátky. Trochu jsem doufal, že to přejde, neb den zpátky jsem neměl proteinový izolát. Ale je pravda, že před spaním jsem koukal na seriál a snědl randál salátu.<br>
+Z běhání jsem se cítil zbouraný. Rozhodl jsem se to minimalizovat pořádnou jógou. Dal jsem se do hodinové sekce s Adrienne.
+
+<!--
 ### 7.1.
 
 ### 8.1.

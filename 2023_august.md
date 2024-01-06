@@ -20,7 +20,7 @@
 - [16.8. K přehradě se Sabčou](#168-k-přehradě-se-sabčou)
 - [17.8. Barák jde do hajzlu a DB ruší vlaky](#178-barák-jde-do-hajzlu-a-db-ruší-vlaky)
 - [18.8. Cesty nevedou do Říma ale k Adamovi](#188-cesty-nevedou-do-říma-ale-k-adamovi)
-- [19.8 Za Mamkami](#198-za-mamkami)
+- [19.8. Za Mamkami](#198-za-mamkami)
 - [20.8. Na Letný je Rybník!](#208-na-letný-je-rybník)
 - [21.8. Strategická porada](#218-strategická-porada)
 - [22.8. Krajem zlých lidí](#228-krajem-zlých-lidí)
@@ -253,9 +253,8 @@ Což nejde, i když se nahoru člověk vydrápe zkratkou, protože Grébovka se 
 
 Pinčes jsme ale ještě nepověsili na hřebík. Z grébovky jsme kolem jinanu dvoulaločného vyrazili od Heroldových sadů. Tam už ale moc hrát nešlo. Lampa na jedné straně oslňovala a na druhé byla tma jak v pytli. Ještě chvíli jsme si pinkali, ale pak jsme si jen lehli na stůl a koukali, zda nezahlédneme nějaké hvězdy. Padající nebo statické. Ale ani to nám dlouho nevydrželo. Přišel pán a vyprovodil nás, protože park zamykal.<br>
 Co naplat, zastavili jsme se pro věci na spaní a vyrazili na Dívčí hrady. Přes Vyšehrad, protože dolem je to nuda. Šli jsme stejnou cestou jako jsem šel, když jsme si telefonovali za úplňku. Pod vyšehradem jsme se zastavili na vyhlídce a Miška rozhodla, že musíme jít na opačné straně přes vilovou čtvrť. Ne že by se dalo vilám v té oblasti nějak vyhnout. Výhledy ze Smíchova už jsou dávno rozebrané smetánkou. Což je trochu absurdní, když to člověk srovná s tím jak hnusný to je dole. Vlastně jsme se bavili o tom, jestli bychom tam chtěli bydlet, až to po stavbě Smíchov City prokoukne. Podle mně to bude další Karlín. <br>
-přes mostek co nebyl zavřený<br>
-standardní cestou<br>
-mezi stromy až na kopec, chvíli na výhledu a pak najít místo na spaní
+Z nějakého důvodu jsem žil v domnění, že mostek přes vlaky bude zavřený. Nebyl. A tak jsme mohli jít standardní cestou, kolem smíchoffa a pak kolem garáží a vilek s výhledy. Vedl jsem já, protože Miška tudy nahoru nechodila.<br>
+Nahoře jsme si našli hezké místo mezi stromy a chvíli seděli na výhledu.
 
 <a href="../images/2023_august/11_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/11_3.jpg"></a>
 
@@ -420,9 +419,9 @@ Cestou mě pobavil slogan Madety *Život bez Madety by byl tak smutný... (obrá
 V práci jsem dostavoval testery a po práci jsem před domem potkal Petra, který se zrovna vracel z Kolína. Neviděl jsem ho,několik let a den na to co jsem jim koupil lístky mi prochází před domem? Svět je malej.<br>
 *Cesty prý nevedou do Říma ale k Adamovi.* psala mi na to Miška. Možná že na to něco je...
 
-### 19.8 Za Mamkami
+### 19.8. Za Mamkami
 
-stejně dobíhám<br>
+Bydlím od vlaku co? 4 minuty? Stejně skoro vždycky dobíhám.
 psát ve vlaku<br>
 steží jeden den<br>
 pěšky na dělnickou<br>
