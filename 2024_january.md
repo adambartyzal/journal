@@ -6,8 +6,8 @@
 - [2.1. Zpět do víru všedních dní](#21-zpět-do-víru-všedních-dní)
 - [3.1. Rok naslepo](#31-rok-naslepo)
 - [4.1. Doma](#41-doma)
-- [5.1.](#51)
-- [6.1.](#61)
+- [5.1. Býti pekařem](#51-býti-pekařem)
+- [6.1. Na špatnou stranu](#61-na-špatnou-stranu)
 
 ### 1.1. Bez kocoviny
 
@@ -59,7 +59,7 @@ Rozhodl jsem se použít Malinu. Shlédl jsem pár videí jak udělat chleba. By
 Před spaním jsem se podíval na první díl [Blue Eye Samurai](https://www.csfd.cz/film/1424395-modrooky-samuraj). Zarazilo mě, jak moc krve a násilí v tom je. Čekal jsem víc pohádku.<br>
 A pak jsem usnul u knížky.
 
-### 5.1.
+### 5.1. Býti pekařem
 
 V noci jsem se ale budil. Nebylo to žádnými sny. Prostě jsem jen tu a tam otevřel oči a pak zas usnul. Hodinky si toho ani nevšimly. Ale rozhodně jsem byl párkrát vzhůru.<br>
 Chleba nakynul. Asi ne tak moc jak by mohl, ale rozhodně byl bochánek těsta větší než večer.<br>
@@ -72,7 +72,7 @@ bežet zpátky<br>
 salát
 další díl seriálu<br>
 
-### 6.1.
+### 6.1. Na špatnou stranu
 
 Už zase jsem se budil. Možná víc než den zpátky. Trochu jsem doufal, že to přejde, neb den zpátky jsem neměl proteinový izolát. Ale je pravda, že před spaním jsem koukal na seriál a snědl randál salátu.<br>
 Z běhání jsem se cítil zbouraný. Rozhodl jsem se to minimalizovat pořádnou jógou. Dal jsem se do hodinové sekce s Adrienne.

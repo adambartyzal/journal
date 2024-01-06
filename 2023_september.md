@@ -550,3 +550,5 @@ Na vaření jsme ale použili poslední vodu. Došli jsme asi o 300 metrů dál 
 Po tmě se nám chodit nechtělo a tak jsme se rozhodli, že naše současná pozice bude naše ubytování. Se západem sluníčka přišla zima. Zprvu jsem si nebyl jistý, zda chci rozdělávat oheň v krbu, ale ochlazení mě k tomu popostrčilo.<br>
 Začali se k nám trousit další lidé. Společně jsme sehnali jsme klestí a já jsem dokázal rozdělat oheň pepa, které někdo nabízel, ale za prvý je to chemickej hnus a za druhý, člověk pak má z ohně větší radost.<br>
 Během asi další hodiny se přístřešek zaplnil. Lidé si na ohni pekli špekáčky a zabírali stoly na kterých plánovali spát. Nebyl to dobře vymyšlený přístřešek. Na oběd dobrý, ale na spaní moc ne. Dvě karimatky se na stůl vedle sebe vešly jen stěží. Abychom se v noci neshodili dolů, rozhodl jsem se spát na lavičce a nechal Mišku nahoře.
+
+[>> Říjen](2023_october.md)
