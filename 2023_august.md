@@ -223,7 +223,11 @@ do kopce a na tramvaj<br>
 
 ### 9.8. Ráno nažmach, večer na pivo
 
+Ráno chcalo. Má velká pláštěnka je super. Ale stejně to byl voser.
+
 <a href="../images/2023_august/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/9_1.jpg"></a>
+
+V práci jsem upgradoval pákostroj. Dostal do vínku bajonet na zuby. A musím konstatovat, že je to rapidní posun k lepšímu. Ještě jsem si řekl, že když jsou nové ovládací prvky červené. Vytisknu červeně i madla a kouli.<br>
 
 <a href="../images/2023_august/9_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/9_2.jpg"></a>
 
@@ -235,11 +239,14 @@ odpadl jsem po desáté
 
 ### 10.8. Druhé v řadě
 
-vyzařováky<br>
-na černák<br>
-druhé bosoboty<br>
-běh<br>
-miška u šéfa na grilování<br>
+Protože mi ivan udělal krásný přípravek Enterprise, mohl jsem si porovnat, jaké to je, když přetnu zemnící rovinu na NFCU. Přes den jsem si tak měřil vyzařováky a vynášel si naměřené hodnoty do grafů. Bylo to jak v škole. Akorát mě nikdo neprcal za to, že nemám ťip ťop protokol o měření.
+
+<a href="../images/2023_august/10_1.png" target="_blank"><img src="../images/thumbnails/2023_august/10_1.png"></a>
+
+Po práci jsem dojel na Čerňák do Sportisima. Měli tam Merell Vapor Glove 6 v mojí velikosti. Chtěl jsem si je vyzkoušet, protože když už jsem přešel na barefoot chůzi, chtěl jsem přejít i na barefoot běh.<br>
+Pán mi je musel přinést někde hluboko ze skladu. Nevím jak to Merell dělá, ale boty měly jinou barvu. Místo hnědé byly zelené. I moje trojky vypadají na obrázcích modře, ale jsou černé. Fotografa by měli vyhodit. Ale vlastně se mi líbily víc. Procházel jsem se v nich po krámu dobrých 20 minut, než jsem se rozhodl za ně ty peníze vyhodit. Ale během těch dvaceti minut jsem se do nich zamiloval. Jsou jak ponožky. Narozdíl od trojek měkoučce objímají nohu a hřejí a zároveň větrají.<br>
+Šel jsem se proběhnout hned jak jsem přijel domů. Záznam mám [tady](https://www.strava.com/activities/9621969121). Na pěti kilometrech 5:45. Nebylo to zlý.<br>
+Míša mi psala z grilování u jejich šéfa. Přespávali na verandě a GT v ní vzbudilo přemýšlivou náladu.
 
 ### 11.8. Splněná přání bez padajících hvězd
 
