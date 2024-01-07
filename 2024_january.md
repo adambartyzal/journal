@@ -8,6 +8,7 @@
 - [4.1. Doma](#41-doma)
 - [5.1. Býti pekařem](#51-býti-pekařem)
 - [6.1. Na špatnou stranu](#61-na-špatnou-stranu)
+- [7.1. Nevyspalý](#71-nevyspalý)
 
 ### 1.1. Bez kocoviny
 
@@ -62,24 +63,50 @@ A pak jsem usnul u knížky.
 ### 5.1. Býti pekařem
 
 V noci jsem se ale budil. Nebylo to žádnými sny. Prostě jsem jen tu a tam otevřel oči a pak zas usnul. Hodinky si toho ani nevšimly. Ale rozhodně jsem byl párkrát vzhůru.<br>
-Chleba nakynul. Asi ne tak moc jak by mohl, ale rozhodně byl bochánek těsta větší než večer.<br>
-A povedlo se. Upekl jsem<br>
+Chleba nakynul. Asi ne tak moc jak by mohl, ale rozhodně byl bochánek těsta větší než večer.
 
-dokázal jsem nahrát firmware<br>
-běžet do podolí<br>
-jen asi 700m kvůli pólu<br>
-bežet zpátky<br>
-salát
-další díl seriálu<br>
+<a href="../images/2024_january/5_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/5_1.jpg"></a>
+
+Předehřál jsem troubu, dal do ní vodu na zápar, nahřál plech, hodil na něj chleba, 10 minut na 230 a 20 minut na 210 a volilá, upekl jsem chleba.
+
+<a href="../images/2024_january/5_2.jpg" target="_blank"><img src="../images/thumbnails/2024_january/5_2.jpg"></a>
+
+A byl jedlej. Vlastně i dobrej. Napsal jsem to Míše, Evě a Mámě. Řekl jsem si, že příští pokus bude míň žitnej. Tenhle byl až moc. Ale první polovinu dne jsem se živil jen chlebem a měl z toho radost.
+
+<a href="../images/2024_january/5_3.jpg" target="_blank"><img src="../images/thumbnails/2024_january/5_3.jpg"></a>
+
+Po dokončení práce pro freebike jsem se vrhl na Vojtovu desku. Nahrát firmware do ESP-12F se ukázalo poměrně jednoduchý. Stačil k tomu caflík na reset, protože na GPIO0 už měl tlačítko přidělaný.
+
+<a href="../images/2024_january/5_4.jpg" target="_blank"><img src="../images/thumbnails/2024_january/5_4.jpg"></a>
+
+Chvíli jsem se probíral binárkami, které měl Vojta na drivu. Jedna z nich něco dělala. Založila WiFi síť, ale byla zaheslovaná. Návod žádný. Napadlo mě ale, že heslo bude literál uloženej v paměťi. Prošel jsem binárku a ve změti nesmyslných bajtu našel `SWR-` a `12345678`. Sociální inženýring mi řekl, že to je tutovka. A byla.<br>
+Napsal jsem své poznatky Vojtovi, sbalil si věci na plavání do batůžku, natáhl běhací boty a doběhl volným tempem do Podolí.<br>
+Uplaval jsem jen asi 700m kvůli pólu a skokům. Točit se mi mezi dvěma sítěmi nechtělo.<br>
+I zpátky jsem bežel. Dohromady to bylo osm a půl. Povečeřel jsem salát, zkoukl drýhý díl Samuraje a usnul.
 
 ### 6.1. Na špatnou stranu
 
 Už zase jsem se budil. Možná víc než den zpátky. Trochu jsem doufal, že to přejde, neb den zpátky jsem neměl proteinový izolát. Ale je pravda, že před spaním jsem koukal na seriál a snědl randál salátu.<br>
-Z běhání jsem se cítil zbouraný. Rozhodl jsem se to minimalizovat pořádnou jógou. Dal jsem se do hodinové sekce s Adrienne.
+Z běhání jsem se cítil zbouraný. Rozhodl jsem se to minimalizovat pořádnou jógou. Dal jsem se do hodinové sekce s Adrienne.<br>
+V roce 2024 jsem ještě neseděl na kole. Řekl jsem si, že zajedu do ikei. Už jsem tam zas tak měsíc nebyl a mám to tam rád. Navíc se mi nechtělo vařit a srpen byl napůl nedopsaný.<br>
+Někde ve Folimance mi došlo, že ikea na Zličíně nemá decaf. Bylo ale brzo a řekl jsem si, že kafe budu pít míň a vyjel nahoru po Plzeňský. Byly 3 stupně a mlha.<br>
+Ikea zlevnila. 12 vegekoulí s kaší a hráškama a kafe stálo 129,- a přes týden prý dokonce 99,-.<br>
+Psal jsem a pozoroval lidi.<br>
+Koukal jsem na hádku rodiny a mladého pána, který měl velmi sexy přítelkyni, která nějak neřekla příchozím, že drží místo svému příteli, když šel pro jídlo. Ten pak přišel a začal naštvaně přesouvat bundy tý rodině. Skončilo to rozbitou skleničkou, vylitou kávou a naštvanými lidmi.<br>
+Nebo tam byli rodiče s dcerou a pán okřikl paní když se dcery na něco ptala, údajně protože se a ní zrovna bavil on. Což bylo docela daleko od pravdy, protože se asi minutu hnípal mlčky v jídle.<br>
+Většina z těch konfliktů byla úplně zbytečná. A bylo to úplně zbytečný. Kvůli tomu, že si budu myslet, že ten druhej ví co si první myslí.<br>
+Zpátky jsem jel Prokopákem. Chtěl jsem do bazénu a údolí je hezký. Když neprší. A není tma, protože tam nejsou lampy. A nezebou tě prsty. Aspoň to bylo z kopce.<br>
+V bazénu jsem šel do ledové vody a konečně na mě přišel ten hřejivý pocit místo pocitu, že umírám. Myslím, že se letos ještě zvládnu otužit.<br>
+Večer jsem si ještě psal s Miškou.
+
+
+### 7.1. Nevyspalý
+
+Úplně jsem ztratil schopnost odolávat kofeinu. Tři kávy v ikei kolem jedné hodiny odpolední způsobily to, že jsem se po půlnoci probral a bděl asi 4 hodiny. Ne že bych se převracel a probouzel. Prostě jsem byl regulérně vzhůru. Tak jsem si alespoň četl a psal na papír co mi přišlo na mysl, než na mě přišla nějaká únava.<br>
+Zato ráno jsem byl úplně v píči. Hodinky mě obdarovali 51 spacími body, ale cítil jsem se hůř. Možná jsem úplně posunul vnímání toho, jak se nevyspalý člověk cítí, protože tohle byl masakr. Třeštila mi hlava, bolelo mě tělo a cítil jsem se oteklý. Stresogram na hodinkách si ale seděl na dvacítce. Když jsem nemocný, vylítne do nebeských výšin.<br>
+
 
 <!--
-### 7.1.
-
 ### 8.1.
 
 ### 9.1.
