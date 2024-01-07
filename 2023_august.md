@@ -173,29 +173,32 @@ Cestou domů jsem ale objevil, že roste u nás před nádražím.
 
 ### 7.8. Rámen
 
-na metro, koláč<br>
-zapoměl jsem přestoupit a minul mišku na kačerově<br>
-333 fronta a kolotoč<br>
-spodní bránou a skrz sapu<br>
-nákup, miška nadšená a koupila by mrtě věcí, taky měla hlad<br>
-autobusem na ukrajinskou a na nákup do lidlu<br>
-někdy kolem osmé začínáme vařit
+Miška se vracela z Berlína. Takhle jsem to měl v kalendáři napsaný. Těšil jsem se na její vyprávění, ale k vyprávění je lepší jídlo a na seznamu jsme měli uvařit. Pickuplimes měli recept na rámen. Bylo v něm spousta věcí co jsme neměli ale když Miška napsala:
+
+> Já v Sapě nikdy nebyla. 😁
+
+Bylo rozhodnuto. Budeme vařit rámen a nakoupíme na něj věci v Sapě.<br>
+Po práci jsem jí jel metrem naproti. Úplně jsem si odvykl jím jezdit a na Florenci jsem zapomněl přestoupit.
+Nabral jsem tak desetiminutové zpoždění. O to divnější bylo, že jsem Mišku neviděl u výstupu. Čekala mě u eskalátoru a já vyběhl po schodech, které jsou na Kačerově vlastně v protisměru. Ale našli jsme se. A 333kou už jsme jeli spolu. Uprostřed kloubáku na kolotoči.<br>
+Prošli jsme spodní bránou a šli až dozadu do té mírně autentičtější části sapy. K vidění toho tam ale stejně moc není. Po chvíli už jsme byli v Tamdě.<br>
+Byla nadšená. Já se bál, že nakoupím mrtě kokotin, ale v krámu jsem se začínal bát, že to bude spíš ona. Nejspíš to ale bylo tím, že měla hlad. Nakupovat hladový je hrubice.<br>
+Když jsme pořídili všechno co jsme v sapě chtěli včetně *doubanjiang chili bean paste*, dojeli jsme autobusem ke mně a zbytek dokoupili v Lidlu.<br>
+Vařit jsme začali někdy kolem osmé.
 
 <a href="../images/2023_august/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/7_1.jpg"></a>
 
-vařím vodu, miška krájí<br>
-je to k nevíře, ale až u vaření jsme se dostali k povídání si o výletu do berlína
+Vařil jsem a míchal, Miška krájela. K povídání o Berlínu jsme se dostali až v kuchyni. Jela s architekty a tak viděla spoustu architektury.
 
 <a href="../images/2023_august/7_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/7_2.jpg"></a>
 
-recept byl jen pro dva a byl moc pálivý<br>
-ředění<br>
-stůl ke gauči a hodování<br>
-harry z laptopu, slovenština je víc roztomilá než vtipná<br>
-polštář mezi hlavami a potom pod deku<br>
-rozdělit si rámen a na noční tramvaj<br>
+Recept byl jen pro dva a byl moc pálivý. Pustili jsme se do ředění. Asi vydržím pálivější jídla než ona, takže když řekla, že teď už se to dá zvládnout, já byl úplně v poho.<br>
+Malý stůl jsme si zvedli a přitáhli mezi sebe na gauč a pustili se do hodování. Bylo to bezva. Hlavně *Shiitake* a řasa.
 
 <a href="../images/2023_august/7_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/7_3.jpg"></a>
+
+Další věc kterou jsme měli na seznamu byl Harry ve slovenštině. Pustili jsme si ho z laptopu. Slovenština nakonec byla víc roztomilá než vtipná.<br>
+Chvíli jsme hledali, jak vlastně na gauči pohodlně sedět a koukat na film. Napřed jsme si dali polštář mezi naše hlavy a byli opření o sebe a nakonec jsme se stulili k sobě pod deku. Na celý film jsme ale neměli čas.<br>
+Odlil jsem míše polovinu rámenu do sklenice a krabičky a doprovodil jí a na noční tramvaj.
 
 ### 8.8. Když déšť kvůli tanci odejde
 
@@ -432,32 +435,19 @@ V práci jsem dostavoval testery a po práci jsem před domem potkal Petra, kter
 
 ### 19.8. Za Mamkami
 
-Bydlím od vlaku co? 4 minuty? Stejně skoro vždycky dobíhám.
-psát ve vlaku<br>
-steží jeden den<br>
-pěšky na dělnickou<br>
-vajíčková pomazánka a šípový čaj<br>
-máma se vyptává na mišku jako kdybychom spolu plánovali děcka<br>
-k medvědům<br>
-debil v autě na cyklomostě<br>
-festival pro romy<br>
-na birel a limču<br>
-naučnou stezkou<br>
-fakt horko<br>
-trochu ztracení u čističky<br>
-pak lesem a u labe zas horko<br>
-na zmrzlinu
+Míša jela domů za mamkou a já jsem měl stejný plán. Akorát jsem nejel Aurou, ale vlakem. Bydlím od nádraží co? 4 minuty? Stejně skoro vždycky dobíhám.<br>
+Řekl jsem si, že ve vlaku budu psát deník, ale za tu hodinovou jízdu jsem sepsal sotva den. Autovusy jsou v Kolíně sice zadarmo, ale jezdí poměrně sporadicky. Pěšky to bylo rychlejší.<br>
+Máma připravila na uvítanou vajíčkovou pomazánku a šípový čaj. Vyptávala se mě na Mišku, jako kdybychom spolu plánovali děcka.<br>
+Vydali jsme se na procházku. Vymysleli jsme, že se pujdeme podívat k medvědům. Na pěší most na ostrov vjel nějakej debil v obřím SUV. Taky tam proudili davy romů. Ukázalo se, že tam mají nějaký romský festival. To že jsem označil toho řidiče za debila ale nebyl rasizmus. Považoval bych ho za mentálně slabšího, i kdyby byl bílej. Značka zákaz vjezdu není tak složitá.<br>
+Na hřišti u medvědů jsme si dali Birell a Limču. Vypili jsme si to na lavičce a vydali se po naučné stezce. Bylo to většinu času lesem, ale když jsme vyšli na sluníčko, bylo fakt horko. Obzvlášť za čističkou u řeky. Nakonec jsme se ale opět vrátili do lesa a na náměstí si dali zasluženou zmrzku.
 
 <a href="../images/2023_august/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/19_1.jpg"></a>
 
-nakoupit na tousty<br>
-véča
+V Bille jsme nakoupili suroviny na tousty a upekli si je k večeři. Bylo to zdravý a dobrý jídlo. Měl jsem radost.
 
 <a href="../images/2023_august/19_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/19_2.jpg"></a>
 
-klidke po jídle<br>
-20 minut na vlak<br>
-tak akorát<br>
+Po jídle jsme si povídali. Nějak jsem zapomněl koukat na vlaky. Když jsem koukl do aplikace, ukázalo se, že buď se dostanu na nádraží za půl hodiny, nebo budu čekat přes dvě hodiny a budu doma pozdě. Hecnul jsem to, rozloučil se a vyběhnul. 20 minut mi to trvalo a byl jsem tam tak akorát.
 
 ### 20.8. Na Letný je Rybník!
 
