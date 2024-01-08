@@ -203,27 +203,27 @@ Odlil jsem míše polovinu rámenu do sklenice a krabičky a doprovodil jí a na
 
 ### 8.8. Když déšť kvůli tanci odejde
 
-na florenc<br>
-čekám na mišku<br>
-málem se nenechala obejmout a prý mám stále velký osobní kruh<br>
-do alberta<br>
-přes mostek z alianz a kolem hudby na HolKu. Piknik na štvanici<br>
-kolem starého domu na dělnické pozadu do stromovky<br>
-trochu pozdě, ale vlastně včas na lekci<br>
-zprvu jsem říkal že se chci jen dívat, ale šli jsme tančit<br>
-moc mi to nešlo, ale je to zábava<br>
-miška je talent, a krásně se usmívá
+Na Míšu jsem čekal na Florenci na takovým plácku z minulýho tisíciletí. Nevyběhnul jsem jí naproti. Spíš jsem tam tak posedával a čekal, až prijde za mnou. Málem se nenechala obejmout. Že prý mám stále velký osobní kruh. Později jsem se dozvěděl, že se jí to docela dotklo. Že prý málo ukazuju, že jsem štastný, že jí vidím.<br>
+Zastavili jsme se v Albertu. Měli jsme v plánu dát si piknik na Štvanici. Po novu se na ní totiž dalo přejít přes HolKu. Novou lávku. Její návštěvu jsme měli v seznamu. Původně jsme teda chtěli vyjít každý z opačného konce a potkat se uprostřed, ale nemůžeš mít všechno.<br>
+Na místě jsem vzpomínal na Zdeniny narozeniny. Gentrifikace přinesla hipstry i na ostrov, kde do té doby byla jen tráva a stromy.<br>
+Měli jsme olivové šneky a fazolovou pomazánku. Míša jí chce napodobit v domáchích podmínkách. Prý už je blízko, ale pořád to není ono.<br>
+Cítil jsem, že nestíháme. Do Stromovky je to flák cesty. ŠLi jsme kolem domu, kde jsem bydlíval, kolem nelegálního klubu, kde soused pořádal narozeiny a pak před výstavištěm do Gauče.<br>
+Lekce zrovna začínala. Trochu jsem se z toho chtěl vykroutit (*No pun intended!*), ale pak jsem to hecl a šli jsme tančit.<br>
+Totálně mi to nešlo, ale byla to zábava. Miška je narozdíl ode mně talent. Mohl jsem na ní oči nechat. Krásně se usmívala a houpala do rytmu. Škoda, že nemám její fotku nebo video.
 
 <a href="../images/2023_august/8_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/8_1.jpg"></a>
 
-miluje otočky<br>
-bachata<br>
-waltz před observatoří<br>
-na procházku po stromovce<br>
-ležíme na trávě, mravenci, knížky a únava<br>
-do kopce a na tramvaj<br>
+Miluje otočky. Fakt hodně. Říkala to už na svatbě. A když mi vyprávěla o návštěvě tanečního klubu, kde jí protáčel nějaký tanečník. Možná dokonce Španěl.<br>
+Po lekci jsme tam ještě chvíli byli. Salsu ale začali prokládat bachatou. I to ale působilo zábavně. Pak se ale parket začal nepříjemně zaplňovat a na mě to bylo příliš moc lidí. Vyrazili jsme tak do Stromovky, kde byl větší klid. Před observatoří mi ještě Míša ukazovala Waltz.<br>
+Přemýšlel jsem nad pivem, ale nakonec jsme se jen procházeli a když jsme došli k trávě za dvěma rybníky, svalili jsme se do trávy.<br>
+Zpětně vzato to byl jeden z asi tisíci momentů, kdy jsem jí mohl říct, že k ní cítím něco víc než jen ke kamarádce, ale nějak jsem se neodhodlal.<br>
+Leželi jsme tam a povídali si, dokud nás nezačali kousat mravenci. Pak jsme se přesunuli o kus dál a pokračovali v ležení a povídání si o knížkách.<br>
+Přicházela ale zima. Vyrazili jsme tak do kopce a došli na tramvaj na Letenské náměstí.
 
 <a href="../images/2023_august/8_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/8_2.jpg"></a>
+
+Míša jela nahoru. Já jsem si půjčil nextbike a sjel přes HolKu do Karlína, kde jsem nasedl na draka a dojel dom. Večer jsme si ještě psali. Ověřila, že lektor tance nekecal a že opravdu byl mezinárodní den ženského orgasmu. Odepsal jsem jí, že by to měla ještě oslavit. Což jí prý ode mě překvapilo, ale prý se jí ta odpověď líbila.<br>
+Usínal jsem s pocitem, že to byl skvělý den.
 
 ### 9.8. Ráno nažmach, večer na pivo
 
@@ -361,52 +361,55 @@ Na večer jsem plánoval dopisovat deník a nic nedělat. Víc se mi dařilo to 
 
 ### 15.8. Grilování u Vojty
 
-
-ivan s krosnou<br>
+Když se Vojta stavil v Kalíně, domluvili jsme grilování. Zval jsem kluky z výroby a Štěpánku. Štěpánka měla pocit, že jí nemůžu zvát, neb to není moje akce, ale Vojta jí ubezpečil, že je to v poho a tak souhlasila. Malešičtí se k nám ale nepřidali. Přišlo mi to jako škoda. Občas z výroby přijde informace, že Karlín na výrobu sere, ale incentivu na nějaké společně denní cítím asi jen od Fíly. A mimopracovní aktivity plánujeme nakonec vždycky my. Ale možn to tak černý není. Na chatu jsme jeli skoro všichni.<br>
+Ivan a Jiří u Vojty přespávali. Ivan dokonce přijel s krosnou.<br>
+Do Bráníku jsme se měli v plánu dostat na kolech. Teda kromě Vláďi. Bylo úterý, takže Vláďa v práci nebyl a dostal se k Vojtovi po vlastní ose.<br>
+Já jsem se cestou ještě chtěl zastavit doma a v krámě.<br>
+Doma jsem pobral zeleninu, v lidlu ještě nakoupil tofu a vydal se k Vojtovi.<br>
+Jel jsem kolem řeky a za pivovarem do kopce. Když jsem dorazil, všichni kromě Štěpánky byli připravení na chlazení se v bazénu a pivo bylo naražené. Maličký asi deseti litrový soudek z pivovaru někde od Berounky. Nebylo to vůbec špatný pivo.<br>
+Jiří přivezl svojí pálenku. Už několikrát mluvil o její výrobě, tak se chtěl pochlubit. I přes fakt, že jsem pálenku sám vyráběl mi to nic neříká. Voní hezky, to asi jo. Ale na jazyku i v krku je to prostě jen líh s vodou.
 
 <a href="../images/2023_august/15_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/15_1.jpg"></a>
 
+Grilovali jsme na opačné straně domu, než byl bazén. Přenesli jsme tedy sud a naše věci, připravili jídlo a gril. Štěpánka dorazila a udělala francouzský salát, který avizovala den nazpět.
+
 <a href="../images/2023_august/15_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/15_2.jpg"></a>
+
+Povídali jsme si trochu o francii, trochu o práci, ale převážně spíš o životech a sportu a politice. O sportu vím kulový a řeči o politice mě moc neberou. Jiří s Vojtou byli hlavní tahouni diskuse. Dokonce se o něco vsadili a Vojta vyhrál. To trochu pošramotilo Jiřího ego. Konec konců se chystal do vědomostní soutěže.<br>
+Bylo to fajn a byl jsem s ostatními až někdy do jedenácti. Ale já jsem chtěl spát dom a tak jsem se rozloučil a vyrazil na draku dom. Z Braníku se jede docela dobře. Po vystoupání na Kačerov už je to jen z kopce dolů.
 
 ### 16.8. K přehradě se Sabčou
 
-domů<br>
-kroupy jako kráva
+Sabinu jsem neviděl od Berlína. Byla zpátky v Praze tak jsme se domluvili, že půjdeme ven. Nechtělo se jí nijak moc daleko a mně nevadilo přijet za ní na Hostivař. Takže jsme se rozhodli jít k přeradě.<br>
+Zrovna když jsem z práce dojel domů, začaly padat kroupy jako kráva.
 
 <a href="../images/2023_august/16_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/16_1.jpg"></a>
 
-miška má starosti o auru
-
-na vlak a pak 177
+Miška měla starosti o Auru. Stála chudák venku na Strahově bez jakékoliv ochrany. Na radaru to ale vypadalo, že přes Strahov to nešlo tak moc jak přes Vršky a když jsem šel na vlak, nebyly u nás v autech žádný díry. Vítr ale rozházel větve a věci poměrně do daleka.
 
 <a href="../images/2023_august/16_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/16_2.jpg"></a>
 
-ztracený v panelácích<br>
-sabča mokla<br>
-nadšeně povídá o nové práci v lidlu<br>
-edita<br>
-podél přehrady<br>
-trocha červánků<br>
-prý romantické procházky s kamarádkami
+Vlakem jsem dojel na Zahraďák a z tama jsem pokračoval 177. Bylo zvláštní jet takhle pozadu. Ale bylo to rychlejší.<br>
+Jenže jsem se ztratil někde na Chodově mezi paneláky. Byl jsem si tutově jistej, že za chvíli vyjdu u mini zoo na hájích, ale než jsem se tam dohrabal, nabral jsem dvaceti minutové zpoždění.<br>
+Sabča zatím mokla u výběhu muflonů. Ale když mě uviděla, vydala, že jí to nevadilo. Vlastně jsme bez deštníku pokračovali lesem dál.<br>
+Nadšeně mi povídala o její nové práci v Lidlu. Dělala v oddělení, kde domlouvají dodavatele pro privátní značky. Chtěl jsem po ní, aby do Českého Lidlu dostala Skyr jako mají v Německu. Ale prý její oddělení řeší domácí mazlíčky a sladkosti.<br>
+Taky mi vyprávěla o její kolegyni Editě, která je úplně neschopná, ale nějakým zázrakem tam je už několik let. Úplně se já nezdál můj odhad toho, že pravděpodobně spí se šéfem.Svět ale ale mnohdy přesně takhle jednoduchej.<br>
+Když jsme procházeli podél přehrady, byly zrovna červánky a západ slunka.<br>
+Prý poslední dobou provádím samé romantické procházky se svými kamarádkami.
 
 <a href="../images/2023_august/16_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/16_3.jpg"></a>
 
-horem, trochu ztracení, recept na buchtu<br>
-pořád s cápkem co je kokot<br>
-pod přehradou zpátky k zoo
-jak to chodí v lidlu<br>
-uplně maličkou stezičkou<br>
-pod deštníkem<br>
-na pivo, merunkové a pšenku<br>
-fotky z cest<br>
-do zavíračky<br>
-loučení u autobusu<br>
-telefonovat mišce, nervozní z prezentace<br>
-prý jí náš rozhovor pomohl<br>
+Řekl jsme jí, že na tom něco bude. Ale že s ní nemám ambice na to aby byla procházka romantická. Narozdíl od Mišky. Tam tomu bylo jinak.<br>
+Od pláže jsme vyšli od vody nahoru. Viděli nějaký pár, co se zrovna měl hezky na lavičce a oba obdrželi telefonáty od mamek. Moje mi povídala, jak je v Berlíně. Sabči chtěla recept na na buchtu.<br>
+Sabina byla pořád s tím starším cápkem co je podle mě kokot. Nijak jsem se do toho nemontoval, ale měl jsem pocit, že jí citově vydírá. Možná si s ní musím někdy promluvit víc na tohle téma.<br>
+Dole pod přehradou už byla naprotá tma. Procházky ve tmě jsou taky něco, co se svými kamrádkami dělám zdálo se.<br>
+Úplně maličkou stezičkou jsme došli zpátky k zoo, kde opět začalo pršet a tak jsme pod  deštníkem došli na pivo do podniku, o kterém mi už několikrát vyprávěla. Výběr tam měli fakt značný. Sabča si dala meruňkové a já pšenku.<br>
+Ukazoval jsem jí fotky z cest. Seděli jsme tam až do zavíračky.<br>
+Autobu naštěstí jezdil hned za rohem. Rozloučili jsme se a v autobuse jsem zavolal Mišce. Byla nervózní z nadcházející prezentace před hlavouny z DT. Spíš jsem jí poslouchal, než že bych jí byl s to nějak poradit. Později mi ale psala, že jí náš rozhovor pomohl, z čehož jsem měl ohromnou radost.
 
 ### 17.8. Barák jde do hajzlu a DB ruší vlaky
 
-Objevil jsem, že jsem vytiskl špatný model držáku tlačítka. Čtyřikrát. Byl to ten starý, kde nebylo dost místa pro matici. Tisknout znova se mi to ale nechtělo. Na řadu přišla slintačka. Honoroval jsem ten nástroj jako pomoc inženýra. Mišku termin *slintačka* hrozně pobavil. Prý tomu s mamkou říká *tavka*.
+Objevil jsem, že jsem vytiskl špatný model držáku tlačítka. Čtyřikrát. Byl to ten starý, kde nebylo dost místa pro matici. Tisknout znova se mi to ale nechtělo. Na řadu přišla slintačka. Honoroval jsem ten nástroj jako pomoc inženýra. Mišku termín *slintačka* hrozně pobavil. Prý tomu s mamkou říká *tavka*.
 
 <a href="../images/2023_august/17_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/17_1.jpg"></a>
 
@@ -657,7 +660,7 @@ Dal jsem vodu bez alkoholu a užil si to. Měl jsem ze sebe radost.
 
 Náš seznam obsahoval položku:
 
-- [ ] Opět jít hrát na piano
+- Opět jít hrát na piano
 
 V městské knihovně mají piáno, vzpomněl jsem si. A tak jsme vyrazili po práci na Mariánské náměstí. Jel jsem na kole, takže jsem tam byl první. Zrovna když jsem zamykal kolo ke stojanu, rozpršelo se a tak jsme vyrazil rovnou dovnitř.<br>
 Paní v hudebním koutku mě informovala, že buď musím mít knihovní kartičku, která mi zajistí přístup k lepšímu piánu, nebo svoje sluchátka na klapky v dětské zóně. Šel jsem se podívat do té dětské zóny. Byla to docela fér Yamaha. Zrovna, když jsem zjišťoval, jak připojit sluchátka dvoje, přišla Miška. Ve svým fjällräven svetru. A se svým krásným úsměvem. Ale drátová sluchátka jsme neměli. Mohli jsme zajet do Karlína, vzít si moje náhlavní a půjčit si Ivanovy, ale za prvé by nám to sebralo spoustu času a za druhé se to Mišce zdálo divný.<br>
