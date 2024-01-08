@@ -114,7 +114,11 @@ Chyběla mi Míša. Víc než za celou tu dobu. Tak že jsem se rozbrečel.
 
 ### 8.1. Nemocný
 
-Spal jsem líp. Vzal jsem to jako znamení toho, že nemám novou variantu covidu, po které lidé nespí a mají úzkosti. Ale cítil jsem, že nemoc mě sužuje. Den jsem tak strávil v posteli. Střídal jsem čaj a vývar s česnekem.
+Spal jsem líp. Vzal jsem to jako znamení toho, že nemám novou variantu covidu, po které lidé nespí a mají úzkosti. Ale cítil jsem, že nemoc mě sužuje. Den jsem tak strávil v posteli. Střídal jsem čaj a vývar s česnekem.<br>
+V průběhu dne jsem dopsal Srpen. Byl to fakt nabitej měsíc. Zpětně vzato je neuvěřitelný, že jsme spolu nechodili. Respektive. je neuvěřitelný, že jsem byl takovej srab a nezeptal jsem se.<br>
+Zbývalo mi tak dopsat pár dní v lednu, dva dny rozlučky a běžky v prosinci. Začínal jsem mít pocit, že mít sepsaný celý rok není nemožný.<br>
+V reálu jsem do toho dal strašný množství času. Až mi to bylo blbý. Jenže co si píšu deník, je můj život lepší. Myslím, že to dokážu takhle říct a není to lež. A když na to neseru, tak to vlastně tolik času nežere. Jen když na to kálím a pak dohledávám věci v konverzacích, Connectu, výkazech a podobně. Jo a fotky mi berou dost času. Tam je třeba nějaká lepší automatizace. Možná by se mohly roztřizovat do složek samy. Publish skript by si je mohl vyzvednout v nějakým stagingu a možná je i dopsat do raw filů. Ještě to promyslím.<br>
+Mimo psaní jsem se podíval na Trojúhelník Smutku. Zklamalo mě to.<br>
 
 <!--
 ### 9.1.
