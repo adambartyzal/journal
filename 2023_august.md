@@ -48,16 +48,17 @@ Peán mi pomohl.
 
 Ale při opětovném nahození jističe jsem vyrazil jistič až na chodbě. Jak se to stalo mi do hlavy nešlo. Box tohle nedělá. Tiskárny a box by ale mohly. Dvanáct jich je tam nově. A Ivan je zapnul všechny. Nechal jsem tuhle záhadu na další den. Zřejmě kvůli opětovnému vysazení kofeinu mě bolela hlava a chtěl jsem pryč.<br>
 
-Dopsat deník? Možná. Na Pivo jsem dostal chuť. Jeden půllitr v Petrohradský mi přišel jako dobrá volba ke kreativnímu psaní.
-Kendy přijel z havaje<br>
-Voda prosakuje<br>
-Na procházku při úplňku
+Dopsat deník? Možná. Na Pivo jsem dostal chuť. Jeden půllitr v Petrohradský mi přišel jako dobrá volba ke kreativnímu psaní.<br>
+Když jsem se vrátil domů, Kendy se zrovna sprchoval. Po chvíli přišel pan Kepka, že v prvním patře si stěžují, že jim ze stropu kape voda. Inu je pravda, že naše vanička je naprasklá, ale to jsem zalepil silikonem a vypadá to pořád pevně. Navíc, bydlíme ve třetím patře. Kdybych někoho vytápěl, byl by to ten člověk pode mnou ne?<br>
+Inu rozhodl jsem se, že nejlepší co s tím můžu udělat, je nechat to řešit jiné a jí se projít a u toho telefonovat s Míšou, která se šla projít po Merseburgu.
 
 <a href="../images/2023_august/1_3.jpg" target="_blank"><img src="../images/thumbnails/2023_august/1_3.jpg"></a>
 
-V Merseburgu není měsíc vidět, v Praze zase nejde vyfotit.
+V říši prý měsíc nebyl vidět, v Praze zase nejde vyfotit.
 
 <a href="../images/2023_august/1_4.jpg" target="_blank"><img src="../images/thumbnails/2023_august/1_4.jpg"></a>
+
+Když jsem se vrátil, Kendy říkal, že Kepka říkal ještě nějaký moudra ohledně trubek, ale nic konkrétního.
 
 ### 2.8. Terapie naslepo
 
@@ -226,25 +227,27 @@ do kopce a na tramvaj<br>
 
 ### 9.8. Ráno nažmach, večer na pivo
 
-Ráno chcalo. Má velká pláštěnka je super. Ale stejně to byl voser.
+Ráno chcalo. Má velká pláštěnka je super. Pokud náhodou nevisí v kanclu místo doma.
 
 <a href="../images/2023_august/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/9_1.jpg"></a>
 
-V práci jsem upgradoval pákostroj. Dostal do vínku bajonet na zuby. A musím konstatovat, že je to rapidní posun k lepšímu. Ještě jsem si řekl, že když jsou nové ovládací prvky červené. Vytisknu červeně i madla a kouli.<br>
+V práci jsem upgradoval pákostroj. Dostal do vínku bajonet na zuby. A musím konstatovat, že je to rapidní posun k lepšímu. Ještě jsem si řekl, že když jsou nové ovládací prvky červené. Vytisknu červeně i madla a kouli.
 
 <a href="../images/2023_august/9_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/9_2.jpg"></a>
 
-rychlá rýže<br>
-s editou do petrohradské<br>
-toxické prostředí, nová práce na senovážném<br>
-o svatbách, ženich líbá jinou<br>
-odpadl jsem po desáté
+Pár dní zpět jsem potkal před barákem Editu. Zprvu já prý nedocházelo, kdo to na ní mává, ale pak se rozzářila a domluvili jsme pivo v Petrohradský.<br>
+Abych měl pod pivo nějaký základ, spíchl jsem rychlou rýži se zeleninou na pánvi. Naházel to do sebe a vyrazil na roh na sraz.<br>
+Vyla v nové práci někde na Senovážném náměstí. V té minulé prý bylo toxické prostředí. Lidi se tam pomlouvali, šéf byl debil co všem psal zprávy, ale do očí jim nic neřekl. A ani náplň nakonec nebyla tak skvělá, jak to na začátku vypadalo. Firma měla nějaký skandál ohledně nedostatečné kvality ubytování studentů v zahraničí a oni to museli tutlat. Na což prý neměla a to chápu.<br>
+Taky jsem jí vyprávěl o salse. Že jsme jí tam neviděli a jaké to bylo. Prý byla týden předtím. Trochu se mě vyptávala na Míšu.
+Dál jsme si povídali o svatbách. Já jsem nedávno byl na Nováčkovic a ona na své kamarádky. A bylo to hustější než ta moje. Protože ještě ten večer viděla manžela se líbat s nějakou jinou holkou a prý to nebyla letmá pusa na tvář.<br>
+Manžel jí pak řekl, že to jeho ženě nesmí říct, ale ta se to o pár dní později dozvěděla a byla na Editu nasraná, že jí to zamlčela. Inu, nechtěl bych být v její pozici.<br>
+Povídali jsme si takhle až někdy do večera, ale na Editu přišel hlad a doma prý něco měla, tak jsme se zas u nás na rohu rozloučili.
 
 ### 10.8. Druhé v řadě
 
 Protože mi ivan udělal krásný přípravek Enterprise, mohl jsem si porovnat, jaké to je, když přetnu zemnící rovinu na NFCU. Přes den jsem si tak měřil vyzařováky a vynášel si naměřené hodnoty do grafů. Bylo to jak v škole. Akorát mě nikdo neprcal za to, že nemám ťip ťop protokol o měření.
 
-<a href="../images/2023_august/10_1.png" target="_blank"><img src="../images/thumbnails/2023_august/10_1.png"></a>
+<a href="../images/2023_august/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/10_1.jpg"></a>
 
 Po práci jsem dojel na Čerňák do Sportisima. Měli tam Merell Vapor Glove 6 v mojí velikosti. Chtěl jsem si je vyzkoušet, protože když už jsem přešel na barefoot chůzi, chtěl jsem přejít i na barefoot běh.<br>
 Pán mi je musel přinést někde hluboko ze skladu. Nevím jak to Merell dělá, ale boty měly jinou barvu. Místo hnědé byly zelené. I moje trojky vypadají na obrázcích modře, ale jsou černé. Fotografa by měli vyhodit. Ale vlastně se mi líbily víc. Procházel jsem se v nich po krámu dobrých 20 minut, než jsem se rozhodl za ně ty peníze vyhodit. Ale během těch dvaceti minut jsem se do nich zamiloval. Jsou jak ponožky. Narozdíl od trojek měkoučce objímají nohu a hřejí a zároveň větrají.<br>
@@ -587,12 +590,12 @@ Odpoledne přijel DJ opravovat testovací kola. Ještě jsem změnu v qtCommonu 
 Po třetí jsem jel domů. Připravit se na vodu a dojíst zbytky, které by se přes víkend zkazily. Když jsem se balil, zavolal mi Jarda, že nepojedou, protože Sáře se zabila máma. To byl teda šok. Poprosil mě, ať to vyřídím s ostatními.<br>
 Přemýšlel jsem jestli má vůbec smysl jet, ale pro Sáru tu byl Jarda a v Praze bychom akorát zvyšovali míru chaosu. Navíc Marťa s Vildou už vyrazili autem, nebo jsem si to aspoň myslel. Zavolal jsem Ondrovi a Rébu napadlo, že Nováčkovic by se vešli do uvolněné lodě. Ale už vyrazili do Jižních Čech na chatu a pomáhat babičce.<br>
 Inu dobalil se, sedl na sedmičku, v Albertu na Andělu koupil 3 štávo-piva a úplně zbytečně popojel tramvají na zastávku *Na Knížecí*, která je od autobusáku dál než Anděl. Réba ani Ondra nebyli v dohledu. Ondra nestíhal a musel si vzít tágo, Réba se objevila po chvíli čekání. Zaplatila za nás za všechny a pomalu jsme se vydali do Jižních Čech.<br>
-Pomalu proto, že na silnici byla zácpa a bylo jasný, že vlak ze Strakonic nestihneme. Zato jsme stihli dvojitou duhu.
-double rainbow all the way
+Pomalu proto, že na silnici byla zácpa a bylo jasný, že vlak ze Strakonic nestihneme. Zato jsme stihli dvojitou duhu.<br>
+Double rainbow all the way!
 
 <a href="../images/2023_august/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/25_1.jpg"></a>
 
-V druhém autobusu, kterým jsme mohli uplně v klidu jet už z Prahy jsme nabrali Marťu s Vildou se spoustou tašek. Za okny byla zlatá hodinka a do Sušeice to byla taky tak hodinka.
+V druhém autobusu, kterým jsme mohli úplně v klidu jet už z Prahy jsme nabrali Marťu s Vildou se spoustou tašek. Za okny byla zlatá hodinka a do Sušeice to byla taky tak hodinka.
 
 <a href="../images/2023_august/25_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/25_2.jpg"></a>
 
@@ -604,63 +607,89 @@ Společně jsme uvařili v Marťině hrnci kuskus a asi do jedenácti si povída
 
 Ráno pršelo. Siri řekla, že to přejde a v dálce se déšť trhal, tak jsem jí pro jednou věřil. Ale stan by neuschnul, takže jsem ho zabalil mokrý. Posnídal jsem buchty ze slevněnky, ale tentokrát jsem se napálil. Na poslední řádce byla plíseň a já to naneštěstí objevil až v puse.<br>
 Hodinky mě poprvé odměnily stem ze sta spacích bodů. Necítil jsem se dokonale vyspaný, ale tak nějak ok asi jo. Ostatní balili stany až po mně a já se tak mohl skrývat před deštěm v lesíku.<br>
-Zavolal jsem do půjčovny, že jednu loď nebudeme potřebovat.
-dolů, přes most, vyhodit odpad,
-samba půjčovna, fronta lidí, marťa občanku, tři samby,
-pro vodu ke zmrzlinářce, ostatní taky, 3 velké zmrzliny,
-pod jezem na vodu,
-docela to teče, počasí se vylepšilo, otava pěkná přírodní,
-jet sám jde, sedím na rantlu,
-pod rábím krásný výhled na hrad
+Zavolal jsem do půjčovny, že jednu loď nebudeme potřebovat a vydali jsme se dolů, přes most. V kempu jsme vyhodili odpad a našli půjčovnu samb. Lidí tam byla strašná fronta. Chtěli občanku. Marťa jí naštěstí měla u sebe. Dostali jsme tři lodě, šest sudů a pět pádel.<br>
+Před výjezdem jsem chtěl doplnit vodu. Pán mi poradil, že oni chodí pro vodu přes silnici ke zmrzlinářce. Byla moc milá. Rozhodl jsem se vrátit pro drobný a koupit si zmrzlinu. Nakonec si daly tři velké. Udělal jsem paní kšeft.<br>
+Pod jezem jsme nastoupili a vyrazili. Docela to teklo, počasí se vylepšilo a Otava se mi líbila. Byla taková pěkně přírodní. Měl jsem radost, že jsem jí navrhl a stál si za tím.<br>
+Jet v jednom taky šlo. Seděl jsem vzadu na rantlu a ani jsem moc nezdržoval.<br>
+Pod Rábím byl krásný výhled na hrad.
 
 <a href="../images/2023_august/26_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/26_1.jpg"></a>
 
-před mostem koupačka a birell,
-první jez je rozbořený
+Ostatní nějak zdržovali a já si tak před mostem lehl do vody a popíjel svého Birella dokud mě nedostihli.<br>
+První jez byl rozbořený. Museli jsme ho obejít. Stoka, do které byla řeka svedená ale splavná byla.<br>
+Na oběd jsme šli do hospody v kulturáku ve Velkých Hydčicích. Měli tam docela draze. Bez masa tam měli na výběr: smažák nebo sladký knedlíky. Na smažený jsem to moc neviděl. Borůvkový knedlíky vyhrály. Pivo nakonec měla jen Réba s Ondrou a to jen jedno napůl. Zato jsme měli 4 kofoly. Skoro jako by moje nepití mělo na ostatní vliv.<br>
+Povídali jsme si o Celine. Prý mojí matraci nakonec nepoužívala, protože jí smrděla. Co už.
+Další jezy byly pohodové a sjížděli jsme je všichni. U prvního v Horaždovicích jsme se dokonce koupali.
 
 <a href="../images/2023_august/26_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/26_2.jpg"></a>
 
-oběed v kulturáku, drahý smažák, tak radši sladký knedlíky, 4 kofoly, jedno pivo<br>
-o celine
+Když jsme se blížili druhému, informovala nás paní, že je to smrťák. Cedule o tom informovala taky. A vskutku to tak bylo. Voda tam byla přehrazená kvůli mlýnu na mouku. Musel se převádět po levé straně. Ale ochoz byl extrémně vysoký a moje lano by to nedalo. Naštěstí měl ondra mnohem delší a na převoz mi ho půjčil.<br>
+ondra mi půjčil lano, moje bylo moc krátké.<br>
+O dva jezy dál mě Ondra natočil jak ho sjíždím. Moc dobře to nevypadá. Měl jsem malý rozjezd, protože se mě tam nějaký pán snažil uspíšit. Myslel jsem, že si ho se ženou chtějí sjet taky, ale přetahovali.<br>
+Možná že to udělali dobře. Narozdíl od dalších lidí, co už byli k podvečeru značně opilí. Zachraňoval jsem dole pod jezem věci pána v kapitánské čepce, který stěží stál. A pak i jeho loď, protože ani jeho kamarád, který jí držel na tom nebyl nejlíp. Nevím jestli jsem mohl soudit. Taky jsem na vodách býval docela na sráč. Ale bylo mi z toho smutno.<br>
+Čas už se ale nachýlil a bylo třeba hledat místo k přespání. Jeden ostrov před námi vypadal zajímavě, ale bylo na něm všude křoví. O pár desítek metrů nazpátek ale Ondra vytipoval místo trochu trochu dokopce od vody a shodli jsme se, že tam by to šlo. Ujeli jsme skoro 22 kilometrů. Záznam trasy mám [tady](https://www.strava.com/activities/9732979602)<br>
+Uložili jsme lodě na břeh. Vytahali věci do kopce a dali se do rozbíjení stanů.<br>
+A to akorát včas. Večeři už jsme vařili v předsíňce Vildova stanu. Docela dost se rozpršelo. Měli jsme těstoviny se zeleninou. Přispěl jsem tofu a bazalkovým pestem, po kterém se zaprášilo. Masožravci si přidali ještě tuňáka.<br>
+Ve zbytku večera jsme hráli kontakt. Kromě Marťi ho nikdo neznal. Museli jsme tak vysvětlovat pravidla a chvilku nám trvalo, vůbec si je ujasnit. Byť je to vlastně primitivní hra.<br>
+Vy výsledku každý vyhrál aspoň jednou a bylo to fajn.<br>
+Měl jsem stan trochu z kopce a v noci se sunul na stěnu. Když jsem šel někdy v noci čůrat, obloha byla čistá a plná hvězd. Připomnělo mi to Jizerky.
 
 ### 27.8. Do Vláďova kraje
 
-Ráno zase pršelo. Tentokrát jsem ale namokl. Byl jsem totiž ve skopci a v noci jsem se kvůli totmu sesunul do rohu stanu a opíral se tak o celtu. Počasí říkalo, že dopoledne pršet prostě bude. Jestli přestane tak až někdy odpoledne. Sbalil jsem tak věci ve stanu, posnídal ovesnou kaši a pak sbalil i stan. Moje velká žlutá pláštěnka mě ale držela v suchu. To bylo fajn.<br>
+Ráno zase pršelo. Tentokrát jsem ale namokl. Byl jsem totiž ve skopci a v noci jsem se kvůli tomu sesunul do rohu stanu a opíral se tak o celtu. Počasí říkalo, že dopoledne pršet prostě bude. Jestli přestane tak až někdy odpoledne. Sbalil jsem tak věci ve stanu, posnídal ovesnou kaši a pak sbalil i stan. Moje velká žlutá pláštěnka mě ale držela v suchu. To bylo fajn.<br>
 Řeka začala nabírat charakter Berounky. Před jezy se hromadil olej. Byly velké a některé nesjízdné. Ty bez lebky jsem sice na rozdíl od ostatních sjel, ale měli jsme prostě jet vyšší úsek.<br>
-Réba toužila po kafi a polévce. Jednou jsme tak zastavili před jezem u nějaké hospody ale bez úspěchu. Měli zavřeno. Dočkala se tak až v kempu ve Střeleckých Hošticích. Tam bylo živo. Před deštěm se schovávali snad všichni vodáci z předchozího dne. A vlastně jsme měli štěstí. Když jsme si sedli na.
+Réba toužila po kafi a polévce. Jednou jsme tak zastavili před jezem u nějaké hospody ale bez úspěchu. Měli zavřeno. Dočkala se tak až v kempu ve Střeleckých Hošticích. Tam bylo živo. Před deštěm se schovávali snad všichni vodáci z předchozího dne. A vlastně jsme měli štěstí. Když jsme si sedli k nápojům, začalo chcát naplno.<br>
+Přečkali jsme déšť, dopili piva a kafe, doplnili vody a vrátili se k lodím.<br>
+Hned za kempem byl jez. Nebo spíš takový pád. Ale šlo to. I další jez v Horním Poříčí byl v pohodě. V Dolním Poříčí, ale mapy varovaly před poškozením lodi. Aby taky ne. Za šlajsnou byl železobetonový schod. Svedl jsem loď na laně šlajsnou, ostatní jí přenášeli kolem.<br>
+No a pak už jsme dojeli do Katovic. Záznam trasy mám [tady](https://www.strava.com/activities/9729963368)
 
 <a href="../images/2023_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/27_1.jpg"></a>
 
+Asi protože už jsme nebyli na vodě, déšť ustal.<br>
+Na místě pro odevzdávání lodí nikdo nebyl. Zavolali jsme jim a dozvěděli se, že je máme očištěné opřít o plot. To jsme provedli, převlékli se, dojedli zbytky jídla, které se nám nechtěli tahat zpátky a naskládali se do Vildovi feldy. Pro kterou Marťa došla a přijela nám vstříc.<br>
+Dojeli jsme na náměstí v Blatné. Blatná maličko připomíná Jindřichův Hradec. Minimálně tím náměstím, které má za rohem druhé náměstí. A taky těmi podniky. Réba vybrala nějakou prvorepublikovou kavárnu. Upřímně mě na meníčku zaujala jediná věc. Houbová polévka. A poslední kterou měli, si objednal Ondra. Alkohol jsem taky nepil a hlad na velký brunch, který si dávali ostatní jsem taky neměl. A tak jsem si objednal jednoho nealko bernarda.<br>
+Jak obrazy, tak vybavení podniku ve mi přišlo úplně zbytečné. Ale Rébě to tam zlepšilo den. Vyprávěla o zážitcích z podobných míst se ségrou. A z Vídně. Moc jsem jí neposlouchal a přemýšlel o Míše.<br>
+
 <a href="../images/2023_august/27_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/27_2.jpg"></a>
+
+Cesta autem do Prahy byla zajímavá. Marťa vybírala hudbu a Vilda řídil. Musím říct, že řídí velmi bezpečně, ale zároveň velmi živě. Možná to umocňovala ta Fabie, ve který 90 působí jak 160. Ale kdybych na vodě pil, v autě bych blil.<br>
+Rébu s Ondrou jsme vyhodili na Břevnově. Psal jsem Mišce:
+
+> Jedeme přes Břevnov. Kdyby nepršelo, neměl bych mrtě krámu a nesmrděl bych, asi bych ti šel házet kamínky do oken. Ale sprcha first.
+
+Prý by to ocenila, ale chápe 😄<br>
+Dal jsem vodu bez alkoholu a užil si to. Měl jsem ze sebe radost.
 
 ### 28.8. Ohnivá Čaša
 
-do knihovny<br>
-buď kartičku na lepší piáno, nebo sluchátka na klapky v dětské zóně<br>
-jiný plán<br>
-šachy v kavárně, nemají, pán poradil, bez kartičky to nejde, ale pán nás pustil<br>
-her trilión<br>
-našel jsem krabici schach.
+Náš seznam obsahoval položku:
+
+- [ ] Opět jít hrát na piano
+
+V městské knihovně mají piáno, vzpomněl jsem si. A tak jsme vyrazili po práci na Mariánské náměstí. Jel jsem na kole, takže jsem tam byl první. Zrovna když jsem zamykal kolo ke stojanu, rozpršelo se a tak jsme vyrazil rovnou dovnitř.<br>
+Paní v hudebním koutku mě informovala, že buď musím mít knihovní kartičku, která mi zajistí přístup k lepšímu piánu, nebo svoje sluchátka na klapky v dětské zóně. Šel jsem se podívat do té dětské zóny. Byla to docela fér Yamaha. Zrovna, když jsem zjišťoval, jak připojit sluchátka dvoje, přišla Miška. Ve svým fjällräven svetru. A se svým krásným úsměvem. Ale drátová sluchátka jsme neměli. Mohli jsme zajet do Karlína, vzít si moje náhlavní a půjčit si Ivanovy, ale za prvé by nám to sebralo spoustu času a za druhé se to Mišce zdálo divný.<br>
+Bylo třeba vymyslet jiný plán. Co šachy? Ty by v dole v kavárně mohly mít. Neměli. Ale pán nám tam poradil, že naproti kavárně je herna. Byla, ale taky chtěli kartičku. Možná nám pán ale viděl smutek v očích, nebo to bylo tím, že herna byla úplně prázdná, ale řekl, že do sedmi tam můžeme být. Šachy ale nevěděl jestli má.<br>
+Poděkovali jsme a dali se do hledání. Deskovek tam byl trilión. Skoro jsme to vzdali, když tu mé oko spatřilo nápis SCHACH.<br>
+To zní dost jako šach. A vskutku to byly šachy.
 
 <a href="../images/2023_august/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/28_1.jpg"></a>
 
-dvě partie
+Stihli jsme dvě partie než odbyla sedmá. Z knihovny jsme šli k Mišce. Kolo jsem vedl v ruce. Pršelo a byla zima. Ideální podmínky k tomu dát si zmrzlinu. Alespoň v Miščině světě.<br>
+Na Karláku jsme se zastavili v Albertu. Miška nakupovala věci na kotlik a já venku hlídal kolo a telefonoval s mámou.
 
 <a href="../images/2023_august/28_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/28_2.jpg"></a>
 
-z knihovny k mišce s kolem v ruce<br>
-pršelo tak jsme si dali zmrzlinu<br>
-v albertu věci na kotlik<br>
-přes jiráskův most, pod památným stromem, malou zoo, sacrecour až k ní<br>
-terka vařila, tak jsme připravili film<br>
-ohnivý pohár je ohnivá čaša<br>
-vaření kotlíku a film<br>
-konec filmu ruku v ruce<br>
-domů v pěkný kose<br>
+Pěšky jsme prošli přes Jiráskův most. Pod památným stromem, který mám rád a Miška pod ním nikdy nešla. Skrz malou zoo nad OCčkem a skrz park Sacre Coeur až k ní.<br>
+Terka zrovna vařila a tak jsme si napřed připravili film. Ohnivý pohár je slovensky Ohnivá čaša 🤦‍♂️.<br>
+Kotlik je takový guláš. Hodně věcí se pokrájí a nacpe do kotliku. Uvařili jsme to, přenesli do pokoje, pustili film a u toho jedli. Byl to moc dobrý.<br>
+Na konci filmu jsme se drželi za ruce. Je to první Harry co je na konci strašidelnej. Ale tím to asi nebylo.<br>
+Jízda domů na kole byla mrazivá. Déšť a zima na rukou mi připomínaly Pyreneje.<br>
+Před spaním jsme si ještě chvíli psali.
 
 ### 29.8. Odstávka od akce
 
-Miška šla s Ondrou a Ivou do divadla a já jsem si řekl že budu doma dopisovat deník a prát. Moc jsem tomu nedal. Cítíl jsem že se toho děje moc a že už jsem toho nezapsal tolik, že to prostě nedokážu zachytit. Popadla mě úplná paralýza a tak jsem se radši válel na gauči a koukal na novou Futuramu.
+Je škoda, že mezi jednou a sedmou ráno není osm hodin. Život by byl jednodušší. I v těch necelých šesti hodinách jsem se ale prý dostal do Míšiných snů. Prý běhala venku v plné poní, nějaký voják na ní střílel a já jí pak utíral slzy. Co to znamená nevím. Ale zajímavý mi to přišlo.<br>
+Po práci jsme se ale tentokrát neviděli. Miška šla s Ondrou a Ivou do divadla a já jsem si řekl že budu doma dopisovat deník a prát. Moc jsem tomu nedal. Cítil jsem že se toho děje moc a že už jsem toho nezapsal tolik, že to prostě nedokážu zachytit. Popadla mě úplná paralýza a tak jsem se radši válel na gauči a koukal na novou Futuramu.
 
 ### 30.8. Klapky a knedlíčky
 
