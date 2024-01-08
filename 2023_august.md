@@ -79,9 +79,9 @@ V kině točili nové pivo. Kinopivo. Začalo letně, končilo hutně.
 Marťa mi vyprávěla o workshopu, který s Vildou navštívili. Asi se o tom nebudu rozepisovat, neb mě až tak nepřekvapovalo, že to je jejich šálek kávy. Někoho by ale mohlo.<br>
 Po asi hodině se k nám přidala Sára. Přišla z All hands meetingu, kde měla nejméně šest drinků a bylo to na ní vidět. Víc než na film by pokračovala v popíjení.Ondra nedal vědět jestli Réba dorazí, ale přišli oba skoro naráz.<br>
 [Film s Clooneym a J Lo](https://www.csfd.cz/film/8565-zakazane-ovoce) mi přišel průměrný. Asi na romantické komedie úplně nejsem. Navíc mi přijde, že všechny jeho role jsou úplně stejné. Ale potěšil mě Luis Guzmán.<br>
-Dali jsme ještě pivko. Jedno s ostatními, na další jsem zbyli už jen já s Sára. Se Sárou máme něco společnýho. Naše rodiny nejsou úplně funkční a do společnosti kde jsme, jsme se dostali protože jsme chtěli, ne protože bychom se tak narodili. Sára se teda vyhrabala ještě z mnohem většího bláta než já. Moje máma není alkoholička a svýho tátu znám. Ale to že jsme funkční rodina si prostě nepamatuju. Existují fotky z dob, kdy mi bylo pět, ale od tý doby to šlo z kopce. Byli jsme tam až do zavíračky. Když barmanka zvedala židle na stoly, bylo na ní vidět, že chce abychom už vypadli.<br>
-A tak jsme šli. Přes parukářku a přes Žižkov, kde bylo všechno zavřený. Děcka už po večerech nepijou pivo. Jsou asi doma a pijou čaj z kratomu nebo já nevím.<br>
-Došli jsme až skoro k nám do kafé v lese. Tam sic bylo otevřeno, ale rozhodně to tam mělo mouchy. Pivo točil barman roky, ven nás se sklem nepustili a uvnitř bylo horko. Sedli jsme si dozadu, kde to bylo o něco míň příšerný.<br>
+Dali jsme ještě pivko. Jedno s ostatními, na další jsem zbyli už jen já s Sára. Se Sárou máme něco společného. Naše rodiny nejsou úplně funkční a do společnosti kde jsme, jsme se dostali protože jsme chtěli, ne protože bychom se tak narodili. Sára se teda vyhrabala ještě z mnohem většího bláta než já. Moje máma není alkoholička a svýho tátu znám. Ale to že jsme funkční rodina si prostě nepamatuju. Existují fotky z dob, kdy mi bylo pět, ale od tý doby to šlo z kopce. Byli jsme tam až do zavíračky. Když barmanka zvedala židle na stoly, bylo na ní vidět, že chce abychom už vypadli.<br>
+A tak jsme šli. Přes parukářku a přes Žižkov, kde bylo všechno zavřený. Děcka už po večerech nepijí pivo. Jsou asi doma a pijí čaj z kratomu nebo já nevím.<br>
+Došli jsme až skoro k nám do Café v lese. Tam sic bylo otevřeno, ale rozhodně to tam mělo mouchy. Pivo točil barman roky, ven nás se sklem nepustili a uvnitř bylo horko. Sedli jsme si dozadu, kde to bylo o něco míň příšerný.<br>
 Sára se vyptávala se na Míšu. Asi bylo jasný, že spolu trávíme hodně času. A já jsem o ní dost mluvil. Aby ne. Zaujímala v mém životě čím dál větší místo. A mě to hřálo u srdíčka.<br>
 Chvíli po tom co odbila druhá ranní, jsme vyrazili domů, protože na další pivo už jsme se necítili.
 
@@ -98,7 +98,7 @@ Docela mrtvej jsem jel po práci rovnou domů. S Míšou jsme naplánovali pikni
 
 <a href="../images/2023_august/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/3_1.jpg"></a>
 
-V záchvatu náhodného koření jsem do použil skořici. Bylo to až absurdně dobrý.
+V záchvatu náhodného kořenění jsem do použil skořici. Bylo to až absurdně dobrý.
 
 ### 4.8. Mít Radost
 
@@ -107,7 +107,7 @@ Dělník mi ráno rozvrtal zeď na záchodě. Dospěl jsem k názoru že to zvl�
 <a href="../images/2023_august/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/4_1.jpg"></a>
 
 Když jsem se vrátil, dělník byl fuč. Pan Kepka klíče neměl a paní Sojková taky ne. Nakonec se ale ukázalo, že dělník si šel dát domů sprchu, protože hledání problému se ukázalo jako náročnější operace, než původně čekal.<br>
-Protože já měl v plánu odjet na Radostín, doluvili jsme se, že mi klíče vrátí v neděli v pět.<br>
+Protože já měl v plánu odjet na Radostín, domluvili jsme se, že mi klíče vrátí v neděli v pět.<br>
 Sbalil jsem věci, spacák a stan a vyrazil s mírným zpožděním za Sárou.<br>
 Moje zpoždění bylo skutečně mírné oproti Ondrovi s Rébou. Ti napřed vymýšleli, že je nabereme někde v Michli. Protože bydlí na Břevnově a my ve Vršovicích? Inu.. nakonec naštěstí dojeli za námi.<br>
 Auto bylo plný k prasknutí. Kora jela se mnou vzadu. Cesta to byla komická. Zastávka na Shellce, kde se muselo platit vydala za samotnou historku, kterou Réba ráda vypráví.<br>
@@ -496,52 +496,45 @@ Po práci jsme měli naplánovanou strategickou poradu ohledně vody. Pro velké
 Réba s Ondrou šli do jezera plavat. Z Jardy nevypadlo skoro nic ohledně měsíce stráveného na Havaji. A co do vody jsme dohodli akorát to, že asi bude chcát a že pojedeme busem a pak dvěma vlaky, protože to je nejrychlejší.<br>
 Při loučení jsme potkali katalpu a Ondra říkal, že by se jim hodila na balkon. Slíbil jsem, že nějakou táta dodá. A pak jsem vyrazil sešupem dolů a jako vždy se dole vyklepal na kostkách.
 
-### 22.8. Krajem zlých lidí
+### 22.8. [Krajem zlých lidí](https://www.strava.com/activities/9700638946)
 
-po práci s frantou na kolo<br>
-doi kralup a zpět<br>
-most u doku zavřený<br>
-jezdí rychle<br>
-po správné straně<br>
-stoupák<br>
-vre vesnici jsme prý kokoti nesmírní<br>
-asi se pohádali<br>
-sjezd skrz vodochody<br>
-paní v kralupech další problém
+Cyklo vyjížďka s Frantou měla úspěch. Rozhodli jsme se, že na ní navážeme dalšícm výletem. Tentokrát plánoval on a vymyslel cestu podél Vltavy do Kralup a zpátky. Proč ne?<br>
+Vyzvedl mě v Karlíně a vydali jsme se k řece.<br>
+První zrada na nás přišla v Holešovicích. Most u Docku byl zavřený. Naštěstí to šlo objet přes Dock samotný.<br>
+Franta jezdí rychleji než já. Všichni vlastně jezdí rychleji než já. Ale Franta jezdí fakt rychle.<br>
+Jeli jsme podél zoo, planet a změně asfaltu na polňačku jsme se vyhnuli výšlapem do Klecan. Lidé v Klecanech asi mají těžký životy. Když jsme silnicí bez aut jeli vedle sebe, pán nás stihl informovat o tom, že jsme prý kokoti nesmírní. Ze stejné parcely jak byl pán pak vyjížděla paní v autě a troubila na nás, i když jsme jí nijak neblokovali cestu. Z okýnka na nás jště něco křičela, ale už nevím co to bylo. Dospěl jsem k názoru, že se zřejmě pohádali a potřebovali si zlost vylít na někom jiném.<br>
+Sjezd z kopce ve Vodochodech byl parádní. Ještě jsem tudy nejel a pozvolný skopec lesem s potůčkem chvíli nalevo, chvíli napravo mě nadchl.<br>
+V Kralupech s námi měla problém nějaká další paní. Ta k tomu alespoň měla jakýsi důvod. Jeli jsme na straně mostu, kde byly piktogramy chodců. Jenže ona šla pěšky po straně, kdy byly piktogramy kol.
 
 <a href="../images/2023_august/22_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/22_1.jpg"></a>
 
-bojí se tmy bez blikaček<br>
-krásný západ slunka
+Po výjezdu do kopce z Kralup ven jsem si utrhl ze stromu pár jablek. Svačinu jsem s sebou neměl a pití naneštěstí taky ne. Jablíčka mi ale pomohla.<br>
+Stíny se prodlužovaly a Franta neměl žádná světla. Do Prahy to bylo ještě dobrých třicet a tak jsme šlápli do pedálů. Západ slunka před Úněticemi byl impozantní. Hrála mi u toho v hlavě hudba ze Lvího krále, protože sklizené pole ve mně evokovalo Safari.
 
 <a href="../images/2023_august/22_2.jpg" target="_blank"><img src="../images/thumbnails/2023_august/22_2.jpg"></a>
 
-sjezd do unetic a pak ten ze suchdola<br>
-v karlíně se dělíme<br>
+I do Únětic je parádní sjezd. Škoda že si ho člověk musí zase vyjet nahoru. Ale to mu zas nabídne sjezd ze Suchdola. Inu na to že jsme jeli podél řeky, jsme toho nastoupali randál.<br>
+Chtěl jsem si v Karlíně vyzvednout laptop. Před kanclem jsme se rozdělili. Já jsem se konečně pořádně napil a pak už klidným tempem dojel do Vršek.
 
 ### 23.8. Jahody a Šotoušství
 
+Už na cestě do Kralup jsem si všiml, že v kole něco rachtá. Cestou do práce mi to přišlo ještě znatelnější. V Karlíně jsem si pořádně prohlídnul řetěz a objevil, že už pár dní mám štěstí, protože jedna strana jednoho článku byla úplně roznýtovaná.
+
 <a href="../images/2023_august/23_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/23_1.jpg"></a>
 
-áďa přišla s jiskrou v oku že ví co hezkého se jí stalo - houby bez červů od nymburka<br>
-hoří jako když se pálí guláš<br>
-ivan plánuje bežět asi 17 km<br>
-já po chvili jedu stejným směrem<br>
-v globusu kuskus a potom cizrovné čipsy, dýňový semínka a nealko radler<br>
-potkal jsem toma s terkou<br>
-do kina<br>
-film debilní<br>
-pro kolo a skrz centrum<br>
-do hokejky<br>
-jeden birel venku, druhý uvnitř<br>
-povádají o dovolené v řecku a o šotoušství<br>
-docela jsme se zasmáli<br>
-vyptávali se na mišku<br>
-zpátky docela zima<br>
+Když jsem si vařil kafe, přišla Áďa s jiskrou v oku. Prý tentokrát měla odpověď na mou nevyřčenou otázku. Věděla co hezkého se jí stalo za dobu co jsme se neviděli. Nasbítala soustu hub bez červů na výletě u Nymburka.<br>
+Houby ale nepřinesla. Zato přinesla košík plný jahod, protože v Karlíku je prý prodával Vietnamec úplně zadarmo.<br>
+Někdy kolem poledne můj nos zaregistroval, že se něco pálí. Přirozeně jsem se šel podívat na tiskárny a informoval o tom Ivana slovy. Na tiskárnách se něco pálí a smrdí to jak když se pálí guláš.<br>
+Po chvíli investigování jsme ale našli vedle DJe se sluchátky v uších, pořádajícího guláš ze své krabičky. Trochu se ho dotklo, když se dozvěděl, že hledáme zdroj spáleného odéru.<br>
+Večer mě čekla ČSFD projekce. Byl to nový [film Liama Neesona](https://www.csfd.cz/film/1105857-jizda-smrti/). Ivan plánoval uběhnout asi 17 kilometr někam za Čerňák, kde parkoval a tak jsme po práci měli část cesty společnou.<br>
+V globusu v restauraci jsem si dal k večeři kuskus se zeleninou a nahoře v krámu, jako pochutinu k filmu, cizrnové chipsy, dýňová semínka a nealko radler. Během nákupu jsem potkal Toma s Terkou. Do kina jsme tak šli společně.<br>
+Film byl dle předpokladu debilní. Domluvili jsme se ale, že půjdeme po filmu na pivo do hospody, která se jmenuje hokejka.<br>
+Točili grepového Birella. Jednoho jsem si dal venku, na druhý nás poslaly dovnitř, že prý zahrádka končí. Vyprávěli mi o dovolené v řecku. Z nějakého důvodu jsme se taky bavili o šotoušství a nakonec se mě vyptávali na Mišku.<br>
+Cesta na kole zpátky do Vršovic byla poměrně ledová. Ale bylo to milý posezení, tak jsem to moc nevnímal.
 
 ### 24.8. Se zmrzlým přívěškem
 
-Jet ráno do Malaešic stenou cestou jako jsem večer jel z Čerňáku mi přišlo trochu absurdní. Ale slíbil jsem rozchodit tester a sliby je třeba plnit. Až ráno mi ale došlo, že jsem si měl vzít laptop. Na Čerňák se mi ale tahat nechtěl. Řekl jsem si, že to musí vyjít na první dobrou.<br>
+Jet ráno do Malešic stenou cestou jako jsem večer jel z Čerňáku mi přišlo trochu absurdní. Ale slíbil jsem rozchodit tester a sliby je třeba plnit. Až ráno mi ale došlo, že jsem si měl vzít laptop. Na Čerňák se mi ale tahat nechtěl. Řekl jsem si, že to musí vyjít na první dobrou.<br>
 U brány mi došlo, že nemám nejen laptop, ale ani klíče. Kluci naštěstí slyšeli moje klepání. Kluci, myšleno Omar a Šťépa. Ostatní měli dovolenou. O dovolených se Štěpán i rozpovídal. Plánoval vyrazit s rodinou do Turecka do resortu. Nic pro mně ale jemu jsem to přál. Naposledy se vrátil nadšený.<br>
 Na první dobrou to nevyšlo. Tester při připojování na WiFi vyžadoval pin k WPS. Vlastně jsem měl vědět, že se to stane. Issue na to v GitHubu viselo dost dlouho. Bez laptopu jsem s tím ale stěží mohl pohnout. Dostavil jsem pákostroj, ukázal Omarovi jak ho používat a vyrazil na kole do Karlína.<br>
 Jel jsem přes Malešický park, který jsme plánovali navštívit s Miškou. Kvůli obřím houpačkám pochopitelně.<br>
