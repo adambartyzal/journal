@@ -2,18 +2,21 @@
 
 ## [Leden](2024.md) 
 
-- [1.1. Bez kocoviny](#11-bez-kocoviny)
-- [2.1. Zpět do víru všedních dní](#21-zpět-do-víru-všedních-dní)
-- [3.1. Rok naslepo](#31-rok-naslepo)
-- [4.1. Doma](#41-doma)
-- [5.1. Býti pekařem](#51-býti-pekařem)
-- [6.1. Na špatnou stranu](#61-na-špatnou-stranu)
+- [1.1. Střízlivý](#11-střízlivý)
+- [2.1. Pracovní](#21-pracovní)
+- [3.1. Konzistentní](#31-konzistentní)
+- [4.1. Uklizený](#41-uklizený)
+- [5.1. Úspěšný](#51-úspěšný)
+- [6.1. Unáhlený](#61-unáhlený)
 - [7.1. Nevyspalý](#71-nevyspalý)
 - [8.1. Nemocný](#81-nemocný)
 - [9.1. Přemluvený](#91-přemluvený)
 - [10.1. Překvapený](#101-překvapený)
+- [11.1. Naštvaný](#111-naštvaný)
+- [12.1. Zapomnětlivý](#121-zapomnětlivý)
+- [13.1. Vděčný](#131-vděčný)
 
-### 1.1. Bez kocoviny
+### 1.1. Střízlivý
 
 I na nový rok jsem se vzbudil dřív než ostatní. Pustil jsem se do čtení [Outlive](https://www.goodreads.com/book/show/61153739-outlive). Pak jsem si ale řekl, že ráno je ideální doba k zápisu dní minulých a protože jsem si vzal zápisník, který mi Miška dala k vánocům, mohl jsem si udělat draft.
 
@@ -30,7 +33,7 @@ Na nájezdu na dálnici za námi jela Fipova mamka. Nováčkovic zřejmě dominu
 Domů jsem šel pěšky. Byl to prosluněný jarní den. Akorát to slunce zalezlo ve čtyři. Už bylo načase aby se dny prodloužily.<br>
 Uvařil jsem těstoviny s pestem a vrátil se ke knížce.
 
-### 2.1. Zpět do víru všedních dní
+### 2.1. Pracovní
 
 Nevstal jsem pár vteřin po tom, co mi zabzučel budík jak jsem si to večer naplánoval. Odložil jsem ho. A to hned dvakrát. Fakt se mi nechtělo z peřin ven. Nakonec jsem šel do sprchy někdy kolem půl. A ž domu se dostal až po osmé. Alespoň jsem ale vynesl plechy a tetrapaky. Začínaly už smrdět.<br>
 Poprchávalo. Šel jsem pěšky a poslouchal muziku. Někdy kousek před tunelem mi miška poslala obrázky z jejich denního hiku s Adrienem. Prý se jí po mně stýskalo trochu víc než obvykle. V myšlenkách jsem jí objal a olízl jí nos. Prý to chtěla udělat ona, ale já jsem byl rychlejší.<br>
@@ -41,7 +44,7 @@ Malinu jsem přenesl domů. Nakrmil jí pšeničnou moukou, byť možná byla ž
 
 <a href="../images/2024_january/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/2_1.jpg"></a>
 
-### 3.1. Rok naslepo
+### 3.1. Konzistentní
 
 Tentokrát jsem to dokázal. Tři minuty po sedmé už jsem byl na nohou a postel byla ustlaná. Cvičení a snídaně mi sice zabraly pořád skoro hodinu, ale byl to lépe využitý čas.<br>
 Cesta přes Vinohrady byla tentokrát příjemnější. Chytil jsem zlatou hodinku.
@@ -54,7 +57,7 @@ Večer bylo aero naslepo. Pro nás výroční. Opět jsem vyrazil pěšky s kní
 V kinu byl náprask. Film byl taková nezvyklá komedie s Edwardem Nortonem a Robinem Williamsem. [Death to Smoochy](https://www.csfd.cz/film/2365-smoochy/prehled/). Bylo to hodně vtipný. Réba to dokonce označila za nejlepší film zatím.<br>
 I zpátky jsem šel pěšky. Nakonec jsem ušel 28973 kroků. Byl to hodně chodící den.
 
-### 4.1. Doma
+### 4.1. Uklizený
 
 Motivace pracovat doma je nízká. Fíla ale psal, že má nějaký potíže s testerem, a tak jsem mu dělal podporu. Taky jsem se vrhl na aktualizaci manuálů. Natáčení modelu v eDrawings se ukázalo jako práce na celý den.<br>
 Bez hladového Vláďi jsem skoro zapomněl jíst. Otočil jsem se tedy v lidlu a spíchl si na pánvi zeleninu s tofu a k tomu rýži s čočkou.<br>
@@ -63,7 +66,7 @@ Rozhodl jsem se použít Malinu. Shlédl jsem pár videí jak udělat chleba. By
 Před spaním jsem se podíval na první díl [Blue Eye Samurai](https://www.csfd.cz/film/1424395-modrooky-samuraj). Zarazilo mě, jak moc krve a násilí v tom je. Čekal jsem víc pohádku.<br>
 A pak jsem usnul u knížky.
 
-### 5.1. Býti pekařem
+### 5.1. Úspěšný
 
 V noci jsem se ale budil. Nebylo to žádnými sny. Prostě jsem jen tu a tam otevřel oči a pak zas usnul. Hodinky si toho ani nevšimly. Ale rozhodně jsem byl párkrát vzhůru.<br>
 Chleba nakynul. Asi ne tak moc jak by mohl, ale rozhodně byl bochánek těsta větší než večer.
@@ -87,7 +90,7 @@ Napsal jsem své poznatky Vojtovi, sbalil si věci na plavání do batůžku, na
 Uplaval jsem jen asi 700m kvůli pólu a skokům. Točit se mi mezi dvěma sítěmi nechtělo.<br>
 I zpátky jsem bežel. Dohromady to bylo osm a půl. Povečeřel jsem salát, zkoukl drýhý díl Samuraje a usnul.
 
-### 6.1. Na špatnou stranu
+### 6.1. Unáhlený
 
 Už zase jsem se budil. Možná víc než den zpátky. Trochu jsem doufal, že to přejde, neb den zpátky jsem neměl proteinový izolát. Ale je pravda, že před spaním jsem koukal na seriál a snědl randál salátu.<br>
 Z běhání jsem se cítil zbouraný. Rozhodl jsem se to minimalizovat pořádnou jógou. Dal jsem se do hodinové sekce s Adrienne.<br>
@@ -152,10 +155,44 @@ Ve zbytku dne jsem upravoval manuál na výrobu totemu. Obrázky jen z obrysů v
 
 Zabavilo mě to tolik, že jsem přetáhl pracovní dobu asi o 2 hodiny. A vlastně se v css hrabal ještě doma po tom co jsem se vrátil opět vlakem. Vychytával jsem mouchy toho, jak se řadí text před obrázky.<br>
 
-<!--
-### 12.1.
+### 11.1. Naštvaný
 
-### 13.1.
+Lenky se vrátily ze slovenska. Venku byla zima a já měl jet na kole do Malšic. Rozhodl jsem se pro ně dojít. Mobil byl ale téměř prázdný. Opsal jsem si tak číslo zásilky a heslo pro výdej do deníku a vyrazil na nádraží. Pán v trafice po mě chtěl pouze heslo. To, které jsem si napsal nefungovalo. Podle čísla zásilky jsme ale zjistili, že krabice tam opravdu je. Nakonec mi jí vydal, když jsem mu řekl jak se jmenuji. Byl to fajn chlap, což mě potěšilo.<br>
+Boty mě ale potěšily o poznání méně. Nový zip do nich byl všitý hnusně. A bylo vidět, že se rozbije znova. Rozhodl jsem se, že je obratem vrátím. Tolik peněz, tolik trápení se s reklamací, fakt že je zima a já nemám zimní boty. To všechno mě sralo. Už před osmou ranní.<br>
+V pohorách s podvlíkačkami jsem na kole vyrazil do Malešic. Box opravdu nefungoval. Mohl za to vadný Node. Jenže ještě dva měsíce zpátky vadný nebyl. ŘEkl jsem si, že by bylo fajn zjistit, proč tomu tak bylo. Lehké investigování mě ale nečekalo.<br>
+K obědu jsem si dal Tarhoňu v TTC jídelně. Miška se vrátila z Millford Sounds a byla nadšená. Ale taky unavená a šla spát po pár zprávách.<br>
+Já jel přes Malešický park. Chtěl jsem si ho vyfotit v chladném lednu, ale umřel mi mobil. Alespoň jsem si objel jeden okruh na Třebešínském velodromu.<br>
+V Kalíně jsem řešil co je s CBN a měl jsem raketu otázek na Vláďu ohledně nové baterie. Myslím, že rozumím schématu i protokolu, který pro ní vyvíjí. Narozdíl od některých produktů, které máme, z nové baterie jsem měl dobrý pocit.<br>
+Po obědové kafe jsem namlel na 17 kliknutí. Už nechutnalo jako jar. Vlastně bylo mega dobré.
+V půl páté přišel Vojta. Přinesl tester a chtěl se dohodnout na budoucnosti Vektivy. Jedna z možností bylo hodně vývoje a já jako jednatel společnosti. To na mě bylo velký sousto a já to nezavrhl. Ale rozhodli jsme se, že začneme tím testerem.<br>
+Večer jsem ještě zůstal v Karlíně. Řešil jsem příspěvek na bydlení. Minulá žádost byla blbě, proto mi asi nic nepřišlo. Ale nikdo si taky na nic nestěžoval.<br>
+Nakonec jsem byl v Karlíně do devíti a to bez jídla. Jíst takhle navečer už ale nemělo smysl. Přijel ale Kendy a tak jsem si během povídání si s ním dal alespoň Jablko.
+
+### 12.1. Zapomnětlivý
+
+K snídani jablko<br>
+Přes Vinohrady<br>
+Do krámu se mi nechtělo<br>
+Dál v CBN<br>
+Do indie na špenát<br>
+Víc osciloskopu<br>
+debata o dronech do asi šesti<br>
+rovnou domů<br>
+na nákup pěšky<br>
+tortily a puding<br>
+road to perdition<br>
+
+### 13.1. Vděčný
+
+Jít spát v 10 zdá se funguje. I přesto, že jsem jedl ještě v devět a nechladil jsem se sprchou před spaním, daly mi hodinky 90 bodů ze sta. Je ale pravda, že posledních pár dní bylo v bytě asi 17 stupňů a to spánku pomáhá.<br>
+Probudil jsem se s pocitem, že dnešek je den, kdy uběhnu desítku. Po asi hodině válení a půl hodině protahování jsem se do toho pustil. Podél Botiče k Hamru, okolo rybníka a zpátky. Na klid. Tempo 6:31. Doma na schodech jsem se ještě doprotáhl, doma si dal ledovou sprchu, abych podpořil regeneraci.<br>
+Rozhodl jsem se, že můj mlýnek se bude jmenovat James. V Jamesovi jsem namlel decaf a chvilku jsme si psal s Míšou, než šla spát. Pak jsem si pustil podcast Meteor, který mi doporučila Máma. Mluvili tam o senescentních buňkách. V podstatě o buňkách, které způsobují stáří. Prý začínají existovat nějaké elixíry mládí, které tyhle buňky vyplavují z těla pryč. Přišlo mi to jako fantastní zkratka. Napsal jsme mámě, že elixíry člověka nespasí. Že správnej způsob, jak se zbavit umírajících buněk, je jíst zdravě, cvičit a dobře spát. Protože tak funguje mTor a autofágie. Ležet na gauči, dlabat sladký a k tomu si dát sebelepší pilule je cesta do hrobu.<br>
+Pak jsem se vrhl do oběda. Nejsem velkej kuchař, a tak jsem měl těstoviny s omáčkou. Obojí jsem udělal asi za 10 minut, ale bylo to ze zdravých a barevných surovin, takže jsem na sebe byl pyšnej.<br>
+Po obědě jsem si pustil film [Barbie](https://www.csfd.cz/film/300589-barbie). Byla to kokotina. Ale vlastně mě bavila o mnoho víc, než film předešlý večer.
+
+
+
+<!--
 
 ### 14.1.
 
