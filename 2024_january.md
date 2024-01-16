@@ -5,7 +5,7 @@
 - [1.1. Střízlivý](#11-střízlivý)
 - [2.1. Pracovní](#21-pracovní)
 - [3.1. Konzistentní](#31-konzistentní)
-- [4.1. Uklizený](#41-uklizený)
+- [4.1. Odsunutý](#41-odsunutý)
 - [5.1. Úspěšný](#51-úspěšný)
 - [6.1. Unáhlený](#61-unáhlený)
 - [7.1. Nevyspalý](#71-nevyspalý)
@@ -15,6 +15,9 @@
 - [11.1. Naštvaný](#111-naštvaný)
 - [12.1. Zapomnětlivý](#121-zapomnětlivý)
 - [13.1. Vděčný](#131-vděčný)
+- [14.1. Hýřivý](#141-hýřivý)
+- [15.1. Spící](#151-spící)
+- [16.1.](#161)
 
 ### 1.1. Střízlivý
 
@@ -57,7 +60,7 @@ Večer bylo aero naslepo. Pro nás výroční. Opět jsem vyrazil pěšky s kní
 V kinu byl náprask. Film byl taková nezvyklá komedie s Edwardem Nortonem a Robinem Williamsem. [Death to Smoochy](https://www.csfd.cz/film/2365-smoochy/prehled/). Bylo to hodně vtipný. Réba to dokonce označila za nejlepší film zatím.<br>
 I zpátky jsem šel pěšky. Nakonec jsem ušel 28973 kroků. Byl to hodně chodící den.
 
-### 4.1. Uklizený
+### 4.1. Odsunutý
 
 Motivace pracovat doma je nízká. Fíla ale psal, že má nějaký potíže s testerem, a tak jsem mu dělal podporu. Taky jsem se vrhl na aktualizaci manuálů. Natáčení modelu v eDrawings se ukázalo jako práce na celý den.<br>
 Bez hladového Vláďi jsem skoro zapomněl jíst. Otočil jsem se tedy v lidlu a spíchl si na pánvi zeleninu s tofu a k tomu rýži s čočkou.<br>
@@ -163,7 +166,7 @@ V pohorách s podvlíkačkami jsem na kole vyrazil do Malešic. Box opravdu nefu
 K obědu jsem si dal Tarhoňu v TTC jídelně. Miška se vrátila z Millford Sounds a byla nadšená. Ale taky unavená a šla spát po pár zprávách.<br>
 Já jel přes Malešický park. Chtěl jsem si ho vyfotit v chladném lednu, ale umřel mi mobil. Alespoň jsem si objel jeden okruh na Třebešínském velodromu.<br>
 V Kalíně jsem řešil co je s CBN a měl jsem raketu otázek na Vláďu ohledně nové baterie. Myslím, že rozumím schématu i protokolu, který pro ní vyvíjí. Narozdíl od některých produktů, které máme, z nové baterie jsem měl dobrý pocit.<br>
-Po obědové kafe jsem namlel na 17 kliknutí. Už nechutnalo jako jar. Vlastně bylo mega dobré.
+Po obědové kafe jsem namlel na 17 kliknutí. Už nechutnalo jako jar. Vlastně bylo mega dobré.<br>
 V půl páté přišel Vojta. Přinesl tester a chtěl se dohodnout na budoucnosti Vektivy. Jedna z možností bylo hodně vývoje a já jako jednatel společnosti. To na mě bylo velký sousto a já to nezavrhl. Ale rozhodli jsme se, že začneme tím testerem.<br>
 Večer jsem ještě zůstal v Karlíně. Řešil jsem příspěvek na bydlení. Minulá žádost byla blbě, proto mi asi nic nepřišlo. Ale nikdo si taky na nic nestěžoval.<br>
 Nakonec jsem byl v Karlíně do devíti a to bez jídla. Jíst takhle navečer už ale nemělo smysl. Přijel ale Kendy a tak jsem si během povídání si s ním dal alespoň Jablko.
@@ -189,7 +192,60 @@ Probudil jsem se s pocitem, že dnešek je den, kdy uběhnu desítku. Po asi hod
 Rozhodl jsem se, že můj mlýnek se bude jmenovat James. V Jamesovi jsem namlel decaf a chvilku jsme si psal s Míšou, než šla spát. Pak jsem si pustil podcast Meteor, který mi doporučila Máma. Mluvili tam o senescentních buňkách. V podstatě o buňkách, které způsobují stáří. Prý začínají existovat nějaké elixíry mládí, které tyhle buňky vyplavují z těla pryč. Přišlo mi to jako fantastní zkratka. Napsal jsme mámě, že elixíry člověka nespasí. Že správnej způsob, jak se zbavit umírajících buněk, je jíst zdravě, cvičit a dobře spát. Protože tak funguje mTor a autofágie. Ležet na gauči, dlabat sladký a k tomu si dát sebelepší pilule je cesta do hrobu.<br>
 Pak jsem se vrhl do oběda. Nejsem velkej kuchař, a tak jsem měl těstoviny s omáčkou. Obojí jsem udělal asi za 10 minut, ale bylo to ze zdravých a barevných surovin, takže jsem na sebe byl pyšnej.<br>
 Po obědě jsem si pustil film [Barbie](https://www.csfd.cz/film/300589-barbie). Byla to kokotina. Ale vlastně mě bavila o mnoho víc, než film předešlý večer.
+pěšky do *C&A*. kalhoty 30/30 už nedělají.<br>
+Bio věci v *dm*.<br>
+rozbolelo mě v krku<br>
+bakterie co to začala mi asi způsobila anginu<br>
+zbytek těstovin<br>
+zázvor a česnek žvýkání<br>
+ted
 
+### 14.1. Hýřivý
+
+Úplně jsem na oběd se Sárou a Jardou zapoměl. Naštěstí byla neděle a já plánoval akorát zašívání mikiny<br>
+
+<a href="../images/2024_january/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/14_1.jpg"></a>
+
+bambule, běh<br>
+k bansethům<br>
+o bouračce, domorodcích, podřezávání prasátka a záchodech v řece.<br>
+knedlíky podprůměrný, malinovka a pivo drahý<br>
+dál na kafe?<br>
+grébovkou do šlágru<br>
+plno<br>
+do bulerbynu<br>
+decaf neměli<br>
+flatwhite<br>
+cítil jsem to<br>
+dál na procházku<br>
+do lokálu<br>
+birell co mi chutnal v plzeňským půllitru<br>
+réba prstýnek?
+ještě do lidlu, xxl tofu<br>
+druhý chleba<br>
+
+<a href="../images/2024_january/14_2.jpg" target="_blank"><img src="../images/thumbnails/2024_january/14_2.jpg"></a>
+
+s tofu a zeleninou
+
+### 15.1. Spící
+
+Měl jsem v batohu spoustu věcí. Laptop, chleba, zeleninu, tofu, mlýnek, aeropress, kávu, mléko, a další věci, co jsou tam pořád. Bylo to mrtě těžký. Jet na drakovi se mi nechtělo.<br>
+Jel vlakem a na rekole. Měl jsem pocit, že rekolo je mrtě rychlejší než nextbike. Přemýšlel jsem proč tomu tak je a došlo mi, že je to tím, že brzdí, takže se na něm nebojím jet rychle.<br>
+Pokračoval jsem v testování firmware CBN. I v boxu všechno dopadlo dobře. Měl jsem ale jen 4 nabíjející se baterie. Rozhodl jsem se tak vybít baterie další.<br>
+Na chladič, co nám zbyl po stavbě BESCu, jsem přidělal dvoje výkonové rezistory, napočítal to na 50 W. I tak to ale hřálo dost.
+
+<a href="../images/2024_january/15_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/15_1.jpg"></a>
+
+Izolepu jsem vyměnil za kaptonovou pásku a pod rezistory vložil teplovodivou podložku. Chladič měl 50 ˚C. S tím se dalo žít a tak jsme šli na oběd do jídelny. Salát jsem si mohl dát v úterý.<br>
+Druhou polovinu dne jsem strávil návrhem fbmc testeru. fbmc a ebmc se tak moc neliší. Ale bude to lepší tester. Jednodušší a trochu efektivnější. Schéma jsem stihl, ale desku ne. I tak jsem přetahoval.<br>
+Zpátky jsem šel pěšky. Když jsem došel domů, Míša našla 10 minut na telefonát z kuchyně, kde se prý smažila slanina, ale venku byla odporná zima. Vyprávěla mi o turistce co to poslala autem do příkopu. O snu, kdy mě někdo srazil na kole a já jsem umřel, protože mi nikdo neposkytl první pomoc. Čekalo je posledních pár dní už jen s Adrianem. Marťa s Michalem už letěli do Čech.<br>
+Po telefonátu jsem dokoukal film [Ted 2]() a usnul. Asi v osm večer.
+
+### 16.1.
+
+Spal jsem jedenáct hodin. I tak jsem se probudil nějaký unavený a tak jsem se radši ještě hodinu válel v posteli a čuměl do mobilu. Úplně hrdý jsem na sebe nebyl. Ale co naděláš. Úterky jsou pomalejší.<br>
+Vlak co mi ujel před nosem den rozhodně nezrychlil. Zato průvodčí, který kolem mě prošel a pak se otočil a podíval se na mě jo. Adrenalin z nuly na sto za 2 vteřiny. Mírně jsem se pousmál a přikývnul hlavou. Průvodčí přikývl taky, otočil se a pokračoval v chůzi dopředu vlaku.<br>
 
 
 <!--
