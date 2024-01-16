@@ -202,31 +202,26 @@ ted
 
 ### 14.1. Hýřivý
 
-Úplně jsem na oběd se Sárou a Jardou zapoměl. Naštěstí byla neděle a já plánoval akorát zašívání mikiny<br>
+Úplně jsem na oběd se Sárou a Jardou zapomněl. Naštěstí byla neděle a já plánoval akorát zašívání mikiny
 
 <a href="../images/2024_january/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/14_1.jpg"></a>
 
-bambule, běh<br>
-k bansethům<br>
-o bouračce, domorodcích, podřezávání prasátka a záchodech v řece.<br>
-knedlíky podprůměrný, malinovka a pivo drahý<br>
-dál na kafe?<br>
-grébovkou do šlágru<br>
-plno<br>
-do bulerbynu<br>
-decaf neměli<br>
-flatwhite<br>
-cítil jsem to<br>
-dál na procházku<br>
-do lokálu<br>
-birell co mi chutnal v plzeňským půllitru<br>
-réba prstýnek?
-ještě do lidlu, xxl tofu<br>
-druhý chleba<br>
+Myslel jsem, že nestíhám. V dálce jsem ale zahlédl známou bambuli. Jarda se Sárou zrovna vstupovali do tunelu pod nádražím. Doběhl jsem je a spolu jsme pokračovali k Bansethům. Sára mě potrápila mojí otázkou, co hezkého se mi stalo za dobu co jsme se neviděli.<br>
+V Restauraci už čekal Tomáš a Réba. Ondra přišel vzápětí. Objednali jsme si piva, malinovky, kromě vegetariánů si všichni dali kachnu, Réba smažák a já dva tvarohové knedlíky. Jeden byl psaný jako dezert, za dva chtěli stejně peněz jako za porci celého jídla a porce tomu odpovídala.<br>
+Sára s Jardou vyprávěli o bouračce, domorodcích, podřezávání prasátka a záchodech v řece. Réba měla spoustu dotazů, tak jsem spíš poslouchal.<br>
+Knedlíky byly průměrným možná spíš podprůměrný, malinovka a pivo drahý. Rébě dokonce přinesli jednu bez bublinek. Celkově ve mě Restaurace u Bansethů nezanechala dobrej pocit. Bašta vedle mi přišla lepší.<br>
+Dál jsme pokračovali procházkou někam na kafe. Po chvíli dohadování jsme vybrali Šlágr a došli k němu skrz Grébovku.<br>
+Měli plno. Pokračovali jsme tedy na Vinohrady a došli do Bulerbynu. Jarda s Tomem pokračovali v pivu. Ostatní si dali kafe. Někteří si dali lívance, ale já už jsem byl přeslazený. Naneštěstí neuměli udělat decaf. Dal jsem si flatwhite a cítil jsem to. Probírali jsme věci od kytek, po hormonální antikoncepci.<br>
+Chození jsme ale neměli dost, takže jsme vyrazili dál skrz Vinohrady.q
+A skončili v Lokálu na Korunní.<br>
+Vlasně jsem tam ještě nebyl. A z Lokálů mi přišel asi nejmíň hlučný. Navíc točili Birella do plzeňskýho půllitru. A točili ho dobře. Chvilku jsem i pochyboval, že je to nepivo, ale ten ocásek tam byl.<br>
+Tomáš vykládal o jeho babičce, které vynechává krátkodobá pamět. Prý je to jak 50x a stále poprvé, nebo Na hromnice o den více.<br>
+Jarda si všiml, že Réba má na ruce nový prstýnek. Nic ale s Ondrou neříkali, tak kdo ví, jestli to má nějaký větší význam.<br>
+Na Jana Masaryka jsme se rozloučili. My Vršovičtí seběhli dolů. Já se ještě otočil v Lidlu pro Tofu, česnek a zázvor a doma se dal do pečení druhého chlebu.
 
 <a href="../images/2024_january/14_2.jpg" target="_blank"><img src="../images/thumbnails/2024_january/14_2.jpg"></a>
 
-s tofu a zeleninou
+Někdy v půl jedenácté jsem si dal krajíc s uzeným tofu. Měl jsem ho nechat nakynout déle. A neuspěchávat překládací fázi. Sice se nafoukl. Ale ne moc.
 
 ### 15.1. Spící
 
@@ -247,7 +242,7 @@ Po telefonátu jsem dokoukal film [Ted 2]() a usnul. Asi v osm večer.
 Spal jsem jedenáct hodin. I tak jsem se probudil nějaký unavený a tak jsem se radši ještě hodinu válel v posteli a čuměl do mobilu. Úplně hrdý jsem na sebe nebyl. Ale co naděláš. Úterky jsou pomalejší.<br>
 Vlak co mi ujel před nosem den rozhodně nezrychlil. Zato průvodčí, který kolem mě prošel a pak se otočil a podíval se na mě jo. Adrenalin z nuly na sto za 2 vteřiny. Mírně jsem se pousmál a přikývnul hlavou. Průvodčí přikývl taky, otočil se a pokračoval v chůzi dopředu vlaku.<br>
 Tentokrát jsem jel na nextbiku. Cesta mi trvala na vteřinu stejně. Bizár. Asi jsou nextbiky s rekoly nakonec stejně rychlé.<br>
-V práci jsem kreslil layout fbmc testeru. Nový kicad, nové problémy. Ale s výsledkem jsem byl spoko.<br>
+V práci jsem kreslil layout fbmc testeru. Nový Kicad, nové problémy. Ale s výsledkem jsem byl spoko.<br>
 K obědu jsem měl onen zeleninový salát a bylo to moc dobrý.<br>
 Člověk co navrhl vojtův tester byl docela magor. Žádný rozměr není celočíselný. Žádný. Obkreslil jsem si nosnou desku a doufal, že tisk nějak dopadne.<br>
 Blízko flastru jsem byl i na cestě zpátky. Průvodčí se mě dokonce ptala, jestli mám jízdenku. Odvětil jsem *No jasně.* Přímočará lež. Asi bych s tím měl přestat. Moje omluva je, že nakonec si koupím lítačku. Ale na Rko možná stejně neplatí.<br>
