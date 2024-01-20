@@ -25,3 +25,5 @@ Rok, kdy mi nabíhal deficit vypadnout někam daleko, protože rok zpátky to On
 Rok volby prezidenta, cesty z Francie domů, Albánie, Barcelony a hlavně proplétání mého života s Míšiným
 
 ## [2024](2024.md)
+
+Miška na Zélandu, planety do Lahti

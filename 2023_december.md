@@ -193,32 +193,40 @@ Měli jsme plán dojít do čajovny, ale čas ubíhal a my se nezvedali. A pak u
 Oblékli jsme se a vyrazili přes Strahov k Ondroi a Rébě na Swap. Míša vzala prací prášek a svíčky k výměně. Tu v kokosovém ořechu jsem si ale vzal já. Řekl jsem si, že její vůně mi bude Mišku připomínat.<br>
 
 k ondrovi<br>
-na škále jak spokojená s prací je<br>
-parčík který moc nepomohl<br>
-tramvají domů
+Cestou jsem se Mišky ptal, jak je spokojená se svojí prací. Nulu jsem dal na okamžitou výpověď. Sto na miluju svojí práci a nic mě na ní netrápí. Řekla sedmdesát. Trochu mě to šokovalo. Sedmdesát až osmdesát bych řekl já a já mám svojí ohromě rád. Ale pak jsme zjistili, že mě špatně pochopila a opravila se na 20-30. Ptal jsem se, jestli třeba nemůže přejít na jiné oddělení v T-Mobilu, ale moc se jí to nepozdávalo. Jarda by jí to prý komplikoval. A zpátky do Cetinu se jí taky nechtělo. Míň peněz a žádný vývoj. Moc jsem jí neuměl poradit.<br>
+Prošli jsme parčíkem, kde bylo všechno rozkopané a došli k Ondrovi. Réba už tam měla několik kamarádek z olomouce a Ráchel. Vyprávěly si zážitky z vánočních večírků. Korporáty to řěší jinak než malé firmy. Réba prý byla na malé večeři, která byla spíš trapná, než zábavná. Nás čekala plavba lodí s dalšími Charlesovými firmami. Žádné plné forum Karlín. Ale já vlastně nic takového nechci. S večeří na zámku nebo na lodi jsem úplně spoko.<br>
+S Ondrou jsem pak třídil desky od jeho Dědy.<br>
+Miška si ze swapu nakonec přece jen něco odnesla. Wacom tablet od ondry. Já jsem taky nic neplánoval odnést, ale dostal jsem nerezovou pánev, která Rébě nefunguje na indukci.<br>
+Miška nerez miluje a nad mojí keramikou trochu ohrnuje nos. Ne že by řekla, že jídlo z ní jíst nebude. Ale bylo vidět, že by jí zahřálo u srdíčka, kdybych si jí vzal.<br>
+Když už byl čas a lidé se pomalu rozcházeli domů, vyrazili jsme společně na tramvaj. Míša se mnou jela jen na Malovanku. Mě čekalo brzké vstávání a potřeboval jsem si doma vyzvednout věci na běžkování.
 
 ### 10.12. Bez zranění
 
-budík na šestou<br>
-po svařáku mírná kocovina<br>
-na nádraží<br>
-vlak ujel<br>
-to znamenalo, že nestíhám nakoupit<br>
-20 čekání na další<br>
-kráva mi vyhrožovala, že lyže musí být v obalu<br>
-15 minutový přeběh jsem dal za 5<br>
-v hello buchtu, bagetu a kafe<br>
-vojta už ve vlaku, vláďa dobíhal<br>
-aplikace drah nefungovala<br>
-nahoře v elefantu<br>
-fíla chybí<br>
+Budík se ozval v šest ráno. Možná to bylo zbytečně brzo. Ale doby kdy jsem byl ranní ptáče byly už dlouho v háji. Pomalu jsem vstal, uvědomil si, že po svařáku na mě přišla mírná kocovina, doplnil tekutiny, zjistil že nemám nic na snídani, zabalil si oblečení, vzal běžky, vyrazil na nádraží a zahlédnul jak můj vlak zrovna odjíždí.<br>
+To mi hodilo vidle do plánu ráno ještě nakoupit něco k jídlu. Další jel za 20 minut. Průvodčí v něm byla kráva. Vyhrožovala mi, že lyže musí být v obalu, jinak mi prý dá pokutu. Web ČD byl na mé straně. Další důvod nesnášet ČD. Jenže pořád není alternativa a já mám vlaky rád.<br>
+Na Masaryčku jsem s lyžemi na ramenu musel utíkat. Protože jsem ale deseti minutovou trasu zvládl za minut pět, stihl jsem v *Hello* stánku koupit buchtu, kafe a bagetu.<br>
+Vojta už byl ve vlaku, Vláďa dobíhal. Aplikace Českých drah nefungovala. Průvodčí to věděla, ale neřekla nám to. Ptala se Vojty, proč si nekoupil lístek a normálně mu chtěla dát příplatek. Naštěstí jsme s Vláďou věděli, že aplikace nefunguje a oznámili jsme jí to. Jet na PID bylo stejně levnější.<br>
+Nahoře v elefantu, kam se lyže vejdou líp jsme se spočítali. Fíla chyběl. Zavolal jsem mu a probudil jsem ho. Úplně na nás zaponměl. Škoda.<br>
+Ostatní jsme našli před Nádražím v Lysé. Nalodili jsme se do Caravelly a vyrazili směr Jizerské Hory. Řídila Magda. Povídali jsme si o minulém výletu, o divných reklamách na preekoproud a víc už si moc nepamatuju. Byl jsem trochu ztracený ve vzpomínkách na mou poslední návštěvu Jizerek. Byl to asi nejlepší den roku 2023.<br>
+Závěrečné stoupání bylo skoro nebezpečné. Magda ale Caravellu ukočírovala a dovezla nás na parkoviště ještě o kousek dál, než jsme večeřeli s Miškou.<br>
+Převlékli jsme se, nazuli lyžáky a vydali se na cestu. Byl jsem docela posranej strachy. Moje poslední běžkování skončilo čtvrtrokem kulhání, magnetickou rezonancí kolene a zjištění, že lepší to už nebude, protože trpím hypermobilitou. Inu jsem jsem pomalu a byl poslední.<br>
+Ale bylo tam nádherně a počasí vyšlo.
 
 <a href="../images/2023_december/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_1.jpg"></a>
 
+Asi po kilometru jsme začali stoupat. Trochu mi to podkluzovalo. Že bych zhubnul? Naposledy byl můj mohérový pruh naprosto bez chyby. Trochu jsem se zapotil. Vojta rozdával čaj s rumem, jen jsem si ale líznul abych zjistil jak moc to namíchal. Pít jsem nechtěl. Teplý čaj jsem měl v termosce.<br>
+[Cestou](https://www.strava.com/activities/10358198237) měl Jirka přednášky z historie o vlastnictví horských chat komunistickými pány.
+
 <a href="../images/2023_december/10_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_2.jpg"></a>
+
+Obědvali jsme na Smědavě. Nově postavené horské chatě. Nebo spíš vile. Měli tam moderní jídelnu s horskou přirážkou. Ale cena byla vykoupená dobrým jídlem, příjemným prostředím, kde se myslelo nejen na fajn krb, ale i na akustiku. Skoro se nám nechtělo pokračovat dál.<br>
+Ale slunka bylo málo a čekala nás ještě [polovina cesty](https://www.strava.com/activities/10359475922). Na té už jsme víc klesali. A já se víc bál. Přišly okamžiky, kdy bruslaři stoupali rychleji, než já sjížděl.<br>
+Ale zvládl jsem to bez zranění až k autu. A užil jsem si to. Všichni jsme si to užili.<br>
+Převlékli jsme se, pomohli nějakému pánovi vyjet ze sněhu, nalodili se do Caravelly a příjemně unavení vyjeli zpět do Lysé.
 
 <a href="../images/2023_december/10_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_3.jpg"></a>
 
+Na parkovišti jsme se rychle rozloučili, protože nám zrovna přijížděl vlak. Vojta byl nadšený. Byly to jeho první běžky. Byl zvyklý jen sjezdovat. Na Masaryčce jsme každý vyrazili vlastním směrem. Přecházet mezi Masaryčkou a Hlavákem je omrd. V tomhle Praha není nejlíp vymyšlená. Doma jsem byl kolem osmé. K večeři jsem si snědl tu bagetu, kterou jsem měl pro případ, že by nebyl oběd.
 
 ### 11.12. Lenky zpátky na Slovensko
 
