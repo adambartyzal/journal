@@ -3,7 +3,7 @@
 ## [Leden](2024.md) 
 
 - [1.1. Střízlivý](#11-střízlivý)
-- [2.1. Pracovní](#21-pracovní)
+- [2.1. Pracovitý](#21-pracovitý)
 - [3.1. Konzistentní](#31-konzistentní)
 - [4.1. Odsunutý](#41-odsunutý)
 - [5.1. Úspěšný](#51-úspěšný)
@@ -18,6 +18,10 @@
 - [14.1. Hýřivý](#141-hýřivý)
 - [15.1. Spící](#151-spící)
 - [16.1. Nepřistižený](#161-nepřistižený)
+- [17.1. Zklamaný](#171-zklamaný)
+- [18.1. Poučený](#181-poučený)
+- [19.1. Hotový](#191-hotový)
+- [20.1.](#201)
 
 ### 1.1. Střízlivý
 
@@ -36,7 +40,7 @@ Na nájezdu na dálnici za námi jela Fipova mamka. Nováčkovic zřejmě dominu
 Domů jsem šel pěšky. Byl to prosluněný jarní den. Akorát to slunce zalezlo ve čtyři. Už bylo načase aby se dny prodloužily.<br>
 Uvařil jsem těstoviny s pestem a vrátil se ke knížce.
 
-### 2.1. Pracovní
+### 2.1. Pracovitý
 
 Nevstal jsem pár vteřin po tom, co mi zabzučel budík jak jsem si to večer naplánoval. Odložil jsem ho. A to hned dvakrát. Fakt se mi nechtělo z peřin ven. Nakonec jsem šel do sprchy někdy kolem půl. A ž domu se dostal až po osmé. Alespoň jsem ale vynesl plechy a tetrapaky. Začínaly už smrdět.<br>
 Poprchávalo. Šel jsem pěšky a poslouchal muziku. Někdy kousek před tunelem mi miška poslala obrázky z jejich denního hiku s Adrienem. Prý se jí po mně stýskalo trochu víc než obvykle. V myšlenkách jsem jí objal a olízl jí nos. Prý to chtěla udělat ona, ale já jsem byl rychlejší.<br>
@@ -190,7 +194,10 @@ road to perdition<br>
 Jít spát v 10 zdá se funguje. I přesto, že jsem jedl ještě v devět a nechladil jsem se sprchou před spaním, daly mi hodinky 90 bodů ze sta. Je ale pravda, že posledních pár dní bylo v bytě asi 17 stupňů a to spánku pomáhá.<br>
 Probudil jsem se s pocitem, že dnešek je den, kdy uběhnu desítku. Po asi hodině válení a půl hodině protahování jsem se do toho pustil. Podél Botiče k Hamru, okolo rybníka a zpátky. Na klid. Tempo 6:31. Doma na schodech jsem se ještě doprotáhl, doma si dal ledovou sprchu, abych podpořil regeneraci.<br>
 Rozhodl jsem se, že můj mlýnek se bude jmenovat James. V Jamesovi jsem namlel decaf a chvilku jsme si psal s Míšou, než šla spát. Pak jsem si pustil podcast Meteor, který mi doporučila Máma. Mluvili tam o senescentních buňkách. V podstatě o buňkách, které způsobují stáří. Prý začínají existovat nějaké elixíry mládí, které tyhle buňky vyplavují z těla pryč. Přišlo mi to jako fantastní zkratka. Napsal jsme mámě, že elixíry člověka nespasí. Že správnej způsob, jak se zbavit umírajících buněk, je jíst zdravě, cvičit a dobře spát. Protože tak funguje mTor a autofágie. Ležet na gauči, dlabat sladký a k tomu si dát sebelepší pilule je cesta do hrobu.<br>
-Pak jsem se vrhl do oběda. Nejsem velkej kuchař, a tak jsem měl těstoviny s omáčkou. Obojí jsem udělal asi za 10 minut, ale bylo to ze zdravých a barevných surovin, takže jsem na sebe byl pyšnej.<br>
+Pak jsem se vrhl do oběda. Nejsem velkej kuchař, a tak jsem měl těstoviny s omáčkou. Obojí jsem udělal asi za 10 minut, ale bylo to ze zdravých a barevných surovin, takže jsem na sebe byl pyšnej.
+
+<a href="../images/2024_january/13_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/13_1.jpg"></a>
+
 Po obědě jsem si pustil film [Barbie](https://www.csfd.cz/film/300589-barbie). Byla to kokotina. Ale vlastně mě bavila o mnoho víc, než film předešlý večer.
 pěšky do *C&A*. kalhoty 30/30 už nedělají.<br>
 Bio věci v *dm*.<br>
@@ -235,7 +242,7 @@ Na chladič, co nám zbyl po stavbě BESCu, jsem přidělal dvoje výkonové rez
 Izolepu jsem vyměnil za kaptonovou pásku a pod rezistory vložil teplovodivou podložku. Chladič měl 50 ˚C. S tím se dalo žít a tak jsme šli na oběd do jídelny. Salát jsem si mohl dát v úterý.<br>
 Druhou polovinu dne jsem strávil návrhem fbmc testeru. fbmc a ebmc se tak moc neliší. Ale bude to lepší tester. Jednodušší a trochu efektivnější. Schéma jsem stihl, ale desku ne. I tak jsem přetahoval.<br>
 Zpátky jsem šel pěšky. Když jsem došel domů, Míša našla 10 minut na telefonát z kuchyně, kde se prý smažila slanina, ale venku byla odporná zima. Vyprávěla mi o turistce co to poslala autem do příkopu. O snu, kdy mě někdo srazil na kole a já jsem umřel, protože mi nikdo neposkytl první pomoc. Čekalo je posledních pár dní už jen s Adrianem. Marťa s Michalem už letěli do Čech.<br>
-Po telefonátu jsem dokoukal film [Ted 2]() a usnul. Asi v osm večer.
+Po telefonátu jsem dokoukal film [Ted 2](https://www.csfd.cz/film/346369-meda-2) a usnul. Asi v osm večer.
 
 ### 16.1. Nepřistižený
 
@@ -248,20 +255,53 @@ K obědu jsem měl onen zeleninový salát a bylo to moc dobrý.<br>
 Blízko flastru jsem byl i na cestě zpátky. Průvodčí se mě dokonce ptala, jestli mám jízdenku. Odvětil jsem *No jasně.* Přímočará lež. Asi bych s tím měl přestat. Moje omluva je, že nakonec si koupím lítačku. Ale na Rko možná stejně neplatí.<br>
 Vařit jsem začal až v 8 večer. Metodou namrdat všechno do pánve a přikrýt jí poklicí.<br>
 
+### 17.1. Zklamaný
 
-<!--
+94 spacích bodů. Přišlo mi, že pomalu ale jistě jsem se učím spát. Byl jsem si ale jistý, že až se Miška vrátí, půjde ta pravidelnost do kopru. Ale třeba ne. Miška chce taky dobře spát.<br>
+Na vlak a pak rekolem. Tentokrát bylo zamrzlé tak, že nepřehazovalo. Navíc se mi vybil mobil, když jsem ho vracel. Naštěstí mi to poté odečetli a dokonce mi napsali, že v nastavení mají checkbox na vracení stejně jako nextbike.<br>
+V práci jsem si pájel slim stack konektory. Asi to není správná cesta. Když by člověk blbě jezdil protikusy přes sebe, mohl by zkratovat články k sobě a to by mohlo dopadnout špatně.<br>
+Po práci kreslil tester pro vojtu. Nic nebylo celočíselné.
+Večer jsem se díval na [Rozhněvaného muže](https://www.csfd.cz/film/818045-rozhnevany-muz).
 
-### 14.1.
+### 18.1. Poučený
 
-### 15.1.
+Rekolo i nextbike jsem tentokrát nechal na nádraží a vyrazil pěšky. Highlajna byla slušně namrzlá, ale svítilo sluníčko a déčka bylo málo.<br>
+Jiří nezvykle dorazil ve čtvrtek. V pondělí byl doma, tak aby zůstala rovnováha zachovaná, dojel za námi. Taky si ke svému kovovému V60 přivezl starý šuplíčkový mlýnek Lodos. Potěšilo mě, že postupně opouští svět neekologických nespresso kapslí.<br>
+Ve čtvrtek chodíme do Indie sporadicky. Jirka byl ale zvědavý co tam ve čtvrtek mají. Vindaloo a Lababdar. A zeleninový mix pro vegetariány. Všechno to bylo moc dobrý.<br>
+Společně s Ivanem jsme postavili pákostroj na testování zámků. Troochu jsem upravil fw aby fungoval s novějším zámkem a aby zamykal automaticky.
 
-### 16.1.
+<a href="../images/2024_january/18_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/18_1.jpg"></a>
 
-### 17.1.
+Byl jsem z něj nadšený. Asi tak pět minut. Vláďa poukázal na fakt, že až nebude fungovat cívka. Stroj zůstane zaseklý, a já budu v háji. Mělo mi to dojít. Automatický tester zámků měl stejnou nevýhodu. Ale vymysleli jsme to poměrně rychle. Trn se bude do kluzáku vkládat podobně jako čtečky do enterprise a v případě zaseknutí se prostě vysune nahoru i se zámkem.<br>
+Po práci jsem zkresloval krabičku Vojtova testeru. Kdyby mi Miška nenapsala, vůbec bych si nevšiml kolik je hodin a nestihl bych tak dojet na Anděl. Byla totiž ČSFD projekce filmu [Bastard](https://www.csfd.cz/film/1238190-bastard/) s Madsem Mikkelsenem. Rychle jsem dodělal co bylo třeba, u metra koupil bagetu a pustil se do ní v metru. Míša už jela na letiště. Byla z toho trochu smutná. Úplně jsem se nedokázal naladit na její vlnu. Byl jsem v hypu z práce a ve spěchu do kina. Ale neměla mi to za zlý. Míša je skvělá.<br>
+Nová infografika v metru se mi nelíbila. Barevně sice byla pohledná. Ale bylo to na úkor čitelnosti a použitelnosti. Rozhodně to šlo udělat líp.<br>
+Tomáš se na projekci nedostal. Párkrát prý nepřišel a zabanovali ho. Škoda. Film mě opravdu nadchl. Kdyby se takhle učil dějepis, možná by mě i bavil.<br>
+Na pěší chůzi domů byla moc velká zima. A vlastně dost pozdě. Film měl přes dvě hodiny. Koupil jsem lístek, dojel domu sedmičkou a šel spát.
 
-### 19.1.
+### 19.1. Hotový
+
+Vstal jsem trochu dříve než obvykle. Rozhodl jsem se, že tentokrát vlak vynechám. Zato se zastavím v DMku nad Mírákem pro bio decaf.<br>
+Rybalkovou je to docela výšlap. Nemletý bio decaf měli jen jeden. Zato nemlék měli hned několik a dokonce měli bordel v cenách. Upozornil jsem na to paní na kase a ta to se mnou šla vyřešit a asi 5x mi poděkovala. Bylo to milý.<br>
+Krokový cíl jsme měl skoro splněný před devátou ranní.<br>
+První hodinu jsem si dokresloval plasty na Vojtův tester.<br>
+Dopo jsem řešil CBN a odpo konektory na EBUFech.<br>
+Ivan zavolal kvůli tisku Drowning Cube. Taky nám doporučil ať jdeme na oběd do Vietnamky. Poslechli jsme a byla to dobrá volba. Bun Dau Nam Bo je špička. Akorát terminály jim stávkovaly. Vláďa to nakonec vzal hotově.<br>
+Jenže moje platba nakonec prošla. Dozvěděl jsem se to z mobilu a došel tam během cesty do GMka. V GMku mě nějaký pán poznal a říkal, že platil ve Vietnamce po mně a že bych tam měl jít. Venku bylo sluníčko, lidi nebyli kreténi. Měl jsem dobrou náladu.<br>
+Míša přistála v Soulu a s Adrianem se vydali objevovat noční město. Já si vedle ve velké místnosti rozložil čistící chemii. Našel ochranné brýle, respirátor a pustil se do čištění zkorodovaných RJ45. Stálo to za to. Deska stojí skoro 3 tísce. A zdálo se, že jde zachránit za pár minut.<br>
+V půl páté jsem skončil s prací pro freebike a pustil se do sestavování testeru pro vektivu. Zprvu mi přišlo, že můj tester je uvnitř mnohem úhlednější. Ale nakonec v něm byl podobný mišmaš. Nahrávání zprvu nefungovalo. Ale pak jsem objevil, že nefunguje ani na Vojtově testeru. Něco bylo špatně v laptopu. Chvíli jsem poslouchal na lince a pak to zkusil znova. A voila šlo to.<br>
+Dovrtal jsem díry, celý to sešrouboval, uklidil trochu na stole a testery zabalil. Bylo po osmé.
+
+<a href="../images/2024_january/19_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/19_1.jpg"></a>
+
+Nechtělo se mi jít domů pěšky. Ale nechtělo se mi ani jet městskou. Měl jsem hlad a nákup v Karlíně a cesta metrem by trvala tři čtvrtě hodiny. Pěšky i s nákupem uprostřed hodina. Šel jsem pěšky.<br>
+Cestou jsem viděl pána s ikeovým křeslem i s potahem. Chvíli jsem ho sledoval, ale nejspíš ho nešel vyhodit, jak se zprvu zdálo, ale spíš ho našel a stěhoval domů.<br>
+Doma jsem ještě chvíli pokračoval s testerem. Vojta totiž psal, že binárka je správná. Měl jsem to ale nechat být. Nějaký omylem, jsem sestřelil jeho UART. Ale na finálním firmware sem ověřil, že můj tester umí točit motorem. Skončil jsem s tím po desáté. Napsal Mišce a šel spát.
 
 ### 20.1.
+
+pomalé ráno
+
+<!--
 
 ### 21.1.
 
