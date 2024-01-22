@@ -301,22 +301,26 @@ Doma jsem ještě chvíli pokračoval s testerem. Vojta totiž psal, že binárk
 
 ### 20.1. Nedočkavý
 
-pomalé ráno<br>
-zadlat na chleba<br>
-moc mokrý, víc mouky nepomáhalo, všechno lepí<br>
-přilepil se i na uterku v ošatce. Ještě jsem ho vyndal, vysypal moukou mísu a dal ho do ní kynout.
-nákup v albertu<br>
-pro decaf na pankrác<br>
-milá paní co jí zradila matematika<br>
-domů s podcastem Antonína Kokeše<br>
+Až příště vyjde slunko, budeme spolu s Miškou napadlo mě ráno. Byla to hezká myšlenka. A tak jsem nechvátal, válel se v posteli a přemýšlel jak Míšu překvapit? Přijede ve 4:48. Kytkou? Blbost, paní na Míráku říkala, že Kaly rostou až v dubnu. Jídlem? Lidem, co jsou z Čech dlouho pryč, chybí chleba. Poutníci se vítají chlebem se solí. Já peču chleba. Psalo se to samo. Překvapím Mišku snídaní z chlebu, který upeču a věcmi co má ráda.<br>
+Kvásek byl najedený a probuzený a já jsem se pustil do těsta. Nevychytal jsem poměr. Dal jsem moc vody. Víc mouky ale nějak nepomáhalo. Lepilo se to všude.<br>
+Na linku, kterou jsem přeorganizoval i na útěrku v ošatce. Radši jsem ho ještě  vyndal, vysypal moukou mísu a dal ho do ní kynout.<br>
+Abych nabral trochu sluníčka, vyrazil jsem místo do Lidlu, do Albertu na Pankrác. Je tam Tchibo krám a já měl pocit, že prodávají Colombia místo Brazil Decaf.<br>
+Neměli. Ale měli tam fajn paní prodavačku. Povídali jsme si o matematice, která jí nešla a o dózách, které má doma.<br>
+V Albertu jsem nakoupil, bio rajčata, lučinu, pomazánku z fazolí a bazalku. Věci které má k snídani Miška ráda.<br>
+Zpátky jsem šel s podcastem v uších. Poslouchal jsem Antonína Kokeše. Pána, který založil Antonínovo pekařství.
 
+K chlebu jsem se dostal až někdy v půl desáté večer. Sice vykynul, ale když jsem ho dal na rozpálený plech, splaskl a stala se z něj spíš placka. Praskl ale přesně jak jsem chtěl. Do tvaru srdíčka.<br>
+Miška se mě vyptávala, jestli za ní přijdu. Chtěl jsem aby to bylo překvápko, ale vyfoukla mi to. Skoro mi to vymlouvala, ale napsal jsem jí, že tam chci být a myslel to smrtelně vážně.
 
 ### 21.1. Rozčarovaný
 
 Pekařem nebudu. Chleba mi splaskl a vstávat ve 3:30 bych víc jak jednou za pár let nezvládl. Kdybych neodložil budík o 10 minut, asi bych stihl tu plánovanou tramvaj. Ale ujela mi. O dost. Navíc jsem se vracel zhasnout světlo v kuchyni.<br>
 V batohu jsem vezl chléb, lučinu, rajčata, fazolovou pomazánku a bazalku ve sklenici. Měl jsem 48 do příjezdu Mišky na Florenc. 48 minut se dá dát pěšky. Ale pak mě napadlo, že ze Synkáče by mohlo něco jet. A jelo. Ale před Synkáčem to uhlo na Otakarku. Naštěstí jsem to doběhl.<br>
 Tramvaj 96 mě se strašlivě dlouhou zastávkou na Lazarské dovezla na Masaryčku. Zbytek jsem došel a stavbou na Florenci jsem se promotal přesně v momentu, kdy Míša napsala, že čeká v hale.<br>
-Vyrazili jsme na tramvaj, ale jela asi až za 10 minut a Míše byla zima. V Korei bylo 21 stupňů v noci. Naštěstí nám to pak docela dobře navazovalo.<br>
+Vzal jsem jí krosnu a vyrazili jsme na tramvaj, ale jela asi až za 10 minut a Míše byla zima. V Korei bylo 21 stupňů v noci. Naštěstí nám to pak docela dobře navazovalo.
+
+<a href="../images/2024_january/21_1.png" target="_blank"><img src="../images/thumbnails/2024_january/21_1.png"></a>
+
 Snídani jsme si dali v posteli po tom co si Miška dala sprchu. Sprcha po výletě to je věc. Chápu jak moc se na ní těšila. V autobuse se ale nevyspala a jetlag jí začínal dojíždět. Po snídani, která jí udělala radost jsme si lehli. Chvíli povídali a pak na ní přišlo spaní. Tak tvrdé, že i přes to, že mě praštila čelem do čela až to zazvonilo, chrupkala dál.<br>
 Vstávali jsme někdy před desátou a z postele se vykopali po jedenácté.<br>
 K obědu byly v plánu knedlíčky. Prošli jsme se na výhled nad Andělem. Pak přes Anděl na Zborovskou a tam se usadili vzadu v rohu v Dim Sum Spotu. Pro Mišku polévku, pro oba čaj a 8 knedlíčků každý. Miška mi postupně odhalovala detaily jejich výletu. To jak museli dělat kompromisy. To, že Michal s Marťou dost často chodili méně a tak Míša s Adrianem trávili víc času spolu.<br>
@@ -324,7 +328,11 @@ Dál nás procházka vedla na náplavku a nahoru kolem Vyšehradu. Bylo to fajn.
 Věřil jsem jí. Míša se zakládá na tom, že nelže. A navíc lhát neumí. Divný to ale bylo. Dost za to ale mohl jet lag. A fakt, že potřebovala být sama. 5 týdnů 24/7 se třemi dalšími lidmi, to introvertovi dá hodně na zadek.<br>
 Ale z vyprávění bylo jasné, že jí to tam hrozně bavilo a já měl radost, že tam byla s někým s kým si rozuměla. Na žárlivost nebyl prostor.<br>
 Dál nás naše kroky vedly tunelem dolů na Ostrčilák a pak ke CAMPu. *Chai Latté* ozvala se Miška. Byl jsem za. Došli jsme dovnitř, dali si oba zmíněný nápoj, Míša ještě bábovku a během pití jsem Míše povídal o mlýnku na kafe.<br>
-Pak jsme si šli prohlédnout výstavu Řeka a Město. Bylo to moc fajn. Na Míšu už ale skutečně padala únava. Otočili jsme to zpátky na opačnou stranu, zastavili se v Albertu, pro SSD a vyrazili zpět na Švédskou.<br>
+Pak jsme si šli prohlédnout výstavu *Praha zítra? Město a řeka*. Bylo to moc fajn. Obzvlášť mě bavilo chodit s UV lampou a hledat přítoky Vltavy.
+
+<a href="../images/2024_january/21_2.png" target="_blank"><img src="../images/thumbnails/2024_january/21_2.png"></a>
+
+Na Míšu už ale skutečně padala únava. Otočili jsme to zpátky na opačnou stranu, zastavili se v Albertu, pro SSD a vyrazili zpět na Švédskou.<br>
 Na zámku jsme si rozdělili chléb, pořádně se objali a já vyrazil zpátky na tramvaj.<br>
 Cítil jsem se trochu smutný, když jsem sestupoval k Andělu. Částečně to bylo tím, že jsem si průběh dne asi představoval asi maličko vřelejší a asi jsem si představoval, že usneme spolu. Ale taky tím, že to strašně rychle uteklo, jako s Miškou vždycky. Napsal jsem jí jak se teď cítím. Přišlo mi to důležitý. Chyběla mi najednou ještě trochu víc než v posledních dnech. Bylo třeba si k sobě opět najít cestu.
 
