@@ -21,7 +21,9 @@
 - [17.1. Zklamaný](#171-zklamaný)
 - [18.1. Poučený](#181-poučený)
 - [19.1. Hotový](#191-hotový)
-- [20.1.](#201)
+- [20.1. Nedočkavý](#201-nedočkavý)
+- [21.1. Rozčarovaný](#211-rozčarovaný)
+- [22.1.](#221)
 
 ### 1.1. Střízlivý
 
@@ -297,15 +299,38 @@ Nechtělo se mi jít domů pěšky. Ale nechtělo se mi ani jet městskou. Měl 
 Cestou jsem viděl pána s ikeovým křeslem i s potahem. Chvíli jsem ho sledoval, ale nejspíš ho nešel vyhodit, jak se zprvu zdálo, ale spíš ho našel a stěhoval domů.<br>
 Doma jsem ještě chvíli pokračoval s testerem. Vojta totiž psal, že binárka je správná. Měl jsem to ale nechat být. Nějaký omylem, jsem sestřelil jeho UART. Ale na finálním firmware sem ověřil, že můj tester umí točit motorem. Skončil jsem s tím po desáté. Napsal Mišce a šel spát.
 
-### 20.1.
+### 20.1. Nedočkavý
 
-pomalé ráno
+pomalé ráno<br>
+zadlat na chleba<br>
+moc mokrý, víc mouky nepomáhalo, všechno lepí<br>
+přilepil se i na uterku v ošatce. Ještě jsem ho vyndal, vysypal moukou mísu a dal ho do ní kynout.
+nákup v albertu<br>
+pro decaf na pankrác<br>
+milá paní co jí zradila matematika<br>
+domů s podcastem Antonína Kokeše<br>
 
-<!--
 
-### 21.1.
+### 21.1. Rozčarovaný
+
+Pekařem nebudu. Chleba mi splaskl a vstávat ve 3:30 bych víc jak jednou za pár let nezvládl. Kdybych neodložil budík o 10 minut, asi bych stihl tu plánovanou tramvaj. Ale ujela mi. O dost. Navíc jsem se vracel zhasnout světlo v kuchyni.<br>
+V batohu jsem vezl chléb, lučinu, rajčata, fazolovou pomazánku a bazalku ve sklenici. Měl jsem 48 do příjezdu Mišky na Florenc. 48 minut se dá dát pěšky. Ale pak mě napadlo, že ze Synkáče by mohlo něco jet. A jelo. Ale před Synkáčem to uhlo na Otakarku. Naštěstí jsem to doběhl.<br>
+Tramvaj 96 mě se strašlivě dlouhou zastávkou na Lazarské dovezla na Masaryčku. Zbytek jsem došel a stavbou na Florenci jsem se promotal přesně v momentu, kdy Míša napsala, že čeká v hale.<br>
+Vyrazili jsme na tramvaj, ale jela asi až za 10 minut a Míše byla zima. V Korei bylo 21 stupňů v noci. Naštěstí nám to pak docela dobře navazovalo.<br>
+Snídani jsme si dali v posteli po tom co si Miška dala sprchu. Sprcha po výletě to je věc. Chápu jak moc se na ní těšila. V autobuse se ale nevyspala a jetlag jí začínal dojíždět. Po snídani, která jí udělala radost jsme si lehli. Chvíli povídali a pak na ní přišlo spaní. Tak tvrdé, že i přes to, že mě praštila čelem do čela až to zazvonilo, chrupkala dál.<br>
+Vstávali jsme někdy před desátou a z postele se vykopali po jedenácté.<br>
+K obědu byly v plánu knedlíčky. Prošli jsme se na výhled nad Andělem. Pak přes Anděl na Zborovskou a tam se usadili vzadu v rohu v Dim Sum Spotu. Pro Mišku polévku, pro oba čaj a 8 knedlíčků každý. Miška mi postupně odhalovala detaily jejich výletu. To jak museli dělat kompromisy. To, že Michal s Marťou dost často chodili méně a tak Míša s Adrianem trávili víc času spolu.<br>
+Dál nás procházka vedla na náplavku a nahoru kolem Vyšehradu. Bylo to fajn. A taky to bylo divný. Míša mi na výhledu nad porodnicí řekla, že to asi cítím, ale že čas strávený s Adrianem na ní měl vliv. Že jsou si mnohem bližší než předtím. Nepřekvapilo mě to. Nic romantického mezi nimi nebylo. Ale cítila, že je třeba mi to říct a to mě hřálo u srdce.<br>
+Věřil jsem jí. Míša se zakládá na tom, že nelže. A navíc lhát neumí. Divný to ale bylo. Dost za to ale mohl jet lag. A fakt, že potřebovala být sama. 5 týdnů 24/7 se třemi dalšími lidmi, to introvertovi dá hodně na zadek.<br>
+Ale z vyprávění bylo jasné, že jí to tam hrozně bavilo a já měl radost, že tam byla s někým s kým si rozuměla. Na žárlivost nebyl prostor.<br>
+Dál nás naše kroky vedly tunelem dolů na Ostrčilák a pak ke CAMPu. *Chai Latté* ozvala se Miška. Byl jsem za. Došli jsme dovnitř, dali si oba zmíněný nápoj, Míša ještě bábovku a během pití jsem Míše povídal o mlýnku na kafe.<br>
+Pak jsme si šli prohlédnout výstavu Řeka a Město. Bylo to moc fajn. Na Míšu už ale skutečně padala únava. Otočili jsme to zpátky na opačnou stranu, zastavili se v Albertu, pro SSD a vyrazili zpět na Švédskou.<br>
+Na zámku jsme si rozdělili chléb, pořádně se objali a já vyrazil zpátky na tramvaj.<br>
+Cítil jsem se trochu smutný, když jsem sestupoval k Andělu. Částečně to bylo tím, že jsem si průběh dne asi představoval asi maličko vřelejší a asi jsem si představoval, že usneme spolu. Ale taky tím, že to strašně rychle uteklo, jako s Miškou vždycky. Napsal jsem jí jak se teď cítím. Přišlo mi to důležitý. Chyběla mi najednou ještě trochu víc než v posledních dnech. Bylo třeba si k sobě opět najít cestu.
 
 ### 22.1.
+
+<!--
 
 ### 24.1.
 

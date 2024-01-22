@@ -190,9 +190,7 @@ Měli jsme plán dojít do čajovny, ale čas ubíhal a my se nezvedali. A pak u
 
 <a href="../images/2023_december/9_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/9_2.jpg"></a>
 
-Oblékli jsme se a vyrazili přes Strahov k Ondroi a Rébě na Swap. Míša vzala prací prášek a svíčky k výměně. Tu v kokosovém ořechu jsem si ale vzal já. Řekl jsem si, že její vůně mi bude Mišku připomínat.<br>
-
-k ondrovi<br>
+Oblékli jsme se a vyrazili přes Strahov k Ondrovi a Rébě na Swap. Míša vzala prací prášek a svíčky k výměně. Tu v kokosovém ořechu jsem si ale vzal já. Řekl jsem si, že její vůně mi bude Mišku připomínat.<br>
 Cestou jsem se Mišky ptal, jak je spokojená se svojí prací. Nulu jsem dal na okamžitou výpověď. Sto na miluju svojí práci a nic mě na ní netrápí. Řekla sedmdesát. Trochu mě to šokovalo. Sedmdesát až osmdesát bych řekl já a já mám svojí ohromě rád. Ale pak jsme zjistili, že mě špatně pochopila a opravila se na 20-30. Ptal jsem se, jestli třeba nemůže přejít na jiné oddělení v T-Mobilu, ale moc se jí to nepozdávalo. Jarda by jí to prý komplikoval. A zpátky do Cetinu se jí taky nechtělo. Míň peněz a žádný vývoj. Moc jsem jí neuměl poradit.<br>
 Prošli jsme parčíkem, kde bylo všechno rozkopané a došli k Ondrovi. Réba už tam měla několik kamarádek z olomouce a Ráchel. Vyprávěly si zážitky z vánočních večírků. Korporáty to řěší jinak než malé firmy. Réba prý byla na malé večeři, která byla spíš trapná, než zábavná. Nás čekala plavba lodí s dalšími Charlesovými firmami. Žádné plné forum Karlín. Ale já vlastně nic takového nechci. S večeří na zámku nebo na lodi jsem úplně spoko.<br>
 S Ondrou jsem pak třídil desky od jeho Dědy.<br>
