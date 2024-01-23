@@ -20,10 +20,11 @@
 - [16.1. Nepřistižený](#161-nepřistižený)
 - [17.1. Zklamaný](#171-zklamaný)
 - [18.1. Poučený](#181-poučený)
-- [19.1. Hotový](#191-hotový)
+- [19.1. Unavený](#191-unavený)
 - [20.1. Nedočkavý](#201-nedočkavý)
 - [21.1. Rozčarovaný](#211-rozčarovaný)
-- [22.1.](#221)
+- [22.1. Uklidněný](#221-uklidněný)
+- [23.1.](#231)
 
 ### 1.1. Střízlivý
 
@@ -280,7 +281,7 @@ Nová infografika v metru se mi nelíbila. Barevně sice byla pohledná. Ale byl
 Tomáš se na projekci nedostal. Párkrát prý nepřišel a zabanovali ho. Škoda. Film mě opravdu nadchl. Kdyby se takhle učil dějepis, možná by mě i bavil.<br>
 Na pěší chůzi domů byla moc velká zima. A vlastně dost pozdě. Film měl přes dvě hodiny. Koupil jsem lístek, dojel domu sedmičkou a šel spát.
 
-### 19.1. Hotový
+### 19.1. Unavený
 
 Vstal jsem trochu dříve než obvykle. Rozhodl jsem se, že tentokrát vlak vynechám. Zato se zastavím v DMku nad Mírákem pro bio decaf.<br>
 Rybalkovou je to docela výšlap. Nemletý bio decaf měli jen jeden. Zato nemlék měli hned několik a dokonce měli bordel v cenách. Upozornil jsem na to paní na kase a ta to se mnou šla vyřešit a asi 5x mi poděkovala. Bylo to milý.<br>
@@ -307,8 +308,7 @@ Na linku, kterou jsem přeorganizoval i na útěrku v ošatce. Radši jsem ho je
 Abych nabral trochu sluníčka, vyrazil jsem místo do Lidlu, do Albertu na Pankrác. Je tam Tchibo krám a já měl pocit, že prodávají Colombia místo Brazil Decaf.<br>
 Neměli. Ale měli tam fajn paní prodavačku. Povídali jsme si o matematice, která jí nešla a o dózách, které má doma.<br>
 V Albertu jsem nakoupil, bio rajčata, lučinu, pomazánku z fazolí a bazalku. Věci které má k snídani Miška ráda.<br>
-Zpátky jsem šel s podcastem v uších. Poslouchal jsem Antonína Kokeše. Pána, který založil Antonínovo pekařství.
-
+Zpátky jsem šel s podcastem v uších. Poslouchal jsem Antonína Kokeše. Pána, který založil Antonínovo pekařství.<br>
 K chlebu jsem se dostal až někdy v půl desáté večer. Sice vykynul, ale když jsem ho dal na rozpálený plech, splaskl a stala se z něj spíš placka. Praskl ale přesně jak jsem chtěl. Do tvaru srdíčka.<br>
 Miška se mě vyptávala, jestli za ní přijdu. Chtěl jsem aby to bylo překvápko, ale vyfoukla mi to. Skoro mi to vymlouvala, ale napsal jsem jí, že tam chci být a myslel to smrtelně vážně.
 
@@ -319,7 +319,7 @@ V batohu jsem vezl chléb, lučinu, rajčata, fazolovou pomazánku a bazalku ve 
 Tramvaj 96 mě se strašlivě dlouhou zastávkou na Lazarské dovezla na Masaryčku. Zbytek jsem došel a stavbou na Florenci jsem se promotal přesně v momentu, kdy Míša napsala, že čeká v hale.<br>
 Vzal jsem jí krosnu a vyrazili jsme na tramvaj, ale jela asi až za 10 minut a Míše byla zima. V Korei bylo 21 stupňů v noci. Naštěstí nám to pak docela dobře navazovalo.
 
-<a href="../images/2024_january/21_1.png" target="_blank"><img src="../images/thumbnails/2024_january/21_1.png"></a>
+<a href="../images/2024_january/21_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/21_1.jpg"></a>
 
 Snídani jsme si dali v posteli po tom co si Miška dala sprchu. Sprcha po výletě to je věc. Chápu jak moc se na ní těšila. V autobuse se ale nevyspala a jetlag jí začínal dojíždět. Po snídani, která jí udělala radost jsme si lehli. Chvíli povídali a pak na ní přišlo spaní. Tak tvrdé, že i přes to, že mě praštila čelem do čela až to zazvonilo, chrupkala dál.<br>
 Vstávali jsme někdy před desátou a z postele se vykopali po jedenácté.<br>
@@ -330,17 +330,42 @@ Ale z vyprávění bylo jasné, že jí to tam hrozně bavilo a já měl radost,
 Dál nás naše kroky vedly tunelem dolů na Ostrčilák a pak ke CAMPu. *Chai Latté* ozvala se Miška. Byl jsem za. Došli jsme dovnitř, dali si oba zmíněný nápoj, Míša ještě bábovku a během pití jsem Míše povídal o mlýnku na kafe.<br>
 Pak jsme si šli prohlédnout výstavu *Praha zítra? Město a řeka*. Bylo to moc fajn. Obzvlášť mě bavilo chodit s UV lampou a hledat přítoky Vltavy.
 
-<a href="../images/2024_january/21_2.png" target="_blank"><img src="../images/thumbnails/2024_january/21_2.png"></a>
+<a href="../images/2024_january/21_2.jpg" target="_blank"><img src="../images/thumbnails/2024_january/21_2.jpg"></a>
 
 Na Míšu už ale skutečně padala únava. Otočili jsme to zpátky na opačnou stranu, zastavili se v Albertu, pro SSD a vyrazili zpět na Švédskou.<br>
 Na zámku jsme si rozdělili chléb, pořádně se objali a já vyrazil zpátky na tramvaj.<br>
 Cítil jsem se trochu smutný, když jsem sestupoval k Andělu. Částečně to bylo tím, že jsem si průběh dne asi představoval asi maličko vřelejší a asi jsem si představoval, že usneme spolu. Ale taky tím, že to strašně rychle uteklo, jako s Miškou vždycky. Napsal jsem jí jak se teď cítím. Přišlo mi to důležitý. Chyběla mi najednou ještě trochu víc než v posledních dnech. Bylo třeba si k sobě opět najít cestu.
 
-### 22.1.
+### 22.1. Uklidněný
+
+V neděli jsem se nestíhal ostříhat. Byl to nabitý den. Ale ze zrcadla už na mě koukal stařec s pleškou. Strojek to zas vrátil na únosnou mez. Rozdíl mezi Hariem a Comandantem jsem si začínal uvědomovat téměř bolestně. Dobře 3x tolik energie jsem spálil na stejné množství kávy.<br>
+Během jízdy na drakovi po zasekané magistrále jsem si uvědomil, že fakt rád jezdím na silničce. Překvapilo mě, že taková myšlenka mi prolítla hlavou. Ten fakt přece rozhodně vím. Zřejmě kvůli jízdám na městských kolech se ale vrátil s větší razancí.<br>
+Protože chleba se nepovedl, nastal čas pořídit si váhu. Padla mi do oka váha na kávu. Přesná, krásná, se silikonovou podložkou. Normální kuchyňské váhy se pohybovaly kolem čtyř stovek. Takhle stála litr. Alza premium jí ale měla o 250 korun levněji. A členství alza premium stálo 59 korun. Navíc členové používají alzabox zdarma. A tak jsem koupil ještě ošatku.<br>
+
+čištění konektorů<br>
+Jirkovi se bude stýskat po Vietnamce<br>
+Na kole za Miškou<br>
+Vaření lilku<br>
+V posteli jsme si pustili Harryho. Na Mišku šla dřímota tak po pěti minutách. Sám jsem na to koukat nechtěl. Je to naše společná činnost. A tak Miška laptop uložila, zhasnuli jsme a po pár větách můj přívěšek usnul.<br>
+Usínat opření o sebe čelem a ruku v ruce mi chybělo. Tak strašně moc.
+
+### 23.1.
+
+Probudit se vedle Mišky bylo moc fajn. Možná proto jsem si to zopakoval hned několikrát. Šli jsme spát hodně brzo a tak jsem se vzbudil lehce po šesté a do sedmé na kterou byl budík jsem ještě párkrát usnul. Naposledy jsem se budil a Miška mě držela za ruku.<br>
+V posteli jsme si ještě povídali. Budík ale Miška respektuje a z postele vystřelila rychleji než já.
+Zuby, oblečení, zabalení. Snídani moc nectí. V tom se neshodneme.<br>
+Cesta na Anděl byla nebezpečná. Chodníky byly namrzlé a mě navíc tahala váha kola. Ani jeden jsme se nenatáhli, ale blízko jsme k tomu měli oba.<br>
+Na andělu Míša doběhla desítku, zamávala mi z tramvaje a zmizela ve víru velkoměsta. Já si nasadil sluhátka a rukavice a vyrazil na jízdu do Karlína.<br>
+Pršelo podle mě jen od doby co jsem sedl na kolo do doby kdy jsem z něj sesedl. Maličko jsem se tomu schoval v Lidlu Na Příkopě, ale i po snězení dvou srbských kostek z nebe padala voda.<br>
+Úterý bylo pomalejší. S paní Tomanovou jsem konečně dořešil A1 formulář. Pokračoval v čištění konektorů a pomalu se prokousával nefunkčními ebufy.
+
+<a href="../images/2024_january/23_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/23_1.jpg"></a>
+
+K obědu jsem měl lilek z večera a chutnal mi možná ještě víc. Přišlo mi, že dobře odležel.
+
+
 
 <!--
-
-### 24.1.
 
 ### 25.1.
 
