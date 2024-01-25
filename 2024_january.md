@@ -25,6 +25,8 @@
 - [21.1. Rozčarovaný](#211-rozčarovaný)
 - [22.1. Uklidněný](#221-uklidněný)
 - [23.1.](#231)
+- [24.1.](#241)
+- [25.1. Netradiční](#251-netradiční)
 
 ### 1.1. Střízlivý
 
@@ -364,10 +366,39 @@ Pršelo podle mě jen od doby co jsem sedl na kolo do doby kdy jsem z něj sesed
 K obědu jsem měl lilek z večera a chutnal mi možná ještě víc. Přišlo mi, že dobře odležel.
 
 
+### 24.1.
+
+Na to, že jsem si dal budík na poměrně brzy, nabral jsem strašný zpoždění. Možná to bylo tím, že jsem se hodinu válel v posteli a půl hodiny cvičil jógu. Očkovací centrum bylo ve Revoluční. Vzal jsem to Bělehradskou nahoru, tunelem, Štěpánskou a přes Příkopy.<br>
+Byl jsme tam dvě minuty po půl a ještě deset minut čekal.<br>
+Zjistil jsem, že jsem i kdybych na třetí dávku v osmnácti šel, musel bych se nechat přeočkovávat, takže o peníze jsem vlastně nepřišel. Zatáhl jsem něco málo přes litr, dostal včeličku, sedl na draka a dojel do práce.<br>
+Opravoval jsem ebufy a kontroloval, zda mi nezačíná být blbě. Bylo, ale spíš z tý opakující se práce, než z očkování.<br>
+S Miškou jsme se dohodli, že spolu po práci vyjdeme na Petřín. K večeři vymyslela Miška podušenou zeleninu s Kozím sýrem a k tomu chléb. Poslední zmíněné bylo třeba sehnat. Slíbil jsem, že ho vyzvednu po práci v Antonínovi.<br>
+Cestou jsem potkal Slávu. V kapse měl Vincentku a chystal se na koncert někde na Žižkově. Naneštěstí už jsem měl plány. Možná někdy příště.<br>
+V pekařství mi paní natlačila chléb Toníček, místo poloviny Antonínova bochníku. Byl zrovna vytažený z pece a měl být ze stejného těsta. Souhlasil jsem. Taky jsem vzal jednu makovou a jednu povidlovou buchtu a vyrazil na tramvaj a metro na Karlák.<br>
+Rychle jsem si odskočil do keřů a pak vyzvedl Mišku na zastávce tramvaje shora. Dal jsem si makovou buchtu, ale Miška tu druhou nechtěla. Prý už měla sladkého dost.<br>
+Vyrazili jsme pěšky přes Myslíkovu, zastavili se v kostel, kde jsme s Mámou o vánocích zapalovali svíčky, přešli most legií, nezastavili se v Angelatu, protože Miška vábení cukru odolala, vyrazili do kopců s výhledy a povídali si.<br>
+Měl jsem hodně energie. Možná tím cukrem z buchty. Ale spíš z radosti z toho, že jsme byli spolu.<br>
+Už i míša začínala vypadat, že jí jetlag neničí a občas jí přes tvář přejel skutečný úsměv. Sedli jsme si na lavičku na místě s výhledem. Řešili jsme víkend a já si ukradl pusu. Bylo to konec konců místo pro randíčka.<br>
+jakým autem jela marťa?<br>
+zeleninu<br>
+miška balí<br>
+připálená<br>
+na harryho nezbyl čas<br>
+spát brzy
+
+### 25.1. Netradiční
+
+Když jsem se vzbudil, k budíku bylo ještě daleko. Míša ale byla vzhůru. Vzbudily jí křeče v břiše. Hrozně mě mrzelo, že jsem jí nemohl nijak pomoct. Šla na záchod a do sprchy a mě dala škrabošku, ale moc už jsem toho nenaspal. Ze sprchy se ke mně ještě na chviličku vrátila, ale už nalíčená. Olíznutí nosu už tak nepřipadalo v úvahu.<br>
+Taxík se pomalu blížil. Oblékli jsme se a vyrazili ven. Přijel úplně na přesno. Letmá pusa, zamávání a Mišku mi odvezl v modrý Kodiaq.<br>
+Vydal jsem se na dlouhou pěší pouť noční Prahou. Naštěstí bylo vlastně docela teplo. Dolů Holečkovou, přes most Legií, Národní, Na příkopě, Na Florenci a Křižíkovou. Nebylo co vymýšlet. Albert otevíral, zrovna když jsem k němu došel. Potřeboval jsem snídani a mléko do kafe.<br>
+Taky jsem nakoupil zeleninu na salát, ale když přišlo na polední lámání chleba, vyrazil jsem společně s kluky do jídelny. Měli meruňkové knedlíky. Trochu jsem to s cukrem přeháněl.<br>
+Dopo jsem psal návod na nový pákostroj na testování INTVMG zámků a fotil fotky do něj. Odpo jsem pokračoval v oživování rozbitých ebufů. Už mi z toho začínalo mrdat.<br>
+Večer byla ČSFD projekce. Rozhodl jsem se dojet na Čerňák na kole. Trasou, kudy jsem ještě nejel. Nahoru na Vítkov, pak ulicí Na Balkáně, skrz Třešňovku, podél Rokytky a pak ke Kyjskému rybníku a zadem k ikee, kde jsem plánoval povečeřet.<br>
+Výšlap na Vítkov je masakr. Na Balkáně a v Třešňovce byl neskutečný výhled na nevyfotitelný úplněk. U Rokytky jsem se ztratil stejně jako s Marťou a ucpal si vidlici blátem. A nakonec skončil na A26. Tou ale normálně nejezdím, tak to vlastně vyšlo.<br>
+12 Plant Bullar s nekonečným kafem a k tomu šnek za 114 Kč je fajn. Dokonce jsem i zapsal něco málo do deníku.
+
 
 <!--
-
-### 25.1.
 
 ### 26.1.
 
