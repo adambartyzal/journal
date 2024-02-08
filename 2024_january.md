@@ -31,6 +31,8 @@
 - [27.1. Přijatý](#271-přijatý)
 - [28.1. Oslepený](#281-oslepený)
 - [29.1. Vysušený](#291-vysušený)
+- [30.1.](#301)
+- [31.1.](#311)
 
 ### 1.1. Střízlivý
 
@@ -473,11 +475,45 @@ Na ranní jógu jsem neměl čas. Myl jsem nádobí, zadělával těsto na chleb
 V práci ale bylo extrémní sucho. Celý den jsem bojoval s bolehlavem.<br>
 Brazilcům vypadl server, kde ebuf ověřuje fw VSAMů. Vláďa byl v Barceloně, ale když jsem ověřil co se skutečně děje, poslal jim ticket. Opravili to docela rychle. Na to že jsou o několik hodin po nás.<br>
 
+### 30.1.
 
-<!--
+plán jít po práci do knihovny hrát na piáno<br>
+v deset soudní znalec, asi šedesátiletý pan čermák, co navrhoval jaderný reaktor a ocenil naší práci slovy před vámi klobouk dolů<br>
+s Ivanem do vietnamky<br>
+na nákup do gm<br>
+skripty na kopírování obrázků<br>
+míša píše že přijede až v sedm<br>
+nešťastný<br>
+rozhodl jsem se udělat něco hezkého<br>
+uvařit jí večeři a oběd<br>
+laptop v práci, přes lidl, špenát a noky<br>
+prý až v devět na smícháči<br>
+uvařil jsem, nacpal všechno do batohu a místo na kole jsem vyrazil pěšky<br>
+tom jí nakonec hodil domů, došla pro auru a po asi dvaceti minutách čekání přišla shora<br>
+terka už šla spát<br>
+ohřáli jsme jídlo, rajčata měli s balsamicem a k tomu teplý čaj z termosky<br>
+míša byla hotová, v objetí mi usnula asi za minutu<br>
+asi jsem jedl moc pozdě, usnout mi trvalo dlouho a párkrát jsem se vzbudil<br>
+i tak ale spánek vyšel na 80/100
 
 ### 31.1.
 
-[>> Únor](2024_february.md)
+miška nemá rádá, když na ní pouštím zimu. z postele se musí z nuly na sto<br>
+zuby, opečení vlasů a ven<br>
+pěšky dolů, začalo pršet i když siri si to nemyslela<br>
+oc zavřené<br>
+metrem do práce<br>
+totem nestartoval, nevím proč, žádné chyby asi kabel?<br>
+Dj v práci už před osmou. na schůzi posun letu o týden<br>
+uklid na stole<br>
+s miškou do vietnamu<br>
+miso, padthai, bun dau nam bo<br>
+vzadu za karlínem<br>
+do tmy a odpornýho tunelu<br>
+vystoupat na vítkov, o podcastu<br>
+do aera<br>
+ondra, immich<br>
+pak i marťa, o zélandu<br>
+film o bankovní loupeži<br>
 
--->
+[>> Únor](2024_february.md)
