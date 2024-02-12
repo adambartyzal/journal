@@ -6,6 +6,8 @@
 
 ### 2.2.
 
+<a href="../images/2024_february/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/2_1.jpg"></a>
+
 ### 3.2.
 
 pečení chleba číslo 5<br>
@@ -14,7 +16,16 @@ taky příště<br>
 za miškou<br>
 pěšky
 
+<a href="../images/2024_february/3_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/3_1.jpg"></a>
+
 ### 4.2.
+
+<a href="../images/2024_february/4_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/4_1.jpg"></a>
+
+<a href="../images/2024_february/4_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/4_2.jpg"></a>
+
+<a href="../images/2024_february/4_3.jpg" target="_blank"><img src="../images/thumbnails/2024_february/4_3.jpg"></a>
+
 
 Luděk bartyzal
 
@@ -29,13 +40,56 @@ polský jednotky
 
 Glucose Revolution
 
-### 6.2.
+přišla svářečka
 
-k doktorovi<br>
-zbytečně<br>
-aspoň jsem se projel
+### 6.2. Čtvrté v řadě
+
+Bez snídaně k doktorovi s močí ve skleničce. Jasně že měl dovolenou. Pan doktor Hančík má vždycky dovolenou. Zanadával jsem si, využil jeho zbrusu nový online objednávací systém a zapsal jsem se na sedmou ranní o týden později.<br>
+Do Karlína jsem to vzal přes Bohdalec, Slavii, Želvu a Hartigovu. Aspoň jsem se projel, když nic jinýho.<br>
+V Albertu jsem si pořídil snídani. *Glucose Revolution* říká *veggie first*. Zvolil jsem bio rajčata, olivové šneky a bio camembert ke snídani a salát s tofu k obědu.<br>
+Dorazil jsem polské jednotky, poobědval a vrhnul se na opravy. Kolem čtvrté jsem v podstatě neměl co dělat.<br>
+Odepsal jsem customer service z belenka. Krabice s botami ležela v Karlíně zabalená už od pátku a já neměl zimní boty do finska.<br>
+To jsem se rozhodl vyřešit. Na Poděbradské byl obchod naBOSo. Měli hezké XERO shoes ve slevě. Akorát byly jen ve 40. Dojel jsem tam a objevil, že xera nejsou pro mě. Zato mě ale nedchly Angles Atlas Winter Nut. Byly podobnějším mým Merrellům co do pocitu z boty na noze. Prošel jsem se v nich a cítil, že to je bota kterou si odvezu. Obchodu zrovna moc nefungoval systém, ale milý pán to dokázal nějak vyhackovat.
+
+<a href="../images/2024_february/6_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/6_1.jpg"></a>
+
+Nacpal jsem krabici do batohu a vyrazil přes Jarov domů. Praha skutečně postrádá diagonální spojku. Jel jsem cik cak celou cestu.<br>
+Od Sáry jsem vyzvedl Koru a šel jí vyvenčit do Nuslí.
+
+<a href="../images/2024_february/6_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/6_2.jpg"></a>
+
+Do uší mi zněl podcast, který Miška vybrala. BWA s Petrem Márou. Bylo to zajímavý, ale šel z toho na mě pocit, že ve svém životě nejsem moc ambiciózní. Nezakládám firmy a tak.<br>
+Napsal jsem to Mišce. Vymlouvala mi to. Ale jednu větu napsala zvláštně. Na:
+
+> Jsi s tím v poho? Nevidíš se v budoucnu s někým, kdo bude zakládat společnosti a žít extravagantní život? Já jsem docela nudnej člověk.
+
+mi odepsala:
+
+> S tímhle jsem v pohodě 🙂
+
+Optal jsem se s čím tedy není. Chvíli mi neodpovídala úplně na přímo, ale pak jsme to otevřeli.
+
+> Co jsem se vrátila, tak to není úplně ono. To cítíme oba a myslím, že nás to oba hlodá.
+
+Nebyla to lehká konverzace. Měl jsem pocit, že jsem na tom zapracoval. Ale asi ne dost. Nebo bylo špatně něco jinýho. Ale pohltil mě strach a pocit, z budoucnosti, která nebude úplně růžová.<br>
+Nemohl jsem usnout. Nemohl jsem spát. Měl jsem pocit, že se mi začíná tříštit svět.
 
 ### 7.2.
+
+Ráno jsem byl v tom pořád. Nezabalil jsem vůbec nic, ale aspoň jsem se ostříhal. A upekl chléb číslo 6. Opět splaskl. Ale nějak mě to nezarazilo. Rostl aspoň do stran. Rozhodl jsem se, že chleba číslo sedm bude z<br> chlebové mouky. Možná, že ta pšeničná hladká z Lidlu je ten problém.<br>
+Napadlo mě, že Mišce napíšu jak se cítím na papír. To jak jsem si představoval věci po jejím návratu. napsal jsem jí o tom zprávu a souhlasila, že to uděláme oba. Že je to dobrý nápad.<br>
+Do práce jsem to vzal po magistrále. Kluci z Malešic přijeli už v 10 hodin. Servisovali kola, bavili se s námi o planetách a pak vyrazili hromadně do Kanady.<br>
+Před obědem jsem všem nabídl chléb číslo 6. Všem chutnal. Poměry tedy mám dobré. Možná mi pomůže ta mouka.<br>
+návštěva kolbenky
+
+<a href="../images/2024_february/7_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/7_1.jpg"></a>
+
+náš nový výhled<br>
+
+<a href="../images/2024_february/7_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/7_2.jpg"></a>
+
+výslechová místnost<br>
+
 
 ### 8.2.
 
@@ -67,10 +121,18 @@ K ní jsme jeli autobusem. Vlastně jsem ho dobíhali. U ní už jsme si vlastn�
 
 Miška ale v noci nekašlala. Já jsem se sice asi 5x vzbudil, ale vždycky tiše podřimovala. Až asi do desíti ráno.
 
+<a href="../images/2024_february/10_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/10_1.jpg"></a>
+
+<a href="../images/2024_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/10_2.jpg"></a>
+
+
 ### 11.2. 20 posledních chvil
 
 Ráno ale Miška zase byla netýkavá. Sice jsme byli propletení spolu a na venek to vypadalo, že se máme líp. Ale něco nefungovalo.<br>
-Venu bylo hnusně. Neměli jsme moc plán, ale bylo třeba se najíst. Nakrájel jsem chleba a jablko. Miška namazala zbytek pomazánky. Uvařili jsme čaj a šli si to dát do pokoje na dece.<br>
+Venu bylo hnusně. Neměli jsme moc plán, ale bylo třeba se najíst. Nakrájel jsem chleba a jablko. Miška namazala zbytek pomazánky. Uvařili jsme čaj a šli si to dát do pokoje na dece.
+
+<a href="../images/2024_february/11_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/11_1.jpg"></a>
+
 Po snídani jsme se pustili do deskovek. Co jinýho když venku prší.<br>
 První bylo Santorini. Nikdy jsem to nehrál, ale vlastně to nebylo moc složitý. Porazil jsem Mišku obou prvních hrách podle standardních pravidel a potom i v rozšířené verzi.<br>
 Přešli jsme na šachy. Vyhrál jsem za černé. A pak dvakrát za bílé. Každá další hra ale byla zapeklitější než předchozí. I přes to, že to bylo nevyrovnané nás to bavilo.<br>
@@ -95,12 +157,25 @@ Stála v brance a hleděla na mě.<br>
 Neměl jsem na to. Šel jsem dál.<br>
 Dolů za obzor.<br>
 V slzách.<br>
+Deštěm.
+
+<a href="../images/2024_february/11_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/11_2.jpg"></a>
+
 Pomalu, zmítaje se v záchvatu breku jsem pomalu a roboticky mířil na tramvaj. V tescu jsem si koupil bagetu abych se nějak zaměstnal. Reálně jsem ale neměl hlad. Jen jsem věděl, že potřebuju jíst. Za poslední tři dny jsem toho moc nesnědl.<br>
 V sedmičce jela paní s roztomilým pejskem Zarou. Drbal jsem jí a paní koukala do mobilu a koukala na Fjael Raven krosny. Řekl jsem jí, že znám někoho, kdo má Kajku a vychvaluje si jí a proč. Asi bych na ní kdysi nepromluvil, ale najednou mi to přišlo správný. Trochu jako odkaz nás dvou. Miška je vlivník a já si povídám s lidmi.<br>
-Tři minuty před zavíračkou jsem došel do Lidlu. Koupil jsem si věci na tortily. Přemýlel jsem, že půjdu za Sárou. Nechtěl jsem být doma sám a kamarád by mi pomohl, ale neodpověděla mi na zprávu a já to neeskaloval.<br>
+Tři minuty před zavíračkou jsem došel do Lidlu. Koupil jsem si věci na tortily. Přemýšlel jsem, že půjdu za Sárou. Nechtěl jsem být doma sám a kamarád by mi pomohl, ale neodpověděla mi na zprávu a já to neeskaloval.<br>
 Doma jsem si udělal tortilu, dal si jedno sousto a rozbrečel se tak, že jsem nebyl schopný jíst.<br>
 Dal jsem jídlo do lednice a rozhodl se vyřešit svou současnou situaci tak jak to v posledních dvou letech dělám. Začal jsem psát.
 
-### 12.2.
+### 12.2. S občasným záchvatem slz
+
+jít běhat<br>
+záchvat u lavičky, kde jsme se potkali<br>
+další na výhledu, kde jsme byli před spaním na ctiradu<br>
+v dalších kolech už to bylo lepší<br>
+dal jsem 3<br>
+Vlakem a na rekole<br>
+jen 62 kilo<br>
+fbc tester a opravy z krakowa<br>
 
 [>> Březen](2024_march.md)

@@ -475,6 +475,8 @@ Na ranní jógu jsem neměl čas. Myl jsem nádobí, zadělával těsto na chleb
 V práci ale bylo extrémní sucho. Celý den jsem bojoval s bolehlavem.<br>
 Brazilcům vypadl server, kde ebuf ověřuje fw VSAMů. Vláďa byl v Barceloně, ale když jsem ověřil co se skutečně děje, poslal jim ticket. Opravili to docela rychle. Na to že jsou o několik hodin po nás.<br>
 
+<a href="../images/2024_january/29_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/29_1.jpg"></a>
+
 ### 30.1.
 
 plán jít po práci do knihovny hrát na piáno<br>
@@ -504,7 +506,10 @@ pěšky dolů, začalo pršet i když siri si to nemyslela<br>
 oc zavřené<br>
 metrem do práce<br>
 totem nestartoval, nevím proč, žádné chyby asi kabel?<br>
-Dj v práci už před osmou. na schůzi posun letu o týden<br>
+Dj v práci už před osmou. na schůzi posun letu o týden
+
+<a href="../images/2024_january/31_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/31_1.jpg"></a>
+
 uklid na stole<br>
 s miškou do vietnamu<br>
 miso, padthai, bun dau nam bo<br>
@@ -515,5 +520,6 @@ do aera<br>
 ondra, immich<br>
 pak i marťa, o zélandu<br>
 film o bankovní loupeži<br>
+přišlo mi, že Miška je mi blíž
 
 [>> Únor](2024_february.md)
