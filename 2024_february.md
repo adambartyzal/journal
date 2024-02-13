@@ -4,6 +4,14 @@
 
 ### 1.2.
 
+Od mišky pěšky<br>
+deštivo<br>
+do lidlu<br>
+u kasy rozbité sklo<br>
+s krabicí skla až na masaryčku<br>
+salát s řasou<br>
+
+
 ### 2.2.
 
 <a href="../images/2024_february/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/2_1.jpg"></a>
@@ -93,6 +101,21 @@ výslechová místnost<br>
 
 ### 8.2.
 
+Sbalit se<br>
+Tramvají do Malešic<br>
+autobus mi ujel<br>
+mírným deštěm až do výroby<br>
+Multimetr<br>
+změřit zdroj<br>
+pěšky na tramvaj<br>
+dobíhat 24 u vozovny<br>
+roztomilý pejsem<br>
+posledních pár minut bez jízdenky<br>
+tunelem dolů<br>
+rovnou do indie<br>
+Domů pěšky, zastávka v albertu, poslech veganského doktora<br>
+
+
 ### 9.2. Nepřipravení
 
 běhat do grébovky
@@ -129,28 +152,21 @@ U přívozu jsme se vyfotili a fotku poslali Anet.
 
 Byla to její domovina. Pan převozník měl asi blbý den. Konverzoval s lidmi, ale ze small talků bylo jasný, že by radši byl doma.<br>
 Nás naše kroky vedly ke sluneční soustavě. Přišlo mi, že Slunce by mohlo být klidně dvakrát větší. Takhle je měřítko sice hezky kulaté na miliardakrát menší (myslím). Půlmiliardakrát by taky bylo dobrý měřítko.<br>
-na vyhlídku<br>
-sedět na moký zemi a koukat na vlaky<br>
-po louce<br>
-dolů blátivou cestou pro koně<br>
-o fotce od dana<br>
-údolí jsou stejná<br>
-Větrolamem<br>
-Vylidněná oblast z minulého tisíciletí<br>
-mříže na oknech<br>
-Do areálu nemocnice<br>
-v domě s divadlem hezká kavárna<br>
-2 brokolicové krémy decaf flatwhite a mošt<br>
-lapeni v areálu<br>
-hlavní branou k oc odra, které zrovna bourali<br>
-třiceti minutovou? Přes Kobylisy to bylo možné.<br>
-Do knihovny, piáno obsazené, krycí jména, hádat mi jde, vymýšlet spojtosti vůbec. Úplně jsem selhal. A bavilo mě to.<br>
-Do campu na film *A Lot With Little*<br>
-Perník a makovec<br>
-Na vyvýšeném gauči
+Zastavili jsme se u tabule s informacemi o Nobelově Dynamitce. Na stezce bylo spousta cyklofašistů. Někde za Marsem se naštěstí cesty rozdělovaly a o planetu dál už jsme odbočovali na blátivou stezku na vyhlídku. Při stoupání na Mišku přišel záchvat kašle. Měl jsem o ní obavy, ale prý prostě při pohybu kašle víc, ale je to prý normální. Nahoře jsme ale stejně zastavili. Sedli jsme si na zem, popíjeli mátový čaj a koukali jsme na řeku a na vlaky. Jeden byl fakt extrémně dlouhej.<br>
+Místo údolím jsme pak šli nahoře po louce. Ale i dolů jsme zas sešli. Blátivou cestou pro Koně.<br>
+Diskutovali jsme nad tím, že údolí v čechách vypadají všechna stejně. Miška by v údolí nechtěla bydlet. Chyběly bi jí výhledy.<br>
+Po chvíli jsme došli k Vetrolamu. Jednomu z cílů naší cesty. Trojitým stromořadím uprostřed dvou polí. Bylo to super. Dalo se kličkovat mezi stromy a bylo to na takový nepražský. I Čimice bypadaly nepražsky. Byly úplně vylidněné a všehno vypadalo jako v osmdesátých. Ne v tom dobrým slova smyslu. Domy navíc měly všude mříže a pocit bezpečí nám byl na míle vzdálený. I když vlastně by to nebylo tak těžký vylepšit. Miška navrhovala prořezat klestí a udělat dřevěné sezení u rybníka.<br>
+Nakonec jsme došli do Psychiatrické nemocnice. Naposledy jsem tam byl na festivalu Mezi Ploty.<br>
+Prováděl jsem Mišku areálem, ale byl větší než jsem si pamatoval a budovu, ve které je divadlo, jsme našli asi až na popáté. Byla v něm ale hezká kavárna. Dali jsme si tam 2 brokolicové krémy, decaf flatwhite a mošt. Polívka byla moc dobrá a paní co nás obsluhovala trochu uťáplá, ale moc milá. Myslím, že prošla léčením a integrovala se zpátky do společnosti. Divný slovní obrat. Přišla mi milejší než většina společnosti.<br>
+Na cestě z areálu ven jsme ale narazili na zavřený plot. Museli jsme se vrátit k hlavní bráně. Došli jsme k OC Odra, kde milý pán prodává kebaby a nasedli na autobus. Nakoupil jsem jen třiceti minutový lístek, ale díky Miščině umění hledat správné spoje jsme s přestupem na Kobylisech dojeli na Staroměstskou včas a došli do knihovny. Piáno bylo naneštěstí obsazené. Dixit byl pro tři. Scrabble nudný a tak mě Miška šla učit krycí jména. Měli Česko Ukrajinskou verzi určenou pro integraci uprchlíků. Vlastně to byl geniální nápad. Mišce ale chyběly obrázky, které ve standardní verzi jsou.<br>
+Hádat mi šlo. Vymýšlet spojtosti vůbec. Úplně jsem selhal. A to mě bavilo.<br>
+Pán se od piána nezvedl až do zavíračky a poslední partii jsme dohráli po vyhlašování toho, že bychom měli opustit knihovnu.<br>
+A tak jsme šli do CAMPu. Měli tam novou výstavu. Film *A Lot With Little* o chytré architektuře za málo peněz různě po světě. Miška si dala Chai Latté. Já Perník a k tomu dostal makovec zdarma a po chvíli hraní si s legem jsme se přesunuli před 3 projekční plochy. Chvíli jsme seděli na fatboyi, ale vyvýšený gauč přímo uprostřed se uvolnil a my se přesunuli na něj.<br>
 
 <a href="../images/2024_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/10_2.jpg"></a>
 
+Film to byl moc zajímavý. A dost ho bylo v místech, kde už jsem byl. V Barceloně jsme dokonce byli spolu. Nejvíc mě zaujala stavba ve tvaru termitiště. Blbý bylo, že o tom vlastně vůbec nemluvili. Dvě stavby byly v Peru. Asi chci do Peru.<br>
+Z CAMPu jsme šli k Mišce pěšky. večer po sprše jsme leželi u ní pod peřinou.
 
 ### 11.2. 20 posledních chvil
 
@@ -226,3 +242,5 @@ Piánko ale nevlastním. Vlastní ho Robin. Rozhodl jsem se impromtu vyrazit do 
 V pět jsem tak na kole vystřelil na hlavák. Vlak do hory byl tragickej. 156 za soupravu, kde nebyly háky na kola, wifi ani zásuvky. Za císaře pána jezdily takhle kvalitní vlaky. Ale byl rok 2024. Velký špatný.
 
 [>> Březen](2024_march.md)
+
+### 14.2. Něco romantickýho
