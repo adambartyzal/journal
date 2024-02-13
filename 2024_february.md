@@ -114,14 +114,40 @@ Vyšli jsme ven a dali se k Vyšehradu. Kašel Mišku ještě úplně nepřešel
 Podobně jako před vánoci jsme se do toho nevrhli rovnou. Ale šli jsme k tomu příměji. Došli jsme až k lavičce na výhledu na Cukrák a tam se posadili. Miška nic napsat nestihla. Přečetla si mé tři papíry a pak jsme si začali povídat. Řekl jsem jí, že mám pocit, že Zéland mi jí vzal. Že i když je zpátky, tak si nejsme blízko a že i když se jí snažím dát prostor, tak to nepomáhá. Miška mi zas řekla, že jí mrzí, že mi neřekla některé věci dříve. Že čekala až před Vánoce. Že necítí to co ke mně cítila, než odjela. A že neví co s tím. Že má pocit, že věci v našem vztahu dělám víc kvůli sobě než kvůli ní. Já jsem jí řekl, že potřebujeme být víc spolu a i přesto, že mi bylo jasný, že mě chce poslat domů, tak jsem řekl že být spolu bude lepší, než když mě pošle do Vršovic. Že když nebudeme spát vedle sebe, budu se doma užírat a bude to horší.<br>
 A tak jsme pod deštníkem vyrazili z Vyšehradu dolů. Vlastně nebylo tak pozdě jak se zdálo. Za povídání si, jsme sešli na Albertov a rozhodli se, že půjdeme do Neustadtu na něco teplého.<br>
 Na Karláku na nás bafal nějaký kuřák dým, což Mišku (a vlastně i mně) štvalo. Její kašel se v chladném večeru zhoršoval. Báli jsme se, že kavárna bude plná. Ale nebyla. Chai latté pro ní a horký mošt pro mne.<br>
-Povídali jsme si kostrbatě. Jak na prvním rande. Ne na našem skvělém prvním rande. Ale na nějakém nepovedeném prvním rande z tinderu. Ale párkrát se zasmála. Měl jsem pocit, že by to mohlo být horší. Diskuse se točila převážně kolem glucose goddess a kolem toho, že bychom mohli jít hrát na klavír. Teplý nápoj Mišce trochu pomohl s kašlem.<br>
+Povídali jsme si kostrbatě. Jak na prvním rande. Ne na našem skvělém prvním rande. Ale na nějakém nepovedeném prvním rande z Tinderu. Ale párkrát se zasmála. Měl jsem pocit, že by to mohlo být horší. Diskuse se točila převážně kolem glucose goddess a kolem toho, že bychom mohli jít hrát na klavír. Teplý nápoj Mišce trochu pomohl s kašlem.<br>
 K ní jsme jeli autobusem. Vlastně jsem ho dobíhali. U ní už jsme si vlastně jen dali sprchu a šli si lehnout. Chvilku jsme byli pod jednou peřinou a i přes to, že kašlala jsem se rozhodl jí políbit. Dělal jsem si trochu srandu, z toho, že se budu nesnášet až začnu kašlat, ale že mi to za to stojí. Vlastně jsem si nedělal srandu. Přesně to jsem cítil.
 
 ### 10.2. Mezi ploty
 
-Miška ale v noci nekašlala. Já jsem se sice asi 5x vzbudil, ale vždycky tiše podřimovala. Až asi do desíti ráno.
+Miška ale v noci nekašlala. Já jsem se sice asi 5x vzbudil, ale vždycky tiše podřimovala. Až asi do desíti ráno. K snídani jsme si udělali řepovou pomazánku. Chtěl jsem jí udělat sám, protože Miška si chtěla zatelefonovat s Ivou, ale pomohla mi, protože vyznat se u nich v kuchyni jsem stále nezvládal.<br>
+Připravil jsem nám sezení a během telefonátu jsme snídali. Iva byla na několik týdnů v něčem, co zřejmě byly lázně. Snad jí to pomůže. Měl jí navštívit Ondra s Pepou. A s Pepou se člověk vždycky zasměje.<br>
+My jsme vyrazili na výlet. Vybral jsem Drahanské Údolí. Cestu přes Strahov, Dejvice a Přívoz po Babou. Na příjezd posledního autobusu bychom čekali na Kulaťáku příliš dlouho a tak jsme vyrazili na Čínskou. I tam jsme čekali dlouho, protože za ty dvě zastávky nabral autobus zpoždění.<br>
+Řídil ho takový nepříliš milý Ukrajinec. Omylem jsme zmáčkli výstupní tlačítko o zastávku dříve a způsobili fauxpa, protože kvůli nám vystupovali lidé, kterým jsem se omlouval, že vystupovat budeme až u přívozu. Řidič na nás spustil litanii o tom, že zdržujeme. Hlavně že on přijel o 15 minut později. Slušně jsem se omluvil a při výstupu slušně pozdravil. Jedna paní s námi naštěstí soucítila.<br>
+U přívozu jsme se vyfotili a fotku poslali Anet.
 
 <a href="../images/2024_february/10_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/10_1.jpg"></a>
+
+Byla to její domovina. Pan převozník měl asi blbý den. Konverzoval s lidmi, ale ze small talků bylo jasný, že by radši byl doma.<br>
+Nás naše kroky vedly ke sluneční soustavě. Přišlo mi, že Slunce by mohlo být klidně dvakrát větší. Takhle je měřítko sice hezky kulaté na miliardakrát menší (myslím). Půlmiliardakrát by taky bylo dobrý měřítko.<br>
+na vyhlídku<br>
+sedět na moký zemi a koukat na vlaky<br>
+po louce<br>
+dolů blátivou cestou pro koně<br>
+o fotce od dana<br>
+údolí jsou stejná<br>
+Větrolamem<br>
+Vylidněná oblast z minulého tisíciletí<br>
+mříže na oknech<br>
+Do areálu nemocnice<br>
+v domě s divadlem hezká kavárna<br>
+2 brokolicové krémy decaf flatwhite a mošt<br>
+lapeni v areálu<br>
+hlavní branou k oc odra, které zrovna bourali<br>
+třiceti minutovou? Přes Kobylisy to bylo možné.<br>
+Do knihovny, piáno obsazené, krycí jména, hádat mi jde, vymýšlet spojtosti vůbec. Úplně jsem selhal. A bavilo mě to.<br>
+Do campu na film *A Lot With Little*<br>
+Perník a makovec<br>
+Na vyvýšeném gauči
 
 <a href="../images/2024_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/10_2.jpg"></a>
 
@@ -169,13 +195,34 @@ Dal jsem jídlo do lednice a rozhodl se vyřešit svou současnou situaci tak ja
 
 ### 12.2. S občasným záchvatem slz
 
-jít běhat<br>
-záchvat u lavičky, kde jsme se potkali<br>
-další na výhledu, kde jsme byli před spaním na ctiradu<br>
-v dalších kolech už to bylo lepší<br>
-dal jsem 3<br>
-Vlakem a na rekole<br>
-jen 62 kilo<br>
-fbc tester a opravy z krakowa<br>
+Moc jsem nespal. Taky abych spal. Miška mě opustila. Rok života proletěl komínem. To byla blbost. Byl to boží rok. Společně s 2018 asi nejlepší mýho života.<br>
+*Jenže co teď?*<br>
+Brečet a koukat do stropu?<br>
+*To je k hovnu.*<br>
+Šel jsem běhat. 3 výběhy na Grébovku.<br>
+Neošlo mi, že poběžím kolem lavičky, kde jsme se potkali. Nedošlo mi, že poběžím přes výhled, kde jsme spolu několikrát seděli a koukali na Prahu. Třeba před nejlepším víkendem loňska.<br>
+Na obou těch místech jsem dostal mírný záchvat. Prostě mi došel dech a nebylo to během. Bylo to brekem, co se dral na povrch.<br>
+V dalších okruzích to bylo lepší. Týrat se umím, to je pravda.<br>
+Po běhu jsem přepnul na autopilota. Sprcha, snídaně, cesta do práce. Nic z toho si pořádně nepamatuju. Vím jen, že Draka jsem nechal v Karlíně a tak jsem jel vlakem a na rekole.<br>
+V práci mě překvapila moje váha. Měl jsem jen 62 kilo. Co si z toho odnést? Nevím. Bylo mi to jedno. Skoro všechno co se dělo mi bylo jedno.<br>
+Kreslil jsem si fbc tester a testoval desky z Krakowa.<br>
+Ivanovi a Jiřímu jsem pověděl co se stalo. Vyjádřili mi svou soustrast. A Ivan mi nabídl čokoládu. Ivan je kámoš.<br>
+Před pátou se rozechcalo. Zrovna když jsem potřeboval vyjet, protože moje nová Revolutka byla v nějaký výdejně SPZ a DPD hrozilo, že mi jí pošlou zpátky.<br>
+Na windy jsem ale našel bezdešťové okno a vyrazil.<br>
+Bláto se ale dostalo do drivetrainu. Stejně to budu muset všechno vyměnit. Talíře, kazetu i řetěz. Všechno to už má svý dny za sebou.<br>
+Doma jsem kartu aktivoval, snědl mexické fazole s tortilou a šel cvičit jógu, když jsem kvůli tý kartě nestihl jít plavat.<br>
+Večer na mě přišel nový pocit. Mišku nepotřebuju. Obrat o 180˚. Napsala mi Anet. Řekl jsem jí co se stalo a chvíli jsme si psali. Bylo jí to líto. Komu ne. Mě v tom momentu. Ale věděl jsem, že se to zas změní. Bylo na čase jít spát. Vstávat jsem měl brzo a 8 hodin do budíku už nezbývalo.
+
+### 13.2. Bojovat
+
+Další týden, další cesta k doktorovi. Tentokrát se vydařilo. Stejně mě ale doktor nasral. Byl jsem objednaný na 7:00. Přišel v 7:10 a vzal dva lidi přede mnou.<br>
+Navíc mi odmítl nechat změřit minerály a vitamíny. Moč a krevní obraz prý stačí. Kdyby s nimi bylo něco špatně, tak by dávalo smysl testovat něco více.<br>
+Cesta do Karlína byl frčák. Jel jsem prostředkem kolony a předjel snad 200 aut.<br>
+V Albertu jsem potkal petra, koupil bezva bramborový chléb, bio jogut, zeleninu a tofu. Snídaně i oběd tak byly vyřešené.<br>
+V práci jsem se věnoval opravě Krakowských elektronik a psal si s Evou o rozchodu s Miškou.<br>
+Dal jsem si dvě kafe. A protože decaf jsem pořád neměl, cítil jsem ten nájezd hodně. Možná to taky ale byl adrenalin. Rozhodl jsem se, že lístky do Merseburgu koupím. Možná to byla blbost. Možná jsem byl v prvním stádiu rozchodu. *Popírání*. Jenže Eva psala, že na začátku taky měli krizi. Anet taky řekla, že to nevidí tak černě a já si řekl, že stojí za to bojovat. Přinejhorším prohodím litr oknem a zůstanu venku v Mersburgu. Nebo v Halle, nebo s Drážďanech. Němci jsou hovada a stávkujou.<br>
+Taky mě napadlo, že Mišce půjčím piánko, aby mohla trénovat, zatím co budu pryč. Bylo to dětinský a absurdní. Ale to naše schůzka v Neustadtu taky. Bylo to jako já. Evě to přišlo romantický.<br>
+Piánko ale nevlastním. Vlastní ho Robin. Rozhodl jsem se impromtu vyrazit do Hory, půjčit si ho a vidět rodinu ještě před odjezdem do Finska.<br>
+V pět jsem tak na kole vystřelil na hlavák. Vlak do hory byl tragickej. 156 za soupravu, kde nebyly háky na kola, wifi ani zásuvky. Za císaře pána jezdily takhle kvalitní vlaky. Ale byl rok 2024. Velký špatný.
 
 [>> Březen](2024_march.md)
