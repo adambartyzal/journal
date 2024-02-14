@@ -151,23 +151,17 @@ Zapykal jsem si okno. Sice má mříže, ale jde otevřít.
 <a href="../images/2024_february/7_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/7_2.jpg"></a>
 
 Tohle bude náš nový výhled. Taky ale budeme mít výslechovou místnost. Na metro je to 7 minut. Do karlína přes dvacet.<br>
-
+Po práci jsem jel vyzvednout Revolutku, kterou DPD místo do Alzaboxu dodalo do nějakého krámu s SPZkami v ulici v Louži. V Louži byl příhodný název, protože déšť od poledne akorát zesiloval.<br>
+A déšť nebyl to jediné co mě štvalo. Krám měl dovolenou. Až do příštího týdne, kdy mi DPD vyhrožovalo tím, že balík pošle zpátky.<br>
+Vymrzlý jsem se doma ohřál ve sprše. Dočetl jsem Strika a odpadl.
 
 ### 8.2. Lyže do výroby
 
-Sbalit se<br>
-Tramvají do Malešic<br>
-autobus mi ujel<br>
-mírným deštěm až do výroby<br>
-Multimetr<br>
-změřit zdroj<br>
-pěšky na tramvaj<br>
-dobíhat 24 u vozovny<br>
-roztomilý pejsek<br>
-posledních pár minut bez jízdenky<br>
-tunelem dolů<br>
-rovnou do indie<br>
-Domů pěšky, zastávka v albertu, poslech veganského doktora<br>
+Balení jsem odsouval až na úplně poslední chvíli. Takže na ráno před tím, než jsem jel do výroby. Stejně jsem moc nevěděl co si sbalit. U snídaně jsem si napsal seznam. Po snídani naházel věci do OBI tašky, vzal lyže a lyžáky, hůlky jsem vyměnil za letní skládací hole, protože měly funkční šňůrky a vyrazil na sedmičku. Tak překvapivě jede až na depo Hostivař. Idea byla, přestoupit tam na bus, co jede před výrobu. Ale jezdí snad jednou za hodinu, takže i přesto, že jsem si koupil dlouhý lístek, jsem šel zbytek pěšky. A v dešti.<br>
+Do výjezdního kufru jsem klukům dal ještě multimetr. Napřed jsem s ním tedy změřil zdroj v nabíjecím boxu a zjistil, že naše hypotéza s nižším napětím byla chybná. Nebo aspoň bez zatížení byla. Ale měli tam jen nabité baterie.<br>
+Popřál jsem klukům pěknou cestu a vyrazil opět pěšky na travaj do Kalína. Dobíhal jsem. A 24ku u vozovny jsem dobíhal ještě rychleji. A poslední zastávku už jsem jel na černo. Ale stihl jsem to na ten jeden lístek. A viděl bezva pejska. Štěně huskyho asi. Nechával se drbat.<br>
+Vyzvedl jsem Vláďu a vyrazili jsme do indie.<br>
+Kvůli ránu jsem neměl kolo. Za poslechu DOAC jsem tak vyrazil pěšky přes Vinohrady, kde jsem se zastavil v Albertu.
 
 ### 9.2. Nepřipravení
 
@@ -300,7 +294,8 @@ Celý den jsem si říkal, že budu mít ohledně toho výletu nulová očekáv�
 Napsal jsem Míše, že držet rádiový ticho je blbost. Nenapsali jsme si totiž od neděle večer. Nevěděl jsem jak se má, jestli je v pořádku. Vlastně jsem ani nevěděl, jestli je v Merseburgu. Začínalo mi docházet, že jsem docela debil. Co v mý hlavě působilo romanticky začínalo zavánět průserem.<br>
 Jenže v hlavě mi jelo, že jsme to vzdali moc rychle. Že jsme, jak by řekla Eliška Remešová, ve vztahový nule. A vztahová nula přece není konec. Je to prostor pro práci a budování. Věřil jsem.<br>
 Na hranicích jsme zkejsli další hodinu. Někdo neměl pas. Ujel mi tak další vlak. Na ten jsem naštěstí nekoupil jízdenku. Kdyby jo. Prolítlo by komínem navíc 44 eur. A to už je randál.<br>
-Miška mi odepsala a trochu mi spadl kámen ze srdce.
+Miška mi odepsala a mě trochu spadl kámen ze srdce. Nezněla naštvaně. Jenže Miška nikdy nezní naštvaně. V Drážďanech jsem čekal 27 minut na vlak do Lipska. V Lipsku 32 minut na vlak do Groẞkorbethy a tam zas 22 minut na vlak do Merseburgu. Osm hodin jsem tou cestou zabil. Aspoň jsem dopsal něco do deníku. Vyjma posledních pár dní, které jsem sepsal v rámci terapie, jsem na deník nesáhl od 28.1. A za tu dobu se toho stalo hodně.<br>
+
 
 
 [>> Březen](2024_march.md)
