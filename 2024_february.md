@@ -19,22 +19,23 @@
 
 ### 1.2. Štěstí
 
-Od mišky pěšky<br>
-deštivo<br>
-do lidlu<br>
-u kasy rozbité sklo<br>
+Mišce letělo ve dvanáct letadlo. Před odletem ale měla naplánovaný call. Rozhodla se ho vzít na letišti a tak jsme vyrazili ráno od ní spolu. Teda k brance spolu. Dál už jsme šli každý po svém.<br>
+Já dolů k řece, národní a do lidlu na příkopě.<br>
+U samoobslužné kasy jsem upustil batůžek, ve kterém byla skleněná ikea miska. Střepy tak byly uzavřené v batohu, což bylo dobrý, ale miska byla na sráč. A to bylo blbý. Paní pokladní mi dala papírovou krabici na střepy a když jsem jí řekl, že místo do směsi to radši odnesu do sběrného koše, informovala mě, že pod schody lidl třídí.<br>
+Třídil, ale ne sklo.<br>
+S krabicí jsem tak šel mírným deštěm až na masaryčku. Co pražané v centru s odpadem dělají, to netuším.
 
 <a href="../images/2024_february/1_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/1_1.jpg"></a>
 
-s krabicí skla až na masaryčku<br>
-miška letí do frankfurtu<br>
-salát s řasou<br>
+Řasa, kterou mi Miška věnovala, byla na rozdíl od skla lehoučká a přežila. Salát k obědu jsem tak měl vylepšený o dobrůtku plnou jódu.
 
 <a href="../images/2024_february/1_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/1_2.jpg"></a>
 
-debug alarex modemu<br>
-`nextbike.NextbikeHomeport.ping(NextbikeHomeport.java:842)`
-pořádek ve smlouvách<br>
+Celý den jsem řešil jednotky z Polska. Na počátku to vypadalo na jednoduché přeložení firmware a nahrání do cpu. Musel jsem ho sice opatřit bootloaderem, který jsem vykuchal z nějaký straší binárky. Jenže pak se ukázalo, že modem má starý firmware a ten si s novou binárkou nerozumí. I to jsem dokázal vyřešit a všechno se zdálo pohádkový. Jenže pak jsem objevil, že se samovolně restartuje.<br>
+Musel jsem se ponořit hlouběji do datasheetu modemu. Po asi hodině jsem objevil, že na druhé lince si v debugu stěžují dva javové applety, co se tahají o jeden port. První byla naše aplikace pojemenovaná misha.alarex. Kdo je misha netuším. Druhá se ale jmenovala o poznání zajímavěji NextbikeHomeport.java:842.<br>
+Štětínské zabavené jednotky, přepsané nextbikem se vrátili domů.<br>
+Smazat jejich aplikaci se ale taky ukázalo jako oříšek. Nakonec jsem to vyřešil prodloužením autostartu a vymazáním ještě před bootupem.<br>
+Večer jsem věnoval zvýšení pořádku ve svých smlouvách. Našel jsem všechny dodatky pracovní i nájemní smlouvy a zabalil si je pro naskenování v práci.
 
 ### 2.2. Skriptem k psychickému zdraví
 
