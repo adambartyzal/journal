@@ -16,6 +16,7 @@
 - [12.2. S občasným záchvatem slz](#122-s-občasným-záchvatem-slz)
 - [13.2. Bojovat](#132-bojovat)
 - [14.2. Něco romantickýho / Něco hloupýho](#142-něco-romantickýho--něco-hloupýho)
+- [15.2. V Merseburgu](#152-v-merseburgu)
 
 ### 1.2. Štěstí
 
@@ -295,6 +296,8 @@ Napsal jsem Míše, že držet rádiový ticho je blbost. Nenapsali jsme si toti
 Jenže v hlavě mi jelo, že jsme to vzdali moc rychle. Že jsme, jak by řekla Eliška Remešová, ve vztahový nule. A vztahová nula přece není konec. Je to prostor pro práci a budování. Věřil jsem.<br>
 Na hranicích jsme zkejsli další hodinu. Někdo neměl pas. Ujel mi tak další vlak. Na ten jsem naštěstí nekoupil jízdenku. Kdyby jo. Prolítlo by komínem navíc 44 eur. A to už je randál.<br>
 Miška mi odepsala a mě trochu spadl kámen ze srdce. Nezněla naštvaně. Jenže Miška nikdy nezní naštvaně. V Drážďanech jsem čekal 27 minut na vlak do Lipska. V Lipsku 32 minut na vlak do Groẞkorbethy a tam zas 22 minut na vlak do Merseburgu. Osm hodin jsem tou cestou zabil. Aspoň jsem dopsal něco do deníku. Vyjma posledních pár dní, které jsem sepsal v rámci terapie, jsem na deník nesáhl od 28.1. A za tu dobu se toho stalo hodně.<br>
+
+### 15.2. V Merseburgu
 
 
 
