@@ -17,6 +17,10 @@
 - [13.2. Bojovat](#132-bojovat)
 - [14.2. Něco romantickýho / Něco hloupýho](#142-něco-romantickýho--něco-hloupýho)
 - [15.2. V Merseburgu](#152-v-merseburgu)
+- [16.2. "Je to blbá píča"](#162-je-to-blbá-píča)
+- [17.2. Den pro sebe](#172-den-pro-sebe)
+- [18.2. Náš vztah skončil](#182-náš-vztah-skončil)
+- [19.2.](#192)
 
 ### 1.2. Štěstí
 
@@ -288,16 +292,94 @@ V pět jsem tak na kole vystřelil na hlavák. Vlak do hory byl tragickej. 156 z
 
 Pořád jsem se budil. Možná to nebyla jen psychická nepohoda ze všeho co se dělo. Možná už přišlo víc světla a to mi vadilo. Každopádně naposledy jsem se vzbudil minutu před budíkem. Stejně se mi ale z postele nechtělo. Nakonec mě ven dostalo to, že jsem si udělal hezky, shodil tím trochu stresu a musel jsem se vysprchovat. Ledová sprcha mi ale nastartovala den.<br>
 Kolo jsem nechal doma. Vzal jsem si černý polo triko, vínový svetr, zimní boty a ahojku. Chtěl jsem se cítit jako já. Sjel jsem na hlavák vlakem, v lidlu koupil snídani a mlíko a pěšky došel do Karlína.<br>
-Začal jsem kreslit fbbc tester. Na oběd jsme došli do indie. Den plynul tak nějak před mýma očima, ale moc jsem ho nevnímal.<br>
+Pájel jsem naší první baterku a začal jsem kreslit fbbc tester. Na oběd jsme došli do indie. Den plynul tak nějak před mýma očima, ale moc jsem ho nevnímal.
+
+<a href="../images/2024_february/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/14_1.jpg"></a>
+
 Ve čtvrt na tři jsem sedl na rekolo, dojel na florenc, koupil si sváču pro sebe a greberu pro Mišku a došel na florenc na autobus.<br>
 Přijel na čas. Měl jsem místo nahoře s výhledem dopředu. Bylo to skvělý. Měl jsem výhled na to, jak jsme se Prahou posunovali asi kilometrovou rychlostí a za prahou sjeli z dálnice, protože na ní byla nehoda. Taky jsem měl výhled na to, jak jsme stáli někde na pumpě, ale nečerpali naftu. Prostě ten řidič jen toužil po tom, abych nestihl vlak do Halle.<br>
 Celý den jsem si říkal, že budu mít ohledně toho výletu nulová očekávání. Že se ale nedostanu ani do Drážďan včas mě úplně nenapadlo. Nebo jsem si spíš řekl, že se to nestane. Přece jen flexi jízdenka stála skoro 2x tolik. Ale takhle to vypadalo, že komínem proletí o mnoho víc.<br>
 Napsal jsem Míše, že držet rádiový ticho je blbost. Nenapsali jsme si totiž od neděle večer. Nevěděl jsem jak se má, jestli je v pořádku. Vlastně jsem ani nevěděl, jestli je v Merseburgu. Začínalo mi docházet, že jsem docela debil. Co v mý hlavě působilo romanticky začínalo zavánět průserem.<br>
 Jenže v hlavě mi jelo, že jsme to vzdali moc rychle. Že jsme, jak by řekla Eliška Remešová, ve vztahový nule. A vztahová nula přece není konec. Je to prostor pro práci a budování. Věřil jsem.<br>
 Na hranicích jsme zkejsli další hodinu. Někdo neměl pas. Ujel mi tak další vlak. Na ten jsem naštěstí nekoupil jízdenku. Kdyby jo. Prolítlo by komínem navíc 44 eur. A to už je randál.<br>
-Miška mi odepsala a mě trochu spadl kámen ze srdce. Nezněla naštvaně. Jenže Miška nikdy nezní naštvaně. V Drážďanech jsem čekal 27 minut na vlak do Lipska. V Lipsku 32 minut na vlak do Groẞkorbethy a tam zas 22 minut na vlak do Merseburgu. Osm hodin jsem tou cestou zabil. Aspoň jsem dopsal něco do deníku. Vyjma posledních pár dní, které jsem sepsal v rámci terapie, jsem na deník nesáhl od 28.1. A za tu dobu se toho stalo hodně.<br>
+Miška mi odepsala a mě trochu spadl kámen ze srdce. Nezněla naštvaně. Jenže Miška nikdy nezní naštvaně. V Drážďanech jsem čekal 27 minut na vlak do Lipska. V Lipsku 32 minut na vlak do Groẞkorbethy a tam zas 22 minut na vlak do Merseburgu.
+
+<a href="../images/2024_february/14_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/14_2.jpg"></a>
+
+Osm hodin jsem tou cestou zabil. Aspoň jsem dopsal něco do deníku. Vyjma posledních pár dní, které jsem sepsal v rámci terapie, jsem na deník nesáhl od 28.1. A za tu dobu se toho stalo hodně.<br>
+Miška mi šla naproti na nádraží. Uviděl jsem jí tam nad schody a úplně mi vypnulo mozek jak krásná byla. Trochu jsem posral předání kytky. Měl jsem jí jí dát z ruky do ruky, jenže jsem jí řekl ať jí vytáhne z postranní kapsy batohu.
+
+<a href="../images/2024_february/14_3.jpg" target="_blank"><img src="../images/thumbnails/2024_february/14_3.jpg"></a>
+
+Pršelo. Ptal jsem se jak se na škále od -10 Adame jsi úplný kretén po +10 tohle je to nejhezčí co jsi pro mě mohl udělat cítí. +3 zněla odpověď. To bylo dobrý. Pusu jsem ale nedostal.<br>
+Miška mi udělala tour de Merseburg. Šli jsme podél pošty, pak k hradu, přes parkoviště s LoS na antény a nakonec k nim do apartmánu. Miška žije na zámku i v Německu.
 
 ### 15.2. V Merseburgu
+
+Budil jsem se. A když přišel čas budíku, byl jsem vzhůru před Miškou. Ta se cítila ještě na 10 minut spaní. Posnídali jsme řepovou pomazánku. Miška se chtěla vyhnout tomu, že mě uvidí její kolegové.
+
+<a href="../images/2024_february/15_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/15_1.jpg"></a>
+
+<a href="../images/2024_february/15_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/15_2.jpg"></a>
+
+
+### 16.2. "Je to blbá píča"
+
+na kole docela brzo<br>
+skript mnuhem rychleji<br>
+do vietnamky<br>
+bun dau nam bo, lucy liu se na mě smála, ale jídlo mi přišlo mdlý. A vím že to bylo mnou ne tím jídlem<br>
+kreslení fbbc testeru až do pěti, pak balení věcí co by se mi hodily<br>
+svetry pro moniku<br>
+na kole do bazénu<br>
+rozbrečel jsem se během plavání<br>
+Nakonec jsem to po 700 metrech vzdal. Půjčené brýle stály za pytel a já jsem nebyl ve stavu, kdy bych chtěl plavat dál. Zabalil jsem to, chvilku něco řešil nahoře v čekárně a pak sedl na kolo.<br>
+Do Neklidu jsem dorazil tak akorát. Sotva jsem dozamkl kolo, objevila se Sára s Korou. Kora při vstupu do hospody dala jasně najevo že už jsme tam vytím. Náš stůl byl vzadu vlevo. Nováčkovic se objevili když nám přinesli pití a Jarda asi o deset minut později.<br>
+Alkohol jsem dokázal vynechat. Vegetariánské ale měli jen smaženou goudu nebo nakládaný hermelín. Protože mi krví koloval cholesterol, zvolil jsem smažák. Jasně, není to ten důvod, ale bylo by to z bláta do louže. Tatarák, který měla Sára a Filip vypadal dobře. Smažák pro mě a Anet taky. A ten nakládaný hermelín měl kolem sebe spoustu zeleniny. Kdybych to věděl, dal bych si ho taky.<br>
+Nováčkovic se Sáry a Jardy vyptávali na dovolenou. Většinu už jsem slyšel, takže jsem byl duší mimo. Nováčkovic moc novin neměli. Možná kromě toho, že Anet držela suchý únor.<br>
+Chvíli to trvalo, ale nakonec jsem oznámil, že už s Míšou nejsme. Že se se mnou rozešla.<br>
+Píča blbá, zakřičel Jarda. Sára se ptala, jestli za to může francouz. Asi trochu jo, řekl jsem načež se ozvalo kráva blbá. Nemyslel jsem si že je. Vlastně jsem jí bránil. Ale zároveň jsem cenil, že mí kamarádi stojí při mě a snaží se mě rozesmát. A fungovalo to. Zasmáli jsme se hodně. Pověděl jsem jim, jak se poslední týden odehrával.<br>
+Dostal jsem rady, že lepit vztah je nesmysl. Že si mám ve Finsku stáhnout Tinder a prcat Skandinávky.<br>
+Nakonec jsme se dostali ke vztahovým financím. Jestli je lepší do společného rozpočtu přispívat poměrově k platu, nebo nějakou absolutní hodnotou. Kdybychom se s Míšou nerozešli, řešili bychom to taky. A byli bychom v tom naopak, než dva páry přede mnou. Míša vydělává trochu víc než já.<br>
+Zničeho nic se objevil David. Do skupiny nikdy nic nenapíše, ale občas se objeví. Potěšilo mě to. Míšu zná líp než ostatní a vypadal, že ho náš rozchod regulérně mrzí.<br>
+Táhli jsme to asi do deseti. Nadávali na stát. Ale taky uznali, že i přes to jak napíču to tu je, jsme se narodili do hodně dobrého místa na planetě.<br>
+Nováčkovic vyrazili k autu, my pěší na roh Ruské a Francouzské a tam jsme se objali a rozpustili to. Všichni mi popřáli štastnou cestu. Já nasedl na kolo a sjel domů.<br>
+
+### 17.2. Den pro sebe
+
+Další ráno, kdy jsem šel běhat do kopce. Natáhl jsem kraťasy, triko, mikinu a boty a vyběhl. Bylo tepleji než jsem čekal. Během třech výstupů na kopec jsem se i zapotil.<br>
+Nahoře jsem potkal na lavičce asiatku co tam seděla a asi na někoho čekala. Při druhém běhu už u ní seděl nějaký maladík. A při třetím si povídali, ale vypadalo to, že paní z toho není nadšená. Asi Tinder rande co nebylo dle jejích představ.<br>
+K obědu jsem snědl zbytek tortil, jogurtu, zeleniny a fazolí co už v ledničce nějaký pátek byly, ale vypadaly v poho.<br>
+Denní plán zněl, koupit kalhoty. Manšestráky konečně povolily a měly v rozkroku díru. Kvůli tomu lepidlu na noze mě jich vlastně ani nebylo líto. Měly za sebou 430 dní. 2,3 koruny na den. A jako pracovní ještě něco odkroutí.<br>
+Došel jsem do Tesca. F&F by narozdíl od C&A mohle ještě dělat kalhoty 30/30. A měl jsem pravdu. Kopil jsem nějaký obyčejný strečový džíny ve slevě. Za pětistovku i s nákupem mlíka, rajčat a suga.<br>
+Itálii jsem si dal k brzký večeři. A koukal na Temného Rytíře. Byl to můj první ohodnocený film na ČSFD. Pamatuju si, že máma řekla, že díky němu jsem zlý.<br>
+Je to docla temnej film. Ale zas tak zlej snad nejsem.<br>
+Večer jsem se uchýlil ke čtečce. Cratil jsem se k Attiovi, prokousal se přes rakovinu a dostal se k Alzhaimerovi. Veselý čtení.
+
+### 18.2. Náš vztah skončil
+
+Večer mi Miška napsala, že viděla viděla webinář o rozchodech a tam doporučovali si říct, nebo napsat seznam věcí, které v tom vztahu nefungovaly. Podívat se na něj vždy, když je ti smutno. Někdy kolem druhý ráno jsem se probudil a přečetl jsem si to.<br>
+
+Napsal jsem jí co se mi odehrálo v hlavě:
+
+> Přijde mi to krutý. Chápu to. Ale nelíbí se mi to.<br>
+> Ale rozhodl jsem se v hlavě opakovat si, že "Náš vztah skončil"<br>
+> Furt dokola. Jako kafemlejnek.<br>
+> A přichází z toho různý poznání.<br>
+> Miluju tě. Mrzí mě, že jsem ti to neřekl dřív.<br>
+> Myslím si, že děláš chybu. Ale máš na ní právo. A protože k tobě cítím to co cítím, musím ti to dovolit.<br>
+> Budeš mi chybět má dívko z hor. Jsi jedinečná. Extrémně chytrá. Neskutečně krásná. Ohromně milá. Ale nejsi moje.<br>
+> Nevyškrtnu tě ze svýho života. Dokázal jsem to předtím, dokážu to teď.<br>
+> Ale tý neuskutečněný budoucnosti pomalu dávám sbohem.<br>
+> Miluju tě. Náš vztah skončil. Ale jsem za něj vděčný. Děkuji ti za všechno cos pro mě udělala.
+
+A myslel jsem to. Chtěl jsem brečet, ale nějak se mi to nedařilo. Nakonec jsem neklidně zas usnul a probudil až ráno.<br>
+Interkom vedle zase pískal.<br>
+Dopo jsem strávil s Marťou. Napsal jsem jí totiž, že jsme se rozešli a nabídla mi, že půjdeme ven. Šli jsme podél Botiče, na tyršův vrch, k Vršovické vodárně, do albertu na Pankráci a pak nad Jezerkou a zpátky. V albertu jsme se stavovali protože Marťa potřebovala bezkofeinový čaj. Vyprávěl jsem jí o rozchodu, cestě do Merseburgu. O tom, že to vlastně nechápu. A o tom jak se cítím. Když se ale prý jeden rozhodne, nejde s tím moc dělat.<br>
+Doma jsem si založil Tinder. Sotva jsem vyplnil vstupní formulář, došlo mi, že je to blbost. Za 24 hodin jsem měl být na měsíc v Lahti.<br>
+Nějak jsem se nedokázal odhodlat uklízet a balit se. Aspoň jsem ale něco napsal do deníku.
+
+### 19.2.
 
 
 
