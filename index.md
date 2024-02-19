@@ -26,4 +26,4 @@ Rok volby prezidenta, cesty z Francie domů, Albánie, Barcelony a hlavně propl
 
 ## [2024](2024.md)
 
-Miška na Zélandu, planety do Lahti
+Miška na Zélandu, rozchod, planety do Lahti

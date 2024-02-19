@@ -31,8 +31,8 @@
 - [27.1. Přijatý](#271-přijatý)
 - [28.1. Oslepený](#281-oslepený)
 - [29.1. Vysušený](#291-vysušený)
-- [30.1.](#301)
-- [31.1.](#311)
+- [30.1. Alternativní](#301-alternativní)
+- [31.1. Kulturní](#311-kulturní)
 
 ### 1.1. Střízlivý
 
@@ -477,7 +477,7 @@ Brazilcům vypadl server, kde ebuf ověřuje fw VSAMů. Vláďa byl v Barceloně
 
 <a href="../images/2024_january/29_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/29_1.jpg"></a>
 
-### 30.1.
+### 30.1. Alternativní
 
 plán jít po práci do knihovny hrát na piáno<br>
 v deset soudní znalec, asi šedesátiletý pan čermák, co navrhoval jaderný reaktor a ocenil naší práci slovy před vámi klobouk dolů<br>
@@ -498,7 +498,7 @@ míša byla hotová, v objetí mi usnula asi za minutu<br>
 asi jsem jedl moc pozdě, usnout mi trvalo dlouho a párkrát jsem se vzbudil<br>
 i tak ale spánek vyšel na 80/100
 
-### 31.1.
+### 31.1. Kulturní
 
 miška nemá rádá, když na ní pouštím zimu. z postele se musí z nuly na sto<br>
 zuby, opečení vlasů a ven<br>
