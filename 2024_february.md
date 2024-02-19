@@ -17,7 +17,7 @@
 - [13.2. Bojovat](#132-bojovat)
 - [14.2. Něco romantickýho / Něco hloupýho](#142-něco-romantickýho--něco-hloupýho)
 - [15.2. Z Merseburgu do prázdnoty](#152-z-merseburgu-do-prázdnoty)
-- [16.2. "Je to blbá píča"](#162-je-to-blbá-píča)
+- [16.2. "Kráva blbá"](#162-kráva-blbá)
 - [17.2. Den pro sebe](#172-den-pro-sebe)
 - [18.2. Náš vztah skončil](#182-náš-vztah-skončil)
 - [19.2. Moi moi](#192-moi-moi)
@@ -318,13 +318,25 @@ Budil jsem se. A když přišel čas budíku, byl jsem vzhůru před Miškou. Ta
 
 <a href="../images/2024_february/15_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/15_1.jpg"></a>
 
-Vyšlo to. Skoro. U auta nás už viděl. Dali se do práce a já jsem si šel sednout do kavárny na nádraží. Pustil jsem se tam do skriptu, který postahuje obrázky z *githubusercontent*, nějak rozumně je postahuje a uloží. Až se microsoft rozhodne, že nás odstřihne, nebude nás to tolik pálit.<br>
-Dal jsem tomu většinu dopoledne. Na oběd jsem se stavil v Lidlu. Prošel jsem si kus Merseburgu. Nejzajímavější mi přišel asi zbořený kostel s nezbořenou věží.<br>
-
+Vyšlo to. Skoro. U auta nás už viděl. Dali se do práce a já jsem si šel sednout do kavárny na nádraží. Pustil jsem se tam do skriptu, který postahuje obrázky z *githubusercontent* remotu, nějak rozumně je postahuje a uloží. Až se microsoft rozhodne, že nás odstřihne, nebude nás to tolik pálit.<br>
+Dal jsem tomu většinu dopoledne. Na oběd jsem se stavil v Lidlu. Prošel jsem si kus Merseburgu. Nejzajímavější mi přišel asi zbořený kostel s nezbořenou věží.
 
 <a href="../images/2024_february/15_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/15_2.jpg"></a>
 
-### 16.2. "Je to blbá píča"
+Po procházce jsem si šel opět sednout do kavárny. Prodavačka na mě spustila litanii, že když si nic nekoupím, nemůžu tam sedět. Křičela to Německy, ale bylo naprosto jasný o co jí jde. Nutno podotknout, že v kavárně jsem byl jediný a už jsem v ní ten den utratil asi 9 eur. Koupil jsem si tedy ještě jedno capuccino a dal se do práce.<br>
+Míša mi psala, že kolem mě krouží v autě. Že jí ještě čeká call a že po čtvrté vyrazíme.<br>
+Ve čtyři už skript pracoval za mě. Internet na nádraží stál za starou bačkoru. Práce ale byla hotová a výsledek commitnutý. Došel jsem si na záchod do odporné toiky a vyrazil za Mišou.<br>
+Čekala v oktávce před Lidlem. Měla už nakoupeno a tak jsme rovnou vyrazili. Na dálnici, po které jezdil Filip do Wolfsburgu.<br>
+Napřed jsme si povídali o práci. Ale Miška to nějak nakousla a pustili jsme se do vážného povídání. Do toho, jestli jsem to úplně posral, když jsem přijel. Do toho, jak se cítíme. Do toho, že se chci učit být lepším přítelem. Do toho, že pocit, že náš vztah nefunguje v Mišce klíčí už někdy od listopadu. Řekli jsme si toho hodně. Trochu jsem jí tlačil do odpovědi, jestli nám chce dát šanci. Ale v odpovědi byla vyhýbavá.<br>
+Někdy za hranicemi Mišce volal šéf Jarda. Moc jsem ho neposlouchal. Mluvili o callu, kde na Mišce bylo vidět, že s názory a metodikou jejího německého kolegy nesouhlasí. Taky o tom, že je třeba chodit do fitka, protože budeme muset být aktivní až do důchodu.<br>
+Nakonec jsme dojeli až do Prahy. Míša vrátila auto na Roztylech a před budovou došlo k záverečné fázi našeho rozhovoru. Miška se chtěla uklidit trochu pryč z hlavní silnice, ale stejně jsme stáli na chodníku jen o kus dál. Jak dlouho jsme tam byli vlastně vůbec nedokážu odhadnout.<br>
+Probíhalo to skoro opačně než v neděli. Tentokrát jsem nebrečel. Jen jsem to nechápal. Přišlo mi, že Miška se úplně vzdala. Že vidí, že naše budoucnost není možná, protože nejsme kompatibilní. Protože já prostě funguju jinak než potřebuje.<br>
+Rozešla se se mnou. Brečela mi v objetí a já to nechápal a odmítal chápat. Svět přestal dávat smysl.<br>
+Pak jsem jí vzal za ruku a šli jsme do metra. Jeli jsme na Pražák, kde mi jela devatenáctka. Stal se tam takovej Coelhovskej moment. Celej vesmír se spojil a zastavil rozjetý metro. Fakt jsem si na vteřinu myslel, že Míša si to rozmyslela a jde z metra za mnou. Ale rozjeli se a zmizela v tunelu.<br>
+Místo devatenáckty přijel autobus. Ale jel taky k nám tak jsem do něj nastoupil.<br>
+Doma jsem si telefonoval s Evou. Trochu mi to pomohlo. Ale moc ne. Volala mi i Máma. Ani to mi nepřišlo příliš nápomocný. Ale určitě to bylo lepší než ležet na zemi, čumět do stropu a.. a já vlastně nevím co.
+
+### 16.2. "Kráva blbá"
 
 Rozchod spánku nepomáhá. Na kole jsem jel do práce na osmou. Skript co jsem připravil na nádraží v Merseburgu jel v Karlíně asi tak 50x rychleji.
 do vietnamky<br>
@@ -337,7 +349,7 @@ Do Neklidu jsem dorazil tak akorát. Sotva jsem dozamkl kolo, objevila se Sára 
 Alkohol jsem dokázal vynechat. Vegetariánské ale měli jen smaženou goudu nebo nakládaný hermelín. Protože mi krví koloval cholesterol, zvolil jsem smažák. Jasně, není to ten důvod, ale bylo by to z bláta do louže. Tatarák, který měla Sára a Filip vypadal dobře. Smažák pro mě a Anet taky. A ten nakládaný hermelín měl kolem sebe spoustu zeleniny. Kdybych to věděl, dal bych si ho taky.<br>
 Nováčkovic se Sáry a Jardy vyptávali na dovolenou. Většinu už jsem slyšel, takže jsem byl duší mimo. Nováčkovic moc novin neměli. Možná kromě toho, že Anet držela suchý únor.<br>
 Chvíli to trvalo, ale nakonec jsem oznámil, že už s Míšou nejsme. Že se se mnou rozešla.<br>
-Píča blbá, zakřičel Jarda. Sára se ptala, jestli za to může francouz. Asi trochu jo, řekl jsem načež se ozvalo kráva blbá. Nemyslel jsem si že je. Vlastně jsem jí bránil. Ale zároveň jsem cenil, že mí kamarádi stojí při mě a snaží se mě rozesmát. A fungovalo to. Zasmáli jsme se hodně. Pověděl jsem jim, jak se poslední týden odehrával.<br>
+Sára se ptala, jestli za to může francouz. Asi trochu jo, řekl jsem načež se ozvalo *Kráva blbá*. Nemyslel jsem si že je. Vlastně jsem Mišku bránil. Ale zároveň jsem cenil, že mí kamarádi stojí při mě a snaží se mě rozesmát. Fungovalo to. Vtipy to byly fakt debilní, ale zasmáli jsme se hodně. Pověděl jsem jim, jak se poslední týden odehrával.<br>
 Dostal jsem rady, že lepit vztah je nesmysl. Že si mám ve Finsku stáhnout Tinder a prcat Skandinávky.<br>
 Nakonec jsme se dostali ke vztahovým financím. Jestli je lepší do společného rozpočtu přispívat poměrově k platu, nebo nějakou absolutní hodnotou. Kdybychom se s Míšou nerozešli, řešili bychom to taky. A byli bychom v tom naopak, než dva páry přede mnou. Míša vydělává trochu víc než já.<br>
 Zničeho nic se objevil David. Do skupiny nikdy nic nenapíše, ale občas se objeví. Potěšilo mě to. Míšu zná líp než ostatní a vypadal, že ho náš rozchod regulérně mrzí.<br>
