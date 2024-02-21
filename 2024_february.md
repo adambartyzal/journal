@@ -22,6 +22,7 @@
 - [18.2. Náš vztah skončil](#182-náš-vztah-skončil)
 - [19.2. Moi moi](#192-moi-moi)
 - [20.2. Řešit problémy](#202-řešit-problémy)
+- [21.2.](#212)
 
 ### 1.2. Štěstí
 
@@ -54,15 +55,19 @@ rozesmál jsem Mišku děvčaty
 
 ### 3.2. Přání navzdory
 
-pečení chleba číslo 5<br>
-robin nemocný<br>
-taky příště<br>
-za miškou<br>
-pěšky
+S Evou jsme byli domluvení, že přijedu k nim, pak přespím a pojedu přes Kolín, kde vyzvednu mámu a pojedeme do galerie. Chtěl jsem vyjet až v 10. Bylo spousta času na pečení chleba číslo 5. No spousta zase ne. Zbytečně jsem to uspíšil. Ale to jsem věděl. Chleba číslo 5 byl testovací. Neměl vyjít co do formy, ale co do chuti.<br>
+Evan napsala, že Robin nemocný, že bych měl návštěvu zvážit. Prý kašlal dost. Dohodli jsme se, že přijedu někdy příště. Takže jsem měl chleba a neměl co dělat.<br>
+Miška byla v Praze. Napsal jsem jí. Sice plánovala introvertní den, kdy chtěla třídit fotky, ale napsala mi, že přijít můžu. A tak jsem vyrazil pěšky na Anděl.<br>
+Poslouchal jsem u toho DOAC. Povídal si s psychologem, kterému se zabila máma, taky se pokoušel zasebevraždit, ale díky vědě objevil, že nemoci mozku, jsou vlastně projevy nemocí metabolismu. Všechny. Když jde člověk dostatečně hluboko. Že problém je ve výrobě ATP. Energie pro buňky. Způsobujeme to stravou, špatným hýbáním, stresem. Špatným spánkem. Prostě vším tím, co v člověku vytváří další nemoce. Popisoval taky, jak se mentální choroba v člověku může rozjet.<br>
+Došel jsem na střechu Nového Smíchova. Chtěl jsem tam číst a vyhlížet Mišku na mostě. Nějak mi ale musela proklouznout. Když jsem jí telefonoval, zjistil jsem, že je dole u Alberta. Cestou za ní mi ještě telefonovala Máma, že jí kape trubka u pračky. Jenže až ta co je ve zdi. Řekl jsem jí, že na to potřebuje technika co se tím zabývá.<br>
+Míšu jsem potkal během toho rozhovoru. Pak jsem jí v obchodě objal, protože jsem se cítil vděčný, že se máme dobře a netrpíme žádnou mentální chorobou. Jenže jsem jí objal ve vstupu do obchodu a mohli bychom překážet lidem. Nějak mi to vůbec nedošlo. Ale Míšu to asi naštvalo.<br>
 
 <a href="../images/2024_february/3_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/3_1.jpg"></a>
 
-před hovorem s Ivou a Ondrou domů
+Doma jsme vařili tortily. Miška mi pomalu vyprávěla co se jí děje v práci. Cítil jsem, že jsem za ní neměl chodit. Narušil jsem jí den a naštval jsem jí tím. Ale říkal jsem si, že když si budu číst a budeme spolu, ale nebudu jí otravovat. Bude to v poho.<br>
+Tortily byly mega dobré. Náplň byla z květáku, který byl ve slevě, mrkve, papriky, sýru. Míša navíc pekla prošívanou deku. Dala do ní višně a jako dezert byla výborná.<br>
+Odpoledne Míša plánovala jít k Ivě a Ondrovi. Dohodli jsme se, že před tím vyrazím domů. Do té doby procházela fotky ze Zélandu a třídila je do složek. Občas mě pozvala, abych se podíval, jinak jsem četl u topení.<br>
+Na Mišku ale šla nějaká nemoc. S Ivou se dohodli, že si zavolají. Začínala docela dost kašlat a vypadala hodně unaveně. Když nastal čas, vyrazil jsem domů. Měl jsem blbej pocit. Nebylo chytrý za ní jít. Měl jsem jí poslechnout. Sice mi odsouhlasila, že za ní můžu přijít, ale to bylo tím, že Míša je někdy až moc hodná. Tuhle hranici budu muset nějak víc vychytat.
 
 ### 4.2. Prsa jsou umění
 
@@ -114,7 +119,7 @@ Dorazil jsem polské jednotky, poobědval a vrhnul se na opravy. Kolem čtvrté 
 Odepsal jsem customer service z belenka. Krabice s botami ležela v Karlíně zabalená už od pátku a já neměl zimní boty do finska.<br>
 To jsem se rozhodl vyřešit. Na Poděbradské byl obchod naBOSo. Měli hezké XERO shoes ve slevě. Akorát byly jen ve 40. Dojel jsem tam a objevil, že xera nejsou pro mě. Zato mě ale nedchly Angles Atlas Winter Nut. Byly podobnějším mým Merrellům co do pocitu z boty na noze. Prošel jsem se v nich a cítil, že to je bota kterou si odvezu. Obchodu zrovna moc nefungoval systém, ale milý pán to dokázal nějak vyhackovat.
 
-<a href="../images/2024_february/6_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/6_1.jpg"></a>
+<a href="../images/2024_february/6_1.png" target="_blank"><img src="../images/thumbnails/2024_february/6_1.png"></a>
 
 Nacpal jsem krabici do batohu a vyrazil přes Jarov domů. Praha skutečně postrádá diagonální spojku. Jel jsem cik cak celou cestu.<br>
 Od Sáry jsem vyzvedl Koru a šel jí vyvenčit do Nuslí.
@@ -418,7 +423,22 @@ Jak jsem měl v neděli pocit, že mi jde smířit se s realitou toho, že už n
 ### 20.2. Řešit problémy
 
 Vyspal jsem se konečně docela dobře. Ivanovo chrápání mě sice párkrát probudilo, ale 9 hodin je přece jen víc než 4 a půl. Kluci mají trochu laxní přístup k práci. Začínalo se v devět. Vstávání tak bylo líné a měl jsem čas odepsat Mišce na zprávy co mi poslala v noci.<br>
+Dvěma auty jsme přejeli do skladu a dali se do práce. Na mě bylo zprovoznit zbývající upgrade kity. Všechno jsem si hezky připravil. Napsal si program pro ruční čtečku kóů, který mi po stisku vracel stav selfchecku a těšil se, jak to všechno bude fungovat. A Brazilci zase selhali. Port na jejich straně nešel otevřít.<br>
+Tak jsem se dal do zprovozňování nabíjecích boxů.<br>
+Vlastně jen špatně zapojili karty. Vyměnily ty dvě, co si měli nechat. A jeden node shořel. Proč mi nebylo známo. Ale hořel dost. Náhradní jsem neměl. Sestavil jsem ze zbývajících funkční daisy chain a upgradoval fw.<br>
+Po poledni Brazilci nahodili web. Vrátil jsem se k upgradování kitů. Už na mě evidentně zbyly nějaký tajemný případy. Simka, co byla z místo u Lahti z Helsinek. Planeta se špatně připojeným VSAMem. A tak.
 
+<p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2024_february/20_1.mp4" type="video/mp4"></video></p>
+
+Kluci dělali na kolech. Ivan do nich vštípil trochu systematičnosti. Po práci tak měli asi 24 kol hotových. Bude to trvat. Bude to trvat dlouho.<br>
+Po práci jsme šli s Ivanem plavat. Bazén byl plnější než co pamatuju. A stál 6 místo 2.9. Ale pořád to byla bezva cena za hezké plavání a skvělou saunu a ledový bazének.<br>
+Naplaval jsem 1200. A při posledním kolečku sanuy, jem byl člověk u kýblu a pořádně jsem nám zatopil.<br>
+Po bazénu jsem se ještě otočil v Lidlu a večer si dal Skyr. Skyr mi chyběl.<br>
+Ale ne tolik jako mi chyběla Miška. Večer mi odpověděla na zprávy.
+
+### 21.2.
+
+Ivan v noci chrápal. Taky se budil, protože ho bolelo rameno. Dal si prášek a pak zas chrápal. Někdy kolem páté jsem se odebral do obýváku. Míša mi v noci odepsala.
 
 
 [>> Březen](2024_march.md)
