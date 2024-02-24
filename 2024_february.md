@@ -22,7 +22,10 @@
 - [18.2. Náš vztah skončil](#182-náš-vztah-skončil)
 - [19.2. Moi moi](#192-moi-moi)
 - [20.2. Řešit problémy](#202-řešit-problémy)
-- [21.2.](#212)
+- [21.2. Bez špuntů to nepůjde](#212-bez-špuntů-to-nepůjde)
+- [22.2. Se skutečným Ivanem](#222-se-skutečným-ivanem)
+- [23.2. Cítit se milovaná](#232-cítit-se-milovaná)
+- [24.2. Vzkazy domů](#242-vzkazy-domů)
 
 ### 1.2. Štěstí
 
@@ -427,7 +430,7 @@ Dvěma auty jsme přejeli do skladu a dali se do práce. Na mě bylo zprovoznit 
 Tak jsem se dal do zprovozňování nabíjecích boxů.<br>
 Vlastně jen špatně zapojili karty. Vyměnily ty dvě, co si měli nechat. A jeden node shořel. Proč mi nebylo známo. Ale hořel dost. Náhradní jsem neměl. Sestavil jsem ze zbývajících funkční daisy chain a upgradoval fw.
 
-<p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2024_february/20_1.jpg" type="video/mp4"></video></p>
+<a href="../images/2024_february/20_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/20_1.jpg"></a>
 
 Po poledni Brazilci nahodili web. Vrátil jsem se k upgradování kitů. Už na mě evidentně zbyly nějaký tajemný případy. Simka, co byla z místo u Lahti z Helsinek. Planeta se špatně připojeným VSAMem. A tak.
 
@@ -439,9 +442,73 @@ Naplaval jsem 1200. A při posledním kolečku sanuy, jem byl člověk u kýblu 
 Po bazénu jsem se ještě otočil v Lidlu a večer si dal Skyr. Skyr mi chyběl.<br>
 Ale ne tolik jako mi chyběla Miška. Večer mi odpověděla na zprávy.
 
-### 21.2.
+### 21.2. Bez špuntů to nepůjde
 
-Ivan v noci chrápal. Taky se budil, protože ho bolelo rameno. Dal si prášek a pak zas chrápal. Někdy kolem páté jsem se odebral do obýváku. Míša mi v noci odepsala.
+Ivan v noci chrápal. Taky se budil, protože ho bolelo rameno. Dal si prášek a pak zas chrápal. Někdy kolem páté jsem se odebral do obýváku. Odepsal jsem Mišce na zprávy, které mi poslala v noci. Naše konverzace se začala měnit na delší, složitější, ale sporadičtější zprávy.<br>
+Při testování terminálů jse začaly objevovat potíže. VSAMy se špatnou konfigurací. Chyby v časování u některých Upgrade Kitů. Začínal jsem vymýšlet, jak to chytře debugovat.<br>
+Po práci šel Šťépa běhat. Rozhodl jsem se ho následovat. Vyběhl jsem k tunelu a skrz něj do centra. Rozhodl jsem se, že si doběhnu do Power pro kabel na hodinky. U nádraží  jsem byl trochu ztracený, ale podběhl jsem koleje po cyklostezce a pak pokračoval dál po rovině. Kabel měli. Stál 20€, ale potřeboval jsem ho.<br>
+Potřeboval jsem i hořčík. Koupil jsem citrát místo bisglycinátu. Ten v lékárně neměli.<br>
+Na cestě zpátky jsem se ještě zastavil v Lidlu. S věcmi v rukou se běhá blbě. Desítku jsem uzavřel s tempem 6:30.<br>
+Na bytě jsem koukal na nový Bad Batch. Dva díly a nic se nestalo. Kdybych neměl spoustu času, byl bych na sebe naštvaný.
+
+### 22.2. Se skutečným Ivanem
+
+Ráno bylo trochu línější.<br>
+Tentokrát jsem si přivezl STlink. Pustil jsem se do dalšího testování a pročítání kódů.<br>
+S bordelem, který měli fini v kuchyni mi došla trpělivost. Rozhodl jsem se to všechno nacpat do myčky. V nižších vrstvách ale něco dost hnilo. Málem jsem se z toho poblil. Moje nenávist vůči těm mladým neschopným klukům rostla.<br>
+Když jsem všechno nacpal do myčky a zapnul jí, Omar vzal dezinfekci a posprejoval celou kuchyňskou linku včetně věcí na ní.<br>
+Pomohlo to dost.<br>
+Domů jsme jeli docela brzy. Chvíli jsem četl Attiu a pak jsme si s Ivanem řekli, že půjdeme plavat. A že předtím se zastavíme na cvičítkách.<br>
+Doma jsme ještě dali Vosečkovy šikany. Ivan 2. Já zvládl 6.<br>
+Jít cvičit na stroje před bazénem mi přišlo ikonický. S Gešim jsme tam chodili cvičit [dva roky zpátky](../2021_october/#1410-cvičíme-s-ivanem) a pán co tam byl téměř každý den nám ho připomínal.
+
+<a href="../images/2024_february/22_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/22_1.jpg"></a>
+
+Asi půl hodiny jsme se tam zocelovali. Ivan si pak koupil brýle a šli jsme se saunit a plavat. Udělali jsme 3 kolečka. Učil jsem Ivana plavat rozumně. A docela mu to šlo. Ale trvá to dýl než pár minut přesvědčit mozek, jak vlastně správný styl provést. Já sám v tom nejsem moc dobrý. Ale z lidí v bazénu jsem byl asi největší plavec.<br>
+Cestou domů se mi Ivan přiznal, že má vlastně dovolenou. Nemusí stavět dům. Chodí plavat. V práci jen vrtá. Měl vlastně pravdu.
+
+### 23.2. Cítit se milovaná
+
+Ráno jsem začal dvaceti minutovou jógou. Trochu mi to pomohlo rozhýbat ztuhlost z náročného večera. U snídaně jsem se zeptal Moniky, co Omar dělá, že se cítí milovaná. Otevřel to docela upřímnou a hezkou diskusi, která trvala až do příjezdu do skladu. Bylo vidět, že dát to do slov nebylo úplně jednoduché. Řekla, že cítí, že je pro něj priorita číslo jedna. Omar pozná, jestli se ten den cítí hezky, nebo na hovno a přizpůsobí podle toho svoje chování. Dělá věci co jí štvou. Umí najít slova, díky kterým se cítí krásná. A to prosím, žádná měkká slovíčka. Padlo například slovo šukatelná. Což nás všechny hodně rozesmálo.<br>
+Ivan taky přispěl svou troškou do mlýna. Jak Ivana obdivuji co do technických schopností, co do vztahů se od něj učit nemůžu. Ivan Magdu miluje, o tom žádná. Ale jejich vztah je takový.. staroškolský. Jsou z vesnice, žijí spolu aby přežili. Ivan Magdě staví dům. Ona mu vaří. Mají fyzické potřeby a navzájem je uspokojují. Všechno je vlastně správně. Ale já bych tak žít nechtěl. Je spousta toho, čeho se od něj můžu učit. Je dobrý táta. Je výborný technik. Ale život bere velmi dogmaticky.<br>
+Zmínil jsem se o té diskusi Mišce. Byla překvapená, že mám tak těžké otázky na kolegy. O našem rozchodu u nich ví jen Karel. Optala se mně, jaké byly věci, kvůli kterým jsem se cítil milovaný. Odepsal jsem jí:
+
+> Odpovídala jsi mi na moje nekonečný otázky. I když tě to někdy štvalo. I když jsem vlastně nečekal odpověď.<br>
+> Udělala jsi si na mě čas, i když jsi měla času omezeně.<br>
+> plánovala jsi pro nás věci.<br>
+> překonávala jsi nějaký svoje strachy kvůli mně<br>
+> A ze všeho nejvíc, a to umím nejmíň dát do slov. Činy jsi mi ukazovala, že být ve vztahu je lepší než být sám, i když jsi slovy komunikovala často, jak vztahy stojí za hovno.
+
+Na stejnou otázku mi odpověděla:
+
+> Když jsi mi popřál dobré ráno a večer, když ses zeptal, jestli jsem dorazila v pořádku, poslal mi písničku, když jsi se mnou koukal na Harryho Pottera, vařil v kuchyni s hudbou.<br>
+> To že jsi mě bral mezi kamarády<br>
+> Taky naše dlouhé hovory přes mobil.
+> Byla toho spousta
+> A já tě mám pořád ráda.
+
+Odpověděl jsem jí, že já jí taky. Hrozně hrozně moc.<br>
+Během dne jsme jí dokázal překvapit tím, že jsem si pamatoval hlášku *Dvojnásobek za polovic.*. Nějak mi naše konverzace přišla radostnější než za poslední dobu.<br>
+Co do terminálů, pokračoval jsem v testování upgrade kitů a pomalu se nořil do Vláďova kódu. VSAMy které vracely Ivalid SAM OS šly laptopem upgradovat. Byla to jen otázka časovaní.<br>
+Už dlouho jsem nedebugoval kód. Natož cizí.<br>
+Po práci jsme se zastavili v Prismě. Litr zmizel jak nic. A to jsem původně nechtěl kupovat nic. Ale vzal jsem nějaké trvanlivé věci, zeleninu, pečivo a bylo to. Ostatní nakupovali víc.<br>
+Večer jsem četl Attiu. Knížka to je zajímavá. Ale ten chlap je ještě větší fašista než Walker. A má míň objektivních studií a víc subjektivních názorů. Rozhodl jsem se, že to dočtu. Je v ní spousta zajímavých drobnůstek. Ale nosná myšlenka je *Jez zdravěji a cvič víc.*
+
+### 24.2. Vzkazy domů
+
+Můj spánek se pomalu zhoršoval. Chyběl mi REM. Internet mi poradil, že REM mizí, když je člověk ve stresu. Můj stresogram od našeho rozchodu proletěl komínem. Zvýšil jsem příjem magnesia a rozhodl se, že sobotní jóga nebude mí dvacet minut, ale hodinu.<br>
+Ivan jel do druhého skladu vrtat řídítka. Mohl jsem se tak v pokoji válet sám a trochu relaxovat. Po józe jsem si tak ještě udělal dobře a myslím, že mi to pomohlo trochu vydechnout.<br>
+Víkendový plán zněl sehnat pohledy a známky. Po obědě, který se skládal ze salátu s rajčaty, fazolí z plechovky a chlebu, jsem vyrazil pěšky do centra. Na náměstí se konala demonstrace proti válce na ukrajině. Bylo tam tak stovka lidí a vypadalo to finsky klidně.
+
+<a href="../images/2024_february/24_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/24_1.jpg"></a>
+
+Pohledy jsem pořídil v knize. Chtěl jsem nějaké zimní, nebo krásně malované. Zimní byly ne moc pěkné. Ale v nepřeberném množství kýče jsem nakonec našel pár moc hezkých se zvířátky a s mumínky. Jeden stál 3€ a známka 2,5€. Chtěl jsem poslat pohled mámě, tátovi, Evě, tetě, Mišce, jejím rodičům, Nováčkovic, Marťě, Ondrovi s Rébou a Jardovi a Sáře. Litr prolítl komínem jak noc. Proti tomu už mě cena za decaf flatwhite a kanelipulla nijak nepálila.<br>
+Posadil jsem se nostalgicky do mého oblíbeného chainu a dal se do psaní dní minulých.
+
+<a href="../images/2024_february/24_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/24_2.jpg"></a>
+
+Pečivo jsem zvládl sníst bez potíží, ale do kafe jsem si kopl a vylil ho všude po stole. Naštěstí ne na zem, takže jsem po sobě dokázal tu spoušť uklidit. Holčina vedle mě, která psala noty tak extrémně úhledně, že vypadaly jak z osmnáctého století, mě uklidňovala, že se to stává pořád.<br>
+Mišky reakční doba se prodlužovala.
 
 
 [>> Březen](2024_march.md)

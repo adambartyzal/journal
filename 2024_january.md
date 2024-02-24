@@ -200,6 +200,8 @@ na nákup pěšky<br>
 tortily a puding<br>
 road to perdition<br>
 
+TODO dopsat
+
 ### 13.1. Vděčný
 
 Jít spát v 10 zdá se funguje. I přesto, že jsem jedl ještě v devět a nechladil jsem se sprchou před spaním, daly mi hodinky 90 bodů ze sta. Je ale pravda, že posledních pár dní bylo v bytě asi 17 stupňů a to spánku pomáhá.<br>
@@ -217,6 +219,8 @@ bakterie co to začala mi asi způsobila anginu<br>
 zbytek těstovin<br>
 zázvor a česnek žvýkání<br>
 ted
+
+TODO dopsat
 
 ### 14.1. Hýřivý
 
@@ -436,6 +440,8 @@ Za okny bylo pošmurno. Dohodli jsme se ale, že lepší bude vyrazit před obě
 
 podél roubenek, o penězích, o zvycích jinde, k vodopádu, výš na výhled, o Karlovi s erikou a jejich děcku.
 
+TODO dopsat
+
 <a href="../images/2024_january/27_1.jpg" target="_blank"><img src="../images/thumbnails/2024_january/27_1.jpg"></a>
 
 k obědu celerové řízky s kaší a cibulkou, hořické trubičky jako dezert, povídání si u stolu o práci,
@@ -443,7 +449,6 @@ k obědu celerové řízky s kaší a cibulkou, hořické trubičky jako dezert,
 míša chce na work&travel do austrálie, chtějí C1, lingvistické okno o čínštině, o češtině., na gauč, o mojí práci, hrát hry, carcasonne, kde jsem skončil druhý od konce, bobry, které jsem s přehledem vyhrál a míša prohrála na plné čáře, štěstí v lásce se vyrovná, chléb s guacamole, o palestině a izraeli, moc jsem se neučastnil, o krnapu, a najenou bylo jedenáct.<br>
 Sprcha a ležet. S míšou v objetí v posteli. Byli jsme si blíže než ráno. Rozesmál jsem jí a políbili jsme se víc než jen letmo. Přišlo mi, že máme šanci.
 
-> TODO dopsat
 
 ### 28.1. Oslepený
 
@@ -497,6 +502,8 @@ ohřáli jsme jídlo, rajčata měli s balsamicem a k tomu teplý čaj z termosk
 míša byla hotová, v objetí mi usnula asi za minutu<br>
 asi jsem jedl moc pozdě, usnout mi trvalo dlouho a párkrát jsem se vzbudil<br>
 i tak ale spánek vyšel na 80/100
+
+TODO dopsat
 
 ### 31.1. Kulturní
 
