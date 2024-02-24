@@ -122,7 +122,7 @@ Dorazil jsem polské jednotky, poobědval a vrhnul se na opravy. Kolem čtvrté 
 Odepsal jsem customer service z belenka. Krabice s botami ležela v Karlíně zabalená už od pátku a já neměl zimní boty do finska.<br>
 To jsem se rozhodl vyřešit. Na Poděbradské byl obchod naBOSo. Měli hezké XERO shoes ve slevě. Akorát byly jen ve 40. Dojel jsem tam a objevil, že xera nejsou pro mě. Zato mě ale nedchly Angles Atlas Winter Nut. Byly podobnějším mým Merrellům co do pocitu z boty na noze. Prošel jsem se v nich a cítil, že to je bota kterou si odvezu. Obchodu zrovna moc nefungoval systém, ale milý pán to dokázal nějak vyhackovat.
 
-<a href="../images/2024_february/6_1.png" target="_blank"><img src="../images/thumbnails/2024_february/6_1.png"></a>
+<a href="../images/2024_february/6_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/6_1.jpg"></a>
 
 Nacpal jsem krabici do batohu a vyrazil přes Jarov domů. Praha skutečně postrádá diagonální spojku. Jel jsem cik cak celou cestu.<br>
 Od Sáry jsem vyzvedl Koru a šel jí vyvenčit do Nuslí.
