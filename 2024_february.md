@@ -25,7 +25,12 @@
 - [21.2. Bez špuntů to nepůjde](#212-bez-špuntů-to-nepůjde)
 - [22.2. Se skutečným Ivanem](#222-se-skutečným-ivanem)
 - [23.2. Cítit se milovaná](#232-cítit-se-milovaná)
-- [24.2. Vzkazy domů](#242-vzkazy-domů)
+- [24.2. Den blbec](#242-den-blbec)
+- [25.2. Vzkazy domů](#252-vzkazy-domů)
+- [26.2. Tam a zase zpátky](#262-tam-a-zase-zpátky)
+- [27.2.](#272)
+- [28.2.](#282)
+- [29.2.](#292)
 
 ### 1.2. Štěstí
 
@@ -494,7 +499,7 @@ Už dlouho jsem nedebugoval kód. Natož cizí.<br>
 Po práci jsme se zastavili v Prismě. Litr zmizel jak nic. A to jsem původně nechtěl kupovat nic. Ale vzal jsem nějaké trvanlivé věci, zeleninu, pečivo a bylo to. Ostatní nakupovali víc.<br>
 Večer jsem četl Attiu. Knížka to je zajímavá. Ale ten chlap je ještě větší fašista než Walker. A má míň objektivních studií a víc subjektivních názorů. Rozhodl jsem se, že to dočtu. Je v ní spousta zajímavých drobnůstek. Ale nosná myšlenka je *Jez zdravěji a cvič víc.*
 
-### 24.2. Vzkazy domů
+### 24.2. Den blbec
 
 Můj spánek se pomalu zhoršoval. Chyběl mi REM. Internet mi poradil, že REM mizí, když je člověk ve stresu. Můj stresogram od našeho rozchodu proletěl komínem. Zvýšil jsem příjem magnesia a rozhodl se, že sobotní jóga nebude mí dvacet minut, ale hodinu.<br>
 Ivan jel do druhého skladu vrtat řídítka. Mohl jsem se tak v pokoji válet sám a trochu relaxovat. Po józe jsem si tak ještě udělal dobře a myslím, že mi to pomohlo trochu vydechnout.<br>
@@ -502,14 +507,78 @@ Víkendový plán zněl sehnat pohledy a známky. Po obědě, který se skládal
 
 <a href="../images/2024_february/24_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/24_1.jpg"></a>
 
-Pohledy jsem pořídil v knize. Chtěl jsem nějaké zimní, nebo krásně malované. Zimní byly ne moc pěkné. Ale v nepřeberném množství kýče jsem nakonec našel pár moc hezkých se zvířátky a s mumínky. Jeden stál 3€ a známka 2,5€. Chtěl jsem poslat pohled mámě, tátovi, Evě, tetě, Mišce, jejím rodičům, Nováčkovic, Marťě, Ondrovi s Rébou a Jardovi a Sáře. Litr prolítl komínem jak noc. Proti tomu už mě cena za decaf flatwhite a kanelipulla nijak nepálila.<br>
+Pohledy jsem pořídil v knize. Chtěl jsem nějaké zimní, nebo krásně malované. Zimní byly ne moc pěkné. Ale v nepřeberném množství kýče jsem nakonec našel pár moc hezkých se zvířátky a s mumínky. Jeden stál 3€ a známka 2,5€. Chtěl jsem poslat pohled mámě, tátovi, Evě, tetě, Mišce, jejím rodičům, Nováčkovic, Marťě, Ondrovi s Rébou a Jardovi a Sáře. Litr prolítl komínem jak noc. Proti tomu už mě cena za decaf flatwhite a Kanelipulla nijak nepálila.<br>
 Posadil jsem se nostalgicky do mého oblíbeného chainu a dal se do psaní dní minulých.
 
 <a href="../images/2024_february/24_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/24_2.jpg"></a>
 
 Pečivo jsem zvládl sníst bez potíží, ale do kafe jsem si kopl a vylil ho všude po stole. Naštěstí ne na zem, takže jsem po sobě dokázal tu spoušť uklidit. Holčina vedle mě, která psala noty tak extrémně úhledně, že vypadaly jak z osmnáctého století, mě uklidňovala, že se to stává pořád.<br>
 Mišky reakční doba se prodlužovala.
+První díl avatara<br>
+Pohledy jsem zapoměl v kavárně. Neměl jsem svůj den.
 
+### 25.2. Vzkazy domů
+
+Ivan po probuzení začal vyplňovat duolingo. Vstal jsem a šel si připravit snídani. Byl jsem první. Když se ke mně Ivan přidal, podíval jsem se do svého duolinga jak jsem na tom se Španělštinou. Ivan měl víc bodů než já. Dal jsem se do plnění lekcí. Taky jsem se mu rozhodl utéct v angličtině vyplněním nejvyššího testu. Ale xp mi to nepřidalo.<br>
+Ivan vyrazil vrtat vidlice a já jsem měl v pokoji chvíli pro sebe. Dal jsem si 6 Vosečkových šikan, sprchu a vyrazil ven, na pouť pro zapomenuté pohledy.<br>
+Cestou jsem si telefonoval s Marťou. Šla mi zalít kytky. Povídali jsme si o Míše, o kytkách, o její práci a o autě.<br>
+Před Espresso Housem jsme si řekli ahoj a já šel dovnitř objevit, zda jsou finové tak hodní jak si myslím. Hodní nehodní, rozhodně jsou líní. Pohledy se válely, přesně tam kde jsem je nechal. Vedle gauče, kde jsem předešlého dne vylil kávu.<br>
+Na náměstí vedle forenomu jsem koupil mléko a skrz mrazivé dopoledne jsem vyrazil zpět.<br>
+Doma jsem se pustil do nadepisování pohledů. Ale moc mě to nebavilo. Šel jsem pracovat. Debugoval jem  VSAM. Objevil jsem čím to bylo, ne moc dobře to vyřešil a poslal Vláďovi ať to udělá pěkně.<br>
+Jako odměnu za dobře odvedenou práci jsem si pustil hraného Avatara. Bylo to ok, ale originálu to nesahalo po paty.<br>
+Kolem páté jsem šel běhat. Břečkou. Na sever, mezi řadovými skandinávskými chatičkami, k jezeru, a po břehu zpět.
+
+<a href="../images/2024_february/25_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/25_1.jpg"></a>
+
+Po sprše jsem chvilku relaxoval na gauči, ale Ivan, který se v mezičase vrátil chtěl jít cvičit na cvičítka. Bazén byl zavřený a sauna po cvičení tak nebyla možná. Šel jsem s ním, ale zas tak mo jsem tomu nedal. Z běhání mě pobolívaly nohy a na ruce jsem si dával malou zátěž. Nemělo smysl se ničit. Letos jsem přece chtěl dělat věci *ještě pomaleji.*
+
+### 26.2. Tam a zase zpátky
+
+v osm na cestu do kuopia<br>
+mlha<br>
+star wars<br>
+pak meute<br>
+koncerty v evropě<br>
+do ikei<br>
+parkování na podruhé<br>
+servisáci<br>
+
+### 27.2.
+
+ivan na letisko se štěpánem<br>
+vrátil se trochu později hladový<br>
+ivanovi testovali terminály na letisku<br>
+poslední bezproblémové terminály otestované<br>
+odnést pohledy<br>
+Míša mi napsala, že mi nechce dávat plané naděje.<br>
+spustilo to ve mně slzy. Hodně slz. Pomalu jsem kráčel od schránky zpátky k nám. Cestou, kterou jsem šel naposledy pár let zpátky. Tehdá se tam válel Tier. Jenže tehdá nebyla zima a všude na zemi břečka.<br>
+Slzy mi v očích zůstaly až domů. Napsal jsem Anet, Sáře, Evě a vylil jsem jim srdíčko. Že být třináct set kilometrů daleko od domova mi nepomáhá.
+Pokud něco mám tak je to čas. Měl bych číst.
+
+### 28.2.
+
+První noc bez chrápání<br>
+k reklamacím<br>
+zabydlený<br>
+běhat<br>
+klouzalo to<br>
+skyr<br>
+plavat<br>
+caprese<br>
+čtení<br>
+
+### 29.2.
+
+deska, kterou několikrát vyndali<br>
+stavba kola na destičce<br>
+motor v rámu<br>
+všechno funguje<br>
+hesburger<br>
+crypto<br>
+kluci jdou plavat<br>
+rozhovor s ríšou<br>
+taky plavat<br>
+fakturu a seriál<br>
 
 [>> Březen](2024_march.md)
 
