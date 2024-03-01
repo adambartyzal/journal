@@ -29,8 +29,8 @@
 - [25.2. Vzkazy domů](#252-vzkazy-domů)
 - [26.2. Tam a zase zpátky](#262-tam-a-zase-zpátky)
 - [27.2.](#272)
-- [28.2.](#282)
-- [29.2.](#292)
+- [28.2. Příliš sportu](#282-příliš-sportu)
+- [29.2. Krypto](#292-krypto)
 
 ### 1.2. Štěstí
 
@@ -540,8 +540,17 @@ star wars<br>
 pak meute<br>
 koncerty v evropě<br>
 do ikei<br>
+
+<a href="../images/2024_february/26_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/26_1.jpg"></a>
+
 parkování na podruhé<br>
 servisáci<br>
+
+<a href="../images/2024_february/26_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/26_2.jpg"></a>
+
+<a href="../images/2024_february/26_3.jpg" target="_blank"><img src="../images/thumbnails/2024_february/26_3.jpg"></a>
+
+<p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2024_february/26_1.mp4" type="video/mp4"></video></p>
 
 ### 27.2.
 
@@ -555,11 +564,11 @@ spustilo to ve mně slzy. Hodně slz. Pomalu jsem kráčel od schránky zpátky 
 Slzy mi v očích zůstaly až domů. Napsal jsem Anet, Sáře, Evě a vylil jsem jim srdíčko. Že být třináct set kilometrů daleko od domova mi nepomáhá.
 Pokud něco mám tak je to čas. Měl bych číst.
 
-### 28.2.
+### 28.2. Příliš sportu
 
-První noc bez chrápání<br>
-k reklamacím<br>
-zabydlený<br>
+První noc bez Ivanova chrápání. 86 bodů. To šlo. Špunty jsem ale neodložil. Stěny u Olgy jsou papírové.<br>
+Dny začínaly být rutinní. Kafe, snídaně, na devátou do skladu autem.<br>
+Tentokrát jsem se věnoval reklamacím.
 běhat<br>
 klouzalo to<br>
 skyr<br>
@@ -567,18 +576,22 @@ plavat<br>
 caprese<br>
 čtení<br>
 
-### 29.2.
+### 29.2. Krypto
 
-deska, kterou několikrát vyndali<br>
-stavba kola na destičce<br>
-motor v rámu<br>
-všechno funguje<br>
-hesburger<br>
-crypto<br>
-kluci jdou plavat<br>
-rozhovor s ríšou<br>
-taky plavat<br>
-fakturu a seriál<br>
+V práci jsem se pustil do oprav. Nebo spíš do třízení. Většina desek vypadala úplně v pohodě. Jedna spodní mě ale zarazila. Dle historie jí z kola vyndali hned 2x a vždy si tam pobyla jen jeden den. Vždy s ní vyměnili ale i desku horní. Testerem prošla. Postavil jsem si tak testovací kolo. Do stojanu upnul vyřazený rám, nasadil vyřazené kolo a roztočil motor. Nic s ní nebylo.<br>
+
+<a href="../images/2024_february/29_1.jpg" target="_blank"><img src="../images/thumbnails/2024_february/29_1.jpg"></a>
+
+Rám s kolem jsem si přesunul k sobě. Testovací kolo umístil na destičku. Dělal jsem si z Lahti Karlín.
+
+<a href="../images/2024_february/29_2.jpg" target="_blank"><img src="../images/thumbnails/2024_february/29_2.jpg"></a>
+
+Na oběd jsme jeli do Hesburgeru. Měli mít sójový burger. Byl jsem zvědavý.<br>
+Bylo to docela zklamání. Navíc byl hesburger úplně tuctový fastfood. Papírové obaly a tak. Vlastně mi na tom celém jídle chutnal nejvíc kečup, který jsem si dal k hranolkám.<br>
+Povídali jsme si o kryptoměnách. Kluků vydělával bitcoin a ether. Což znamenalo, že vydělávali i mně. Ríša moc nepřemýšlel o tom jak krypto funguje. Tomáš docela jo. Martínkovic kryptu spíš nevěřili.<br>
+Po práci šli Štěpa s Omarem plavat. Vrátili se dřív než jsem s Ríšou dokončil diskusi opět o kryptu a akciích. Nedal se říct, že budoucnost nejde předpovědět. Že historický výkon akcie není prediktorem budoucí hodnoty. Ale investuje. A něco na tom vydělává. Snad bude v poho.<br>
+Taky jsem šel plavat. 1.1 km. 3x v sauně. Večer už jsem jen dojedl tortellini a poslal Petrovi fakturu.<br>
+Celý den jsem měl takový podivný pocit. Že nemůžu vydechnout. Stress na hodinkách byl vysoký. Řekl jsem si, že další den vynechám doplňky. Možná, že mi vadí citrát hořčíku.
 
 [>> Březen](2024_march.md)
 

@@ -1,0 +1,21 @@
+[<< Únor](2024_february.md)
+
+## [Březen](2024.md) 
+
+- [1.2. Still in Denial](#12-still-in-denial)
+
+### 1.2. Still in Denial
+
+Popírání. Asi je to dobrý překlad. Nevím. Anglicky se mi ten nadpis líbil víc. Večer jsme si Miškou chviličku psali. A bylo to moc vřelý. Vzpoměl jsem si na Anet, která mi napsala:
+
+> A jste teda pitomci, ze si pisete 😃
+
+Jenže já tomu pořád věřil. Možná skoro nejvíc za celou dobu co jsem byl pryč. Miška v Německu pracovala od nevidím do nevidím. Přišlo mi, že v Merseburgu prostě neměla čas přemýšlet nad tím, jestli nám dá šanci nebo ne. Ale čekal jí víkend s kamarádkami ze základky a odpočinek. Přišlo mi, že při psaní pookřála. Poslala mi písničku. Což nezní jako moc, ale byla to naše věc. Bavili jsme se skoro jako dřív. Byl jsem tvrdě ve fázi popírání.
+V práci jsem pokračoval v reklamaci.
+
+<!-->
+
+[>> Duben](2024_april.md)
+
+<-->
+
