@@ -28,8 +28,8 @@
 - [24.2. Den blbec](#242-den-blbec)
 - [25.2. Vzkazy domů](#252-vzkazy-domů)
 - [26.2. Tam a zase zpátky](#262-tam-a-zase-zpátky)
-- [27.2.](#272)
-- [28.2. Příliš sportu](#282-příliš-sportu)
+- [27.2. Bez Ivana](#272-bez-ivana)
+- [28.2. Příliš mnoho sportu](#282-příliš-mnoho-sportu)
 - [29.2. Krypto](#292-krypto)
 
 ### 1.2. Štěstí
@@ -552,19 +552,19 @@ servisáci<br>
 
 <p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2024_february/26_1.mp4" type="video/mp4"></video></p>
 
-### 27.2.
+### 27.2. Bez Ivana
 
-ivan na letisko se štěpánem<br>
-vrátil se trochu později hladový<br>
-ivanovi testovali terminály na letisku<br>
-poslední bezproblémové terminály otestované<br>
+Ivan musel vstát velmi tiše. Vůbec mě nevzbudil a když jsem se probral, museli být se Štěpánem už někde ve Vantě. Když se pak Štěpán vrátil, byl hladový a do práce jsme se tak dostali trochu později, protože nechceš pracovat s hladovým ostravákem, co mele pantem od rána do večera.<br>
+Ivan mezitím napsal, že na bezpečnostních kontrolách mu testovali terminály, jako kdyby to byly bomby. Ivan je na to trochu magnet. Ale je fakt, že bez platebního symbolu ebuf s plaentou vypadají dost podivně.<br>
+V práci jsem dotestoval zbývající upgtrade kity. Zbyly už jen dva, které měli u planetářů podivnou konfiguraci. Naštěstí jsme měli asi 30 čteček navíc, takže první část mojí práce byla hotová. Dál jsem se pustil do reklamací. Pákostroj testeru byl trochu nalomený. Spravil jsem to páskou, upravil si skript na zakládání reklamace a čtečkou udělal asi tak 150 kroků naráz.<br>
+Po práci jsem šel odnést
 odnést pohledy<br>
 Míša mi napsala, že mi nechce dávat plané naděje.<br>
 spustilo to ve mně slzy. Hodně slz. Pomalu jsem kráčel od schránky zpátky k nám. Cestou, kterou jsem šel naposledy pár let zpátky. Tehdá se tam válel Tier. Jenže tehdá nebyla zima a všude na zemi břečka.<br>
 Slzy mi v očích zůstaly až domů. Napsal jsem Anet, Sáře, Evě a vylil jsem jim srdíčko. Že být třináct set kilometrů daleko od domova mi nepomáhá.
 Pokud něco mám tak je to čas. Měl bych číst.
 
-### 28.2. Příliš sportu
+### 28.2. Příliš mnoho sportu
 
 První noc bez Ivanova chrápání. 86 bodů. To šlo. Špunty jsem ale neodložil. Stěny u Olgy jsou papírové.<br>
 Dny začínaly být rutinní. Kafe, snídaně, na devátou do skladu autem.<br>
@@ -594,5 +594,3 @@ Taky jsem šel plavat. 1.1 km. 3x v sauně. Večer už jsem jen dojedl tortellin
 Celý den jsem měl takový podivný pocit. Že nemůžu vydechnout. Stress na hodinkách byl vysoký. Řekl jsem si, že další den vynechám doplňky. Možná, že mi vadí citrát hořčíku.
 
 [>> Březen](2024_march.md)
-
-
