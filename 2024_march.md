@@ -7,6 +7,7 @@
 - [3.3. Having great friends](#33-having-great-friends)
 - [4.3. First steps towards acceptance](#43-first-steps-towards-acceptance)
 - [5.3. Groundhog Day](#53-groundhog-day)
+- [6.3. Write about feelings](#63-write-about-feelings)
 
 ### 1.3. Still in Denial
 
@@ -58,6 +59,14 @@ Večer mi Marťa šla zalít květiny. Telefonovali jsme asi hodinu. Mám bezva 
 Vzbudil jsem se s pocitem, že dny se sobě začínají podobat jako vejce vejci. Vždycky si představím takovej ten kráječ salámu v albertu. Jeden plátek stejnej jako druhej. Na hromnice o den více.<br>
 Štépa mi v práci nabídnul kafe. Bylo jedenáct. Neodmítl jsem. Ale měl jsem. Jejich rozpustné Tchibo má s sobě tak málo chuti kafe, ale tolik kofeinu, že jsem se cítil jak po čáře. Byl jsem najetej jak raketa a končetiny se mi klepaly jak ratlíkovi.<br>
 
+### 6.3. Write about feelings
+
+Studie ukazují, že psát o svých pocitech pomáhají při rozchodu. Miška se se mnou rozešla. Většinou píšu v minulým čase, protože zaznamenávám minulost. Ale tohle tady budou časy ujíždět.<br>
+Moje pocity stojí za hovno. Nepopřál jsem jí dobrou noc. V posledním roce jsem to neudělal asi 5x. Bolelo mě to neudělat. Jenže mě bolelo se i probudit. Co jsem udělal špatně? Jsem opravdu tak špatný přítel? Otázky bez odpovědí. Zajímalo mě, co jí říkají její kamarádi. Neporadil jí ani jeden ať nám dá ještě šanci? A jestli jo, proč je neposlouchá. Vždyť toho máme tolik společnýho.<br>
+Prý po tom co jsme spolu začali chodit byli spíš stále kamarádi. Jako by to byl problém. Míša je můj nejlepší kamarád na světě. Chtěl jsem aby byla moje kamarádka až do stáří. Chtěl jsem ale i víc. A my přece byli víc. Sdíleli jsme těla. Usínali jsme spolu a probouzeli se vedle sebe. Plánovali jsme budoucnost. Chtěli jsme řešit problémy. Ale když přišly, nevyřešili jsme nic. Stáli jsme v objetí na Roztylech a Míša mi řekla, že to necítí.<br>
+Míša chtěla víc. Prý jsem jí neviděl. Občas asi ne. Občas jsem koukal kde co lítá. Občas jsem roztržitej. Ale k Míše se moje myšlenky vždycky stočily zpátky. Možná ne dost rychle.<br>
+Vracím se k tomu reframingu. Byl jsem dobrý přítel z jejího pohledu? Občas jsem mluvil moc o svojí práci. Občas moc o svým kole. Asi jsem málo dával na jevo, co bych si přál. A míň plánoval. Já většinou jdu s proudem. Plánuju na pár dní dopředu, protože když plánuju na dýl, něco se pojebe.<br>
+Ale Míša plánuje na dýl. A to že já ne jí asi nedodávalo jistotu? Já nevím. Nevím. To je ten pocit, který mě naplňuje. Jak mám na papír vyblejt, něco co nevím. Rozhodla se, že jsme nekompatibilní. Eliška Remešová jí nepřesvědčila o tom, že do kompatibility je třeba dorůst. Nepřesvědčila jí o tom, že vztahová nula je věc, ze který se dá dostat. Nepřesvědčil jí ani Jillian on Love, která radí jak se dostat z Rough Patch. Míša se rozhodla a je tak tvrdohlavá, že jí nepřesvědčí vůbec nic.
 
 [>> Duben](2024_april.md)
 
