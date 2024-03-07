@@ -58,15 +58,41 @@ Večer mi Marťa šla zalít květiny. Telefonovali jsme asi hodinu. Mám bezva 
 
 Vzbudil jsem se s pocitem, že dny se sobě začínají podobat jako vejce vejci. Vždycky si představím takovej ten kráječ salámu v albertu. Jeden plátek stejnej jako druhej. Na hromnice o den více.<br>
 Štépa mi v práci nabídnul kafe. Bylo jedenáct. Neodmítl jsem. Ale měl jsem. Jejich rozpustné Tchibo má s sobě tak málo chuti kafe, ale tolik kofeinu, že jsem se cítil jak po čáře. Byl jsem najetej jak raketa a končetiny se mi klepaly jak ratlíkovi.<br>
+Jenže tenhle den přece jen nebyl úplně stejnej jako ostatní. Vlastně byl o dost jinej. Byl by to půlrok co bychom byli spolu. Taky to byl půlrok od toho co Juraj umřel. Napsal jsem Mišce, že bych jí chtěl obejmout. Přijít o nejlepšího kamaráda není lehký. Taky jsem jí ale pár věcí vytkl. Prý bylo dobře, že na ní začínám vidět chyby.<br>
+
+Chyby nechyby, stejně se mi po ní stýskalo. Napsal jsem jí, že mi chybí:
+
+> to jak na mě koukáš s bzučícím kartáčkem v puse.<br>
+> To jak šteluješ foťák abychom měli společnou fotku.<br>
+> To jak jak mě obejmeš po tom co se nevidíme.<br>
+> To jak ti voní vlasy a jak mi tvůj bojovnej jazyk olízne nos.<br>
+> To jak záříš, když se houpeš na houpačce.<br>
+> To jak se staráš o lidi, kteří jsou ti drazí.<br>
+> To jak kleješ ale nejsi u toho sprostá.<br>
+> To jak o věcech přemýšlíš do hloubky.<br>
+> To jak zdravě a chutně vaříš.<br>
+> To jak tančíš.<br>
+> To jak urputně bojuješ s klavírem.<br>
+> To jak ráda máš výhledy.<br>
+> To jak obhajuješ věci, o kterých jsi přesvědčená, že jsou dobrý.<br>
+> To jak jsi tvrdohlavá.. a to i teď
+
+A pak vypnul notifikace a uložil náš chat do archivu.<br>
+Venku ale bylo krásně. Rozhodl jsem se jít běhat. Dal jsem desítku. K jezeru, k pekárně, dál než jsem kdy byl, pak severním obloukem a zpátky do oblasti, kde jsem už běhal minule. Trochu zbytečně jsem to napálil. Obzvlášť, když všude byl ještě led. Tempo [5:18](https://www.strava.com/activities/10895888321). Ale pěkných dní je třeba užívat.<br>
+Odepsal jsem Barče. Ona už mě ne. Trochu mě to zkazilo náladu. Barča, holka z Tinderu, která mě v mém amygdalovém záchvatu ještě v Praze swajpla doprava a z nepřeerného zástupu holek, který mě ničím nebyly s to zaujmout mě uhranula fotkou s kytarou, hezkým úsměvem a pocitem, že na Tinder úplně nepatří. Napsala si se mnou napsala pár zpráv. Začínala se mi líbit čím dál víc. Ale na mou poslední zprávu mi už neodepsala. S holkama to je těžký.<br>
 
 ### 6.3. Write about feelings
 
-Studie ukazují, že psát o svých pocitech pomáhají při rozchodu. Miška se se mnou rozešla. Většinou píšu v minulým čase, protože zaznamenávám minulost. Ale tohle tady budou časy ujíždět.<br>
+Ráno bylo krásně. Při cestě na nákup (protože jsem neměl nic k obědu) jsem jel na vlně toho, že na mě z dokonale modrého nebe svítí sluníčko. Sic bylo osm pod nulou, ale počasí hřálo.<br>
+Chmury na mě přišly až někdy v práci, kdy jsem pomáhal klukům s přestavnou kol.<br>
+Studie ukazují, že psát o svých pocitech při rozchodu pomáhá. Miška se se mnou rozešla. Většinou píšu v minulým čase, protože zaznamenávám minulost. Ale tady budou časy ujíždět.<br>
 Moje pocity stojí za hovno. Nepopřál jsem jí dobrou noc. V posledním roce jsem to neudělal asi 5x. Bolelo mě to neudělat. Jenže mě bolelo se i probudit. Co jsem udělal špatně? Jsem opravdu tak špatný přítel? Otázky bez odpovědí. Zajímalo mě, co jí říkají její kamarádi. Neporadil jí ani jeden ať nám dá ještě šanci? A jestli jo, proč je neposlouchá. Vždyť toho máme tolik společnýho.<br>
 Prý po tom co jsme spolu začali chodit byli spíš stále kamarádi. Jako by to byl problém. Míša je můj nejlepší kamarád na světě. Chtěl jsem aby byla moje kamarádka až do stáří. Chtěl jsem ale i víc. A my přece byli víc. Sdíleli jsme těla. Usínali jsme spolu a probouzeli se vedle sebe. Plánovali jsme budoucnost. Chtěli jsme řešit problémy. Ale když přišly, nevyřešili jsme nic. Stáli jsme v objetí na Roztylech a Míša mi řekla, že to necítí.<br>
 Míša chtěla víc. Prý jsem jí neviděl. Občas asi ne. Občas jsem koukal kde co lítá. Občas jsem roztržitej. Ale k Míše se moje myšlenky vždycky stočily zpátky. Možná ne dost rychle.<br>
 Vracím se k tomu reframingu. Byl jsem dobrý přítel z jejího pohledu? Občas jsem mluvil moc o svojí práci. Občas moc o svým kole. Asi jsem málo dával na jevo, co bych si přál. A míň plánoval. Já většinou jdu s proudem. Plánuju na pár dní dopředu, protože když plánuju na dýl, něco se pojebe.<br>
-Ale Míša plánuje na dýl. A to že já ne jí asi nedodávalo jistotu? Já nevím. Nevím. To je ten pocit, který mě naplňuje. Jak mám na papír vyblejt, něco co nevím. Rozhodla se, že jsme nekompatibilní. Eliška Remešová jí nepřesvědčila o tom, že do kompatibility je třeba dorůst. Nepřesvědčila jí o tom, že vztahová nula je věc, ze který se dá dostat. Nepřesvědčil jí ani Jillian on Love, která radí jak se dostat z Rough Patch. Míša se rozhodla a je tak tvrdohlavá, že jí nepřesvědčí vůbec nic.
+Ale Míša plánuje na dýl. A to že já ne jí asi nedodávalo jistotu? Já nevím. Nevím. To je ten pocit, který mě naplňuje. Jak mám na papír vyblejt, něco co nevím. Rozhodla se, že jsme nekompatibilní. Eliška Remešová jí nepřesvědčila o tom, že do kompatibility je třeba dorůst. Nepřesvědčila jí o tom, že vztahová nula je věc, ze který se dá dostat. Nepřesvědčil jí ani Jillian on Love, která radí jak se dostat z Rough Patch. Míša se rozhodla a je tak tvrdohlavá, že jí nepřesvědčí vůbec nic.<br>
+Jenže.. to vlastně znamená, že jsem to neposral já. Já jsem měl snahu. Jasně.. mohl jsem něco udělat jinak, líp možná. Ale já nejsem důvod proč nejsme spolu. Je to Míša. Ta to pohřbila. Ta ublížila mně. Odpustím jí to. Ale důležitý je, že já nejsem viník.<br>
+Došlo mi to, když jsem šel večer ze sauny. Povídal jsem si tam s nějakým starým pánem, který uměl skvěle anglicky. Finové jsou dál. Ale děcka mě v tom bazénu fakt sraly. V tom dál nejsou.
 
 [>> Duben](2024_april.md)
 
