@@ -15,6 +15,8 @@
 - [11.3. Christ's years](#113-christs-years)
 - [12.3. Being locked away helps](#123-being-locked-away-helps)
 - [13.3. Not wanting to do anything](#133-not-wanting-to-do-anything)
+- [14.3. Hope it won't catch on fire](#143-hope-it-wont-catch-on-fire)
+- [15.3. Radio silence](#153-radio-silence)
 
 ### 1.3. Still in Denial
 
@@ -149,6 +151,23 @@ Všiml jsem si, že píšu míň. Přestával jsem mít o čem psát. Dny byly s
 Nemělo smysl čekat, než mi letenku vykoupí. Po příjezdu do skladu jsem nakoupil jak letenku tak jízdenku. A potom opět jsem pomáhal klukům. Brazilci, Estonci i Finové totiž opet udělali houby. Zas to uteklo jak voda. S krátkou zastávkou v S-Marketu jsem dojeli domů. Zapomněl jsem že jsem chtěl prát. Dokoukal *Enemy of the State*, udělal k večeři a na dva další obědy zeleninu s rýží a tofu a pak si konečně vzponměl na tu pračku.<br>
 Nechtělo se mi číst. Nechtělo se mi koukat na další film. Nechtělo se mi psát si s lidmi. Zažíval jsem aktivní nechutenství dělat úplně cokoliv. Ale jen tak ležet na posteli mě sralo. Nebylo z toho cesty ven.<br>
 Těšil jsem se domů. Jenže co mě čekalo doma. To samý. Ráno do práce, pak něco v Karlíně, pak zpátky. Ale aspoň jsem předběžně domluvil čajovnu s ostatními na čtvrtek. A napsal mámě, že letím v neděli. A napsal to i Barče. A kupodivu mi odepsala. Vyměnili jsme si pár zpráv o filmech. Maličko mě zarazilo, že je fanda bizárů. Jako je Sharknado. Což mi přišlo v poho. Ale taky je fanda Kolotoče a Rande. Jarda by to cenil. Ale já jsem moc nevěděl, jestli mě to hřeje u srdce. Každopádně po pár zprávách zas odpovídat přestala. Už jsem na to začal být zvyklý.
+
+### 14.3. Hope it won't catch on fire
+
+třízení baterií<br>
+nepříjemné pocity<br>
+jít plavat<br>
+moc jsem tomu nedal<br>s
+
+### 15.3. Radio silence
+
+Dokončení baterií<br>
+Úklid věcí se kterými jsem pracoval<br>
+Ríšovo Ani hovno vole.<br>
+Ležel jsme na posteli, stočenej do polohy plodu a brečel. Poprvý v životě jsem chápal proč se lidi jdou zasebevraždit. Věděl jsem, že takovou blbost neudělám, ale pokud je někdo citlivější než já, a to tutově je, protože já jsem emocionální asi jako pařez, chápal jsem, jak lákavý je zvolit konec místo trápení.<br>
+Plakal jsem a nevěděl coby. Až jsem si řekl, že to vyběhám. Sebral jsem se a šel jsem běhat. Uběhl jsem pět kilometrů. Vrátil se a napsal jsem Mišce, že souhlasím s jejím návrhem rádiového ticha. Byl to měsíc co jsme se viděli. Bylo poetický rozloučit se na další.<br>
+Třeba měla Anet pravdu, třeba mi to pomůže.<br>
+Martínkovi s Tomíkem si večer objednávali hromadu jídla z Mekáče. Omar s Tomem se napřed zhulili a pak se ládovali
 
 [>> Duben](2024_april.md)
 
