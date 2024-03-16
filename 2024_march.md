@@ -9,15 +9,16 @@
 - [5.3. Groundhog Day](#53-groundhog-day)
 - [6.3. Write about feelings](#63-write-about-feelings)
 - [7.3. What's next?](#73-whats-next)
-- [8.3. How to be a good boyfriend?](#83-how-to-be-a-good-boyfriend)
+- [8.3. A good (boy)friend?](#83-a-good-boyfriend)
 - [9.3. Over the Cuckoo's Nest](#93-over-the-cuckoos-nest)
-- [10.3. Books finished](#103-books-finished)
+- [10.3. Done with books](#103-done-with-books)
 - [11.3. Christ's years](#113-christs-years)
 - [12.3. Being locked away helps](#123-being-locked-away-helps)
 - [13.3. Not wanting to do anything](#133-not-wanting-to-do-anything)
 - [14.3. Hope it won't catch on fire](#143-hope-it-wont-catch-on-fire)
 - [15.3. Radio silence](#153-radio-silence)
-- [16.3.](#163)
+- [16.3. Looking forward to be home](#163-looking-forward-to-be-home)
+- [17.3. Long way home](#173-long-way-home)
 
 ### 1.3. Still in Denial
 
@@ -110,7 +111,7 @@ Co dál. Dál asi Barča? Ale nechtěl jsem k ní upínat žádnou naději, doku
 Procházel jsem se bokem od vyjeté stopy a kochal se přírodou. Bylo to tam hezký. Mišce by se tam líbilo. Fakt mě mrzelo, že tam se mnou není. Procházel jsem se asi hodinu, ale pak to stočil dolů k jezeru. Říkal jsem si, že přejdu po něm a ušetřím tak trasu. Ale orientační smyl mě zklamal a po břehu to bylo kratší.<br>
 Docela jsem vymrzl a vymrzl a vyhládl. Doma jsem se pustil do vaření špaget a pořádně se nadlábl.
 
-### 8.3. How to be a good boyfriend?
+### 8.3. A good (boy)friend?
 
 Pokud to v posledních pár dnech bylo lepší, zas to začalo být špatný.<br>
 Vracel jsem se k týhle zprávě:
@@ -122,7 +123,7 @@ Ta byla důležitá.
 
 Čím víc jsem nad tím hloubal, tím víc jsem cítíl, že i přes veškerou svou snahu jsem nedokázal překonat chyby a nedostatky, který do mě dostala výchova mými nefunkčními rodiči. Že to je věc, kterou nemůžu porazit. A že Miška potřebuje vidět vzorce chování, který viděla doma u svých funkčních rodičů, ale já nikdy. A že je bude potřebovat i nějaká další holka a já je tam mít nebudu. Že jsem předrozbitej.
 Rozhod jsem se obrátit na kamarády. Napsal jsem to Sáře, Anet, Ondrovi, Davidovi, Evě a Martě.<br>
-Marťa mi téměř obratem zavolala. Rozmlouvala mi to před rozbití.
+Marťa mi téměř obratem zavolala. Rozmlouvala mi to před rozbití. Postupně mi ho rozmlouvali všichni. Ale víc a víc jsem v jejich narativu slyšel, že Míša už není moje holka a měl bych si to sakra uvědomit.
 
 ### 9.3. Over the Cuckoo's Nest
 
@@ -130,7 +131,7 @@ Začínal jsem se v Lahti cítit trochu jak v nějakým ústavu.
 Každej jsme měli malej pokojík a potkávali se v kuchyni. Po práci, která nebyla moc mozkově náročná jsme chodili na procházky, běhat, cvičit, nebo plavat do bazénu. Ti línejší hrajáli hry na PlayStationu. Finsko je takový.. podivně terapeutický. I v tom dobrým i v tom špatným slova smyslu. Ve finsku jsou jezera a lesy. Čistej vzduch. Ale Finové sklopí hlavu když člověka míjí. Nic moc se tam neděje. Je tam ticho. Měl jsem spoustu času se svojí hlavou. Čětl jesm. Občas psal deník... Začínalo mi z toho trochu hrabat.<br>
 Den to byl rozhodně terapeutický. Četl jsem. Jedl jsem. Vyplňoval jsem Duolingo. Pak jsem zas četl. Šel běhat. Jedl. Četl. Jedl a pak si pustil Oppenheimera.<br>
 
-### 10.3. Books finished
+### 10.3. Done with books
 
 Dočetl jsem Glucose Revolution. Chtěl jsem si s Míšou o tý knize popovídat. Už mě přestávalo bavit, rýpat se ve vztahu, který Miška odepsala. Hodně jsem jí v tý knížce viděl. Její svačiny. Její saláty před večeří.<br>
 Odpo jsem šel plavat. Hecnul jsem dva kilometry. Po plavání jsem dokoukal Oppenheimera. Byl to jasnej Nolan. Několik různých vrstev přes sebe. Ale bylo to skoro zbytečně zmatečný. Na velkým plátně to asi mohlo člověka hodně ohromit. Ale nevím. Inception a Interstellar zůstávaly nepřekonaný.
@@ -171,7 +172,7 @@ Plakal jsem a nevěděl coby. Až jsem si řekl, že to vyběhám. Sebral jsem s
 Třeba měla Anet pravdu, třeba mi to pomůže.<br>
 Martínkovi s Tomíkem si večer objednávali hromadu jídla z Mekáče. Omar s Tomem se napřed zhulili a pak se ládovali fastfoodem.
 
-### 16.3.
+### 16.3. Looking forward to be home
 
 Pořád jsem se v noci budil. To že usnu rychle, pak spím tak 4 hodiny ok, pak se proberu úplně fresh někdy kolem třetí ranní a nemůžu zabrat mě loni opustilo a v Lahti zas vrátilo. Opustilo mě to po začátku vztahu s Míšou. Taky jsem se ale snažil nepít čaj moc pozdě, zatímco tady jsem pil spací čaj. Oxytocin nebo voda. Těžko říct. Řekl jsem si, že doma budu víc investigovat.<br>
 Čekal mě poslední volný den Lahti. Co s ním. Běhat? Plavat? Jít se projít? Venku bylo zataženo a mrholilo. Začal jsem snídaní ze zbytků, pokračoval jógou a plankem.<br>
@@ -179,7 +180,13 @@ Po cvičení, ostříhání nehtů, oholení a ledové sprše jsem se cítil ví
 Na druhou hodinu jsme byli domluvení, že Monča uvaří cibulačku. Když jsem si se jí ptal zda by nechtěla pomoct, stála si za tím, že ne. Překvapilo mě, že cibulačku sama nejí a pro sebe si udělá polévku čočkovou.<br>
 Já jsem si řekl, že chci ještě jednou navštívit espresso house. Nechtěl sedět doma, neb pocit toho, že jsem zavřený v ústavu ve mně sílil a kroky nikdy nejsou na škodu.<br>
 Cestou se rozpršelo. Výstup na kopec s kostelem kousek od náměstí byl náročný. Cesta byla zmrzlá a neudržovaná.<br>
-V kavárně jsem si dal kromě decaf flatwhite, bagel se zeleninou a smetanovou pomazánkou. A dal se do psaní. Březen byl co do zážitků minimalistický. Co do pocitů rozmanitý, ale těch pozitivních tolik nebylo.
+V kavárně jsem si dal kromě decaf flatwhite, bagel se zeleninou a smetanovou pomazánkou. A dal se do psaní. Březen byl co do zážitků minimalistický. Co do pocitů rozmanitý, ale těch pozitivních tolik nebylo.<br>
+Na polévku jsem se po dešti vrátil jen s pětiminutovým zpožděním. A bylo to tak akorát. Monča do ní zapekla bagetku se sýrem a bylo to vinikající. Akorát Ríša to zazdil a neobjevil se.<br>
+Jak jsem Anet psal, že se nechci koukat na seriály, povedlo se mi shlédnout čtyři díly z šesti seriálu [Catch 22](https://www.csfd.cz/film/6972-hlava-22). Knížku už jsem si sotva pamatoval. Ale hodně mě to chytlo. Stejně jako tehdá čtení. Absurdita války byla v tom seriálu vykreslená geniálně.
+
+### 17.3. Long way home
+
+
 
 [>> Duben](2024_april.md)
 
