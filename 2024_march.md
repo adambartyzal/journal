@@ -19,6 +19,8 @@
 - [15.3. Radio silence](#153-radio-silence)
 - [16.3. Looking forward to be home](#163-looking-forward-to-be-home)
 - [17.3. Long way home](#173-long-way-home)
+- [18.3. Film making in progress](#183-film-making-in-progress)
+- [19.3.](#193)
 
 ### 1.3. Still in Denial
 
@@ -181,13 +183,38 @@ Na druhou hodinu jsme byli domluvení, že Monča uvaří cibulačku. Když jsem
 Já jsem si řekl, že chci ještě jednou navštívit espresso house. Nechtěl sedět doma, neb pocit toho, že jsem zavřený v ústavu ve mně sílil a kroky nikdy nejsou na škodu.<br>
 Cestou se rozpršelo. Výstup na kopec s kostelem kousek od náměstí byl náročný. Cesta byla zmrzlá a neudržovaná.<br>
 V kavárně jsem si dal kromě decaf flatwhite, bagel se zeleninou a smetanovou pomazánkou. A dal se do psaní. Březen byl co do zážitků minimalistický. Co do pocitů rozmanitý, ale těch pozitivních tolik nebylo.<br>
-Na polévku jsem se po dešti vrátil jen s pětiminutovým zpožděním. A bylo to tak akorát. Monča do ní zapekla bagetku se sýrem a bylo to vinikající. Akorát Ríša to zazdil a neobjevil se.<br>
-Jak jsem Anet psal, že se nechci koukat na seriály, povedlo se mi shlédnout čtyři díly z šesti seriálu [Catch 22](https://www.csfd.cz/film/6972-hlava-22). Knížku už jsem si sotva pamatoval. Ale hodně mě to chytlo. Stejně jako tehdá čtení. Absurdita války byla v tom seriálu vykreslená geniálně.
+Na polévku jsem se po dešti vrátil jen s pětiminutovým zpožděním. A bylo to tak akorát. Monča do ní zapekla bagetku se sýrem a bylo to vynikající. Akorát Ríša to zazdil a neobjevil se.<br>
+Jak jsem Anet psal, že se nechci koukat na seriály, povedlo se mi shlédnout čtyři díly z šesti seriálu [Catch 22](https://www.csfd.cz/film/6972-hlava-22). Knížku už jsem si sotva pamatoval. Ale hodně mě to chytlo. Stejně jako tehdá čtení. Absurdita války byla v tom seriálu vykreslená geniálně.<br>
+Večer jsem se ještě šel projít. Trochu pršelo a všechno tálo.
 
 ### 17.3. Long way home
 
+O to absurdnější bylo, že když jsem se probral, za okny mrzlo, na zemi bylo deset čísel a ostrý vítr ve vzduchu míchal další suchý prašan.
+
+balení<br>
+cibulačka<br>
+psaní si s barčou<br>
+do zasněženého finska<br>
+nádraží pochopitelné appka skvělá, vlak ok<br>
+drahé pečivo na přestupu<br>
+na letiště z podzemí<br>
+museli mi pomoci s odbavením<br>
+nevyndavat věci z batohu je dobrý v tom má Míša pravdu. Stejně ale můj batoh vzbudil podezření. Jako vždycky. Byl nacpanej elektronikou. Černoch to ale moc neřešil. Koukl na laptop a poslal mě dál.<br>
+Sedl jsem si do Espresso House a na chvíli se cítíl optimisticky. Od chvíle, kdy jsem tam seděl poprvý uteklo přes šest let. A bylo to dobrých šest let. Rozchod mě pořád bolel. Ale za těch šest let jsem viděl spoutu zemí, poznal fajn lidi, dostal se do fajn práce, začal žít zdravěji a opravdu se zamiloval.<br>
 
 
 [>> Duben](2024_april.md)
 
+### 18.3. Film making in progress
 
+Vstal jsem až nepříjemně brzo. S snídani doma nic nebylo. Ale byl čas shodit vlasy. Někdy po sedmé jsem oholený vyrazil na Karmínovém drakovi na magistrálu. Došlo mi, že to kolo je vrak. Jak ho mám rád, tak přivírám oči nad tím, že nejlepší dobu má opravdu za sebou. Cestou jsem uvažoval, zda chci dávat peníze do výměny celého drive trainu na kole, které se cestou kroutilo jak kdyby bylo z gumy. Dost za to asi ale mohly podhuštěná kola. Nakonec mi ale řetězec myšlenek přerušilo bolení prstů. Sice v Praze nebyl sníh a sluníčko svítilo. Ale bylo kolem nuly stejně jako většinu dní v Lahti.<br>
+V Karlíně jsem objevil, že máme vyměněný zámek ve dveřích. To mi nepřišlo úplně vhod. Byl jsem v práci o hodinu dřív než ostatní. Nakonec jsem pána na vrátnici přemluvil, aby mě pustil dovnitř. Nechápu jaktože si mě nepamatoval. Zdravil jsem ho pět let.<br>
+Do Karlína přišlo XLko. Bylo jasný, že Ivan celý den stráví stavbou. Já jsem se pustil do soukromého projektíku. Filmové klapky. Byla to proprieta na odpolední rande s Barčou.
+Nepřišlo mi, že jsem byl pryč měsíc. V práci jsem dodělal pár věcí co se nakupili, ale moc toho nebylo. Protože jsem ale na XLku zahlédl, že v Holešovicích přešli na USB C. Rozhodl jsem se na testerech přejít taky. Nový kolo, nový konektory.<br>
+S Barčou jsme byli domluvení na pátou. Sraz byl před Masaryčkou. U hodin, o kterých jsem netušil, že tam jsou. Jenže u nich postávali kuřáci.
+
+### 19.3.
+
+Naspal jsem sotva šest hodin. Kolo bylo v práci a za okny sluníčko. K snídani doma nic a tak nezbylo než nazout boty a vyrazit pěšky do práce. Cestou jsem přemýšlel o předchozím večeru. Zda bylo moudrý, jít ven s Barčou. Míša mi nechyběla o nic míň. Vlastně jsem se na Ondříčkový rozbrečel. Jít kolem domu, kde jsem bydlel a bulet jak malý dítě byl teda na nic start dne.<br>
+V albertu jsem si pořídil olivový šnek a mrkev k snídani. Nejedl jsem 21 hodin. Ale neměl jsem moc hlad. Spíš jsem cítíl tíži toho, že nemůžu na Míšu přestat myslet. Bylo to strašný. Už bych byl rád, kdyby to skončilo.<br>
+DJ byl v práci. Já se pustil do kreslení konektorů na testery. Oběd jsem si dal ve vegance. Delmart neměl decaf, takže jsem došel dou Mého Šálku. Doubleshot je echt drahej a 300 g jsem tam nechal 345 korun. K decafování používají Ethyl Acetát. Swiss Water mi zatím přišel nejepšé. Super Carbon Dioxide nejslabší. Ale to asi bylo tím, že to byla hnusná Lavazza. Kafe bylo ovocný, na 18 kliknutí skoro zbytečně kyselý. 22 kliknutí a 2:30, bylo hořčejší, možná skoro zbytečně. 20 čekalo na středu.<br>
