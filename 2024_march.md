@@ -20,7 +20,11 @@
 - [16.3. Looking forward to be home](#163-looking-forward-to-be-home)
 - [17.3. Long way home](#173-long-way-home)
 - [18.3. Film making in progress](#183-film-making-in-progress)
-- [19.3.](#193)
+- [19.3. Still thinking about her](#193-still-thinking-about-her)
+- [20.3. Nail cartel in Europe](#203-nail-cartel-in-europe)
+- [21.3. Tea, news and beer](#213-tea-news-and-beer)
+- [22.3. Card from another life](#223-card-from-another-life)
+- [23.3.](#233)
 
 ### 1.3. Still in Denial
 
@@ -129,7 +133,7 @@ Marťa mi téměř obratem zavolala. Rozmlouvala mi to před rozbití. Postupně
 
 ### 9.3. Over the Cuckoo's Nest
 
-Začínal jsem se v Lahti cítit trochu jak v nějakým ústavu.
+Začínal jsem se v Lahti cítit trochu jak v nějakým ústavu.<br>
 Každej jsme měli malej pokojík a potkávali se v kuchyni. Po práci, která nebyla moc mozkově náročná jsme chodili na procházky, běhat, cvičit, nebo plavat do bazénu. Ti línejší hrajáli hry na PlayStationu. Finsko je takový.. podivně terapeutický. I v tom dobrým i v tom špatným slova smyslu. Ve finsku jsou jezera a lesy. Čistej vzduch. Ale Finové sklopí hlavu když člověka míjí. Nic moc se tam neděje. Je tam ticho. Měl jsem spoustu času se svojí hlavou. Čětl jesm. Občas psal deník... Začínalo mi z toho trochu hrabat.<br>
 Den to byl rozhodně terapeutický. Četl jsem. Jedl jsem. Vyplňoval jsem Duolingo. Pak jsem zas četl. Šel běhat. Jedl. Četl. Jedl a pak si pustil Oppenheimera.<br>
 
@@ -202,19 +206,60 @@ museli mi pomoci s odbavením<br>
 nevyndavat věci z batohu je dobrý v tom má Míša pravdu. Stejně ale můj batoh vzbudil podezření. Jako vždycky. Byl nacpanej elektronikou. Černoch to ale moc neřešil. Koukl na laptop a poslal mě dál.<br>
 Sedl jsem si do Espresso House a na chvíli se cítíl optimisticky. Od chvíle, kdy jsem tam seděl poprvý uteklo přes šest let. A bylo to dobrých šest let. Rozchod mě pořád bolel. Ale za těch šest let jsem viděl spoutu zemí, poznal fajn lidi, dostal se do fajn práce, začal žít zdravěji a opravdu se zamiloval.<br>
 
-
-[>> Duben](2024_april.md)
-
 ### 18.3. Film making in progress
 
 Vstal jsem až nepříjemně brzo. S snídani doma nic nebylo. Ale byl čas shodit vlasy. Někdy po sedmé jsem oholený vyrazil na Karmínovém drakovi na magistrálu. Došlo mi, že to kolo je vrak. Jak ho mám rád, tak přivírám oči nad tím, že nejlepší dobu má opravdu za sebou. Cestou jsem uvažoval, zda chci dávat peníze do výměny celého drive trainu na kole, které se cestou kroutilo jak kdyby bylo z gumy. Dost za to asi ale mohly podhuštěná kola. Nakonec mi ale řetězec myšlenek přerušilo bolení prstů. Sice v Praze nebyl sníh a sluníčko svítilo. Ale bylo kolem nuly stejně jako většinu dní v Lahti.<br>
 V Karlíně jsem objevil, že máme vyměněný zámek ve dveřích. To mi nepřišlo úplně vhod. Byl jsem v práci o hodinu dřív než ostatní. Nakonec jsem pána na vrátnici přemluvil, aby mě pustil dovnitř. Nechápu jaktože si mě nepamatoval. Zdravil jsem ho pět let.<br>
 Do Karlína přišlo XLko. Bylo jasný, že Ivan celý den stráví stavbou. Já jsem se pustil do soukromého projektíku. Filmové klapky. Byla to proprieta na odpolední rande s Barčou.
 Nepřišlo mi, že jsem byl pryč měsíc. V práci jsem dodělal pár věcí co se nakupili, ale moc toho nebylo. Protože jsem ale na XLku zahlédl, že v Holešovicích přešli na USB C. Rozhodl jsem se na testerech přejít taky. Nový kolo, nový konektory.<br>
-S Barčou jsme byli domluvení na pátou. Sraz byl před Masaryčkou. U hodin, o kterých jsem netušil, že tam jsou. Jenže u nich postávali kuřáci.
+S Barčou jsme byli domluvení na pátou. Sraz byl před Masaryčkou. U hodin, o kterých jsem netušil, že tam jsou. Jenže u nich postávali kuřáci.<br>
+Šel jsem tak dovnitř a trochu jí tím zmátl. Ale potkali jsme se. A vyrazili k k řece. Vysvětlil jsem jí, proč mám klapku a mincí jsme párkrát vybrali směr. Ale nakonec jsme šli podél vody. A já vyprávěl o tom, že jsem líný. Byť to není úplně pravda. A Barča se mě doptávala. A občas vyprávěla ona. A bylo to docela milý.<br>
+Takhle jsme došli až za Invalidovnu. Ale tam začala být zima, takže jsem navrhnul horký nápoj. A byť na invalidovně horké nápoje asi mají, navrhl jsem bazén. A tak jsme prošli celý Karlín nazpátek, tentokrát vnitřkem. Barča mi povídala, kde všude byla na Auroře a Thomu Yorkeovi.<br>
+V kavárně jsem si dal chai latté a Barča tuareg. Sedli jsme si dozadu na rantl nad bazénem a povídali si o filmech, knížkách, životě a tak. A pak byla půlnoc a vyhazovač nás informoval, že zavírají. Což bylo redundatní, protože se i poslední konzumenti zvedli a odešli.<br>
+Doprovodil jsem Barču na tramvaj. Skoro jsme dobíhali a před naskočením do trojky mě rychle objala. Dal jsem jí klapku a zamával.<br>
+Když jí tramvaj odvážela někam do Bohnic, došlo mi, že jsme nejedli. Na jídlo ale bylo pozdě. Musel jsem se dostat domů. Nakonec jsem to sjel na rekole.<br>
+Trochu promrzlý jsem jí napsal, jestli dojela domů v pořádku a dostal jsem odpovědi, že ano a že ji jí došlo až na cestě, že má hlad.<br>
+Ještě jsme si chvíli psali. Spát jsem šel v půl druhé a říkal si, že spánkový fašista by mě nepochválil.
 
-### 19.3.
+### 19.3. Still thinking about her
 
 Naspal jsem sotva šest hodin. Kolo bylo v práci a za okny sluníčko. K snídani doma nic a tak nezbylo než nazout boty a vyrazit pěšky do práce. Cestou jsem přemýšlel o předchozím večeru. Zda bylo moudrý, jít ven s Barčou. Míša mi nechyběla o nic míň. Vlastně jsem se na Ondříčkový rozbrečel. Jít kolem domu, kde jsem bydlel a bulet jak malý dítě byl teda na nic start dne.<br>
 V albertu jsem si pořídil olivový šnek a mrkev k snídani. Nejedl jsem 21 hodin. Ale neměl jsem moc hlad. Spíš jsem cítíl tíži toho, že nemůžu na Míšu přestat myslet. Bylo to strašný. Už bych byl rád, kdyby to skončilo.<br>
-DJ byl v práci. Já se pustil do kreslení konektorů na testery. Oběd jsem si dal ve vegance. Delmart neměl decaf, takže jsem došel dou Mého Šálku. Doubleshot je echt drahej a 300 g jsem tam nechal 345 korun. K decafování používají Ethyl Acetát. Swiss Water mi zatím přišel nejepšé. Super Carbon Dioxide nejslabší. Ale to asi bylo tím, že to byla hnusná Lavazza. Kafe bylo ovocný, na 18 kliknutí skoro zbytečně kyselý. 22 kliknutí a 2:30, bylo hořčejší, možná skoro zbytečně. 20 čekalo na středu.<br>
+DJ byl v práci. Já se pustil do kreslení konektorů na testery. Oběd jsem si dal ve vegance. Delmart neměl decaf, takže jsem došel dou Mého Šálku. Doubleshot je echt drahej a 300 g jsem tam nechal 345 korun. K decafování používají Ethyl Acetát. Swiss Water mi zatím přišel nejepší. Super Critical Carbon Dioxide nejslabší. Ale to asi bylo tím, že to byla hnusná Lavazza. Kafe bylo ovocný, na 18 kliknutí skoro zbytečně kyselý. 22 kliknutí a 2:30, bylo hořčejší, možná skoro zbytečně. 20 čekalo na středu.<br>
+
+### 20.3. Nail cartel in Europe
+
+Ráno jsem jel přes Vinohrady. Tunelem jsem to docela valil. Dokonce mě i napdala myšlenka, že kdyby se mi něco stalo s kolem, byl by to docela značný držkopád.
+ušla duše<br>
+mámě naproti<br>
+do veganky<br>
+v albertu dortík<br>
+povídat si nad kafem, otisky prstu<br>
+
+### 21.3. Tea, news and beer
+
+Chtělo to neusnout na vavřínech. Ve finsku jsem běhal dost a kromě lenosti nebyl důvod s tím přestat. Oblékl jsem se, nazul boty a vyrazil. První výběh jsem napálil. Sice mi později strava dala zlatou medaili. Ale v tom momentu jsem to nahoře silně nedával. Po odpočinku jsem dal ještě jeden výstup, ale na víc jsem se necítil.<br>
+Doma jsem do batohu nacpal, kafe pro Sáru s Jardou, Čaje pro Novářkovic a Rebeku s Ondrou a všem jsem vzal Salmiaki. Doběhl na vlak, který měl jet z třetí koleje, ale jel z první, u ponce si vzal nextbike a sjel k nám.<br>
+Po práci jsem vyrazil pěšky do Ostrovní. Opět kolem Florentina. Zdálo se, že to je má nová pěší trasa.<br>
+V původní čajovně na Václaváku nemělo být jídlo. Protože tam ale poslední objednávky měly v půl osmé, přesunuli jsme do Ostrovní. Tam asi něco bylo, ale stejně jsem se na večeři zastavil v Loving Hutu. I tam jsem byl naposledy s Miškou. Kdybych tam ale přestal chodit, nakonec by se stalo to samý a takhle jsem měl alespoň tu nostalgii za sebou.<br>
+Čajovna byla sympatický. Kamarádi objímající a milí, moje masala dobrý, réby humus z lilku dobrý, Filipův ibiškový čaj ok a Ondry Bai Mu Dan.<br>
+Ale stejně to tam ostatním nebylo dost dobrý. Jsou to hejtři.<br>
+Možná kromě Sabiny, ale ta přijela pozdě a odjela brzo, protože vyzvedávala přítele, který byl nějaký znepokojený.<br>
+
+### 22.3. Card from another life
+
+Protože jsem ve čtvrtek vyběhl kopec jen dvakrát, řekl jsem si, že je třeba to ještě trochu pumpnout. Navíc jsem spal nahouby kvůli pivům a bylo třeba je vypotit.<br>
+Po druhém výběhu jsem u lethrádku potkal hezkého psa. A za ním šla ještě mnohem hezčí holka v moc hezkých barefootech. Při posledním výběhu jsem já ještě zahlédl. Pokud jí uvidím příště oslovím jí. Teď když jsem to napsal, nemůžu to porušit.<br>
+Do centra jsem sjel vlakem a s dobrou náladou sjel na nextbiku do Karlína. Dokonce jsem dostal bonus za navrácení kola do stanice.<br>
+Bojoval jsem s modulem Výroba, trochu ho ohnul Pythonem a s Vláďou šel na oběd do Indie. Špenát byl excelentní, i když ho zase zdražili.<br>
+Po práci jsem šel plavat. Multisportka ležela ladem už přáliš dlouho. Hodinky sice byly proti, neb má Body Battery byla úplně vyždímaná, ale zvádl jem kilometr ve slušním tempu.<br>
+Stále s dobrým pocitem jsem vykročil přes Vinohrady domů. Když jsem sestupoval po Žitomírské, objevil jsem, že tam máme DMko. Pořídil jsem si tam bio extra panenský olivový olej. Taky jsme se tal členem aktive beauty programu. Protože pouze se registrovat v aplikaci evidentně nestačí. Byly k tomu potřeba dvě prodavačky a bylo to docela vtipný.<br>
+Když jsem přišel domů, koukl jsem do schránky. Měla mi přijít tesco karta. A přišla. Ale nebylo to jediný co jsem ve schránce našel. Byl tam pohled od Mišky ze Zélandu. Psala mi, že to tam je krásné, že výhledy se mění s každou zatáčkou, že se na mě těší a v post scriptu bylo, že tam jednou pojedeme spolu. Úplně mě to sundalo. Vzlykající v slzách jsem došel domů a brečel na podlaze opřený o topení. Chtěl jsem aby věděla, že mi přišel. Porušil jsem mlční, ale napsal jí, že nechci aby mi odpovídala. Že ten pohled je krásný a že za něj děkuju.<br>
+Když jsem se trochu dal dohromady, udělal jsem si k večeři její oblíbené caprese. Nedělal jsem to z žádné nostalgie. Taky mám ten recept rád. Ostatně jsem kvůli němu šel koupit ten oliváč. Pustil jsem si k tomu nový díl Invincible. Byl o vztazích. Někdo tam nahoře má smysl pro ironii. Mark se s Amber asi taky rozjede, protože jim to sice klape, ale situace nepřeje. Svět je napíču i v animácích.
+
+### 23.3.
+
+Rozhodl jsem se pro velkou dobrou snídani. Po osmý jsem vyrazil do Lidlu. Začínal být krásný den. V lidlu jsem koupil bio okurku, bio rajčata chleba a vajíčka od slepiček venku. Ty jsem si doma udělal míchaná, k tomu salát a topinku. Sněd jsem to jako glucose goddes. Miška by to milovala. Měl jsem jí plnou hlavu od toho pohledu. Venku bylo krásně. Byl to ideální den na to něco dělat spolu. Byla určitě jen na opačné straně řeky. Trhalo mi to srdce.<br>
+Možná aby mi vesmír pomohl, poslal na Prahu déšť.
+
+[>> Duben](2024_april.md)
