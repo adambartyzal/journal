@@ -19,7 +19,7 @@
 - [15.3. Radio silence](#153-radio-silence)
 - [16.3. Looking forward to be home](#163-looking-forward-to-be-home)
 - [17.3. Long way home](#173-long-way-home)
-- [18.3. Film making in progress](#183-film-making-in-progress)
+- [18.3. Filmmaking in progress](#183-filmmaking-in-progress)
 - [19.3. Still thinking about her](#193-still-thinking-about-her)
 - [20.3. Nail cartel in Europe](#203-nail-cartel-in-europe)
 - [21.3. Tea, news and beer](#213-tea-news-and-beer)
@@ -206,7 +206,7 @@ museli mi pomoci s odbavením<br>
 nevyndavat věci z batohu je dobrý v tom má Míša pravdu. Stejně ale můj batoh vzbudil podezření. Jako vždycky. Byl nacpanej elektronikou. Černoch to ale moc neřešil. Koukl na laptop a poslal mě dál.<br>
 Sedl jsem si do Espresso House a na chvíli se cítíl optimisticky. Od chvíle, kdy jsem tam seděl poprvý uteklo přes šest let. A bylo to dobrých šest let. Rozchod mě pořád bolel. Ale za těch šest let jsem viděl spoutu zemí, poznal fajn lidi, dostal se do fajn práce, začal žít zdravěji a opravdu se zamiloval.<br>
 
-### 18.3. Film making in progress
+### 18.3. Filmmaking in progress
 
 Vstal jsem až nepříjemně brzo. S snídani doma nic nebylo. Ale byl čas shodit vlasy. Někdy po sedmé jsem oholený vyrazil na Karmínovém drakovi na magistrálu. Došlo mi, že to kolo je vrak. Jak ho mám rád, tak přivírám oči nad tím, že nejlepší dobu má opravdu za sebou. Cestou jsem uvažoval, zda chci dávat peníze do výměny celého drive trainu na kole, které se cestou kroutilo jak kdyby bylo z gumy. Dost za to asi ale mohly podhuštěná kola. Nakonec mi ale řetězec myšlenek přerušilo bolení prstů. Sice v Praze nebyl sníh a sluníčko svítilo. Ale bylo kolem nuly stejně jako většinu dní v Lahti.<br>
 V Karlíně jsem objevil, že máme vyměněný zámek ve dveřích. To mi nepřišlo úplně vhod. Byl jsem v práci o hodinu dřív než ostatní. Nakonec jsem pána na vrátnici přemluvil, aby mě pustil dovnitř. Nechápu jaktože si mě nepamatoval. Zdravil jsem ho pět let.<br>
@@ -239,20 +239,22 @@ povídat si nad kafem, otisky prstu<br>
 ### 21.3. Tea, news and beer
 
 Chtělo to neusnout na vavřínech. Ve finsku jsem běhal dost a kromě lenosti nebyl důvod s tím přestat. Oblékl jsem se, nazul boty a vyrazil. První výběh jsem napálil. Sice mi později strava dala zlatou medaili. Ale v tom momentu jsem to nahoře silně nedával. Po odpočinku jsem dal ještě jeden výstup, ale na víc jsem se necítil.<br>
-Doma jsem do batohu nacpal, kafe pro Sáru s Jardou, Čaje pro Novářkovic a Rebeku s Ondrou a všem jsem vzal Salmiaki. Doběhl na vlak, který měl jet z třetí koleje, ale jel z první, u ponce si vzal nextbike a sjel k nám.<br>
+Doma jsem do batohu nacpal, kafe pro Sáru s Jardou, Čaje pro Nováčkovic a Rebeku s Ondrou a všem jsem vzal Salmiaki. Doběhl na vlak, který měl jet z třetí koleje, ale jel z první, u ponce si vzal nextbike a sjel k nám.<br>
 Po práci jsem vyrazil pěšky do Ostrovní. Opět kolem Florentina. Zdálo se, že to je má nová pěší trasa.<br>
 V původní čajovně na Václaváku nemělo být jídlo. Protože tam ale poslední objednávky měly v půl osmé, přesunuli jsme do Ostrovní. Tam asi něco bylo, ale stejně jsem se na večeři zastavil v Loving Hutu. I tam jsem byl naposledy s Miškou. Kdybych tam ale přestal chodit, nakonec by se stalo to samý a takhle jsem měl alespoň tu nostalgii za sebou.<br>
 Čajovna byla sympatický. Kamarádi objímající a milí, moje masala dobrý, réby humus z lilku dobrý, Filipův ibiškový čaj ok a Ondry Bai Mu Dan.<br>
 Ale stejně to tam ostatním nebylo dost dobrý. Jsou to hejtři.<br>
 Možná kromě Sabiny, ale ta přijela pozdě a odjela brzo, protože vyzvedávala přítele, který byl nějaký znepokojený.<br>
+Ve velrybě jsem se rozhodl dát si první pivo letos. Měli tam Únětice a chtěl jsem si dát jedno. Bylo to asi překvapivý. Ještě víc překvapivý ale bylo, že Anet si pivo nedala. Očekávali. Snažil jsem se pro ně mít radost. Ale byl jsem takovej vyplej. Jako už dlouho.<br>
+
 
 ### 22.3. Card from another life
 
-Protože jsem ve čtvrtek vyběhl kopec jen dvakrát, řekl jsem si, že je třeba to ještě trochu pumpnout. Navíc jsem spal nahouby kvůli pivům a bylo třeba je vypotit.<br>
+Protože jsem ve čtvrtek vyběhl kopec jen dvakrát, řekl jsem si, že je třeba to ještě trochu pumpnout. Navíc jsem spal na houby kvůli pivům a bylo třeba je vypotit.<br>
 Po druhém výběhu jsem u lethrádku potkal hezkého psa. A za ním šla ještě mnohem hezčí holka v moc hezkých barefootech. Při posledním výběhu jsem já ještě zahlédl. Pokud jí uvidím příště oslovím jí. Teď když jsem to napsal, nemůžu to porušit.<br>
 Do centra jsem sjel vlakem a s dobrou náladou sjel na nextbiku do Karlína. Dokonce jsem dostal bonus za navrácení kola do stanice.<br>
 Bojoval jsem s modulem Výroba, trochu ho ohnul Pythonem a s Vláďou šel na oběd do Indie. Špenát byl excelentní, i když ho zase zdražili.<br>
-Po práci jsem šel plavat. Multisportka ležela ladem už přáliš dlouho. Hodinky sice byly proti, neb má Body Battery byla úplně vyždímaná, ale zvádl jem kilometr ve slušním tempu.<br>
+Po práci jsem šel plavat. Multisportka ležela ladem už přáliš dlouho. Hodinky sice byly proti, neb má Body Battery byla úplně vyždímaná, ale zvládl jem kilometr ve slušném tempu.<br>
 Stále s dobrým pocitem jsem vykročil přes Vinohrady domů. Když jsem sestupoval po Žitomírské, objevil jsem, že tam máme DMko. Pořídil jsem si tam bio extra panenský olivový olej. Taky jsme se tal členem aktive beauty programu. Protože pouze se registrovat v aplikaci evidentně nestačí. Byly k tomu potřeba dvě prodavačky a bylo to docela vtipný.<br>
 Když jsem přišel domů, koukl jsem do schránky. Měla mi přijít tesco karta. A přišla. Ale nebylo to jediný co jsem ve schránce našel. Byl tam pohled od Mišky ze Zélandu. Psala mi, že to tam je krásné, že výhledy se mění s každou zatáčkou, že se na mě těší a v post scriptu bylo, že tam jednou pojedeme spolu. Úplně mě to sundalo. Vzlykající v slzách jsem došel domů a brečel na podlaze opřený o topení. Chtěl jsem aby věděla, že mi přišel. Porušil jsem mlční, ale napsal jí, že nechci aby mi odpovídala. Že ten pohled je krásný a že za něj děkuju.<br>
 Když jsem se trochu dal dohromady, udělal jsem si k večeři její oblíbené caprese. Nedělal jsem to z žádné nostalgie. Taky mám ten recept rád. Ostatně jsem kvůli němu šel koupit ten oliváč. Pustil jsem si k tomu nový díl Invincible. Byl o vztazích. Někdo tam nahoře má smysl pro ironii. Mark se s Amber asi taky rozjede, protože jim to sice klape, ale situace nepřeje. Svět je napíču i v animácích.
