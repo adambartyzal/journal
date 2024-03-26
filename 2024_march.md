@@ -24,7 +24,10 @@
 - [20.3. Nail cartel in Europe](#203-nail-cartel-in-europe)
 - [21.3. Tea, news and beer](#213-tea-news-and-beer)
 - [22.3. Card from another life](#223-card-from-another-life)
-- [23.3.](#233)
+- [23.3. Mild cough](#233-mild-cough)
+- [24.3. Black cough](#243-black-cough)
+- [25.3. Perfect Days](#253-perfect-days)
+- [26.3. Effect on me](#263-effect-on-me)
 
 ### 1.3. Still in Denial
 
@@ -247,7 +250,6 @@ Ale stejně to tam ostatním nebylo dost dobrý. Jsou to hejtři.<br>
 Možná kromě Sabiny, ale ta přijela pozdě a odjela brzo, protože vyzvedávala přítele, který byl nějaký znepokojený.<br>
 Ve velrybě jsem se rozhodl dát si první pivo letos. Měli tam Únětice a chtěl jsem si dát jedno. Bylo to asi překvapivý. Ještě víc překvapivý ale bylo, že Anet si pivo nedala. Očekávali. Snažil jsem se pro ně mít radost. Ale byl jsem takovej vyplej. Jako už dlouho.<br>
 
-
 ### 22.3. Card from another life
 
 Protože jsem ve čtvrtek vyběhl kopec jen dvakrát, řekl jsem si, že je třeba to ještě trochu pumpnout. Navíc jsem spal na houby kvůli pivům a bylo třeba je vypotit.<br>
@@ -259,9 +261,36 @@ Stále s dobrým pocitem jsem vykročil přes Vinohrady domů. Když jsem sestup
 Když jsem přišel domů, koukl jsem do schránky. Měla mi přijít tesco karta. A přišla. Ale nebylo to jediný co jsem ve schránce našel. Byl tam pohled od Mišky ze Zélandu. Psala mi, že to tam je krásné, že výhledy se mění s každou zatáčkou, že se na mě těší a v post scriptu bylo, že tam jednou pojedeme spolu. Úplně mě to sundalo. Vzlykající v slzách jsem došel domů a brečel na podlaze opřený o topení. Chtěl jsem aby věděla, že mi přišel. Porušil jsem mlční, ale napsal jí, že nechci aby mi odpovídala. Že ten pohled je krásný a že za něj děkuju.<br>
 Když jsem se trochu dal dohromady, udělal jsem si k večeři její oblíbené caprese. Nedělal jsem to z žádné nostalgie. Taky mám ten recept rád. Ostatně jsem kvůli němu šel koupit ten oliváč. Pustil jsem si k tomu nový díl Invincible. Byl o vztazích. Někdo tam nahoře má smysl pro ironii. Mark se s Amber asi taky rozjede, protože jim to sice klape, ale situace nepřeje. Svět je napíču i v animácích.
 
-### 23.3.
+### 23.3. Mild cough
 
 Rozhodl jsem se pro velkou dobrou snídani. Po osmý jsem vyrazil do Lidlu. Začínal být krásný den. V lidlu jsem koupil bio okurku, bio rajčata chleba a vajíčka od slepiček venku. Ty jsem si doma udělal míchaná, k tomu salát a topinku. Sněd jsem to jako glucose goddes. Miška by to milovala. Měl jsem jí plnou hlavu od toho pohledu. Venku bylo krásně. Byl to ideální den na to něco dělat spolu. Byla určitě jen na opačné straně řeky. Trhalo mi to srdce.<br>
-Možná aby mi vesmír pomohl, poslal na Prahu déšť.
+Možná aby mi vesmír pomohl, poslal na Prahu fujavec a déšť.<br>
+koupit lístky<br>
+na kafe do petrohradský<br>
+kašlal jsem<br>
+
+### 24.3. Black cough
+
+Betaglukany mě zradily. I když možná že ne. Možná, že bych bez nich byl úplně v píči. V populaci prý koloval černý kašel a jestli jsem měl nějakou takovou zradu, zvládal jsem to dost v poho. Vlastně jsem se prostě jen válel v posteli, pil hodně čaje a koukal na třetí Strážce Galaxie. Byla to sračka. Ale já měl čas a vykašlával hleny.<br>
+Kolem mě se hromadil bordel. Měl jsem dát prát oblečení, ale nějak jsem to nezvládl.<br>
+Aspoň že venku chladněji než se za okny zdálo. Sobotní vítr přinesl zimu.<br>
+Murakami do kterého jsem se pustil začínal to vypadat, že je o vztahu, kterej jde do háje a kluk to nevidí. Možná to nebyla dobrá volba. Ale ponořil jsem se do toho a ze sedmi set stránek ukousl asi sto.
+
+### 25.3. Perfect Days
+
+Drak byl pořád rozbitej. Měl jsem v košíku a bike-eshopu naházený věci k jeho opravě, ale bylo by to skoro za pět tisíc. RC520 stála 23499. Víc, než když jsem jí kupoval poprvé i podruhé. Ale byl by to skok o pár úrovní výš. A nejsem tak bohatej abych kupoval levný věci. Ne že by ty náhradní díly byly levný. V košíku byly Conti Grand Prix. To nejlepší co *Bicycle Rolling Resistance* kdy změřili. Váhal jsem co je lepší volba. Nejvíc mě štvalo, že Dekáč by byl schopen dodat mi to kolo za 2 dny, zatímco díly by přišly až za 14 dní. Váhal jsem a jel do práce vlakem.<br>
+Ivan si pamatoval Barči jméno. Vyptával se na ní. Nebylo moc co říct, kromě toho, že jsme měli na odpoledne naplánovaný rande.<br>
+Protože jsem do práce přijel už před osmou, pěší cesta na Krymskou byla zvládnutelná. Věci jsem si nechal v Karlíně, nahodil kabát a vyšel vstříc dokonalým dnům.<br>
+A porazil tramvaje z Masaryčky o pár minut.<br>
+Sešli jsme do kina, Barča pořídila štávu a pivo pro mě a sešli jsme do sálu B. Byli jsme tam jedni z prvních, ale v zrovna v naší řadě už byli lidé. Po chvíli mých řečí prohlásila, že se ostatním kdyžtak řekne, že je v kině se svým retardovaným bratrem. Rozesmálo mě to.<br>
+Film byl super. Hodně Murakamiovský. Extrémně pomalý. Hodně Japonský. Dost smutný. Ale vřelý a se skvělou hudbou.<br>
+Po kinu jsme šli docela bez plánu na Vinohrady. Šel na mě hlad. Nahoře u Bulínů mě napadl Blatouch. A tak jsme si sedli tam. Vzadu v indicky lazené místnosti s rudou tapetou.<br>
+A povídali si. O filmu, o randění, o zpívání. A spíš jsme si ze sebe dělali srandu. Bylo to fajn. Nemyslel jsem na Míšu. Skoro.<br>
+I cestou na metro jsme se smáli. Jestli tomu něco chybělo, tak to byla romance. Ale den zpátky jsem měl černý kašel (fakt jsem doufal že ne). Kdybychom šli na třetí, a já doufal že půjdeme, chtělo to něco romantičtějšího.
+
+### 26.3. Effect on me
+
+Hodinky mě prudily, že můj spánek stál za starou bačkoru, nejspíš kvůli těm dvěma pivům. Plíce jsem taky ještě pořád citil, ale spíš se to zlepšovalo než horšilo. Vyhrabal jsem se z postele ven, osprchoval se, oblékl, vyrazil na tramvaj a
+Deník zase začínal nabírat na zpoždění. Nedalo se ale moc dělat.
 
 [>> Duben](2024_april.md)
