@@ -30,6 +30,9 @@
 - [26.3. Affected](#263-affected)
 - [27.3. Sushi, oreo and meth](#273-sushi-oreo-and-meth)
 - [28.3. I'm not ok](#283-im-not-ok)
+- [29.3.](#293)
+- [30.3. Planes are expensive](#303-planes-are-expensive)
+- [31.3.](#313)
 
 ### 1.3. Still in Denial
 
@@ -322,7 +325,70 @@ Večer jsem tak strávil ve společnosti Watera Whita.
 Fyzicky, ale hlavně ne psychicky.<br>
 Co jsem chtěl asi jde, ale nedaří se mi to<br>
 Napsat do ST<br>
-Na rekole na mě přišel kašel jak cip. Plival jsem cestou hlen. Šlo ho ven hodně, ale nepřišlo mi, že by se to lepšilo. Doma jsem si dal horkou sprchu a zbytek česnečky. Měl jsem se připravovat na výlet, ale nějak jsem na to neměl. Řekl jsem si, že jestli se budu ráno cítit líp, tak pojedu. Plán byl stejně vyrazit z hlaváku po o. Sputa času na regeneraci.
+Na rekole na mě přišel kašel jak cip. Plival jsem cestou hlen. Šlo ho ven hodně, ale nepřišlo mi, že by se to lepšilo. Doma jsem si dal horkou sprchu a zbytek česnečky. Měl jsem se připravovat na výlet, ale nějak jsem na to neměl. Řekl jsem si, že jestli se budu ráno cítit líp, tak pojedu. Plán byl stejně vyrazit z hlaváku po o. Spousta času na regeneraci.
 
+### 29.3.
+
+vlakem na hlavák<br>
+z jíný koleje než mělo jet<br>
+vlak plný k prasknutí<br>
+někde v uličce<br>
+za okny výlety s miškou<br>
+povídal jsem si s ondrou<br>
+rasistický vtipy v ustí<br>
+autobusem do Chlumce<br>
+pivnice zdar<br>
+byl jsem nějaký uzavřenější a víc poslouchal než mluvil<br>
+Měl jsem pocit, že jít na jarní výlet bylo něco, co jsme měli dělat s Míšou. Kór v kraji, který miluje.<br>
+Po asi hodině jsme se vydali do kopce. Krosna mi přišla těžká. A asi byla. Měl jsem stan a možná bytečně moc krámů. Sára měla asi 3x lehčí batoh než já.<br>
+na vyhlídce o skandinávii<br>
+Na kopec ke studánce, chata s nápisem celní stráž, docela drze kempovat přímo u ní<br>
+ohniště<br>
+Ešus do ohně, dal to v poho<br>
+Stan s výhledem na výhled
+
+### 30.3. Planes are expensive
+
+Východ slunce byl stejně skrytý<br>
+Projít se a číst<br>
+ostatní mě se snídaní předběhli, ovesná kaše<br>
+na vrcholy a výhledy do okolí<br>
+zajímavé stromy<br>
+Divočina to ale nebyla, před námi byla dálnice a hory byly spíš kopce<br>
+blíž německu, něměčtí baťůžkáři, miška pořád v mojí hlavě<br>
+bolest paty<br>
+na oběd k letadlu, bylo drahé<br>
+další pes s batohem<br>
+vyhrála restaurace vedle<br>
+květák<br>
+byl jsem plný<br>
+kempovat už jen kus dál k potoku a maličko do lesa<br>
+stan v lesíku<br>
+nad ohněm diskuse o míše a báře, zvednul jsem na Rébu hlas, protože jsem se nechtěl opakovat.<br>
+urazila se a odešla do stanu. A asi oprávněně<br>
+po chvíli jsem se jí šel omluvit a pak jsme si povídali o tom jak v píči jsem.<br>
+asi po hodině jsme se vrátili k ohni.<br>
+těstoviny s pestem a parmazánem<br>
+
+### 31.3.
+
+Dva budvary mi přivodili nejen bolehlav ale i rozbily spaní. Otlačené klíční kosti taky nic moc.<br>
+rájcem, železitá voda od lidí<br>
+do pískovcových skal<br>
+pauzičky tu ta tam<br>
+jarda se sárou se hádají<br>
+po hranici<br>
+k lezcům<br>
+usmíření u římské stezky<br>
+do švýcarskéh domu<br>
+tagliatelle s houbami co réba úplně vyhejtovala<br>
+byly v pohodě<br>
+na výhled do česka nebo do německa<br>
+stejě mov vidět nebylo<br>
+čtecí pauza<br>
+po úbočí skály ke studánce<br>
+kempování v lese<br>
+oheň ohraničený dřevem<br>
+lepší spaní
 
 [>> Duben](2024_april.md)
