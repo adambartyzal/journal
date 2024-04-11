@@ -30,9 +30,9 @@
 - [26.3. Affected](#263-affected)
 - [27.3. Sushi, oreo and meth](#273-sushi-oreo-and-meth)
 - [28.3. I'm not ok](#283-im-not-ok)
-- [29.3.](#293)
+- [29.3. Into the wild](#293-into-the-wild)
 - [30.3. Planes are expensive](#303-planes-are-expensive)
-- [31.3.](#313)
+- [31.3. Introverted](#313-introverted)
 
 ### 1.3. Still in Denial
 
@@ -322,73 +322,60 @@ Večer jsem tak strávil ve společnosti Watera Whita.
 
 ### 28.3. I'm not ok
 
-Fyzicky, ale hlavně ne psychicky.<br>
-Co jsem chtěl asi jde, ale nedaří se mi to<br>
-Napsat do ST<br>
+Fyzicky, ale hlavně ne psychicky. Asi je důležitý si to přiznat. Cítil jsem, že jsem pořád v hajzlu. Šlo to trochu utopit v tom, že jsem se věnoval programování a pročítání datasheetu. Tak jak mi den zpátky přišlo, že datasheet říká, že co chci nejde, tak jsem objevil že to tak není. I osciloskopem jsem potvrdil, že měření amplitudy extrémně krátkého pulzu probíhá. I tu hodnotu jsem dokázal vyčíst. Ale do WakeUp módu jsem nebyl s to čip přepnout. Rozhodl jsem se napsat do STčka. Minule mi poradili, tak proč ne tentokrát.<br>
 Na rekole na mě přišel kašel jak cip. Plival jsem cestou hlen. Šlo ho ven hodně, ale nepřišlo mi, že by se to lepšilo. Doma jsem si dal horkou sprchu a zbytek česnečky. Měl jsem se připravovat na výlet, ale nějak jsem na to neměl. Řekl jsem si, že jestli se budu ráno cítit líp, tak pojedu. Plán byl stejně vyrazit z hlaváku po o. Spousta času na regeneraci.
 
-### 29.3.
+### 29.3. Into the wild
 
-vlakem na hlavák<br>
-z jíný koleje než mělo jet<br>
-vlak plný k prasknutí<br>
-někde v uličce<br>
-za okny výlety s miškou<br>
-povídal jsem si s ondrou<br>
-rasistický vtipy v ustí<br>
-autobusem do Chlumce<br>
-pivnice zdar<br>
-byl jsem nějaký uzavřenější a víc poslouchal než mluvil<br>
-Měl jsem pocit, že jít na jarní výlet bylo něco, co jsme měli dělat s Míšou. Kór v kraji, který miluje.<br>
-Po asi hodině jsme se vydali do kopce. Krosna mi přišla těžká. A asi byla. Měl jsem stan a možná bytečně moc krámů. Sára měla asi 3x lehčí batoh než já.<br>
-na vyhlídce o skandinávii<br>
-Na kopec ke studánce, chata s nápisem celní stráž, docela drze kempovat přímo u ní<br>
-ohniště<br>
-Ešus do ohně, dal to v poho<br>
-Stan s výhledem na výhled
+Dopoledne jsem se otočil v krámě. Nakoupil jsem za překvapivých sedm set něco. Ale jako obvykle jsem to přehnal a nějaký věci jsem si nechal doma. A je pravda, že oříšky, bio čokoláda, dobrý křupínky, burákový máslo a další dehydrovaný věci prostě jsou drahý. Taky v tom byly lasagne, který jsem poobědval a pak vlakem vyrazil na hlavák.<br>
+ČD mě opět chtěli vytočit. Vlak jel z jíný koleje než původně plánovali.<br>
+Navíc byl plný k prasknutí. Zůstali jsme někde v uličce, kousek od záchodu. Za bůhví kolik peněz. Vzpomínal jsem na finské VR, které mě nadchly a vlastně stály asi tak stejně. Někdo by mohl říct, že byly velikonoce a tak bylo jasný, že ten vlak bude plnej. Ale to je lichej argument. Víš že budo velikonoce, tak posílíš vlaky.<br>
+Hned při výjezdu z Prahy na mě přišla deprese. Za okny ubíhala krajina, kudy jsme chodili s Miškou. [Do dynamitky](). [K Lasíkům](). Málem mi to vehnalo slzy do očí. Povídal jsem o těch výletech Ondrovi. Byl soucitný, ale bylo vidět, že se klaní k tomu, že bych na ní měl zapomenout. Ne že bych věděl jak na to.<br>
+Nakonec nás vlak dovezl až do Ústí. Na zastávce autobusu pronášel (převážně) Jarda rasistický vtipy. Ale byla to realita. V prvním autobuse se někdo hádal s řidičem, kvůli tomu, že si tam otevřel pití a to se zřejmě nesmí. Skončilo to tak, že plechovka pití vyletěla z otevřených dveří autobusu k nám.<br>
+Další autobus svezl nás do Chlumce.<br>
+Zakládal jsem dlužníček a všiml si, že Miška smazala ten náš. Napsal jsem jí, že mě to štve protože mám rád statistiky a grafy.<br>
+Autobus nás přivezl k pivnici Zdar. O kus dál ještě měla být pivnice u Hasičů, ale místní se shodovali v tom, že Google lže, a že má zavřeno. Dali jsme si tedy pivo ve zdaru. Na zahrádce tam pospával a popíjel místní štamgast Jarda. Uvnitř to byl stroj času někam do komára.<br>
+Sára vyprávěla o pohledu jejích známých na svatbu. Taky o páru co se chtěl vzít ve všech náboženstvích. Byl jsem nějaký uzavřenější a víc poslouchal než mluvil. Byli jsme v kraji, který má Miška ráda. Bylo hezky a šli jsme na výlet. V mý hlavě jsme tam měli být spolu.<br>
+Po asi hodině jsme se vydali do kopce. Krosna mi přišla těžká. A asi byla. Měl jsem stan a možná zbytečně moc krámů. Sára měla asi 3x lehčí batoh než já.<br>
+Po chvíli jsme došli na vyhlídku a povídali si o kempování v čechách. Opět jsem nemohl nevidět ten propastný rozdíl mezi střední evropou a skandinávií.<br>
+Dalších pár kilometrů jsme jen stoupali. Nakonec jsme došli na kopec ke studánce, u které stála chata s nápisem celní stráž. Nikdo v ní nebyl. Už asi docela dlouho. Bylo tam ohniště, a za ohništěm výhled do hor.<br>
+Rozhodli jsme se docela drze kempovat přímo tam. Testoval jsem, zda můžu vařit v mém ešusu s plastovým madlem přímo v ohni. Dal to v poho.<br>
+Jedli jsme a povídali si asi do desíti. Stan jsem měl postavený nejdál s výhledem na východ slunka.
 
 ### 30.3. Planes are expensive
 
-Východ slunce byl stejně skrytý<br>
-Projít se a číst<br>
-ostatní mě se snídaní předběhli, ovesná kaše<br>
-na vrcholy a výhledy do okolí<br>
-zajímavé stromy<br>
-Divočina to ale nebyla, před námi byla dálnice a hory byly spíš kopce<br>
-blíž německu, něměčtí baťůžkáři, miška pořád v mojí hlavě<br>
-bolest paty<br>
-na oběd k letadlu, bylo drahé<br>
-další pes s batohem<br>
-vyhrála restaurace vedle<br>
-květák<br>
-byl jsem plný<br>
-kempovat už jen kus dál k potoku a maličko do lesa<br>
-stan v lesíku<br>
-nad ohněm diskuse o míše a báře, zvednul jsem na Rébu hlas, protože jsem se nechtěl opakovat.<br>
-urazila se a odešla do stanu. A asi oprávněně<br>
-po chvíli jsem se jí šel omluvit a pak jsme si povídali o tom jak v píči jsem.<br>
-asi po hodině jsme se vrátili k ohni.<br>
-těstoviny s pestem a parmazánem<br>
+Ten se ale nekonal. Míša se mi omluvila za smazání dlužníčku a na fotku stanu a ranního slunce v mlze odpověděla, že to bude pískem ze Sahary. Ostatní ještě spali. Šel jsem se trochu projít a pak se pustil do čtení.<br>
+U knihy jsem se zasekl a ostatní mě se snídaní předběhli. Přidal jsem se, uvařil si ovesnou kaši a docela se najedl i když jí byl jen jeden pytlík.<br>
+Přefiltrovali jsme vodu, sklidili stany a byli s to vyrazit. Kdyby Ondra nezdržoval. Ke studánce šel třeba 5x.<br>
+Nakonec jsme vyrazili dál po stezce českem na vrcholy a výhledy do okolí. Na okraji lesů byly zajímavé stromy. Asi buky, ale kroucené jak chobotnice. Divočina to ale nebyla, před námi byla dálnice a hory byly spíš kopce.<br>
+Asi to bylo tím, že Miška napsala, ale byla v mojí hlavě víc než v posledních dvou týdnech. Nepřinášelo mi to psychickou pohodu. To, že jsem byl sám s dvěma páry bylo na hovno. Doslova pátý kolo u vozu.<br>
+Bylo vidět, že jsme kus od Němečtí baťůžkáři proudili proti nám. V našem směru jsme potkávali stejné páry a protože jsem šlápl na něco ostrého, začala mě bolet pata. Stále jsem se ještě nerozhodl, zda jsou barefooty opravdu dobrý nápad na přecházení hor. Ale velké těžké pohory mě serou.<br>
+Kousek před vesnicí s restauracemi jsme potkali pár, který se nás vyptával, kde přespat. Měli psa jménem Korona a tn měl na zádech batoh, stejně jako Kora.<br>
+I přes plán jsme nakonec neobědvali v letadle. Měli drahé pivo. Ne že by vedle bylo levnější, navíc to byl Budvar a já později lamentoval, že mě z něj rozbolela hlava dřív než jsem se ho napil.<br>
+Vege měli sýr a květák. Květák jsem zvolil já, sýr réba. Restaurace se jmenovala Retro a byla plná starých mlýnků na kávu, hudebních nástrojů a psacích strojů. Nám srazili dva stoly venku a já od sluníčka začínal cítit úžeh. Před dvěma týdny jsem se brodil po kolena sněhem. Byl to bizár.<br>
+Květáku jsem se přecpal. Nechápu jak ostatní mohli konzumovat ještě dezerty.<br>
+Kempovat jsme chtěli už jen asi o 3 kilometry dále. U potoku, přes loučku a maličko do lesa.<br>
+Stan jsem si rozbil v lesíku. Na mýtince byli komáři.<br>
+Nad ohněm se strhla diskuse o Míše a Báře. Sára stále razila, že bych se z deprese měl prošukat a Bára není dobrou volbou, neb tinder není o randění, ale o zásunu. Réba mě něčím vytáčela a když jsem po několikáté řekl, že na něco odpovídat nebudu, nesnáším, když se musím opakovat a zvednul u toho na ní hlas, nahlas prohlásila, že jestli jsem tak v hajzlu, neměl jsem jezdit s nimi. Pak se zvedla a odešla do stanu.<br>
+Asi oprávněně, byť mě to přišlo zbytečně dramatický.<br>
+Chvíli jsme si povídali o ničem, u čehož jsem nabral psychickou sílu, došel za ní a omluvil se jí. Fakt mě to zamrzelo. Další asi hodinu jsme si povídali o tom jak v píči jsem. V jistou chvíli jsem se rozbrečel, protože jsem vyprávěl o tom, jak mi chybí tančení v kuchyni.<br>
+Neměl jsem hlad. Ale měl jsem s seboou dost jídla a bylo třeba jíst. Udělal jsem si další kolo těstovin s pestem a parmazánem a tentokrát nezapoměl na sušená rajčata.
 
-### 31.3.
+### 31.3. Introverted
 
-Dva budvary mi přivodili nejen bolehlav ale i rozbily spaní. Otlačené klíční kosti taky nic moc.<br>
-rájcem, železitá voda od lidí<br>
-do pískovcových skal<br>
-pauzičky tu ta tam<br>
-jarda se sárou se hádají<br>
-po hranici<br>
-k lezcům<br>
-usmíření u římské stezky<br>
-do švýcarskéh domu<br>
-tagliatelle s houbami co réba úplně vyhejtovala<br>
-byly v pohodě<br>
-na výhled do česka nebo do německa<br>
-stejě mov vidět nebylo<br>
-čtecí pauza<br>
-po úbočí skály ke studánce<br>
-kempování v lese<br>
-oheň ohraničený dřevem<br>
-lepší spaní
+Dva budvary mi přivodili nejen bolehlav ale i rozbily spaní. Otlačené klíční kosti taky nic moc. Vzbudil nás Jarda lámáním klacků na oheň. Když jsem se vyhrabal ze stanu, ostatní už snídali. Bylo zvláštní, že už podruhé jsem byl poslední vzhůru. Normálně to bývá naopak.<br>
+Dobalili jsme po desáté. Všem nám došla voda. Potkali jsme potok, ze kterého by přefiltrovaná voda byla ok, ale asi kilometr on nás byla vesnice Rájec. Bylo to trochu do kopce a na výhledech se stavil prefabrikovaný tiny house. Vesnička to ale byla krásná. Výhled do kopců, ze kterých trčí pískovcové útvary, domky kouzelné, uměl bych si tam představit chatu.<br>
+U penzionu jsem zamával na pána v okně a on mě zpátky. Domluvili jsme, že nám doplní láhve s vodou. Chutnala železitě. Ale lepší než žádná. Začínalo být horko a tak jsme sundali mikiny a vyrazili do oblasti pískovcových skal. Tempo jsme měli volnější. Dávali jsme pauzičky tu a tam a Jarda se Sárou z nějakého důvodu začali hádat.<br>
+Nechali jsme je jít kus před námi a pokračovali v závěsu po Česko Německé hranici.<br>
+Došli jsme do nějaké lezci okupované oblasti s fancy hotely. Jarda se Sárou se asi usmířili a u kamenu ze kterého byl výhled na Římskou stezku a cyklisty na druhé straně jsme si dali další pauzu.<br>
+Poslední před obědem vedl po náhorní plošině. Byly na ní březové háje a němečtí elektrocyklisté.<br>
+Švýcarský dům byl až zbytečně fancy. Ale taky to byla jedina restaurace široko daleko. Vegetariánský měli jen salát a tagliatelle s houbami. I já i Réba jsme zvolili těstoviny a nebyla to nejlepší volba. Já bych je označil za průměrné. Réba je úplně vyhejtovala. Neslané a rozvařené. Kafe prý bylo přepálené. Aspoň, že palačinka jí chutnala.<br>
+Pivo jsem pro tentokrát vynechal i když místní pivo mělo krásné moderní logo.<br>
+Dál nás trasa vedla na výhledy. Měli jsme na výběr vyhlídku na Drážďany nebo do Česka. Byla mlha a ta v česku měla mít obchůdek s pivem, tak jsme šli tam a dali si tam čtecí pauzu.<br>
+Seděl jsem bokem od ostatních, pozoroval dvě holky, co asi byly spolu. Jarda je označil za nožnice.<br>
+Z výhledů jsme pomalu sestoupili do oblasti, kde jsme plánovali kempovat. Buď u rybníka, nebo u studánky. U rybníka bylo spousta capmervanů a nebylo to tam moc hezké. Přes silnici tam chtěli migrovat žáby, ale někdo tam na ně postavil pasti z kýblů aby je auta nerozjezdila.<br>
+U studánky tedy.<br>
+Tu bylo docela složité najít. Že tam ale je schovaná někde v lese nám potvrdil jelen se srnkou, které Kora vyrazila pronásledovat, ale narozdíl od minulého úprku se strašně rozbila, přeletěla přes hlavu a vzdala to.<br>
+Kemp jsme rozbili kousek nad studánkou, přímo v lese. Jarda připravil ohniště ohraničené mokrým dřevem a my se pustil do poslední večeře.
 
 [>> Duben](2024_april.md)
