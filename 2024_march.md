@@ -237,12 +237,12 @@ DJ byl v práci. Já se pustil do kreslení konektorů na testery. Oběd jsem si
 
 ### 20.3. Nail cartel in Europe
 
-Ráno jsem jel přes Vinohrady. Tunelem jsem to docela valil. Dokonce mě i napdala myšlenka, že kdyby se mi něco stalo s kolem, byl by to docela značný držkopád.
-ušla duše<br>
-mámě naproti<br>
-do veganky<br>
-v albertu dortík<br>
-povídat si nad kafem, otisky prstu<br>
+Ráno jsem jel přes Vinohrady. Tunelem jsem to docela valil. Dokonce mě i napdala myšlenka, že kdyby se mi něco stalo s kolem, byl by to docela značný držkopád. Sotva minutu po tom co jsem přijel, se ozval zvuk ucházející duše a zadní kolo Karmínového Draka bylo prázdné. Později jsem z něho vytáhl asi tří centimetrový hřebík.<br>
+Máma měla přijet na oběd. Kluci šli na All you can eat Asii do Šalandy a já jsem počkal, dokud se neblížila metrem. Potkali jsme se před GMkem a já vybral Veganku.<br>
+Povídali jsme si o dnech minulých a o Mišce. Prý na mně bylo vidět, že mě to roztřískalo. Taky aby ne. Roztřískalo mě to.<br>
+V Albertu jsme pořídili dortík a u nás jsem udělal dvě kafe.<br>
+Nad kafem jsem Mamce předělal čtečku otisků prstů tak aby jí zase fungovala a trhal si vlasy nad jejím nepamatováním si hesel a psaním si je na papírky.<br>
+Kolo jsem neopravoval. Pomalu ale jistě jsem se začínal klonit k tomu, že je čas na nové.
 
 ### 21.3. Tea, news and beer
 
@@ -323,7 +323,8 @@ Večer jsem tak strávil ve společnosti Watera Whita.
 ### 28.3. I'm not ok
 
 Fyzicky, ale hlavně ne psychicky. Asi je důležitý si to přiznat. Cítil jsem, že jsem pořád v hajzlu. Šlo to trochu utopit v tom, že jsem se věnoval programování a pročítání datasheetu. Tak jak mi den zpátky přišlo, že datasheet říká, že co chci nejde, tak jsem objevil že to tak není. I osciloskopem jsem potvrdil, že měření amplitudy extrémně krátkého pulzu probíhá. I tu hodnotu jsem dokázal vyčíst. Ale do WakeUp módu jsem nebyl s to čip přepnout. Rozhodl jsem se napsat do STčka. Minule mi poradili, tak proč ne tentokrát.<br>
-Na rekole na mě přišel kašel jak cip. Plival jsem cestou hlen. Šlo ho ven hodně, ale nepřišlo mi, že by se to lepšilo. Doma jsem si dal horkou sprchu a zbytek česnečky. Měl jsem se připravovat na výlet, ale nějak jsem na to neměl. Řekl jsem si, že jestli se budu ráno cítit líp, tak pojedu. Plán byl stejně vyrazit z hlaváku po o. Spousta času na regeneraci.
+Na rekole na mě přišel kašel jak cip. Plival jsem cestou hlen. Šlo ho ven hodně, ale nepřišlo mi, že by se to lepšilo. Doma jsem si dal horkou sprchu a zbytek česnečky. Měl jsem se připravovat na výlet, ale nějak jsem na to neměl. Řekl jsem si, že jestli se budu ráno cítit líp, tak pojedu. Plán byl stejně vyrazit z hlaváku po o. Spousta času na regeneraci.<br>
+Doma už jsem jen polehával a popíjel vývar s česnekem.
 
 ### 29.3. Into the wild
 
