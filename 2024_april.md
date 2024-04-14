@@ -29,22 +29,22 @@ v práci jsem rozchodil wakeup mode<br>
 vytiskl jsem si šablony v češtině, finštině, španělštině, portugalštině, čínštině a maori<br>
 Asi to byl blbej nápad, ale řekl jsem si že to udělám<br>
 v neděli<br>
-do kina po práci<br>
-opičí muž<br>
-byla to kokotina<br>
-obhlédnout terén na sprejování<br>
-až nahoru k zámku<br>
-byla doma<br>
-asi to byla chyba<br>
-ale nebrečel jsem<br>
-zpátky na anděl a nextbikem domů
+Dostal jsem se na další ČSFD projekci: [Opičí Muž](https://www.csfd.cz/film/1017029-opici-muz). Metrem jsem sjel na Anděl. V Albertu, kde jsem měl skoro strach, že potkám Mišku, jsem si koupil dvě housky se sýrem a jablko a vyrazil na film.<br>
+Byla to kokotina. Prý něco jako John Wick, ale v Indii. Na databázi se drží v červeném hodnocení, ale ode mě dostal odpad. Bylo to plytký, hloupý, zbytečně krvavý a vtipy nebyly moc vtipný. Říkal jsem si, že s lidstvem to jde do prdele.<br>
+Z kina jsem nešel k sobě. Šel jsem nahoru na Švédskou. Podívat se na terén, kam by šly nasprejovat nápisy Dobrý Den/ Dobrou noc.. Došel jsem až nahoru k zámku.<br>
+Byla doma. Svítila si za zataženými závěsy lampičkou u postele. Asi to byla chyba<br>
+Ale nebrečel jsem. Překvapilo mě to.<br>
+Došel jsem zpátky na Anděl a na Nextbiku sjel domů rozhodnutý, že to udělám.
 
 ### 3.4. Opět naslepo
 
-do kina přes vítkov, stejnou cestou<br>
-v lidlu<br>
-ven<br>
-s marťou dovnitř<br>
+Čekalo mě naslepo. Šel jsem zadem. Stejnou cestou jako naposledy. Akorát, že naposledy se mnou šla Miška a byla tma. Tentokrát cesta vypadala podstatně méně nehostinně. Zato moje srdce bylo podstatně méně nadšené.<br>
+Psal jsem si aspoň s Barčou. Schody na Vítkov skýtaly výhled na celou cestu naší první schůzky. Jela do zkušebny zpívat. Zastavil jsem se v Lidlu, nakoupil sýr a pečivo k pěší večeři a žvýkaje dorazil do Aera.<br>
+Byl jsem tam s předstihem. Alkohol jsem nechtěl. Decaf neuměli. Česko je hrozná země. Dal jsem si latté a posadil se ven.<br>
+U vedlejšího stolu ale holčina kouřila a mě to trochu sralo. Když přišla Marťa, přesunuli jsme se dovnitř.<br>
+Moc jsme si toho sami nestihli říct než dorazili ostatní. Marťa jim přiznala, že potratila. Nemusel jsem tak držet tajemství. Stejně tak nějak divně vyplynulo, že jsem Rébě řekl, že nějaký tajemství držím a já se cítil blbě.<br>
+Film mě tentokrát moc nebavil. Byl to akčňák podle Clancyho. A já Clancyho nemusím. Ale Indy tam hrál dobře. Marťu to bavilo.<br>
+Zpátky jsem jel na rekole. Docela v tempu. Doma jsem byl určitě první.
 
 ### 4.4. Ztracen v testech
 
@@ -53,10 +53,8 @@ s marťou dovnitř<br>
 ### 5.4. Franz III Indigový, Magnum Jazz a diskuse do tří do rána
 
 Ráno mi nějak nedocházelo, že na zahradě na mě čeká freebike. Když jsem cvičil plank, přemýšlel jsem, jestli stíhám vlak. Až když jsem vyšel na schody, došlo mi, že žádný vlak nepotřebuju.<br>
-
-do balení věcí na stole<br>
-spustil jsem tím lavinu<br>
-nakonec jsme rozebírali tiskárny a DJ dělal inventuru nářadí.<br>
+Dojel jsem do kanclu, DJ začal odvážet kola do Vysočan a já tak nějak dodělával drobnosti. Odpo už jsem začal uklízet a balit věci na stole. Spustil jsem tím lavinu rozebírání a balení. Vláďa se pustil do tiskový farmy a zjistil, že to nebude snadný. Musela se dost rozstříhat. Ivan to nepostavil tak, aby to šlo převézt.<br>
+DJ se pustil do inventury nářadí a balil nám nástroje, které by se nám hodily. Ale něco málo nám nechal, takže to vlastně šlo.<br>
 Po čtvrté jsem sedl na rekolo a dojel do Decathlonu na Harfě. Nikdy jsem uvnitř toho krámu nebyl. Chvilku jim trvalo mi kolo přivézt. Nakonec jsem ale se projel po prodejně na svém třetím Tribanu RC520 a s pánem jsme nastavili výšku sedla.<br>
 První pocity při jízdě domů byly rozporuplné. To kolo bylo těžší než jsem čekal. Možná těžší než drak, což je trochu absurdní, když je z hlíny místo z ocele. Taky nebylo tak zábavný. Řadilo neskutečně dobře. To co mělo dělat dělalo na výbornou. Hlína se skvělým osazením. I třmeny se po chvilce chytly a páčky začaly brzdit jak měly. Ale chyběla tomu ta zábava, kterou drak nabízel. Drak se v zatáčce kroutí s člověkem. Triban tam tak trochu překáží. Ale věděl jsem že je to otázka zvyku. A na lepší se zvyká snadno.<br>
 Doma jsem si udělal Pasta Arabiata a koukal na seriál. Nějak mi čas utekl rychleji, než jsem očekával a když jsem koukal jak se dostat do Malostranské Besedy, tramvají bych to do půl deváté už nestihl. Vzal jsem nextbike a docela v tempu jsem vyrazil na opačnou stranu řeky. A stihl to na minutu přesně. Jediný. Skořič s ostatními teprve nastupovali do tramvaje v Dejvicích.<br>
@@ -176,3 +174,10 @@ salát a těstoviny<br>
 třetí řada breaking bad
 V hlavě jsem u toho byl na houpačce mezi tím, že jsem chtěl Mišku zpátky, ale uvědomoval si, že se to asi už nikdy nestane. Bylo mi bídně. Ale to nic nedělání a samotu jsem potřeboval. Být se spárovanými kamarády už mi lezlo na mozek.<br>
 Nechal jsem Arnošta vysávat a potom vytírat. Pomáhal jsem mu se skvrnami, které nedokázal rozpustit. Trochu jsem pohnul s prachem. A něco málo pootíral. k nějakému generálnímu úklidu to mělo daleko. Ale lepší než nic.<br>
+Vynesl jsem ale odpad, umyl nádobí a malým vysavačem vysál, co Arnošt nezvládl.
+
+### 14.4.
+
+Toru Okada se snaží pochopit, proč od něj odešla žena. Jessie v je v píči, protože přišel o holku. Skyler Walta podvádí. Hank a Marie si nerozumí. Popkultura, kterou jsem konzumoval mi před oči předhazovala, jak lidé milují, když jdou vztahy do háje. Možná jsem vybíral špatnou popkulturu. Rozhodně jsem kvůli ní nezapomínal na to, jak jsem se v daný chvíli cítil. A že bylo hrozný. Poslední dva měsíce jsem cítil tlak. Není lepší popis. Mělo to fyzickej přesah. Jako by mi opravdu někdo stál na hrudi.<br>
+David řekl, že lidé, kteří dokáží přemýšlet nad více věcmi najednou jsou na tom hůř. A já nevím jestli jsem toho dobrý příklad, ale nějaký paralelismus mi v hlavě jede pořád. Trochu práce, trochu osobního života, nějaká hudba (Když jsem tohle psal, tak jsem se zkusil zamyslet a zrovna to byly [Kasabian](https://open.spotify.com/track/0Bb5xvm1ztwqwJQLM7mkSn).s).<br>
+Spotify mě zná. Po Kasabian mi pustilo [Pressure Point](https://open.spotify.com/track/4b8tEufKnvZJ49LaAfxD9H). Can't get this Pressure point out of my head, byl přesně ten pocit, který jsem cítil.
