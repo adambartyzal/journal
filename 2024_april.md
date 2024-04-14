@@ -118,7 +118,7 @@ Jak jsem v úterý stál, koukal jak se Mišce svítí za oknem a nebrečel, tak
 2 měsíce! Každej den. Skoro každou minutu. Cítil jsem se úplně v píči. Není lepší popis.<br>
 Ověřil jsem, že po kofeinu se potím v podpaží.<br>
 K tomu jak špatně jsem se cítil, se přidala nostalgie z rozebírání Karlína<br>
-Vzpoměl jsem si ale, že jsem chtěl napsat Davidovi, že jsme teď sousedi, domluvili jsme se, že se uvidíme ve čtvrtek.
+Vzpomněl jsem si ale, že jsem chtěl napsat Davidovi, že jsme teď sousedi, domluvili jsme se, že se uvidíme ve čtvrtek.
 
 ### 9.4. Změna plánu
 
@@ -154,30 +154,29 @@ Byli jsme tam až asi do devíti nad dvěma pivy. Nad Synkáčem jsme se rozlou�
 ### 12.4. Prostě a jenom smutný
 
 Sice to byl pracovní den, ale necítil jsem se tak.<br>
-před jedenáctou na kolbenku<br>
-kluci přijeli třemi auty a ještě kamionem<br>
-na kole do ikei dělat testy, canAdvance mi moc nešlo<br>
-po čtvtrté na břevnov<br>
-daleko jako prase<br>
-rozkopaný libeňák<br>
-s ondrou pro nápoje<br>
-Filip se připravoval na to být táta. Sára ukazovala návrh domu. Ondra s Rébou promítali zážitky z Guatemaly v jejich bytě. A já jsem tam seděl a bylo mi smutno. Prostě a jenom smutno. Schválně jsem si to dopočítal. 47 dní do toho než mi bude 30. Objektivně jsem na tom nebyl zle. Věděl jsem to. Nebyl jsem švorc, měl jsem práci, dobrý kamarády, ale stejně jsem se cítil na hovno.<br>
+Po desáté jsem vyjel Na Kolbenku. Petr potřeboval Karlínské klíče a kartu. Stihl jsem ho. Dokonce jsem stihl i kluky, kterí přijeli třemi auty a ještě kamionem.<br>
+Dál můj homeoffice mířil do ikei. Po mém oblíbeném jídle jsem se pustil do psaní testů. Časové metody advance a canAdvance mi zamotaly hlavu.<br>
+Po čtvtté jsem vyrazil na Břevnov. Je to z Čerňáku daleko jako prase. Cestou mě překvapilo, že Libeňáku chybí celé oblouky. Nemohli ho prostě strhnout už před deseti lety kokoti.<br>
+Když jsem dojel k na Marjánku, Ondra zrovna vycházel ven, koupit u Vietnamce nějaká pití. Hodili jsme kolo k nim na zahradu a spoečně nakoupili piva a nepiva.<br>
+Sára s Korou se k nám přidali hned po nákupu a Filip asi o hodinu později.<br>
+Nebylo to pro mě lehký na psychiku. Filip se připravoval na to být táta. Sára ukazovala návrh domu. Ondra s Rébou promítali zážitky z Guatemaly v jejich bytě. A já jsem tam seděl a bylo mi smutno. Prostě a jenom smutno. Schválně jsem si to dopočítal. 47 dní do toho než mi bude 30. Objektivně jsem na tom nebyl zle. Věděl jsem to. Nebyl jsem švorc, měl jsem práci, dobrý kamarády, ale stejně jsem se cítil na hovno.<br>
 Zpátky jsem jel přes Strahov. To znamenalo projet kolem Mišky zámku. Jel jsem kolem rychle. Ale stejně jsem viděl, že nesvítí, narozdíl od mých posledních dvou návštěv. Asi byla doma. Stejně jsem ale chytil knedlík do krku. A to na kole není dobrý. Obzvlášť když mě nějakej čůrák v mercedesu málem vytlačil ze silnice. Zezadu jsem pak viděl, že mu jeho holka strkala jazyk do ucha. Rozesmutnilo mě to ještě víc.<br>
 Šel jsem spát po půlnoci. Prázdný. Prostě a jenom smutný.
 
 ### 13.4. Prokrastinování
 
-na nákup<br>
-potravinová sbírka<br>
-jít číst do grébovky<br>
-salát a těstoviny<br>
-třetí řada breaking bad
+Lednice zela prázdnotou. Kolem deváté jsem pobral síly a vyrazil do Lidlu. Probíhala tam potravinová sbírka. Přispěl jsem plechovkou tuňáka, pytlíkem oříšků a balením těstovin. Věcma co vydrží a mají nutriční hodnotu.<br>
+Doma jsem posnídal a vyrazil s dekou do Grébovky, číst si Murakamiho. Nemohlo mi na mysl nepřijít, že za 3 dny to bude rok, co jsem ležel v Grébovce a uslyšel Mišku. [To kdy to všechno začalo.](../2023_april/#164-zítra-a-zítra-a-zítra)<br>
+Ale, co naděláš, bydlím u Grébovky a chci si číst, řekl jsem si a natáhl se v předčasně letním slunci na zem. Můj nově zalepený nafukovací polštářek po chvíli opět ušel. Neměl jsem z toho radost.<br>
+Když na mě po pár kapitolách přišel hlad, vrátil jsem se domů a udělal si salát a těstoviny.<br>
+A pak mě pohltila třetí řada Breaking Bad. Binge watching jako prase. Nemohl jsem přestat.<br>
 V hlavě jsem u toho byl na houpačce mezi tím, že jsem chtěl Mišku zpátky, ale uvědomoval si, že se to asi už nikdy nestane. Bylo mi bídně. Ale to nic nedělání a samotu jsem potřeboval. Být se spárovanými kamarády už mi lezlo na mozek.<br>
 Nechal jsem Arnošta vysávat a potom vytírat. Pomáhal jsem mu se skvrnami, které nedokázal rozpustit. Trochu jsem pohnul s prachem. A něco málo pootíral. k nějakému generálnímu úklidu to mělo daleko. Ale lepší než nic.<br>
 Vynesl jsem ale odpad, umyl nádobí a malým vysavačem vysál, co Arnošt nezvládl.
 
-### 14.4.
+### 14.4. Pozvolný úklid
 
 Toru Okada se snaží pochopit, proč od něj odešla žena. Jessie v je v píči, protože přišel o holku. Skyler Walta podvádí. Hank a Marie si nerozumí. Popkultura, kterou jsem konzumoval mi před oči předhazovala, jak lidé milují, když jdou vztahy do háje. Možná jsem vybíral špatnou popkulturu. Rozhodně jsem kvůli ní nezapomínal na to, jak jsem se v daný chvíli cítil. A že bylo hrozný. Poslední dva měsíce jsem cítil tlak. Není lepší popis. Mělo to fyzickej přesah. Jako by mi opravdu někdo stál na hrudi.<br>
 David řekl, že lidé, kteří dokáží přemýšlet nad více věcmi najednou jsou na tom hůř. A já nevím jestli jsem toho dobrý příklad, ale nějaký paralelismus mi v hlavě jede pořád. Trochu práce, trochu osobního života, nějaká hudba (Když jsem tohle psal, tak jsem se zkusil zamyslet a zrovna to byly [Kasabian](https://open.spotify.com/track/0Bb5xvm1ztwqwJQLM7mkSn).s).<br>
-Spotify mě zná. Po Kasabian mi pustilo [Pressure Point](https://open.spotify.com/track/4b8tEufKnvZJ49LaAfxD9H). Can't get this Pressure point out of my head, byl přesně ten pocit, který jsem cítil.
+Spotify mě zná. Po Kasabian mi pustilo [Pressure Point](https://open.spotify.com/track/4b8tEufKnvZJ49LaAfxD9H). Can't get this Pressure point out of my head, byl přesně ten pocit, který jsem cítil.<br>
+Pokračoval jsem ve vysávání a vytírání prachu a úklidu. Taky jsem přesadil lámající se zelenec, který se lámal i v novém květníku. Ale míň a dlahy ho držely dostatečně.
