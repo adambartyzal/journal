@@ -97,19 +97,15 @@ Vlavská a pusa, kterou jsem nezvládl dát už je pro mě téměř standard. Ka
 
 ### 7.4. Nevydařený triatlon a vandalismus
 
-plán byl ležérní olypijský triatlon<br>
-dojel jsem k bazénu a zjistil že nemám multisportku<br>
-a tak jsem pokračoval na kole<br>
-lidí bylo všude plno, a je vidno, že češi nejsou chudí, kola na kterých jezdí jsou 2x 3x dražíš než Franz III<br>
-Nejsem vůbec v pořádku. Míšu jsem měl v hlavě v modřanské rokli kam jsme chtěli, u kunratického lesa, kde jsme spolu byli, na šeberáku, kde jsme koupili letenky<br>
-plavat<br>
-1500 jsem nedal po 1100 jsem cítil nechuť<br>
-přes kopec domů, vzít si šablonya sprej, mikinou a kšiltovku a na anděl<br>
-kolo u fízlů dole<br>
-pěšky, první most, žlutá není žlutá ale mokrá, a pak vzhůru, zapomenutá česká,
-kam češtinu? k brance<br>
-maori nebylo vidět<br>
-po jedenácté domů<br>
+Plán na sobotu byl ležérní olypijský triatlon. Ne moc promyšlený plán. Vlastně jsem ho vymyslel asi 10 minut před vyjetím do Podolí. Jenže v bazénu jsem zjistil že nemám multisportku. Co už. Pokračoval jsem na kole.<br>
+Lidí bylo všude plno a bylo vidno, že češi nejsou chudí. Kola který mě míjela byla 2x, klidně i 3x dražíš než Franz III Indigový.<br>
+Nebyl jsem vůbec v pořádku. Míšu jsem měl v hlavě v Modřanské rokli kam jsme plánovali vyrazit.U Kunratického lesa, kde jsme spolu byli. Na Šeberáku, kde jsme koupili letenky. Nemohl jsem jí z hlavy dostat.<br>
+Určitě to bylo kvůli tomu, co jsem chtěl udělat večer.<br>
+Doma jsem se zastavil pro kartičku a vyrazil podruhé do Podolí. V kantýně jsem si dal bábovku a pak uplaval 1100.<br>
+Přes kopec jsem dojel domů. Vzal si šablony a sprej, mikinu a kšiltovku a dojel na Anděl.<br>
+Kolo jsem zamknul dole na rohu pod kamerou a na dohled dvou hlídkovacích fízlů.<br>
+Nahoru pěšky. První most. Španělsky. Žlutá nebyla žlutá ale spíš průhledná mokrá. Dál vzhůru Finsky. Na lavičce jsem zapomněl Češtinu. Za silnicí Čínština. Na rohu Maori. Zpátky pro češtinu, kterou jsem nakonec umístil přímo do branky. Ale moc to vidět nebylo.<br>
+Obzvlášť čínština a Maori.
 
 ### 8.4. Úplně v prdeli
 
@@ -183,8 +179,7 @@ Pokračoval jsem ve vysávání a vytírání prachu a úklidu. Taky jsem přesa
 Když mi začalo z bytu hrabat, sbalil jsem plavky a ručník, nasedl na Franze III a vyrazil na Šutku. Už jsem tam dlouho nebyl a Podolí jsem měl plný zuby. Když jsem procházel kolem bazénu, došlo mi, že naposledy jsem tam byl asi ještě před Miškou. Uplaval jsem kilometr, sjel se na tobogánu a dvakrát byl v páře. Nijak zvlášť mě nic z toho nebavilo.<br>
 Když jsem vyšel ven, domluvil jsem se s Marťou, že jí vyzvednu v šest u ní, přinesu jí čaj a salmiaky a půjdeme si sednout na Čecháč s nějakým pitím.<br>
 Sjezd z Bohnic byl plný aut. Jet padesátkou a předjíždět auta mě podivně uklidňovalo.<br>
-Z čaje byla Marťa nadšená, salmiaky prý její oblíbené úplně nejsou. Ale prý se o ně rozdělí s ostatními. S Vildou se zrovna vrátili z českého středohoří. Ušli 40 kilometrů a Marťa nemohla moc chodit. V obchodu Asia, jsme koupili bierly a maté a sedli si na lavičku uprostřed náměstí. Povídali jsme si o jejich výletě a o mé cestě do finska. Zeptala se mě, jestli se těším. Bez váhání jsem odpověděl že ne. Pak se mě zeptala, na co se těším v životě. Zarazilo mě to. Třeba minutu jsem o tom přemýšlel. A nic nevymyslel. To mě zarazilo ještě víc. Jak se můžu netěšit na nic. Ale bylo to tak.<br>
-
+Z čaje byla Marťa nadšená, salmiaky prý její oblíbené úplně nejsou. Ale prý se o ně rozdělí s ostatními. S Vildou se zrovna vrátili z českého středohoří. Ušli 40 kilometrů a Marťa nemohla moc chodit. V obchodu Asia, jsme koupili bierly a maté a sedli si na lavičku uprostřed náměstí. Povídali jsme si o jejich výletě a o mé cestě do finska. Zeptala se mě, jestli se těším. Bez váhání jsem odpověděl že ne. Pak se mě zeptala, na co se těším v životě. Zarazilo mě to. Třeba minutu jsem o tom přemýšlel. A nic nevymyslel. To mě zarazilo ještě víc. Jak se můžu netěšit na nic. Ale bylo to tak.
 
 ### 15.4. V depresi?
 
@@ -229,4 +224,37 @@ Chtěl jsem si s ní povídat, protože bylo 16.4. Rok od našeho setkání. Ale
 Jak nůž do srdce. Jasně, dramatizuju. Ale neměl jsem si s kým povídat. Barču jsem předchozí den zahltil svým životním příběhem o mě a Mišce a asi jsem to tím celý posral. Ale s Barčou jsem to viděl podivně pesimisticky.<br>
 Aspoň jsem si večer u Breaking Bad zašil kraťasy. Výsledek nebyl nic moc. Ale vytáhl jsem je tak z poza hranice *na vyhození*. Ať žije ultra slow fashion.
 
-### 17.4.
+### 17.4. Do noci
+
+Cestou do práce nám navigace opět řekla, že kilometr před námi je *obstruction*. Začínalo to být už kolorit. V práci čekalo spousta kol na upgrade SAM karty. Probíral jsem se tím postupně, ale věci moc nedávaly smysl.<br>
+Protože Brazilcům spadl server. Zasekli mě na několik hodin. Ne že by nebylo co dělat, ale upgrady jsem chtěl mít za sebu. Alespoň, ty které by prošli relativně bez potíží. Tušil jsem, že posledních pár bude na dlouho a rozebírání vložek jsem se chtěl vyhnout jak čert kříži.<br>
+Upgradováním, posíláním a procházením logů a nakonec i rozebíráním víček, abych odpojil terminál a upgradoval kolo v jiném pořadí, jsem nakonec strávil celý den. Ve skladu jsem byl až do devíti večer. Pak jsem vzal kolo 101 a dojel domů. Mrzlo a ruce mě zebaly. Ještě že umím na kole jezdit s rukama v kapsách.<br>
+Fíla s Verčou už spali. Něco málo jsem snědl a odpadl taky.
+
+### 18.4. Inženýr/manažer/tester/rádce
+
+Budil jsem se. Asi za to mohl kofein. Ale hodinky byly docela spoko. Pustil jsem se do pomalého rána a ledovou sprchou se snažil probrat.<br>
+Když jsme přijeli ke skladu, Joni nás s úsměvem informoval o tom, že našli kola v dodávce. Nebyla upgradovaná a já se do toho pomalu pustil. Planetáři nám napsali, že vymysleli dohledový software, který restartuje službu, když spadne.<br>
+Chtěl jsem z toho mít radost, ale měli něco takovýho mít hotový dva měsíce zpátly, nebo spíš rok zpátky. Navíc mi přišlo, že to stejně něfunguje jak má. Upgrady procházely jen když jsem nahrával maximálně 3 koly. Jinak se začala točit v nějakých nekonečných smyčkách. Možná mám něco blbě my. Ale oni rozhodně taky. DDoS my ass.<br>
+Vláďa chtěl vydat nový ebuf firmware. Musel jsem mu to schválit. To byl taky bizár. ebuf106 ale měl líp logovat a to se vždycky hodí. Navíc s ním procházely upgrady lépe i když cituju: "kromě logování jsem nic nezměnil".<br>
+Kromě nahrávání a kontroly kol jem vyvětloval věci Leovi a ostatním. Tak nějak na ně dohlížel, ukazoval jim plánovač, reportoval chyby, testoval platby a opravoval co bylo rozbité.<br>
+Možná bych dokázal být manažer. Ale asi by mě to nebavilo.<br>
+Pro oběd jsme sjeli do Karismy. Podobně jako tehdá s Gešim jsme u deli pultu řekl paní kolik čeho chceme do krabičky a ušetřili za restauraci.<br>
+Fini rozváželi kola a když už jsme ve skladu neměli skoro co dělat, jeli jsme se podívat na stanice. Vykouklo totiž slunko a slunko dělá hezké fotky.<br>
+Sluníčka jsem využil i doma. Šel jsem běhat. S vlmi vágním plánem jsem vyběhl jihozápadně. Na mapě tam byla říčka s meandry. Skoro až u ní mi došlo, že už jsem u ní byl. Byl jsem v Lahti úplně všude. Znám ho jak svý kalhoty, říkal jsem si. Ale nebyla to pravda. V posledních třech kilometrech běhu jsem objevil čtvrť, která vypadala jako Švédská vesnice. Bylo to ohromně pohledný.<br>
+
+### 19.4. Poslední kousky
+
+Dvoudenní přísun kofeinu mi taky přivodil withdrawl sydrome a počasí stálo za starou bačkoru. Sluníčko předchozího dne bylo schované ve Finské šedi a místo něj přišla Ruská zima.<br>
+Spadnout do závislosti na kafi je ve finsku raz dva. Svojí únavu jsem řešil hned dvěma šálky kávy černý jako tér. Kola ve městě začínala hlásit payment terminal error. Cítil jsem průser. Cítil jsem druhý Helsinky. I když to zas ne. Tohle nebyl Rolan. V Lahti jsme měli tradici. Jen ty terminály nesměly vzít s sebou celý kolo.<br>
+Kluci pokračovali ve vyvážení kol ven aby se dostaly ke kostkám vzadu. Ty pak odvezly náhlaďáčkem.<br>
+Odpo už sněžilo regulérně. Dveře skladu byly skoro pořád dokořán a uvnitř byla zima. Teplý tam bylo akorát další kafe.<br>
+Doma jsem vzal kolo a sjel do Lidlu, protože moje polovina lednice už byla prázdná. Udělal jsem ne příliš povedný stir fry a koukal na seriál.<br>
+Cítil, že kofein mě rozbil. Cítil jsem se přejetej. Po pár dílech seriálu jsem usnul i přes to, že vedle Fíla s Verčou koukali na film.
+
+### 20.4. Pod sněhem
+
+Sněžit nepřestalo. Za okny bylo bílo a sněhem pobíhali vojáci v rámci nějakého cvičení. Kromě mírného sněžení ale bylo slunečno.<br>
+Vytahal jsem nádobí z myčky, udělal si snídani, uprostřed pořádání salátu, toustů a tvarohu si uvědomi, že jsem toho udělal moc, nacpal to zpátky do lednice a šel se dál dívat na seriál.<br>
+Rozhodl jsem se, že do Tampere nepojedu. Chtěl jsem tam jet s Miškou a takhle bych se akorát trápil. Byla to škoda, ale nebyl všem dnům konec. A Tampere není tak daleko.<br>
+Sedl jsem na kolo a sjel do Espresso House. Přes týden jsem toho moc nenapsal. A něco k zápisu bylo.<br>
