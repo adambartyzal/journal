@@ -1,5 +1,32 @@
 [<< Březen](2024_march.md)
 
+- [1.4. Dečín je super a není to Apríl](#14-dečín-je-super-a-není-to-apríl)
+- [2.4. Dobré Ráno / Dobrou noc](#24-dobré-ráno--dobrou-noc)
+- [3.4. Opět naslepo](#34-opět-naslepo)
+- [4.4. Ztracen v testech](#44-ztracen-v-testech)
+- [5.4. Franz III Indigový, Magnum Jazz a diskuse do tří do rána](#54-franz-iii-indigový-magnum-jazz-a-diskuse-do-tří-do-rána)
+- [6.4. Jaro naplno](#64-jaro-naplno)
+- [7.4. Nevydařený triatlon a vandalismus](#74-nevydařený-triatlon-a-vandalismus)
+- [8.4. Úplně v prdeli](#84-úplně-v-prdeli)
+- [9.4. Změna plánu](#94-změna-plánu)
+- [10.4. Operační den](#104-operační-den)
+- [11.4. Napodruhé, naposledy a poprvé](#114-napodruhé-naposledy-a-poprvé)
+- [12.4. Prostě a jenom smutný](#124-prostě-a-jenom-smutný)
+- [13.4. Prokrastinování](#134-prokrastinování)
+- [14.4. Pozvolný úklid](#144-pozvolný-úklid)
+- [15.4. V depresi?](#154-v-depresi)
+- [16.4. Proč to nemůže fungovat](#164-proč-to-nemůže-fungovat)
+- [17.4. Do noci](#174-do-noci)
+- [18.4. Inženýr/manažer/tester/rádce](#184-inženýrmanažertesterrádce)
+- [19.4. Poslední kousky](#194-poslední-kousky)
+- [20.4. Pod sněhem](#204-pod-sněhem)
+- [21.4. Větší bazén je menší](#214-větší-bazén-je-menší)
+- [22.4. Start na den země](#224-start-na-den-země)
+- [23.4. Na houpačce](#234-na-houpačce)
+- [24.4. Nikdo nic neví](#244-nikdo-nic-neví)
+- [25.4. S docela dobrým pocitem](#254-s-docela-dobrým-pocitem)
+- [26.4. Opět nad mraky](#264-opět-nad-mraky)
+
 ### 1.4. Dečín je super a není to Apríl
 
 Korelace je zřejmě jednoduchá. Piješ pivo, spíš na hovno. Vím to, ale překvapilo mě, jak silný to je i po dvou pivech.<br>
@@ -258,3 +285,69 @@ Sněžit nepřestalo. Za okny bylo bílo a sněhem pobíhali vojáci v rámci n�
 Vytahal jsem nádobí z myčky, udělal si snídani, uprostřed pořádání salátu, toustů a tvarohu si uvědomi, že jsem toho udělal moc, nacpal to zpátky do lednice a šel se dál dívat na seriál.<br>
 Rozhodl jsem se, že do Tampere nepojedu. Chtěl jsem tam jet s Miškou a takhle bych se akorát trápil. Byla to škoda, ale nebyl všem dnům konec. A Tampere není tak daleko.<br>
 Sedl jsem na kolo a sjel do Espresso House. Přes týden jsem toho moc nenapsal. A něco k zápisu bylo.<br>
+
+### 21.4. Větší bazén je menší
+
+fíla s verčou do helsinek<br>
+koupit pohled<br>
+psát do kafárny<br>
+dolů do bazénu<br>
+lidé na hokej, český brankář<br>
+sauny maké, ale pára<br>
+vířivky<br>
+
+### 22.4. Start na den země
+
+Ve tři ráno mě Fíla s Verčou vzbudili. Jeli na letisko do Helsinek. Zas tak hlučný ale nebyli, neb si toho víc nevybavuju.<br>
+Někdy před šetou se Fíla vrátil a usnul. Dalo mi to spoustu času na to jógovat, snídat a tak.<br>
+Trochu mě bolely zuby. V pravo nahoře. Bál jsem se, že mám mezizuní kaz. Ale bolest tak nějak putovala. V průběhu celého dne. Možná to byl zánět někde uvnitř. Od nosu. Jestli je zánět lepší než kaz těžko říct. Reálně se to ale posunulo z horní poloviny pusy do spodní.<br>
+Na skladě jsem pomáhal Mattimu a s Fílou jsme řešili Pay Terminal Errory. Trochu absurdní bylo, že zemnící kabel pod anténu kolům pomáhal. Postupně jsme odstranili všech 11 problémových kol a nechali je odpočívat u stěny.<br>
+Po návratu domů jsem ještě řešil nějaký kolo s Lukášem. Za opravu mi slíbil med. Akorát si pro něj musím dojet do Polska.<br>
+Míša si přečtla mojí dlouhou zprávu. A neodpověděla mi na ní. A mě už to vlastně bylo docela jedno.. Ne to není pravda. Mrzelo mě to. Ale jinak než před měsícem nebo dvěma. Chtěl jsem Míšu ve svým životě. Rozuměli jsme si. Ale akceptoval jsem její rozhodnutí. Nebudeme spolu.<br>
+Možná, že jsem přešel ze lhaní si do kapsy do jinýho lhaní si do kapsy. Ale asi je lehčí srovnat se s faktem, že holka z Tinderu ti nikdy nenapíše, než s tím, že se s tebou rozešla holka, kterou jsi považoval za tu jedinou.<br>
+Výpadek backendu<br>
+
+
+### 23.4. Na houpačce
+
+Vstávačka v sedm. Krátká jóga, Vosečkova šikana a sprcha. K snídani fazole. Míša pořád neodepsala. Chtěl jsem se jí zeptat, čeho se bojí. Byla to ona, kdo působil, že emoce z našeho vztahu s ní cloumají méně. U namrzlého auta mi ale začala chybět. Akutně. Nějak mě to vrátilo do [rána](../2022_november/#2611-pasti-na-mišku), kdy jsme jeli do hory. Musel jsem to trochu rozdýchat.<br>
+Na houpačce. Večer jsem byl v pohodě, ráno na měkko. Kvůli škrábání ledu z toyoty.<br>
+opravy s mattim, aplikace pro kluky, upravy servisní aplikace v
+popadaná kola<br>
+do bazénu, zapomenuté brýle, sauna, plavání, víření, sauna<br>
+po silnici do K-supermarketu, volal ludvík<br>
+caprese<br>
+respekt<br>
+
+### 24.4. Nikdo nic neví
+
+Podezřele mi vyskočilo RHR. Asi o dělala sauna. Z neděle na pondělí to bylo taky tak. Čekal bych ale opak. Dal jsem si aspoň ranní jógu a 5 Vosečkových šikan.<br>
+S Mattim jsme stavěli kolo 62, které celou dobu co jsme byli přítomní smrdělo nabourané v kuchyni. Protože výměna rámu je vlastně víc než stavba nového kola, nadělalo to paseku v ERP.<br>
+Odpoledne jsem Vláďovi schválil nový ebuf. Bylo tam změn randál. A asi 20 kol neprošlo. Ale aktualizovaly se. Jen se prostě nezaply.
+Na slacku se řešily převážně platby. Přišlo mi, že kolem plateb koluje strašnej chaos.<br>
+Ani kite nevěděl proč vypadl backend<br>
+Nikdo nic nevěděl.<br>
+po práci jsem napsal Mišce jestli je v poho. 4 dny mi neodpověděla. Začal jsem mít strach, jestli se jí něco nestalo. Dokonce jsem obnovil facebook abych zijstil jak se jmenuje Iva, abych jí kdyžtak napsal, kdyby se neozvala. Ale ozvala se. A urazila se.<br>
+Na bench press<br>
+domů, pár zpráv s anet, slzy v očích, ale vědě, že je třeba se posunout.
+
+### 25.4. S docela dobrým pocitem
+
+Předposlední den. K snídani zbytky chlebu s pestem a po jídle trocha cvičení.<br>
+Řekli jsme si, že se pojedeme podívat na problémy do města. Kolo co se 5 dní neozvalo, 3 terminály a motor naopak. Když jsme dojeli k terminálům, kola tam nebyla. Míša nám je odvezl před nosem. Kolo co se neozývalo bylo vypnuté. Nebylo moc co s tím dělat. Nahlásil jsem ho do aplikace a Míša ho vyzvedl. Málem by nám odvezl i motor naopak, ale potkali jsme se na stanici u zimáku.<br>
+Motor naopak mě potrápil. Moc jsem tomu hlášení nevěřil, ale když jsem kolo rozebral a nafejkoval pas senzor, opravdu se motor točil pozpátku. Někdo si dal tu práci, že motor rozebral, vyměnil poklice a celé kolo nasadil opačně. Vlastně ho prozradil jen opačně nasazený plásť. Byl to bizár. Prohodil jsem kabely a bylo.<br>
+Ještě jsem Ludvíka začal přesvědčovat o tom, že servisní stojan na kola by se jim opravdu hodil. Joniho jsem zas navedl k tomu, ať přesvědčuje Lea. Když bude *tlak z obou stran*. Musí to projít.<br>
+Ještě jsme přehodili kablíky u kol s terminály a někdy po čtvrté jsme sjeli domů.<br>
+Venku poprchávalo a byla docela zima. Stejně jsem se ale rozhodl dojít pěšky do K-Marketu. Čtvrť skandinávských domečků je prostě pěkná.<br>
+Z obchodu zpátky jsem jel na kole. Napínák vydával napínavé zvuky. Na *Matkakeskus* nebyla žádná kola, ale když jsem parkoval, přijel Leevi a tři přidal. Možná, že to kluci opravdu zvládají. Měl jsem z toho docela dobrý pocit.<br>
+Doma jsem se dal do vaření. Na zbytku oleje jsem v hrnci osmahl veganskou náhražku trhaného hovězího, po chvíli přisypal pytel zeleniny *Wok* z Lidlu, ochutil trochou soli a randálem pepře, zalil trochou vody a nechal dusit. Krásně to vonělo a bylo to extrémně dobrý. Nevím co byly ty kolečka, co se skoro rozpadaly na jazyku. Možná cukrová řepa? Ale spíš ne.<br>
+Rozkoukal jsem poslední řadu Breaking Bad. Kdyby to skončilo čtvrtou, přišlo by mi to ok. Pátá se mi zdála našitá na sílu, ale třeba se to s dalšími díly změní, řekl jsem si.<br>
+Kvůli rozchodu jsem sklouzl zpátky ke své závislosti. Řekl jsem si, že s návratem do Čech zas začnu abstinovat.
+
+### 26.4. Opět nad mraky
+
+Zdály se mi zajímavé sny. Chodil jsem někde po nějakém caminu a večer jsem ležel vedle nějaké krásné chodkyně. Měla pyžamo kapitánských barev ze Star Treku. Oba jsme byli nadržený a dělali debilní vtipy. Vybavuju si, že jsem se říkal: I'm gonna come down the lower decks to start up the warp drive. Po chvíli lízání a hraní si s jejím jádrem začala vykřikovat, že dosáhla warpu 6.. 7.. a že se blíží desítce.. což pokud se nemýlím, není ve světě trekkies možný. Zašeptal jsem jí to do ucha a byl připravený jí tam dostat i přes fyzikální limity, ale v tom mě probudil za okny projíždějící vlak. Velká škoda.<br>
+Další sny už nebyly zdaleka tak zábavný.<br>
+Ráno jsme posnídali co zbylo, sbalili a poklidili a vyrazili naposledy do skladu. Nikdo tam nebyl. Já našel nějakou nesrovnalost v servisní aplikaci a protože Jirka byl na meetingu s Kitem, napsal jsem si vlastní program abych pochopil co se děje.<br>
+Stanice, která nebyla na mapě v tom dělala bordel.<br>
+Před druhou se měnily směny. A my vyráželi na Letisko. Hodinová cesta, vrácení auta, sekuritka plná lidí, kontroly na úplně všechno jako vždycky, a pak nuda na gejtu.<br>
