@@ -37,25 +37,33 @@
 ### 1.3. Still in Denial
 
 Popírání. Asi je to dobrý překlad. Nevím. Anglicky se mi ten nadpis líbil víc. Možná protože jsem byl v zahraničí.<br>
-Večer jsme si Miškou chviličku psali. A bylo to moc vřelý. Vzpoměl jsem si na Anet, která mi napsala:
+Večer jsme si Miškou chviličku psali. A bylo to moc vřelý. Vzpomněl jsem si na Anet, která mi napsala:
 
 > A jste teda pitomci, ze si pisete 😃
 
-Jenže já tomu pořád věřil. Možná skoro nejvíc za celou dobu co jsem byl pryč. Miška v Německu pracovala od nevidím do nevidím. Přišlo mi, že v Merseburgu prostě neměla čas přemýšlet nad tím, jestli nám dá šanci nebo ne. Ale čekal jí víkend s kamarádkami ze základky a odpočinek. Přišlo mi, že při psaní pookřála. Poslala mi písničku. Což nezní jako moc, ale byla to naše věc. Bavili jsme se skoro jako dřív. Byl jsem tvrdě ve fázi popírání.
-V práci jsem pokračoval v reklamaci.
+Jenže já tomu pořád věřil. Možná skoro nejvíc za celou dobu co jsem byl pryč. Miška v Německu pracovala od nevidím do nevidím. Přišlo mi, že v Merseburgu prostě neměla čas přemýšlet nad tím, jestli nám dá šanci nebo ne. Ale čekal jí víkend s kamarádkami ze základky a odpočinek. Přišlo mi, že při psaní pookřála. Poslala mi písničku. Což nezní jako moc, ale byla to naše věc. Bavili jsme se skoro jako dřív. Byl jsem tvrdě ve fázi popírání.<br>
+V práci jsem pokračoval v reklamaci.<br>
+
+<a href="../images/2024_march/1_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/1_1.jpg"></a>
+
 
 ### 2.3. Reframing
 
 Omar šel ráno plavat. Rozhodl jsem se že půjdu taky. Naházel jsem do sebe snídani a vyrazil za ním. Našel jsem ho s třiceti bazény v zádech. Okruh pro veřejnost byl plný lidí a tak jsem se zařadil do lajny s rychlými plavci. Oba jsme naplavali 1250 m a končili jsme nastejno. Docela jsem se zadýchal. Ještě jsem se šel saunovat. To pro Omara není a tak jsme se rozloučili.<br>
 Doma jsem se ponořil do čtení Atii. Poslední kapitola je úplně jiná než všechny předchozí. Je v ní v roli pacienta nikoliv doktora.<br>
-Po obědě jsme šli do hospody s Ríšou a Štěpánem. V televizi tam běžel přenos běžkařského závodu. Chvíli jsem na to koukal a něco mi nedocházelo. A pak došlo. Byl to závod přímo v Lahti.<br>
+Po obědě jsme šli do hospody s Ríšou a Štěpánem. V televizi tam běžel přenos běžkařského závodu. Chvíli jsem na to koukal a něco mi nedocházelo. A pak došlo. Byl to závod přímo v Lahti.
+
+<a href="../images/2024_march/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/2_1.jpg"></a>
 Pil jsem nealko pivo po trojkách. Asi jsem kluky s půllitrovými Karhu trochu dotoval. Ale bylo mi to jedno. Se Štěpánem a s Ríšou si toho ale nemám tolik co říct. Nejsme úplně stejná krevní skupina. To se poznalo, když začínal hokej. Popřál jsem jim příjemnou podívanou a vyrazil domů. Hokej mě nebere.<br>
 Začínal jsem být naštvaný, že mi Míša nepíše. Úplně iracionálně. Až do večera se to ve mně rozjíždělo. Až k večeru jsem se zkusil odprostit od emocí a podívat se na situaci jejíma očima. Byla se svými kamarádkami ve Vrchlabí. Asi neměla čas čučet do mobilu. Pustilo mě to. Je zvláštní jak se člověk sám dokáže zamknout do okruhu svými očekáváním hnaného naštvání. Zkusit reframing asi není úplně od věci. Řekl jsem si, že to začnu zkoušet víc.
 
 ### 3.3. Having great friends
 
 Dopoledne jsem strávil generováním hesel a mazáním zálohy původních z googlu a z microsoftu. Zabralo mi to víc než jsem čekal a když jsem měl hotovo (až na pár vyjímek, kde se musel kontaktovat člověk), byly dvě odpoledne.<br>
-Měl jsem vybité hodinky a mobil téměř taky. Kabely k nabití obou naneštěstí ležely ve skladu na stole. Za okny ale bylo sluníčko a procházka zdraví svědčí. Šel jsem cestou, kterou jezdíme autem. Skoro žádná jiná stejně není. Leda tak přes jezero. A to jsem zkoušel, protože přede mnou šel člověk s obřím vrtákem. Ale sníh na jezeře tál a člověk se propadal do louží. Běžkařce, kterou táhl pes to zřejmě nevadilo. Ale mé kotníčkové barefooty to nezvládaly.<br>
+Měl jsem vybité hodinky a mobil téměř taky. Kabely k nabití obou naneštěstí ležely ve skladu na stole. Za okny ale bylo sluníčko a procházka zdraví svědčí. Šel jsem cestou, kterou jezdíme autem. Skoro žádná jiná stejně není. Leda tak přes jezero. A to jsem zkoušel, protože přede mnou šel člověk s obřím vrtákem. Ale sníh na jezeře tál a člověk se propadal do louží. Běžkařce, kterou táhl pes to zřejmě nevadilo. Ale mé kotníčkové barefooty to nezvládaly.
+
+<a href="../images/2024_march/3_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/3_1.jpg"></a>
+
 Ve skladu o víkendu. Bylo to trochu divný. Sbalil jsem do kapsy kabely a vyrazil zpátky.<br>
 Sluníčko už začínalo zacházet za obzor. V čechách ale pořád svítilo. Prozradila mi to Anet, která mi společně s Filipem zavolala a cestou zpátky jsem si s nimi povídal. Bylo to moc milý. A pomohlo mi to trochu se posunout.<br>
 Nebyl to ale jediný telefonát dne. Měl jsem naplánované video pivo se Sárou a Jardou. Rychle jsem se otočil v Lidlo pro dvě nepiva a v sedm měl nastavený laptop s kamerou. Každý z nich byl jinde. Sára doma a Jarda na pozemku se psy. Povídali jsme si asi dvě hodiny a bylo to moc milý.<br>
@@ -112,7 +120,10 @@ Prý po tom co jsme spolu začali chodit byli spíš stále kamarádi. Jako by t
 Míša chtěla víc. Prý jsem jí neviděl. Občas asi ne. Občas jsem koukal kde co lítá. Občas jsem roztržitej. Ale k Míše se moje myšlenky vždycky stočily zpátky. Možná ne dost rychle.<br>
 Vracím se k tomu reframingu. Byl jsem dobrý přítel z jejího pohledu? Občas jsem mluvil moc o svojí práci. Občas moc o svým kole. Asi jsem málo dával na jevo, co bych si přál. A míň plánoval. Já většinou jdu s proudem. Plánuju na pár dní dopředu, protože když plánuju na dýl, něco se pojebe.<br>
 Ale Míša plánuje na dýl. A to že já ne jí asi nedodávalo jistotu? Já nevím. Nevím. To je ten pocit, který mě naplňuje. Jak mám na papír vyblejt, něco co nevím. Rozhodla se, že jsme nekompatibilní. Eliška Remešová jí nepřesvědčila o tom, že do kompatibility je třeba dorůst. Nepřesvědčila jí o tom, že vztahová nula je věc, ze který se dá dostat. Nepřesvědčil jí ani Jillian on Love, která radí jak se dostat z Rough Patch. Míša se rozhodla a je tak tvrdohlavá, že jí nepřesvědčí vůbec nic.<br>
-Jenže.. to vlastně znamená, že jsem to neposral já. Já jsem měl snahu. Jasně.. mohl jsem něco udělat jinak, líp možná. Ale já nejsem důvod proč nejsme spolu. Je to Míša. Ta to pohřbila. Ta ublížila mně. Odpustím jí to. Ale důležitý je, že já nejsem viník.<br>
+Jenže.. to vlastně znamená, že jsem to neposral já. Já jsem měl snahu. Jasně.. mohl jsem něco udělat jinak, líp možná. Ale já nejsem důvod proč nejsme spolu. Je to Míša. Ta to pohřbila. Ta ublížila mně. Odpustím jí to. Ale důležitý je, že já nejsem viník.
+
+<a href="../images/2024_march/6_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/6_1.jpg"></a>
+
 Došlo mi to, když jsem šel večer ze sauny. Povídal jsem si tam s nějakým starým pánem, který uměl skvěle anglicky. Finové jsou dál. Ale děcka mě v tom bazénu fakt sraly. V tom dál nejsou.
 
 ### 7.3. What's next?
@@ -121,7 +132,10 @@ V práci jsme probírali Tomovy preference ohledně holek. Musí být drobná. H
 Tomáš to bude mít těžký. Ale třeba potká nějakou, kvůli který změní názor.<br>
 Co já. Já míval holku co byla milující, chytrá, ohromně krásná. A stejně mě nechala. Ne bezdůvodně. Ale bez boje určitě.<br>
 Co dál. Dál asi Barča? Ale nechtěl jsem k ní upínat žádnou naději, dokud se neuvidíme. Nebo nějaká jiná holka z Tinderu? Ta aplikace mě tak strašně vysírala, ale výsledky se jí upřít nedaly. I já díky ní našel holky mému srdci blízké.<br>
-Šel jsem se projít. Ke skokanským můstkům. Během cesty mi volala máma, ale v zimě mi umřel můj téměř vybitý mobil. Pod můstky běžkovalo spousta lidí. Překvapilo mě to. Nahoře ještě víc. A na můstcích dokonce byli skokani.<br>
+Šel jsem se projít. Ke skokanským můstkům. Během cesty mi volala máma, ale v zimě mi umřel můj téměř vybitý mobil. Pod můstky běžkovalo spousta lidí. Překvapilo mě to. Nahoře ještě víc. A na můstcích dokonce byli skokani.
+
+<a href="../images/2024_march/7_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/7_1.jpg"></a>
+
 Procházel jsem se bokem od vyjeté stopy a kochal se přírodou. Bylo to tam hezký. Mišce by se tam líbilo. Fakt mě mrzelo, že tam se mnou není. Procházel jsem se asi hodinu, ale pak to stočil dolů k jezeru. Říkal jsem si, že přejdu po něm a ušetřím tak trasu. Ale orientační smyl mě zklamal a po břehu to bylo kratší.<br>
 Docela jsem vymrzl a vymrzl a vyhládl. Doma jsem se pustil do vaření špaget a pořádně se nadlábl.
 
@@ -152,7 +166,10 @@ Odpo jsem šel plavat. Hecnul jsem dva kilometry. Po plavání jsem dokoukal Opp
 
 ### 11.3. Christ's years
 
-Vyzkoušel jsem platbu na kole a neprošla. Vláďa se pustil do nějakýho testování u sebe a já jsem šel pomáhat klukům. Zase jsem se cítil hůř. Nechtěl jsem nic jinýho, než aby až vystoupím z letadla tam na mě Miška čekala. Věděl jsem, že tam nebude. A bolelo mě to.<br>
+Vyzkoušel jsem platbu na kole a neprošla. Vláďa se pustil do nějakýho testování u sebe a já jsem šel pomáhat klukům. Zase jsem se cítil hůř. Nechtěl jsem nic jinýho, než aby až vystoupím z letadla tam na mě Miška čekala. Věděl jsem, že tam nebude. A bolelo mě to.
+
+<a href="../images/2024_march/11_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/11_1.jpg"></a>
+
 Náladu mi zlepšila Barča, která mi zas po víkendu napsala. Byla v Jindřichově Hradci. A měla kocovinu, protože v Hradci lila v Dadáči. Svět je fakt malej.<br>
 
 ### 12.3. Being locked away helps
@@ -178,7 +195,10 @@ Večer už jsem jen koukal na nový díl Invincible. I přes to, že zavraždili
 ### 15.3. Radio silence
 
 Dopoledne jsem dotřídil baterie a dokončil jejich jejich popis v erp. Finové mi v tom udělali trochu bordel, protože seznam obsahoval baterie jak z Kuopia, tak z Lahti.<br>
-Dál jsem se věnoval úklidu věcí, se kterými jsem pracoval. Byl to můj poslední pracovní den a nechtěl jsem po sobě nechat chaos. Roztřídil jsem věci do krabic a krabice popsal.<br>
+Dál jsem se věnoval úklidu věcí, se kterými jsem pracoval. Byl to můj poslední pracovní den a nechtěl jsem po sobě nechat chaos. Roztřídil jsem věci do krabic a krabice popsal.
+
+<a href="../images/2024_march/15_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/15_1.jpg"></a>
+
 Cestou zpátky jsme stavili v Prismě. Jídlo už jsem kromě dvou pečiv k okamžité konzumaci nekupoval. Zato jsem pořídil Salmiaki pro všechny doma, mumínkovské čaje a doclea fancy finskou kávu pro Jardu a Sáru.<br>
 V autě jsme se bavili o našem slovníku. Ríšovo *Ani hovno vole* nakazilo všechny. Nebyl jsem vůči tom imunní. Ale snažil jsem se tím nenasáknout.<br>
 O pár hodin později jsem ležel na posteli, stočenej do polohy plodu a brečel. Dostala mě tam vzpomínka na Barcelonu. Stačilo tak málo. Poprvý v životě jsem chápal proč se lidi jdou zasebevraždit. Věděl jsem, že takovou blbost neudělám, ale pokud je někdo citlivější než já, a to tutově je, protože já jsem emocionální asi jako pařez, chápal jsem, jak lákavý je zvolit konec místo trápení.<br>
@@ -206,20 +226,28 @@ O to absurdnější bylo, že když jsem se probral, za okny mrzlo, na zemi bylo
 balení<br>
 cibulačka<br>
 psaní si s barčou<br>
-do zasněženého finska<br>
+do zasněženého finska
+
+<a href="../images/2024_march/17_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/17_1.jpg"></a>
+
 nádraží pochopitelné appka skvělá, vlak ok<br>
 drahé pečivo na přestupu<br>
 na letiště z podzemí<br>
 museli mi pomoci s odbavením<br>
 nevyndavat věci z batohu je dobrý v tom má Míša pravdu. Stejně ale můj batoh vzbudil podezření. Jako vždycky. Byl nacpanej elektronikou. Černoch to ale moc neřešil. Koukl na laptop a poslal mě dál.<br>
-Sedl jsem si do Espresso House a na chvíli se cítíl optimisticky. Od chvíle, kdy jsem tam seděl poprvý uteklo přes šest let. A bylo to dobrých šest let. Rozchod mě pořád bolel. Ale za těch šest let jsem viděl spoutu zemí, poznal fajn lidi, dostal se do fajn práce, začal žít zdravěji a opravdu se zamiloval.<br>
+Sedl jsem si do Espresso House a na chvíli se cítíl optimisticky. Od chvíle, kdy jsem tam seděl poprvý uteklo přes šest let. A bylo to dobrých šest let. Rozchod mě pořád bolel. Ale za těch šest let jsem viděl spoutu zemí, poznal fajn lidi, dostal se do fajn práce, začal žít zdravěji a opravdu se zamiloval.
+
+<a href="../images/2024_march/17_2.jpg" target="_blank"><img src="../images/thumbnails/2024_march/17_2.jpg"></a>
 
 ### 18.3. Filmmaking in progress
 
 Vstal jsem až nepříjemně brzo. S snídani doma nic nebylo. Ale byl čas shodit vlasy. Někdy po sedmé jsem oholený vyrazil na Karmínovém drakovi na magistrálu. Došlo mi, že to kolo je vrak. Jak ho mám rád, tak přivírám oči nad tím, že nejlepší dobu má opravdu za sebou. Cestou jsem uvažoval, zda chci dávat peníze do výměny celého drive trainu na kole, které se cestou kroutilo jak kdyby bylo z gumy. Dost za to asi ale mohly podhuštěná kola. Nakonec mi ale řetězec myšlenek přerušilo bolení prstů. Sice v Praze nebyl sníh a sluníčko svítilo. Ale bylo kolem nuly stejně jako většinu dní v Lahti.<br>
 V Karlíně jsem objevil, že máme vyměněný zámek ve dveřích. To mi nepřišlo úplně vhod. Byl jsem v práci o hodinu dřív než ostatní. Nakonec jsem pána na vrátnici přemluvil, aby mě pustil dovnitř. Nechápu jaktože si mě nepamatoval. Zdravil jsem ho pět let.<br>
 Do Karlína přišlo XLko. Bylo jasný, že Ivan celý den stráví stavbou. Já jsem se pustil do soukromého projektíku. Filmové klapky. Byla to proprieta na odpolední rande s Barčou.
-Nepřišlo mi, že jsem byl pryč měsíc. V práci jsem dodělal pár věcí co se nakupili, ale moc toho nebylo. Protože jsem ale na XLku zahlédl, že v Holešovicích přešli na USB C. Rozhodl jsem se na testerech přejít taky. Nový kolo, nový konektory.<br>
+Nepřišlo mi, že jsem byl pryč měsíc. V práci jsem dodělal pár věcí co se nakupili, ale moc toho nebylo. Protože jsem ale na XLku zahlédl, že v Holešovicích přešli na USB C. Rozhodl jsem se na testerech přejít taky. Nový kolo, nový konektory.
+
+<a href="../images/2024_march/18_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/18_1.jpg"></a>
+
 S Barčou jsme byli domluvení na pátou. Sraz byl před Masaryčkou. U hodin, o kterých jsem netušil, že tam jsou. Jenže u nich postávali kuřáci.<br>
 Šel jsem tak dovnitř a trochu jí tím zmátl. Ale potkali jsme se. A vyrazili k k řece. Vysvětlil jsem jí, proč mám klapku a mincí jsme párkrát vybrali směr. Ale nakonec jsme šli podél vody. A já vyprávěl o tom, že jsem líný. Byť to není úplně pravda. A Barča se mě doptávala. A občas vyprávěla ona. A bylo to docela milý.<br>
 Takhle jsme došli až za Invalidovnu. Ale tam začala být zima, takže jsem navrhnul horký nápoj. A byť na invalidovně horké nápoje asi mají, navrhl jsem bazén. A tak jsme prošli celý Karlín nazpátek, tentokrát vnitřkem. Barča mi povídala, kde všude byla na Auroře a Thomu Yorkeovi.<br>
@@ -281,6 +309,8 @@ Kolem mě se hromadil bordel. Měl jsem dát prát oblečení, ale nějak jsem t
 Aspoň že venku chladněji než se za okny zdálo. Sobotní vítr přinesl zimu.<br>
 Murakami do kterého jsem se pustil začínal to vypadat, že je o vztahu, kterej jde do háje a kluk to nevidí. Možná to nebyla dobrá volba. Ale ponořil jsem se do toho a ze sedmi set stránek ukousl asi sto.
 
+<a href="../images/2024_march/24_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/24_1.jpg"></a>
+
 ### 25.3. Perfect Days
 
 Drak byl pořád rozbitej. Měl jsem v košíku a bike-eshopu naházený věci k jeho opravě, ale bylo by to skoro za pět tisíc. RC520 stála 23499. Víc, než když jsem jí kupoval poprvé i podruhé. Ale byl by to skok o pár úrovní výš. A nejsem tak bohatej abych kupoval levný věci. Ne že by ty náhradní díly byly levný. V košíku byly Conti Grand Prix. To nejlepší co *Bicycle Rolling Resistance* kdy změřili. Váhal jsem co je lepší volba. Nejvíc mě štvalo, že Dekáč by byl schopen dodat mi to kolo za 2 dny, zatímco díly by přišly až za 14 dní. Váhal jsem a jel do práce vlakem.<br>
@@ -322,7 +352,10 @@ Večer jsem tak strávil ve společnosti Watera Whita.
 
 ### 28.3. I'm not ok
 
-Fyzicky, ale hlavně ne psychicky. Asi je důležitý si to přiznat. Cítil jsem, že jsem pořád v hajzlu. Šlo to trochu utopit v tom, že jsem se věnoval programování a pročítání datasheetu. Tak jak mi den zpátky přišlo, že datasheet říká, že co chci nejde, tak jsem objevil že to tak není. I osciloskopem jsem potvrdil, že měření amplitudy extrémně krátkého pulzu probíhá. I tu hodnotu jsem dokázal vyčíst. Ale do WakeUp módu jsem nebyl s to čip přepnout. Rozhodl jsem se napsat do STčka. Minule mi poradili, tak proč ne tentokrát.<br>
+Fyzicky, ale hlavně ne psychicky. Asi je důležitý si to přiznat. Cítil jsem, že jsem pořád v hajzlu. Šlo to trochu utopit v tom, že jsem se věnoval programování a pročítání datasheetu. Tak jak mi den zpátky přišlo, že datasheet říká, že co chci nejde, tak jsem objevil že to tak není. I osciloskopem jsem potvrdil, že měření amplitudy extrémně krátkého pulzu probíhá. I tu hodnotu jsem dokázal vyčíst. Ale do WakeUp módu jsem nebyl s to čip přepnout. Rozhodl jsem se napsat do STčka. Minule mi poradili, tak proč ne tentokrát.
+
+<a href="../images/2024_march/28_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/28_1.jpg"></a>
+
 Na rekole na mě přišel kašel jak cip. Plival jsem cestou hlen. Šlo ho ven hodně, ale nepřišlo mi, že by se to lepšilo. Doma jsem si dal horkou sprchu a zbytek česnečky. Měl jsem se připravovat na výlet, ale nějak jsem na to neměl. Řekl jsem si, že jestli se budu ráno cítit líp, tak pojedu. Plán byl stejně vyrazit z hlaváku po o. Spousta času na regeneraci.<br>
 Doma už jsem jen polehával a popíjel vývar s česnekem.
 
@@ -340,7 +373,10 @@ Sára vyprávěla o pohledu jejích známých na svatbu. Taky o páru co se cht�
 Po asi hodině jsme se vydali do kopce. Krosna mi přišla těžká. A asi byla. Měl jsem stan a možná zbytečně moc krámů. Sára měla asi 3x lehčí batoh než já.<br>
 Po chvíli jsme došli na vyhlídku a povídali si o kempování v čechách. Opět jsem nemohl nevidět ten propastný rozdíl mezi střední evropou a skandinávií.<br>
 Dalších pár kilometrů jsme jen stoupali. Nakonec jsme došli na kopec ke studánce, u které stála chata s nápisem celní stráž. Nikdo v ní nebyl. Už asi docela dlouho. Bylo tam ohniště, a za ohništěm výhled do hor.<br>
-Rozhodli jsme se docela drze kempovat přímo tam. Testoval jsem, zda můžu vařit v mém ešusu s plastovým madlem přímo v ohni. Dal to v poho.<br>
+Rozhodli jsme se docela drze kempovat přímo tam. Testoval jsem, zda můžu vařit v mém ešusu s plastovým madlem přímo v ohni. Dal to v poho.
+
+<a href="../images/2024_march/29_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/29_1.jpg"></a>
+
 Jedli jsme a povídali si asi do desíti. Stan jsem měl postavený nejdál s výhledem na východ slunka.
 
 ### 30.3. Planes are expensive
@@ -348,14 +384,20 @@ Jedli jsme a povídali si asi do desíti. Stan jsem měl postavený nejdál s v�
 > *Sen:* Jezdili jsme spolu s Míšou v nějakých pozemních futuristických vlacích. Hodně přestupovali a nevěděli moc kam jedeme. V jeden moment mi málem ujela, ale vyběhla za mnou ven. Z ničeho nic byla ve svatebním a my byli na její svatbě. Její nastávající byl v hloučku lidí u vedlejšího stolu. Chvilku jsem se na to díval a nechápal to. Pak jsem se jí zeptal jestli tomu vztahu dá 100%. Rozbrečela se a řekla, že to ví, že to nedokáže.
 
 To mě probudilo se slzami v očích. Vykoukl jsem ven, ale výhled na východ slunka se naneštěstí nekonal.<br>
-Míša se mi ve zprávě omluvila za smazání dlužníčku a na fotku stanu a ranního slunce v mlze odpověděla, že to bude pískem ze Sahary. Ostatní ještě spali. Šel jsem se trochu projít a pak se pustil do čtení.<br>
+Míša se mi ve zprávě omluvila za smazání dlužníčku a na fotku stanu a ranního slunce v mlze odpověděla, že to bude pískem ze Sahary. Ostatní ještě spali. Šel jsem se trochu projít a pak se pustil do čtení.
+
+<a href="../images/2024_march/30_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/30_1.jpg"></a>
+
 U knihy jsem se zasekl a ostatní mě se snídaní předběhli. Přidal jsem se, uvařil si ovesnou kaši a docela se najedl i když jí byl jen jeden pytlík.<br>
 Přefiltrovali jsme vodu, sklidili stany a byli s to vyrazit. Kdyby Ondra nezdržoval. Ke studánce šel třeba 5x.<br>
 Nakonec jsme vyrazili dál po stezce českem na vrcholy a výhledy do okolí. Na okraji lesů byly zajímavé stromy. Asi buky, ale kroucené jak chobotnice. Divočina to ale nebyla, před námi byla dálnice a hory byly spíš kopce.<br>
 Asi to bylo tím, že Miška napsala, ale byla v mojí hlavě víc než v posledních dvou týdnech. Nepřinášelo mi to psychickou pohodu. To, že jsem byl sám s dvěma páry bylo na hovno. Doslova pátý kolo u vozu.<br>
 Bylo vidět, že jsme kus od Němečtí baťůžkáři proudili proti nám. V našem směru jsme potkávali stejné páry a protože jsem šlápl na něco ostrého, začala mě bolet pata. Stále jsem se ještě nerozhodl, zda jsou barefooty opravdu dobrý nápad na přecházení hor. Ale velké těžké pohory mě serou.<br>
 Kousek před vesnicí s restauracemi jsme potkali pár, který se nás vyptával, kde přespat. Měli psa jménem Korona a tn měl na zádech batoh, stejně jako Kora.<br>
-I přes plán jsme nakonec neobědvali v letadle. Měli drahé pivo. Ne že by vedle bylo levnější, navíc to byl Budvar a já později lamentoval, že mě z něj rozbolela hlava dřív než jsem se ho napil.<br>
+I přes plán jsme nakonec neobědvali v letadle. Měli drahé pivo. Ne že by vedle bylo levnější, navíc to byl Budvar a já později lamentoval, že mě z něj rozbolela hlava dřív než jsem se ho napil.
+
+<a href="../images/2024_march/30_2.jpg" target="_blank"><img src="../images/thumbnails/2024_march/30_2.jpg"></a>
+
 Vege měli sýr a květák. Květák jsem zvolil já, sýr réba. Restaurace se jmenovala Retro a byla plná starých mlýnků na kávu, hudebních nástrojů a psacích strojů. Nám srazili dva stoly venku a já od sluníčka začínal cítit úžeh. Před dvěma týdny jsem se brodil po kolena sněhem. Byl to bizár.<br>
 Květáku jsem se přecpal. Nechápu jak ostatní mohli konzumovat ještě dezerty.<br>
 Kempovat jsme chtěli už jen asi o 3 kilometry dále. U potoku, přes loučku a maličko do lesa.<br>
@@ -367,7 +409,10 @@ Neměl jsem hlad. Ale měl jsem s seboou dost jídla a bylo třeba jíst. Uděla
 
 ### 31.3. Introverted
 
-Dva budvary mi přivodili nejen bolehlav ale i rozbily spaní. Otlačené klíční kosti taky nic moc. Vzbudil nás Jarda lámáním klacků na oheň. Když jsem se vyhrabal ze stanu, ostatní už snídali. Bylo zvláštní, že už podruhé jsem byl poslední vzhůru. Normálně to bývá naopak.<br>
+Dva budvary mi přivodili nejen bolehlav ale i rozbily spaní. Otlačené klíční kosti taky nic moc. Vzbudil nás Jarda lámáním klacků na oheň. Když jsem se vyhrabal ze stanu, ostatní už snídali. Bylo zvláštní, že už podruhé jsem byl poslední vzhůru. Normálně to bývá naopak.
+
+<a href="../images/2024_march/31_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/31_1.jpg"></a>
+
 Dobalili jsme po desáté. Všem nám došla voda. Potkali jsme potok, ze kterého by přefiltrovaná voda byla ok, ale asi kilometr on nás byla vesnice Rájec. Bylo to trochu do kopce a na výhledech se stavil prefabrikovaný tiny house. Vesnička to ale byla krásná. Výhled do kopců, ze kterých trčí pískovcové útvary, domky kouzelné, uměl bych si tam představit chatu.<br>
 U penzionu jsem zamával na pána v okně a on mě zpátky. Domluvili jsme, že nám doplní láhve s vodou. Chutnala železitě. Ale lepší než žádná. Začínalo být horko a tak jsme sundali mikiny a vyrazili do oblasti pískovcových skal. Tempo jsme měli volnější. Dávali jsme pauzičky tu a tam a Jarda se Sárou z nějakého důvodu začali hádat.<br>
 Nechali jsme je jít kus před námi a pokračovali v závěsu po Česko Německé hranici.<br>
@@ -375,11 +420,16 @@ Došli jsme do nějaké lezci okupované oblasti s fancy hotely. Jarda se Sárou
 Poslední před obědem vedl po náhorní plošině. Byly na ní březové háje a němečtí elektrocyklisté.<br>
 Švýcarský dům byl až zbytečně fancy. Ale taky to byla jedina restaurace široko daleko. Vegetariánský měli jen salát a tagliatelle s houbami. I já i Réba jsme zvolili těstoviny a nebyla to nejlepší volba. Já bych je označil za průměrné. Réba je úplně vyhejtovala. Neslané a rozvařené. Kafe prý bylo přepálené. Aspoň, že palačinka jí chutnala.<br>
 Pivo jsem pro tentokrát vynechal i když místní pivo mělo krásné moderní logo.<br>
-Dál nás trasa vedla na výhledy. Měli jsme na výběr vyhlídku na Drážďany nebo do Česka. Byla mlha a ta v česku měla mít obchůdek s pivem, tak jsme šli tam a dali si tam čtecí pauzu.<br>
+Dál nás trasa vedla na výhledy. Měli jsme na výběr vyhlídku na Drážďany nebo do Česka. Byla mlha a ta v česku měla mít obchůdek s pivem, tak jsme šli tam a dali si tam čtecí pauzu.
+
+<a href="../images/2024_march/31_2.jpg" target="_blank"><img src="../images/thumbnails/2024_march/31_2.jpg"></a>
+
 Seděl jsem bokem od ostatních, pozoroval dvě holky, co asi byly spolu. Jarda je označil za nožnice.<br>
 Z výhledů jsme pomalu sestoupili do oblasti, kde jsme plánovali kempovat. Buď u rybníka, nebo u studánky. U rybníka bylo spousta capmervanů a nebylo to tam moc hezké. Přes silnici tam chtěli migrovat žáby, ale někdo tam na ně postavil pasti z kýblů aby je auta nerozjezdila.<br>
 U studánky tedy.<br>
 Tu bylo docela složité najít. Že tam ale je schovaná někde v lese nám potvrdil jelen se srnkou, které Kora vyrazila pronásledovat, ale narozdíl od minulého úprku se strašně rozbila, přeletěla přes hlavu a vzdala to.<br>
 Kemp jsme rozbili kousek nad studánkou, přímo v lese. Jarda připravil ohniště ohraničené mokrým dřevem a my se pustil do poslední večeře.
+
+<a href="../images/2024_march/31_3.jpg" target="_blank"><img src="../images/thumbnails/2024_march/31_3.jpg"></a>
 
 [>> Duben](2024_april.md)
