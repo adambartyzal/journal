@@ -447,13 +447,16 @@ do lidlu<br>
 
 ### 29.4. Zloděj kam se podíváš
 
-teco
+teco<br>
+posílání smsek<br>
+do noci jsem psal třídu pro DNA API
 
 ### 30.4. Po roce Jazz
 
 Hradešínská - Jana Želivského - Novovysočanská. Časově asi nejúspornější cesta do práce.<br>
-Stejně jako před rokem jsem nechal kolo v Campu. Byla tam výstava, na kterou jsem si řekl, že se chci podívat. Další věc, kde jsem byl [naposledy s Miškou](../2024_february/#102-mezi-ploty).<br>
-Na Karlák jsem dorazil první. Posadil jsem se na téměř stejné místo jako před rokem a poslouchal docela dobrou kapelu. Ostatní dorazili nedlouho po mně. Ale první kapelu minuli a ostatní mi přišly slabší. Kato sice byl vylepšený jazzem, ale pořád to byl Kato. A poslední věc byla taková podkresová.
+
+Stejně jako [před rokem](../2023_april/#304-slunce-jazz-a-čáry) jsem nechal kolo v Campu. Byla tam výstava, na kterou jsem si řekl, že se chci podívat. Další věc, kde jsem byl [naposledy s Miškou](../2024_february/#102-mezi-ploty).<br>
+Na Karlák jsem dorazil první. Posadil jsem se na téměř stejné místo jako naposledy a poslouchal docela dobrou kapelu. Ostatní dorazili nedlouho po mně. Ale první kapelu minuli a ostatní mi přišly slabší. Kato sice byl vylepšený jazzem, ale pořád to byl Kato. A poslední věc byla taková podkresová.
 
 <a href="../images/2024_april/30_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/30_1.jpg"></a>
 

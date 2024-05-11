@@ -296,7 +296,7 @@ Když jsem se trochu dal dohromady, udělal jsem si k večeři její oblíbené 
 
 ### 23.3. Mild cough
 
-Rozhodl jsem se pro velkou dobrou snídani. Po osmý jsem vyrazil do Lidlu. Začínal být krásný den. V lidlu jsem koupil bio okurku, bio rajčata chleba a vajíčka od slepiček venku. Ty jsem si doma udělal míchaná, k tomu salát a topinku. Sněd jsem to jako glucose goddes. Miška by to milovala. Měl jsem jí plnou hlavu od toho pohledu. Venku bylo krásně. Byl to ideální den na to něco dělat spolu. Byla určitě jen na opačné straně řeky. Trhalo mi to srdce.<br>
+Rozhodl jsem se pro velkou dobrou snídani. Po osmý jsem vyrazil do Lidlu. Začínal být krásný den. V lidlu jsem koupil bio okurku, bio rajčata chleba a vajíčka od slepiček venku. Ty jsem si doma udělal míchaná, k tomu salát a topinku. Snědl jsem to jako glucose goddes. Miška by to milovala. Měl jsem jí plnou hlavu od toho pohledu. Venku bylo krásně. Byl to ideální den na to něco dělat spolu. Byla určitě jen na opačné straně řeky. Trhalo mi to srdce.<br>
 Možná aby mi vesmír pomohl, poslal na Prahu fujavec a déšť.<br>
 koupit lístky<br>
 na kafe do petrohradský<br>
