@@ -27,7 +27,7 @@
 - [25.4. S docela dobrým pocitem](#254-s-docela-dobrým-pocitem)
 - [26.4. Opět nad mraky](#264-opět-nad-mraky)
 - [27.4. Koláče, sekera a únětice](#274-koláče-sekera-a-únětice)
-- [28.4.](#284)
+- [28.4. Dělení jazyků](#284-dělení-jazyků)
 - [29.4. Zloděj kam se podíváš](#294-zloděj-kam-se-podíváš)
 - [30.4. Po roce Jazz](#304-po-roce-jazz)
 
@@ -432,7 +432,7 @@ kora si sundavá košík<br>
 
 <a href="../images/2024_april/27_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/27_1.jpg"></a>
 
-### 28.4.
+### 28.4. Dělení jazyků
 
 po alkoholu spánek na pytel<br>
 prach<br>
@@ -446,6 +446,9 @@ přesazování kytek
 do lidlu<br>
 
 ### 29.4. Zloděj kam se podíváš
+
+Přes den se ukázal problém v Lahti. Zřejmě už tam byl déle, ale nakupil se na tak moc viditelno, že s tím bylo třeba něco dělat. Na mapě byli zloději. Tedy, kola byla ve stavu *Varování* a to i když je nikdo nekradl. Vyčítal jsem logy a investigoval co s tím. Přes den jsem s tím moc nepohnul. Věnoval jsem se víc TECO. Neměli založený box, bateria ani kola. Neměli vytvořené profily a nic.<br>
+Nabíječku jsme rozchodili. Baterie založili. Ale KITE se nějak neměl k zakládáním kol.<br>
 
 teco<br>
 posílání smsek<br>
