@@ -34,41 +34,25 @@
 ### 1.4. Děčín je super a není to Apríl
 
 Korelace je zřejmě jednoduchá. Piješ pivo, spíš na hovno. Vím to, ale překvapilo mě, jak silný to je i po dvou pivech.<br>
-Tentokrát vstal první Ondra. Rozdělal oheň a všechny tím vzbudil. Se snídaní jsme nechvátali.
-docela dlouhá snídaně<br>
-zpátky na cestu<br>
-sestup z hor
+Tentokrát vstal první Ondra. Rozdělal oheň a všechny tím vzbudil. Se snídaní jsme nechvátali. Co do profilu nás čekal už jen sestup.
 
 <a href="../images/2024_april/1_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/1_1.jpg"></a>
 
-stále měnící se les<br>
-uzavírku jsme obešli<br>
-jarda a dveře<br>
-stan nahoře batohu mnohem lepší<br>
-až na vyhlídku na děčín<br>
-a pak dolů na opačnou stranu než je cikánov. Burgerárna byla otevřená. Výhled na ferratu<br>
-halloumi nebylo ale sójový burger s guacamole a nachos byl ok<br>
-paní byla super a podnik moc fajn i uvnitř<br>
-děčín šel nahoru<br>
-na vlak trochu ve spěchu<br>
-pán debil<br>
-dokonce jsme seděli<br>
-po pivu to utíkalo<br>
-doma jsem toho už moc nezvládl<br>
-rozhodně ne uklízet<br>
+Procházeli jsme lesem, co se měnil co pár metrů. Bylo to pohledný. Tuhle skoro finsko, za rohem zas jižní čechy.<br>
+Uzavírku, kterou nám hrozily mapy jsme obešli. Stan nahoře batohu byl mnohem lepší. Při velkém nahýbání se sice váha stanu projevovala, ale jinak se šlo fakt o moc líp.Došli jsme až na vyhlídku na Děčín. Šla tam na mě [nostalgie](../2022_july/#257-když-jedeš-domů-ale-domov-je-v-plamenech) po cestě z Helsinek. Jardovým dalekohledem jsem si prohlížel Děčín, o kterém jsem měl z minulých návštěv pocit, že je to cikánov. Když jsme ale sešli dolů, strana města za řekou tak zlá nebyla. Hledali jsme nějaký podnik s jídlem a potkali jsme burgerárnu, která byla dle internetu zavřená, ale v realitě byla docela vytížená. Převážně lidmi co lezli po místní ferratě.<br>
+Paní co se nás ujala byla super. Od rány povídavá s odpovědí na všechno. A podnik to byl moc fajn venku i uvnitř. I pro vegetariány tam burgery měli. Halloumi došlo ale sójový burger s guacamole a nachos jo.<br>
+Dali jsme tam několik pivek a na vlak jsme pak popobíhali spěšně. Na perónu nás nasral zaměstnanec drah. Vyvoněný nějakou voňavkou se k nám choval hůř než k děčínským fetkám na nádraží. Ve vlaku za námi naštěstí přišel někdo jiný. Už jsme si totiž všichni připravovali, jak moc ho pošleme do prdele.<br>
+Po pivu cesta utíkala. Doma jsem toho už moc nezvládl, rozhodně ne uklízet.
 
 ### 2.4. Dobré Ráno / Dobrou noc
 
-v práci jsem rozchodil wakeup mode<br>
-vytiskl jsem si šablony v češtině, finštině, španělštině, portugalštině, čínštině a maori<br>
-Asi to byl blbej nápad, ale řekl jsem si že to udělám<br>
-v neděli<br>
+V práci jsem rozchodil WakeUp Mode. Mělo by se to ale jmenovat Sleep Mode. Nebo Low Power Mode. Taky jsem vytiskl jsem si šablony v češtině, finštině, španělštině, portugalštině, čínštině a maori. Asi to byl blbej nápad, ale řekl jsem si že to udělám. V neděli.<br>
 Dostal jsem se na další ČSFD projekci: [Opičí Muž](https://www.csfd.cz/film/1017029-opici-muz). Metrem jsem sjel na Anděl. V Albertu, kde jsem měl skoro strach, že potkám Mišku, jsem si koupil dvě housky se sýrem a jablko a vyrazil na film.<br>
 Byla to kokotina. Prý něco jako John Wick, ale v Indii. Na databázi se drží v červeném hodnocení, ale ode mě dostal odpad. Bylo to plytký, hloupý, zbytečně krvavý a vtipy nebyly moc vtipný. Říkal jsem si, že s lidstvem to jde do prdele.<br>
 Z kina jsem nešel k sobě. Šel jsem nahoru na Švédskou. Podívat se na terén, kam by šly nasprejovat nápisy Dobrý Den/ Dobrou noc.. Došel jsem až nahoru k zámku.<br>
 Byla doma. Svítila si za zataženými závěsy lampičkou u postele. Asi to byla chyba<br>
 Ale nebrečel jsem. Překvapilo mě to.<br>
-Došel jsem zpátky na Anděl a na Nextbiku sjel domů rozhodnutý, že to udělám.
+Došel jsem zpátky na Anděl a na Nextbiku sjel domů rozhodnutý, že to opravdu udělám.
 
 ### 3.4. Opět naslepo
 
@@ -422,7 +406,7 @@ U zavazadel jsme se s Fílou rozloučili a já vyrazil domů. Celou cestu a i po
 
 v 10:20 Sára vyrazila s Jardou na vlak. Náš jel v 11:09. Po půl jsme se tak s Davidem potkali dole u Sáry a vyšli schody nahoru za Korou. Tu chytl psamok, když nás viděla. Sára nám slíbila, že si můžeme dát kus dortu a to jsme taky učinili. David pak přeskládal lednici, aby se tam dort vešel, protože tam původně nebyl i když měl být.<br>
 Koupil jsem lístky pro mě a Koru a všichni 3 jsme vyrazili na nádraží. Pajdající David se ujal Kory. Evidentně měl potřebu jí vychovávat a to i přes jeho alergii na kočky a psy.<br>
-
+Před nádražím jsme potkali divou paní co se ptala, jestli má Kora kupírované uši. Na lavičce mi pak David vysvětloval, jak jeho alergie funguje. Prý nejde o chlupy, ale o protein ve slinách. A protože se kočky olizují víc než psi, je alergický na kočky víc.
 na vlak - divná paní<br>
 kolem synagogy<br>
 s předstihem<br>
@@ -434,7 +418,7 @@ kora si sundavá košík<br>
 
 ### 28.4. Dělení jazyků
 
-po alkoholu spánek na pytel<br>
+Po alkoholu je spánek na pytel. Opět jsem to ověřil tak, že hodinky na mě byly zlé. Byla ale neděle a tak jsem nemusel být nijak zvlášť ready<br>
 prach<br>
 utírání prachu z žaluzií<br>
 mytí prachu<br>
