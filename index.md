@@ -1,4 +1,4 @@
-Převážně cestovní, ale občas i osobní deník sloužící jako má externí hlava a terapie psaním.
+Původně cestovní, ale od roku 2022 i osobní deník sloužící jako má externí hlava a terapie psaním.
 
 ## [2018](2018.md)
 
