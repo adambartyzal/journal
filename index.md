@@ -18,12 +18,12 @@ Dvakrát do Lahti a ke konci roku do Řecka a Itálie. Pátou zemi z mého plán
 
 ## [2022](2022.md)
 
-Rok, kdy mi nabíhal deficit vypadnout někam daleko, protože rok zpátky to Ondra zazdil tím, že se nechal zaměstnat v korporátu. Což vyůstilo v cestu z Helsinek domů na Karmínovém Drakovi.
+Rok, kdy mi nabíhal deficit vypadnout někam daleko, protože rok zpátky to Ondra zazdil tím, že se nechal zaměstnat v korporátu. Což vyústilo v cestu z Helsinek domů na Karmínovém Drakovi.
 
 ## [2023](2023.md)
 
-Rok volby prezidenta, cesty z Francie domů, Albánie, Barcelony a hlavně proplétání mého života s Míšiným
+Rok volby prezidenta, cesty z Francie domů, Albánie, Barcelony a hlavně proplétání mého života s Miščiným
 
 ## [2024](2024.md)
 
-Miška na Zélandu, rozchod, planety do Lahti
+Jaro plné slz
