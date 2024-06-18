@@ -210,16 +210,16 @@ Nakonec jsem došel ke koloseu. Pokud na světě všechny cesty vedou do Říma,
 <a href="../images/2021_november/22_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/22_4.jpg"></a>
 
 Bylo už docela pozdě. K večeři jsem si naplánoval dát si italské rizoto. Chtěl jsem ověřit, zda ho italové udělají lépe než já s Marťou. Kdyby jo, trochu by mi to zlomilo srdce, ale zase potěšilo chuťové buňky. Quid pro Quo. Koukl jsem na hodinky, objevil že jsem ušel 41411 kroků, ale hlad jsem pořád neměl. Vlastně jsem toužil akorát po kávě bez kofeinu a něčem malém a sladkém. Ne až tak daleko od Termini jsem našel podnik, kde jsem si tohle přání splnil. Byla to takový kavárna/hospoda a u vedlejšího stolu skupina italů začínala být v náladě. Já už byl unavený na to navazovat jakoukoliv konverzaci a tak jsem vyrazil na hostel, dát si sprchu a lehnout si.<br>
-V posteli jsem si pustil Casino Roayle. Překvapilo mě, jak je to starý. 2006, pro mě šestá třída. Asi jsem starej. Ale taky nedospělej jak Marťa zmínila. Je to se mnou složitý.<br>
+V posteli jsem si pustil Casino Royale. Překvapilo mě, jak je to starý. 2006, pro mě šestá třída. Asi jsem starej. Ale taky nedospělej jak Marťa zmínila. Je to se mnou složitý.<br>
 Káva možná nebyla tak bez kofeinu jak se mi pingl snažil nakecat. Nemohl jsem usnout a vzbudil jsem se několikrát v noci.
 
 ### 23.11. Domů
 
-Po tom co jsem se zabalil a pozdravil Španěly Hasta Luego, vyrazil jsem směrem kde bydlí Francesca. Sice tam nebyla, ale byl to jeden z jejích tipů. Nevím jestli naštěstí či naopak ale zklamal mě můj orientační smysl. Šel jsem celou dobu o 90° jinam než jsem chtěl a došel do čvtri San Lorenzo. I tu mi ale Francesca doporučila. Po chvíli bloumání jsem našel milý parčík s boudičkou, kde připravovali kávu za doprovodu latinoamerických rytmů.
+Po tom co jsem se zabalil a pozdravil Španěly Hasta Luego, vyrazil jsem směrem kde bydlí Francesca. Sice tam nebyla, ale byl to jeden z jejích tipů. Nevím jestli naštěstí či naopak ale zklamal mě můj orientační smysl. Šel jsem celou dobu o 90° jinam než jsem chtěl a došel do čtvrti San Lorenzo. I tu mi ale Francesca doporučila. Po chvíli bloumání jsem našel milý parčík s boudičkou, kde připravovali kávu za doprovodu latinoamerických rytmů.
 
 <a href="../images/2021_november/23_1.jpg" target="_blank"><img src="../images/thumbnails/2021_november/23_1.jpg"></a>
 
-Na žádost káva a pečivo jsem dostal do tmava propečený corisant s marmeládou a typické italské presso. Malé presso bylo něco, co jsem do té doby ignoroval, a prozřetelnost to zdá se vyřešila za mně.
+Na žádost káva a pečivo jsem dostal do tmava propečený croissant s marmeládou a typické italské presso. Malé presso bylo něco, co jsem do té doby ignoroval, a prozřetelnost to zdá se vyřešila za mně.
 
 <a href="../images/2021_november/23_2.jpg" target="_blank"><img src="../images/thumbnails/2021_november/23_2.jpg"></a>
 
