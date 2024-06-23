@@ -19,6 +19,10 @@
 - [17.6. Bez zubu do Vykáně a ještě dál](#176-bez-zubu-do-vykáně-a-ještě-dál)
 - [18.6. Pořád úplně v píči](#186-pořád-úplně-v-píči)
 - [19.6. Biopředpověď na trojce](#196-biopředpověď-na-trojce)
+- [20.6. Opět do noci](#206-opět-do-noci)
+- [21.6. Zánět?](#216-zánět)
+- [22.6. Vzet s Veronikou](#226-vzet-s-veronikou)
+- [23.6. Dát, ne brát](#236-dát-ne-brát)
 
 ### 1.6. Změnit se budu muset já
 
@@ -284,20 +288,39 @@ Bolest zubu značně pominula. Ráno jsem se stavil pro něco s snědku do Alber
 Věnoval jsem se reklamaci z Jaworzna a pomáhal klukům s nějakými drobnostmi. Fílovi jsem nakreslil lambdu místo freebike loga na předním světle. Ríšovi jsem rozchodil jeho kolo a zaregistroval jsem mu svojí starou easy kartu z Taiwanu.\
 Celý den jsem byl nějaký nervózní. Možná to bylo trochu počasím. Byla vyhlášená výstraha na příliš velké vedro. Ale spíš to bylo tím, že se blížila salsa s Editou.\
 Už dlouhou dobu se ve mě vařila myšlenka, že deník mi bere strašně moc času.\
-za editou\
-spolu tramvají\
-kamarádka\
-lekce\
-šlo mi to špatně\
-s editou hůř než s miškou\
-a hlavně jsem u toho viděl v hlavě jí\
-odjížděl jsem v slzách\
-magda\
-s marťou na lavičku\
+Po práci jsem zajel za Editou, vyzvednul jsem jí přede dveřmi a spolu jsme na výstaviště jeli tramvají. U gauče se k nám přidala její kamarádka. Prý tančila závodně. Když jsem jí pak viděl tančit se svůdným italem, musel jsem uznat, že u toho oba vypadali sexy a dobře. A to se mi moc nelíbila.\
+Lekce byla stejná jako minule. A musím říct, že mi to hodně nešlo. Ale bylo to docela zábavný. Jenže s Editou jsme si v předávání signáů rozuměli nějak míň než s Miškou. I tehdá jsem hodně pokulhával, ale tehdá mě to bavilo. Tentokrát jsem u toho sice viděl Editu a oba jsme se párkrát zasmáli, ale v hlavně se mi promítaly vzpomínky. A to bolelo. Víc a víc. Někdy v devět jsem to zabalil a nechal holky najít si někoho, kdo to umí víc.\
+Sedl jsem na rekolo a doolil jsem emocím jít na povrch. Brečel jsem jak děcko. A bylo mi jasný, že jsem pořád úplně v píči. Hezkej termín 🤦‍♂️.. ale popisoval realitu.\
+Napsal jsem Marťě, jak moc je to na mě vidět. Jak moc je jasný, že jsem se přes Mišku nedostal a jsem pořád zaseklej. Prej dost. Nabídla mi, že mám přijet k ní, že mě obejme. Cestou jsem potkal Magdu, telefonovala kousek od jejich domu, ale protože byla uprostřed hovoru a já rozbitej, nepokecali jsme.\
+Zato s Marťou jsme si šli sednout na lavičku, kde jsme si povídali. Mám štěstí, že jí ve svým životě mám.
 
 ### 19.6. Biopředpověď na trojce
 
-pošta neposlala zpátky balík, ale nějakou debilní kartu\
-pomáhání omarovi\
-Až do devíti jsem byl v práci a programoval jsem si wb. Procházel jsem hal, rozchodil jsem tlačítka, diody a velmi lehké usart traces\
+Ráno jsem se zastavil na poště. Neposlali mi zpátky balík, jak jsem se obával, ale nějakou debilní kartu. Takže paní Kantová mohla ochutnat decaf. Měl jsem radost. Poštu jsem teda neměl o nic víc rád, trvalo to tam roky, ale měl jsem radost.\
+V práci jsem pomáhal Omarovi nějakou automatizací. Zakládal jsem zpětně HPlockIII a tiskl na ně štítky. Zakládal je přes API v reklamaci a ušetřil tak několik hodin práce.\
+Až do devíti jsem byl v práci a programoval jsem si STM32WB. Procházel jsem HAL, rozchodil jsem tlačítka, diody a velmi lehké usart traces. Taky jsem spustil alarm, protože jsem nenahlásil, že tam budu tak dlouho.\
 
+### 20.6. Opět do noci 
+
+Tentokrát jsem dal vědět, že práci zkejsnu dýl, A opravdu tam byl zas do devíti. Večer se ale dobře jezdí. Už je chladno a člověk si tak letí příjemnou, nezasekanou Prahou. 
+
+### 21.6. Zánět?
+
+Vláďa nebyl ráno v práci. A když někdy po desáté dorazil, bylo jasný, že kalil celou noc. Prý to bylo proto, že se mu vrátil známý z New Yorku a ten měl otočený hodiny. Vagon už prý ale není co býval.\
+Nakonec to zabalil a šel domů, protože nebyl moc produktivní.\
+Nevím jak moc produktiní jsem byl já. Připajoval jsem kondenzátory k ebmc se spínaným zdrojem. Už jich moc nezbývalo tak jsme to udělali in-house.\
+Když jsem jazykem přejel po díře po zubu, bylo cítit, že z ní něco vytéká. A to něco nevonělo moc dobře. Ale nebolelo to. Pořád jsem měl pocit, že se to hojí dobře. Ale smradlavou tekutinu v puse nechceš. Cestou z práce jsem se stavil v lékárně a koupil si ústní vodu s chlordexidinem. Jsem fanda toho produktu. Už několikrát mi s nějakým bolením zubů a dásní pomohl. A internet ho přesně na tuhle situaci doporučoval.\
+Doma jsem dál koukal do Zigbee. Nikam jsem se neposouval. Snažil jsem se použít gdb atribut aby mi uložil strutkury definované v hlavičkách HALu do sekcí v SRAM. Ne moc úspěšně. Vlastně si to asi budu muset vyzkoušet ve svým kódu s nějakou svojí strukturou a pak jí zkusím vyčíst, zda je tam, kde to očekávám.
+
+### 22.6. Vzet s Veronikou
+
+bazén, cvičítka, láhev Marťě. 
+Pořádala sraz s kamarády a říkala, že se můžu přidat. Opravdu mě to zahřálo u srdce. Marťa je dobrý kamarád. Možná nejlepší jakého mám. Poslední dobou určitě. Ale chtěl jsem se posunout z místa se zigbee. Ne že by se mi to povedlo. Trochu jsem shodil myšlenku napsat si vlastní struktury a dávat je do paměti a zkusil jsem pročítat API k ZSDK. Ale nic moc mi to nedávalo. O tom jak ho rozchodit na mé desce tam nebyla ani zmínka.\
+V šest jsem se měl sejít ve Vzletu s Veronikou. Jednou z mála holek, co z potenciálních háčků působila fajn. Akorát jela v daný termín do Lublaně. Byl jsem nervózní a hodně jsem povídal o práci. Ale bylo to fajn. Stejně ale randit neumím. A nepřijde mi, že bych dělal jakýkoliv pokroky.
+
+### 23.6. Dát, ne brát
+
+Dál jsem koukal do kódu. Trochu ve mně začala klíčit myšlenka, opustit zigbee a přejít na thread. Staví na stejném IEEE 802.15.4, ale je novější a dá se na něm postavit matter. Ne že bych byl jakkoliv blízko takovým věcem. Ale lepší se naučit něco co má buoucnost ne?\
+Poslouchal jsem DOAC podcast a host tam mluvil o přátelství. A o jeho přístupu v ostatním lidem, který vědomě změnil. Jakoukoliv mezilidskou situaci se snaží otočit z toho, že bere, do toho že dává. Že je rozdíl, když člověk například jde do rozhovoru s agednou prodat sebe, nebo s tím dát vysvětlení. A mluvil o tom, že lidi to vycítí. Rozhodně měl pravdu. Takovej Marek, vždycky mluvil o sobě, o tom jak na věcech vydělat. Už z principu mi to bylo nesympatický. Miška dělá věci pro druhé a proto jsem se do ní tak bláznivě zamiloval.\
+Rozhodl jsem se, že si [ten rozhovor](https://youtu.be/I3WUiD8HYn8?si=OC1WhQF40dzfQZcF) poslechnu vícekrát. A že to zkusím implementovat.\
+Napadlo mě, že rád jezdím na kole. Pomalu. Ne jako skuteční cyklisté. Možná bych mohl uspořádat nějaký pomalý vyjíždky. Tohle se mi honilo hlavou, když jsem jel po Plzeňský nahoru do ikey. Chtěl jsem totiž do decathlonu pro gumu na posilování. Začínal jsem chtít udělat muscle-up. Když se o to pokoušel Míla, přišlo mi to jako kokotina. Ale hledě na to jako věc zdraví, zas taková blbost to není. Umět se přitáhnout a vyhoupnout někam výš je něco, co zní zdravě a může člověka někdy zachránit.
