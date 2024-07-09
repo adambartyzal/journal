@@ -21,8 +21,15 @@
 - [19.6. Biopředpověď na trojce](#196-biopředpověď-na-trojce)
 - [20.6. Opět do noci](#206-opět-do-noci)
 - [21.6. Zánět?](#216-zánět)
-- [22.6. Vzet s Veronikou](#226-vzet-s-veronikou)
+- [22.6. Vzlet s Veronikou](#226-vzlet-s-veronikou)
 - [23.6. Dát, ne brát](#236-dát-ne-brát)
+- [24.6. Po kofeinu neklidný](#246-po-kofeinu-neklidný)
+- [25.6. Martin to bude mít těžký](#256-martin-to-bude-mít-těžký)
+- [26.6. Klasikou k depresi](#266-klasikou-k-depresi)
+- [27.6. Level 1 nebude jen tak](#276-level-1-nebude-jen-tak)
+- [28.6.](#286)
+- [29.6. Štěrk došel](#296-štěrk-došel)
+- [30.6. Má se dobře a já to zvládnu taky](#306-má-se-dobře-a-já-to-zvládnu-taky)
 
 ### 1.6. Změnit se budu muset já
 
@@ -312,7 +319,7 @@ Nevím jak moc produktiní jsem byl já. Připajoval jsem kondenzátory k ebmc s
 Když jsem jazykem přejel po díře po zubu, bylo cítit, že z ní něco vytéká. A to něco nevonělo moc dobře. Ale nebolelo to. Pořád jsem měl pocit, že se to hojí dobře. Ale smradlavou tekutinu v puse nechceš. Cestou z práce jsem se stavil v lékárně a koupil si ústní vodu s chlordexidinem. Jsem fanda toho produktu. Už několikrát mi s nějakým bolením zubů a dásní pomohl. A internet ho přesně na tuhle situaci doporučoval.\
 Doma jsem dál koukal do Zigbee. Nikam jsem se neposouval. Snažil jsem se použít gdb atribut aby mi uložil strutkury definované v hlavičkách HALu do sekcí v SRAM. Ne moc úspěšně. Vlastně si to asi budu muset vyzkoušet ve svým kódu s nějakou svojí strukturou a pak jí zkusím vyčíst, zda je tam, kde to očekávám.
 
-### 22.6. Vzet s Veronikou
+### 22.6. Vzlet s Veronikou
 
 bazén, cvičítka, láhev Marťě. 
 Pořádala sraz s kamarády a říkala, že se můžu přidat. Opravdu mě to zahřálo u srdce. Marťa je dobrý kamarád. Možná nejlepší jakého mám. Poslední dobou určitě. Ale chtěl jsem se posunout z místa se zigbee. Ne že by se mi to povedlo. Trochu jsem shodil myšlenku napsat si vlastní struktury a dávat je do paměti a zkusil jsem pročítat API k ZSDK. Ale nic moc mi to nedávalo. O tom jak ho rozchodit na mé desce tam nebyla ani zmínka.\
@@ -324,3 +331,74 @@ Dál jsem koukal do kódu. Trochu ve mně začala klíčit myšlenka, opustit zi
 Poslouchal jsem DOAC podcast a host tam mluvil o přátelství. A o jeho přístupu v ostatním lidem, který vědomě změnil. Jakoukoliv mezilidskou situaci se snaží otočit z toho, že bere, do toho že dává. Že je rozdíl, když člověk například jde do rozhovoru s agednou prodat sebe, nebo s tím dát vysvětlení. A mluvil o tom, že lidi to vycítí. Rozhodně měl pravdu. Takovej Marek, vždycky mluvil o sobě, o tom jak na věcech vydělat. Už z principu mi to bylo nesympatický. Miška dělá věci pro druhé a proto jsem se do ní tak bláznivě zamiloval.\
 Rozhodl jsem se, že si [ten rozhovor](https://youtu.be/I3WUiD8HYn8?si=OC1WhQF40dzfQZcF) poslechnu vícekrát. A že to zkusím implementovat.\
 Napadlo mě, že rád jezdím na kole. Pomalu. Ne jako skuteční cyklisté. Možná bych mohl uspořádat nějaký pomalý vyjíždky. Tohle se mi honilo hlavou, když jsem jel po Plzeňský nahoru do ikey. Chtěl jsem totiž do decathlonu pro gumu na posilování. Začínal jsem chtít udělat muscle-up. Když se o to pokoušel Míla, přišlo mi to jako kokotina. Ale hledě na to jako věc zdraví, zas taková blbost to není. Umět se přitáhnout a vyhoupnout někam výš je něco, co zní zdravě a může člověka někdy zachránit.
+
+### 24.6. Po kofeinu neklidný
+
+do radegastovny\
+překvapil jsem vláďu digitálním testováním\
+s vláďou o jeho labdách, jak fungují v c++\
+za vojtou\
+lidi začínají řešit vodu, vlakem? bullshit\
+s vojtou povídání na hodinu\
+zkusit thread, pro cubeide není dongle, ale coap app je\
+výsledek je vlastně stejnej, stejný struktury, budu muset víc pochopit semafor a ipcc\
+po kofeinu trochu najetej ještě v devět\
+jít na hřiště\
+Až do jedenácti koukat do stm bez valného posunu. Pochopit sequencer, pochopit rtos?
+
+### 25.6. Martin to bude mít těžký
+
+Šest hodin spánku, burákový máslo a čokoláda, kilometr dvacet v Slavii a 10 kilometrů do práce. Lidi zlenivěli. A zeslábli. To že se vedeme delší životy je iluze. Přežíváme dýl, žijeme ale hůř.\
+
+### 26.6. Klasikou k depresi
+
+Koncert na Hradčanském náměstí. Rok zpátky jsem na něj nešel a litoval jsem toho. Trochu kvůli tomu koncertu. Hodně kvůli tomu, že můj přívěšek tam byl beze mě. Den po návratu z Francie. Měl jsem jet rovnou za ní.\
+Byl od osmi. Po práci jsem tak měl čas na kilometr a půl v bazénu. Vybral jsem ten na výstavišti. Bylo to tam modernější než pamatuju. A to už tehdá nebyl tak historický jak slávie.\
+Po plavání jsem koupil sýr a housky v Lidlu v Káráku a na Hradčanské náměstí dojel na minutu přesně ve čtvrt na 9. Napsal jsem to do výletníků a přemýšlel, zda tam Miška je. Chvíli jsem i chodil a koukal, zda neuvidím někoho koho znám, ale nikdo mi povědomý nepřišel. Posadil jsem se na vyhřátou dlažbu mezi ostatní a zaposlouchal se do Dvořáka prokládaného Ebenovými vtípky. Ondra s Rébou asi po půlhodině přišli.\
+Mým periferním viděním jsem na Rebeky mobilu zahlédl, že jí psala Miška. Chtěl jsem aby byli kamarádky, ale vzalo mě to. Réba ví jak se Miška má. A já vím kulový. Nevěděl jsem ani, jestli se odstěhovala z Hřebenky, byť to jem cestou domu potvrdil, protože její okno bylo bez závěsu a tmavé.\
+Koncert to byl fajn. A po něm jsme si šli sednout ke Strahovskému klášteru s nepivy. Prý po desáté alkohol v Praze už neprodávají.\
+Cítil jsem se prázdnej. Marťa měla pravdu. Už půl roku jsem nebyl štastnej. O narozeninách trochu. Ale co je jeden den proti tolika dním.\
+Cestou domů mi to vířilo v hlavě.
+
+### 27.6. Level 1 nebude jen tak
+
+Kdysi bych řekl, že jednostranná láska neexistuje. Že to je obscese. Možná že je. Ale být zamilovaný, do někoho, kdo nemiluje nazpátek jde. A bolí to.
+
+### 28.6.
+
+doma kvůli plynařům
+
+### 29.6. Štěrk došel
+
+V sedm do Albertu
+Pak pro granule a drona
+V bytě bordel, hezký nákres zahrady
+Na vlak, už tam byl
+Přejít na šestou Severní
+Dětský oddíl, s holkou co měla vyžehlenou vestu, jogurt s quinoou a smoothie z ugo, iPhone pro a tunu makeupu. Jinak mohla být hezká
+Ondra běžel v dáli
+Se štěnětem jezevčíka
+Furt mě štvalo že Réba o Misče ví
+Povídal jsem o plynařích
+Přestup, špatně zmáčknuté tlačítko, pes nejde, tichý klakson auta s Jardou a Sárou
+Pěšky s Ondrou, objetí a rovnou do práce. Holky vnitřek Tiny housu. My kopat terasu. Pak rozbíjet cihly. A vozit Hrubý štěrk. Sousedka přinesla buchtu
+Réba mě urazila. Prý rozbíjet kamenní kladivem je jediná terapie Jezerkou kterou uznávám
+Jenže já vážně uvažoval nad skutečnou
+Když štěrk definitivně došel šel jsem ji to říct. Zprvu jsem se k tomu neměl, ale pak jsme začali debatu. A já jí řekl že se mě to dotklo a že mě trápí že nevím jak se Miška má. Řekla mi že se má hodně dobře. 
+A pak jsem odpovídal na těžký otázky a povídal jak se z toho dostávám. Jak mi to jde pomalu. Jak moc mi ji mozek nabízí ve všech situacích. 
+Uklidím věci od ní a dám je do úschovy. Nevyhodím je. Jsou součástí mého vývoje.
+Ale to že se má dobře mi pomohlo. V průběhu večera se ve mě rozlilo teplo i úsměv. Má se dobře. Ať už jí činí šťastnou kdokoliv či cokoliv, ta část mě, která asi doufala, že se má na houby a chtěla by to spravit se mnou pomalu umírala. Aspoň ten večer. Byl jsem za ní šťastný když jsem usínal. V půl jedný. Po večeři na grilu. Sýrech coleslaw, tofu a zelenině. A hlavně po omytí se ledovou vodou z kýble, protože čerpadlo Ondra sprchováním uvařil.
+
+### 30.6. Má se dobře a já to zvládnu taky
+
+V šest
+Hodinky nespoko
+Postroj
+S korou na vidlák
+Pán
+Zpátky
+Réba vstává
+Ostatní
+Začíná být horko
+
+[>> Červenec](2024_july.md)
