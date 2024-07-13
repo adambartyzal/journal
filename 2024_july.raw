@@ -9,6 +9,10 @@
 - [7.7. Znojmo na Cole](#77-znojmo-na-cole)
 - [8.7. Hop, před doskočením](#87-hop-před-doskočením)
 - [9.7. Místo zvracení průjem](#97-místo-zvracení-průjem)
+- [10.7. Nepoužitá tabule](#107-nepoužitá-tabule)
+- [11.7. Remote ale stejně v práci](#117-remote-ale-stejně-v-práci)
+- [12.7. Nečekaně bez zubů](#127-nečekaně-bez-zubů)
+- [13.7. S nateklým obličejem](#137-s-nateklým-obličejem)
 
 ### 1.7. Psát či nepsat backend, to je oč tu běží
 
@@ -131,4 +135,39 @@ Buď to byl právě ten kasein, nebo čočkové těstoviny s fazolemi, co mě po
 ### 9.7. Místo zvracení průjem
 
 Na deník jsem nesáhl od [23.6.](../2024_june/#236-dát-ne-brát). Protože na mě ale přišel regulérní průjem, jet do Vysočan bylo nemožný a prokládání práce psaním tak bylo vlastně příhodný.\
-Zastavil jsem se v lékárně pro uhlí. Bavil jsem se tam s magistriní o rozdílu smekty a uhlí a stejně jako já se klonila k uhlí.  
+Zastavil jsem se v lékárně pro uhlí. Bavil jsem se tam s magistriní o rozdílu smekty a uhlí a stejně jako já se klonila k uhlí.
+
+### 10.7. Nepoužitá tabule
+
+Cestou do práce jsem se zastavil u cvičítek, dal tomu tak půl hodiny, vyplinil trochu duolinga a do práce dojel na osmou. Osprchoval jsem se v naší pracovní sprše, kde naneštěstí neteče moc studená, ale bylo to lepší, než být ulepený. Řekl jsem si, že si musím připravit do skříňky pracovní oblečení, abych se po osprchování nepřevlékal do stejného trička.\
+S Vláďou jsme pověsili ve vývoji tabuli. Dočasně na regály. Teda pustil se do toho on. Ale moc to nezvládl. Nalihoval houbu a tabuli spíš umazal než vyčistil. A pověsil jí na výšku jen na jeden šroub, takže se houpala a nebyla vyvážená. Moje háčky a pověšení na šířku bylo mnohem lepší. A povrch jsem vydrhl lihem a ubrousky.\
+Stejně to bylo k ničemu. Rokovali jsme od desíti, kdy přijel Ludva ze zkoušky a Jirka z Hradce. Jirka totiž poznámky zapisoval rovnou do issue. Probrali jsme toho hodně. Ludva chtěl hodně řešit frontend, Vláďa hodně backend. Sešli jsme se kvůli backendu. Ale ono je těžký říct, kde jedno končí a druhý začíná. Teda.. ten předěl je jasnej. Ale jedno bez druhýho nedává smysl.\
+Schůzovali jsme i na obědě v AFI tower a potom, dokud jirka nemusel odjet. Po meetingu jsem se věnoval NFCU.\
+Když jsem odjížděl, venku byla písečná bouře. Kdybych neměl brýle, neviděl bych nic. Dle mapy někde na opačné straně Prahy byla bouře opravdická, ale ve Vysočanech prostě jen poletovala oblaka bordelu ze země.\
+Přes Karlín a tunelem nahoru jsem jel plavat na Olšanku. Otevřeli jí po letní revizalizaci. Což znamenalo novou podlahu v šatně, kde do té doby byla podlaha úplně v poho. Nefunkční sprchy a ale nadále nepouštěly vodu a povrch bazénu se odlupoval víc než předtím. Co už.\
+
+### 11.7. Remote ale stejně v práci
+
+Před meetingem v půl jedné jsem se rozhodl, že zmerguju větev, kde simuluju nfc čtecí čip a větev s protokolem. To mi zabralo docela dost času a výsledek byl takový, že na tom bude ještě randál práce. Ale když jsme s Vláďou vyráželi na oběd do Vietnamky.\
+Online meeting jsme nakonec měli na Vláďově laptopu. Řešili jsme hodně profil kola. Profil zůstane. Nastavení a číselníky vyplynou z toho, jak budeme psát backend.\ 
+Když jsme s DJ uzavřeli vývoj a rozhodli se vyrazit, zjistili jsme, že venku prší. Nad Prahou se dle radaru z ničeho nic zformoval mrak. Predikce ale říkala, že dvanáct minut přejde. Tak jsem to přečkal. DJ vyrazil trochu dřív a tak trochu víc zmokl.\
+Před domem jsem si uvědomil, že mám chuť na bramborové knedlíky se zelím. V lednici byly noky. To bylo podobný. Ale zelí jsem neměl. Zastavil jsem se proto v Lidlu. Noky byly naneštěstí říznutý bazalkou což se do zelno-uzeno-tofuové chutě moc nehodilo, ale řekl jsem si, že se chutě časem smísí a co jsem nepovečeřel jsem dal do krabiček na další dny.\
+To jsem ještě nevěděl, co přijde ráno.
+
+### 12.7. Nečekaně bez zubů
+
+Večer jsem si řeklm že ráno půjdu běhat. A opravdu jsem šel. Sic jen jeden výběh ke Groebově vile, ale lepší než nic.\
+Když jsem pak po sprše ještě chvíli odpočíval v posteli, zavolala mi holčina s extrémně příjemným hlasem. Už jsem ho předtím slyšel, ale chvíli mi trvalo asociovat si ho s někým konkrétním. Kdo je a proč mi volá totiž řekla tak rychle, že to můj mozek úplně minulo. Zubnímu chirurgovi se uvolnilo místo. Dneska. V deset. Chvilku jsem to vážil a pak odsouhlasil. Vlastně jsem pár dní zpátky přemýšlel nad tím, že jim zavolám. Zuby mě pobolívaly, podle mě určitě kvůli horní osmičce a takhle jsem to za sebou mohl mít o skoro tři měsíce dřív.\
+Plán jít plavat tak padnul. Pomáhat o víkendu Jardovi s terasou taky. Cestou jsem si aspoň zacvičil.\
+V práci jsem se pustil do snahy o pochopení toho, co už Vláďa napsal. Nebo spíš vygeneroval. Vláďa Go nepíše. Píše pythonový překladač OpenAPI YAML specifikace do Go Pythonovým udělátkem a Jinjou.\
+Ale Go k tomu je třeba chápat a tak jsem se pustil do čtení Effective Go. Je to zvláštní jazyk.\
+Na desátou jsem dojel k Zubařům u Pivovaru. Holka s příjemným hlasem měla taky příjemný úsměv. Vůbec.. byla to jedna z těch holek, do kterých se člověk zamiluje a má proč. Uměla to s lidmi. Uměla to s dětmi, které se tam točily. Dělala svojí práci extrémně dobře. Jen to umělý obočí..\
+Zubař byl taky extrémně milej. Ale popis toho, co plánoval dělat mi přišel docela děsivej. A oprávněně. Prý patnáct minut. Bylo to jedno z nejnepříjemnějších třiceti minut mýho života. Řezal hodně. Páčil ještě víc. Vlastně jsem si myslel, že mi vylomí se sestřičkou čelist a z bolesti na opačný straně, než řezali jsem málem chcípnul. Naštěstí mi pak dal kousátko a ta síla se rozložila jinak. Ale musel mi dát asi 5 dávek umrtvovadla. Prostě jsem to v tom nervu pořád cítil. Horní vytrhl jen tam mimochodem, když mi dával čas oddechnout si od páčení spodního. A to byl asi tak stejně velkej, jako [ten co mi trhala paní Benešová](../2024_june/#176-bez-zubu-do-vykáně-a-ještě-dál).\
+Když bylo dílo dokonané, dal mi zub do rukavice, předepsal mi antibiotika, aulin a poslal mě zatáhnout dva a půl tisíc za kolagenovou výplň. Proč ve Vršovicích stála sedm kil a ve Vysočanech takovouhle pálku mi bylo tajemstvím, ale byla to poslední osmička, kterou mi kdy v životě trhali. Bylo mi to jedno. Vlastně jsem z toho měl dobrej pocit. Měli to tam pěkný. Byli profesionální a milí. A já to měl za sebou. Pro Aulin jsem sjel rovnou. Cítil jsem, že bez drog to bude krize. Taky jsem si v Bille koupil dva pytlíky hřášků a začal ledovat.\
+Zbytek dne jsem pročítal Effective Go a měl dotazy na Vláďu.\
+Domu jsem nakonec dojel na kole, což jsem většinu dne zavrhoval. Ale déšť na chvíli ustal a bylo vlastně příjemně. Jel jsem jak šnek a dojel v pohodě.\
+Vlastně jsem na mě začínaly přicházet pocity radosti jako už dlouho ne. Měl jsem to udělat dřív, ale lepší pozdě než-li později. Cítil jsem se trochu dospěleji. Možná to bylo trochu Aulinem. A možná že 152 dní od rozchodu je moment, kdy už to přestává být tak hrozný.
+
+### 13.7. S nateklým obličejem
+
+Klid doma. Víc bych toho nezvládl. Obličej mi otekl jako prase. Ale nebolel tak moc jak jsem se obával. Asi to udělal fakt dobře. I jíst jsem zvládal. Došel jsem si do Lidlu pro vajíčka, chleba, nějakou měkkou zeleninu.\
