@@ -13,6 +13,13 @@
 - [11.7. Remote ale stejně v práci](#117-remote-ale-stejně-v-práci)
 - [12.7. Nečekaně bez zubů](#127-nečekaně-bez-zubů)
 - [13.7. S nateklým obličejem](#137-s-nateklým-obličejem)
+- [14.7. Dotáhnout to do konce](#147-dotáhnout-to-do-konce)
+- [15.7. Zařadit balanc](#157-zařadit-balanc)
+- [16.7. Přejít na esp?](#167-přejít-na-esp)
+- [17.7. Hubnu.. asi](#177-hubnu-asi)
+- [18.7.](#187)
+- [19.7. Kontroly, nostalgie a náhody](#197-kontroly-nostalgie-a-náhody)
+- [20.7.](#207)
 
 ### 1.7. Psát či nepsat backend, to je oč tu běží
 
@@ -156,7 +163,10 @@ To jsem ještě nevěděl, co přijde ráno.
 
 ### 12.7. Nečekaně bez zubů
 
-Večer jsem si řeklm že ráno půjdu běhat. A opravdu jsem šel. Sic jen jeden výběh ke Groebově vile, ale lepší než nic.\
+Večer jsem si řeklm že ráno půjdu běhat. A opravdu jsem šel. Sic jen jeden výběh ke Groebově vile, ale lepší než nic.
+
+![image](12_1.jpg)
+
 Když jsem pak po sprše ještě chvíli odpočíval v posteli, zavolala mi holčina s extrémně příjemným hlasem. Už jsem ho předtím slyšel, ale chvíli mi trvalo asociovat si ho s někým konkrétním. Kdo je a proč mi volá totiž řekla tak rychle, že to můj mozek úplně minulo. Zubnímu chirurgovi se uvolnilo místo. Dneska. V deset. Chvilku jsem to vážil a pak odsouhlasil. Vlastně jsem pár dní zpátky přemýšlel nad tím, že jim zavolám. Zuby mě pobolívaly, podle mě určitě kvůli horní osmičce a takhle jsem to za sebou mohl mít o skoro tři měsíce dřív.\
 Plán jít plavat tak padnul. Pomáhat o víkendu Jardovi s terasou taky. Cestou jsem si aspoň zacvičil.\
 V práci jsem se pustil do snahy o pochopení toho, co už Vláďa napsal. Nebo spíš vygeneroval. Vláďa Go nepíše. Píše pythonový překladač OpenAPI YAML specifikace do Go Pythonovým udělátkem a Jinjou.\
@@ -171,3 +181,93 @@ Vlastně jsem na mě začínaly přicházet pocity radosti jako už dlouho ne. M
 ### 13.7. S nateklým obličejem
 
 Klid doma. Víc bych toho nezvládl. Obličej mi otekl jako prase. Ale nebolel tak moc jak jsem se obával. Asi to udělal fakt dobře. I jíst jsem zvládal. Došel jsem si do Lidlu pro vajíčka, chleba, nějakou měkkou zeleninu.\
+
+### 14.7. Dotáhnout to do konce
+
+Zuby až tak nebolely. Rozhodl jsem se den začít pořádnou snídaní. Snídaní, kterou by pochválila i Glucose Goddess. Volská oka, zelenina, edamame, a chleba s bazalkovým pestem. Nakonec jsem si dal předepsané prášky, ale plánoval jsem, že to byla poslední dávka.
+
+![image](14_1.jpg)
+
+TODO říkalo, že bych se měl podívat na Vojtovy soubory. Měl jsem to naplánované na jedenáctou a do té zbývalo ještě dost času a tak jsem se vrhl do čtení. A pak jsem si psal s Restbenkou. Bůh ví jak se ve skutečnosti jmenuje. Nejspíš mě opravdu netahala za nos, jak jsem se chvíli obával. Kdyby se mi opravdu povedlo, co jsem plánoval, byla by to dobrá záplata na moje pošramocený ego.\
+Vojtovy soubory byly bordel. Zabralo mi to několik hodin a nevím, jestli jsem se kamkoliv posunul. Jen jsem zmírnil chaos. Což vlastně je krok dopředu.\
+K obědu jsem dojedl noky se zelím. Šly kousat bez bolesti. Hodně jsem se snažil, aby mi nic nevlezlo do děr po zubech jako naposledy. Nějaký blbý semínko hnilo v dásni a smrdělo. Tentokrát ale byly díry zacelené strupem lépe. Možná kvůli kolagenu a šití. Možná taky kvůli tomu, že po trhání jsem nekousal gázu, ale nechal jí krvácet. Měl jsem z toho dobrej pocit. Koukal jsem na Dark Matter a ledoval hráškem.\
+A pak jsem se přesunul do Grébovky číst a duolingovat. V knížce o zvycích psali několik rad, které jsem chtěl implementovat.
+
+- Sepsat a ohodnotit si své zvyky
+- Napsat si *implementation intention* - v podstatě algoritmizace. Budu dělat *tohle tehdy tady*.
+- *Habit stacking* - když jeden zvyk skončí, navázat na něj dalším
+- Předělat okolí tak, aby cues k těm dobrým byly na očích a ty k těm špatným schované.
+
+### 15.7. Zařadit balanc
+
+Ivan mě požádal, zda bych nezapojil spínače na tiskové farmě. Vlastně mě o to požádal už před odjezdem na dovolenou. A já to úplně vytěsnil. Pustil jsem se do toho. Vybral dvojlinku. Měřil, stříhal, protahoval, pájel, krimpoval a po skoro osmi hodinách byl s výsledkem spokojený. Nebyl to úplně cable porn. Ale řekl jsem si, že to udělám pořádně a udělal to tak. Rozhodně líp, než to bylo v Karlíně.\
+Někdy v polovině onoho kabelování jsme vyrazili pěšky do Vietnamky s Ivanem a Vláďou. Bylo fakt horko. Ivan vykládal o dovolené v chorvatsku. Vláďa o tom, že dům jeho rodičů je skoro pasivní a že některé věci jsou mrtě chytré. Třeba, že v létě do spodních pater nesvítí, protože slunko je vysoko a tak balkon v patře stíní oknům. Zatímco v zimě je slunko nízko a tak dolů svítí. A že podlaha je tam černá, takže zimní slunko jí ohřeje a nemusí se skoro topit. Asi je fajn, když máš rodiče, co o věcech přemýšlí a pak je budují. Ale nemůžeš mít všechno.\
+S udonem jsem zdržoval. Kousal jsem jen nalevo a trochu to bolelo. Ale zvládl jsem to.\
+Po práci jsem se zastavil na Konopišťské a dal tomu asi 3/4 hodiny. Povídal jsem si tam s holkou, která cvičila balanční cviky na kolena. Měla je vyhazovací jako já, možná víc a jedno jí operovali. Byla docela milá. Po chvíli jsme si tykali. Vlastně jsem jí začal tykat rovnou, když o tom přemýšlím. Sluchátka jsou zabiják sociílní interakce na workoutových hřištích. Měl jsem radost, že jsem to rozbil a povídal jsem si tam s někým.
+
+### 16.7. Přejít na esp?
+
+Aileen mi posílala fotku bot. Poslal jsem jí zpátky fotku barefootů. Neměla tušení, že něco takovýho existuje a vyptávala se na ně.\
+
+![image](16_1.jpg)
+
+Je divný, že nějaká hok
+
+Dovezl jsem si domů smarwi desku a převodník. Trochu jsem si hrál s Arduino IDE a přeložil si příklady pro ESP8266. Fungovaly na první dobrou. Jak blikač, tak wifi. Stáhl jsem si nějakou nezašifrovanou stárnku.
+
+![image](16_2.jpg)
+
+Když jsem ale přeložil Vojtův firmware, byl zaseknutý v kafemlejnku restartů. Zjistil jsem, že to dělá WatchDog. Proč ale to ne. Internet měl za to, že to souviselo s napájením. Ale měl jsem pochyby. Jiné kódy fungovaly. Byla to záhada, kterou jsem moc nechtěl řešit. Vojta slíbil, že z původních majitelů vytáhne větší knowhow.
+
+### 17.7. Hubnu.. asi
+
+Za balónem. Tak jsem jel do Práce. Všiml jsem si ho někde na Vinohradech. A pak se mu celou cestu přibližoval.
+
+![image](17_1.jpg)
+
+DJ stavěl sklad vzorků. A našel spoustu věcí, které jsme hledali. Třeba pilku na železo. A váhu.\
+Ta objevila, že vážím 61,8 kg. To bylo míň než jsem čekal. Tak nějak jsem si myslel, že vážím 66. A trochu doufal, že s cvičením venku nabírám. Dle BMI jsem byl přesně v normě. Ale nějak mě to rozhodilo.\
+Později jsem v Garminu zjistil, že v únoru ve Finsku jsem zalogoval 61 kg. Možná jsem přece jen spíš přibíral. Ale bylo třeba přibrat svalů víc. Dal jsem si ke svačině po obědě v AFI s Ludvou ještě burákový máslo.\
+Miminko tchýnina jazyka rostlo a vypadalo zdravě. Ale nějak postrádalo proužky. Poslal jsem fotku Martě se zklamanou zprávou. Ale dospěli jsme k názoru, že proužky by se ještě mohli objevit.
+
+### 18.7. 
+
+Ráno jsem se zastavil na chvíli cvičit. Deset shybů už dám docela v pohodě. Vosečkovy šikany ve vysokém vzporu mi pořád dávají záhul. na břicho jsou ale fajn. Možná, že někdy bych si mohl pořídit i sixpack. Ale to je asi zbytečný. Chci být zdravej. Ne namakanej. Radši jsem se věnoval balancu. Tam mám fakt mezery. A nechci mít zas vyhozený koleno.\
+Dopoledne jsem si změřil, jak dlouho trvá, než se oscilátor ustálí. Vláďa tipoval 1.5 *m*s. Já víc. Bylo to 1.1 *m*s. Měl jsem nastavenou jednu a tak jsem nemusel nic měnit. Bylo to trochu antiklimaktické. Simulátor ST25R už docela fungoval. Dal jsem se do psaní simulátoru PICC.
+Po práci jsem jel plavat. Zprvu jsem přemýšlel o hotelu Step, ale zvolil jsem starou dobrou Olšanku. A v šatně zjistil, že nemám ručník. Co už. Hlavně, že jsem měl plavky.\
+Po kilometru mi začala být nějaká zima. Obzvlášť při sušení, bez ručníku. V albertu jsem si pořídil 2 olivové šneky, cottage a šel si s tím sednout do rekonstruovaného vnitrobloku, kde si nahá děcka hrála v kašně a jejich matky si povídaly na lavičkách. Po oušku jsem je poslouchal. Moc rozumu nepobraly. Zní to hnusně, ale bylo to tak.\
+Doma jsem ještě koukal do kódu. Nějak mě to chytlo. Ta fáze, kdy už člověku něco začíná jít je fajn. Stres z toho, že to nikdy nebude fungovat už opadl a měl jsem pocit, že to bude dobrý. Že mi to něco dá. A že to půjde použít v horseshoe locku.
+
+### 19.7. Kontroly, nostalgie a náhody
+
+Vláďa mi koukl na simulátory. Řekl, že se mu moje rozdělení vrstev líbí. Nijak důkladně to nestudoval. Ale dal mi pár rad a tu a tam něco pochválil. Bylo to rozkopaný až kam a nic moc to nekontrolovalo. Ale šlo na tom stavět.\
+A tak jsem stavěl. Sice jsem přetáhl dobu, kdy jsem chtěl být v práci o hodinu. Ale nakonec mi simulátor PICC kontroloval, zda simulátor ST25R nastavil špatnou modulaci. Bylo to super.\
+
+```
+/home/adam/codes/nfcu/tests/nfcu.cpp:116: error: Failure in TEST(Nfcu, TypeB)
+/home/adam/codes/nfcu/tests/piccsim.cpp:142: error:
+	Message: Wrong Modulation.
+	expected <1>
+	but was  <0>
+	difference starts at position 0 at: <          0         >
+```
+
+Enumy sice zanikly při překladu. Ale zpráva zněla jasně. Ukazovala na správný místo a odhalila přesně to co měla.\
+Z Vysočan jsem jel do Holešovic do Alzy pro nový kartáček. Těšil jsem se na něj. Philips Sonicare 4300. Asi ne tak vysoká řada, jako měla Miška. Její podle obrázků vypadal na sérii 9000. Ale recenze se shodovali na tom, že zas o tolik víc lepší řada neudělá a 1889 slevněných na 1372 mi přišlo dobrý. Ten její za 5699 se dvěma režimy navíc a cestovním pozdrem, které lidé označovali za nepraktické mi přišlo jako zbytečný vyhazování peněz. Pohybů měl umět stejně a lidi byli z recenzí nadšení.\
+Cestou domů jsem chtěl plavat. Přemýšlel jsem o výstavišti. Ale bylo to z ruky. Olšanka tedy. Z nostalgie jsem projel Corsem a nakoukl do našeho bývalého kanclu. Paní za kasou byli překvapené, z toho, že jsem tam kdysi pracoval. Povídali jsme si o tom místě. Byla to nostalgie.
+
+![image](19_1.jpg)
+
+A najednou na mě někdo volal jménem. Kája Urbánková. To jsem nečekal. Prokecali jsme venku u g5 stanice asi hodinu. Dohodli jsme se, že ve středu se půjdeme projet na kole po práci.
+
+![image](19_2.jpg)
+
+V bazénu jsem tentokrát byl i s ručníkem. I tak jsem ale cítil, že mi to moc nejde. Asi ty zuby. Po kilometru jsem toho měl plný zuby. Holka bez brýlí, kterou jsem viděl pár pátků zpátky tam nebyla. Škoda.\
+Doma jsem si ještě udělal rychlou večeři na pánvi a ztratil se v Dark Matter.
+
+### 20.7.
+
+Temné hmoty mi chyběl jeden díl do konce. Dal jsem ho ráno se snídaní. Taky jsem si četl o ESPčkách a napsal Vojtovi. Rozhodl jsem se, že na oběd pojedu do ikey. Přemýšlel jsem nad životem. Moc jsem nežil. Spíš přežíval. Ale nějak jsem si na to zas začínal zvykat.\
+Potkal jsem Jardu. Večer jsem měl hlídat Koru. Jel pracovat do Vídně. A Sára se měla vracet až další den.\
+Vystoupat na Zličín v těch 26 stupních bylo docela náročný. V ikee jsem si dal své oblíbené kuličky a dal se do psaní.\
+A zkoumání těch ESPček. Jejich ESP-IDF mi přišlo jako jiná forma HALu. Bál jsem se, aby to nebylo z bláta do louže. Možná by ale šlo, napsat si na jejich API wrappery, které by používali naše interfacy. Možná trochu odvážný nápad. Ostatně to by mělo jít i s HALem a vůbec jsem nevědl jak na to. Ale lidi na internetech to dělali.

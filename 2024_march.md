@@ -108,7 +108,9 @@ Chyby nechyby, stejně se mi po ní stýskalo. Napsal jsem jí, že mi chybí:
 
 A pak vypnul notifikace a uložil náš chat do archivu.<br>
 Venku ale bylo krásně. Rozhodl jsem se jít běhat. Dal jsem desítku. K jezeru, k pekárně, dál než jsem kdy byl, pak severním obloukem a zpátky do oblasti, kde jsem už běhal minule. Trochu zbytečně jsem to napálil. Obzvlášť, když všude byl ještě led. Tempo [5:18](https://www.strava.com/activities/10895888321). Ale pěkných dní je třeba užívat.<br>
-Odepsal jsem Barče. Ona už mě ne. Trochu mě to zkazilo náladu. Barča, holka z Tinderu, která mě v mém amygdalovém záchvatu ještě v Praze swajpla doprava a z nepřeerného zástupu holek, který mě ničím nebyly s to zaujmout mě uhranula fotkou s kytarou, hezkým úsměvem a pocitem, že na Tinder úplně nepatří. Napsala si se mnou napsala pár zpráv. Začínala se mi líbit čím dál víc. Ale na mou poslední zprávu mi už neodepsala. S holkama to je těžký.<br>
+Odepsal jsem Barče. Ona už mě ne. Trochu mě to zkazilo náladu. Barča, holka z Tinderu, která mě v mém amygdalovém záchvatu ještě v Praze swajpla doprava a z nepřeerného zástupu holek, který mě ničím nebyly s to zaujmout mě uhranula fotkou s kytarou, hezkým úsměvem a pocitem, že na Tinder úplně nepatří. Napsala si se mnou napsala pár zpráv. Začínala se mi líbit čím dál víc. Ale na mou poslední zprávu mi už neodepsala. S holkama to je těžký.
+
+<a href="../images/2024_march/5_1.jpg" target="_blank"><img src="../images/thumbnails/2024_march/5_1.jpg"></a>
 
 ### 6.3. Write about feelings
 
