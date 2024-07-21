@@ -17,9 +17,10 @@
 - [15.7. Zařadit balanc](#157-zařadit-balanc)
 - [16.7. Přejít na esp?](#167-přejít-na-esp)
 - [17.7. Hubnu.. asi](#177-hubnu-asi)
-- [18.7.](#187)
+- [18.7. Už se to rýsuje](#187-už-se-to-rýsuje)
 - [19.7. Kontroly, nostalgie a náhody](#197-kontroly-nostalgie-a-náhody)
 - [20.7. Promeškaná příležitost](#207-promeškaná-příležitost)
+- [21.7. Pejskaři musí být fit](#217-pejskaři-musí-být-fit)
 
 ### 1.7. Psát či nepsat backend, to je oč tu běží
 
@@ -229,7 +230,7 @@ Ta objevila, že vážím 61,8 kg. To bylo míň než jsem čekal. Tak nějak js
 Později jsem v Garminu zjistil, že v únoru ve Finsku jsem zalogoval 61 kg. Možná jsem přece jen spíš přibíral. Ale bylo třeba přibrat svalů víc. Dal jsem si ke svačině po obědě v AFI s Ludvou ještě burákový máslo.\
 Miminko tchýnina jazyka rostlo a vypadalo zdravě. Ale nějak postrádalo proužky. Poslal jsem fotku Martě se zklamanou zprávou. Ale dospěli jsme k názoru, že proužky by se ještě mohli objevit.
 
-### 18.7. 
+### 18.7. Už se to rýsuje
 
 Ráno jsem se zastavil na chvíli cvičit. Deset shybů už dám docela v pohodě. Vosečkovy šikany ve vysokém vzporu mi pořád dávají záhul. na břicho jsou ale fajn. Možná, že někdy bych si mohl pořídit i sixpack. Ale to je asi zbytečný. Chci být zdravej. Ne namakanej. Radši jsem se věnoval balancu. Tam mám fakt mezery. A nechci mít zas vyhozený koleno.\
 Dopoledne jsem si změřil, jak dlouho trvá, než se oscilátor ustálí. Vláďa tipoval 1.5 *m*s. Já víc. Bylo to 1.1 *m*s. Měl jsem nastavenou jednu a tak jsem nemusel nic měnit. Bylo to trochu antiklimaktické. Simulátor ST25R už docela fungoval. Dal jsem se do psaní simulátoru PICC.
@@ -269,4 +270,17 @@ Doma jsem si ještě udělal rychlou večeři na pánvi a ztratil se v Dark Matt
 Temné hmoty mi chyběl jeden díl do konce. Dal jsem ho ráno se snídaní. Taky jsem si četl o ESPčkách a napsal Vojtovi. Rozhodl jsem se, že na oběd pojedu do ikey. Přemýšlel jsem nad životem. Moc jsem nežil. Spíš přežíval. Ale nějak jsem si na to zas začínal zvykat.\
 Potkal jsem Jardu. Večer jsem měl hlídat Koru. Jel pracovat do Vídně. A Sára se měla vracet až další den.\
 Vystoupat na Zličín v těch 26 stupních bylo docela náročný. V ikee jsem si dal své oblíbené kuličky a dal se do psaní.\
-A zkoumání těch ESPček. Jejich ESP-IDF mi přišlo jako jiná forma HALu. Bál jsem se, aby to nebylo z bláta do louže. Možná by ale šlo, napsat si na jejich API wrappery, které by používali naše interfacy. Možná trochu odvážný nápad. Ostatně to by mělo jít i s HALem a vůbec jsem nevědl jak na to. Ale lidi na internetech to dělali.
+A zkoumání těch ESPček. Jejich ESP-IDF mi přišlo jako jiná forma HALu. Bál jsem se, aby to nebylo z bláta do louže. Možná by ale šlo, napsat si na jejich API wrappery, které by používali naše interfacy. Možná trochu odvážný nápad. Ostatně to by mělo jít i s HALem a vůbec jsem nevěděl jak na to. Ale lidi na internetech to dělali.\
+K Berounce, jak jsem plánoval jsem nakonec nedojel. Sjel jsem dolů po Plzeňský, doma osprchoval tchýniny jazyky a vyrazil pro Koru.\
+Šli jsme do psího parku. Nechal jsem jí tam chvíli běhat a házel jí klacíky. Byla podivně hodná. Ani nepípla a neutíkala moc daleko. Doma už jsme toho moc nezvládli. Koukal jsem na nějaká videa o ESP-IDF. Běží v tom RTOS. Největší kumšt zřejmě bude vymyslet scheduler. RTOS ale umí statické plánování úloh. Nějak by to mohlo jít. Kora pozorovala okolí z balkonu. Aileen jí nazvala *The Pensive Dog.*
+
+![image](20_1.jpg)
+
+Před spaním jsme ještě jednou šli ven.
+
+### 21.7. Pejskaři musí být fit
+
+Kora v noci štěkala na někoho z balkonu, když jsem jí ho přivřel, šla spát a byla tak tichá, že jsem měl obavy, jestli vůbec žije. Kolem osmý už ale vypadala, že je na čase jít ven a tak jsme ještě před snídaní vyrazili na psí louku. Po asi půl hodině venku jsem si koupil v Lidlu věci na snídani a se psem vyrazil zpátky. Udělal jsem si vajíčka a dal se do čtení toho, jestli půjde obalit esp-idf c++ wrappery. Přišlo mi, že to půjde.\
+Pak jsme s Korou vyrazili ven. Na cvičítka. Bylo 32 stupňů a bylo jasný, že o moc dál bychom nedošli. Cvičítka byla slunkem rozpálená tak, že téměř nešla držet. Moc jsem toho nenacvičil. Trochu jsem se ale posunul v Duolingu.\
+S korou jsme pak došli k pítku na Míčánkách. To jí bavilo. Chramstala tekoucí vodu a skákala na kapky, co jsem na ní cákal z lahve.\
+Zatoužil jsem po kafi. A něčem sladkým. Typika byla moc drahá. Vyhrál Antonín. Ledové latté, které jsem z nějakého tajemného důvodu dostal do plastu a dvě makové buchty. 141 korun. To bylo fakt dost. Ale všechno bylo dobrý.\
