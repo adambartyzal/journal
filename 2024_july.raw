@@ -21,6 +21,14 @@
 - [19.7. Kontroly, nostalgie a náhody](#197-kontroly-nostalgie-a-náhody)
 - [20.7. Promeškaná příležitost](#207-promeškaná-příležitost)
 - [21.7. Pejskaři musí být fit](#217-pejskaři-musí-být-fit)
+- [22.7. Simulovat PICC není jen tak](#227-simulovat-picc-není-jen-tak)
+- [23.7. Jsme divná generace (a filmy to potvrzují)](#237-jsme-divná-generace-a-filmy-to-potvrzují)
+- [24.7. S Kájou za chlazeným nápojem](#247-s-kájou-za-chlazeným-nápojem)
+- [25.7. Ivan bývá sám sobě nepřítelem](#257-ivan-bývá-sám-sobě-nepřítelem)
+- [26.7. Jsou brontíci hipíci?](#267-jsou-brontíci-hipíci)
+- [27.7. Bezpečná organizace zábavy a pití](#277-bezpečná-organizace-zábavy-a-pití)
+- [28.7. Ty nejlepší jsou rozebraný](#287-ty-nejlepší-jsou-rozebraný)
+- [29.8. Smrt papíru](#298-smrt-papíru)
 
 ### 1.7. Psát či nepsat backend, to je oč tu běží
 
@@ -284,3 +292,89 @@ Kora v noci štěkala na někoho z balkonu, když jsem jí ho přivřel, šla sp
 Pak jsme s Korou vyrazili ven. Na cvičítka. Bylo 32 stupňů a bylo jasný, že o moc dál bychom nedošli. Cvičítka byla slunkem rozpálená tak, že téměř nešla držet. Moc jsem toho nenacvičil. Trochu jsem se ale posunul v Duolingu.\
 S korou jsme pak došli k pítku na Míčánkách. To jí bavilo. Chramstala tekoucí vodu a skákala na kapky, co jsem na ní cákal z lahve.\
 Zatoužil jsem po kafi. A něčem sladkým. Typika byla moc drahá. Vyhrál Antonín. Ledové latté, které jsem z nějakého tajemného důvodu dostal do plastu a dvě makové buchty. 141 korun. To bylo fakt dost. Ale všechno bylo dobrý.\
+
+### 22.7. Simulovat PICC není jen tak
+
+V práci do půl deváté
+
+### 23.7. Jsme divná generace (a filmy to potvrzují)
+
+robin s petrem\
+kino v campu\
+
+### 24.7. S Kájou za chlazeným nápojem
+
+poprvé do stepu\
+za kájo\
+ztracen někde za libeňákem\
+hluk pod stříškou\
+dotační podvodníci\
+na 
+
+### 25.7. Ivan bývá sám sobě nepřítelem
+
+Bez žaluzií jsem se vyspal dost na houby. Překvapivě ne kvůli světlu, ale kvůli hluku. Zatmívací závěsy dost zvuků pohltí. Bez nich jsem slyšel vlaky, jako by mi projížděly kolem hlavy.\
+U snídaně jsem si povídal s Petrem a s Robinem . Čekal je dlouhý den až do osmé. večerní. Tentokrát jsem si tedy vzal klíče k sobě a zamířil podruhé do STEPU. Slavii poráží snad ve všem. Finská sauna má sice asi jen 70°C ale je tam. Uplaval jsem 1100 m s tempem pod 2min/100m. A v práci jsem byl před devátou. Ivan se tomu podivoval. S Vláďou rovnali stoly, ale podložek bylo málo a tak bylo třeba další dotisknout.\
+Na obědě jsme diskutovali o běhání. Ivan opět začal. A opět do toho podle mě šel příliš zostra.\
+V podstatě v jedné větě řekl, že ho z běhání bolí kolena a že opět poběží Velkou kunratickou, kde si rozjebal kolena na rok dopředu. Ivan je občas sám sobě nepřítelem\
+Babral jsem se s EMUCO dokumentaci a simulacemi. S Vláďou jsme objevili, že budeme certifikovat podle verze 3.1 a že 512 bajtů FIFO stačí. Protože je toFIFO . Akorat budu muset číst během zápisu. To nebude jen tak. Řekl jsem si proto, že přepíšu NFCM. Použiju functor, a lambdy. Umožní mi to volat asynchronní metody s parametry.\
+Doma jsem opravil garnýž a pustil si Netflixovou verzi Death Note. Byla to dle očekávání sračka. V porovnání s originálem rozhodně.\
+Petr přivedl Robina v osm. Skočil ještě pro pizzu a po jídle jsme hráli kostky. Měl, obrázky zvířat místo čísel. A člověk sbíral různé kombinace. Prohrál jsem. Co naděláš.\
+Veselí se pak odebrali na kutě a já jsem dokoukal ten film.
+
+### 26.7. Jsou brontíci hipíci?
+
+Zdál se mi další sen o vztahu. Tentokrátjsem nebyl jen bláznivě zamilovaný. Tentokrát jsem řešil problémy. Moje dívka měla tentokrát Černé vlasy. Byli jsme na nějaké kostýmové párty a nevím co se stalo, ale najednou se rozhodla, že uteče. Běžel jsem za ní dost dlouho do kopce a když jsem jí doběhl, byla u ní její kamarádka, která se chovala jako její advokát. Nějak jsem to dokázal zachránit. Mluvil jsem od srdce, přiznal chybu a dívka pookřála. Vzbudil jsem se se vzpomínkou na to , že se na mě usmála a já v jejích očích videl , že to bude dobrý.\
+Moc nevím co si z těhle snů odnést.\
+Robin s Petrem se balili. Vstal jsem opůl hodiny později než jsem plánoval a rozhodl se, že si napíšu že v neděli 28.7. půjdu spát brzy, budu mít připravené oběd do práce, laptop v batohu a nebudu ráno čumět do mobilu.\
+Petr mi do práce napsal , že si u mě nechal laptop. Přečetl jsem si to po tom, co jsem uplaval 1500 metrů ve STEPU v dobrým tempu a vyhřát se v sauně.\
+Vláďa tentokrát zůstal doma. Měli mu přijet zapojit klimatizaci. To znamenalo , že na přepis do lambda funkcí jsem byl sám. Ani jsem nevěřil, že by se mi to mohlo povést. Ale povedlo . Napřed prošly testy a binárka šla přeložit na první dobrou.\
+Málem jsem přetáhl konec pracovní doby. Next bike byl daleko a na nádraží jsem se dostal s mnohem menší rezervou , než jsem počítal. V kupé jsem seděl s Ostravákem, co kouřil rape. Zeptal se a okna byla dokořán. Bylo mi to jedno. Dráhy mě opet dráždily. Na rok 2024 byla kvalita služby vlaku do Pardubic bídná.\
+Trasa do Hradce ale byla lepší. O poznání. takový koleje na jihu potřebujeme.\
+V Čeperce jsem na zastávce potkal dvě účastnice. Meli nás tam vyzvednout, ale telefonem jsme se domluvili , že tam trefíme bez pomoci. Bára měla na krku Praktiku. Aspoň mi to tak připadalo. Ve skutečnosti to ale byl digitální Nikon.\
+Eliška byla povídavá. Společně jsme došli do sokolovny , kde nás přivítala Hanka. Ostatní prý přijdou hned. Byli na pozemku, který jsme viděli z vlaku.\
+Dostali jsme večeři a organizátor Martin společně s dvěma technicky zdatnými kluky Zapojil projektor a po krátkém představení se nám odprezentoval , Co Spolek Pestré Polabí dela!\
+Po prezentaci, která byla překvapivě zajímavá a poučná jsme diskutovali nad pivem , vodou a zeleninou z místní farmy. Trochu jsem se chytil do hádky s matfyzákem Michalem. Většina lidí byla na mé straně, že hon za efektivitou ve výrobním a dodavatelském řetězci vždy způsobí, že někdo bude trpět.\
+Diskutovali jsme až do půlnoci ne-li déle. A někteří tam zůstávali nad lahví pálenky, což se brontosaurům moc nezdálo. Ale spolek Polabí nebyli brontíci.\
+Já jsem se natáhl pod borovičkami. Na hřišti totiž hrozilo, že člověka ztropí zavlažovací systém.
+
+### 27.7. Bezpečná organizace zábavy a pití
+
+Světlo bylo už ve čtyři ráno. Zavlažovače se spustily, jak bylo avizováno. Už jsem moc nebyl s to usnout. Nicméně se mi to nejspíš podařilo, neb před šestou mě probudil proud vody. Další zavlažovač se spustil a tentokrát byl tak blízko mě a Davida, že naše spacáky byly durch.\
+Posunul jsem věci. Dal sušit co šlo a lehl si na lavičku. Byla mi zima a do sedmi už jsem nezalomil ani na minutu.\
+Před snídaní jsem šel pomáhat do kuchyně. Loupal jsem vajíčka a utíral nádobí. K snídani byla ovesná kaše. K ní kokos, sušené banány, rozinky, skořice a cukr. Glucose Goddess by plakala. Ale energie byla třeba. Po snídani jsem opět utíral nádobí. Tentokrát s Bárou. Vyptával jsem se jí na její práci. Psychologuje lidi, co touží po adopci dítěte.Povídalo se s ní moc dobře. A byla moc krásná. Holka do který bych se zamiloval jak nic. Protože jsem její jméno zahlédl v prezenčce, věděl jsem, že jí je o šest let víc než mě. Nebylo to na ní moc patrný.\
+Auty jsme přejeli na Milířov. Jel jsem Fabií s entomologem Pavlem, Eliškou a Ivou. Moc jsme toho nenapovídali, ale jeli jsme asi jen 10 minut. Milířov byl jediný kopec široko daleko. Bylana něm rozhledna a naše práce spočívala v nakládání kapiček posečené trávy na plachty a odnášení je do kontejneru u silnice. Bára se dožadovala Bezpečnosti práce. Byla totiž něco, čemu jsem začal říkat Inspektor. Členka Brontosaura, která hodnotila, zda Články splňují vnitřní stanovy organizace. Na téhle víkendovce prý nebyla ve službě, ale taky nechtěla, aby někdo skončil propíchnutý vidlema nebo si Šlápnutím na hrábě přivodil otřes mozku. Postupně jsme se rozdělili na dve skupiny. Menší, která dělala fyzicky náročnější práci a větší, co hrabala a dělala kopečky.Byl jsem součástí té menší. Společně s organizátorem Martinem, teoretickým Matematikem Matoušem, podivínem Michalem taktéž z Matfyzu a Mamkou Ivou, která po letech měla volno od dětí a chtěla dobrovolničit.\
+Když jsme převezli a vyložili trávu z kůře dostupných míst, sjednotili jsme se se zbytkem. Někteří pak stříhali plot, jiní hrabali a další zas tahali plachty s odklizeným materiálem.\
+K svačině jsme měli moc dobrý meruňkový koláč. Malý klučina nás učil vlajky, Bára bojovala s nepřítelem ostružiníkem a bylo nám fajn. Když jsme dokončili práce, přesunuli jsme se do altánu pod rozhlednou a dali si párkovou polévku. Matouš s Davidem hráli na kytary a Betka dokonce vytáhla ukulele. Na rozhledně nám Martin ukazoval jak někde les ustoupil, ale jinde zas starosta nechal pole rozdělit remízky, pásem vojtěšky, díky kterému se voda dokáže lépe vsáknout do země a motýli mohou lépe migrovat.\
+Praha v dáli vidět nebyla. Pět kilometrů od nás but Hradec Králové, ale bul schovaná za lesem. Zato byly vidět Orlické Hory a Krkonoše. Napravo se tyčila Sněžka a vlevo byli kotel a Lysá hora.\
+Nejspíš tam nebyla. Nejspíš byla s rodiči ve Švýcarsku. Ať už to bylo, jak bylo, Krkonoše s ní budu mít navždy spojený. Po výhledech do okolí jsme šli zpět do lesa a na mýtina. Martin nám ukazoval druhy květin a stromů, které se díky nim do přívodu vrátily. Hmyzu tam balo přehršel a různých květů taky. Taky jsme se byli podívat na ovce, které spásali porost a pomáhali tak krajině.\
+Po exkurzi jsme se jeli koupat. Do Labe pod jez. Voda tam byla ledová. Řeka naplavila kousek pod vodní elektrárnou písečnou pláž, na které jsme měli pohodu s ukulele. Házel jsem žabky, plaval do válce pod elektrárnou , čímž jsem vyděsil Báru a pak jsme si na ostrůvku povídali. O tom jak cestují šílenci. Prý do té kategorie spadám.\
+Bára se mi začínala líbit čím dál víc. Pojídali jsme spolu mrkev a poslouchali Bětku hrát a zpívat a měli se fajn.\
+Až zpátky v sokolovně mi došlo jaký mám hlad. Penne s omáčkou z cukety a další bio zeleninou z místní permakulturní farmy byly tak strašně dobré, že si všichni přidávali. Bára měla místo penne rýžové mušlicky. Lepek jí nedělal dobře.\
+Bavili jsme se s Davidem o stahování pohádek z ulož to. O poplatcích za televizi, stardance a dabingu Rychlé Roty.\
+A pak jsme šli do rozmanité zahrady na opačné straně vsi. Bětka vyrazila domů. Mávali jsme jí do vlaku, ale jel tak strašně rychle, že jsme netušili, zda nás viděla.
+Zahrada byla fajn. Měli tam hezká slepice. S Bárou jsme identifikovali Japonský hloh. Ve skleníku měli želvy, v rybníčku žáby, vzadu citron a milion dalších věcí.\
+Na cestě zpět nás opět zastavil vlak. Měli jsme na to prostě smůlu. V sokolovně jsme čekali na tmu. Někteří hráli karty jiní si povídali . Vedl jsem s Bárou nějakou diskusi o vztazích, ale už nevím o čem přesně.\
+Večer jsme vyrazili na louku. Pavel tam měl svítit. To znamenalo, že připravil takový zkřížený dvojstěn s lampou nahoře a lákal na něj noční hmyz. Komáři štípali extrémně. Hmyzu se slétl randál, hlavně nějakých vodních mušek. Koukali jsme na to s Bárou, povídali si o jejím cestování do Británie a poslouchali občasný Paulův výklad. Bára to kvůli komárům nakonec vzdala . Zrovna když na mě přiletěl kvapník.\
+Chvíli po jejím odchodu přiletěl lišaj. Fakt velká noční motýl. Ale vypadalo to, že bude pršet. Vzdal jsem to taky a dobře udělal. Stihl jsem to tak tak.\
+Na verandě ve vzduchu vonícím deštěm jsem si zapsal poznámky do deníku. Většina lidí na to koukala obdivně. Přišlo mi to fajn. Pak jsme hráli na katary David ze mě vytáhl Chinaski a atmosféra byla kouzelné uvolněná.\
+Lehce po půlnoci už jsem ale šel spát. Tentokrát dovnitř.
+
+### 28.7. Ty nejlepší jsou rozebraný
+
+Spát uvnitř byla lepší volba. Místo čtyř hodin jsem naspal tak šest. Opet jsme měli ovesnou kaši. Ale byla i nějaká Zelenina a šlo se tak vyhnout cukrovému kolapsu. Bára sice zdržovala, ale když přišla, sedla si rovnou vedle mě. A povídali jsme si a smáli jsme se. Bylo to fajn.\
+Opět nás čekala práce. Tentokrát v Čeperce. Na pracovišti, které viděla Eliška z vlaku. Šel jsem tam s ní, protože Bára zmizela a ostatní příliš valili. Vtipkovali jsme o rouhání, církvi a jménech. Měli jsme extrémně dobrou náladu a ta nám vydržela většinu dne,Bára se nějak tajemně dostala na pozemek před námi. Vlastně tam byli úplně všichni, včetně nových dobrovolníků.\
+Byl to ten samý pozemek, kde se svítilo. Akorát jsme tam došli opačnou stranou. Za úkol jsme měli hrabat posečenou trávu. Matouš hrabal až na písek a rozšiřoval informaci , že tak je to správně. Víc kopal, než hrabal. Všichni jsme z toho měli srandu. Nikdo nebyl příliš organizovaný a práce ubíhala docela pomalu. S Bárou jsme začali hrabat do řádek a postup zefektivnili. A trochu se tak odtrhli od ostatních.\
+Povídali jsme si o vztazích. Mém rozchodu. O tom jak se s tím vyrovnávám a došli jsme k tomu, že je zasnoubená. Trochu mě to zklamalo. Ale co naděláš. Pořád to byla skvělá holka se kterou mě bavilo trávit čas a nový kamarády potřebuju. Proto jsem na tu víkendovku jel. A tak jsme hrabali, povídali si o cestování, práci a vztazích a pojídali u toho ostružiny. David si nejvíc povídal s Eliškou a vypadalo to, že to mezi nimi jiskří. Matouš dělal kokotiny s plachtou a dvěma mladýma holčinama a Michal vykopal láhev ve které bylo mikroklima a rostla v ní tráva.\
+Nějak jsme s Bárou promeškali odchod na oběd. A to jsme oba měli hlad. Zpátky jsme šli ještě s jednou a mladých holek, protože druhá zmizela spolu se skupinou ostatních.\
+K obědu jsme měli brambory s dipem a zeleninou. Neznělo to uplně slavnostně, ale bylo to zkurveně dobrý. Obzvlásť naložená cibule. Povídali jsme siS Martinem o budoucnosti pozemku a o přivaděčích na dálnici, které přírodě ubližují víc nez dálnice samotná.\
+Vlak jel v 15:15. Bylo za minutu celá a já jsem odchod uspíšil víc než bylo třeba. Jedna holčina, která s námi chtěla jet zůstala a umývala nádobí, protože byla příliš málo asertivní. Jeli jsme s těmi dvěma mladými holkami, z nichž jedna uměla složit rubikovu kostku za 13 vteřin. Matfyzáci, géniové, psychologové a inženýři. Brontosauři nejsou hipíci. Jsou to mrtě chytrý lidi, který potřebuji vypnout mozek a pracovat venku.\
+Oba vlaky byly nacpaný. Druhá k prasknutí. prošel jsem ho celý a objevil , že vepředu se doChodbičky na zem ve dvou vejdeme. Seděli jsme tam s Bárou a povídali si. Chci takovou holku. Tak chytrou. Tak hezkou. Takovou, která cestuje do Iránu a Indie . Která je Inspektor na dobrovolnických akcích. Která se na mě dívá tak, jak se na mě dívala ona v tom vlaku. Škoda toho snoubence . Ale byla v životě dál než já.\
+Všechny holky, který se mi kdy líbili byly v životě dál . Miška byla sice jediná mladší než já, ale byla z nich nejuvědomělejší. V Libni jsme se rozloučili. Vzal jsem next bike a dojel do práce vyzvednout se Franze. Petr byl v kanclu a vytíral. Petr je v tomhle divnej. Rozhodně nechci být jako on. Na centu stole jsem se pokusil zbavit praskání v předním kole. Neúspěšně. Cestou jsem se zastavil ve STEPU. Uplaval asi 600 metrů, dal saunu a uvedomil si , Že jsem grogy.\
+Dojel jsem domů, uvařil jsem zeleninu s kuskusem a moc víc toho nezvládl. Bylo načase se pořádně vyspat.
+
+### 29.8. Smrt papíru
+
+Finská sauna a kilometr v první dráze. STEP začínal být mým novým domovským bazénem. V Lidl a jsem si koupil snídani a dojel do práce. Pokračoval jsem v lambdách a posouval se milimetrovými kroky.\
+Sice jsem měl oběd v krabičce, ale Ivan mě přesvědčil, ať jdu s nimi do Vietnamky. Že prý chce diskutovat o stravování. Rozhodl se hubnout a přistoupil k tomu typicky na Ivana. Vypustil cukry. A málem odpadl. Poradil jsem mu ať jí normálně. Dá si o Čokoládu míň a trochu víc se hýbe.\
+Po obědě mi přišel Remarkable. Konec papíru se blížil. Překvapilo mě, jak těžký byl. Pocit z psaní byl ok. Škrábal jsem strašně. Ale na papíru to nikdy nebylo lepši. Po práci jsem šel cvičit na Konopišťskou. Přišlo mi, že od doby, co jsem tam začínal jsem udelal nulový pokrok. Víc než deset shybu jsem nezvládl a kliků o moc víc taky ne. Možná jsem byl stále unavený z víkendu. Možná, že bych měl zařadit rest day. Aspoň jsem u cvičení psal. Byl jsem zvědavý, jak dopadne převod na text. Bez internetu to tablet neumí. To mě moc netěšilo. Ale čeština je proste Zrádná. Vlastně jsme se o tom bavili na cestě z oběda. Je to trochu slovanština, ale spíš Němčina a napůl úplně umělý jazyk.Doma jsem si dal ten kuskus. Nejjednodušší jídlo na planetě a přitom tak dobrý. Na pondělí dvanáctého jsme naplánovali grilování u Vojty a já jsem ve zbytku večera sepisoval deník, který od tohoto dne bude psaný pouze rukou. Doufám.
