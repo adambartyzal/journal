@@ -26,4 +26,4 @@ Rok volby prezidenta, cesty z Francie domů, Albánie, Barcelony a hlavně propl
 
 ## [2024](2024.md)
 
-Jaro plné slz
+Jaro plné slz, bez zubů, 

@@ -97,7 +97,7 @@ Chyby nechyby, stejně se mi po ní stýskalo. Napsal jsem jí, že mi chybí:
 > To jak ti voní vlasy a jak mi tvůj bojovnej jazyk olízne nos.<br>
 > To jak záříš, když se houpeš na houpačce.<br>
 > To jak se staráš o lidi, kteří jsou ti drazí.<br>
-> To jak kleješ ale nejsi u toho sprostá.<br>
+> To jak kleješ, ale nejsi u toho sprostá.<br>
 > To jak o věcech přemýšlíš do hloubky.<br>
 > To jak zdravě a chutně vaříš.<br>
 > To jak tančíš.<br>
