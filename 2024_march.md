@@ -327,17 +327,12 @@ I cestou na metro jsme se smáli. Jestli tomu něco chybělo, tak to byla romanc
 
 ### 26.3. Affected
 
-Hodinky mě prudily, že můj spánek stál za starou bačkoru, nejspíš kvůli těm dvěma pivům. Plíce jsem taky ještě pořád citil, ale spíš se to zlepšovalo než horšilo. Vyhrabal jsem se z postele ven, osprchoval se, oblékl, vyrazil na vlak a
-očkování<br>
-sluuným karlínem<br>
-nikdo v práci, nikdo na slacku<br>
-očkování mě zmáhalo, kašel taky<br>
-domů trochu dřív<br>
-na nákup na česnečku<br>
-šlofík<br>
-polévka<br>
-2 díly breaking bad<br>
-Deník zase začínal nabírat na zpoždění. Nedalo se ale moc dělat.
+Vyrazil jsem na vlak a dojel na hlavák. Na Revoluční jsem došel pěšky. Na tamější polikliniku. Čekala mě totiž první dávka očkování proti encefalitidě.<br>
+Chvíli jsem tam čekal, pak podepsal nějaký lejstro, zaplatil nehoráznou sumu a dostal včeličku.<br>
+Cesta z polikliniky byla pohledná. Na východě zářilo slunce a přinášelo pozitivní vibe do dne.<br>
+V kanclu nikdo nebyl. Na slacku taky ne. V průběhu dne jsem začínal cítit, že kašel a očkování mě začíná zmáhat. Vyrazil jsem domů dřív a cestou nakoupil věci na česnečku.<br>
+Než jsem se ale dal do jejího vaření, dal jsem si šlofíka. Byl jsem fakt hotovej.<br>
+Silná česnečka pomohla. Po jejím zkonzumování jsem šel opět spát. Jestli nedostanu encefalitidu, stálo to za to.
 
 ### 27.3. Sushi, oreo and meth
 

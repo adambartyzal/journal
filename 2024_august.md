@@ -1,7 +1,7 @@
 [<< Červenec](2024_july.md)<br>
 - [1.8. Letí to jak blázen](#18-letí-to-jak-blázen)
 - [2.8. Strčte si svoje Aury do prdele](#28-strčte-si-svoje-aury-do-prdele)
-- [3.8.](#38)
+- [3.8 Víkend bez plánu](#38-víkend-bez-plánu)
 
 ### 1.8. Letí to jak blázen
 
@@ -21,4 +21,9 @@ Přes den jsem v konzumaci více kalorií pokračoval. Sice jsem si přivezl Ob�
 V bazénu jsem se spálil v páře, uplaval kilometr a trochu se z relaxoval v sauně. Ale psychickou pohodu mi to nepřineslo. Byl to jeden z těch horších dní. Miska mi chyběla a aury jezdily všude kolem mě. Nemohl jsem je nevidět. V jednu chvíli jsem na ohradě zakřičel. strčte si svý tury třeba do prdele. Docela mi to pomohlo.<br>
 Shlédnul jsem jeden díl Futuramy a udělal si k večeři vajíčka. Počítání kalorií mi řeklo, že jsem se stejně nedostal do přebytku, ale byl jsem tak na hraně svého cíle. Vlastně jsem měl dost triatlonový den. Spálil jsem toho dost. Dle hodinek skoro jako Ivan, který váží dvojnásobek.
 
-### 3.8.
+### 3.8 Víkend bez plánu
+
+Vyspal jsem se dobře. Vyhrabat se z postele mi ale trvalo. Bez plánu nebylo kam spěchat. Taky mi ale bylo jasný, že takhle to příští víkend být nemůže. být doma mě začínalo srát. Posledního půl roku (Došlo mi , že za to dní to bude opravdu půl roku) jsem toho moc nenadělal. Možná, že to byl ten výlet s Brontíky, který mi pomohl uvedomit si, že trávit Čas převážně sám nikam nevede. Asi jsem to potřeboval. Když jsem po rozchodu byl s lidmi, byl jsem negativní. Ale Bára mi napsala, že teď tak nepůsobím.<br>
+Vyplnil jsem přihlášky na další dvě akce s nimi . Obě ale byly až ke konci prázdnin. Co s těma nadcházejícími dvěma víkendy?<br>
+Asi kolo. Lublaň -Innsbruck? To by mohlo být fajn. Napřed roviny a moře, potom hory. Do tisíce kilometrů. 14 dní. Řekl jsem si , že v neděli to promyslím. V sobotu jsem totiž nedělal skoro nic. Kromě deníku, Youtube a seriálů. Byl to den, kdy jsem nevytáhl paty z bytu. Ale díky vlastnoručně pečenému chlebu jsem spořádal víc kalorií než jsem spálil. Taky jsemtrochu posiloval s gumou. Těšil jsem na to až si v pondělí stoupnu na váhu a zjistím, že jsem přibral. Svaly doufejme.
+
