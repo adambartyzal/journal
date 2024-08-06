@@ -2,20 +2,22 @@
 - [1.8. Letí to jak blázen](#18-letí-to-jak-blázen)
 - [2.8. Strčte si svoje Aury do prdele](#28-strčte-si-svoje-aury-do-prdele)
 - [3.8 Víkend bez plánu](#38-víkend-bez-plánu)
+- [4.8. Živlům vstříc](#48-živlům-vstříc)
+- [5.8. Nabírání zpoždění](#58-nabírání-zpoždění)
 
 ### 1.8. Letí to jak blázen
 
 Obzvlášť když si dny uděláš jeden jak druhej. Ráno, cesta do práce, osm a půl hodiny myšlenkového zápřahu, plavat, domů, deník, povinnosti a občas kino, kamarádi, nějakej seriál nebo cvičení. A další den to samé.<br>
-Můžeš vyhořet, když se odlepuješ ode dna? Postupně, po kouscích. Když cítíš, že se to lepší. Když dní, kdy se ti chce brečet je míň než měsíc zpátky. Může se to zhroutit a jít do sraček ješte víc? Možná že jo.<br>
+Můžeš vyhořet, když se odlepuješ ode dna? Postupně, po kouscích. Když cítíš, že se to lepší. Když dní, kdy se ti chce brečet je míň než měsíc zpátky. Může se to zhroutit a jít do sraček ještě víc? Možná že jo.<br>
 Nechtěl jsem aby se to stalo. Potřeboval jsem rutinu trochu rozbít. Brontosaurus pomohl. Přihlásil jsem se na další. A řekl si. že pojedu někam na kole. Druhá polovina září. A někam poletím. Dublin třeba. I-Ting by tam měla být. Vidět ji by bylo fajn.<br>
-V práci jsem se zas trochu posunul s landami. Zavedl jsem víc enumi, abych schoval hexa konstanty. Zvýšil čitelnost, rozchodil SFGT a měl z toho docela radost.<br>
+V práci jsem se zas trochu posunul s lambdami. Zavedl jsem víc enumy, abych schoval hexa konstanty. Zvýšil čitelnost, rozchodil SFGT a měl z toho docela radost.<br>
 V bazénu mě fyzicky bolelo koukat na lidi co bojovali s vodou. Ale radit jim nemělo smysl.<br>
 Doma jsem uvařil, ostříhal se, sepsal den, zalil kytky a dal věci do pračky. Víc jsem toho nestihl. Řekl jsem si, že budu muset víc ctít normální pracovní dobu. A možná trochu míň sportovat.<br>
 Ale na ráno jsem naplánoval běh. Ivan běhal. Nebude jedinej.<br>
 
 ### 2.8. Strčte si svoje Aury do prdele
 
-A běhat jsem šel. A docela mi to šlo. Do folimanky, na Nuselák, a Nuslemi zpet. 6.28 km s tempem 5:14 min / km. Nebylo zlý na to, že za poslední tři měsíce jsem naběhal asi 15 km.<br>
+A běhat jsem šel. A docela mi to šlo. Do Folimanky, na Nuselák, a Nuslemi zpet. 6.28 km s tempem 5:14 min / km. Nebylo zlý na to, že za poslední tři měsíce jsem naběhal asi 15 km.<br>
 Dole v mojem chlebu, jsem koupil housky s posnídal je s omeletou. Z něčeho bylo třeba tu váhu nabrat.<br>
 Přes den jsem v konzumaci více kalorií pokračoval. Sice jsem si přivezl Oběd v krabičce, ale šel jsem s kluky do AFI věže na květákový dbal. A svůj oběd jsem si dal před odchodem.<br>
 V bazénu jsem se spálil v páře, uplaval kilometr a trochu se z relaxoval v sauně. Ale psychickou pohodu mi to nepřineslo. Byl to jeden z těch horších dní. Miska mi chyběla a aury jezdily všude kolem mě. Nemohl jsem je nevidět. V jednu chvíli jsem na ohradě zakřičel. strčte si svý tury třeba do prdele. Docela mi to pomohlo.<br>
@@ -26,4 +28,30 @@ Shlédnul jsem jeden díl Futuramy a udělal si k večeři vajíčka. Počítán
 Vyspal jsem se dobře. Vyhrabat se z postele mi ale trvalo. Bez plánu nebylo kam spěchat. Taky mi ale bylo jasný, že takhle to příští víkend být nemůže. být doma mě začínalo srát. Posledního půl roku (Došlo mi , že za to dní to bude opravdu půl roku) jsem toho moc nenadělal. Možná, že to byl ten výlet s Brontíky, který mi pomohl uvedomit si, že trávit Čas převážně sám nikam nevede. Asi jsem to potřeboval. Když jsem po rozchodu byl s lidmi, byl jsem negativní. Ale Bára mi napsala, že teď tak nepůsobím.<br>
 Vyplnil jsem přihlášky na další dvě akce s nimi . Obě ale byly až ke konci prázdnin. Co s těma nadcházejícími dvěma víkendy?<br>
 Asi kolo. Lublaň -Innsbruck? To by mohlo být fajn. Napřed roviny a moře, potom hory. Do tisíce kilometrů. 14 dní. Řekl jsem si , že v neděli to promyslím. V sobotu jsem totiž nedělal skoro nic. Kromě deníku, Youtube a seriálů. Byl to den, kdy jsem nevytáhl paty z bytu. Ale díky vlastnoručně pečenému chlebu jsem spořádal víc kalorií než jsem spálil. Taky jsemtrochu posiloval s gumou. Těšil jsem na to až si v pondělí stoupnu na váhu a zjistím, že jsem přibral. Svaly doufejme.
+
+### 4.8. Živlům vstříc
+
+Poslední vajíčka k snídani. Chleba už to začínal mít za pár. Do večera jsem ho musel dojíst. Rozhodl jsem se zadělat na další. Víc pšeničné mouky a trochu droždí. Místo plechu možná zkusit použít formu na dort. Aspoň se nerozleze, když bude těsto tekutější.<br>
+Na tinderu jsem si psal s Denisou. Moje povrchní stránka s ní úplně nesouznila, ale chtěl jsem zjistit, jestli je fajn. Protože na moje první dotazy odpovídala fajn. Prý by klidně jela na rande do temného lesa, pozorovat padající perseidy. Na druhé rande tedy. První chtěla kafe. To mi přišlo fér.<br>
+Přemýšlel jsem nad cyklostezkou 8100. V noci sice pršelo a všude bylo mokro, ale víc už pršet nemělo. Nějak jsem se ale zasekl u práce. Nevím proč vlastně. Byla neděle. Ale nějak jsem měl touhu s tím pohnout. Polling podle EMVCo mě trápil. Trochu mi rozbil princip mého simulování PICC a to se mi nelíbilo.<br>
+Na remarkable jsem přešel z kuličkového pera na něco, co se jmenovalo marker. Přišlo mi že jsem tím byl schopný psát čitelněji.Taky jsem z kostiček přešel na řádky. To mi možná pomohlo ještě víc. Byl jsem zvědavý, jestli se zlepší převod na text. Chybějící diakritika, mezery před Interpunkcí a špatně rozeznaná slova mě začínala štvát.<br>
+Docela se mi to dařilo.<br>
+Na cyklostezku jsem nakonec nevyjel. Cvičil jsem doma s posilovací gumou a koukal na dračího prince. Taky jsem se dočetl, že člověk dokáže nabrat maximálně kilo svalů za měsíc. Dostat se z 61 na 66 teda bude trvat nejmíň půl roku. Pokud teda chci přibrat jen svaly. Což jsem chtěl. Attia psal, že síla s věkem jen klesá a téměř jediný způsob jak tomu předejít, je vybudovat si svaly, dokud to jde<br>
+Opravil jsem ale ty testy. To bylo fajn. Byl jsem zvědavý, jak se to projeví ve skutečnosti. Teď když jsem to ale napsal, došlo mi, že jsem sahal jen do simulací. NFCM funguje. Podle požadavků na Polling.<br>
+Dračí princ je divný seriál. Nic moc se v něm neděje. Trochu násilně učí toleranci, Inkluzi, lásce a přátelství. Je to infantilní. A návykové. Možná proto má tak vysoké hodnocení.<br>
+Být zavřený doma mi začalo vadit. Vyrazil jsem pěšky do Podolí. A stihl to jen tak tak. Posledních 200 metrů už na mě pršelo. Ale skutečný slejvák se spustil až když jsem vlezl dovnitř.<br>
+Šatny naneštěstí byly zavřené. Muselo se přes letní. Do deště se mi nechtělo, a tak jsem si radši dal stracciatellový dortík a počkat až to přejde.<br>
+Plavat v dešti je v pohodě. Člověk je stejně mokrej. Zato jít domu v dešti nic moc. Cestou jsem si ale z plna hrdla zpíval společně s Tata bojs a bylo mi jedno co si kdo myslí. V Albertu jsem si koupil chleba a sýr a o 800 kcal jsem přestřelil svůj cíl. To bylo dobře. Jednou za čas.<br>
+Bára mi odepsala. Poslala mi podcast s Eliškou Remešovou. A dlouhý a zajímavý Zprávy. Její snoubenec se evidentně jmenuje Honza. Napadlo mě, že je to Honza, co nechal Martin před svatbou. Ale to by svět musel být malý. Navíc měl být z Moravy. Což vlastně Marti Honza byl. Byl z Jihlavy. Honzů je ale milion.<br>
+Domů jsem došel před desátou. Vikend byl pryč. Víkendy bez plánu utíkají rychle. Obzvlášť když nic neděláš.
+
+### 5.8. Nabírání zpoždění
+
+Neb jsem šel spát trochu později počítal jsem s pozdějším vstáváním. Snídani jsem vyřešil cestou. Na Vinohradské jsem se zastavil ve fancy pekařství pro makovou a tvarohovou buchtu. Cestou jsem si dal jednu z nich a byla plná povidel. 60 korun a taková zrada. Navíc chutnala průměrně.<br>
+V práci jsem se pustil do merge ufc wake up větve s nfc protokolu. EMV Pollování tomu totiž nahrávalo. A po obědě v AFI, kde meli cuketu s balkánem a kuskusem, se mi to povedlo. Teda jakž takž Dalo se to zaseknout. A nevěděl jsem proč.Povolil jsem IRQ na chyby a v typu A bylo něco špatně s CRC. Co to ale bylo jsem nechal na úterý. Už takhle jsem hodinu přetahoval.<br>
+U Lidlu, kde jsem si chtěl koupit čokoládu, aby se mi lépe plavalo, jsem objevil, že nemám zámek. Ráno před pekárnou jsem kolo vlastně taky nezamykal. Co už. Na Konopišťské jsem si dal pár shybů, dipů a kliků místo toho.<br>
+Bára označila pár věcí, které dělám za inspirativní. Odepsal jsem, že z toho mi roste ego a měla by takovými výrazy šetřit.<br>
+Doma jsem uvařil hráškovou polévku. Byl to ten hrášek, který jsem koupil na chlazení díry po osmičce. Maximální využití zdrojů. Během vaření jsem si volal s Martou. Byla na skautském táboře a s Žužu tam vařily dobroty . Vlastně byli kousek od Jindřichova Hradce. A jejich tábor nebyl moc vybavený.<br>
+Ale zněla šťastně. A já měl radost, že mám tak bezva kamarádku. Večer jsem se ještě díval na dračího prince. A přetáhl večerku.<br>
+Implementace budíků pro mé budoucí já mi moc nešla.
 
