@@ -4,6 +4,9 @@
 - [3.8 Víkend bez plánu](#38-víkend-bez-plánu)
 - [4.8. Živlům vstříc](#48-živlům-vstříc)
 - [5.8. Nabírání zpoždění](#58-nabírání-zpoždění)
+- [6.8. Od slzám k úsměvu](#68-od-slzám-k-úsměvu)
+- [7.8. Naslepo sám](#78-naslepo-sám)
+- [8.8.](#88)
 
 ### 1.8. Letí to jak blázen
 
@@ -25,9 +28,9 @@ Shlédnul jsem jeden díl Futuramy a udělal si k večeři vajíčka. Počítán
 
 ### 3.8 Víkend bez plánu
 
-Vyspal jsem se dobře. Vyhrabat se z postele mi ale trvalo. Bez plánu nebylo kam spěchat. Taky mi ale bylo jasný, že takhle to příští víkend být nemůže. být doma mě začínalo srát. Posledního půl roku (Došlo mi , že za to dní to bude opravdu půl roku) jsem toho moc nenadělal. Možná, že to byl ten výlet s Brontíky, který mi pomohl uvedomit si, že trávit Čas převážně sám nikam nevede. Asi jsem to potřeboval. Když jsem po rozchodu byl s lidmi, byl jsem negativní. Ale Bára mi napsala, že teď tak nepůsobím.\
-Vyplnil jsem přihlášky na další dvě akce s nimi . Obě ale byly až ke konci prázdnin. Co s těma nadcházejícími dvěma víkendy?\
-Asi kolo. Lublaň -Innsbruck? To by mohlo být fajn. Napřed roviny a moře, potom hory. Do tisíce kilometrů. 14 dní. Řekl jsem si , že v neděli to promyslím. V sobotu jsem totiž nedělal skoro nic. Kromě deníku, Youtube a seriálů. Byl to den, kdy jsem nevytáhl paty z bytu. Ale díky vlastnoručně pečenému chlebu jsem spořádal víc kalorií než jsem spálil. Taky jsemtrochu posiloval s gumou. Těšil jsem na to až si v pondělí stoupnu na váhu a zjistím, že jsem přibral. Svaly doufejme.
+Vyspal jsem se dobře. Vyhrabat se z postele mi ale trvalo. Bez plánu nebylo kam spěchat. Taky mi ale bylo jasný, že takhle to příští víkend být nemůže. být doma mě začínalo srát. Posledního půl roku (Došlo mi, že za to dní to bude opravdu půl roku) jsem toho moc nenadělal. Možná, že to byl ten výlet s Brontíky, který mi pomohl uvedomit si, že trávit Čas převážně sám nikam nevede. Asi jsem to potřeboval. Když jsem po rozchodu byl s lidmi, byl jsem negativní. Ale Bára mi napsala, že teď tak nepůsobím.\
+Vyplnil jsem přihlášky na další dvě akce s nimi. Obě ale byly až ke konci prázdnin. Co s těma nadcházejícími dvěma víkendy?\
+Asi kolo. Lublaň -Innsbruck? To by mohlo být fajn. Napřed roviny a moře, potom hory. Do tisíce kilometrů. 14 dní. Řekl jsem si, že v neděli to promyslím. V sobotu jsem totiž nedělal skoro nic. Kromě deníku, Youtube a seriálů. Byl to den, kdy jsem nevytáhl paty z bytu. Ale díky vlastnoručně pečenému chlebu jsem spořádal víc kalorií než jsem spálil. Taky jsemtrochu posiloval s gumou. Těšil jsem na to až si v pondělí stoupnu na váhu a zjistím, že jsem přibral. Svaly doufejme.
 
 ### 4.8. Živlům vstříc
 
@@ -51,7 +54,33 @@ Neb jsem šel spát trochu později počítal jsem s pozdějším vstáváním. 
 V práci jsem se pustil do merge ufc wake up větve s nfc protokolu. EMV Pollování tomu totiž nahrávalo. A po obědě v AFI, kde meli cuketu s balkánem a kuskusem, se mi to povedlo. Teda jakž takž Dalo se to zaseknout. A nevěděl jsem proč.Povolil jsem IRQ na chyby a v typu A bylo něco špatně s CRC. Co to ale bylo jsem nechal na úterý. Už takhle jsem hodinu přetahoval.\
 U Lidlu, kde jsem si chtěl koupit čokoládu, aby se mi lépe plavalo, jsem objevil, že nemám zámek. Ráno před pekárnou jsem kolo vlastně taky nezamykal. Co už. Na Konopišťské jsem si dal pár shybů, dipů a kliků místo toho.\
 Bára označila pár věcí, které dělám za inspirativní. Odepsal jsem, že z toho mi roste ego a měla by takovými výrazy šetřit.\
-Doma jsem uvařil hráškovou polévku. Byl to ten hrášek, který jsem koupil na chlazení díry po osmičce. Maximální využití zdrojů. Během vaření jsem si volal s Martou. Byla na skautském táboře a s Žužu tam vařily dobroty . Vlastně byli kousek od Jindřichova Hradce. A jejich tábor nebyl moc vybavený.\
+Doma jsem uvařil hráškovou polévku. Byl to ten hrášek, který jsem koupil na chlazení díry po osmičce. Maximální využití zdrojů. Během vaření jsem si volal s Martou. Byla na skautském táboře a s Žužu tam vařily dobroty. Vlastně byli kousek od Jindřichova Hradce. A jejich tábor nebyl moc vybavený.\
 Ale zněla šťastně. A já měl radost, že mám tak bezva kamarádku. Večer jsem se ještě díval na dračího prince. A přetáhl večerku.\
 Implementace budíků pro mé budoucí já mi moc nešla.
+
+### 6.8. Od slzám k úsměvu
+
+Zase jsem se ráno flákal. V práci jsem ale v pondělí přetahoval, mohl jsem si dovolit být tam kratší dobu. Vlastně jsem přetahoval celý červenec. A do jisté míry celý tenhle rok. Ale práce je to, co mě posledního půl roku drželo při smyslech. Nelitoval jsem toho. Nicméně přehánět to nemělo smysl. A tak jsem jel plavat.\
+Nějak mi to nešlo. První tři stovky jsem se stěží hýbal. Ale pak se to trošku zlepšilo. Nějak moc jsem myslel na Misku. Když jsem pak sjížděl do Vysočan, rozbrečel jsem se. Bylo to půl roku a pořád se to dělo. Pravda, asi se to dělo míň. Ale dělo se to. Zkusil jsem si říct, že to ona mě Opustila. Že ona ublížila mně. Ale to mi přineslo málo útěchy. Chyběla mi. Byl jsem pořád zamilovanej do někoho, koho jsem půl roku neviděl.\
+Život dokáže být zkurvenej. Absurdní na tom je, že ráno jsem si říkal, že štěstí je volba. Já se jí set sakra snažím volit. Ale pak přijde vzpomínka na ní. Holku, která je pravděpodobné štastná v náruči někoho jinýho.\
+Zase jsem se trochu posunul v EMV požadavcích.Vyřešil jsem kolizi A a B karty. Napsal jsem si na to testy a pak to opravdu fungovalo.\
+Uprostřed tohohle snažení mě teda přerušil Ríša, protože nabíjel baterky a jeden node vzplanul.Později se ukázalo, že to byl jeden z původních, které tohle dělaly. Opravil jsem to a vrátil se k NFCU.\
+Někdy odpoledne mi psala na Tinderu Veronika. Holka, která měla jednu z fotek u silnice v dešti, kdesi v Irsku s cedulí na stop. Byla sympatická a dost na přímo se zeptala, jestli nechci ven. Třeba na salsu do Stromovky, nebo s sebou plácnout do parku. Na gauč jsem se necítil, ne po tom jak dopadl minule. Ale park zněl fajn. Vybrala park přátelství. Vlastně tam někde bydlela. A já to měl jen pár minut do kopce.\
+A bylo to moc fajn. Seděli jsme na dece a povídali si. O španělsku, Španělštině, čínštině, kolech, práci v Katalánsku, Irsku, hudbě, nástrojích, náhodách a katastrofách. A pak najednou byla zima. Protože bylo skoro deset.\
+Doprovodil jsem ji dom a pak vyrazil na sjezd ze Střížkova. Zadem na Zenklovu. Dolů do Karlína. Po nábřeží a magistrálou doma. Byla to docela štreka. Ale stálo to za to.\
+Den který začal v slzách skončil moc pěkně.
+
+### 7.8. Naslepo sám
+
+Začal jsem den psaním. Na laptopu bych to asi neudělal. Ale s mým novým papírovým tabletem to bylo fajn. Akorát to žralo čas. A ráno je čas drahocenný. Ale deník je mi cennější.\
+V práci jsem úplně rozboural NFCM. Ale dělal jsem to opatrně. Když jsem přepisoval metodu na takovou, která bere callback, přetížil jsem původní. Velký stavový automat `solveReceived()` a `respond()` což vlastně byla jedna metoda, rozdělená na dvě, jsem rozkrájel na jednotlivé metody, zrušil stavy a opatřil metody funkcí jako vstupním parametrem.\
+A fungovalo to. Jako základ pro volání removal to bylo dobrý. A vlastně to byl skvělý základ pro Transaction Send Application.\
+Když jsem jel do Aera, napsala mi Aileen. Vydělala sedm tisíc dolarů na nějakém obchodu s Bitcoinem. Mluvila o tom, že trading signály jsou jasné, ale nic konkrétního z ní nevypadlo. Vlastně začala být arogantní a hnusná. A měla stejnou dikci jako Číňani. Singapurci asi nebudou mentalitou od Číňanů daleko.\
+V poledne jsem se vlastně s nějakým Číňanem bavil. Čínsky. Měl jsem ze sebe radost. Řekl miŽe je Číňan a že je z Šanghaje. A že má Čínština je moc dobrá. Oproti Aileen byl milej.\
+Potkal jsem ho, protože jsme šli s Ivanem do Vietnamky. Bun Chay i Bun Bo Nam Bo nám v horku bodlo. Ivan byl nadšený, že o něm píšu v deníku.\
+V Aeru jsem si nebyl jistý, zda vlastně na film chci. Všichni byli pryč. A Veronice jsem napsal moc pozdě. Veronika mi v hlavě uvízla víc než jsem Čekal. I přes to, že mluvila jak Kendy, měla gesta jak Kendy a vlastně měla i některé rysy jako Kendy. Když jsem si to v parku přátelství uvedomil, dost mě to vyděsilo. Je to hodně turn off. Ale byla fajn a rozhodně jsem ji chtel vidět. Víc než Denisu. Čím víc mi psala, tím víc mi docházelo, že to je druhá Nikita. Na to bych psychicky neměl. Ale sex s Niki byl fajn. To bych zase zvládl.\
+Film byl super. Hlavní hrdina byl stejný herec jako Charley Varrick. Dostkrát jsem se zasmál, až do konce nevěděl jak to skončí a žádné do očí bijící nesmysly si nevybavuji..\
+Na kole domů je to z Aera už docela fofr. Veronika mi ještě psala co je naslepo. Chvíli jsme si ještě povídali, ale byl čas jít spát. Už jsem zase přetahoval
+
+### 8.8.
 
