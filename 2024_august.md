@@ -1,4 +1,5 @@
-[<< Červenec](2024_july.md)<br>
+[<< Červenec](2024_july.md)
+
 - [1.8. Letí to jak blázen](#18-letí-to-jak-blázen)
 - [2.8. Strčte si svoje Aury do prdele](#28-strčte-si-svoje-aury-do-prdele)
 - [3.8 Víkend bez plánu](#38-víkend-bez-plánu)
@@ -6,7 +7,7 @@
 - [5.8. Nabírání zpoždění](#58-nabírání-zpoždění)
 - [6.8. Od slzám k úsměvu](#68-od-slzám-k-úsměvu)
 - [7.8. Naslepo sám](#78-naslepo-sám)
-- [8.8.](#88)
+- [8.8. Rozbít monolit](#88-rozbít-monolit)
 
 ### 1.8. Letí to jak blázen
 
@@ -82,5 +83,13 @@ V Aeru jsem si nebyl jistý, zda vlastně na film chci. Všichni byli pryč. A V
 Film byl super. Hlavní hrdina byl stejný herec jako Charley Varrick. Dostkrát jsem se zasmál, až do konce nevěděl jak to skončí a žádné do očí bijící nesmysly si nevybavuji..<br>
 Na kole domů je to z Aera už docela fofr. Veronika mi ještě psala co je naslepo. Chvíli jsme si ještě povídali, ale byl čas jít spát. Už jsem zase přetahoval
 
-### 8.8.
+### 8.8. Rozbít monolit
 
+Něco se změnilo. Kola se nehlásila do sítě. Zabil jsem tím půl dne a když jsem chtěl jit jíst rozpršelo se. A tak jsem s kluky hledal, čím to je. Až když skončili, dostal jsem se k NFC. Tam jsem se rozhodl, že simulátor PICC je příliš velký monolit, takže ho rozbiju. A rozbil jsem ho hodně. Na nekolik dní dopředu. Chtěl jsem udělat jednotlivé instance pro jednotlivé PICC.<br>
+Když už táhlo na šestou, uvědomil jsem si, že bez oběda vlastně přetahuju o obědovou pauzu. Sbalil jsem se a vyjel pryč. Přemýšlel jsem o bazénu. V batohu jsem plavky a ručník měl, ale nějak mi v hlavě ležel ten V02 Max a na ten potřebuješ HIT. Slíbil jsem Sáře, že jí zaleju kytky a to se dalo spojit s výběhy v Grébovce. Cestou jsem si tedy koupil čokoládu a banán, protože bez oběda energii na běh prostě nemáš.<br>
+Doma jsem objevil, že jsem nesnědl ani snídani. Chleby tam ležely na lince.<br>
+Vyběhl jsem a výšlapy dal čtyři. Jeden z nich byl můj rekord. Ale srdce jsem až tak nepotrápil. Stěží pátá zóna. SpíšČtvrtá nebo dokonce jen třetí. Zapotil jsem se ale fest.<br>
+Sáry kytky byly v poho. Nic neumíralo, všechno bylo zelený.<br>
+Na závěrečný rovince na Ukrajinské jsem to napálil na tempo pod 3. Ani jsem netušil, že něco takovýho dokážu.<br>
+Po zbytek večera jsem cítil lýtka. Ale vlastně jsem jen vařil těstoviny a koukal na seriál.<br>
+Mrzelo mě, že Veronika mi celý den neodepsala. V02 Max se nezvedl a má víra v jeho výpočet taky ne.
