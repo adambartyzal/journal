@@ -97,33 +97,18 @@ Další dva dny jsem nenapsal nic. Bylo třeba do deníku něco napsat. I když 
 Ale psát mi vždycky šlo v ikei. Měl jsem kolo co by mě tam dovezlo a venku bylo nádherně. Opravdu nádherně. Tak že bych si přál být s Miškou na procházce.<br>
 Foukalo proti mně a na Zličín je to jen do kopce. Průměr 20 kmh ale byl ok. Tričko bylo propocené značně.<br>
 Po spořádání vege koulí jsem se dal do psaní. Ucelený text jsem nezvládl. Ale sepsal jsem si strukturu uplynulých dní.<br>
-Cesta zpátky po plzeňské, rekordy<br>
-sprcha a oholení<br>
-tramvají na štross<br>
-kafe v antonínovi a murakami<br>
-všichni mluví anglicky<br>
-půl chleba, patifu v dm<br>
-pozadu do stromovky<br>
-blbý vtipy a strkání se do ramene<br>
-pryč od poutě<br>
-deka u vody a západ slunce<br>
-čaj a salmiaki
+Cestou zpátky jsem na Plzeňské trhal rekordy. Doma jsem se osprchoval, oholil a pak tramvají vyrazil na Štross. Byl jsem tam brzy. Sedl jsem si proto k Antonínovi, dal si kafe a venku si četl Murakamiho. Všichni kolem mě mluvili anglicky. A působili děsně hip.<br>
+Bára se objevila asi po půl hodině. Koupili jsme půl Antonínova chleba, v DMku naproti patifu a pozadu, kolem Zdeny se vydali do Stromovky.<br>
+Dělali jsme blbý vtipy a Bára mě strkala do ramene. Na výstavišti probíhala Matějská. Bára se jí chtěla vyhnout obloukem. Byl to vtipnej kontrast oproti dvěma rokům nazpět, kdy jsem kvůli Martě vlezl na obří houpačku. Tentokrát jsme se od poutě vzdálili a u vody s výhledem na západ slunce jsme si dali svačinu. Taky jsem jí předal mumínkovský čaj a salmiaki. Z obojeho byla nadšená. Prý ta otravná holka je její alter ego.
 
 <a href="../images/2024_april/6_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/6_1.jpg"></a>
 
-mokro ze zemně<br>
-dál ostrovu kde chybí vor<br>
-na lavičku<br>
-první a druhá hvězda<br>
-Barči příběh<br>
-chytit za ruku<br>
-ztracená ve fotkách<br>
-na letnou<br>
-rybník tam opravdu je<br>
-Na ostrůvku obalený do deky<br>
-pak podél kostelní dolů, nikdy tudy nešla<br>
-na vltavské metra téměř naráz<br>
-Vlavská a pusa, kterou jsem nezvládl dát už je pro mě téměř standard. Katarinu jsem tam měl políbit tolik let zpátky. Barču asi tentokrát. Ale až tak jsem to neprokaučoval. Držení ruky byl krok správným směrem.
+Deka u vody se ukázala jako ne nejlepší nápad. Zen byla vlhká a od ní i naše zadky. Šli jsme tak dál k ostrůvku, ale chyběl vor, který by nás na něj dostal. Nakonec jsme si sedli nalavičku. Zahlédl jsem první hvězdu. A pak druhou. A spustil tím vyprávění.<br>
+Silný vyprávění. O mrtvých rodičích, co se sjížděli nějakýma špatnýma drogama. O zlý tetě, co nebyla vlastně zlá, jen prostě neměla mít na krku děti. O dospívání co stálo za starou bačkoru a o spoustě dalších věcech, který tu nebudu rozepisovat.<br>
+Chytil jsem ji za ruku a snažil se dát najevo, že tam jsem s ní a že chci aby se cítila líp. Nevím jestli to fungovalo. Ale trochu možná jo. Určitě jsem ji pak dokázal rozesmát. Obzvlášť, když jsme pak šli k rybníku o jehož existenci neměla potuchy.<br>
+Nevěděla ani o aleji platanů podél kostelní. Byla z ní nadšená. A na rozdil ode mně měla mikinu a bundu, takže jí nebyla hrozná zima jako mně. Ještě že jsem měl tu deku.<br>
+Cíl byl Vltavská! Vltavská a pusa, kterou jsem stejně jako kdysi Katarině nezvládl dát. Říkal jsem si ale, že to držení se za ruce byl dostatečnej krok správným směrem.<br>
+Protože do hlavy jsem ji neviděl.
 
 ### 7.4. Nevydařený triatlon a vandalismus
 
@@ -324,18 +309,14 @@ Rozhodl jsem se, že do Tampere nepojedu. Chtěl jsem tam jet s Miškou a takhle
 Sedl jsem na kolo a sjel do Espresso House. Přes týden jsem toho moc nenapsal. A něco k zápisu bylo.<br>
 
 <a href="../images/2024_april/20_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/20_1.jpg"></a>
-<a href="../images/2024_april/20_2.jpg" target="_blank"><img src="../images/thumbnails/2024_april/20_2.jpg"></a>
 
+<a href="../images/2024_april/20_2.jpg" target="_blank"><img src="../images/thumbnails/2024_april/20_2.jpg"></a>
 
 ### 21.4. Větší bazén je menší
 
-fíla s verčou do helsinek<br>
-koupit pohled<br>
-psát do kafárny<br>
-dolů do bazénu<br>
-lidé na hokej, český brankář<br>
-sauny maké, ale pára<br>
-vířivky
+Fíla s Verčou odjeli do Helsinek. Já jsem plánoval nákup pohledů, psaní v kavárně a plavání. Vzal Jsem kolo u nádraží, sjel sněhem do centra a ve stejném papírnictví jako naposledy pořídil, co bylo třeba. Do kavárny to bylo jen přes ulici.<br>
+Byl jsem zvědavý jak vypadá bazén v centru. Byl kousek od zimního stadionu a dle internetu toho měl nabízet víc než bazén nahoře u Lidlu. A nebyla to lež. Měl navíc páru, vířivky , masážní bazének a skokánky. Ale chyběla mu ledová káď a všechno bylo namačkané v menším prostoru.<br>
+Odpoledne jsem vyrazil na nákup do k-Marketu. Tam převážně proto, abych se prošel starou Skandinávskou čtvrtí. Ty domečky se mi moc líbily.
 
 <a href="../images/2024_april/21_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/21_1.jpg"></a>
 
@@ -411,23 +392,20 @@ na vlak - divná paní<br>
 kolem synagogy<br>
 s předstihem<br>
 abusrdní plakát na portál občana<br>
-kora si sundavá košík<br>
-
+kora si sundavá košík
 
 <a href="../images/2024_april/27_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/27_1.jpg"></a>
 
 ### 28.4. Dělení jazyků
 
-Po alkoholu je spánek na pytel. Opět jsem to ověřil tak, že hodinky na mě byly zlé. Byla ale neděle a tak jsem nemusel být nijak zvlášť ready<br>
-prach<br>
-utírání prachu z žaluzií<br>
-mytí prachu<br>
-do bauhausu<br>
-přesazování kytek
+Po alkoholu je spánek na pytel. Opět jsem to ověřil tak, že hodinky na mě byly zlé. Byla ale neděle a tak jsem nemusel být nijak zvlášť ready.<br>
+Co jsem byl pryč, Arnošt převážně stál. Všechny skříně a police pokrýval prach a mě to začalo štvát. Napřed jsem jen zametal, ale pak jsem začal omývat a nakonec jsem se pustil do čistění žaluzií.<br>
+Tak jsem se dostal k oknu v kuchyni, kde v 3D tištěném truhlíku rostly nové tchýnin jazyky. Bylo třeba je přesadit do vlastních květináčů. Těch bylo doma málo. Substrát taky došel a tak Jsem vzal krosnu a vyrazil a kola na nákup. Internet ukázal, že Bauhaus je nejvýhodnější.A na Pankráci taky možná nejblíž.<br>
+Pěstovat kytky nejspíš vyžaduje mít auto. Sice jsem jel sotva 3 km, ale květníky, substrát a keramzit váží tunu. A zaberou ještě víc prostoru. Tahat nahoru to nemělo smysl. Do přesazování jsem se pustil rovnou. Povídala si u toho se mnou sousedka s dítětem. Asi žena Slováka se psem.
 
 <a href="../images/2024_april/28_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/28_1.jpg"></a>
 
-do lidlu<br>
+Zabralo mi to dost času, ale s výsledkem jsem byl spokojený. Napsal jsem do skupiny, že mám jazyky k mání a Marta s Rébou si hned 2 zarezervovali.<br>
 
 ### 29.4. Zloděj kam se podíváš
 

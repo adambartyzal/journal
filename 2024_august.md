@@ -8,6 +8,7 @@
 - [6.8. Od slzám k úsměvu](#68-od-slzám-k-úsměvu)
 - [7.8. Naslepo sám](#78-naslepo-sám)
 - [8.8. Rozbít monolit](#88-rozbít-monolit)
+- [9.8. (Ne)stihl jsem to](#98-nestihl-jsem-to)
 
 ### 1.8. Letí to jak blázen
 
@@ -93,3 +94,13 @@ Sáry kytky byly v poho. Nic neumíralo, všechno bylo zelený.<br>
 Na závěrečný rovince na Ukrajinské jsem to napálil na tempo pod 3. Ani jsem netušil, že něco takovýho dokážu.<br>
 Po zbytek večera jsem cítil lýtka. Ale vlastně jsem jen vařil těstoviny a koukal na seriál.<br>
 Mrzelo mě, že Veronika mi celý den neodepsala. V02 Max se nezvedl a má víra v jeho výpočet taky ne.
+
+### 9.8. (Ne)stihl jsem to
+
+Pomalu ale jistě jsem se vracel do harmonogramu, který se mi líbil. Ještě tak hodinu dřív. Stihnout plavat a bude to dobrý. Spánek prý stál za starou bačkoru, ale cítil jsem se líp než pár dní nazpět.<br>
+Veronika mě dál ignorovala. Mrzelo mě to. Ale kdyby se opravdu už nikdy neozvala. Svět by se nezhroutil.<br>
+Rozbíjení monolitu šlo rychle. Sestavit z toho nové funkční třídy moc ne. Ale prokousával jsem se tím a dělal pokroky. Někdy kolem čtvrté, už jsem měl pocit, že věci začínají fungovat a za minutu půl šesté, v momentu, kdy bylo načase odejít. protože jsem neměl klíče a Petr s DJem se balili, prošly všechny. (Později jsem tedy zjistil, že testy sice prošly, ale removal nefungoval jak měl. Ale i tak to bylo pozitivní.)<br>
+V dobré náladě jsem vyrazil plavat. Finská sauna jela na 80°C. Tolik jsem tam ještě nezažil. A tempo jsem zmáčkl pod dvě. A během plavání mě napadlo, že teď můžu konečně přidat generování a kontroly CRC.<br>
+Průser. Ta myšlenka mě tolik chytla, že jsem se do toho večer pustil. Psal jsem si u toho s nějakou divnou holkou Julií. Dobře divnou. Ale moc to nikam nevedlo. Přemýšlel jsem co se stalo s Veronikou. Zamilovával jsem se do představy. Blbý.Ale to CRC jsem skoro rozchodil. Na tu polynomiální funkci jsem použil AI. Napadlo mě, že už to musel někdo napsat a Al scrapuje celý Github. Napsala mi to tedy v std, ale to už bylo jedno<br>
+Před spaním jsem pokračoval v čistění zubů nití. Pořád jsem krvácel a prostor mezi pravou spodní šestkou a sedmičkou pořád bolet, ale přišlo mi, že se to lepší, ne naopak.
+
