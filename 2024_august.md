@@ -5,20 +5,20 @@
 - [3.8 Víkend bez plánu](#38-víkend-bez-plánu)
 - [4.8. Živlům vstříc](#48-živlům-vstříc)
 - [5.8. Nabírání zpoždění](#58-nabírání-zpoždění)
-- [6.8. Od slzám k úsměvu](#68-od-slzám-k-úsměvu)
+- [6.8. Od slz k úsměvu](#68-od-slz-k-úsměvu)
 - [7.8. Naslepo sám](#78-naslepo-sám)
 - [8.8. Rozbít monolit](#88-rozbít-monolit)
 - [9.8. (Ne)stihl jsem to](#98-nestihl-jsem-to)
 - [10.8. Kroky k dobrodružství](#108-kroky-k-dobrodružství)
 - [11.8. Indiánsky](#118-indiánsky)
-- [12.8.](#128)
+- [12.8. Tentokrát bez Štěpánky](#128-tentokrát-bez-štěpánky)
 - [13.8. Lahti je rozbilo](#138-lahti-je-rozbilo)
 - [14.8. Hlouběji a hlouběji](#148-hlouběji-a-hlouběji)
 - [15.8. Opět indiánsky](#158-opět-indiánsky)
 - [16.8. Vodafone odpovídá?](#168-vodafone-odpovídá)
 - [17.8. Jak ~~voda~~ čaj](#178-jak-voda-čaj)
 - [18.2. Horkem i zimou, suchem i bouří](#182-horkem-i-zimou-suchem-i-bouří)
-- [19.8.](#198)
+- [19.8. Bude to drahý](#198-bude-to-drahý)
 - [20.8. Nejhorší člověk na světě](#208-nejhorší-člověk-na-světě)
 - [21.8. Nic moc](#218-nic-moc)
 - [22.8. Kytary, píšťala, nepiva a minulost](#228-kytary-píšťala-nepiva-a-minulost)
@@ -83,11 +83,11 @@ Doma jsem uvařil hráškovou polévku. Byl to ten hrášek, který jsem koupil 
 Ale zněla šťastně. A já měl radost, že mám tak bezva kamarádku. Večer jsem se ještě díval na dračího prince. A přetáhl večerku.<br>
 Implementace budíků pro mé budoucí já mi moc nešla.
 
-### 6.8. Od slzám k úsměvu
+### 6.8. Od slz k úsměvu
 
 Zase jsem se ráno flákal. V práci jsem ale v pondělí přetahoval, mohl jsem si dovolit být tam kratší dobu. Vlastně jsem přetahoval celý červenec. A do jisté míry celý tenhle rok. Ale práce je to, co mě posledního půl roku drželo při smyslech. Nelitoval jsem toho. Nicméně přehánět to nemělo smysl. A tak jsem jel plavat.<br>
 Nějak mi to nešlo. První tři stovky jsem se stěží hýbal. Ale pak se to trošku zlepšilo. Nějak moc jsem myslel na Misku. Když jsem pak sjížděl do Vysočan, rozbrečel jsem se. Bylo to půl roku a pořád se to dělo. Pravda, asi se to dělo míň. Ale dělo se to. Zkusil jsem si říct, že to ona mě Opustila. Že ona ublížila mně. Ale to mi přineslo málo útěchy. Chyběla mi. Byl jsem pořád zamilovanej do někoho, koho jsem půl roku neviděl.<br>
-Život dokáže být zkurvenej. Absurdní na tom je, že ráno jsem si říkal, že štěstí je volba. Já se jí set sakra snažím volit. Ale pak přijde vzpomínka na ní. Holku, která je pravděpodobné štastná v náruči někoho jinýho.<br>
+Život dokáže být zkurvenej. Absurdní na tom je, že ráno jsem si říkal, že štěstí je volba. Já se jí set sakra snažím volit. Ale pak přijde vzpomínka na ní. Holku, která je pravděpodobné šťastná v náruči někoho jinýho.<br>
 Zase jsem se trochu posunul v EMV požadavcích.Vyřešil jsem kolizi A a B karty. Napsal jsem si na to testy a pak to opravdu fungovalo.<br>
 Uprostřed tohohle snažení mě teda přerušil Ríša, protože nabíjel baterky a jeden node vzplanul.Později se ukázalo, že to byl jeden z původních, které tohle dělaly. Opravil jsem to a vrátil se k NFCU.<br>
 Někdy odpoledne mi psala na Tinderu Veronika. Holka, která měla jednu z fotek u silnice v dešti, kdesi v Irsku s cedulí na stop. Byla sympatická a dost na přímo se zeptala, jestli nechci ven. Třeba na salsu do Stromovky, nebo s sebou plácnout do parku. Na gauč jsem se necítil, ne po tom jak dopadl minule. Ale park zněl fajn. Vybrala park přátelství. Vlastně tam někde bydlela. A já to měl jen pár minut do kopce.
@@ -153,7 +153,7 @@ Když jsem tam dorazil mával mi někdo, koho jsem nečekal. Kolín. Byli prý s
 Rebece to ale neušlo. A hned vyzvídala. Jarda ho našel na zemi v Prateru. Byl plastovej a o ruku Sáru požádal v psím parku při venčení Kory. Brát se opravdu budou ve Vegas a Jardovi rodiče ztropili trochu Seeku, když jim to ne úplně šťastně oznámil.<br>
 Byli jsme tam asi do jedenácti. Byl to fajn večer. A měl jsem opravdu radost, že jsem potkal Kolína.
 
-### 12.8.
+### 12.8. Tentokrát bez Štěpánky
 
 Vláďa říkal, že zátěžově to zvládnem.
 
@@ -230,7 +230,7 @@ Polární lištička zůstala uvnitř suchá, a ochránila můj Remarkable. G- 1
 Na Čerňáku jsem si dal v ikei horký čaj a hot dog. Spíš kvůli zahřátí, než kvůli hladu. Ten den jsem snědl přes 4500 kcal. Ale kalorie vodu z bot nevyženou.
 
 
-### 19.8.
+### 19.8. Bude to drahý
 
 
 
