@@ -14,17 +14,18 @@
 - [12.8.](#128)
 - [13.8. Lahti je rozbilo](#138-lahti-je-rozbilo)
 - [14.8. Hlouběji a hlouběji](#148-hlouběji-a-hlouběji)
-- [15.8.](#158)
+- [15.8. Opět indiánsky](#158-opět-indiánsky)
 - [16.8. Vodafone odpovídá?](#168-vodafone-odpovídá)
-- [17.8.](#178)
-- [18.8.](#188)
+- [17.8. Jak ~~voda~~ čaj](#178-jak-voda-čaj)
+- [18.2. Horkem i zimou, suchem i bouří](#182-horkem-i-zimou-suchem-i-bouří)
 - [19.8.](#198)
-- [20.8.](#208)
-- [21.8. Nejhorší člověk na světě](#218-nejhorší-člověk-na-světě)
+- [20.8. Nejhorší člověk na světě](#208-nejhorší-člověk-na-světě)
+- [21.8. Nic moc](#218-nic-moc)
 - [22.8. Kytary, píšťala, nepiva a minulost](#228-kytary-píšťala-nepiva-a-minulost)
-- [23.8.](#238)
+- [23.8. Chléb hezky vypadající, uvnitř trochu suchý](#238-chléb-hezky-vypadající-uvnitř-trochu-suchý)
 - [24.8. K Nováčkovic, Lasíkům a dál](#248-k-nováčkovic-lasíkům-a-dál)
 - [25.8. Petrichor](#258-petrichor)
+- [26.8. Občasné přívaly štěstí](#268-občasné-přívaly-štěstí)
 
 ### 1.8. Letí to jak blázen
 
@@ -177,7 +178,9 @@ Cvičil jsem tělo na hrazdě a hlavu duolingem. Petr mi poslal, co na Hamru va�
 To jsem ostatně psal Verunce. Byla měsíc vegetariánkou. Kvůli zvířatům a planetě. Znělo to, že nad tím přemýšlí rozumně.<br>
 Petr s Robinem byli oba hotoví. Vyčistili si zuby a před devátou odpadli.
 
-### 15.8. 
+### 15.8. Opět indiánsky
+
+Další indiánský běh. Tentokrát v Grébovce. Můj plán byl dostat se do páté zóny výběhem do kopce a chladnout cestou zpátky. Tak jak jsem to udělal už x-krát předtím. Jenže za minutu se to nahoru nedá stihnout. Aspoň s mojí současnou fyzičkou ne. Ale vyběhl jsem 3x a sprintů dal asi 5. Mé Vo2max se tentokrát nehnulo. Asi to není tak jednoduchý.
 
 ### 16.8. Vodafone odpovídá?
 
@@ -190,22 +193,48 @@ Plánoval jsem rozšířit NECO o Transaction Send Application. Ale DJ mi poslal
 Cestou zpátky jsem se chtěl zastavit v bazénu. A předtím v Lidlu. Energii na plavání bylo totiž třeba nějak dodat. Na křižovatce v Libni mi došlo, že nemám zámek. Vyndal jsem ho, protože Jirka řekl, že do Vietnamu dojedeme nakole. Jet zpátky se mi nechtělo, ale byl pátek a víkend bez zámku byl hrozbou pro Franze. Otočil jsem to, vyzvedl zámek a když jsem zamykal podruhé, bylo už sedm. Pozdě na to abych ze STEPu jel po osmé. Dojel jsem tak na Olšanku.<br>
 Na recepci byli dvě Ukrajinky. Skoro nás nechtěli pustit do bazénu, kde bylo 22 lidí. Normálně tam bývá lidí klidně ho. Víc než polovina sprch nefugovala a drah bylo natažených míň než obvykle. S Olšankou to šlo do kopru. Ale kilometr jsem zvládl s tempem 1:55. A to bylo fajn.
 
-### 17.8.
+### 17.8. Jak ~~voda~~ čaj
+
+Tenhle den začal trochu Dada. Po tom co jsem ráno koupil chleba, pesto a zeleninu na brunch jsem před nádražím potkal dva pány v oblecích z doby Rakouska Uherska. Když jeden z nich vytahoval z kapsy cibule, s úsměvem jsem mu řekl, že vystoupil ve špatném století. Odvětil, že nikoliv, že na Vyšehradě bude císař a že tam míří jejich kroky. Po chvíli kolem mě proběhla nějaká paní. taktéž dobové oděná a křičela na pány v oblecích, že polní kuchyně už je připravená.<br>
+Moje kroky taky mířily na Vyšehrad. Ne kvůli císaři, ale kvůli srazu s Veronikou. V 10 v sadech, jejichž jméno jsem okamžitě zapomněl. Prostě napravo u výhledu na Hrad.<br>
+Ani jeden jsme úplně nestíhali a oba jsme šli od metra. Potkali jsme se proto tam. Měla ofinu. Myslím, že předtím neměla ofinu. A hezký šaty. A podprsenku bez ramínek. To mě zaujalo.<br>
+Společně jsme vyšli na Vyšehrad a bavili se o podivínech z doby Franze Josefa prvního. A hledali vodu. Pítko. Plán byl totiž pít čaj. Měl jsem konvičku, měl jsem čaj, měl jsem sítko a měl jsem láhev. Ale láhev byla prázdná.První pítko bylo vyschlé. Druhé funkční.<br>
+Vařit vodu v ešusu pomocí bomby a vařiče na Vyšehradě mezi turisty mi přišlo vtipný.Rozhodně jsem se nepřetvařoval. Bylo to tak *Adamovská*, jak jen to jde.
 
 <a href="../images/2024_august/17_1.jpg" target="_blank"><img src="../images/thumbnails/2024_august/17_1.jpg"></a>
 
+Seděli jsme tam, povídali si, pili čaj, jedli zeleninu, moc dobré veganské wrapy a čas utíkal. Odporné rozlazená zvonkohra hrála hned několikrát. V jistou chvíli jsme došli k názoru, že půjdeme hrát na piáno. Kam? Do Neustadtu se mi úplně nechtělo. Dělat věci tak jako loni? To nebylo moudrý. Ale další alternativy byly zavřené.<br>
+A tak jsem vedl. Cestou, kterou jsme s Miskou šli tolikrát. Do chodby vedoucí k záchodům. Kde jsem Mišku učil hrát odrhovačku čtyřruč. A bylo to vpohodě. Bylo to jiný. Veronika totiž uměla hrát. A zpívat. Zpětně vzato jsem byl zbytečně kritický, když jsem jí učil Take Five. Vždycky jsem přehnaně kritický , když někoho něco učím. Podvědomě to dělám asi proto, že ti co byli kritičtí vůči mně, mě opravdu něco naučili. Paní učitelka na klavír. Jarda na plavaní. A další. Metoda cukru na mě moc nefunguje.<br>
+Vyhnal nás až hlad. Bylo po pátý. A měli jsme plán. Vietnamka v Karlíně. Ráno jsem na zemi našel lístek na městskou, byli jsme na béčku, psalo se to samo. Kdyby Vietnamci nezavřeli. Asi to po našem odchodu z Karlina prostě nedali. Vegani naproti taky ne. Karlín nebyl co ho pamatuju.
+
 <a href="../images/2024_august/17_2.jpg" target="_blank"><img src="../images/thumbnails/2024_august/17_2.jpg"></a>
 
-### 18.8.
+Zavřená byla i Dhaba. Jenže vedle Dhaby je druhá Dhaba. A vedle ní třetí. Absolutně to nedává smysl. Ale ta třetí byla otevřená. A dokonce měla večerní slevu 60%. Veronika byla nadšená z kousků ságy smažených v těstíčku a naložených do sladké chilli omáčky. Bylo to moc dobrý. Hodně to atakovalo bliss point.<br>
+Bavili jsme se o jídle, když jí někdo zavolal. Byl to spolu kapelník. Zapomněla na zkoušku. Ještě mělo smysl otočit se doma pro píšťalu a vyrazit za nimi. Strávili jsme spolu ¾ dne. Přišlo mi v pohodě jí propustit. Ale vlastně jsem si nestihl říct o číslo. Napsal jsem jí to a dostat ho obratem.<br>
+A pak se mi vybil mobil. Zrovna když jsem si chtěl půjčit rekolo. Holt jsem to domu došel pěšky. A měl u toho divný myšlenky. Byl to fajn den. Ale byl tak fajn jako dny rok zpátky? Byl jsem rozbitej? Zvládnu se někdy zamilovat znova tak strašně moc, jako do Mišky? Neměl jsem mít v hlavě takový věci. Měl jsem mít radost, že jsem strávil fajn den s fajn holkou.
+
+### 18.2. Horkem i zimou, suchem i bouří
+
+V půl třetí jsem měl být v Poděbradech. Na náměstí tam měl hrát big band a s Mámou jsme tam měli sraz. Do půl třetí ale bylo po vstávání daleko. Dal jsem si něco k snídani a vyrazil cvičit na konopišťskou.<br>
+Ke cvičení jsem si pustil audio knihu. [Ultra Processed People] (). Dozvěděl jsem se o ní z GCN. Ze série, kde se Dan rozhodl žít zdravěji. Ta knížka mě hodně chytla. UPF je docela absurdní vynález. Takový amarouny ve tvaru a chuti normálního jídla. A je tovšude. A jíme to všichni. Dá se tomu vyhnout, ale ne moc. Obzvlášť mě bavila kapitola o margarínu z uhlí, který vyráběli nacisté pro své vojsko.<br>
+V poledne jsem vařil a nejspíš proto jsem nabral zpoždění. Cesta do Poděbrad je docela dlouhá. Skoro 60 km. A když jedeš do špatných Počernic, pár kilometrů to ještě přidá.<br>
+Přišlo mi, že celou cestu jsem jel proti větru. Zmrzlina někde v půli cesty mi pomohla, ale když jsem dojel na promenádu, byly tři hodiny a já byl docela hotovej.<br>
+Natočil jsem si Eliščin pramen a posadil se mezi důchodce poslouchající jazz a polku. Máma přišla po chvilce. Povídala mi o tom, že Petrpůjčí Petrovi auto, protože dostanou Robina na hlídání. Vyptávala se mě na Veroniku a na to, co poslední dobou dělám. Byla to vlastně fajn diskuse. Taky mi přinesla brýle, které našla. Polarizované! A oříšky. Konečně moc fajn dárky.<br>
+V přestávce jsme si sedli na kafe a dortíky. Měl jsem mrkváč. Nebyl moc sladkej a to bylo fajn<br>
+Kapela se spíš zhoršovala. Basák hrál dost otrocky a bubeník jakbysmet. Ale bylo to zadarmo. Když dohráli, prošli jsme si promenádu a pro Mámu nakonec přijeli Veselí. V plném počtu.
 
 <a href="../images/2024_august/18_1.jpg" target="_blank"><img src="../images/thumbnails/2024_august/18_1.jpg"></a>
 
+Ve vzduchu byl déšť. Heel jsem to a vařil, že se tomu vyhnu. Nevyhnul jsem se. Pršelo tak moc, že po asi minutě už bylo úplně jedno, že jedu v dešti. A tak jsem tak jel tři hodiny.<br>
+Polární lištička zůstala uvnitř suchá, a ochránila můj Remarkable. G- 1000 je fakt neskutečnej materiál.<br>
+Na Čerňáku jsem si dal v ikei horký čaj a hot dog. Spíš kvůli zahřátí, než kvůli hladu. Ten den jsem snědl přes 4500 kcal. Ale kalorie vodu z bot nevyženou.
+
+
 ### 19.8.
 
-### 20.8.
 
 
-### 21.8. Nejhorší člověk na světě
+### 20.8. Nejhorší člověk na světě
 
 Večeře k snídani. Teplé pohankové rizoto. Pokračování poslouchání knížky. Dostat se ven mi trvalo dlouho. A dostat se do práce trvalo ještě dyl. Zadní kolo totiž bylo prázdné. Fakt se mi nechtělo lepit. Naštěstí jsem měl náhradní duši. tak jsem ale musel sundavat plait s drátem a ◦ je vždycky oser.<br>
 V práci jsem řešil Transaction Send Application. V úterý je na takový věci klid. Dokud mi tedy nezavolal pan Roubíček. Zprvu jsem nechápal, kdo to je.<br>
@@ -214,6 +243,11 @@ Osciloskopoval jsem nadšeně až někdy do Šesti. Jet domů nemělo smysl. Vza
 Kromě Marti a Viléma už všichni seděli před IPRem. Jarda se Sárou, Ondra s Rebekou, Filip s Anet (kulatou jak meloun) a Tomáš a Adél (byť ti nebyli spolu). Stejně jsem ale byl ploukovej. Moje myšlenky se stáčely k Mišce. A trochu k Veronice, která byla se svými kamarády na opačném břehu a šla do kina na Vlny.<br>
 Film byl... divnej. Norskej, severskej, o vztazích stejně jako Paříž 13 minule. Ještě víc mě nutil přemýšlet o Mišce . Rozchod hlavní hrdinky mi hodně připoměl ten náš. Ona pak šla a měla spoustu sexu s dalším klukem a byla štastná. Došlo mi, že přesně takhle to mohlo být i s Miškou. Rovnou do Adrienova náručí. Měl jsem z toho trochu schízu.<br>
 Po kině jsme skončili v Jerichu. Teda před Jerichem. Už bez Marti a Viléma. A zas tak dlouho jsme tam nepobyli. Chtěl jsem vidět Veroniku, ale jela po Vlnách domů. Jsem jel domů taky.
+
+### 21.8. Nic moc
+
+Ne všechny dny jsou hodné zápisu. Obzvlášť když si člověk neudělá žádný poznámky, nevyfotí žádnou fotku, a v práci zbytečně přetahuje, protože si myslí, že je něčemu na stopě. Kromě meetingu, na kterém jsme zjistili, že meeting vlastně až tak moc není třeba se opravdu nic nestalo.<br>
+Akorát v AFI měli jahodový knedlíky. A i ty byly nic moc. V tom jsem musel dát Ivanovi za pravdu. Rozhodne" v porovnání s cenou, kterou si za ně řekli.
 
 ### 22.8. Kytary, píšťala, nepiva a minulost
 
@@ -232,7 +266,7 @@ Miška mě rozbila. A já jí pořád měl plnou hlavu. Nejspíš i v momentu, k
 
 <a href="../images/2024_august/22_2.jpg" target="_blank"><img src="../images/thumbnails/2024_august/22_2.jpg"></a>
 
-### 23.8.
+### 23.8. Chléb hezky vypadající, uvnitř trochu suchý
 
 <a href="../images/2024_august/23_1.jpg" target="_blank"><img src="../images/thumbnails/2024_august/23_1.jpg"></a>
 
@@ -253,6 +287,18 @@ Za Zbraslaví vede 8100 do Vraného. Tam jsem minule udělal chybu. Aby ne. Je t
 
 <a href="../images/2024_august/24_2.jpg" target="_blank"><img src="../images/thumbnails/2024_august/24_2.jpg"></a>
 
-
 ### 25.8. Petrichor
 
+Neboli vůně deště dopadajícího na rozpálenou zem. Opravdu na to je slovo. Možná ne v češtině. ale v angličtině jo. A prý pochází z řečtiny. Cítil jsem jí při návratu z Lidlu. Mám tu vůni rád, možná je dokonce moje nejoblíbenější. Navíc jsem déšť potřeboval. Sázava schla a 28. srpen se blížil.<br>
+Moje dopolední myšlenkové rozpoložení stálo za starou bačkoru. Když jsem večer chtěl poslat Anet mapku s ujetou cyklotrason 8100, povedlo se mi jí omylem poslat Mišce. Měl jsem naší konverzaci otevřenou, protože jsem hledal, proč mi doporučila přečíst si Range.<br>
+Ta zpráva jí přišla omylem, ale ani se na ní nekoukla. Holce, kterou miluju, jsem úplně u prdele. Mělo mě to postrčit dál . Odprostit se od ní nějak. Ostatně to mi t.net psala. Ale topil jsem se v tom víc a víc.<br>
+Ani Veronika mi nepsala. Cítil jsem se osamělý a zmatený.<br>
+A tak jsem šel psát. Deník měl 14-ti denní deficit. Chyběly obzvlášť dny kdy se toho dělo hodně. Grilování u Vojty, schůzky s Veronikou, cesta do Poděbrad. Bylo třeba zabrat.<br>
+Nicméně všechno jsem stejně nezapsal. Čuměl jsem na seriály a šel cvičit. A ani to jsem moc nezvládl . Opět začalo pršet. Petrichor tentokrát nepřišel. Zem nebyla dost rozpálená. Je to vskutku ojedinělý jev.<br>
+Pár minut po desáté mi volala Sára, že si oba zapomněli klíče. Bylo to podruhý v tomhle týdnu. Nějak si začínali zvykat na to, že jsem jejich záloha. Ale takhle to konec konců má fungovat.
+
+### 26.8. Občasné přívaly štěstí
+
+Občas je zažívám. Obzvlášť po plavání, na kole, když mi do uší hraje nějaká dobrá hudba. Tentokrát to byl Opiuo. Na cestě ze STEPU. Zvláštní kontrast s tím co tomu předcházelo. Až na dobrý udon ve Vietnamce nic moc den. Simulace PICC nějak stagnovala. Našel jsem v ní pár chybek. Ale to, že mi při posílání 256 bajtových APDU někdo mazal paměť jsem nerozklíčoval.<br>
+Veronika mi ráno odepsala, ale pak zas nic. Nevěděl jsem jestli mě ghostuje, nebo to tak má v hlavě nastavený. Ale štvalo mě to.<br>
+Miška si mojí zprávu nepřečetla. To mě štvalo taky. Tak moc, že jsem si vypnul potvrzení o přečtení. Vlastně je to akorát stresující.
