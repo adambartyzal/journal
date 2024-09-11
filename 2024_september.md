@@ -8,6 +8,7 @@
 - [6.9. Bez ranní kávy](#69-bez-ranní-kávy)
 - [7.9. Máchovým krajem](#79-máchovým-krajem)
 - [8.9. Rýma na mozku a sádky kandátu](#89-rýma-na-mozku-a-sádky-kandátu)
+- [9.8. Šílený dle klinické definice](#98-šílený-dle-klinické-definice)
 
 ### 1.9. Olympijský triatlon
 
@@ -90,3 +91,11 @@ Jarda se Sárou se objevili asi po čtvrt hodině. Mluvili o tom jak Renča a S�
 Ale nebyl to depresivní večer. Vlastně jsme se zasmáli, když Jarda balil smažák do kapsy a Ondra, jehož hlas během dne z neznámých důvodů mizel vtipkoval.<br>
 Kolem desáté jsme vyrazili na tramvaje. Trvalo to docela dlouho. Šestka nám brnkla a osmnáctka jela jen na Synkáč. Vyprávěl jsem o vodě s kolegy a nákupu měřících zařízení na vývoj.<br>
 Kendyho kámoš už spal. Byl jsem hotovej. Doma bylo horko jako prase. Pustil jsem větrák a odpadl.
+
+### 9.8. Šílený dle klinické definice
+
+Chcalo. A přišla zima. Dobrých to stupňů na teploměru ubylo. Vzal jsem žlutou pláštěnku, boty na kanoistiku a vyjel do nepohody. Kendyho kámoš se balil, neb to byl jeho poslední den v Praze.<br>
+Jinak to bylo typické pondělí. V kanclu byli dálkaři a řešil se backend. Na oběd se šlo do AFI a měli nok s houbami a dýňový krém. Ten hodně nechutnal Ludvovi, který mi ráno řekl, že nepoletím do Finska vyměňovat rámy. V pátek mi totiž poslal email o tom, že v pondělí mi něco řekne. Celá výroba a Martínkovi totiž na konci týdne měli zmizet. Jeden prasklý rám a oheň byl na střeše.<br>
+Po práci jsem šel plavat. A píchl kolo. Ty nový Micheliny. Znova! Nechal jsem ho před bazénem a objevil, že nemám klíče. Brnknul jsem Martě jestli mi nepůjčí rezervní. Chvíli jsem šel pěšky ale pak jsem přesedlal na nextbike. Cestou jsem koupil v Albertu mouku na chleba na který bylo doma zaděláno.<br>
+100 g Žitné 100 ml vody byl rozkvas. 100 g další žitné, 200 g pšeničné, 300 ml vody a půl kostky droždí. Bylo to hodně mokré. Během překládaní, které hodně lepilo jsem tam pšeničné mohl dát klidně ješte 200 g. Vzešel pěkně. Do ošatky zas trochu padl, ale pořád rostl.A v troubě se nafoukl tak, že moje ego se nafouklo spolu s ním.<br>
+Telefonovali jsme si s Verčou. Třeba hodinu. Byla v Luhačovicích. A byla vyřízená. Školní výlet jí dával. Ale znělo to hezky.
