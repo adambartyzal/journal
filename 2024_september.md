@@ -3,7 +3,7 @@
 - [1.9. Olympijský triatlon](#19-olympijský-triatlon)
 - [2.9. Vlaštovky z papíru.. na papíru](#29-vlaštovky-z-papíru-na-papíru)
 - [3.9. Absurdní plán](#39-absurdní-plán)
-- [4.9.](#49)
+- [4.9. Naslepo opět s ostatními](#49-naslepo-opět-s-ostatními)
 - [5.9. Do lepší společnosti](#59-do-lepší-společnosti)
 - [6.9. Bez ranní kávy](#69-bez-ranní-kávy)
 - [7.9. Máchovým krajem](#79-máchovým-krajem)
@@ -23,7 +23,13 @@ Zbytek dne jsem proflákal. Ostatně byla to neděle. Bůh to tak chtěl.
 
 ### 2.9. Vlaštovky z papíru.. na papíru
 
+První školní den. Pro spoustu lidí kolem mě významná věc. Ivan vedl syna poprvé do školy. I pro Robina to bylo ve škole poprvé. A pro Veroniku svým způsobem taky. Začínala třídnictví. A byl z toho trochu v nervu.<br>
+Líbilo se mi jak velkej kus sebe do toho dává. Celý den řešila školu. A celý večer připravovala věci pro studenty. Třeba časovou kapsli. Krabici od bot, oblepenou kresbami vlaštovek z papíru.<br>
+O tom jak je správně namalovat jsme si večer telefonovali. Ten telefonát mě ohromně bavil. Byl v podstatě o ničem. Ale přinesl mi slunce do duše.
+
 <a href="../images/2024_september/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/2_1.jpg"></a>
+
+Domluvili jsme se, že půjdeme ve čtvrtek ven. Že se optám paní Hřivnákové, zde lístky do DOXu jsou stále k dispozici.
 
 ### 3.9. Absurdní plán
 
@@ -32,7 +38,15 @@ Po ranních míchaných vajíčkách jsem jel rovnou do práce. Ivan tam nebyl, 
 Bytovou komunikaci skrz RF jsem dopsal a fungovala. Skoro. Při delších časech se něco rozsypávalo. A to tak, že v GDB bylo krokování nechronologické. To jsem tedy zjistil až doma, protože mi to nedodalo spát.<br>
 Při obědvání jsem napsal paní Hřivňákové. Až teď když jsem napsal její jméno mi došlo, jak vtipně si vybrala práci s penězi. Nabídla mi totiž vstupenky do Doku. Na 5.9. To nemohla být náhoda. Pozval jsem na tu akci Veroniku. A v hlavě se mi rodil plán. Tentokrát [nebude rychlejší](../2023_september/#59-byla-rychlejší). Tentokrát to udělám já.
 
-### 4.9. 
+### 4.9. Naslepo opět s ostatními
+
+V práci jsem rozchodil posílání APDU větších než je buffer v čipu. Přijímání byla věc druhá, od toho jsem byl ještě daleko. Ale byl to pokrok a měl jsem z toho radost.<br>
+Paní Hřivnáková mi v úterý řekla, že v Doku bychom měli být oblečeni smart casual. To mě dostrkalo ke koupi dvou kusů oblečení. Kraťas z Decathlon na Harfě a společenských barefootů Aylla Inca z na Boso. Byla to objížděčka krámů a kupovat boty mi většinou tvá. Ale taky jsem si zamiloval hned. Zkusil jsem ještě levnější Anglesky. V podstatě letní variantu mých zimních, ale nebylo to ono.<br>
+S novými botami v batohu jsem vyrazil do STEPu. Jenže běda. Měli technologickou přestávku. Dostal jsem ale v obálce nějaký poukaz jako kompenzaci za cestu naprázdno.<br>
+Bylo asi půl sedmý a Olšanka by tak od Aera byla příliš velká zajížďka. Sjel jsem do Lidlu, chvíli tam obdivoval, že chytrá závora je dost podobná našemu totemu a když jsem snědl chleba s jablkem a sýrem, dojel jsem do Aera, zabral stůl a pustil se do čekání na ostatní s láhví nepiva.<br>
+Rébe byla první. Marta druhá a potom Ondra. Vícnás být nemělo. Ale i tak to byla oproti minutu společnost. Proto jsem nevzal Veroniku. Všichni by měli otázky na něž jsem já sám neměl odpovědi. Ty měly přijít ve čtvrtek. Nebo tak jsem si to alespoň představoval.<br>
+Film byl typicky podivnej. O holce s tátou v depresi pokterý pálil kluk z vyšší kasty. Chvíli to bylo vážný jindy hloupoučký. Jon Cryer v tom měl skvělou roli. Víc než 3 z 5 si to nezasloužilo.<br>
+Zpátky jsme šli s Martou pešky. Povídala mi o dalším potratu, a bylo vidět, že je z toho hodně skleslá. Moc jsem jí nebyl s to pomoct. Ale poslouchal jsem a objal ji. Být kamarád je občas náročný. Marta je jedna z nejdůležitějších osob v mým životě. Bolelo mě vidět ji smutnou.
 
 ### 5.9. Do lepší společnosti
 
