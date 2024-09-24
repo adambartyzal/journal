@@ -22,7 +22,7 @@
 - [20.9. Páťa Nováčkovic](#209-páťa-nováčkovic)
 - [21.9. Jeden hlas pro Zelené](#219-jeden-hlas-pro-zelené)
 - [22.9. Krajem rybníků a povodní](#229-krajem-rybníků-a-povodní)
-- [23.9. Marti zkouší Řehoře](#239-marti-zkouší-řehoře)
+- [23.9. Marťa zkouší Řehoře](#239-marťa-zkouší-řehoře)
 
 ### 1.9. Olympijský triatlon
 
@@ -190,12 +190,12 @@ Chleba dopadl tak nějak ok. Až ráno jsem objevil, že 10 gramů soli je moc. 
 
 ### 13.9. Pod puntíkovaným deštníkem
 
-Další deštivý den. Další den v MHD. V béčku mi mávala paní z karlínské jídelny. Deštník tu cestu moc nedal. Před obědem, na který jsme šli jen s Vláďou do Deli jsem ho trochu vyspravil izolepou, ale mělo to nechtěný efekt. Přestal jít zavírat. Šli jsme tam na smažák. Nebo aspoň Vláďa šel. Já jsem to zavrhl a z teplého bufetu jsem si nabral zapečenou brokolici s rajčaty a k tom další grilovanou zeleninu. Bylo to extrémně dobrý. Ale taky jsem tam nechal 202 kč./
-Nemocný deštník mě jakž takž chránil na cestě na tramvaj a pak při útěku na 177 na Střížkov. V autobusu bylo odporné vlhko a zadýcháno. Veronika pro mē sebehla dolu a v kuchyni jsem ji predal polovinu chlebu, ktery jsem pro ni upekl. Byla nadsena. Cituju: "Jeste nikdy mi chlap chleba neupekl. spolecne jsme vyrazili na další autobus, který nás dovezl na Šutku. Pod deštníkem jsme přeběhli do budovy a v šatnách se rozdělili. Dostal jsem instrukci, že bude ta tápající osoba u bazénu. Chvilku mi to nespínalo, ale Veronika bez brýlí vidí kulový. Jakože hodně./
-Ověřil jsem to tak, že ještě asi 3 metry ode mě vůbec nevěděla, jestli jsem to já nebo ne. Ale holá hlava pomohla. Šli jsme do páry. Modrá byla zavřená a Červená plná rodičů a dětí. Ale nějak jsme se vlezli./
-Měla hezký plavky. Jednodílný, ale na břiše a na zádech síťkovaný. Pára jí postupně rozpouštěla stíny pod očima a můj pohled prozradil, že se to děje. Uznala, že to nebyla nejlepší volba. Z páry jsme zamířili na lehátka. Vyptával jsem se na školu a její týden. Seděli jsme tam docela dlouho. Až nám z toho začala být zima. A tak jsme se přesunuli na tobogán. 9:24 byl můj nejlepší čas. Systém bodování jsem ale vůbec nepochopil./
-Dál jsme blbnuli na klouzačkách a v divoké řece. Pak jsme opět vlezli do páry, šli plavat a pak si povídali u okraje bazénu. V tom jsme opět vymrzli a poslední pára nás připravila na cestu deštivým večerem./
-Vítr dal puntíkovanému deštníku z Mont blancu dost zabrat. Ujel nám totiž autobus. A dalšímu to trvalo, takže jsme čekali pod deštníkem, za stromem a náhradní zastávky. 177 nás svezla z pátek na Střížkov. Tam jsem dostal výborné veganské lasagne. Vybral jsem si ty s pseudo sýrem a moc mi to chutnalo. Na rozdíl od Veroniky jsem je zvládnul sníst. V jistý moment jsme totiž začali ležet na gauči na sobě a oblečení ubývalo. A radosti přibývalo. Napřed v obýváku, ale potom v posteli./
+Další deštivý den. Další den v MHD. V béčku mi mávala paní z karlínské jídelny. Deštník tu cestu moc nedal. Před obědem, na který jsme šli jen s Vláďou do Deli jsem ho trochu vyspravil izolepou, ale mělo to nechtěný efekt. Přestal jít zavírat. Šli jsme tam na smažák. Nebo aspoň Vláďa šel. Já jsem to zavrhl a z teplého bufetu jsem si nabral zapečenou brokolici s rajčaty a k tom další grilovanou zeleninu. Bylo to extrémně dobrý. Ale taky jsem tam nechal 202 kč.<br>
+Nemocný deštník mě jakž takž chránil na cestě na tramvaj a pak při útěku na 177 na Střížkov. V autobusu bylo odporné vlhko a zadýcháno. Veronika pro mē sebehla dolu a v kuchyni jsem ji predal polovinu chlebu, ktery jsem pro ni upekl. Byla nadsena. Cituju: "Jeste nikdy mi chlap chleba neupekl. spolecne jsme vyrazili na další autobus, který nás dovezl na Šutku. Pod deštníkem jsme přeběhli do budovy a v šatnách se rozdělili. Dostal jsem instrukci, že bude ta tápající osoba u bazénu. Chvilku mi to nespínalo, ale Veronika bez brýlí vidí kulový. Jakože hodně.<br>
+Ověřil jsem to tak, že ještě asi 3 metry ode mě vůbec nevěděla, jestli jsem to já nebo ne. Ale holá hlava pomohla. Šli jsme do páry. Modrá byla zavřená a Červená plná rodičů a dětí. Ale nějak jsme se vlezli.<br>
+Měla hezký plavky. Jednodílný, ale na břiše a na zádech síťkovaný. Pára jí postupně rozpouštěla stíny pod očima a můj pohled prozradil, že se to děje. Uznala, že to nebyla nejlepší volba. Z páry jsme zamířili na lehátka. Vyptával jsem se na školu a její týden. Seděli jsme tam docela dlouho. Až nám z toho začala být zima. A tak jsme se přesunuli na tobogán. 9:24 byl můj nejlepší čas. Systém bodování jsem ale vůbec nepochopil.<br>
+Dál jsme blbnuli na klouzačkách a v divoké řece. Pak jsme opět vlezli do páry, šli plavat a pak si povídali u okraje bazénu. V tom jsme opět vymrzli a poslední pára nás připravila na cestu deštivým večerem.<br>
+Vítr dal puntíkovanému deštníku z Mont blancu dost zabrat. Ujel nám totiž autobus. A dalšímu to trvalo, takže jsme čekali pod deštníkem, za stromem a náhradní zastávky. 177 nás svezla z pátek na Střížkov. Tam jsem dostal výborné veganské lasagne. Vybral jsem si ty s pseudo sýrem a moc mi to chutnalo. Na rozdíl od Veroniky jsem je zvládnul sníst. V jistý moment jsme totiž začali ležet na gauči na sobě a oblečení ubývalo. A radosti přibývalo. Napřed v obýváku, ale potom v posteli.<br>
 Bavilo nás to dlouho. A hodně.
 
 ### 14.9. Skutečné hipsterství
@@ -208,6 +208,7 @@ zeleninu<br>
 můj chleba, zeleninu a humus dvou chutí<br>
 sotva jsme to dojedli a byli jsme zas v posteli<br>
 
+<a href="../images/2024_september/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/14_1.jpg"></a>
 
 ### 15.9. Do tajů IDF
 
@@ -233,11 +234,11 @@ verča má státnice<br>
 
 ### 17.9. Jsem šťastný
 
-Uvědomil jsem si to při sjedzdu z Proseka do Vysočan. Svítilo sluníčko, rychost mi vháněla slzy do očí a v autobuse za mnou byla Verunka, se kterou jsem se pár minut zpátky rozloučil na zastávce objetím a pusou./
-Byl tam jeden z jejích studentů. To bylo trochu zvláštní. Třídní učitelka mladší než já. Ale co naděláš. Navíc. Narozdíl od vzdělání, mé Verunka ráno věnovala dost možná nejlepší orgasmus mýho života./
-A to je pak slunečný ráno ještě mnohem slunečnější./
-V práci jsem byl sám. Petr mi napsal, že přijdou 2 balíky zdali bych je nepřebral. Potvrdil jsem to, ale když přijelo první auto nebyl to kurýr, ale DJ. Přijel ze Sardinie. Dveře auta nebyly zdaleka tak promáčklý, jak jsem si představoval./
-Další auto byla Monča. Hned mě vyzpovídala. Asi jsem se moc usmíval. Povídali jsme si o Verče a pak o Tomíkovi. Možná že nová potenciální kolegyně by mohla jeho osamocení změnit/
+Uvědomil jsem si to při sjedzdu z Proseka do Vysočan. Svítilo sluníčko, rychost mi vháněla slzy do očí a v autobuse za mnou byla Verunka, se kterou jsem se pár minut zpátky rozloučil na zastávce objetím a pusou.<br>
+Byl tam jeden z jejích studentů. To bylo trochu zvláštní. Třídní učitelka mladší než já. Ale co naděláš. Navíc. Narozdíl od vzdělání, mé Verunka ráno věnovala dost možná nejlepší orgasmus mýho života.<br>
+A to je pak slunečný ráno ještě mnohem slunečnější.<br>
+V práci jsem byl sám. Petr mi napsal, že přijdou 2 balíky zdali bych je nepřebral. Potvrdil jsem to, ale když přijelo první auto nebyl to kurýr, ale DJ. Přijel ze Sardinie. Dveře auta nebyly zdaleka tak promáčklý, jak jsem si představoval.<br>
+Další auto byla Monča. Hned mě vyzpovídala. Asi jsem se moc usmíval. Povídali jsme si o Verče a pak o Tomíkovi. Možná že nová potenciální kolegyně by mohla jeho osamocení změnit<br>
 Doma jsem objevil, že dracena pučí.
 
 <a href="../images/2024_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/17_1.jpg"></a>
@@ -246,42 +247,42 @@ Měl jsem z toho radost. Asi kvůli kytkám jsem si vzpoměl naMartu a napsal ji
 
 ### 18.9. Bělejší úsměv
 
-Dentální hygiena ve 14:00. Nevím proč jsem souhlasil s tak absurdním Časem. Ale nejspíš neměli lepší. Vlastně jsem se těšil. Kalendář taky říkal, že původní termín trhání osmiček měl být až na konci září. To bych se upřímně posral./
-Vzal jsem krabičku se zeleninovým mišmešem, vrazil ji do batohu a vyrazil do Vysočan./
-Cestou byly kolony. A nějakej debil v Suv bavoráku, který mi úmyslně zablokoval cestu si odřel o obrubník svoje litá kola. Karma funguje rychle/
-V Libni bouraly vlaky. Jeden strojvůdce byl v zácviku a druhý na sráč. Dvě promile. Kdybych nejel na kole, byl by to pravděpodobné můj vlak./
+Dentální hygiena ve 14:00. Nevím proč jsem souhlasil s tak absurdním Časem. Ale nejspíš neměli lepší. Vlastně jsem se těšil. Kalendář taky říkal, že původní termín trhání osmiček měl být až na konci září. To bych se upřímně posral.<br>
+Vzal jsem krabičku se zeleninovým mišmešem, vrazil ji do batohu a vyrazil do Vysočan.<br>
+Cestou byly kolony. A nějakej debil v Suv bavoráku, který mi úmyslně zablokoval cestu si odřel o obrubník svoje litá kola. Karma funguje rychle<br>
+V Libni bouraly vlaky. Jeden strojvůdce byl v zácviku a druhý na sráč. Dvě promile. Kdybych nejel na kole, byl by to pravděpodobné můj vlak.<br>
 Po dlouhý době jsme byli ve vývoji všichni. A ve výrobě nebyl nikdo. Protože jsem měl jídlo s sebou, jedl jsem v kuchyni sám. A backend meeting jsem taky minul. Musel jsem vyrazit do Vršovic na hygienu.
 
 <a href="../images/2024_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/18_1.jpg"></a>
 
-Bylo docela horko a cítil jsem se docela blbé, když jsem dojel zpocený do té čisťoučké, voňavé ordinace. Ale bylo to v poho. A celá ta procedura taky. Moc hezká doktorka mě odrápala zuby jehlou, opiskovala aultrazvukem očistila kořeny zubů a ukázala jak si zuby čistit mezizubními kartáčky./
-Doma jsem ještě pracoval. A pak hodně koukal do zrcadla. Fakt to pomohlo./
+Bylo docela horko a cítil jsem se docela blbé, když jsem dojel zpocený do té čisťoučké, voňavé ordinace. Ale bylo to v poho. A celá ta procedura taky. Moc hezká doktorka mě odrápala zuby jehlou, opiskovala aultrazvukem očistila kořeny zubů a ukázala jak si zuby čistit mezizubními kartáčky.<br>
+Doma jsem ještě pracoval. A pak hodně koukal do zrcadla. Fakt to pomohlo.<br>
 V Tescu jsem se otočil pro černou čočku, tofu a pečivo. Překvapilo mě jak kvalitní má tesco chleba. Kráskovýpšenično žitný. S Francouzkou pomazánkou chutnal fakt ohromně.
 
 ### 19.9. Z Lyonu na kurty
 
-V noci mi Marťa odepsala. Prý jeden z jejích kolegů přiletěl na konferenci později, protože jeho žena potratila. Prý se jí chtělo zakřičet na něj, že jí se to stalo taky, jenže jako žena si v práci úplně nemůže dovolit říkat všem, že se snaží o dítě. Možná že prý jsou dost otevření, aby to bylo v pohodě. Ale možná taky ne. Každopádně ale konference skončila a během dne Marta cestovala z Lyonu do Paříže a z Paříže domů a domluvili jsme se, že večer půjdeme hrát badminton./
-Sehnat Kurt na stejný den je v Praze skoro nemožný. Ale osmá na Olšance prošla./
-Já jsem v práci řešil Frame Delay Time. Něco, co bylo s největší pravděpodobností zbytečný, protože samotná komunikace čipu s procesorem trvala déle než minimální FDT. Ale chtěl jsem to mít udělaný pořádně, takže jsem opravdu NFCM naučil odpočítat půl milisekundy do dokončení příjmu a až poté vysílat./
-Pulseview vypadá děsně vědecky. Práce s ním ve mně vzbuzovala pocit, že vyhodit skoro dva miliony za vybavení od Fabiena je zbytečný. Ale není. Pulseview pomáhá hodně, ale spoustu toho nezvládá. A nic nevyhodnocuje. To všechno je na mně./
-Zeleninový mišmaš mi zbyl ze středy, ale na oběd mi nestačil. Dal jsem si ještě trochu tortellin s tofu a kečupem. Vysoká gastronomie. Ale vlastně to bylo moc dobrý./
+V noci mi Marťa odepsala. Prý jeden z jejích kolegů přiletěl na konferenci později, protože jeho žena potratila. Prý se jí chtělo zakřičet na něj, že jí se to stalo taky, jenže jako žena si v práci úplně nemůže dovolit říkat všem, že se snaží o dítě. Možná že prý jsou dost otevření, aby to bylo v pohodě. Ale možná taky ne. Každopádně ale konference skončila a během dne Marta cestovala z Lyonu do Paříže a z Paříže domů a domluvili jsme se, že večer půjdeme hrát badminton.<br>
+Sehnat Kurt na stejný den je v Praze skoro nemožný. Ale osmá na Olšance prošla.<br>
+Já jsem v práci řešil Frame Delay Time. Něco, co bylo s největší pravděpodobností zbytečný, protože samotná komunikace čipu s procesorem trvala déle než minimální FDT. Ale chtěl jsem to mít udělaný pořádně, takže jsem opravdu NFCM naučil odpočítat půl milisekundy do dokončení příjmu a až poté vysílat.<br>
+Pulseview vypadá děsně vědecky. Práce s ním ve mně vzbuzovala pocit, že vyhodit skoro dva miliony za vybavení od Fabiena je zbytečný. Ale není. Pulseview pomáhá hodně, ale spoustu toho nezvládá. A nic nevyhodnocuje. To všechno je na mně.<br>
+Zeleninový mišmaš mi zbyl ze středy, ale na oběd mi nestačil. Dal jsem si ještě trochu tortellin s tofu a kečupem. Vysoká gastronomie. Ale vlastně to bylo moc dobrý.<br>
 Marťa mi psala že jsem do toho osciloskopování. Moc zažranej. A asi jsem byl. Ale v půl šestý jsem to zabalil, otočil se doma, ve čtvrt na sedm jsem byl u ní a společně jsme pešky vyrazili na Žižkov.
 
 <a href="../images/2024_september/19_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/19_1.jpg"></a>
 
-V Antonínovi jsem koupil dvě buchty. Pro sebe. Marti chtěla něco slaného. Albert to zajistil. Trochu mi to sladký vyčetla, protože Glucose Goddess by to neudělala, ale já jsem oponoval tím, že se hýbeme a plánujeme se hýbat ještě víc. Když ten přijatej cukr pálíš,není třeba inzulín a tak nevzniká odolnost./
-Ať to bylo, jak to bylo, povidlová i tvarohová buchta byla skvělá. A pomelo-grep Birel, kterého jsme si dali v parčíku u Olšanky to stejně přebil./
-Badminton nám moc nešel, ale byla to zábava. Vyhrál jsem všechny hry. Ale jednu hodně těsné. Asi 27: 25./
+V Antonínovi jsem koupil dvě buchty. Pro sebe. Marti chtěla něco slaného. Albert to zajistil. Trochu mi to sladký vyčetla, protože Glucose Goddess by to neudělala, ale já jsem oponoval tím, že se hýbeme a plánujeme se hýbat ještě víc. Když ten přijatej cukr pálíš,není třeba inzulín a tak nevzniká odolnost.<br>
+Ať to bylo, jak to bylo, povidlová i tvarohová buchta byla skvělá. A pomelo-grep Birel, kterého jsme si dali v parčíku u Olšanky to stejně přebil.<br>
+Badminton nám moc nešel, ale byla to zábava. Vyhrál jsem všechny hry. Ale jednu hodně těsné. Asi 27: 25.<br>
 I zpátky jsme šli pěšky. Dost jsme toho nepovídali. Marta vystalkovala Verunku na facebooku a řekla, že se ke mně hodí. Bylo po desátý, když jsem došel domu. Záda mě bolela jak hrom, ale Verunka mi slíbila masáž. A na to jsem se těšil.
 
 ### 20.9. Páťa Nováčkovic
 
-Probudil jsem se s bolestí zad. V rámci boje proti pokrytectví jsem si rozbalil jóga matku a pustil si jógu s Adrienne a dal se do cvičení. V intra říkala, Today we're gonna do back pain! Pak se teda opravila, ale nevím. Možná že mi to opravdu spíš uškodilo/
-Dopo jsem řešil opravy. DJe chytal hysterák. Myslím, že se to horší. Možná je toho na něj moc. Nějaký anger management program by mu ale prospěl./
-Nebo holka. Mně to určitě pomáhá. Moje ležela doma v posteli a léčila nachlazení. Což jsem si myslel. Ale v reálu zapékala noky se zeleninou a četla knížku o veganství./
-Ve jménu veganství byl i můj oběd s Vláďou v Deli. Čočkový salát. 173 teda byla pálka za Červenou čočku s cibulí, mrkví a celerem. Ale koření bylo strašné dobrý. Takový dhal./
-Před AFI byla nová elektrická škodovka. Elroq. Hnusný SUV. Škoda (no pun intended). Vrátili jsme se k práci a já se neochotně pustil do psaní nové mezivrstvy místo Me memory. Dal jsem tom čas do půl šestý a potom jsem se pustil do opravy zadní brzdy. Nepříliš úspěšné. Dokonce se mi podařilo upustil olej. Budu potřebovat bleed kit. Ale po asi půlhodině jsem to rozchodil. A na cestě na Střížkov jsem objevil, že opravou brzdy jsem rozbil řazení. Jak? Netuším. Ale musel jsem se vrátit./
-K Verunce jsem se dostal v půl osmý. Bez ovoce, který jsem slíbil. A ještě jsem jí snědl noky. Chvíli jsme si povídali, ale mobil a hodinky mi vibrovali nějak častěji než obvykle. Filip do skupiny poslal fotku právě narozeného syna Patrika. Byl v pořádku a Anet taky. Připojil jsem se k blahopřání a chvilku četl zprávy, ale pak mě Veru zatáhla do postele. Prý nemocná./
+Probudil jsem se s bolestí zad. V rámci boje proti pokrytectví jsem si rozbalil jóga matku a pustil si jógu s Adrienne a dal se do cvičení. V intra říkala, Today we're gonna do back pain! Pak se teda opravila, ale nevím. Možná že mi to opravdu spíš uškodilo<br>
+Dopo jsem řešil opravy. DJe chytal hysterák. Myslím, že se to horší. Možná je toho na něj moc. Nějaký anger management program by mu ale prospěl.<br>
+Nebo holka. Mně to určitě pomáhá. Moje ležela doma v posteli a léčila nachlazení. Což jsem si myslel. Ale v reálu zapékala noky se zeleninou a četla knížku o veganství.<br>
+Ve jménu veganství byl i můj oběd s Vláďou v Deli. Čočkový salát. 173 teda byla pálka za Červenou čočku s cibulí, mrkví a celerem. Ale koření bylo strašné dobrý. Takový dhal.<br>
+Před AFI byla nová elektrická škodovka. Elroq. Hnusný SUV. Škoda (no pun intended). Vrátili jsme se k práci a já se neochotně pustil do psaní nové mezivrstvy místo Me memory. Dal jsem tom čas do půl šestý a potom jsem se pustil do opravy zadní brzdy. Nepříliš úspěšné. Dokonce se mi podařilo upustil olej. Budu potřebovat bleed kit. Ale po asi půlhodině jsem to rozchodil. A na cestě na Střížkov jsem objevil, že opravou brzdy jsem rozbil řazení. Jak? Netuším. Ale musel jsem se vrátit.<br>
+K Verunce jsem se dostal v půl osmý. Bez ovoce, který jsem slíbil. A ještě jsem jí snědl noky. Chvíli jsme si povídali, ale mobil a hodinky mi vibrovali nějak častěji než obvykle. Filip do skupiny poslal fotku právě narozeného syna Patrika. Byl v pořádku a Anet taky. Připojil jsem se k blahopřání a chvilku četl zprávy, ale pak mě Veru zatáhla do postele. Prý nemocná.<br>
 Já se svými bolavými zády jsem se cítil nemocnější než ona. Ale dostal jsem úplně neskutečnou masáž. A měli jsme se pěkně. Jenom usnout nám moc nešlo. Když jsem pak seděl v koupelně na zemi a bzučel si kartáčkem zuby, cítil jsem se úplně hotovej. Ale šťastnej.
 
 ### 21.9. Jeden hlas pro Zelené
@@ -290,21 +291,21 @@ Já se svými bolavými zády jsem se cítil nemocnější než ona. Ale dostal 
 
 ### 22.9. Krajem rybníků a povodní
 
-Bolest zad se pomalu posouvala. Když jsem se probudil, byla někde v oblasti kostrče. Pokud by to tak šlo dál, čekala mě ještě bolest nohou a poté by sestoupila do země, kde by mě už netrápila. Naneštěstí to takhle asi nefunguje./
-Dopoledne jsem řešil Knopiské kdo 0313, které hlásilo chybu EBF. Ludva totiž psal přímo mně na WhatsApp. Chyba byla v EBU. Táta dělal mošt a v poledne mi dal ochutnávku. Byl mrtě dobrej a připravil nás na cyklovýlet k Nové Řece a k Rožmberku. Chtěli jsme se podívat na povodně a bylo to směrem k Veselí . Trochu. Takže mi to hrálo do noty./
-Do Libořez jsme jeli po hlavní. Pak přes Mníšek do Stříbce a za Stříbcem na mostě přes Novou řeku začalo být vidět, kolik vody přibylo. A to už prý dost ubylo./
-Cesta po hrázi byla extrémně romantická. Vezmu tam Verunku, rozhodl jsem se. Dojeli jsme k rozvodí, ale dál by byla cesta špatná, takže jsme se vrátili k mostu a jeli k nouzové výpusti Rožmberka./
-V novinách psali, jaká to neni katastrofa, ale v reálu je tam normální zpevněné koryto a v nem tekla normální řeka. Ale vody bylo dost, oom žádná./
-V Novosedlech jsme se rozloučili. Já pokračoval k rybníkům, kde jsme trávili Silvestr. Tehdá jsem měl holku. Jenže tentokrát jsem jí měl vlastně taky./
-Napsal jsem jí, že bych jí tam chtel. Prý jen pokud jsem vyvinul teleport. A to se nestalo. Jsem příznivce slow travel. Příště tedy./
-Přes Vlkou jsem pokračoval do Veselí. V Penny jsem koupil krásný bramborovo-cibulový pšenično-žitný chlebík a k němu brie. Na nádraží byl trochu zmatek a na kolo neste koupit lístek. Ale ve vlaku na něj bylo místo. Vlastně jich tam bylo asi 20./
-Chvíli jsem zapisoval dění dní minulých, ale pak mě to přestalo bavit a pustil jsem si Lost. V koukání jsem pokračoval i doma, kde jsem se pustil do vařené Čočky se zeleninou, ale nejak se to zvrhlo ve Špagety. Opravdu zvláštní kombinace./
-Před spaním jsme si volali s Veru. Vymysleli jsme, že po vánocích poletíme do Portugalska. Nikdy jsem tam nebyl a ona byla skoro místní. Její stesk po místních testech se šunkou mě hodně pobavil./
+Bolest zad se pomalu posouvala. Když jsem se probudil, byla někde v oblasti kostrče. Pokud by to tak šlo dál, čekala mě ještě bolest nohou a poté by sestoupila do země, kde by mě už netrápila. Naneštěstí to takhle asi nefunguje.<br>
+Dopoledne jsem řešil Knopiské kdo 0313, které hlásilo chybu EBF. Ludva totiž psal přímo mně na WhatsApp. Chyba byla v EBU. Táta dělal mošt a v poledne mi dal ochutnávku. Byl mrtě dobrej a připravil nás na cyklovýlet k Nové Řece a k Rožmberku. Chtěli jsme se podívat na povodně a bylo to směrem k Veselí . Trochu. Takže mi to hrálo do noty.<br>
+Do Libořez jsme jeli po hlavní. Pak přes Mníšek do Stříbce a za Stříbcem na mostě přes Novou řeku začalo být vidět, kolik vody přibylo. A to už prý dost ubylo.<br>
+Cesta po hrázi byla extrémně romantická. Vezmu tam Verunku, rozhodl jsem se. Dojeli jsme k rozvodí, ale dál by byla cesta špatná, takže jsme se vrátili k mostu a jeli k nouzové výpusti Rožmberka.<br>
+V novinách psali, jaká to neni katastrofa, ale v reálu je tam normální zpevněné koryto a v nem tekla normální řeka. Ale vody bylo dost, oom žádná.<br>
+V Novosedlech jsme se rozloučili. Já pokračoval k rybníkům, kde jsme trávili Silvestr. Tehdá jsem měl holku. Jenže tentokrát jsem jí měl vlastně taky.<br>
+Napsal jsem jí, že bych jí tam chtel. Prý jen pokud jsem vyvinul teleport. A to se nestalo. Jsem příznivce slow travel. Příště tedy.<br>
+Přes Vlkou jsem pokračoval do Veselí. V Penny jsem koupil krásný bramborovo-cibulový pšenično-žitný chlebík a k němu brie. Na nádraží byl trochu zmatek a na kolo neste koupit lístek. Ale ve vlaku na něj bylo místo. Vlastně jich tam bylo asi 20.<br>
+Chvíli jsem zapisoval dění dní minulých, ale pak mě to přestalo bavit a pustil jsem si Lost. V koukání jsem pokračoval i doma, kde jsem se pustil do vařené Čočky se zeleninou, ale nejak se to zvrhlo ve Špagety. Opravdu zvláštní kombinace.<br>
+Před spaním jsme si volali s Veru. Vymysleli jsme, že po vánocích poletíme do Portugalska. Nikdy jsem tam nebyl a ona byla skoro místní. Její stesk po místních testech se šunkou mě hodně pobavil.<br>
 Povídáním jsme trochu přetáhli večerku. Ale povídat si s někým koho máš rád je dobrej důvod k potrápení spánkového fašisty.
 
-### 23.9. Marti zkouší Řehoře
+### 23.9. Marťa zkouší Řehoře
 
-Celý den jsem se plácal s novou vrstvou pro ovládání čipu. Vláďa by to zvládl za chviličku, ale já se nedostal k ničemu funkčnímu do konce dne./
-Ludva se vrátil z Finska. Vyprávěl nám, že tam rozřezali necertifikované rámy a z právního hlediska je to teď legit./
+Celý den jsem se plácal s novou vrstvou pro ovládání čipu. Vláďa by to zvládl za chviličku, ale já se nedostal k ničemu funkčnímu do konce dne.<br>
+Ludva se vrátil z Finska. Vyprávěl nám, že tam rozřezali necertifikované rámy a z právního hlediska je to teď legit.<br>
 Po práci se stavila Marta vyzkoušet si Remarkable. Asi je to návykový zařízení, protože si do něj Čmárala do půl devátý. Původně jsem toho chtěl zvládnout víc než jen pokecat s Martou, ale večer už jsem jen sepsal co se přes den dělo a byl hotovej. Aspoň že jsem se cestou z práce zastavil na cvičítkách, kde bylo překvapivě živo.
 
