@@ -23,6 +23,11 @@
 - [21.9. Jeden hlas pro Zelené](#219-jeden-hlas-pro-zelené)
 - [22.9. Krajem rybníků a povodní](#229-krajem-rybníků-a-povodní)
 - [23.9. Marťa zkouší Řehoře](#239-marťa-zkouší-řehoře)
+- [24.9. Do Asie](#249-do-asie)
+- [25. 9. Když sex voní jak cukroví](#25-9-když-sex-voní-jak-cukroví)
+- [26.9. Tomáš mě asi balí](#269-tomáš-mě-asi-balí)
+- [27.9. Ráno krásně, večer chcanec](#279-ráno-krásně-večer-chcanec)
+- [28.9.](#289)
 
 ### 1.9. Olympijský triatlon
 
@@ -294,11 +299,17 @@ Já se svými bolavými zády jsem se cítil nemocnější než ona. Ale dostal 
 Bolest zad se pomalu posouvala. Když jsem se probudil, byla někde v oblasti kostrče. Pokud by to tak šlo dál, čekala mě ještě bolest nohou a poté by sestoupila do země, kde by mě už netrápila. Naneštěstí to takhle asi nefunguje.<br>
 Dopoledne jsem řešil Knopiské kdo 0313, které hlásilo chybu EBF. Ludva totiž psal přímo mně na WhatsApp. Chyba byla v EBU. Táta dělal mošt a v poledne mi dal ochutnávku. Byl mrtě dobrej a připravil nás na cyklovýlet k Nové Řece a k Rožmberku. Chtěli jsme se podívat na povodně a bylo to směrem k Veselí . Trochu. Takže mi to hrálo do noty.<br>
 Do Libořez jsme jeli po hlavní. Pak přes Mníšek do Stříbce a za Stříbcem na mostě přes Novou řeku začalo být vidět, kolik vody přibylo. A to už prý dost ubylo.<br>
-Cesta po hrázi byla extrémně romantická. Vezmu tam Verunku, rozhodl jsem se. Dojeli jsme k rozvodí, ale dál by byla cesta špatná, takže jsme se vrátili k mostu a jeli k nouzové výpusti Rožmberka.<br>
+Cesta po hrázi byla extrémně romantická. Vezmu tam Verunku, rozhodl jsem se. Dojeli jsme k rozvodí, ale dál by byla cesta špatná, takže jsme se vrátili k mostu a jeli k nouzové výpusti Rožmberka.
+
+<a href="../images/2024_september/22_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/22_1.jpg"></a>
+
 V novinách psali, jaká to neni katastrofa, ale v reálu je tam normální zpevněné koryto a v nem tekla normální řeka. Ale vody bylo dost, oom žádná.<br>
 V Novosedlech jsme se rozloučili. Já pokračoval k rybníkům, kde jsme trávili Silvestr. Tehdá jsem měl holku. Jenže tentokrát jsem jí měl vlastně taky.<br>
 Napsal jsem jí, že bych jí tam chtel. Prý jen pokud jsem vyvinul teleport. A to se nestalo. Jsem příznivce slow travel. Příště tedy.<br>
-Přes Vlkou jsem pokračoval do Veselí. V Penny jsem koupil krásný bramborovo-cibulový pšenično-žitný chlebík a k němu brie. Na nádraží byl trochu zmatek a na kolo neste koupit lístek. Ale ve vlaku na něj bylo místo. Vlastně jich tam bylo asi 20.<br>
+Přes Vlkov jsem pokračoval do Veselí. V Penny jsem koupil krásný bramborovo-cibulový pšenično-žitný chlebík a k němu brie. Na nádraží byl trochu zmatek a na kolo neste koupit lístek. Ale ve vlaku na něj bylo místo. Vlastně jich tam bylo asi 20.
+
+<a href="../images/2024_september/22_2.jpg" target="_blank"><img src="../images/thumbnails/2024_september/22_2.jpg"></a>
+
 Chvíli jsem zapisoval dění dní minulých, ale pak mě to přestalo bavit a pustil jsem si Lost. V koukání jsem pokračoval i doma, kde jsem se pustil do vařené Čočky se zeleninou, ale nejak se to zvrhlo ve Špagety. Opravdu zvláštní kombinace.<br>
 Před spaním jsme si volali s Veru. Vymysleli jsme, že po vánocích poletíme do Portugalska. Nikdy jsem tam nebyl a ona byla skoro místní. Její stesk po místních testech se šunkou mě hodně pobavil.<br>
 Povídáním jsme trochu přetáhli večerku. Ale povídat si s někým koho máš rád je dobrej důvod k potrápení spánkového fašisty.
@@ -307,5 +318,50 @@ Povídáním jsme trochu přetáhli večerku. Ale povídat si s někým koho má
 
 Celý den jsem se plácal s novou vrstvou pro ovládání čipu. Vláďa by to zvládl za chviličku, ale já se nedostal k ničemu funkčnímu do konce dne.<br>
 Ludva se vrátil z Finska. Vyprávěl nám, že tam rozřezali necertifikované rámy a z právního hlediska je to teď legit.<br>
-Po práci se stavila Marta vyzkoušet si Remarkable. Asi je to návykový zařízení, protože si do něj Čmárala do půl devátý. Původně jsem toho chtěl zvládnout víc než jen pokecat s Martou, ale večer už jsem jen sepsal co se přes den dělo a byl hotovej. Aspoň že jsem se cestou z práce zastavil na cvičítkách, kde bylo překvapivě živo.
+Po práci se stavila Marta vyzkoušet si Remarkable. Asi je to návykový zařízení, protože si do něj Čmárala do půl devátý. Původně jsem toho chtěl zvládnout víc než jen pokecat s Marťou, ale večer už jsem jen sepsal co se přes den dělo a byl hotovej. Aspoň že jsem se cestou z práce zastavil na cvičítkách, kde bylo překvapivě živo.
 
+### 24.9. Do Asie
+
+ve čtyři na metro,
+verunka seděla dole prý už tak 3 soupravy,
+měla blbej den,
+čtvrťáci jí štvali,
+mobil jí spadl do záchodu,
+
+<a href="../images/2024_september/24_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/24_1.jpg"></a>
+
+
+### 25. 9. Když sex voní jak cukroví
+
+Protože tak přesně voní kokosový olej. A kokosový olej to je panečku praktická věc. Jde s ním péct. Vařit. Dělat z nej pastu na zuby. A v posteli? Tam se hodí taky.<br>
+Ráno jsme nechvátali. Navíc, na snídani jsem měl doma kulový. Takže jsme vyrazili k Antonínovi. Maková, tvarohová buchta a decay laté pro mě a loupák, maková buchta a sójové cappucino pro Verunku. Sezení venku a Vršovický mumraj. Bylo to fajn ráno.
+
+<a href="../images/2024_september/25_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/25_1.jpg"></a>
+
+V tramvaji byl můj batůžkový bratr a jízda metrem s ní utekla až nepříjemně rychle. Ale hodinky říkaly že ne, protože po trávě mezi kolejemi jsem procházel skoro v půl desátý.<br>
+Ve vývoji byli všichni a před dvanáctou měl dorazit i Ludva. Šli jsme do AFI. Já na Pasta Arabista ostatní na tortillu. Jirka se od Ludvy dozvídal, co a jak v Kuopiu a na cestě zpátky jsme si dělali srandu z mého plánu Praha-Finsko-Portugalsko.<br>
+Backend meeting řešil UX. Už se dalo přihlásit a kreslit polygony na mapě. Pak jsem se věnoval nové ite vrstvě a niky před jistou mi začala hezky fungovat.<br>
+Na Strahově byl Open Air. Ale nakonec se mi tam nechtělo. Šel jsem plavat. Ondra šel na jógu a Sára, která původně chtěla na pivo v Dejvicí šla koukat na Netflix.<br>
+Ale s Ondrou jsme nakonec dali oba dvě plechovky nepiva v Riegráčích. Seděli jsme na lavičce vzadu a povídali si o práci. Bylo to komorní a fajn.
+
+### 26.9. Tomáš mě asi balí
+
+ve čtyři na kolo,
+rovně,
+čekání na tomáše
+
+<a href="../images/2024_september/26_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/26_1.jpg"></a>
+
+na výstavu,
+
+<a href="../images/2024_september/26_2.jpg" target="_blank"><img src="../images/thumbnails/2024_september/26_2.jpg"></a>
+
+### 27.9. Ráno krásně, večer chcanec
+
+To přesně shrnuje celý pátek. Vstal jsem a cítil se pln optimismu. Na cestě do práce svítilo slunko. Noční přeháňka vyčistila vzduch a dobrá hudba v uších mi po ránu opravdu nastartovala den.<br>
+Který pak byl úplně průměrný. Psaní testů. Nudle ve Vietnamce. Další psaní testů. A rozebírání stolů, protože konečně to vypadalo, že nám budou dělat topení.<br>
+Štěpán byl v práci. A asi poprvý mi neřekl ani slovo. Bylo trochu divný vědět, že ho možná vidím naposledy. Ještě divnější bylo, že mě to nechalo docela chladným.<br>
+Cestou jsem se stavil pro mouku na chleba. Okno mezi dvěma dešti jsem ale netrefil přesně a déšť mi úplně sebral energii na cokoliv jiného, než smotání těsta a koukání na Lost.<br>
+S desátou jsem odpadl jak mrtvola.
+
+### 28.9.
