@@ -28,6 +28,7 @@
 - [26.9. Tomáš mě asi balí](#269-tomáš-mě-asi-balí)
 - [27.9. Ráno krásně, večer chcanec](#279-ráno-krásně-večer-chcanec)
 - [28.9.](#289)
+- [29.9. Příležitostná nymfomanka](#299-příležitostná-nymfomanka)
 
 ### 1.9. Olympijský triatlon
 
@@ -341,7 +342,7 @@ Ráno jsme nechvátali. Navíc, na snídani jsem měl doma kulový. Takže jsme 
 V tramvaji byl můj batůžkový bratr a jízda metrem s ní utekla až nepříjemně rychle. Ale hodinky říkaly že ne, protože po trávě mezi kolejemi jsem procházel skoro v půl desátý.<br>
 Ve vývoji byli všichni a před dvanáctou měl dorazit i Ludva. Šli jsme do AFI. Já na Pasta Arabista ostatní na tortillu. Jirka se od Ludvy dozvídal, co a jak v Kuopiu a na cestě zpátky jsme si dělali srandu z mého plánu Praha-Finsko-Portugalsko.<br>
 Backend meeting řešil UX. Už se dalo přihlásit a kreslit polygony na mapě. Pak jsem se věnoval nové ite vrstvě a niky před jistou mi začala hezky fungovat.<br>
-Na Strahově byl Open Air. Ale nakonec se mi tam nechtělo. Šel jsem plavat. Ondra šel na jógu a Sára, která původně chtěla na pivo v Dejvicí šla koukat na Netflix.<br>
+Na Strahově byl Open Air. Ale nakonec se mi tam nechtělo. Šel jsem plavat. Ondra šel na jógu a Sára, která původně chtěla na pivo v Dejvicích, šla koukat na Netflix.<br>
 Ale s Ondrou jsme nakonec dali oba dvě plechovky nepiva v Riegráčích. Seděli jsme na lavičce vzadu a povídali si o práci. Bylo to komorní a fajn.
 
 ### 26.9. Tomáš mě asi balí
@@ -365,3 +366,15 @@ Cestou jsem se stavil pro mouku na chleba. Okno mezi dvěma dešti jsem ale netr
 S desátou jsem odpadl jak mrtvola.
 
 ### 28.9.
+
+### 29.9. Příležitostná nymfomanka
+
+V noci mi Veru nějak sebrala deku. Mít jednu velkou je krabice. Obzvlášť, když pod ní jeden spí nahý, druhý ve svetru a teplákách a protože je mu z toho horko, stáhne deku pod sebe a nahého tak o deku připraví.<br>
+Mohl jsem jí vzbudit, ale neudělal jsem to a po chvilce usnul i tak. Až do šesté. Nějaký vnitřní budík mě probudil. Proč nefunguje i ve všední dny to nechápu. I když možná funguje. Jen vstávat se mi nedaří. A to se nám vlastně nedařilo ani v neděli.<br>
+Ne že bychom v posteli jen tak leželi. Veru se popsala jako příležitostná nymfomanka. Kdyby vedle nebyla spolubydlící, byl bych strhanej.<br>
+To vlastně není pravda. Bylo to všechno moc milý a krásný a nenutili jsme se do ničeho, co by nám bylo nepříjemný. Rozhodně jsem ale ze sebe sesypal trochu studu. A něco se i naučil. Bylo to moc hezký ráno.<br>
+Můj chleba s patifu, mandlovým máslem a s meruňkovou marmeládou nám zajistil snídani. Po ní jsme opět skončili v posteli. K obědu jsme měli stir fry s omáčkou z burákového másla, sojovky, limetky a Česneku. Nebylo to zlý. Shitake podle mě měly být rozmočenější a na menší kousky, ale přidal jsem si.Věci co mi nechutnají si nepřidávám.<br>
+Připomnělo mi to trochu Cold noodles. Musime si udelat cold noodles.<br>
+Po obědě jsme opět skončili v posteli. Prý patnáct minut a vylezem. Pustil jsem časovač. A musel jsem 3x zmáčknout Repeat, než jsme byli s to zas dělat něco mimo postel. Vlastně jsem ji musel bít ten rozumný. Nekdy v půl pátý jsem tak vyrazil nametro.<br>
+Kolo jsem nedovezl do servisu. Jídlo neuvařil. IDF jsem sice věnoval trochu času, ale pokrok Jsem neudělal a prádlo pro't nedal. Byl jsem hotovej. Život s příležitostnou nymfomankou je náročnej<br>
+Ale set sakra zábavnej!
