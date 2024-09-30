@@ -367,6 +367,14 @@ S desátou jsem odpadl jak mrtvola.
 
 ### 28.9.
 
+<a href="../images/2024_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/28_1.jpg"></a>
+
+<a href="../images/2024_september/28_2.jpg" target="_blank"><img src="../images/thumbnails/2024_september/28_2.jpg"></a>
+
+<a href="../images/2024_september/28_3.jpg" target="_blank"><img src="../images/thumbnails/2024_september/28_3.jpg"></a>
+
+<a href="../images/2024_september/28_4.jpg" target="_blank"><img src="../images/thumbnails/2024_september/28_4.jpg"></a>
+
 ### 29.9. Příležitostná nymfomanka
 
 V noci mi Veru nějak sebrala deku. Mít jednu velkou je krabice. Obzvlášť, když pod ní jeden spí nahý, druhý ve svetru a teplákách a protože je mu z toho horko, stáhne deku pod sebe a nahého tak o deku připraví.<br>
@@ -374,7 +382,10 @@ Mohl jsem jí vzbudit, ale neudělal jsem to a po chvilce usnul i tak. Až do š
 Ne že bychom v posteli jen tak leželi. Veru se popsala jako příležitostná nymfomanka. Kdyby vedle nebyla spolubydlící, byl bych strhanej.<br>
 To vlastně není pravda. Bylo to všechno moc milý a krásný a nenutili jsme se do ničeho, co by nám bylo nepříjemný. Rozhodně jsem ale ze sebe sesypal trochu studu. A něco se i naučil. Bylo to moc hezký ráno.<br>
 Můj chleba s patifu, mandlovým máslem a s meruňkovou marmeládou nám zajistil snídani. Po ní jsme opět skončili v posteli. K obědu jsme měli stir fry s omáčkou z burákového másla, sojovky, limetky a Česneku. Nebylo to zlý. Shitake podle mě měly být rozmočenější a na menší kousky, ale přidal jsem si.Věci co mi nechutnají si nepřidávám.<br>
-Připomnělo mi to trochu Cold noodles. Musime si udelat cold noodles.<br>
+Připomnělo mi to trochu Cold noodles. Musime si udelat cold noodles.
+
+<a href="../images/2024_september/29_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/29_1.jpg"></a>
+
 Po obědě jsme opět skončili v posteli. Prý patnáct minut a vylezem. Pustil jsem časovač. A musel jsem 3x zmáčknout Repeat, než jsme byli s to zas dělat něco mimo postel. Vlastně jsem ji musel bít ten rozumný. Nekdy v půl pátý jsem tak vyrazil nametro.<br>
 Kolo jsem nedovezl do servisu. Jídlo neuvařil. IDF jsem sice věnoval trochu času, ale pokrok Jsem neudělal a prádlo pro't nedal. Byl jsem hotovej. Život s příležitostnou nymfomankou je náročnej<br>
 Ale set sakra zábavnej!
