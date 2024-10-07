@@ -74,8 +74,12 @@ A pak na sledování lost a cvičení s gumou.
 Probudil mě budík. Říkal jsem si, že jsem blbec, nechat si budík na šestou v neděli, ale bylo sedm. Verunka na sobě neměla svetr. Bylo totiž mrtě horko. Topení jelo a bylo zavřený okno.<br>
 A přišlo to na nás poměrně rychle. A na rozdíl od večera to šlo i mně. Sice jsme si dělali srandu, že do durexu budeme muset poslat doporučený dopis, ale šlo to. Moc dobře.<br>
 K snídani jsem nám ohřál polévku a opražil krutony ze zbytku chleba. Polévka sice byla moc vodová, ale jinak ušla. Veru jí zvládla.<br>
-Co nezvládla bylo nakrájet cibuli udělátkem od Horsta Fuchse. V momentě, kdy řekla, že to vlastně funguje docela dobře vyletěl stroj do vzduchu, cibule se rozletěla do všech směrů a Verunku chytl hysterický záchvat smíchu. Bylo to skvěly!<br>
-Vyrazit v to se nám tvrdě nepovedlo. Když měla Veru jídlo hotový, nějak jsem jí dokázal přepnout do módu: jdeme do postele a tak jsme zabili další hodinu. Nakonec jsme obědvali ještě u ní. Moc dobrou pečenou zeleninu s dvěma dipy a moc dobrým salátem z okurky, papriky, rajčete a zálivky z citronové šťávy a čekankového sirupu.<br>
+Co nezvládla bylo nakrájet cibuli udělátkem od Horsta Fuchse. V momentě, kdy řekla, že to vlastně funguje docela dobře vyletěl stroj do vzduchu, cibule se rozletěla do všech směrů a Verunku chytl hysterický záchvat smíchu. Bylo to skvělý!<br>
+Vyrazit v to se nám tvrdě nepovedlo. Když měla Veru jídlo hotový, nějak jsem jí dokázal přepnout do módu: jdeme do postele a tak jsme zabili další hodinu. Cucflek co jsem jí udělal na krku začal černat. Prý bude chodit v šále, aby to nebylo vidět. 
+
+<a href="../images/2024_october/6_1.jpg" target="_blank"><img src="../images/thumbnails/2024_october/6_1.jpg"></a>
+
+Nakonec jsme obědvali ještě u ní. Moc dobrou pečenou zeleninu s dvěma dipy a moc dobrým salátem z okurky, papriky, rajčete a zálivky z citronové šťávy a čekankového sirupu.<br>
 Po obědě jsme dojeli do NTK. ČVUT byl zavřený, takže páternoster jsem jí neukázal, ale NTK samotné byla nostalgie. Když jsem tam seděl, v naší ústřední knihovně a nedařilo se mi rozchodit debugger ani překlad, cítil jsem se jak deset let zpátky.<br>
 Jak funguje Vojtův kód jsem nepochopil vůbec. Jak ho přeložit taky ne. Ale řekl jsem si first things first a pomalu rozchodil IDF, OPENOCD, GDB a napsal si Hello World. A fungovalo to.<br>
 Vern odjela na zkoušku a já se ještě asi 2 hodiny díval do dokumentace . Řekl jsem si, že rozchodím třídu Pin, tak jak jí máme v stcommonu.<br>
