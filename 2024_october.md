@@ -6,6 +6,7 @@
 - [4.10. Pochyby.](#410-pochyby)
 - [5.10. Jen tak se flákat](#510-jen-tak-se-flákat)
 - [6.10. Na plno prožitá neděle](#610-na-plno-prožitá-neděle)
+- [8.10. Bez oleje](#810-bez-oleje)
 
 ### 1.10. Jiný člověk
 
@@ -58,7 +59,7 @@ Večer mi Veru volala. Ty raní pochyby jsem pri tom telefonátu nemel.
 
 Opravdu jsem měl plán dělat pro Vojtu, ale lenost mě nějak přemohla. Napsal jsem Veru, že se chci flákat a ona mi napsala, že pracovat můžu v neděli, kdy ona bude pracovat taky. V NTK. To znělo jako plán. A tak jsem se v posteli válel až do poledne.<br>
 Založil jsem Alza+. Gold, B2B a + dohromady umožní nakupovat opravdu docela levně. Burákový máslo vyšlo líp než v Albertu. Protein líp než v Ronniem a kondomy líp než v lékárně. Trochu mě sral ten princip. Když máš víc peněz, platíš míň. Celá ekonomika je takhle postavená a není to fér.<br>
-Jenže má to být fér. Mít víc peněz taky znamená, že se víc snažíš. Ne vždycky. Ale korelace tam je. A za snahu chceš být nějak ohodnocenej. Přemýšlel jsem o tom a válel se v posteli . Trochu oxymóron.<br>
+Jenže má to být fér. Mít víc peněz taky znamená, že se víc snažíš. Ne vždycky. Ale korelace tam je. A za snahu chceš být nějak ohodnocenej. Přemýšlel jsem o tom a válel se v posteli. Trochu oxymóron.<br>
 Abych aspoň něco udělal, napsal jsem si TODO list. A šel nakupovat. Sice jsem měl seznam, ale nákup to byl větší než jsem čekal. Nebo spíš těžší. Ušetříš víc, když koupíš slevněný věci víc. A tak jsem v tašce měl 4 brokolice, 2 květáky, tofu, chleba a hlavně 2 kombuchy. Protože ještě víc ušetříš, když si kombachu necháš vyrůst doma. Akorát ucho od tašky se ti cestou utrhne.
 
 <a href="../images/2024_october/5_1.jpg" target="_blank"><img src="../images/thumbnails/2024_october/5_1.jpg"></a>
@@ -82,8 +83,18 @@ Vyrazit v to se nám tvrdě nepovedlo. Když měla Veru jídlo hotový, nějak j
 Nakonec jsme obědvali ještě u ní. Moc dobrou pečenou zeleninu s dvěma dipy a moc dobrým salátem z okurky, papriky, rajčete a zálivky z citronové šťávy a čekankového sirupu.<br>
 Po obědě jsme dojeli do NTK. ČVUT byl zavřený, takže páternoster jsem jí neukázal, ale NTK samotné byla nostalgie. Když jsem tam seděl, v naší ústřední knihovně a nedařilo se mi rozchodit debugger ani překlad, cítil jsem se jak deset let zpátky.<br>
 Jak funguje Vojtův kód jsem nepochopil vůbec. Jak ho přeložit taky ne. Ale řekl jsem si first things first a pomalu rozchodil IDF, OPENOCD, GDB a napsal si Hello World. A fungovalo to.<br>
-Vern odjela na zkoušku a já se ještě asi 2 hodiny díval do dokumentace . Řekl jsem si, že rozchodím třídu Pin, tak jak jí máme v stcommonu.<br>
+Vern odjela na zkoušku a já se ještě asi 2 hodiny díval do dokumentace. Řekl jsem si, že rozchodím třídu Pin, tak jak jí máme v stcommonu.<br>
 V půl osmý byl čas vypadnout. Něco sníst a dojet do Světozoru. ČSFD promítalo Substanci. Byl to asi ten nejpřehnanější film, jaký jsem kdy v životě viděl. Bez nadsázky. Třetí dějství tomu nasadilo korunu. O 4 dny později to mělo mít premiéru. V Cannes to vyhrálo cenu za nejlepší scénář. Bylo to přitažlivý i odpudivý, krásný i odporný, zábavný i nutící přemýšlet. 4 hvězdy určíte? Pět? Možná.<br>
 Akorát bylo 11, když ten film skončil.
+
+### 8.10. Bez oleje
+
+Ráno Fila psal na Slack, že tester opět nefunguje. Že selhal hned na první desce. To bylo divný! Opravil jsem ho a zkoušel. Dělal ze mě trochu lháře a to se mě dotklo. Cítil jsem ten nepříjemnej pocit, kdy se nemůžeš úplně nadechnout. Celou cestu do práce./
+Po příjezdu jsem dozaložil HPLOCKY. Mít toho rozdělanýho moc najednou není dobrý. Po asi hodině jsem předal celou bednu hotovou a pustil se do toho testeru./
+Měli blbej zdroj. Nic naštěstí neodešla. Dal jsem jim hub a bílou kostku a všechno začalo fungovat.Takže jsem se pustil do svých věcí. A někdy v pět. Do úplně svých věcí. V poledne totiž přijel Vojta s Martinem a předali mi sensor./
+Jeho provedení mi trochu vyrazilo dech. Byla to deska s i2c čipem a dvěma headry. Do těch se zasazoval devkit. Bizár. Martin toho opravdu moc neudelal. Nechal osadit asi 100 těch úplně prázdných desek a po mě asi chtěli abych to celý rozchodil./
+V půl devátý jsem byl hotovej moc jsem se neposunul. Ale kroky zpátky jsem taky nedělal. Přišlo mi to lepší než STM32WB. To byla past./
+Doma byli Kendy se Skřítkem. Zvučili nějakouKonferenci v 02 universu. A večer bali podobně hotový jako já../
+I Vern mi psala že je hotová. Uterky jsou náročný. Navíc mi někdo ukradl olej. Můj bio dne olivový olej. Ve firmě kde je pět a půl člověka. Rozesmutnilo mě to.
 
 [>> Listopad](2024_december.md)
