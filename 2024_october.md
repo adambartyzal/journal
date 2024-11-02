@@ -27,7 +27,8 @@
 - [27.10. Poprvé nepracovně](#2710-poprvé-nepracovně)
 - [28.10. Zatáhla mě do podzemí](#2810-zatáhla-mě-do-podzemí)
 - [29.10. Šmak podzimowy](#2910-šmak-podzimowy)
-- [30.10.](#3010)
+- [30.10. Den na zpracování](#3010-den-na-zpracování)
+- [31. 10. Chmury](#31-10-chmury)
 
 ### 1.10. Jiný člověk
 
@@ -407,7 +408,20 @@ Do děravého kotle. Sice tam nevěděli co je veritasérum a felix felicis, ale
 Známými ulicemi jsme se vydali na vlak. Opět měl zpoždění. Čekali jsme v podzemí až vlak přijede z Varšavy.<br>
 Spolubydla byl tentokrát rozumnější. Měli jsme vrchní lehátka a po vyčištění zubů jsme šli rovnou na kutě.
 
-### 30.10.
+### 30.10. Den na zpracování
+
+Podle hodinek jsem se ve vlaku vyspal parádně. Podle pocitu docela ok. Pán vystupoval v Kolíně, my tentokrát v Praze. Sundali jsme povlečení, já si vyčistil zuby, Veru hodila kartáček na zem záchodů a došla k názoru, že ho do pusy už nedá.<br>
+Na nádraží jsme byli před osmou. Rozloučili jsme se, já byl vlakem do Vršek, nakoupil zeleninu a chleba a došel domů.<br>
+Bylo trochu divný být doma. Koukal jsem na Lost. Až do večera. Opravdu mě přepadl záchvat lenosti. Ale něco jsem sepsal. Nakrmil kombuchu. Umyl nádobí. A to bylo více méně všechno.
+
+### 31. 10. Chmury
+
+Po deváté měli přijít měnit plynové trubky. Přišli v 11. Koukli na plastovou trubku v kuchyni, řekli že je nerezová a odešli.<br>
+Po několika hodinách koukání na Lost, vaření, trochy uklízení to přišlo. Verunka mi nechybí, došlo mi. Možná že trocha jo, ale ne tak jako Miska. Nemel jsem chuť udělat než debilního jen Abych ji videl se usmát. Začínalo mi docházet, že se s ní budu muset rozejít. Rozbrečel jsem se. Poprvý ode dne kdy jsme se viděli poprve! Bolelo mě to. A nebyl jsem si tím vůbec jistej. Ale cítil jsem to. Nebo spíš necítil.<br>
+Tak jako to necítila Miška? Přišlo mi, že ona je jedinýČlověk na planetě, která by mi mohl pomoct. Ale nechtěl Jsem jí psát. Nečetla moje zprávy. Nebo alespoň ne dost rychle. Mohl jsem jí zavolat. Ale nevím jestli by mi to zvedla. Asi je.<br>
+Později mi Anet řekla, že nesmím srovnávat. Že to je hovadina. Taky jsem si uvědomil, že jsem asi měl dopaminový crash a proto mě to doběhla a cítil jsem se na hovno.<br>
+S Veru jsem se cítil skvěle. Bez ní jsem se cítil blbě.<br>
+Byl čas na nějaký vztahový fitness. Poslechnout si Elišku Remešovou. Říct si kam míříme.
 
 [>> Listopad](2024_november.md)
 
