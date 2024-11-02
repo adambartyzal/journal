@@ -47,9 +47,9 @@ Při cestě metrem do práce mi napsala Reba zda se uvidíme v kině. Potvrdil j
 Misku jsem jim představil dřív, než jsme si potvrdili, že spolu chodíme. Tehdá jsem chtěl vědět co si o ní myslí. Tentokrát mi to bylo docela jedno. Teda.. mrzelo by mě, kdyby si nesedli. Ale to že jsem se s Veru cítil já dobře pro mě bylo důležitější.<br>
 Jenže ouha. Kino nebylo. Kvůli festivalu Tady Vary přesunuli Naslepo na úterý a to jsme prosrali. Marta to věděla, ale v úterý neměla čas, tak to pustila z hlavy.<br>
 Very toho měla v práci nad hlavu a navíc na ní přišla perioda. Do jisté míry jí fakt, že kino nebude asi přišlo vhod. Trochu jsem doufal, že až pojede z práce domů, dá mi vědět a já se k ní přidám, ale zabalila to kolem čtvrtý a napsala mi až když byla dam. Inu já vlastně měl ještě dost co delat.<br>
-Po práci jsem se ale zastavil v lékárně a koupil bisglycinát hořčíku, bromélii a čokoládu. Hořčík Miska na PMS radila každé kamarádce, protože jí pomáhal hodně. Kytku by měl dát holce kluk jednou za čas určitě aČokoládou nikdo nikdy nic nezkazil.<br>
+Po práci jsem se ale zastavil v lékárně a koupil bisglycinát hořčíku, bromélii a čokoládu. Hořčík Miška na PMS radila každé kamarádce, protože jí pomáhal hodně. Kytku by měl dát holce kluk jednou za čas určitě aČokoládou nikdo nikdy nic nezkazil.<br>
 Dovez jsem to všechno nahoru sto sedmdesát sedmičkou a Verunka tím zřejmě moc mile překvapil. Zahrálo mi to u srdíčka. Možná víc než květákový kari s merlíkem.<br>
-Místo kina nás čekal rozkoukaný Interstellar. Někde vpolovině filmu Veru došlo, že ho už viděla. A tak jsme trochu ztratili pozornost, laptop zaklapli a věnovali se sobě navzájem.
+Místo kina nás čekal rozkoukaný Interstellar. Někde v polovině filmu Veru došlo, že ho už viděla. A tak jsme trochu ztratili pozornost, laptop zaklapli a věnovali se sobě navzájem.
 
 ### 3.10. Badminton tradicí?
 
@@ -67,8 +67,8 @@ Byl to fajn večer. Mám kartu fakt rád.
 ### 4.10. Pochyby
 
 Začínal jsem se do Verunky zamilovávat? Možná. Ona do mě? Určité. Ta jistota toho, že to je holka se kterou chci strávit zbytek života tam úplně nebyla. Jenže byla tam měsíc po tom, co jsem chodil s Miskou? Spíš ne. Spíš to trvalo dýl. Možná až když mě nechala. Možná, že moje hlava potřebuje ztrátu aby si uvědomila co měla? To bych ale nepsal tohle. Miloval jsem jí už tehdá.<br>
-Ten rozchod mi vzal ideály. Ukázal, že není jenJedna holka. Že je jich spousta. A že musíš chtít a bojovat. Blbost. To už jsem věděl předtím.<br>
-Chytala mi. Víc jako kamarád než jeho holka. A to je asi ten kámen úrazu. Chybí mi Vern tak moc jako Miska? Těžko říct.<br>
+Ten rozchod mi vzal ideály. Ukázal, že není jen jedna holka. Že je jich spousta. A že musíš chtít a bojovat. Blbost. To už jsem věděl předtím.<br>
+Chyběla mi. Víc jako kamarád než jeho holka. A to byl asi ten kámen úrazu. Chybí mi Veru tak moc jako Miška? Těžko říct.<br>
 Je jiná. V některých věcech diametrálně. A pak udělá něco úplně stejně. Řekne něco úplně stejně. Když vytáhla tu zahřívací láhev, málem jsem jí řekl Miško. Je pro mě náhrada? Převozník? Myslím to vážně? Je ona to co chci?<br>
 Takový zábavný otázky mi jely hlavou na cestě do práce.<br>
 Robert se zastavil. Šel na oběd s DJem. Ludva přemýšlet, zda roberta nepotřebujeme. Vláda si to nemyslel. Ivan byl dokonce tvrdší. Jeho názor byl, že Robert je temný. Že pod skořápkou veselého chlapíka je něco špatně. Že na dodavatele moc tlačí a že jim chce málo platit. Když jsem mu řekl, že to je kapitalismus, neměl pro to pochopení. Mě Robert přišel fajn. Ale jeho síla spočívá v optimalizaci výroby. A my žádnou velkou výrobu neměli. Byly by to vyhozený peníze.<br>
@@ -279,7 +279,7 @@ Oběd z krabičky jsem měl k večeři.<br>
 Nejdůležitější vecí dne bylo to, že jsem Vojtovi napsal,že pro něj nemůžu dělat. Že to nezvládám časové a že potřebuje někoho kdo ESP rozumí teď, ne za rok. Někoho kdo má čas.<br>
 Vzal to dobře. Musel to tušit. Free bike bere času vandal a to že Vláďa zvláda tolik věcí naráz musí být vykoupení tím, že nemá holku. Ivan zase nespí a spoustu toho 79 něj dělá velká rodina.<br>
 Ač je obdivuju, potřebuju to jinak. Potřebuju svůj čas, Čas se svojí holkou. Čas na sport a čas na spánek.Zdraví na prvním místě. Fyzický a hlavně psychický.<br>
-Cestou domů jsem přemýšlel o tom jestli budu schopnej Veru milovat tak jako Jsem miloval Misku. A dospěl jsem K tomu že ne. Miska je moje první opravdová láska. První a který jsem věřil, že bude ta poslední. To už nezažiju. To neznamená, že nejsem schopnej opět milovat. Ale bude to jiný. Vždycky je to jiný. Ale první je to jen jednou.<br>
+Cestou domů jsem přemýšlel o tom jestli budu schopnej Veru milovat tak jako Jsem miloval Misku. A dospěl jsem K tomu že ne. Miška je moje první opravdová láska. První a který jsem věřil, že bude ta poslední. To už nezažiju. To neznamená, že nejsem schopnej opět milovat. Ale bude to jiný. Vždycky je to jiný. Ale první je to jen jednou.<br>
 Doma jsem dovařil čaj do kom bucky a u dílu LOST snědl chleba. Přede mnou byly prázdniny. Pizza, Polsko a Verunka.
 
 ### 25.10. Podzimní prázdniny
@@ -412,13 +412,17 @@ Spolubydla byl tentokrát rozumnější. Měli jsme vrchní lehátka a po vyči�
 
 Podle hodinek jsem se ve vlaku vyspal parádně. Podle pocitu docela ok. Pán vystupoval v Kolíně, my tentokrát v Praze. Sundali jsme povlečení, já si vyčistil zuby, Veru hodila kartáček na zem záchodů a došla k názoru, že ho do pusy už nedá.<br>
 Na nádraží jsme byli před osmou. Rozloučili jsme se, já byl vlakem do Vršek, nakoupil zeleninu a chleba a došel domů.<br>
-Bylo trochu divný být doma. Koukal jsem na Lost. Až do večera. Opravdu mě přepadl záchvat lenosti. Ale něco jsem sepsal. Nakrmil kombuchu. Umyl nádobí. A to bylo více méně všechno.
+Bylo trochu divný být doma. Koukal jsem na Lost. Až do večera. Opravdu mě přepadl záchvat lenosti. Ale něco jsem sepsal. Nakrmil kombuchu. Umyl nádobí. Spočítal a nahrál výdaje. A to bylo více méně všechno.
 
 ### 31. 10. Chmury
 
 Po deváté měli přijít měnit plynové trubky. Přišli v 11. Koukli na plastovou trubku v kuchyni, řekli že je nerezová a odešli.<br>
-Po několika hodinách koukání na Lost, vaření, trochy uklízení to přišlo. Verunka mi nechybí, došlo mi. Možná že trocha jo, ale ne tak jako Miska. Nemel jsem chuť udělat než debilního jen Abych ji videl se usmát. Začínalo mi docházet, že se s ní budu muset rozejít. Rozbrečel jsem se. Poprvý ode dne kdy jsme se viděli poprve! Bolelo mě to. A nebyl jsem si tím vůbec jistej. Ale cítil jsem to. Nebo spíš necítil.<br>
+Po několika hodinách koukání na Lost, vaření, trochy uklízení to přišlo. Verunka mi nechybí, došlo mi. Možná že trocha jo, ale ne tak jako Miška. Nemel jsem chuť udělat než debilního jen Abych ji videl se usmát. Začínalo mi docházet, že se s ní budu muset rozejít. Rozbrečel jsem se. Poprvý ode dne kdy jsme se viděli poprve! Bolelo mě to. A nebyl jsem si tím vůbec jistej. Ale cítil jsem to. Nebo spíš necítil.<br>
 Tak jako to necítila Miška? Přišlo mi, že ona je jedinýČlověk na planetě, která by mi mohl pomoct. Ale nechtěl Jsem jí psát. Nečetla moje zprávy. Nebo alespoň ne dost rychle. Mohl jsem jí zavolat. Ale nevím jestli by mi to zvedla. Asi je.<br>
+Veru byla nešťastná z nánosu vodního kamene v mý konvici. Bylo ho hodně a tak jsem to vycídil.
+
+<a href="../images/2024_october/31_1.jpg" target="_blank"><img src="../images/thumbnails/2024_october/31_1.jpg"></a>
+
 Později mi Anet řekla, že nesmím srovnávat. Že to je hovadina. Taky jsem si uvědomil, že jsem asi měl dopaminový crash a proto mě to doběhla a cítil jsem se na hovno.<br>
 S Veru jsem se cítil skvěle. Bez ní jsem se cítil blbě.<br>
 Byl čas na nějaký vztahový fitness. Poslechnout si Elišku Remešovou. Říct si kam míříme.
