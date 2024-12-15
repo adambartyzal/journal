@@ -10,24 +10,27 @@
 - [8.12. Knedlíky a lívance](#812-knedlíky-a-lívance)
 - [9.12. Dospěláctví je na prd](#912-dospěláctví-je-na-prd)
 - [10.12. Průsery a řešení](#1012-průsery-a-řešení)
+- [11.12. Sushi, callback a chryzantéma](#1112-sushi-callback-a-chryzantéma)
+- [13.12. Oběma směry](#1312-oběma-směry)
+- [14.12. Požitkářství](#1412-požitkářství)
 
 ### 1.12 Kafe a umění
 
-Břichabal Verunku stále sužoval. Už to ale nebylo akutní a jeden Nimesil jí postavil na nohy. Ne že by mě těšilo, že lupe pilule, ale nechtel jsem aby trpěla. A takhle jsme mohli ven. Na umění. Do Rudolfina. A do galerie České spořitelny o které nikdo neví. Ale drív než jsme tam došli, stavili jsme se na kafe./
+Břichabal Verunku stále sužoval. Už to ale nebylo akutní a jeden Nimesil jí postavil na nohy. Ne že by mě těšilo, že lupe pilule, ale nechtel jsem aby trpěla. A takhle jsme mohli ven. Na umění. Do Rudolfina. A do galerie České spořitelny o které nikdo neví. Ale drív než jsme tam došli, stavili jsme se na kafe.<br>
 Janek na Václaváku doporučoval kavárnu v domě módy. O víkendu ale měla zavřeno. Sešli jsme níž do Academie. Vůně knížek kávě a koláči rozhodně přidala kladné body.
 
 <a href="../images/2024_december/1_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/1_1.jpg"></a>
 
-Ukázal jsem Verunce magické oko. Vzpoměl jsem si na něj díky knížce Zítra a zítra a zítra, kterou jsem zahlédl ve svém Calibre. Zprvu jí to nešlo, ale po chvíli snažení to zvládla tak, že obraz byl ostrý./
-V České spořitelně vystavovali krajinky. Obrazy z vesnic a Okolí. Nikdo tam nebyl. Bylo to Ok. Ale výstava v Rudolfinu byla mnohem lepší. Obzvlášť temná místnost./
+Ukázal jsem Verunce magické oko. Vzpoměl jsem si na něj díky knížce Zítra a zítra a zítra, kterou jsem zahlédl ve svém Calibre. Zprvu jí to nešlo, ale po chvíli snažení to zvládla tak, že obraz byl ostrý.<br>
+V České spořitelně vystavovali krajinky. Obrazy z vesnic a Okolí. Nikdo tam nebyl. Bylo to Ok. Ale výstava v Rudolfinu byla mnohem lepší. Obzvlášť temná místnost.<br>
 Místnost se dvěma dráty Verunka trochu pobouřila. Mé to přišlo minimalistický a super.
 
 <a href="../images/2024_december/1_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/1_2.jpg"></a>
 
-Taky se mi líbil projekce na televizích v lobby. Teda dvě z nich. Z jedný jsem byl téměř v transu./
-Dál nás naše kroky vedly na večeri. Dali jsme si Indii v Quadriu. Bylo to Ok. Povídali jsme si tam a vtipkovali./
-Verunku ale čekaly přípravy na pondělí a já jsem taky mohl ještě něco udelat. Vyjeli jsme dva a dvacítka a na páku jsem se s Verunkou rozloučil./
-Pak už jsem jen nakoupil v Albertu a doma uvařil super veggie Bryana Johnsona./
+Taky se mi líbil projekce na televizích v lobby. Teda dvě z nich. Z jedný jsem byl téměř v transu.<br>
+Dál nás naše kroky vedly na večeri. Dali jsme si Indii v Quadriu. Bylo to Ok. Povídali jsme si tam a vtipkovali.<br>
+Verunku ale čekaly přípravy na pondělí a já jsem taky mohl ještě něco udelat. Vyjeli jsme dva a dvacítka a na páku jsem se s Verunkou rozloučil.<br>
+Pak už jsem jen nakoupil v Albertu a doma uvařil super veggie Bryana Johnsona.<br>
 Byla to dobrá neděle.
 
 ### 2.12.
@@ -96,25 +99,60 @@ Než jsem šel spát , šel na mě pocit toho, že začíná příli- mnoho věc
 - sepíšu aspoň 2 dny
 - napíšu si Todo na další dny
 
-Pomalu ale jistě. Krůček po krůčku jsem si chtel udelat ve věcech pořádek./
-Vstal jsem dostatečně brzo. Zvládl dvaceti minutovou jógu, napustil si termofor, protože záda jsem cítil docela dost a vyjel do práce. Ve dvojech rukavicích, protože palčáky byly pryč./
-Dostavil jsem HLA00b a zjistil proč NFC vyčítá nesmysly. Chip Select se zvedal moc brzy. Proč byla otázka na úterý./
-Nakupovat indexy v pondělí je chyba. První short mi vyšel. A měl jsem v tom buď pokračovat, nebo to nechat být. Večer byla sekera přes 60 tisíc. Swap na úterý dělal 4850. Rozhodl jsem se počkat./
-Moc jsem se nepoučil. Nakupovat v pondělí ráno je blbost. Nakupovat ztřeštěné na cestě dolů taky. Velký objemy. Hrubice./
-Napsal jsem Kendymu, že bych chtěl bydlet s Verunkou./
-Vyplnil jsem Duolingo./
-Podíval se na LOST./
-Pověsil háčky, který jsem vytiskl, aby byla Vera speko./
+Pomalu ale jistě. Krůček po krůčku jsem si chtel udelat ve věcech pořádek.<br>
+Vstal jsem dostatečně brzo. Zvládl dvaceti minutovou jógu, napustil si termofor, protože záda jsem cítil docela dost a vyjel do práce. Ve dvojech rukavicích, protože palčáky byly pryč.<br>
+Dostavil jsem HLA00b a zjistil proč NFC vyčítá nesmysly. Chip Select se zvedal moc brzy. Proč byla otázka na úterý.<br>
+Nakupovat indexy v pondělí je chyba. První short mi vyšel. A měl jsem v tom buď pokračovat, nebo to nechat být. Večer byla sekera přes 60 tisíc. Swap na úterý dělal 4850. Rozhodl jsem se počkat.<br>
+Moc jsem se nepoučil. Nakupovat v pondělí ráno je blbost. Nakupovat ztřeštěné na cestě dolů taky. Velký objemy. Hrubice.<br>
+Napsal jsem Kendymu, že bych chtěl bydlet s Verunkou.<br>
+Vyplnil jsem Duolingo.<br>
+Podíval se na LOST.<br>
+Pověsil háčky, který jsem vytiskl, aby byla Vera spoko.<br>
 A cítíl, že být dospělej je voser.
 
 ### 10.12. Průsery a řešení
 
-Budík mě probudil v 6:30. Nečekala na práce ale fyzio. V 8:00, to minut jízdy od domu. Vypl jsem budík a usnul./
-7:45 bylo když jsem otevřel oči podruhé. Průser. Naházel jsem věci do batohu, nahodil oblečení a vyrazil na kolo./
-Padal. sňato. Bylo fakt hnusně. Ale v 8:07 jsem byl v ordinaci./
-Fyzioterapeutka se jmenuje Míša. Je z Písku a potešila mě, když mi řekla, že moje záda jsou napuchlejší než minule. Bolely víc a tohle znamenalo,Že nejsem hypochondr./
-Zvedat nohy . či cvičení core jsem měl z pokrčených nohou. Měl jsem přidat houpání a kreslení kruhu kdeny.Jízda do práce byla extrémní. S SPI jsem nepohnul. Aspoň jsem založil položky na nákup v TME. Taky jsem Omarovi odsouhlasil výrobu NFC Ua EBD, ale nejak jsem minul poznámku, kde tvrdili , že v dokumentaci něco chybí a až večer mi to začalo vrtat hlavou./
-Sekera v Capital-Markets vyrostla na 100 tisíc. Zavřel jsem ale jeden obchod za 7800 a pokryl tak swap a vlastně trochu víc. Vestředu měly vyjít nejaký CPI a výhled byl pozitivní. Třeba se z toho dluhu vyhrabu./
-Večer jsem si volal s Verunkou. Povídali jsme si o Vojtkovi, Elišce Remešová a vztahovém fitness./
-Taky jsem vytiskl dodatek ke smlouvě a dal vědět Kendymu. Napsal, že nás podporuje a začne hledat něco novýho. Je třída./
+Budík mě probudil v 6:30. Nečekala na práce ale fyzio. V 8:00, to minut jízdy od domu. Vypl jsem budík a usnul.<br>
+7:45 bylo když jsem otevřel oči podruhé. Průser. Naházel jsem věci do batohu, nahodil oblečení a vyrazil na kolo.<br>
+Padal. sňato. Bylo fakt hnusně. Ale v 8:07 jsem byl v ordinaci.<br>
+Fyzioterapeutka se jmenuje Míša. Je z Písku a potešila mě, když mi řekla, že moje záda jsou napuchlejší než minule. Bolely víc a tohle znamenalo,Že nejsem hypochondr.<br>
+Zvedat nohy . či cvičení core jsem měl z pokrčených nohou. Měl jsem přidat houpání a kreslení kruhu kdeny.Jízda do práce byla extrémní. S SPI jsem nepohnul. Aspoň jsem založil položky na nákup v TME. Taky jsem Omarovi odsouhlasil výrobu NFC Ua EBD, ale nejak jsem minul poznámku, kde tvrdili , že v dokumentaci něco chybí a až večer mi to začalo vrtat hlavou.<br>
+Sekera v Capital-Markets vyrostla na 100 tisíc. Zavřel jsem ale jeden obchod za 7800 a pokryl tak swap a vlastně trochu víc. Vestředu měly vyjít nejaký CPI a výhled byl pozitivní. Třeba se z toho dluhu vyhrabu.<br>
+Večer jsem si volal s Verunkou. Povídali jsme si o Vojtkovi, Elišce Remešová a vztahovém fitness.<br>
+Taky jsem vytiskl dodatek ke smlouvě a dal vědět Kendymu. Napsal, že nás podporuje a začne hledat něco novýho. Je třída.<br>
 Bylo to zvláštní úterý. Spousta průserů, hodně řešení, nějakej posun v životě.
+
+### 11.12. Sushi, callback a chryzantéma
+
+Budík v 6:30 tentokrát fungoval líp. Chvíli jsem se válel, ale celkem brzy jsem vstal, jógoval, umyl nádobí a vyrazil na tramvaj.
+<br>Mám šestý smysl na to zahlídnout, jak mi odjíždí šestka. Můj plán psát v MHD deník byl bláhový. Lidí bylo všude milion a nacpaný v kloubu tramvaje a v chodbě metra jsem zvládl akorát dueling. Začal minulý čas. Gramatika šla úplně mimo mě.
+<br>Odepsal jsem do Safivalu a požádal Vládu o pomoc s debugováním SPI. Byl to oříšek. Před obědem jsem se nepohnul.
+<br>Ivan zatoužil po sushi. Tak moc, že řekl že nás zve na bufet v Kyotu. To je asi 400 na hlavu. Prý ale chtěl oslavit to, že po povrchu země kráčí čtyricátým rokem. Bylo to tam fancy a všichni mluvili čínsky. Pochutnal jsem si moc.
+<br>Ze Safiralu napsali, proč vybrali co vybrali a já jim to odsouhlasil. Vláďa mi pomohl najít chybu a já rozchodil loop back. Pustil jsem se do debugování pomocí Proxilabu. Ta jejich karta prostě neodpovídala. Jen to fejkovala. Co už. I tak to byl úspěšný den.
+<br>V améra navíc vyšly data o inflaci. Trh stoupl amůj 100 tisícový dluh se smazal. Blbý bylo, že Take Profity jsem kvůli nervozitě tak nízko, že nepokryly swap. To jsem posral. Ale lepší být na nule než se to tisícoven sekerou. Šlo to hodněnahoru. V jednu chvíli jsem vystartoval asi tisícovku ale druhý short mi opet generovat dluh. Tak dobrý to byl den. Mohl jsem vydělat randál, ale nějak jsem to nezvládl.
+<br>Nicméně jsem ráno dal adesàt tisíc do S&P 500 a během dne to popolezlo ještě o 1000 dolarů, takže jsem neostrouhal.
+<br>Cestou k Verunce jsem se zastavil v květinářství a koupil jí chryzantémy. Měla radost. To byl asi nejlepší okamžik dne. Od sedmi ji čekal nebinář a tak jsem měl čas na psaní. Ale byli jsme spolu a to bylo fajn.
+
+### 13.12. Oběma směry
+
+Ve vstávání včas jsem se trochu lepšil. Vstát, jógovat a vyjet na kole jsem zvládl před osmou ranní. Jel jsem S kuklou na hlavě, abych dýchal vlhčí vzduch a termoforem na zádech, aby mi bylo teplo. Říkal jsem si, že jsem zpohodlněl. Pořád ale bylo pod nulou a já jel do práce na kole.
+<br>A to se počítá!
+<br>Navíc jsem našel svetr. A to se ti v MHD nepoštěstí.
+<br>V práci na mě čekalo osazování hipooc. Dostavěl jsemho po obědě. Salátu a chlebu, který byl ve skříni od čtvrtka. Horský chléb je dobrý i třetí den.
+<br>Přeprogramoval jsem pípák na nové GMO a nový timer a rozchodil motor tak, že se točil oběma směry. Zase jsme byli o krok dál. Detailní algoritmus odvykání a zamykání jsem ale nechal Vláďovi. Má to vymyšlený a bylo to složitý. Debounce, tři senzory a nejistá mezipoloka.
+<br>Kolo zpátky domů. Upustil jsem trocha vzduchu v kolech, protože plášť drhl o rám, ale nejspíš jsem měl osmičku.
+<br>Vera měla koncert, ale protože měla další den další zůstal jsem doma. Koukl jsem na dva díly lost a šelspát. Tma mě začínala zmáhat.
+
+### 14.12. Požitkářství
+
+Ráno jsem se rozhodl být zodpovědný. Dal jsem prát prádlo, pustil Arnošta, zalil kytky a oddrápal Značnou část vodního kamene usazeneho na dne. záchodové mísy pomocí octa a čínské hůlky.
+<br>Na dvanáctou jsme naplánovali saunování ve STEPU. Měl jsem [ten poukaz] (), multisportku a plánoval cenu, na můj vkus, extrémně drahého požitku.
+<br>136 nás přivezla z opačných stran na skloněnou. Na recepci nám vysvetlit: co a jak a po chvilce v šatnách jsme se s Verunkou potkali u turniketu.
+<br>Do Saunového svete jsem šel poprve'. Bylo to tam fancy. První jsme vybrali solnou saunu. Po patnácti minutách jsme oba hecnuli ledový bazének. Chvíli jsme se houpali v relaxační zóně, potom zkusili medovou, odpočinek na lehátku v kavárně a poslední bylinkovou.
+<br>Tam jsme byli úplně sami a na Verunku šli démoni. Žádný faux pas jsme neudělali.
+<br>Hlad nás dohnal do food courtu na harfe. Opět na Indii. Verunka tam našla jídlo, které jí chutnalo na výletě se studenty na Moravu . Koftu. Zeleninové koule vomáčce podobné té v Chana masala. V dmku jsme koupili zelený čaj, debat a kondomy. V Bille jsme pořídili bramborový chléb a metrem dojeli k Veru.
+<br>Připravovala se na koncert. Já si drnkat na klavír a před šestou nám nakrájel chleba a uvařil decay.
+<br>Céčko a pět a dvacítka nás dovezly do Irské hospody na Kamenické. Kapela byla umístěná v patře , kdena ně nebylo vidět. Mikrofon vazbil a já dokázal zapomenout, jak se jmenuje Verunky brácha. Lukáš. Ke stolu u kterého jsem seděl se přidala Míša. Kamarádka členů kapely. fonetička a houslistka ze slow sessions. S Lukášem Jsme toho moc nenapovídali, ale s Míšou se povídalo dobře.
+<br>Tři řezaný mě docela sundaly. 4 Cidery Verunka docela taky. Cesta zpátky byla vtipná. Na eskalátorech jsem vyvolával „Bacha na tuhle ženu, kouše do rtů!"
+<br>Pak už si toho moc nevybavuju. Asi jsme prostě odpadli do postele a usnuli.
+
