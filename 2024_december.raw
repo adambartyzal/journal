@@ -1,4 +1,4 @@
-[<< Září](2024_october.md)
+[<< Listopad](2024_november.md)
 
 - [1.12 Kafe a umění](#112-kafe-a-umění)
 - [2.12.](#212)
@@ -11,12 +11,18 @@
 - [9.12. Dospěláctví je na prd](#912-dospěláctví-je-na-prd)
 - [10.12. Průsery a řešení](#1012-průsery-a-řešení)
 - [11.12. Sushi, callback a chryzantéma](#1112-sushi-callback-a-chryzantéma)
+- [12.12. Druhý prototyp a příprava na vztahové fitness](#1212-druhý-prototyp-a-příprava-na-vztahové-fitness)
 - [13.12. Oběma směry](#1312-oběma-směry)
 - [14.12. Požitkářství](#1412-požitkářství)
+- [17.12. Sebranka](#1712-sebranka)
+- [18.12. Dvacet pět bazických bodů](#1812-dvacet-pět-bazických-bodů)
+- [19.12. Tvrdá lekce](#1912-tvrdá-lekce)
+- [20.12. Smiťák](#2012-smiťák)
+- [21.12. 20 dní zvládnu](#2112-20-dní-zvládnu)
 
 ### 1.12 Kafe a umění
 
-Břichabal Verunku stále sužoval. Už to ale nebylo akutní a jeden Nimesil jí postavil na nohy. Ne že by mě těšilo, že lupe pilule, ale nechtel jsem aby trpěla. A takhle jsme mohli ven. Na umění. Do Rudolfina. A do galerie České spořitelny o které nikdo neví. Ale drív než jsme tam došli, stavili jsme se na kafe.\
+Břichabol Verunku stále sužoval. Už to ale nebylo akutní a jeden Nimesil jí postavil na nohy. Ne že by mě těšilo, že lupe pilule, ale nechtel jsem aby trpěla. A takhle jsme mohli ven. Na umění. Do Rudolfina. A do galerie České spořitelny o které nikdo neví. Ale drív než jsme tam došli, stavili jsme se na kafe.\
 Janek na Václaváku doporučoval kavárnu v domě módy. O víkendu ale měla zavřeno. Sešli jsme níž do Academie. Vůně knížek kávě a koláči rozhodně přidala kladné body.
 
 ![image](1_1.jpg)
@@ -133,15 +139,24 @@ Budík v 6:30 tentokrát fungoval líp. Chvíli jsem se válel, ale celkem brzy 
 \Nicméně jsem ráno dal adesàt tisíc do S&P 500 a během dne to popolezlo ještě o 1000 dolarů, takže jsem neostrouhal.
 \Cestou k Verunce jsem se zastavil v květinářství a koupil jí chryzantémy. Měla radost. To byl asi nejlepší okamžik dne. Od sedmi ji čekal nebinář a tak jsem měl čas na psaní. Ale byli jsme spolu a to bylo fajn.
 
+### 12.12. Druhý prototyp a příprava na vztahové fitness
+
+Z nadpisu je jasný, do čeho jsem se pustil po jízdě na kole do práce. Tady, ne hned. Napřed jsem našrouboval elektroniky do horseshoe locku a zkusil z jaké dálky lze Číst UID pomocí pípnutí.\
+Přišlo mi, že proti NICU je to pokrok. Měl jsem radost.\
+V kalendáři jsme měli vztahové fitness. Dostalo se to tam po telefonátu o rozhovoru BWA s Eliškou Remišerovou.\
+Než Veru přišla, uklízel jsem kuchyň. Vyčistil jsem odkapávač, desku, vařič a dřez. Prokouklo to pěkné.\
+Slíbil jsem, že půjdu na proti a tak napůl to stihl. Vera jsem potkal na rohu Ukrajinské a Nádražní. Spolu jsme došli do Lidlu, pořídili chleba, pomazánky a mléko, které jsem nakonec nepotřeboval a odvezl ho do práce.\
+Moc jsme tomu fitness nedali. Ale naplánovali si poslech toho díla a dokoukali Asterixe. To je taky důležitý.
+
 ### 13.12. Oběma směry
 
-Ve vstávání včas jsem se trochu lepšil. Vstát, jógovat a vyjet na kole jsem zvládl před osmou ranní. Jel jsem S kuklou na hlavě, abych dýchal vlhčí vzduch a termoforem na zádech, aby mi bylo teplo. Říkal jsem si, že jsem zpohodlněl. Pořád ale bylo pod nulou a já jel do práce na kole.
-\A to se počítá!
-\Navíc jsem našel svetr. A to se ti v MHD nepoštěstí.
-\V práci na mě čekalo osazování hipooc. Dostavěl jsemho po obědě. Salátu a chlebu, který byl ve skříni od čtvrtka. Horský chléb je dobrý i třetí den.
-\Přeprogramoval jsem pípák na nové GMO a nový timer a rozchodil motor tak, že se točil oběma směry. Zase jsme byli o krok dál. Detailní algoritmus odvykání a zamykání jsem ale nechal Vláďovi. Má to vymyšlený a bylo to složitý. Debounce, tři senzory a nejistá mezipoloka.
-\Kolo zpátky domů. Upustil jsem trocha vzduchu v kolech, protože plášť drhl o rám, ale nejspíš jsem měl osmičku.
-\Vera měla koncert, ale protože měla další den další zůstal jsem doma. Koukl jsem na dva díly lost a šelspát. Tma mě začínala zmáhat.
+Ve vstávání včas jsem se trochu lepšil. Vstát, jógovat a vyjet na kole jsem zvládl před osmou ranní. Jel jsem S kuklou na hlavě, abych dýchal vlhčí vzduch a termoforem na zádech, aby mi bylo teplo. Říkal jsem si, že jsem zpohodlněl. Pořád ale bylo pod nulou a já jel do práce na kole.\
+A to se počítá!\
+Navíc jsem našel svetr. A to se ti v MHD nepoštěstí.\
+V práci na mě čekalo osazování HLP00c. Dostavěl jsem ho po obědě. Salátu a chlebu, který byl ve skříni od čtvrtka. Horský chléb je dobrý i třetí den.
+Přeprogramoval jsem pípák na nové GMO a nový timer a rozchodil motor tak, že se točil oběma směry. Zase jsme byli o krok dál. Detailní algoritmus odvykání a zamykání jsem ale nechal Vláďovi. Má to vymyšlený a bylo to složitý. Debounce, tři senzory a nejistá mezipoloha.\
+\Kolo zpátky domů. Upustil jsem trocha vzduchu v kolech, protože plášť drhl o rám, ale nejspíš jsem měl osmičku.\
+\Vera měla koncert, ale protože měla další den další zůstal jsem doma. Koukl jsem na dva díly lost a šel spát. Tma mě začínala zmáhat.
 
 ### 14.12. Požitkářství
 
@@ -155,4 +170,45 @@ Ráno jsem se rozhodl být zodpovědný. Dal jsem prát prádlo, pustil Arnošta
 \Céčko a pět a dvacítka nás dovezly do Irské hospody na Kamenické. Kapela byla umístěná v patře , kdena ně nebylo vidět. Mikrofon vazbil a já dokázal zapomenout, jak se jmenuje Verunky brácha. Lukáš. Ke stolu u kterého jsem seděl se přidala Míša. Kamarádka členů kapely. fonetička a houslistka ze slow sessions. S Lukášem Jsme toho moc nenapovídali, ale s Míšou se povídalo dobře.
 \Tři řezaný mě docela sundaly. 4 Cidery Verunka docela taky. Cesta zpátky byla vtipná. Na eskalátorech jsem vyvolával „Bacha na tuhle ženu, kouše do rtů!"
 \Pak už si toho moc nevybavuju. Asi jsme prostě odpadli do postele a usnuli.
+
+### 17.12. Sebranka
+
+Přišel jižní vítr. Bylo tak teplo, že na poslední fyzio v tomhle roce jsem jel v kraťasech a v Merrellech.\
+Míša byla skleslá. Prý už potřebovala Vánoce. Itálii by mi prý neschválila. Má ráda tradice. Promasírovala mi záda míčkem a domluvili jsme se na dalších cvicích. Tentokrát to byl žabák.\
+V kanclu jsem si zkreslil další Landing plane a dal se do ladění hla 004. Moc to nešlo. I přes dobré přizpůsobení Anténa neměla dosah.\
+Chvíli jsem si taky hrát s digitálními testy a našel nějakou chybu v časování.. Ale to bylo tak všechno. Ten výtisk byl higlight pracovního dne.\
+Na večer jsme měli naplánovaný koncert Lukášova sboru. Bylo to na starým městě a před tím jsem se zastavil a Verunky, která mi k večeři dala Zapečenou zeleninu z neděle.. Byla výborná a snědl jsem toho randál.\
+Metrem jsme dojeli na Staroměstskou a došli do sídla unitářů. Sebranka byla fakt dobrá. Prostor Skvěle akusticky upravenej, perníky moc dobrý a houslistka Magdaléna Piskavičova byl klon Misky s tmavými vlasy. Stejně se hýbala, smála, mrkala. Měla stejný proporce. Jen navíc hrála první housle. Bizár.\
+Aranž to byla zajímavá. Koledy moderně pojaty. Byl jsem příjemně překvapený. A unaveny! Po koncertě Jsme jeli rovnou k Veru dam a po chvíli drnkání na kytaru na gauči jsme šli spát.
+
+### 18.12. Dvacet pět bazických bodů
+
+Tenhle den začal dobře. Probudil jsem se vedle Verunky, udělala mě rukou, já jí taky dělal hezky, ale na vrchol jsem jí nevytáhl.\
+K snídani jsem si dal bagetu a autobusem sjel na Kolbenku, zjišťovat, proč NFC nefunguje tak Jak by mělo.\
+Během dne jsem došel díky Vláďovi k několika prozření. Uši GSM antény to ruší, protože se v nich točí vířivé proudy. To bylo blbý . Kazilo mi to Q . Displej mi taky kazil Q. To bylo ještě horší.\
+Pan Ptak mi volal , protože večer × 8 měl FEDSnižovat sazby. Byl optimistický. Měl jsem otevřen,/ Dow Johnson ve ztrátě skoro 100 000, ale prý byla na stole možnost, že sazby klesnou o půl procenta. To by bylo fajn.\
+Jenže se to nestalo. Fed ohlásil 25 Sb. A na příští rok pouze dvě další úpravy. To se trhu moc nelíbilo. Skoro okamžitě moje ztráta poskočila na dvojnásobek. A st.to dál. Vystartoval jsem pár desítek tisíc k dobru, ale když jsem byl v minusu půl milionu, nedostatek marže mi automaticky zavřel pozici se ztrátou 133 tisíc. To zabolelo. Navíc jsem neměl marži na případný dokup při cestě nahoru. Průser.\
+Sice jsem si řekl, že těch 700 tisíc je odepsaných.Ale vidět je ztrácet mi přinášelo značnou míru stresu.\
+Až dole mi došlo, že kdybych během pádu skartoval stejnou měrou, ochránil bych se proti voletilitě. Hedgeoval bych. To jsem posral. Lekce příliš pozdě. Příliš draho. Zkurvenej don jones.\
+Přemýšlel jsem jestli s tím skončit. Propad ale věstí nárůst. Vystoupím až se dostanu na nulu. Pomalý investování dává větší smysl. A míň stresuje.
+
+### 19.12. Tvrdá lekce
+
+
+
+### 20.12. Smiťák
+
+dosah odmocnna ze dvou menší než velikost smyčky\
+osmička\
+fotka\
+přizúůspování\
+loučení před vánoci\
+přizpůsobení teoreticky\
+na bazén kašlu\
+smiťák doma\
+
+### 21.12. 20 dní zvládnu
+
+Chybělo mi sepsat 20 dní.
+do dvanácti psal, pral, myl vodní kámen a koukal na poslední řadu lost
 
