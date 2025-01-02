@@ -14,11 +14,23 @@
 - [12.12. Druhý prototyp a příprava na vztahové fitness](#1212-druhý-prototyp-a-příprava-na-vztahové-fitness)
 - [13.12. Oběma směry](#1312-oběma-směry)
 - [14.12. Požitkářství](#1412-požitkářství)
+- [15.12.](#1512)
+- [16.12.](#1612)
 - [17.12. Sebranka](#1712-sebranka)
 - [18.12. Dvacet pět bazických bodů](#1812-dvacet-pět-bazických-bodů)
 - [19.12. Tvrdá lekce](#1912-tvrdá-lekce)
 - [20.12. Smiťák](#2012-smiťák)
 - [21.12. 20 dní zvládnu](#2112-20-dní-zvládnu)
+- [22.12.](#2212)
+- [23.12.](#2312)
+- [24.12.](#2412)
+- [25.12.](#2512)
+- [26.12.](#2612)
+- [27.12.](#2712)
+- [28.12. Finále](#2812-finále)
+- [29.12. Verunka měří](#2912-verunka-měří)
+- [30.12.](#3012)
+- [31.12.](#3112)
 
 ### 1.12 Kafe a umění
 
@@ -171,6 +183,10 @@ Ráno jsem se rozhodl být zodpovědný. Dal jsem prát prádlo, pustil Arnošta
 <br>Tři řezaný mě docela sundaly. 4 Cidery Verunka docela taky. Cesta zpátky byla vtipná. Na eskalátorech jsem vyvolával „Bacha na tuhle ženu, kouše do rtů!"
 <br>Pak už si toho moc nevybavuju. Asi jsme prostě odpadli do postele a usnuli.
 
+### 15.12.
+
+### 16.12.
+
 ### 17.12. Sebranka
 
 Přišel jižní vítr. Bylo tak teplo, že na poslední fyzio v tomhle roce jsem jel v kraťasech a v Merrellech.<br>
@@ -212,3 +228,51 @@ smiťák doma<br>
 Chybělo mi sepsat 20 dní.
 do dvanácti psal, pral, myl vodní kámen a koukal na poslední řadu lost
 
+### 22.12.
+
+### 23.12.
+
+### 24.12.
+
+### 25.12.
+
+### 26.12.
+
+### 27.12.
+
+### 28.12. Finále
+
+Asi tak ve dvě ráno nás probudil zvonek. Poprvé jsme si nebyli jistí, zda to opravdu znamená, že na nás někdo zvenku zvoní , ale když se to stalo podruhé! Verunka rázně zakročila. Oblékla si bundu a vyběhla ven to vyřešit.<br>
+Nějaký pár nepochopil jak otevřít krabičku s klíči.<br>
+Ještě asi 2. minut rachtali a narušovali mé pokusy o usnutí.<br>
+Ráno jsme vstali na čas. Casa Milano mě štvala dál.Snídaně neexistovala. Kapsle do kávovaru také ne. Vyčarovali jsme jablko, čaj a filtr.<br>
+Na autobus jsme vyrazili ve 8:22. Přesně dle google map. A málem nám ten autobus ujel. Stanice před hřbitovem tam nějak nebyla. Ale doběhli jsme na další<br>
+Na druhý pokus jsem po vystoupení z autobusu vybral správný směr a po asi Zoti minutách chůze jsme dorazili na nehezké autobusové nádraží.<br>
+Flix měl jet z nástupiště B po asi deseti minutách. Ve dvanácti uncích jsme si pořídili pečivo a nasedli dozeleného autobusu. Jel přes letiště. Kam stál 12€. Do Bergama ale stál 4,49€. Verunku napadlo zda to tak je i opačně, že bychom ušetřili za cestu na letisko a bylo. Ale MHD v Bergamu byla levnější.<br>
+Během jízdy jsme nadepsali pohledy a oznámkovali je. Byla to docela fuška v jedoucím autobuse. Taky mi došlo, že pohledy a známky stály 12 a 15€. Těch zpropadených 12 a 15 €, které mi nešly do hlavy. Zasmáli jsme se tomu, jak jsme oba debilní.<br>
+Kromě bezdomovci obsazeného nádraží bylo Bergamo moc pěkné. Místo, kde začínaly Alpy. Šli jsme přes tržiště do kopce k lanovce. Potkali Poštu a Verunka tam domluvila , že nám je rovnou pošlou. I přesto, že měly známku z nějaké Friend Post sítě. Pán na ně nasázel razítka a bylo.<br>
+Na lanovku byla fronta. Delší než by trvalo vyjít to pěšky. Bylo krásné a schody byly masážní. (Čti, z malých oblázků, co píchaly do nohou.). Těsně před koncem jsme si dali pauzu na pečivo s pestem, zbytek papriky a rajčat a na vydýchání se.<br>
+Citta Alta bylo pěkné. Hrál tam houslista, kterému jsem dal 2€. A varhaník, který nadchl Verunku.<br>
+Vařili tam polentu. Veganka Veru si dala sýrovou polenta s trhaným vepřovým. Já zvolil houbovou variantu. Houby nám oběma chutnaly víc. Nejlepší to ale bylo smíchaný.<br>
+Jídlo jsme si odnesli na vyhlídku. Cestou jsme na něj nalákali hned několik lidí. V malém parčíku s Velkým výhledem jsme to do sebe nacpali všechno i přes to, že už jsme oba byli docela plní.<br>
+Možná proto si Verunka dala na dece 20. Bylo fakt fantasticky teplo.<br>
+Jednička jela kousek od nás. Až na letisko. Jestli jsme jí zaplatili jsme si nebyli jistí. Virtualizované karty strojek nebral a fyzická sice pípla, ale druhým dotykem jsem jí možná odhlásil.<br>
+Každopádně nás a dalších několik desítek lidí, kteří se do autobusu sotva vešli odvezla na letisko, kde jsme překvapivě rychle prošli sekuritkou a pak extrémně dlouho čekali na zpožděný Ryan.<br>
+Hráli jsme na klavír. Vern si koupila Deník malého poseroutky v Italštině a během mých dvou lekcí dnolinga si přečetla notnou část knihy v jazyce, který tři týdny zpátky neovládala.<br>
+Ryan nakonec dovoloval před náš gate. Verunka nastoupila dozadu a já na sedadlo 1B. První sedadlo v Letade neb 1A neexistuje.<br>
+Letuška byla moc pěkná blond Češka. Prohodili jsme pár vět, ale byla taková trochu zrychlená a během letu měla dost práce. Dal jsem se do psaní deníku.<br>
+Zpoždění v Bergamu nebylo poslední ten den. Když jsme Čekali v autobusech na odvoz, přijeli policajti a někoho hledali.<br>
+Dva Italové v autobuse neztráceli čas, otevřeli oba Tinder a začali swajpovat o 106.<br>
+Po asi půlhodině čekání se věci konečně daly do pohybu a my prošli letištěm. V Bille jsme pořídili vánočku na snídani a během cesty si povídali mojí extrémně lámanou Španělštinou a dělali si srandu úplně ze všeho.<br>
+Akorát nahrát dění Jsme večer nějak nestihli. To byla škoda. Protože to byla set sakra skvělá dovolená.
+
+### 29.12. Verunka měří
+
+Už u snídaně bylo patrný, že Verance to v hlavě šrotuje. Že neděle nebude jen o nedělání, ale že se bude plánovat. On. ostatně rok se blížil ke konci a Verunka měla pravdu. Stěhování se blížilo raketovou rychlostí.<br>
+Během dne měřila metrem, kreslila si v Řehoři a dělala seznamy toho, co bude třeba udělat.<br>
+Zbavit se nějakých věcí určitě. Byli jsme dva a měli tři postele. Málo místa na věci nás obou a žádný místo na klavír. Nakonec to ale Verunka vymyslela dobře. Jen domluvit, načasovat a provést to všechno se zdálo Jako dost práce.<br>
+Vztah bude dost práce. Ale tasil jsem se na to, když jsme šli nakupovat. Když jsme dělali salát a řepnou pomazánka a když jsme měli sex asi potřetí ten den.
+
+### 30.12.
+
+### 31.12.

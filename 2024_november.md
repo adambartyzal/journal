@@ -30,7 +30,6 @@
 - [29.11.](#2911)
 - [30.11.](#3011)
 
-
 ### 1.11. Poslední den šestinedělí
 
 Jít běhat nebo ujet Gran Fondo? Namazal jsem si chleba burákovým máslem, sednul na kolo a vyjel.<br>
@@ -151,7 +150,6 @@ Vyrazili jsme na výlet. Hledali jsme houby, ale reálné Jsme spíš ti do baš
 Co naděláš. Dali jsme si polívku a pivo. Povídali si a měli se fajn. I cesta zpátky byla fajn. A pizza ještě víc fajn.<br>
 Ale byl jsem unavený a šel jsem spát první. Někdy v jednu. Ostatní někdy ve tři.
 
-
 ### 10.11.
 
 <a href="../images/2024_november/10_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/10_1.jpg"></a>
@@ -168,13 +166,14 @@ Ale byl jsem unavený a šel jsem spát první. Někdy v jednu. Ostatní někdy 
 
 ### 14.11. Rande
 
-<a href="../images/2024_november/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/14_1.jpg"></a>
-
 Aulin mi podle mě rozbíjel spánek. I když těžko říct, možná by to bez něj bylo horší. Termofor ale pomáhal. Vzal jsem si ho do práce. Hřál mě do zad, když jsem rozcházel pollování v horseshoe locku. Povedlo se mi to. Měl jsem z toho docela radost.<br>
 To ale nemel být highlight toho dne. Ve čtyři jsme se scházeli s Verunkou v metru na Vysočanská. Na pátou jsme měli rezervovaný stůl ve Střeše.<br>
 Verunka se těšila na řepový burger. Já jsem moc nevěděl co si dám. Knedlíky byly dobrý ale co takovásvíčková. Většina jídla tam byla drahá. Ne příšerné, ale docela dost. Ale jednou za čas.<br>
 Navíc, Verunka měla 2 lístky na film na Andělu a vybrala Conclave. Film z Vatikánu s Voldemortem.<br>
-Nějakou náhodou jsem stihl správný metro. Veru ale měla zpoždění. Rezervaci jsme naštěstí stihli. Vlastně tam nebyl přetlak a náš stůl byl trochu moc blízko dveří, takže U něj bila trochu zima. Nicméně jídlo bylo fantastické.<br>
+Nějakou náhodou jsem stihl správný metro. Veru ale měla zpoždění. Rezervaci jsme naštěstí stihli. Vlastně tam nebyl přetlak a náš stůl byl trochu moc blízko dveří, takže U něj bila trochu zima. Nicméně jídlo bylo fantastické.
+
+<a href="../images/2024_november/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/14_1.jpg"></a>
+
 Veru mi povídala o práci, o studentech a plánu vařit paellu. Nechala mi trochu burgeru, ale Vinettou IPA jí nejel.. Zato čokoládová bábovka jo. A mně taky.<br>
 Na Myslíkový nám ujela tramvaj. Naštěstí Béčko jede na Andel jede taky. Stihli jsme to včas. Konkláve mě nadchlo. Ralph Finnes utáhl celý film. Verunka vzala nepiva a tentokrát nikoho nepolila:)<br>
 Sedmičkou jsme po filmu sjeli ke mě domu. Kendy byl doma a spal. Co nejtišeji jsme si vyčistili zuby a Sli spát. Jenže rande je rande. a my to oba chtěli. A tak jsme snadKendyho nevzbudili.
@@ -286,7 +285,7 @@ Po šestý jsem sjel MHD na nádraží a po dvaceti minutách čekání na zpož
 
 Kandy stihl odejít dřív než jsem vstal. Kdybych vyjel dřív než v půl devátý zřejmě bych nezmokl. Ale to bych se nemohl flákat v posteli a snídat guláš. naštěstí jsem nepromokl tolik.<br>
 Firaz měl ještě větší zpoždění než já a tak jsem nebyl za blbečka, když jsme se pustili do digitálních scénářů, které jsme si nezaplatili, ale on nám je aktivoval na den. S NFCU jsem neměl zdaleka takový úspěch jako v pondělí. Scriptis i Quest mi vraceli, že při pollování vysílám pouze WUPA, ale ne WUPB. Moc jsem tomu nevěřil. Na Lecroy osciloskopu jsem viděl všechno v pořádku.. Podezříval jsem sondu KEOLABU a v jednu chvíli dostal Firaze do úzkých. Volal do Francie, posílal logy ale moc odpovědí nedostal.<br>
-Pokračovali jsme se čtečkou na vývojové desce od ST. Ani na té neprocházelo všechno a v jednu Chvíli se chovala stejně jako NICU. To mě ještě víc utvrdilo v tom, že blbě je něco v Proxilabu.<br>
+Pokračovali jsme se čtečkou na vývojové desce od ST. Ani na té neprocházelo všechno a v jednu Chvíli se chovala stejně jako NFCU. To mě ještě víc utvrdilo v tom, že blbě je něco v Proxilabu.<br>
 Nechali jsme to běžet a vyrazili do jídelny. Grilovaný hermelín byl opravdu špička. Firaz si dal trochu rýže s mrkví.. Jeho stravovací zvyky jsem nepochopil.
 
 <a href="../images/2024_november/26_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/26_1.jpg"></a>

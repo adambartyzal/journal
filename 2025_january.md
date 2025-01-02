@@ -1,0 +1,16 @@
+[<< Prosinec](2024_december.md)
+
+## [Leden](2025.md) 
+
+- [1.1. Rozmontovat postel](#11-rozmontovat-postel)
+
+### 1.1. Rozmontovat postel
+
+Tak zněl plán. Žádná čočka. Ani kocovinový rámen, který možná plánovala Rebeka s Ondrou. Nás s Verunkou čekala práce.<br>
+Vstali jsme až po desátý. Ono spát jsme šli po druhý, takže to bylo legit. Vern připravila ovesnou kaši s jogurtem, Konopným semínkem a borůvkami. Bylo to moc dobrý. Vlilo nám to krev do žil a protože postel ještě nebyla složená, využili jsme naposledy její pohostinnosti při dospělé zábavě.<br>
+Potom jsme udělali assessment toho, co je třeba. Mirelon, strečku, sadu, téčko, makitu a pár dalších věcí, které Kolbenka nabízela.<br>
+Autobus na Vysočanskou a pěšky k nám. Objevili jsme protékající Sahara. Zavřel jsem kohouty, napsal to na Slack, zavolal Ivanovi zabalili jsme co bylo potřeba a vrátili jsme se na Střížkov.<br>
+A zbytek dne jsme šroubovali, rozebírali, lepili a připravovali na odvoz o víkendu. Bylo toho dost. A na mě přicházela rýma, kterou jsem třicátého tak promptně zahnal.<br>
+Do Vršek jsme dojeli po osmé. Začínali jsme bydletSpolu. Byl to velkej krok. Reba se mě ptala jestli jsem to opravdu chtel, nebo to byla znonecnost. 70 na 30 asi težko říct. Těšil jsem se na to víc než mě to děsilo. Takže dobrý.
+
+[>> Únor](2025_february.md)

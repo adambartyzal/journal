@@ -26,4 +26,7 @@ Rok volby prezidenta, cesty z Francie domů, Albánie, Barcelony a hlavně propl
 
 ## [2024](2024.md)
 
-Jaro plné slz, Franz III indigový, Léto bez zubů, Brontíci, Řehoř a Verunka
+Jaro plné slz, Franz III indigový, Léto bez zubů, Brontíci, Řehoř, Verunka, Krakov a Itálie
+
+## [2025](2025.md)
+
