@@ -5,7 +5,7 @@
 - [1.1. Rozmontovat postel](#11-rozmontovat-postel)
 - [2.1. Vlakem](#21-vlakem)
 - [3.1.](#31)
-- [4.1.](#41)
+- [4.1. Střížkov → Vršovice](#41-střížkov--vršovice)
 - [5.1. Řehoř pomáhá](#51-řehoř-pomáhá)
 - [6.1. O jednoho víc](#61-o-jednoho-víc)
 - [7.1. Aspoň trochu denního světla](#71-aspoň-trochu-denního-světla)
@@ -19,6 +19,16 @@
 - [15.1. Dáme to!](#151-dáme-to)
 - [16.1. Pohled termovizí](#161-pohled-termovizí)
 - [17.1. Nahoru dolu](#171-nahoru-dolu)
+- [18.1. Hromada jídla a unavený genitál](#181-hromada-jídla-a-unavený-genitál)
+- [19.1. Bez randění](#191-bez-randění)
+- [20.1.](#201)
+- [21.1.](#211)
+- [22.1. Nabírá to obrysy](#221-nabírá-to-obrysy)
+- [23.1. Roubenka u potoka](#231-roubenka-u-potoka)
+- [24.1. Stopou bez ženy](#241-stopou-bez-ženy)
+- [26.1. Palačinky a únava](#261-palačinky-a-únava)
+- [27.1. Stejnou věc jinak](#271-stejnou-věc-jinak)
+- [28.1. Návrat ke kořenům](#281-návrat-ke-kořenům)
 
 ### 1.1. Rozmontovat postel
 
@@ -52,11 +62,27 @@ Potřebovala místo na oblečení. Vybral jsem si levou skříň, přesunul věc
 
 <a href="../images/2025_january/3_3.jpg" target="_blank"><img src="../images/thumbnails/2025_january/3_3.jpg"></a>
 
-### 4.1.
+### 4.1. Střížkov → Vršovice
+
+Všechno bylo naplánovaný. Dodávka. Auto s tátou a bráchou. Nábytek sbalený, obalený a věci v přepravkách. Marta s námi počítala a tak zbývalo jen vynést odpad a připravit nějaké občerstvení. Do obchodu jsem vyrazil já, kdyby Honza s Mai přijeli. Vzal jsem bagety, pomazánky, zeleninu a sýr.<br>
+Přijeli trochu se zpožděním. Čekal jsem, že věci se budou natahovat. Honza byl fakt sympoš. Mai neuměla anglicky a tak jsem poslouchal aspoň španělštinu a jejich dcerka vypadala vesele a energicky. Ale ne nemluvila . Alespoň ne přede mnou.<br>
+S Honzou jsme začali tahat věci do auta. Po chvíli zavolala Martě , že vyráží k nám. Poprosil jsem jí ještě, ať vezme klíče, abychom měli dvoje, dokud Kendy nepřiveze svoje.<br>
+Když přišla pustila se do nošení s námi. Marta vlastně měla dodávku. Vůbec mi to nedošlo. Taky mi nedošlo , že Ondra s Rebekou mi dluží tak tři stěhování. A už vůbec mi nedošlo, že v práci máme tři dodávky. Ale takhle jsem poznal Verunky kamarády a to bylo fajn.<br>
+Když bylo naloženo, vyrazili jsme já, Marta a Honza na sběrný dvůr. Do re-use centra nakonec nepřišlo nic. Stůl jsme rozmlátili palicí na malé kusy a zbytek přišel do různých kontejnerů
 
 <a href="../images/2025_january/4_1.jpg" target="_blank"><img src="../images/thumbnails/2025_january/4_1.jpg"></a>
 
+Marta vyrazila pěšky pres Grebovku don. My nabrali ostatní na Ukrajinské a vyrazili na Střížkov. Skoro. Na Karlově Verče došlo, že nemá klíče. Zpátky na Ukrajinské z toho měla Skupinka lidí, jenž stěhovala nové nájemce do bytu po paní Sojková docela sranda.<br>
+Druhý pokus vyšel. Magistrála, Argentinská, Střížkov. Táta s Lukášem už na nás čekali. Nějak trochu hekticky jsem se šel představit a Hynek hned nabídl tykání. Byl to vtipkovi.<br>
+Verunka měla věcí víc. Ale organizaci jsmevěnovali tolik Času, že všechno šlo dobře. Akorát jsme dovnitř nanosili dost sněhu.<br>
+Když bylo naloženo, rozloučili jsme se s druhou Verunkou a vyrazili zpátky do Vršek. Tentokrát My dva v Rapidu s Hynkem a Lukášem a Honza v dodávce jen s rodinou.<br>
+Měli naspěch a tak po vyložení už vyrazili dál. K nám Verunka objednala pizzu od Frankieho. Hynek jí trochu trápil, když do telefonu řekla, že volá s nabídkou. Došli jsme pro ni pěšky a trochu vychladla a zgumověla.
+
 <a href="../images/2025_january/4_2.jpg" target="_blank"><img src="../images/thumbnails/2025_january/4_2.jpg"></a>
+
+Ale zvládli jsme to. Seděli a povídali jsme si uprostřed nábytku obdeného mirelnoem a měli se fajn.<br>
+Když už slunko zapadlo , vyrazil Hynek autem na Maršov, Lukáš na městskou a my zpátky nahoru.<br>
+Bydleli jsme spolu! A šli jsme to zpečetit.
 
 ### 5.1. Řehoř pomáhá
 
@@ -212,5 +238,90 @@ Když jsem vyřešil to, začalo mě trápit Q. Potřeboval jsem vyšší Q na v
 Škoda, že nahoru dolu nešlo taky zlato. Udelal jsem totiž chyba. Koupil jsem půl lotu na pokles a ten nepřišel. Že je to chyba mi došlo, když jsem videl že dvě stě tisíc mé marže je v čudu. Otevřel jsem protipohyb. Ale operovat s tak velkými objemy je průser. Další chybu jsem udelal, když jsem proti pozici dal uzavřít společně s první pozicí. Nějak automaticky se to počítalo a zavřete. 15 K v háji. Lepší než půl milionu. Ale stalo se to protože jsem obchodoval velké objemy. To jsem si řekl že už nebudu dělat a omylem jsem to udělal . Je třeba si spočítat kolik půl lotu znamená. Denní swap byl totiž 6 tisic. to mě vyděsilo.<br>
 Na kole jsem jel přes centrum. Trvalo to dýl a byla to horší cesta. Příště zas přes kopec.<br>
 Večer jsme koukali na zítra ráno vstanu a opařím se čajem. Hodně mě to bavilo.
+
+### 18.1. Hromada jídla a unavený genitál
+
+Zdálo se mi o Verunce. Moc se mi o lidech ze současnosti nezdá. Moc se mi vlastně nezdají sny. Byl to fajn sen. Měli jsme rande na schodech v knihovně. Ale byla to divná knihovna. Místo kohoutků tam byly šicí stroje a voda tekla místo jehly. Děti tam jezdily po zábradlí nahoru a Verunka měla makeup a kulaté brýle.<br>
+Den to byl zvláštní. Plný sexu a jídla. Verunka vařila na pár dní dopředu. Já se pokoušel dopsat ta asi tří měsíční ztráta v deníku. Tu a tam Jsme na to skočili. Jindy jsme pracovali na bytě, uklízeli, myli nádobí, nakupovali v Lidlu, nebo koukali na západ slunka za Corinthií z Grébovky.<br>
+Taky jsme potkali Ederka. Měla dvě děti. Všichni mají poslední dobou děti. Doufal jsem, že ještě pár let počkáme.<br>
+S ochranou jsme byli důslední. Ederka si pořídila dítě po čtyřech měsících vztahu. Mě došlo, že s Verunkou chodíme pátý měsíc. Utíkalo to rychle. ale vlastně to nebylo tak dlouhý.<br>
+Bylo nám spolu moc dobře. Tenhle den. Ty předchozí. A věřil jsem, že i ty budoucí.
+
+### 19.1. Bez randění
+
+Další den, který utekl jak voda. Do bazénu jsme nešli. Bruslit taky ne. Projít jsme se nesli. A vůbec. Prostě jsme jen byli doma a uklízeli kuchyň.<br>
+A jo, Zase jsme se posunuli. Verunka udělala přípravy. Já spousta lekcí v Duolingu. Arnošt vysál. A byli jsme docela dobře připraven." na další týden. Ale víkend utekl a já měl pocit, že tenhle víkend zmizí v propadlišti dějin.<br>
+Aspoň že datum kolaudačky jsme stanovili. A vymyslel., kde budou police. A ručníky vyprali...<br>
+Těšil jsem se na běžky o příštím víkendu.
+
+### 20.1.
+
+### 21.1.
+
+### 22.1. Nabírá to obrysy
+
+Tentokrát jsme jeli vlakem spolu. Po fajn ránu. Vezli jsme půjčený běžky a když mě vlak vyhodil ve Vysočanech, stihl jsem tramvaj tak akorát.<br>
+Dál jsem ladil. A vymyslel, že s menší EMC cívkou bude obvod míň náchylný k tolerancím součástek.<br>
+Na obědě ve Vietnamce jsme vymysleli co jíst na běžkách. Vojta nakoupil na Rohlíku a abychom měli něco bez složitých příprav na místě, rozhodli jsme se s Veru udělat hlívovou drštkovku.<br>
+Zpátky jsem jel taky vlakem. Ale s kolem. A s DJem. Bylo to vtipný. Aby mu na peronu nebyla zima, zůstal asi 5 minut ve výtahu.<br>
+Polévka nám zabrala většinu večera. Byl jí randál. Vařili jsme ji v hrnci a v bílé pánvi. Moc jsme se nedohodli na slanosti, ale dosolit může každý později.<br>
+Jeden díl Dark Matter a bylo půl jedenácté. Veru balila. Já to nechat na ráno. Uklidit po vaření mi stačilo.
+
+### 23.1. Roubenka u potoka
+
+Ráno bylo třeba se sbalit. A ještě trochu uklidit. A vynést bio odpad. A odpad. A sklo a papír. A tak mě Verunka svedla a pak nestihla vlak. A já pak dělal všechno zmířený a taky nestihl vlak.<br>
+Byl jsem z toho unavenej. Ale všechno jsem měl připravený a čekal nás fajn prodloužený víkend v Jizerkách.<br>
+Musel jsem si tohle napsat, protože jsem se ráno cítil fakt trochu pod psa. Ale měl jsem skvělou holku, práci, kolegy, plán a všechno bylo ok.<br>
+Možná jen myčka jsme potřebovali. Akutněji než projektor. Bylo třeba se na to podívat.<br>
+V práci jsem zkoumal jak funguje Active Wave Shaping. Bylo to docela složitý, ale dalo se tím dohnat to, co bych ztratil vysokým Q. Až odpo jsem pochopil proč mi to nefunguje. Mazal jsem si function pointer. Nehezky jsem si v globo.la založil dočasný a overshoot v B jsem snížil víc než o polovinu.<br>
+V půl čtvrtý jsem přesunul lyže a polívku k sysda a vyrazil na metro. Ivan se měl otočit pro Vládi a vzít věci. Na Čerňáku jsem byl s předstihem. Veru se ukázala o chvilku později.<br>
+Byla unavená a šla na ní rýma. Doufal jsem, že se to poddá.<br>
+Vojta s Aničkou přijeli Rapidem deset minut po čtvrté. Hodili jsme věci do auta a vyrazili vstříc dobrodružství.<br>
+Poprvé jsem si víc povídat s Aničkou. Vždycky mi připadala taková mnohem starší než já i když jsme stejně starý. Ale našli jsme společnou řeč. A Vojta povídal o Vektivě. A o tom, že se v holdingu asi posune jinam.<br>
+Jirku, který jel autobusem do Tanvaldu jsme trochu naháněli, ale nakonec se k Ivanovi do auta vlezli S běžkami a k chatičce jsme přijeli v podstatě naráz.<br>
+A hned šli tlačit auto do kopce, protože na zmrzlé cestě odmítal. jet.<br>
+Chatička byla moc pěkná. Roubená z boku, stavěná" uprostřed. Správně křivá a prohnutá. Já a Verunka jsme vybrali maličký pokojík přímo pod střechou, ostatní se naskládali do dvou větších. Dole jsme rozdělali krb a v kuchyni párky s moc dobrým Chlebem z Globusu.<br>
+Verunka sla spát brzy. Cítila, že na ní něco leze a byť byla fanda Aniččiny metody ucpávání nosu na ↳ minuty, spánek léčí nejvíc.<br>
+My ostatní hráli Time's up. Byla to opravdu bezva hra. Hádala se jména na papírcích z klobouku. Edmond Dantes byl popisovaný maskou, byť muž se železnou maskou bylo jiné dílo. Bořivoj se spletl s Bivojem a David Attenborough není tak známá jak bych čekal. Vojta si na sebe ušil past s Vincentem Methayem a Bedřich Šupčila se nám do hlavy dostal víc přes šuplík než přes první zlatou medaili. Nicméně popisování bylo super, pantomime ještě lepší. Nasmáli jsme se solidně.<br>
+A vylili ještě selidněji. Soudek padl. A dvě pětkyBráníka. A víno. A trochu pálenky. Spát jsem šel po druhé a prý ještě hodinu Verunce něco povídal.
+
+### 24.1. Stopou bez ženy
+
+Vstal jsem první. 4 hodiny nedobrého spánku nejsou dost. Cítil jsem to. A braníka v hlavě taky. Přemýšlel jsem nad vyprošťováčkem, ale dal jsem si radši čaj, vytáhl kytaru a začal si brnkat.<br>
+Lidi se postupně přidávali a někdy v devět začala snídaně. Verunce bylo hůř a rozhodla se, že po Jídle si půjde lehnout. Mrzelo mě to, ale bylo to moudřejší, než se zpotit na kopci a přivodit si zimnici.<br>
+Nás ostatní čekal výjezd auty na Jizerka. To nebylo jen tak. Vyjet autem od chaty totiž vyžadovalo buď nasazení řetězů v případě Vojty, nebo objetí spojovací cesty spodem v případě Ivana, neb jejich řetězy byly malé. Zrcátka asi taky neb když chtěla Magda s Vláďou nastoupit, vždycky jim kus ujel.<br>
+Hlavní ale byla protažená a tak jsme po půl hodině parkovali nahoře u chaty Jizerka, nasadili běžky a vydali se na cestu. Opět jsem jel poměrně vystrašena! Ale šlo to. Bylo trochu mlžno, ale jinak paráda. Nově napadaný sníh, dobře vyjetá stopa. Asi stupeň pod nulou a dobrá nálada.<br>
+Na Smědavu to bylo 7,5 kilometru. Přišlo mi, že některý místa poznávám, ale spíš to tak nebylo. Zima cesty přebarví a všechny vypadají podobně. Ale krásně.<br>
+Sladký knedlík jsem si tentokrát nedal. Do přeplněné jídelny dole jsem si odnesl srbské rizoto. Překvapivě jsme se všichni vešli k jednomu stolu. Druhá etapa po jídle byla napřed rychlejší. A nakonec náročná.<br>
+Tak poslední dva kilometry se jen stoupalo. A mně to podjíždělo. Ale konečně jsme opravdu poznali kde jsme. Jeli jsme opačně než minule. Byl jsem poslední a v kopci jsem vytal a Šel pěšky.<br>
+Ale sečteno podtrženo to byla super jízda.<br>
+Verunka psala, že zimnice jí opustila, ale hlava pořád bolí. Dala ohřát polévku, takže když jsme přijeli, měli jsme teplé jídlo do břicha. Lidi se do polévky zprvu nehrnuli, ale pak jim začala moc chutnat. Oba jsme s Verunkou byli pyšní.<br>
+K velké večeři bylo kuře s bramborem. A po večeři jsme se stáhli ke krbu. Vojta byl trochu nešťastný, že se s deskovkami táhl zbytečně, ale hraní na kytaru a zpívání bylo moc fajn. Vydrželo nám to tak d. jedenácti. Verunka všechy oslnila svým zpěvem Pokáče. Teda všechy krom Vládi. Toho Šumeldovic odvezli na vlak. Další den ho čekalo frisbee.
+
+### 26.1. Palačinky a únava
+
+Ani tentokrát nebyl Jirka první v kuchyni. Jenže byl poslední den a slíbené palačinky bylo třeba připravit. Někdy v půl deváté holky začali bušit na strop aby Jirka přišel a dal se do díla.<br>
+A stalo se. Udělal u toho docela bordel. V jistou chvíli byl na sporáku půl metrový plamen, ale palačinky byly. A byly docela dobrý. Já už měl v sobě česnekovou pomazánku, takže jsem zvládl jen jednu. Navíc byla hustá za tři.<br>
+V další půl hodině jsme balili a uklízeli. A stihli to tak akorát. V to jsme měli naloženo do aut a louč." se před chatou. K nedělnímu lyžování totiž nebylo počasí, energie ani chuť. Měli jsme toho všichni dost. V autě jsme skoro usínali. Teda já a Vern. Vojta byl naštěstí ready.<br>
+Povídali jsme si španělsky. Byla to docela sranda. Věty typu Vidím 3 auta. Jedno červené. Co ti včera chutnalo. A tak.<br>
+Vojta nás hodil do Vršek. Vytahali jsme věci nahoru a po chvilce skončili v posteli.<br>
+A najednou byly čtyři hodiny a všecho nás bolelo. Verunka udělala nouzový těstoviny s prstem, zapli jsme si Black Mirror (Joan is Awful) a lehli si k tomu.<br>
+A pak si dali ještě jeden díl. Byli jsme fakt mrtvý.
+
+### 27.1. Stejnou věc jinak
+
+V pondělí ráno prostě s Verunkou vstávat nezvládám. A odcházet na brzký vlak už vůbec ne. Snídat a zadělávat na novou kombuchu, psát jak to dělám pro Aničku a Magdu a pořizovat k tomu fotky. Na kolo jsem tak sedal až v půl devátý.<br>
+Většinu dne jsem se věnoval tvaru B modulace. Aws bylo funkční, ale objevil jsem, že přestřely a podstřely dokážu vyřešit i přepínáním mezi regulátory pomocí vzorců.. To bylo lepší. ladil jsem tak s Proxilabem ideální tvar modulačního pulzu.<br>
+Kluci tentokrát ve Vietnamce dostali své kari s rýží do černé misky. Je pravda, že to vypadalo líp.<br>
+S osciloskopem a kódem jsem si hrál skoro do sedmi. Zpátky jsem jel vlakem. Přivezl jsem benzín, kterým jsme očistili lyže a já potom i stěnu v kuchyni. Vařil jsem , že s 3D tištěným dnem bude držák na nože držet pořádně. Abych si byl jistý. Zkusil jsem ho utrhnout. Povedlo se, ale šlo to blbé. Drahé lepení snad vydrží.
+
+### 28.1. Návrat ke kořenům
+
+Slíbil jsem že Verunce odvezu Ježky. Volba tedy byla jasná. Frank zůstal doma, já ležel na vlak. Stihl jsem patnáct minut jógy a jeden čaj. Verunka mi ale připrav.la vločky, které jsem měl v tašce.<br>
+Z vlaku jsem s lyžemi utíkal na tramvaj, která měla jet za dvě minuty a byl úspěšný. Taky jsem na zastávce potkal Petra. Povídali jsme si cestou až do kanclu.<br>
+Trochu nečekaně přijel Ivan. Kvůli demontáži g5 stanice z Corsa. Jel jsem mu s tím pomoct. Bylo to podivně nostalgický. A taky to připomínalo výjezd do La Rochelle. Klíče jsme měli, ale páku ne. Štafle taky zůstaly ve Vysočanech. Ale se sodou a dvěma mozky jsme stanici rozebrali i naložili.<br>
+V kanclu jsem se potom dál věnoval anténám. Vyšší Q byl problém. Minimum positive modulation se ve větších vzdálenostech přestávala demodulovat. Prostě se v setrvačnosti antény ztratila. Dost jsem se toho dozvěděl, ale moc se neposunul.<br>
+Aspoň že běžky jsem vrátil v poho. A koupil olivový dej v DMku. A k bernardy, takže bude láhev na kombuchu.<br>
+Veru doma nadávala na nerezovou pánev. Udělala moc dobrý smaženky. Chvíli jsme nad tou pánví diskutovali a rozhodli se naučit se jí vypálit.
 
 [>> Únor](2025_february.md)
