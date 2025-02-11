@@ -1,0 +1,114 @@
+[<< Leden](2025_january.md)
+
+## [Leden](2025.md) 
+
+- [1.2](#12)
+- [2.2. Ještě padesát devět a půl let](#22-ještě-padesát-devět-a-půl-let)
+- [3.2. Nákupy s expaty](#32-nákupy-s-expaty)
+- [4.2.](#42)
+- [5.2.](#52)
+- [6.2.](#62)
+- [7.2.](#72)
+- [8.2.](#82)
+- [9.2. Vrtání, naštvání, výlet a nákup](#92-vrtání-naštvání-výlet-a-nákup)
+- [10.1.](#101)
+- [11.1.](#111)
+
+### 1.2 
+
+<a href="../images/2025_february/1_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_1.jpg"></a>
+
+<a href="../images/2025_february/1_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_2.jpg"></a>
+
+<a href="../images/2025_february/1_3.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_3.jpg"></a>
+
+<a href="../images/2025_february/1_4.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_4.jpg"></a>
+
+### 2.2. Ještě padesát devět a půl let
+
+Vlastně nám ta úzká matrace na zemi stačila. Spali jsme skoro v objetí. Měli jsme oba trochu myšlenky, ale prý je nahoře všechno slyšet.<br>
+Hynek už byl vzhůru. Připravoval už něco na oběd. My posnídali makovec a čaj a po chvíli vyrazili za babičkou. Zábřeh je maličkej. Nebo spíš oblast, kterou Verunky rodina okupuje je maličká. Vzali jsme kytaru a v paneláku byli cobydup.<br>
+Babička trápí parkinson. Ale hlavu má v 82 úplně fit. Stýskalo se jí po dědovi, který umřel, ale byla ráda, že jsme přišli a nadšeně nám vyprávěla o zážitcích. O potomcích. O tom, že Verunka by měla víc běžkovat a jezdit na kole. Ukazovala nám z balkonu v 10. patře, ze kterého děda kontroloval, zda Hynek bere Janu opravdu na rande do kina, kde je jaká část beskyd, kde je kopa e. a a jak je fajn, že pořád hoří.<br>
+Upekla hrníčkovou bábovku. Měli jsme kafe a ořechovici. A kladla mi na mysl, že Verunka musím chválit, že to jestli člověk vidí kolem sebe krásu je volba a že s dědou zvládli Go let, protože se nikdy nenudili.<br>
+Dál nás čekala cesta k Borkovým. Ti jsou sympoši. Zdeňka, sestra Jany, nám ukazovala potažené houpací křeslo a gauč. Bylo to opravdu pěkný. A moc složitý.<br>
+Koupíme natahovací obal.<br>
+Povídali jsme si o Vietnamu. O cestování. O stěhování jejich dcery v Brně a byla to moc fajn návštěva.<br>
+Hynek s Janou v mezičase obalili květák a žampiony. S brambory a se salátkem to bylo fakt fantastický. Ještě nám ukazovali brusle a zvali nás na surfování na jezeře za Ostravou v létě.<br>
+Jana nás před patou hodila na vlak a RegioJet sice udělal nějaký zmatky se špatným vagonem, ale jel do Prahy líp než ČD. Během jízdy na nás přišel hlad. Regio nabízelo sushi za stovku . A bylo fakt hodně dobrý. Byl jsem příjemně překvapenej.<br>
+Slíbil jsem, že přímočarku vezmu v pondělí zpátky do práce. Ještě před desátou jsem tak musel uříznout nohy stolu. Moc mi to nešlo. Dokud jsem neobjevil, že pila jde zrychlit. Pak to šlo líp. Ale rovně stále ne. Nakonec jsem to nějak doladil nožem a výsledek byl vlastně docela ok!
+
+<a href="../images/2025_february/2_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/2_1.jpg"></a>
+
+A večer se to stalo. Napřed jsme měli fakt dobry sen a když jsme se uložili ke spánku, pošeptala mi Veru do ucha, že mě miluje. Nevím jestli moje reakce a opravdu jsi to řekla" uspokojila, ale v další větě jsem řekl, že to cítím taky tak. A byla to pravda.<br>
+Leželi jsme v objetí a měli se rádi.
+
+### 3.2. Nákupy s expaty
+
+Kolo tam, vlak zpátky. Hlavně proto, že na cestě zpátky jsem se stavěl v lékárně pro vitamín D a v Bauhausu pro police. Desky byly na chvíli. Ale hmoždinky a Šrouby mi zabraly snad hodinu a stejné Jsem pochyboval, že mám dobrý.
+
+<a href="../images/2025_february/3_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/3_1.jpg"></a>
+
+Potkal jsem tam Olivii a její kamarádku Maggie. Dělali desku do kuchyně. A byly trochu zmatený. Ale prodejce nakonec uměl anglicky líp než jsme čekali.<br>
+Maggie slíbila, že mě hodí domu autem. Nakonec jsme Vezli ještě dalšího kamaráda, který nakupoval rámečky na obrazy a na Jiřáku nabírali další kamarádka Mali. Nebo tak nějak.<br>
+Tramvají bych to měl rychlejší. Ale bylo to docela vtipný a aspoň jsem poznal Oli trochu víc.<br>
+Veru už byla v posteli, když jsem dorazil. Ale na poličky byla zvědavá. Já ještě navařit čaj na kombuchu a snědl zbytek italský omáčky s chlebem.
+
+<a href="../images/2025_february/3_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/3_2.jpg"></a>
+
+### 4.2.
+
+### 5.2.
+
+<a href="../images/2025_february/5_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/5_1.jpg"></a>
+
+<a href="../images/2025_february/5_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/5_2.jpg"></a>
+
+### 6.2.
+
+### 7.2.
+
+<a href="../images/2025_february/7_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/7_1.jpg"></a>
+
+### 8.2.
+
+<a href="../images/2025_february/8_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/8_1.jpg"></a>
+
+<a href="../images/2025_february/8_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/8_2.jpg"></a>
+
+### 9.2. Vrtání, naštvání, výlet a nákup
+
+Poličky jsem v sobotu pověsit nezvládl. Neděle začala dřív než bys řekl švec a víc dní už ten týden nemá. Dopoledne jsem tak měřil, vymýšlel a rostla ve mě frustrace.<br>
+První vrt šel do něčeho, co mohl být přívod chladiva do klimatizace. Netroufl jsem si přitlačit a posunul se dva centimetry doleva.
+Kámen. Zde!<br>
+Další posun. Vrt jak do papíru. Osm čísel jen malta. Další vrt vzduchová bublina snad až k sousedům.
+
+<a href="../images/2025_february/9_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/9_1.jpg"></a>
+
+Táhlo na dvanáctou. Verunka uvařila spoustu kari. Já už s nervy v kýblu jsem došel k názoru že buď to nějak zasádruj a budu doufat , že to vydrží, nebo jsem v prdeli.<br>
+Ve dvě jsme měli být v Horních Počernicích kvůli Niki. Dosádroval jsem a koukl na mobil. Byl vypnutej. Po chvíli na nabíječe mi od Anet přišla zpráva , že Niki to odpískala. Naštvalo mě to. Přeskládal jsem kvůli tomu víkend.<br>
+Nováčkovic ale čas měli. Oblékli jsme se, dali si hlívovou polévku a popoběhli na vlak.<br>
+Bylo krásné. Niki psala ještě nějaký uražený zprávy a Patrika v nich překřtila na Jonáška. Když jsme se pak v Hopo potkali a já řekl, že je nám třicet a mohli bychom se chovat trochu zodpovědně, Filip řekl, že když to říkám já, tak je to hustý.<br>
+Výlet to byl ale opravdu moc fajn. K rybníkům. K ikea a pak na plechárnu. Prý jsem fajn strejda. Vozil jsem Páťu. Beat boxoval jsem a rozesmíval ho.<br>
+Dali jsme si hermelín, Verunka domluvila víc chleba, Nováčkovic měli hranolky, perník a pivo napůl. Nejvíc chtěl pivo Páťa.
+
+<a href="../images/2025_february/9_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/9_2.jpg"></a>
+
+Povídali jsme si a měli se fajn. Byl jsem tam rád se svými kamarády a s Verunkou. Milovala mě i přes mý debilní vtipy a já ji. Opravdu jsem byl trochu na měkko.<br>
+I pak v nákupu v Ikea, kterej zabral několik hodin a extrémně nás unavil.. Cesta domů byla taková usínací.<br>
+Ale sádra asi vytahla dobře. Police byla trochu do vrtule. Ale šla pověsit. Rozhodl jsem se sadie da.lt ještě tak den a pak jí testovat košem na prádlo.<br>
+Verunka šla spát. Jak ještě chvíli psal. V bytě byla spoušť. Neměl jsem na víc než na pomytí trochu nádobí a jednu lekci duolinga.
+
+### 10.1.
+
+<a href="../images/2025_february/10_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/10_1.jpg"></a>
+
+<a href="../images/2025_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/10_2.jpg"></a>
+
+<a href="../images/2025_february/10_3.jpg" target="_blank"><img src="../images/thumbnails/2025_february/10_3.jpg"></a>
+
+### 11.1.
+
+<a href="../images/2025_february/11s_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/11s_1.jpg"></a>
+
+
+[>> Březen](2025_february.md)
