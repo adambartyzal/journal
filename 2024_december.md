@@ -24,13 +24,14 @@
 - [22.12.](#2212)
 - [23.12. Ztracený](#2312-ztracený)
 - [24.12.](#2412)
+- [24.12. Limoncello <br>& Panettone](#2412-limoncello--panettone)
 - [25.12.](#2512)
 - [26.12.](#2612)
 - [27.12.](#2712)
 - [28.12. Finále](#2812-finále)
 - [29.12. Verunka měří](#2912-verunka-měří)
 - [30.12. Přece jen nakažen](#3012-přece-jen-nakažen)
-- [31.12.](#3112)
+- [31.12. Na střechu, do mlhy a do nového roku](#3112-na-střechu-do-mlhy-a-do-nového-roku)
 
 ### 1.12 Kafe a umění
 
@@ -108,7 +109,7 @@ Večer jsem aspoň založil nadpisy, nahrál fotky a připravil nějaký poznám
 
 ### 9.12. Dospěláctví je na prd
 
-Než jsem šel spát , šel na mě pocit toho, že začíná příli- mnoho věcí valit před sebou. Rozhodl jsem se že:
+Než jsem šel spát , šel na mě pocit toho, že začíná příliš mnoho věcí valit před sebou. Rozhodl jsem se že:
 
 - vstanu včas
 - napíšu Kendymu
@@ -194,8 +195,11 @@ Míša byla skleslá. Prý už potřebovala Vánoce. Itálii by mi prý neschvá
 V kanclu jsem si zkreslil další Landing plane a dal se do ladění hla 004. Moc to nešlo. I přes dobré přizpůsobení Anténa neměla dosah.<br>
 Chvíli jsem si taky hrát s digitálními testy a našel nějakou chybu v časování.. Ale to bylo tak všechno. Ten výtisk byl higlight pracovního dne.<br>
 Na večer jsme měli naplánovaný koncert Lukášova sboru. Bylo to na starým městě a před tím jsem se zastavil a Verunky, která mi k večeři dala Zapečenou zeleninu z neděle.. Byla výborná a snědl jsem toho randál.<br>
-Metrem jsme dojeli na Staroměstskou a došli do sídla unitářů. Sebranka byla fakt dobrá. Prostor Skvěle akusticky upravenej, perníky moc dobrý a houslistka Magdaléna Piskavičova byl klon Misky s tmavými vlasy. Stejně se hýbala, smála, mrkala. Měla stejný proporce. Jen navíc hrála první housle. Bizár.<br>
-Aranž to byla zajímavá. Koledy moderně pojaty. Byl jsem příjemně překvapený. A unaveny! Po koncertě Jsme jeli rovnou k Veru dam a po chvíli drnkání na kytaru na gauči jsme šli spát.
+Metrem jsme dojeli na Staroměstskou a došli do sídla unitářů. Sebranka byla fakt dobrá. Prostor Skvěle akusticky upravenej, perníky moc dobrý a houslistka Magdaléna Piskavičova byl klon Mišky s tmavými vlasy. Stejně se hýbala, smála, mrkala. Měla stejný proporce. Jen navíc hrála první housle. Bizár.
+
+<a href="../images/2024_december/17_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/17_1.jpg"></a>
+
+Aranž to byla zajímavá. Koledy moderně pojaty. Byl jsem příjemně překvapený. A unavený! Po koncertě Jsme jeli rovnou k Veru dom a po chvíli drnkání na kytaru na gauči jsme šli spát.
 
 ### 18.12. Dvacet pět bazických bodů
 
@@ -244,11 +248,61 @@ Verunka byla z rýmy dost hotová. Uložila mě na gauč a sla spát. Já ješt�
 
 ### 24.12.
 
+### 24.12. Limoncello & Panettone
+
+Moc jsem toho na gauči nenaspal. Párkrát mi vzbudila Verunka, párkrát fakt že zítra letíte.<br>
+V půl šestý se daly věci do pohybu. Protažení, zuby , snídaně. Na metro jsme trochu popobíhali, ale jinak jsme všechno stíhali v poho.<br>
+Dělal jsem blbý vtipy. Verunce pořád nebylo hej, ale vypadala líp. Možná za to mohl makeup.<br>
+Vyhrál jsem místo u okénka. Byl to můj padesátá let. Během toho prvního mi Ondra říkal,že koukat na mraky share mě omrzí.<br>
+Totálně se mýlil.<br>
+Učinil jsem rozhodnutí. Letos Alpy přejedu, nebo přejdu. Verunka mě pak informovala o tom, že letos to asi nezvládnu. Zbýval asi týden do konce roku.<br>
+Při přistávání jsem viděl ten smog, který google mapy prorokovaly. Ale při výstupu ven bylo slunečno a teplo:<br>
+Verunka se na přepážce ptala kolik nás bude stát MHD do Benátek. Prý 10€ na hlavu. Přišlo mi, že je to moc. Automat venku ale naúčtoval stejnou částku.<br>
+Během cesty jsem komentoval cyklostezky a koukal na bikesharing. Mobile. Nic moc. Benátky na ostrově ale kola nepotřebují. Možná se tam ani jezdit nesmí.<br>
+Během chvíle jsme byli na mostě vedoucím do Benátek. Vedle nás frčel vlak a dobrodružství začínalo.<br>
+Hned první zastávka byla skvělá. Nároží kde půl na půl místňáci a italští turisté postávali kolem maličkého krámku, kde Fabio rozléval víno a prodával housky se šunkou. Nebylo ani dvanáct. Jasně že jsme si dali víno i chléb. Na druhé straně kanálu byla německá ambasáda,kde nikdo nebyl, ale náš břeh žil Italským požitkářstvím.
+
+<a href="../images/2024_december/24_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/24_2.jpg"></a>
+
+Potom nás polapily malé uličky a mostečky vedoucí přes kanály ostrovního města. Gondolou jsme nejeli. Ale koupili jsme pohledy a známky. Sedli si na náměstí se zimním kluzištěm, kde se tři kluci v tričkách koulovali sněhem Z chladícího systému a možná se tak snažili oslnit jednu holku, která toužila po tom být taky zkonlovaná.<br>
+Na oběd jsme se zastavili někde stranou od centra. V uličkách, kde jediné sluneční světlo bylo v podchodu. Byl to spíš Bar než restaurace. Ale vařili. Vlastně toho vařili hodně. Dokonce i Pizzu. Ta si dala Verunka. Já takový zatočený lasagně se špenátem. Veru italsky domluvila i kafe, čaj a zákusek a vysvětlila, žeto platím já.<br>
+Jídlo v bříšku nás zahřálo a dodalo nám energií na cestu přes velký známý most na ikonické náměstí a věží, která bývá ve filmech. Benátky nemají žádný kopec ani kopeček a tak byla věž docela jasná volba. to € na hlavu bylo víc než 5, v kolik jsem doufal, ale výhled stál za to. A buďejičák, který nám vyfotil tu nejhorší možnou fotku. se nám nesmazatelně vryl do paměti.<br>
+<a href="../images/2024_december/24_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/24_1.jpg"></a>
+Z věže jsme sešli k moři . Verunka tam vzpomínala na to, Jak tam jeli s bráchou z lyžovačky, kterou jim vyhrála babička. Šli jsme podél vody, do parku, kde jsme vybrali lavičku a koukali se na ostrov v dálce a Benátky napravo.<br>
+Dál jsme si prošli méně turistickou čtvrť, kde Verunku nadchlo prádlo zavěšené mezi domy. Bylo tam ale docela mrtvo a na nás šel hlad. Na mapě jsem tedy našel obchod a k němu jsme se maličkými uličkami po chvili domotali. Extrémně mě pobavila gondola DHL, ale vlastně jak jinak by tam kurýři jezdili.<br>
+První obchod byl divnej. Trocha jídla a extrémní množství drogerie. Naštěstí přes ulici byl stejně jmenující se obchod ve kterém bylo normální jídlo. Nakoupili jsme Pannetonne, sýr, pečivo, olivy a limoncello a šli si s tím sednout k vodě. Poslední zmíněné byla dezinfekce abychom si mohli dát pusu.<br>
+Západ slunka nad Benátkami byl kýč. Bylo tam fakt nádherně. Sýr byl dobrej. Pečivo taky. Limoncello fantastický a pusa pořádná.
+
+<a href="../images/2024_december/24_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/24_3.jpg"></a>
+
+Ale byli jsme na dovolený a měl jsem svátek. Restaurace byla jen kousek a tak jsme si dali opravdový jídlo. Špagety s buratou. A k tomu víno. Všechno bylo moc dobrý. Akorát Verunka byla nešťastná, že s ní číšníci mluví anglicky. Nakonec ale přesedlali na italštinu a Vern byla spoke.
+
+<a href="../images/2024_december/24_4.jpg" target="_blank"><img src="../images/thumbnails/2024_december/24_4.jpg"></a>
+
+Cesta zpátky nočním městem taky měla něco do sebe. Poznávali jsme místa, kudy už jsme šli předtím v novém světle. Doslova. Ale trochu jsme chvátali. Check-in byl<br>
+osm a do autobusu jsme nastupovali v 7:56.
+Naštěstí na nás počkali. Hotýlek byl kousek od vlakového nádraží a interiér byl úplně nový. Ind, který nás ubytovával, říkal, že jsou noví a že budou vděční za dobrý recenze.<br>
+Zasloužili si ji. Místo bylo hezký, čistý, voda teplá a postel příjemná. Dělali jsme v ní trochu hluk. A když pak přišli lidé do vedlejšího pokoje, bylo jasný, že Skrz stěny je slyšet úplně všechno.<br>
+Nahráli jsme na diktafon dění dne a usnuli v objetí.
+
 ### 25.12.
+
+<a href="../images/2024_december/25_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_1.jpg"></a>
+<a href="../images/2024_december/25_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_2.jpg"></a>
+<a href="../images/2024_december/25_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_3.jpg"></a>
+
 
 ### 26.12.
 
+<a href="../images/2024_december/26_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/26_1.jpg"></a>
+<a href="../images/2024_december/26_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/26_2.jpg"></a>
+<a href="../images/2024_december/26_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/26_3.jpg"></a>
+
 ### 27.12.
+
+<a href="../images/2024_december/27_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/27_1.jpg"></a>
+<a href="../images/2024_december/27_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/27_2.jpg"></a>
+<a href="../images/2024_december/27_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/27_3.jpg"></a>
 
 ### 28.12. Finále
 
@@ -261,11 +315,17 @@ Na druhý pokus jsem po vystoupení z autobusu vybral správný směr a po asi d
 Flix měl jet z nástupiště B po asi deseti minutách. Ve dvanácti uncích jsme si pořídili pečivo a nasedli do zeleného autobusu. Jel přes letiště. Kam stál 12€. Do Bergama ale stál 4,49€. Verunku napadlo zda to tak je i opačně, že bychom ušetřili za cestu na letisko a bylo. Ale MHD v Bergamu byla levnější.<br>
 Během jízdy jsme nadepsali pohledy a oznámkovali je. Byla to docela fuška v jedoucím autobuse. Taky mi došlo, že pohledy a známky stály 12 a 15€. Těch zpropadených 12 a 15 €, které mi nešly do hlavy. Zasmáli jsme se tomu, jak jsme oba debilní.<br>
 Kromě bezdomovci obsazeného nádraží bylo Bergamo moc pěkné. Místo, kde začínaly Alpy. Šli jsme přes tržiště do kopce k lanovce. Potkali Poštu a Verunka tam domluvila , že nám je rovnou pošlou. I přesto, že měly známku z nějaké Friend Post sítě. Pán na ně nasázel razítka a bylo.<br>
-Na lanovku byla fronta. Delší než by trvalo vyjít to pěšky. Bylo krásné a schody byly masážní. (Čti, z malých oblázků, co píchaly do nohou.). Těsně před koncem jsme si dali pauzu na pečivo s pestem, zbytek papriky a rajčat a na vydýchání se.<br>
+Na lanovku byla fronta. Delší než by trvalo vyjít to pěšky. Bylo krásné a schody byly masážní. (Čti, z malých oblázků, co píchaly do nohou.). Těsně před koncem jsme si dali pauzu na pečivo s pestem, zbytek papriky a rajčat a na vydýchání se.
+
+<a href="../images/2024_december/28_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/28_1.jpg"></a>
+
 Citta Alta bylo pěkné. Hrál tam houslista, kterému jsem dal 2€. A varhaník, který nadchl Verunku.<br>
 Vařili tam polentu. Veganka Veru si dala sýrovou polenta s trhaným vepřovým. Já zvolil houbovou variantu. Houby nám oběma chutnaly víc. Nejlepší to ale bylo smíchaný.<br>
 Jídlo jsme si odnesli na vyhlídku. Cestou jsme na něj nalákali hned několik lidí. V malém parčíku s Velkým výhledem jsme to do sebe nacpali všechno i přes to, že už jsme oba byli docela plní.<br>
-Možná proto si Verunka dala na dece 20. Bylo fakt fantasticky teplo.<br>
+Možná proto si Verunka dala na dece 20. Bylo fakt fantasticky teplo.
+
+<a href="../images/2024_december/28_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/28_2.jpg"></a>
+
 Jednička jela kousek od nás. Až na letisko. Jestli jsme jí zaplatili jsme si nebyli jistí. Virtualizované karty strojek nebral a fyzická sice pípla, ale druhým dotykem jsem jí možná odhlásil.<br>
 Každopádně nás a dalších několik desítek lidí, kteří se do autobusu sotva vešli odvezla na letisko, kde jsme překvapivě rychle prošli sekuritkou a pak extrémně dlouho čekali na zpožděný Ryan.<br>
 Hráli jsme na klavír. Vern si koupila Deník malého poseroutky v Italštině a během mých dvou lekcí dnolinga si přečetla notnou část knihy v jazyce, který tři týdny zpátky neovládala.<br>
@@ -290,4 +350,18 @@ Bylo to extrémně nepraktický. Zrovna jsem domluvil, že k Ondrovi a Rébě p�
 Rozhodl jsem se bojovat s nemocí aktivně. Postel, Čaj, Česnekový vývar, kurkumo-zázvorové mléko a antibiotika. Dostal jsem je na zuby, ale leták rikal, že na zánět horních cest.<br>
 Během dopoledne jsem dokoukal LOST. Ten sentimentální konec mi tentokrát přišel skvělej. Asi jsem o dost měkčí než před deseti lety.
 
-### 31.12.
+### 31.12. Na střechu, do mlhy a do nového roku
+
+Někdy ve čtyři ráno přišlo zlepšení. Dal jsem si iselgin další čaj a usnul na šest hodin. Stresogram opadl z "jasná krize" do „docela v pohodě".<br>
+Stejně jsem si nebyl jistej svou účastí na večerním srazu u Reky a Ondry. Dál jsem dopoval česnek, zázvor a vývar.<br>
+Sraz byl na Ctvrtou. Heenul jsem to. Potkal jsem se s Verunkou na půl cesty a na Břevnov jsme vyjeli tramvají. Nováčkovic přijeli autem i s Pátou a protože pátá se válel na zemi , všichni se postupně přesunuli na zem za ním.<br>
+Poslední dorazil Karel s Týnou. Týna měla hodně fancy Šaty na takovou událost. Ale Týna je vždycky příliš dobře oblečená. Stejně jako já vždycky příliš málo.<br>
+Poslouchali jsme hudbu, povídali si a jedli. Taky jsme šli s Páťou ven. Vydedukoval jsem že ho štvou lampy. Když jsem se pak stal vozičem kočárku, dokázal jsem ho narozdíl od Filipa uspat díky vyhýbání se kuželům světla. Nováčkovic se šli nahoru rozloučit a když se vrátili, nalodili jsme Páťu do jejich zlatého korábu a popřáli Štastný nový rok. Měl jsem radost, že vydržel tak dlouho.<br>
+Potom jsme hrát. Aktivity. Kluci proti holkám. Vlastně jsem to hrálpoprvé. Hádat mi šlo dobře, popisovat nic moc. Byla to docela plichta. Verunka v jednom kole holkám zařídila spoustu bodů.<br>
+Půlnoc nám hru přerušila. Vzali jsme kabáty, klíče, šumivá vína a vylezli na střechu, abychom viděli ohnostroj had Prahou.<br>
+Chyba lávky. Byla mlha. Videt byly jen ty v nejbližších ulicích. Co už. Karel nám aspoň udelal fajn párovýfotky.<br>
+Aktivity jsme nedohrávali. Byla to hra z minulýho roku. V tomhle roce jsme museli vyřešit jak dojet domů. K Veru na Střížkov. Prvního nás čekalo balení.
+
+<a href="../images/2024_december/31_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/31_1.jpg"></a>
+
+Rok 2025 byl před námi. A plánovali jsme ho prožít spolu!

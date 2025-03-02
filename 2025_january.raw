@@ -22,15 +22,15 @@
 - [18.1. Hromada jídla a unavený genitál](#181-hromada-jídla-a-unavený-genitál)
 - [19.1. Bez randění](#191-bez-randění)
 - [20.1.](#201)
-- [21.1.](#211)
+- [21.1. Půjčit běžky](#211-půjčit-běžky)
 - [22.1. Nabírá to obrysy](#221-nabírá-to-obrysy)
 - [23.1. Roubenka u potoka](#231-roubenka-u-potoka)
 - [24.1. Stopou bez ženy](#241-stopou-bez-ženy)
-- [25.1](#251)
+- [25. 1. Zničit se spolu](#25-1-zničit-se-spolu)
 - [26.1. Palačinky a únava](#261-palačinky-a-únava)
 - [27.1. Stejnou věc jinak](#271-stejnou-věc-jinak)
 - [28.1. Návrat ke kořenům](#281-návrat-ke-kořenům)
-- [30.1](#301)
+- [30.1. Vzlet](#301-vzlet)
 - [31.1. V práci úplně sám](#311-v-práci-úplně-sám)
 
 ### 1.1. Rozmontovat postel
@@ -198,6 +198,12 @@ Spát jsme šli v půl druhý. Bylo třeba se polepšit.
 
 ### 12.1. Zajištění rodu pojištěné smlouvou
 
+Verunka se tentokrát pustila do kuchyně. V té zbývalo asi nejvíc neroztříděných věcí a poličky v kuchyňské lince za ty roky nabraly trochu prachu a ztratily organizaci.\
+Chtěl bych říct, že jsme se do toho pustili ráno, ale ranní jógu jsme dělali ve 12 hodin a brunch končil někdy po jedné. Verunka se do toho fakt opřela.\
+Já jsem šel vyčistit pračku. Octem jsem vydrhl nádobku na prášek a komoru na ní. Poasi půl hodině nadávání jsem přišel na to, jak spustit režim čistění bubnu a nakonec jsem vyčistil i filtr. Tentokrát v něm nebyly 2 eura ale jen jeden cent.\
+Večer se zastavila paní Kotrbata! Podepsali jsme smlouvu a prohlídla si jak bydlíme. Optala se taky, kdy už Verunka nebude slečna a informovala nás, že její dcera se brala v devět a dvacet, což bylo pozdě, protože kdysi to bylo pět a dvacet.\
+Večer jsem psal deník. Zvládl jsem posledních pár dní, ale stěhování chybělo a prosinec vypadal jak ementál. Obzvlášť ta Itálie mě štvala. Bylo třebanapsat si TODO a dodržet ho.
+
 ### 13.1.
 
 ### 14.1.
@@ -216,7 +222,7 @@ Vlakem jsme jeli spolu. Verunka nám k snídani ohřála zapečenou brokolici. T
 Před nádražím byla ledovka. Na záda nic moc. Ještě Že kolo jsem nechal doma. V Lidlu jsem koupil mléko a pečivo a pěšky došel do práce.\
 Vládu napadlo, že čip jde sice napájet ze tří voltů, tak jak to děláme my, ale taky z pěti. Po chvíli měření jsem objevil, že planeta to dělá stejně.\
 Bez modemu se to dalo vyzkoušet poměrně jednoduše. 3v8 propustilo i víc, když na Vbat byl laboratorní zdroj.\
-TV, nalezená anténa hla0h a poprvé za celou dobu snažení bylo na pozici 400 dost velké napětí. Poprvé od doby co jsem začal měřit přijmací výkon jsem začínal věřit, že to dáme.\
+TV, nalezená anténa hla0h a poprvé za celou dobu snažení bylo na pozici 400 dost velké napětí. Poprvé od doby co jsem začal měřit přijímací výkon jsem začínal věřit, že to dáme.\
 Brokolici jsem si nakonec vezl zpátky domů. Šli jsme na oběd k Šebastiánovi. Měl jsem smažený hermelín, ale místo tatarky jsem si vyprosil švestkovou omáčku od krkovice. Vlak mě dovezl zpět za Veru domů do Vršek.\
 Došlo mi , že jsem neviděl Žádné fotky ze svatby Toma a Terky. Napsal jsem mu a poslal mi nějaký výběr . Album už prý online nebylo.
 
@@ -262,7 +268,12 @@ Těšil jsem se na běžky o příštím víkendu.
 
 ### 20.1.
 
-### 21.1.
+### 21.1. Půjčit běžky
+
+Pro Verunku. Já svoje měl, ale ona ne. Výzkum ukázal, že na Petřinách nás půjčení nebude stát tolik jako ve Vysočanech. V Modřanech a v Čakovicích internet moc neporadil. Psali, že je špička a tak se nedá rezervovat nic, takže cena byla neznámá.\
+Do práce jsem jel na kole. Po ranní józe. Rozhodl jsem se udělat pořádek v kondenzátorech, protože jsem objevil průser. My celou dobu používáme 5-10 % kondenzátory. V simulaci smiťáku jsem ale počítal s 1%. 10 % vyústilo v rozptyl hodnot po celém grafu.\
+Napsal jsem si tedy pythonový skript, který dekomponoval Yago MPN a vyplnil v ERP tolerance, hodnoty, dielektrikum, datasheet a další parametry.\
+Po práci jsme s Verunkou dojeli metrem pro běžky. Půjčit si je na týden vyšlo podobně jako na půl roku. Bylo to absurdní. Domů jsme ale jeli s lyžemi, hůlkami a lyžáky. A plátkem pizzy za 25.
 
 ### 22.1. Nabírá to obrysy
 
@@ -319,17 +330,34 @@ Sladký knedlík jsem si tentokrát nedal. Do přeplněné jídelny dole jsem si
 Tak poslední dva kilometry se jen stoupalo. A mně to podjíždělo. Ale konečně jsme opravdu poznali kde jsme. Jeli jsme opačně než minule. Byl jsem poslední a v kopci jsem vytal a Šel pěšky.\
 Ale sečteno podtrženo to byla super jízda.\
 Verunka psala, že zimnice jí opustila, ale hlava pořád bolí. Dala ohřát polévku, takže když jsme přijeli, měli jsme teplé jídlo do břicha. Lidi se do polévky zprvu nehrnuli, ale pak jim začala moc chutnat. Oba jsme s Verunkou byli pyšní.\
-K velké večeři bylo kuře s bramborem. A po večeři jsme se stáhli ke krbu. Vojta byl trochu nešťastný, že se s deskovkami táhl zbytečně, ale hraní na kytaru a zpívání bylo moc fajn. Vydrželo nám to tak do jedenácti. Verunka všechy oslnila svým zpěvem Pokáče. Teda všechy krom Vládi. Toho Šumeldovic odvezli na vlak. Další den ho čekalo frisbee.
+K velké večeři bylo kuře s bramborem. A po večeři jsme se stáhli ke krbu. Vojta byl trochu nešťastný, že se s deskovkami táhl zbytečně, ale hraní na kytaru a zpívání bylo moc fajn. Vydrželo nám to tak do jedenácti. Verunka všechny oslnila svým zpěvem Pokáče. Teda všechny krom Vládi. Toho Šumeldovic odvezli na vlak. Další den ho čekalo frisbee.
 
 ![image](24_3.jpg)
 
-### 25.1 
+### 25. 1. Zničit se spolu
+
+Tentokrát jsem se vyspal lépe. I tak jsem byl v kuchyni jeden z prvních. Magda už připravovala snídani. Trochu jsem jí s tím pomohl.\
+Verunka se tentokrát přidala k nám. Vymysleli jsme cestu od přehrady souše podél nádrže , na Smědavu a zpátky paralelně o pár vrstevnic výše. K souši měl jezdit autobus a do jeho odjezdu po snídani zbývalo dost času na to aby Ivan a Jirka navoskovali skluznice.\
+Jirka nechvátal. Jeho ležérně zvolené tempo všechny znervózňovalo. Na autobus jsme sice dobíhali, ale zvládnul navoskovat i ty moje. Navíc ten běh byl úplně zbytečný. Autobusu trvalo asi tak 20 minut než přijel. Parta lidí v penzionu vedle si stihla dát ještě pár pivek a během jízdy byli trochu napřesdržku.
 
 ![image](25_1.jpg)
 
+Dole to byla nostalgie. Úplně jiný než v létě. Ale moc krásný. Pěšky jsme došli na startovní místo za závorou a vyrazili. Na asi 2 metry. Ivanovi v běžce chyběla ta pryž, která vrací botu do výchozí polohy a nemohl jet. Asi jí ztratil v autobuse. Já jsem tam vytrousil skifix.\
+Šumeldovi dohromady ale přišli s geniálním řešením. Magda poskytla tampon a Ivan ho obinadlem přivázal do vázání. A fungovalo to!\
+Verunka se trápila. Nestála na běžkách roky, ne-li desetiletí. Navíc neměla namazáno. Ivan se toho ujal. Jel s ní vzadu a dával jí rady. Poprvé radil i mně a bavilo ho to. Nechal jsem je a vyrazil trochu dopředu za ostatními.\
+Po asi třech kilometrech jsme uhnuli z velké cesty na malou lesní beze stopy, vedoucí ke zbořené přehradě.Verunce se to moc nezdálo, ale švihla s sebou na ten jen párkrát a šlo jí to čím dál líp. Stromečkování do velkého převýšení nám dalo zabrat všem.
+
 ![image](25_2.jpg)
 
+Na křižovatce ze které vedla slepá cesta k přehradě jsme se rozdělili. Já s Verunkou jsme jeli rovnou na Smědavu, ostatní dolů a pak zpátky nahoru. Potkali jsme blázna v dobovém oblečení s prastarými běžkami, který prý v noci přespal kousek pod vrcholem Jizery. Klobouk dolů.\
+Na obědě jsme se všichni opet sešli. Já s Verunkou jsme měli napůl halušky napůl borůvkové knedlíky. Oboje bylo moc dobrý.\
+Cesta zpátky byla dobrodružná. Napřed vysoká rovinka,kde Jirka jezdil kolem nás tam a zpátky, potom výhledy na západ slunka a potom cesta kolmo na vrstevnice po potoce. Odvážnější tu a tam zkoušeli sjíždět, ale spíš padali. Příroda to byla nádherná a pěší procházka se Verunce líbila víc, než jízda.\
+Pešky jsme sešli, závěrečný úsek po asfaltu. Slunko už zapadlo a začala být fakt zima. Do kroku jsme si zpívali a těšili se na teplou polívku. A na guláš. A na hraní her.\
+Sedm divů a Port Royale. V tom byla Verunka přeborník a po pár kolech začala inkasovat na skoro všem, co se stal.. Po chvili se k ní přidal Vojta a Ivan. Vojtanakonec vyhrál, ale situace, kdy kapitalisti napřáhnuli ručičky, aby vyžádali peníze od ostatních ikonická.
+
 ![image](25_3.jpg)
+
+Druhý den jsme měli balit. Další hru už jsme nezačínali. Ostatně po dvou dnech běžkování jsme byli všichni docela mrtví.
 
 ### 26.1. Palačinky a únava
 
@@ -363,7 +391,11 @@ V kanclu jsem se potom dál věnoval anténám. Vyšší Q byl problém. Minimum
 Aspoň že běžky jsem vrátil v poho. A koupil olivový dej v DMku. A k bernardy, takže bude láhev na kombuchu.\
 Veru doma nadávala na nerezovou pánev. Udělala moc dobrý smaženky. Chvíli jsme nad tou pánví diskutovali a rozhodli se naučit se jí vypálit.
 
-### 30.1
+### 30.1. Vzlet
+
+Neplánované. Se Sárou, Ondrou, Rébou a mojí ženou.\
+Byl to den, kdy Vera poprvé rozdávala vysvědčení. Kdy Ondra s Rébou mluvili o návštěvě NF kliniky a Sára o tom, že ji vyhodil. společně se spoustou dalších lidí z Boomerangu pro nadbytečnost.\
+V práci jsem byl jen s Fílou a Omarem, protože ostatní byli nemocní nebo v Polsku a mimo trápení se s přebytkem výkonu na TEST PICC 2, jsem si nakreslil konzoly na poličky. Taky jsem se rozhodl, že na volání vnořených metod v NFCM použiju stack. Vláďovi to přišlo dobry!
 
 ![image](30_1.jpg)
 
@@ -375,8 +407,8 @@ Dotiskly se první dvě konzoly na police. Byly dost gumový. Ale pevný. Měl j
 ![image](31_1.jpg)
 
 Měl jsem nápad. Test PICC 1 je na 16.1 MHz. Co kdybych to naladil tak aby na šestnácti byla taky rezonance. Chvíli mi to trvalo. Uklidil jsem na stole, udělal pořádek v HF kabelech, dal na ně sucháče a vytiskl si držáček na karty./
-A pak zažíval úspěch. Test na napětí prošel na všech pozicích. Se záteží byly v modulacích overshooty. Ale firmwarem jsem je byl s to eliminovat. V A i v B. Ale vysoké Q firmwarem nevyřešíš./
-Ale byl to pokrok!
+A pak zažíval úspěch. Test na napětí prošel na všech pozicích. Se zátěží byly v modulacích overshooty. Ale firmwarem jsem je byl s to eliminovat. V A i v B. Ale vysoké Q firmwarem nevyřešíš./
+Nicméně to byl pokrok!
 
 ![image](31_2.jpg)
 
