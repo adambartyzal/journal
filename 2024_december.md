@@ -365,3 +365,5 @@ Aktivity jsme nedohrávali. Byla to hra z minulýho roku. V tomhle roce jsme mus
 <a href="../images/2024_december/31_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/31_1.jpg"></a>
 
 Rok 2025 byl před námi. A plánovali jsme ho prožít spolu!
+
+[>> Leden](2025_january.md)

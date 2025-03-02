@@ -26,7 +26,7 @@
 - [22.1. Nabírá to obrysy](#221-nabírá-to-obrysy)
 - [23.1. Roubenka u potoka](#231-roubenka-u-potoka)
 - [24.1. Stopou bez ženy](#241-stopou-bez-ženy)
-- [25. 1. Zničit se spolu](#25-1-zničit-se-spolu)
+- [25.1. Zničit se spolu](#251-zničit-se-spolu)
 - [26.1. Palačinky a únava](#261-palačinky-a-únava)
 - [27.1. Stejnou věc jinak](#271-stejnou-věc-jinak)
 - [28.1. Návrat ke kořenům](#281-návrat-ke-kořenům)
@@ -334,7 +334,7 @@ K velké večeři bylo kuře s bramborem. A po večeři jsme se stáhli ke krbu.
 
 <a href="../images/2025_january/24_3.jpg" target="_blank"><img src="../images/thumbnails/2025_january/24_3.jpg"></a>
 
-### 25. 1. Zničit se spolu
+### 25.1. Zničit se spolu
 
 Tentokrát jsem se vyspal lépe. I tak jsem byl v kuchyni jeden z prvních. Magda už připravovala snídani. Trochu jsem jí s tím pomohl.<br>
 Verunka se tentokrát přidala k nám. Vymysleli jsme cestu od přehrady souše podél nádrže , na Smědavu a zpátky paralelně o pár vrstevnic výše. K souši měl jezdit autobus a do jeho odjezdu po snídani zbývalo dost času na to aby Ivan a Jirka navoskovali skluznice.<br>
