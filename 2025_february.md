@@ -1,44 +1,46 @@
 [<< Leden](2025_january.md)
 
-## [Leden](2025.md) 
+## [Únor](2025.md) 
 
 - [1.2. Ostrava !!!](#12-ostrava-)
 - [2.2. Ještě padesát devět a půl let](#22-ještě-padesát-devět-a-půl-let)
 - [3.2. Nákupy s expaty](#32-nákupy-s-expaty)
-- [4.2.](#42)
-- [5.2.](#52)
-- [5. 2. Japonci jsou divní](#5-2-japonci-jsou-divní)
+- [4.2. Po nás potopa](#42-po-nás-potopa)
+- [5.2. Japonci jsou divní](#52-japonci-jsou-divní)
 - [6.2. Předčasné přerušení](#62-předčasné-přerušení)
-- [7.2.](#72)
+- [7.2. Svátek ve fitku](#72-svátek-ve-fitku)
 - [8.2. Do Lidlu pro houbičky](#82-do-lidlu-pro-houbičky)
 - [9.2. Vrtání, naštvání, výlet a nákup](#92-vrtání-naštvání-výlet-a-nákup)
-- [10.1.](#101)
-- [11.1.](#111)
+- [10.2. Tentokrát na jistotu](#102-tentokrát-na-jistotu)
+- [11.2. Beďas](#112-beďas)
 - [13.2. Ondra neslaví](#132-ondra-neslaví)
 - [14.2. Místo růží police](#142-místo-růží-police)
 - [15.2. Makat do Ratboře](#152-makat-do-ratboře)
 - [16.1. Unavenej](#161-unavenej)
+- [17.2. Velká vlna](#172-velká-vlna)
+- [18.2. Po badmintonu samotný](#182-po-badmintonu-samotný)
+- [19.2. Stěny křivý a dutý](#192-stěny-křivý-a-dutý)
+- [20.2. Já tě miluju a tak, ale...](#202-já-tě-miluju-a-tak-ale)
+- [21.2. Nepříliš jistý průlom](#212-nepříliš-jistý-průlom)
+- [22.2. Kolaudačka](#222-kolaudačka)
+- [23.2. Plavat jako chcípák](#232-plavat-jako-chcípák)
+- [24.2. Las machinas](#242-las-machinas)
+- [25.2. Sport zahání trudomyslnost](#252-sport-zahání-trudomyslnost)
+- [26.2. Předčasně naslepo](#262-předčasně-naslepo)
+- [27.2. RFAL není cesta](#272-rfal-není-cesta)
+- [28.2. Start generace Z](#282-start-generace-z)
 
 ### 1.2. Ostrava !!!
 
-Polštář na bříšku docela fungoval. Trochu jsem se budil, ale záda si spíš odpočinula. Narozdíl ode mé. Vstávat v sobotu po šesté nebylo ok. Aspoň že ledová sprcha mi trochu probrala. A kafe v termosce.
-
-Snídaně byla z Albertu na nádraží, Snězená ve žlutém vlaku. Cestou jsem vymyslel že na začátku května půjdeme kus stezky Českem. Adršpach_Broumovsko. Kouknul jsem na video s pánem z cestománie a na web stezky. 4 dny. 100 km.
-
-Na nádraží pro nás přijel Lukáš. Verunka ve vlaku koukalana jeho přednášku z cz. nicu. Oba jsme tomu rozuměli kulový.
-
-V autě jsem poznal kudy jedeme z povídání, které mi pár dní zpátky Verunka dávala nad google mapou. Překvapilo ji, kolik si toho pamatuju. Za kulatým kostelem, před kinem luna jsme zatočili k řadovkám, kam se Ondráčkovi přestěhovali, když bylo Veru 6.
-
-Hned po příjezdu mě vítal Hynek a představil mi ženu Janu a dceru Markétu. První pocit z domu byl intenzivní. Patřil víc kočkám než lidem. Nosem to bylo poznat hodně. A to mi potom Verunka říkala, že kvůli mě to tam dali hodně do pucu.
-
-Ale byli moc milí. Pochválil jsem Markét její roli ve filmu SŽDC a poměrně rychle jsme byli usazení ke stolu a začali obědvat.
-
-Hynek udělal moc fajn vege nudle se sojovým i nudličkami. Bylo to fakt moc dobry! Přidal jsem si. Tu a tam Jsem odpověděl na nějakou otázku, ale spíš jsem poslouchal vyprávění rodičů, o dětech.
-
-Bylo videt, že jsou na svý děti patřičně hrdý. A aby ne.
-
-Verunka mi chtela ukázat Ostravu. A rodičům fotky z Itálie. Lukáš přinesl laptop a monitor, posedali jsme si na pohovku a po chvíli štelování google alb jsme se pustili do vyprávění. to že jsem se koupal v Lago di Garda přineslo nejedno pozdvižení obočí.
-
+Polštář na bříšku docela fungoval. Trochu jsem se budil, ale záda si spíš odpočinula. Narozdíl ode mé. Vstávat v sobotu po šesté nebylo ok. Aspoň že ledová sprcha mi trochu probrala. A kafe v termosce.<br>
+Snídaně byla z Albertu na nádraží, Snězená ve žlutém vlaku. Cestou jsem vymyslel že na začátku května půjdeme kus stezky Českem. Adršpach_Broumovsko. Kouknul jsem na video s pánem z cestománie a na web stezky. 4 dny. 100 km.<br>
+Na nádraží pro nás přijel Lukáš. Verunka ve vlaku koukalana jeho přednášku z cz. nicu. Oba jsme tomu rozuměli kulový.<br>
+V autě jsem poznal kudy jedeme z povídání, které mi pár dní zpátky Verunka dávala nad google mapou. Překvapilo ji, kolik si toho pamatuju. Za kulatým kostelem, před kinem luna jsme zatočili k řadovkám, kam se Ondráčkovi přestěhovali, když bylo Veru 6.<br>
+Hned po příjezdu mě vítal Hynek a představil mi ženu Janu a dceru Markétu. První pocit z domu byl intenzivní. Patřil víc kočkám než lidem. Nosem to bylo poznat hodně. A to mi potom Verunka říkala, že kvůli mě to tam dali hodně do pucu.<br>
+Ale byli moc milí. Pochválil jsem Markét její roli ve filmu SŽDC a poměrně rychle jsme byli usazení ke stolu a začali obědvat.<br>
+Hynek udělal moc fajn vege nudle se sojovým i nudličkami. Bylo to fakt moc dobry! Přidal jsem si. Tu a tam Jsem odpověděl na nějakou otázku, ale spíš jsem poslouchal vyprávění rodičů, o dětech.<br>
+Bylo videt, že jsou na svý děti patřičně hrdý. A aby ne.<br>
+Verunka mi chtela ukázat Ostravu. A rodičům fotky z Itálie. Lukáš přinesl laptop a monitor, posedali jsme si na pohovku a po chvíli štelování google alb jsme se pustili do vyprávění. to že jsem se koupal v Lago di Garda přineslo nejedno pozdvižení obočí.<br>
 Po promítání jsme vyrazili na tramvaj do centra. Prošli jsme kolem domů, kde verunka vyrůstala, chodila na základku i na gympl. Tramvaj nás provezla kolem areálu Vítkovic, kde dělal její táta, děda. babička a skoro každý druhý v Ostravě. Vcentru jsme vyjeli na vyhlídkovou věž na radnici a já si tak mohl Ostravu s výkladem prohlédnout v celé své kráse.
 
 <a href="../images/2025_february/1_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_1.jpg"></a>
@@ -47,15 +49,12 @@ Moc krásy tam nebylo. Hodně štol. A kouře. A paneláků. Ale výhledy mám r
 
 <a href="../images/2025_february/1_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_2.jpg"></a>
 
-Hynek měl svátek. Cestou zpátky jsme se zastavili v Albertu
-
-Nové karolině. Verunka pořídila láhev alkoholu a já zezvědavosti koupil kombachu. Nechutnala nijak. Bylo to faktabsurdní.
+Hynek měl svátek. Cestou zpátky jsme se zastavili v Albertu v Nové karolině. Verunka pořídila láhev alkoholu a já ze zvědavosti koupil kombuchu. Nechutnala nijak. Bylo to fakt absurdní.<br>
 Doma se scházeli lidi. Přišli Borkovi. Teta a strýček. Moc fajn pair. Melo se opékat. Dole v krbu. A pít. A hrát na nástroje. A zpívat.
 
 <a href="../images/2025_february/1_3.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_3.jpg"></a>
 
-A jak se řeklo, tak se stal.. Hynek hrál na housle. Fakt dobře. Podle ucha. A na flétnu. A kytaru. Asi by hrál na cokoliv, co by mu človek vrazil do ruky.
-
+A jak se řeklo, tak se stal.. Hynek hrál na housle. Fakt dobře. Podle ucha. A na flétnu. A kytaru. Asi by hrál na cokoliv, co by mu človek vrazil do ruky.<br>
 Bylo to moc fajn. Taky jsem zpíval. A hrál. A pil. A jedl. Tofu s hořčicí je překvapivě dobrý. Spát jsme šli s Verunkouněkdy ve dvě ráno. Měli jsme dvě matrace, ale usnuli jsme na jedný vedle sebe na zemi.
 
 <a href="../images/2025_february/1_4.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_4.jpg"></a>
@@ -91,11 +90,13 @@ Veru už byla v posteli, když jsem dorazil. Ale na poličky byla zvědavá. Já
 
 <a href="../images/2025_february/3_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/3_2.jpg"></a>
 
-### 4.2.
+### 4.2. Po nás potopa
 
-### 5.2.
+Času málo. To bylo motto posledních několika dní. Sotva jsem dolil čaj do kombuchy, utíkal jsem na vlak. Snídani jsem vyřešil v Lidlu na Vysočanské a pořídil i věci na oběd.<br>
+A pak jsem strávil většinu dne v práci. Řešil jsem digitální testy. Jsou jich tisíce. To člověka zabaví.<br>
+Ten název dne je narážka na bezva tex, kterej jsme not večer. Vera by neměla radost, že jsem si to zapsal. Jenže to bylo fakt dobrý.
 
-### 5. 2. Japonci jsou divní
+### 5.2. Japonci jsou divní
 
 V noci jsem se vzbudil a když jsem vyšel na chodbu, hned mi došlo, že je něco špatně. Něco se pálilo. Napadlo mě, že Veru pustila troubu, aby ohřála pizzu, ale pak použila mikrovlnku a zapomnela na to. Jenže to bylo horší. Byl to hrnec na plotně. Voda už byla dávno pryč a na dně se škvařit menstruační kalíšek.<br>
 Naštěstí se nic moc nestalo. Akorát hrnec byl hnědej. Obzvlášť skleněné víčko, na kterém se střádat odpařený teflon a silikon.<br>
@@ -121,9 +122,18 @@ Dál jsem koukal do digitálních testů a vylepšoval kód. Nakonec jsem se ale
 Šli jsme do Indie v obchoďáku. Kilometrová procházka Čeleda mě i po práci. Ale nakonec jsem přetahoval a vlak ujel. Ivan mě hodil na metro.<br>
 Doma Verunka vařila o sto těst. Přidal jsem se k ní. Loupal a krájel jsem zeleninu a potom ořechy. A pak jsme se s jídlem stalili na gauč a koukali na dark matter. Bylo to plný nelogičností, ale zajímalo nás jak to skončí.
 
-### 7.2.
+### 7.2. Svátek ve fitku
+
+A vyšlo jí to na pátek. Mohla tak zůstat v posteli.<br>
+Zato já chvátal. Zvládl jsem vynést koš a zbavit se aloí, které začínaly hnít. Ale klekačku, kterou jsem plánoval vzít do práce, jsem doma zapomněl.<br>
+V práci jsem řešil digitální část. Na nový desky a součástky jsem čekal a tak jsem mohl debugovat software. Pár věcí jsem vyřešil. Třeba to, že po RATS se chyba musí přehodit o vrstvu výš, aby si jí řešil protokol. Tam to ale začne být složitý. Odpověď se vybírá podle délky slova, počtu opakování, čísla bloku a kdo ví čeho ještě.<br>
+Cestou domu jsem pořídil Gerberu. Verunka potěšila. Měl jsem radost, že je gerberová. Misku rok zpátky moc nenadchla. Verunce opravdu zářily oči.
 
 <a href="../images/2025_february/7_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/7_1.jpg"></a>
+
+Měla plán. Zkusit fitko pod Lidlem. První vstup byl zdarma. Zjistili jsme sice, že ten její propadl asi před rokem, ale telefonem to domluvila a nakvap jsme vzali ručník, plavky a zámeček a vyrazili se hřát, plavat a válet se.<br>
+Bazén byl směšně malej. Vířivka ok. Sauna přeplněná. Ale vešli jsme se. A bylo to fajn. Trochu jsem si dělal srandu z toho, že doma pozvu jednu slečnu s moc pěknýma prsama. Dala mi je na obdiv, když jsme spolu byli nazí ve sprše. Byly fakt prvotřídní. Verunka mi řekla, že pokud si na to troufnu, mám zelenou.<br>
+Buď jsem srab, nebo mám příliš rád svojí ženu. Trochu asi obojí. Zůstalo to u vtipkování. A fakt dobrýho sexu později doma.
 
 ### 8.2. Do Lidlu pro houbičky
 
@@ -163,17 +173,30 @@ I pak v nákupu v Ikea, kterej zabral několik hodin a extrémně nás unavil.. 
 Ale sádra asi vytahla dobře. Police byla trochu do vrtule. Ale šla pověsit. Rozhodl jsem se sadie da.lt ještě tak den a pak jí testovat košem na prádlo.<br>
 Verunka šla spát. Jak ještě chvíli psal. V bytě byla spoušť. Neměl jsem na víc než na pomytí trochu nádobí a jednu lekci duolinga.
 
-### 10.1.
+### 10.2. Tentokrát na jistotu
 
 <a href="../images/2025_february/10_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/10_1.jpg"></a>
 
+Budík, chvilka válení se, stříhání vlasů a polévka k snídaní. Čaj do kombuch. Franz do vlaku. Vzpomínky do řehoře.<br>
+V práci osazování. Odčítání součástek ze skladu šlo se čtečkou a vylepšeným skriptem dobře. QFN, 0603 a další zrady nových Vláďových designů, ale šly pomalu.<br>
+Doma jsem se dal do vrtání děr na další dvě police. Míň jsem se bál vrtal hloubš, rychleji a sice vysypal víc omítky, ale hmoždinky šly pěkně do cihel a těm poličkám jsem věřil.
+
 <a href="../images/2025_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/10_2.jpg"></a>
+
+S kytkama položenýma na nich to začalo vypadat pěkně.
 
 <a href="../images/2025_february/10_3.jpg" target="_blank"><img src="../images/thumbnails/2025_february/10_3.jpg"></a>
 
-### 11.1.
+### 11.2. Beďas
 
-<a href="../images/2025_february/11s_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/11s_1.jpg"></a>
+Přes den jsem dostavil nové HLP00d a postupně ho rozcházel. Bylo úterý a v práci jsem měl klid. Jediný 5 kým jsem se bavil byl Ludva. Byl zrovna v ráži, protože Android podle něj neskenoval QR kódy na trnavských kolech.
+
+<a href="../images/2025_february/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/11_1.jpg"></a>
+
+Bylo to zaoblením rámu. iOS s tím neměl problém.<br>
+Trvalo asi půl hodiny, než se kolečko uzavřelo a DJ mi v panice začal psát, jestli QR kódy nenavrhl špatně. Vysvětlil jsem mu, že v body může jednotlivé query http request a prohazovat jak chce. Že problém bude ve tvaru a možná v redundanci. Poslal jsem mu článek o tom jak QR kódy fungují a řekl mu ať to pořádně vyzkouší.<br>
+Na večer jsme měli s Marťou naplánovaný badminton. V Astře. Vyjel jsem trochu pozdě a tak jsem přes Třebešín jel docela v tempu. Zapomněl jsem zámek a míček. Kdo mi pán hodil na recepci. Míček jsem musel koupit.<br>
+Docela nám to šlo. Krátký, dlouhý, voleje. A pak 4 hry. 3 jsem vyhrál. Ale jen těsně. Povídali jsme si o blbostech. Zlepšilo mi to den. Sport s kamarády je důležitej.
 
 ### 13.2. Ondra neslaví
 
@@ -242,4 +265,148 @@ Petr nás hodil do Kolína. Vysadil Robina u mámy, aby mohli jít na maškarní
 Po hodině a desetiminutovém zpoždění jsme se rychlíkem svezli až do Vršovic. Ve sprše ze sebe smyli spoustu bláta a pak na to vlítli. Dvakrát vlastně. Unavilo mě to. Nebo jsem spíš byl unavenej a tohle mě přehouplo.<br>
 Až před osmou jsem se dostal k vrtání žaluzií. A přišli shora, že budím dítě. Dal jsem to k ledu a šel psát. Měl jsem týden skluz. Když bych nepočítal ty desítky dní v předchozích měsících.
 
-[>> Březen](2025_february.md)
+
+### 17.2. Velká vlna
+
+Dostavil jsem další iteraci desek zámku. A řekl si, že ladit má smysl jen v kovovém těle. A s bateriemi. Rýpat se v bežící elektronice v zámku, který může vyzkratovat baterky tak moc, že celá ta věc mohla chytit, či spíš vybuchnout.<br>
+Sotva jsem to dostal a doladil, dospěl jsem k názoru, že takhle to nepůjde . TEST PICC 1 pole tlumila a TEST PICE 2 posilovala. Bylo třeba udelat naopak. A vlastně přesně to šlo udělat. Přezrcadlit smiťák podle reálný osy.
+
+<a href="../images/2025_february/17_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/17_1.jpg"></a>
+
+Doma jsme vrtali žaluzie. Stihl jsem to do sedmi a tentokrát David přišel na Olivii, která se pustila do úpravy kuchyně.
+
+<a href="../images/2025_february/17_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/17_2.jpg"></a>
+
+Večer jsme se pustili do stavění Hokusaiovy Velké vlny. Návod měl asi 150 stránek a někdy v půl jedný ráno jsem Verunce řekl ať mi nechá nedostavěný poslední dílek a šel jsem spát. Verunka měla jarní prázdniny, ona do postele nechvátala.
+
+<a href="../images/2025_february/17_3.jpg" target="_blank"><img src="../images/thumbnails/2025_february/17_3.jpg"></a>
+
+### 18.2. Po badmintonu samotný
+
+Nějak jsem nestihl snídat. A obděd jsem si taky nevzal. V úterý mě nikdo na ozone netahá a tak jsem v půl šestý pořád nepozřel nic kromě kafe a čaje. Ideál na start keta.<br>
+Zahradní město, kde jsme s Martou měli zabookovaný badminton je 40 minut jízdy na kole. Ale taky zastávka našeho vlaku. Jel jsem s DJem<br>
+Nemít v sobě před sportem žádný kalorie nebylo moudrý. Stavil jsem se v tescu a koupil svačinu bez sacharidů. A šlo to . Žádná slabost ani únava na mě nepřicházely.<br>
+Beďas byl dobrej. Většina bodů byla na mojí straně, ale bavili jsme se dobře. Po pěti setech jsem se převlékl a objevil , že nemám klíče . Marta utíkala na autobus a jak se dal do hledání. Nakonec byly na statice, ale potrápilo mě to.<br>
+Kolo domů a doma nikdo. Vern jela do Ostravy přešít záclony. Usínal jsem ten rok poprvé sám.
+
+### 19.2. Stěny křivý a dutý
+
+<a href="../images/2025_february/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/19_1.jpg"></a>
+
+Vajíčka na nerezu na jedničku. Opravdu krásný ráno. Osm pod nulou a sluníčko. Moje rukavice už to nedávaly. Na křižovatkách jsem musel strkat prsty pod mikinu aby nebolely.<br>
+Ve vývoji už byli všichni. Pustil jsem se do ladění. Šlo to pomalu, ale mel jsem plán. Horní polovina. Filtr pod fe. Tím bych docílil toho, že TEST PICC 1 by rozladila přizpůsobení menší impedanci a tím k nižšímu výkonu a TEST PICC2 naopak.<br>
+Fungovalo to. Ale napětí bylo málo. A Q bylo pořád vysoký. Nakonec jsem skončil v mírný depresi. Ve vlaku zpátky jsem koukal že v NXP mají pětihodinový kurz na NFC Antény.<br>
+Vlakem jsem jel, protože Franzovi prasklo lanko k přehazovačce. Rovnou domu, protože jsem chtěl vrtat polici. Dřív než by to komukoliv vadilo.<br>
+Zkreslil jsem tečky a dal se do vrtání. Cihla. Úspěch. Dutá. Blbý. Jednu hmoždina a šroub jsem utopil. Ale s trochou snahy to šlo. Nasadit dvoumetrovou polici v jednom se ukázalo jako oříšek. Obzvlášť když stěna byla nepříznivě prohnutá. Ale povedlo se.<br>
+Za odměnu jsem si uvařil super veggie a podíval se na první díl třetí řady Invincible.<br>
+Spát bez Verunky bylo trochu divný. Z nedostatku sacharidů mě bolela hlava , ale usnul jsem rychle a probral se až ráno minutu před budíkem.
+
+### 20.2. Já tě miluju a tak, ale...
+
+Keto chřipka odezněla. Posnídal jsem vajíčka a rozkoukal druhý díl Invincibla. Kolo bylo v háji a tak jsem jel vlakem a koukal na seriál i v něm. Čekal mě další den plácání se v analogu. Začínalo mi to lézt krkem. Už dlouho mě moje práce nasrala tak jako teď. Řekl jsem si ale „Takhle vývoj funguje, nakonec na to přijdeš s přijde novej problém! A pustil se do toho.<br>
+Reverzní inženýring. Našel jsem spálenou planetu a pustil se do měření přizpůsobení. Dost mi to potvrdilo to, na co jsem přišel sám. Smyčka v herní potravině. Musí než 352. Naladění ve spodní části smyčky. Tak aby rezonance 16 MHz karty posunula 7 doleva a rezonance na 13 dovnitř. Ale šli ještě trochu dál. Podladili to do dolní půlky, takže deformace smyčky šly na nulovou reaktanci.<br>
+Čtvrt dne jsem tohle měnil, čtvrt dne přítel, čtvrt dne ladil a čtvrt dne to stavěl. Napětí bylo dobrý. Q moc vysoký. Rozhodl jsem se ho tlumit další den.<br>
+Vlak zpátky. Vynést odpadky a bio. A nakoupit chleba než se Vern vrátí. Potkal jsem ji cestou. Měla spoustu věcí a po puse na přivítanou jsme šli každý svoji cestou.<br>
+Po nákupu na mě šly chmury. Chyběla mi dost? Jeto ten vztah? Nejspíš to ale byly chmury kůli tý práci. A tmě. Nejel jsem ani jednu cestu na kole.
+
+Když jsme pak byli doma spolu, bylo to lepší.
+
+### 21.2. Nepříliš jistý průlom
+
+..možná přišel. Ladění jako planeta mělo potenciál. Po tom, co jsem vyřadil wave shaping jsem dokonce zvládl vyřadit přidané odpory. Výkon dobrej, Q dobrý, testy TA21x a TB21x nakonec všechny prošly. Zasekl jsem se až na přijímací straně. Minimum a maximum positive i negative modulation nejak odmítaly fungovat. Nicméně byl to posun a třeba to půjde dohnat firmwarem.
+
+<a href="../images/2025_february/21_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/21_1.jpg"></a>
+
+Na cestě zpátky jsem se zastavil v Baumaxu pro hřebíky. Vlastně to byl docela výlet, kvůli takový kokotině jako jsou hřebíky. Ale koupil jsem taky slintačku a sponkovačku. Ten gauč nějak zvládnem obalit.
+
+<a href="../images/2025_february/21_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/21_2.jpg"></a>
+
+Díky hřebíkům jsme pověsili obrazy. Hlavně stereogram, který jsem pomocí OCR převedl a upscaloval z titěrného rozlišení na webu.
+
+<a href="../images/2025_february/21_3.jpg" target="_blank"><img src="../images/thumbnails/2025_february/21_3.jpg"></a>
+
+### 22.2. Kolaudačka
+
+Tohle byl nabitý den. Začal brzy a skončil pozdě. Ráno bylo slunečno a mě se nechtělo pracovat. Chyběla nám garnýž. Měli jsme ve zdech díry. Všude byly kousky koženky z gauče. Bylo třeba koupit něco k pití, dopéct dobroty a vyžehlit závěsy. Žehličkou , kterou jsme ještě neměli. Bylo pro ni třeba dojít do alza boxu v Nuslích, a tím to celý začalo.<br>
+Hezký počasí a nedobrý decay ve mně vzbudily touhu navštívit nějakou dobrou kavárnu. Volba padla na Florista café. Napůl květinářství, napůl kavárna. Obojí moc dobrý. Hodná paní květinářka mi tam dala žížalí čaj, aby se mým kytkám dařilo lépe. Flat White a masala chutnaly skvele a den tak začal pozitivně.
+
+<a href="../images/2025_february/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/22_1.jpg"></a>
+
+S kafem v bříšku a žehličkou na zádech jsme vyrazili podél Botiče domů. Sádroval jsem. Verunka pekla. Když jsem dosádroval. připravil jsem stál na Žehlení záclon. Verunka je profesionálně vyžehlila, de cucflek, kvůli kterému je někdo vrátil do ikey, tam pořád byl. Trvalo mi to dlouho, ale s jehlami, ostrými nůžkami a notnou dávkou trpělivosti jsem ho odstranil, bez poškození záclony. Bylo to pěkný. Verunka je moc pěknē zapošila.
+
+<a href="../images/2025_february/22_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/22_2.jpg"></a>
+
+Všude byl prach. Arnošta a Huberta (ruční vysavač zatím nemel jméno) jsem povolal do práce a pomalu, ale jisté krotil katastrofu kolem sebe.<br>
+Před čtvrtou to začínalo vypadat fakt dobře. Taky volali Nováčkovic, že se blíží. Vyrazil jsem do Lidlu pro něco K pití a posledních pár drobností. Cestou jsem vynesl odpady a zpátky jsem se vracel s OBI taškou plnou skla a lahví.<br>
+Nováčkovic byli první. Rebeka druhá, a Fikrovi poslední. Dostali jsme 2 láhve dobrého vína, lahev Únětic, kombucha, plastovou trumpetu od popelnice, kuši, taktéž od popelnice, omotávky na kolo a kovovou láhev. Ty bizarnější věci pochopitelně přinesl Jarda.
+
+Posadili jsme se v obýváku, Verunka lidi zásobovala dobrotama, povídali jsme si a hráli si s Páťou. Když jsem he Choval , rozbrečel se. Ale dokázal jsem to i rozesmát. Verunce to šlo líp. Byl u ní spoke dost dlouho.<br>
+Představovali jsme byt, povídali si o dětech, práci a obsluhovali jsme.. Verunčino jídlo mělo úspěch. Rebece se líbily moje poličky. Všichni říkali, že obývák je supr a my s Verunkou meli radost.<br>
+Nováčkovic pochopitelně vyrazili první. S ostatními jsme seděli asi do půl dvanácté. Ale na Verunku přišla Únava, Rebeka to měla ho minut domů a tak to nemělo smysl protahovat.<br>
+Do postele jsme šli unavení a štastní. Bydleli jsme v moc pěkným bytě a měli moc fajn kamarády. Veru jsem se ještě ptal, zda by pozvala i někoho z jejích kamarádů, že o to stojím. Byla trošičku smutná , že nemá takovou partu, ale Honza s Holkami by prý možná mohl. Byl jsem pro!
+
+### 23.2. Plavat jako chcípák
+
+<a href="../images/2025_february/23_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/23_1.jpg"></a>
+
+Spánek nic moc. Vstávání před desátou. K snídani italská zapékanky a řepový humus.<br>
+Plavat? Verunky pln. Souhlasil jsem. Vlak. Metro. Bus. Šutka. Stěží jsem dal půl kilometr. Tempo zlý. I pára mě zmohla. Ven jsem šel dřív než ona a u stolečků v čekárně jsem si dal ohyzdný kafe z automatu.<br>
+Cestou zpátky jsme se stavili v alze. Verunka nevěděla, že alza má kamennou pobočku. Nikdy nebyla v Praze na tržnici. Zabili jsme tím dost času a nakonec koupili dvě kávy z doubleshotu a oříšky.<br>
+Přes Holku jsme došli na Křižíkovu a městkou dojeli dam. Zbytek večera Veru strávila v přípravách, já v drhnutí trouby, vaření super veggie a společně v jednom díle Přátel.
+
+### 24.2. Las machinas
+
+Nový týden, nová neštěstí. Jestli jsem měl za sebou boj s výkonem jsem neviděl. Zato jsem věděl, že jsem spadl do nové králičí nory. Demodulace. Celý den jsem pomocí testů zjišťoval, že v některých případech lze použít AM/PM demodulátor, zatímco jindy ((Q demodulaci. Proč to mi nebylo jasné.<br>
+Taky jsem čekal, zda mi odepíše člověk s projektorem. Poslední zpráva od něj byla taková, že v pondělí po šesté má čas, ale během pondělí nereagoval.<br>
+Zato přišla štítkovačka. V poledne domů. HoltZkejsla na poště.<br>
+Dojel jsem metrem na Hůrku, našel dblo prodejce a zavolal mu. Bydlel 2 minuty od metra. Projektor byl ještě zabalený, ale všechno vypadalo ok. Pán dostal 4200 korun a já vyrazil do Vršek.<br>
+Před domem jsem potkal Verunku. Vzala projektor nahoru a já došel na poštu pro embosser. Poslali jak stroj, tak pásky. A fungovalo to. Jen stříhání dělalo takovou nehezkou linku. Bylo třeba přidat mezeru.<br>
+Projektor jsem zapojil. Veru udělala lilkovou pastu a pustili jsme si wall-e. První půlku z webu. Byl jsem trochu zklamanej. Druhou z pořádnýho zdroje a to bylo dost kinový.<br>
+Bylo třeba vymyslet kabeláž. Jinak jsme ale měli obývák s Hýbacími obrázky!
+
+### 25.2. Sport zahání trudomyslnost
+
+Úterní badminton se pomalu začínal stávat tradicí. Protože jsem ráno vstával brzy, řekl jsem si, že se pro náčiní! ještě otočím a vyrazil s Verunkou vlakem. Když jsem jí po snídani ve vlaku zvenčí mával a utíkal za ní. Pobavilo jí to.<br>
+Napsal jsem do ST. Hledal jsem totiž Aplikační poznámku 4915. EMVCo Cookbook. Nebyla k nalezení. Moc mi nepomohli. I kaluž trochu jo. Negativní modulace mi prý nefungovala kvůli MRT timeru.<br>
+Nějak mi to neštymovalo. MRT jsem nepoužíval vůbec. Nese jsem si to alespoň myslel. Jenže jo . 0x08 měl v základu. MOE fungovalo. Nakonec Jsem našel Requirement 4.21. který říkal , že po dobu FDT MIN - 128 fc musím ignorovat všechno, co přijde.<br>
+Ve vyšších úrovních ale negativní modulace nefungovala dobře. Proč mi bylo záhadou. Byl to problém dalšího dne . Bylo třeba dojet domu, sbalit raketu, míčky, boty a kraťasy a dojet na Zahraďák.<br>
+Hráli jsme vzadu. A na prvních dvou kurtech hráli vozíčkáři . A šlo jim to. Jednomu hrozně vzali kola, Což bylo mega rozptylující. Naše hra byla trochu komická,ale pomalu to začínalo vypadat, že hrajeme badminton.
+
+### 26.2. Předčasně naslepo
+
+I tentokrát jsme jeli spolu. Na Verunku ale přišla návštěva tety Irmy a můj výklad o tom jaký je rozdíl mezi LCD a DLP projektory nepadl na úrodnou půdu. Mrzelo mě, že nejsem s to jí jakkoliv pomoci.<br>
+Domluvili jsme se, že po práci se sejdeme na jídlo a potom společně pojedeme na žižkov. Naslepo totiž bylo o týden dříve kvůli festivalu otrlého diváka.<br>
+Do práce jsem vezl vrtačku, slintačku a smarwi. Vojta slíbil, že se staví na oběd a chtěl testovací kus zpátky. Šli jsme do Vietnamu. Bavili jsme se o horách, o Ivanové Caravelle, na které mu udajné odchází převodovka po třiceti tisících kilometrech a o vektivě. Vojta tam definitivně končil.<br>
+Verunka v Karlíně, kam šla na vlasovou kliniku, kde měli první konzultaci zdarma, skončila dříve než čekala. Sešli jsme se na Vysočanské v Fenixu a dali si Indii. Bylo to moc dobrý.<br>
+136 nás dovezla na ohradu. Verunku jsem trochu ztrapňoval nedobrou a hlasitou španělskou konverzací. Pána naproti to hodně bavilo. Bavili jsme se tak dokud se k nám v aeru nepřidali Martá s tildou.<br>
+S těmi jsme si povídali o horách, přihlášce na střední,Kingdom Come a Pánu prstenů a nás.<br>
+Pan uvaděč se tentokrát překonal. O filmu neřekl vůbec nic, co by nám prozradilo, jaký bude, ale povídal asi 5 minut. A nakonec všechno, co řekl, dávalo smysl. Ohnivé ulice byly absurdní skoro za hranu. Vtipné. Wiliam Defoe byl oháknutý jako už nikdy a kromě něho tam nikdo známý nebyl.<br>
+Večerní sedmičku jsme stihli jakž takž. Ve čtyřech po pár pivech jízda utekla jak voda a doma jsem usnul skoro okamžitě.
+
+### 27.2. RFAL není cesta
+
+Vzbudil jsem se s bolehlavem. A neopouští mě skrz celé ráno, kdy jsem odložil budík, odsunul vstávání, nestihl sudden! , mrholením doběhl na vlak a nakoupil pečivo v lidlu.<br>
+Čekaly mě další analogové testy. Neposouval jsem se. Po pročítání datasheatu jsem objevil, že před každým vysíláním bych měl zavolat Reset Rx Gain. Ani to ani Adjust Regulators mi nijak nepomohla.<br>
+Ani pročítání RFALU. Ani změna děliče na RFi. Negativní modulace v některých patrech produkovala bitovou kolizi.<br>
+Akciový trh šel do háje. Mé otevřené pozice padaly a swap rostl. To co jsem vydělal od začátku roky mohla zas zmizet. Měl jsem dost velel marže a vlastně uzavíral malé zisky , ale potřeboval jsem zavřel ty s velkou ztrátou.<br>
+Večer jsem se zastavil v Dekáči. Koupit lanko pro Franze. A ani nevím jak se to stalo, koupil jsem brusle. Chtěl jsem to udělat už dlouho. Jenže ted' když jsem je měl, zjistil jsem, že veřejná kluziště už zavřela.<br>
+V tramvaji na mě šlo blivno. Byl to den blbec.<br>
+Večer jsme koukli na projektoru na Přátele. Verunka si dělala srandu z toho, že projektor víc nastavuju, než že se na něj dívám. Tak jsem nám promítl kalibrační obrázek.
+
+<a href="../images/2025_february/27_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/27_1.jpg"></a>
+
+### 28.2. Start generace Z
+
+Poslední den v týdnu, kdy jsem se štval s testy antény, kterou jsem přizpůsobil a rozhodl se do ní nesahat, ale vyladit firmware. Malé Q na pozici 000 způsobovalo over a undershooty. Aplikační poznámka na ANS specificky říkala, že je to určené k EMVCo shapingu. Ale většinu dne mi to moc nepomáhalo. Až když jsem začal kombinovat 2 přístupy, AWS a přepínání regulátorů podle vzoru, dospěl jsem k nějakým výsledkům. A někdy po páté jsem modulaci B dokázal pokapat tak, že testy prošly nahoře i dole. HLZ i NLZ.<br>
+Měl jsem radost. Ale neměl jsem Čas. Franz, kterému jsem přivezl duše a lanko musel zůstat neopravený. V sedm začínal maturitní ples čtvrťáků z Verunčiny školy.<br>
+Vlak domů. Silva Nortica nacpaná k prasknutí. Oblek na sebe a společně s Verunkou zpátky na hlavák a kolem magistrály d. klubu Tresor. Chvíli jsme tam museli stát ve frontě, ale kolem sedmé jsme se posadili ke stolu určenému učitelům a jejich doprovodu. Tresor byl menší než milénko. Jen jedno patro. Velikost nebyla problém. Absence jakékoliv zvukové úpravy už docela byla.<br>
+Studenti postupně přicházeli a učitelé taky. Dan, učitel ještě mladší než Verunka. Vladka, němčinářka a tělocvikářka, co mi připomínala Štěpánku. Češtinářka co vypadala jako Kalkusová a pak ještě pár dalších, jejichž jména si nepamatuju.A Tomáš Strejček . Třídní čtvrťáků. Verunky spolu kapelník.<br>
+Gen Z vyrůstá jinak než my. Individuálněji. A vztahy s učiteli mi přišly bližší než u nás. Ale maturák možná zkresluje.<br>
+Moderovala holka, která vypadala úplně jako kluk. Vlastně jako pepa, dokud si nenechal narůst dlouhé vlasy a vousy. Měli vlastní kapelu, kde Rapoval a zpíval s autotunem jeden čtvrťák. Bylo to oboje profesionální a strašný. Ale lidi to bavilo a to bylo hlavní. Akorát ploužit se moc nedalo. D) hrál samý rychlý popový fláky. O půlnoci bylo překvapení. Vystoupení, ve kterém se studenti převlékali za rapery a zpěvačky ze superbowlu. Bylo to dobrý.
+
+<a href="../images/2025_february/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/28_1.jpg"></a>
+
+Učitelé dostali květiny, tanec a píseň. Kvůli blbý akustice ale bylo houby rozumět.<br>
+Dom jsme jeli nočkou z ípáku. Měl jsem hlad. Kromě snídaně a trochy noků jsem nic nejedl. Doma jsem zblajzl nějaký těstoviny bez omáčky a šli jsme spát.
+
+[>> Březen](2025_march.md)
