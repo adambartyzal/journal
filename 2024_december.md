@@ -2,7 +2,7 @@
 
 - [1.12 Kafe a umění](#112-kafe-a-umění)
 - [2.12.](#212)
-- [3.12.](#312)
+- [3.12. Lidi jsou hodní](#312-lidi-jsou-hodní)
 - [4.12.](#412)
 - [5.12. Tradice](#512-tradice)
 - [6.12. Narozeniny, plánování a sekera](#612-narozeniny-plánování-a-sekera)
@@ -54,9 +54,17 @@ Byla to dobrá neděle.
 
 ### 2.12.
 
-### 3.12.
+### 3.12. Lidi jsou hodní
+
+Někteří. Někdy. Ale tohohle rána mě jich překvapilo hned několik.<br>
+Zaspal jsem. Na fyzio Jsem dorazil se zpožděním a promočený neb venku pršelo. Dostal jsem nové úkoly. Vytáčení a provlékání okem.<br>
+V Kauflandu jsem si dal kafe a pečivo. Když jsem to v lobby pojídal, dva cikáni mi moc mile popřáli dobrou chuť. Popřál jsem jim hezký den. Bylo to fakt wily!<br>
+V dešti mě auta nepředjížděla blízko, ale Čekala na vhodnou chvíli a objížděla mě obloukem. Ne Kolbence mě dokonce pustila tramvaj. Opravdu na mě ta blikala.
 
 <a href="../images/2024_december/3_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/3_1.jpg"></a>
+
+S Ondrou a poté s výrobou jsme řešili diody do kol do trnavy. Udělal jsem jim přípravek.<br>
+Zbytek dne jsem se trápil s laděním antény a aby mi z toho úplně nehráblo, šel jsem si zaplavat.
 
 ### 4.12.
 
@@ -69,7 +77,7 @@ rychlovka<br>
 tramvají<br>
 na karlák<br>
 pečivo<br>
-přes svokárnu do kostela<br>
+přes cvokárnu do kostela<br>
 vzadu<br>
 zima<br>
 sbor na dvou stranách<br>
