@@ -2,13 +2,29 @@
 
 ## [Březen](2025.md) 
 
-- [1.2. Spát a jíst](#12-spát-a-jíst)
-- [2.2.](#22)
+- [1.3. Spát a jíst](#13-spát-a-jíst)
+- [2.3. Psát, psát a psát](#23-psát-psát-a-psát)
+- [3.3 Pracovat, jezdit a plavat](#33-pracovat-jezdit-a-plavat)
 
-### 1.2. Spát a jíst
+### 1.3. Spát a jíst
 
-[>> Duben](2025_april.md)
+Snad první víkend v roce na který jsem nemel naplánované vůbec nic . Kromě dopsání deníku. Ten trpěl. V posteli jsme byli snad do jedenácti. Verunka potom jela na seminář na ipad a já se otočil v Tescu. Chtel jsem delat guláš. A tempeh s bramborovým knedlíkem a zelím na pánvi. To druhý jsem udělal k obědu.
 
-### 2.2. 
+Verunka se v tom rýpala, ale prý jí to chutnalo, akorát byla myšlenkami jinde. Nějaká paní jí nabídla práci na bilinivním gymnáziu.
+
+Po obědě na mě přišla únava. Lehl jsem si, Verunka mi zatáhla závěsy a já usnul asi na 4 hodiny .
+
+Večer jsem uvařil guláš. Byl tekutější než jsem chtěl . trochu bez chuti. Ale vlastně mi chutnal. Povečeřeli jsme, pustili si 2 díly Přátel a šli spát.
+
+### 2.3. Psát, psát a psát
+
+46 dní mi chybělo dopsat. Včetně takových bomb jako byl silvestr, celá itálie, dva dny na běžkách a pak spousta dalších. Vyhradil jsem si na to víkend a první polovina prospal. Nebylo to možný. Ale kus toho dluhu ukousnout šlo
+
+Ráno jsme začali jógou. Po ranních postelových aktivitách tedy. A pak jsem psal. A ohřál guláš. A pak zas psal. A pak udělal mrkvovou pomazánku. A pak psal.
+
+Veru naproti mě u stolu dělala přípravy. Plánovala na den sv. Patrika Irský den. Jeden z plánů bylo promítat film. Kneecap. Večer jsme se na něj podívali. Bylo to jazykově náročný. Gaelština je divná. Herci nebyli herci, nýbrž skuteční členové Kneecap. Bylo to zvláštně dobrý.
+
+### 3.3 Pracovat, jezdit a plavat
 
 46 dní mi chybělo dopsat.
+[>> Duben](2025_april.md)

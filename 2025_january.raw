@@ -14,14 +14,14 @@
 - [10.1. Nepovedený šroubkový reparát](#101-nepovedený-šroubkový-reparát)
 - [11.1. Impromptu deskovky](#111-impromptu-deskovky)
 - [12.1. Zajištění rodu pojištěné smlouvou](#121-zajištění-rodu-pojištěné-smlouvou)
-- [13.1.](#131)
-- [14.1.](#141)
+- [13.1. 6×6 nestačí?](#131-66-nestačí)
+- [14.1. Symetricky taky ne](#141-symetricky-taky-ne)
 - [15.1. Dáme to!](#151-dáme-to)
 - [16.1. Pohled termovizí](#161-pohled-termovizí)
 - [17.1. Nahoru dolu](#171-nahoru-dolu)
 - [18.1. Hromada jídla a unavený genitál](#181-hromada-jídla-a-unavený-genitál)
 - [19.1. Bez randění](#191-bez-randění)
-- [20.1.](#201)
+- [20. 1. Přeinženýrován ženou](#20-1-přeinženýrován-ženou)
 - [21.1. Půjčit běžky](#211-půjčit-běžky)
 - [22.1. Nabírá to obrysy](#221-nabírá-to-obrysy)
 - [23.1. Roubenka u potoka](#231-roubenka-u-potoka)
@@ -204,15 +204,17 @@ Já jsem šel vyčistit pračku. Octem jsem vydrhl nádobku na prášek a komoru
 Večer se zastavila paní Kotrbata! Podepsali jsme smlouvu a prohlídla si jak bydlíme. Optala se taky, kdy už Verunka nebude slečna a informovala nás, že její dcera se brala v devět a dvacet, což bylo pozdě, protože kdysi to bylo pět a dvacet.\
 Večer jsem psal deník. Zvládl jsem posledních pár dní, ale stěhování chybělo a prosinec vypadal jak ementál. Obzvlášť ta Itálie mě štvala. Bylo třebanapsat si TODO a dodržet ho.
 
-### 13.1.
+### 13.1. 6×6 nestačí?
 
-### 14.1.
+Vstávání jsem opet nezvládl. Verunka vstávala v 5:40. Já V 8:27. Přímej vlak byl v Čadu a zbývala městská. Záda mě bolela a tak jsem si na jízdu naplnit termofor.\
+Měl jsem nakoupit součástky abych mohl přizpůsobovat desky, co měly přijít v průběhu týdne. Měl jsem něco rozmyšlenýho z předchozího týdne, ale ne dost. A desky přišly asi jen hodinu po mně a moje idee mi rozbouraly.\
+Celkově mě to moc netěšilo. První jsem se totiž pustil do desky hla00h. Největší z prototypů. 6×6. Skoro jako planeta. Přizpůsobování vzdoroval.. Mělo být na 30 ohmech. Bylo na krásně reálných 50 . Dostrkal jsem to tam menšímm Cs a větším Cp a objevil, že výkonově tam nejsme. Nejoptimističtější varianta a nic.\
+Ale ladil jsem nesymetricky. Zkusil jsem symetrické ladění. Taky to trvalo. A bylo to lepší. Ale pořád málo.\
+Plácal jsem se s tím až do šesti, ale nic dobrýho z toho nepadalo. Bylo to víc než mírně depresivní.
 
-Verunka se tentokrát pustila do kuchyně. V té zbývalo asi nejvíc neroztřízených věcí a poličky v kuchyňské lince za ty roky nabraly trochu prachu a ztratily organizaci.\
-Chtěl bych říct, že jsme se do toho pustili ráno, ale ranní jógu jsme dělali ve 12 hodin a brunch končil někdy po jedné. Verunka se do toho fakt opřela.\
-Já jsem šel vyčistit pračku. Octem jsem vydrhl nádobku na prášek a komoru na ní. Po asi půl hodině nadávání jsem přišel na to, jak spustit režim čistění bubnu a nakonec jsem vyčistil i filtr. Tentokrát v něm nebyly 2 eura ale jen jeden cent.\
-Večer se zastavila paní Kotrbata! Podepsali jsme smlouvu a prohlídla si jak bydlíme. Optala se taky, kdy už Verunka nebude slečna a informovala nás, že její dcera se brala v devět a dvacet, což bylo pozdě, protože kdysi to bylo pět a dvacet.\
-Večer jsem psal deník. Zvládl jsem posledních pár dní, ale stěhování chybělo a prosinec vypadal jak ementál. Obzvlášť ta Itálie mě štvala. Bylo třeba napsat si TODO a dodržet ho.
+### 14.1. Symetricky taky ne
+
+Další den, kdy jsem nedošel k žádnému prozření. Možná jen k tomu, že symetrické ladění opravdu není dobré.
 
 ### 15.1. Dáme to!
 
@@ -261,12 +263,19 @@ Bylo nám spolu moc dobře. Tenhle den. Ty předchozí. A věřil jsem, že i ty
 
 ### 19.1. Bez randění
 
-Další den, který utekl jak voda. Do bazénu jsme nešli. Bruslit taky ne. Projít jsme se nesli. A vůbec. Prostě jsme jen byli doma a uklízeli kuchyň.\
-A jo, Zase jsme se posunuli. Verunka udělala přípravy. Já spousta lekcí v Duolingu. Arnošt vysál. A byli jsme docela dobře připraven." na další týden. Ale víkend utekl a já měl pocit, že tenhle víkend zmizí v propadlišti dějin.\
-Aspoň že datum kolaudačky jsme stanovili. A vymyslel., kde budou police. A ručníky vyprali...\
+Další den, který utekl jak voda. Do bazénu jsme nešli. Bruslit taky ne. Projít jsme se nešli. A vůbec. Prostě jsme jen byli doma a uklízeli kuchyň.\
+A jo, zase jsme se posunuli. Verunka udělala přípravy. Já spousta lekcí v Duolingu. Arnošt vysál. A byli jsme docela dobře připravení na další týden. Ale víkend utekl a já měl pocit, že tenhle víkend zmizí v propadlišti dějin.\
+Aspoň že datum kolaudačky jsme stanovili. A vymysleli, kde budou police. A ručníky vyprali...\
 Těšil jsem se na běžky o příštím víkendu.
 
-### 20.1.
+### 20. 1. Přeinženýrován ženou
+
+Ráno jsem slintačkou přidělal koště a lopatku na háček na dvířka pod dřezem. Přišlo mi to dobrý. Ale nebylo. Když se lopatka opřela o koš, pákovým mechanismem tahala za lepení a to vydrželo sotva den.
+
+![image](20_1.jpg)
+
+Verunka mé inženýrské schopnosti trumfla. Vzala hřebík, kladivo a nabouchala to do dřevotřísky na straně skříně.\
+Jinak to byl rutinní den. Tam i zpět na kole, třízení nových součástek. Měření cívek. Tma moc brzo. Už aby se to prodlužování dní projevilo.
 
 ### 21.1. Půjčit běžky
 
@@ -401,19 +410,19 @@ V práci jsem byl jen s Fílou a Omarem, protože ostatní byli nemocní nebo v 
 
 ### 31.1. V práci úplně sám
 
-Vstávat trvalo dlouho. Verunka měla home office a na Kolbence nebyl vůbec nikdo a tak nebyl spěch. Cesta na kole tak byla zalitá sluncem. Dobře že tak. Na oběd jsem zůstával uvnitř. Mel jsem Zapečenou zeleninu, kterou udělala Vern. Řepa s mrkví a bramborem. Extrémně dobrý./
+Vstávat trvalo dlouho. Verunka měla home office a na Kolbence nebyl vůbec nikdo a tak nebyl spěch. Cesta na kole tak byla zalitá sluncem. Dobře že tak. Na oběd jsem zůstával uvnitř. Mel jsem Zapečenou zeleninu, kterou udělala Vern. Řepa s mrkví a bramborem. Extrémně dobrý.\
 Dotiskly se první dvě konzoly na police. Byly dost gumový. Ale pevný. Měl jsem víru a dat tisknout další 2.
 
 ![image](31_1.jpg)
 
-Měl jsem nápad. Test PICC 1 je na 16.1 MHz. Co kdybych to naladil tak aby na šestnácti byla taky rezonance. Chvíli mi to trvalo. Uklidil jsem na stole, udělal pořádek v HF kabelech, dal na ně sucháče a vytiskl si držáček na karty./
-A pak zažíval úspěch. Test na napětí prošel na všech pozicích. Se zátěží byly v modulacích overshooty. Ale firmwarem jsem je byl s to eliminovat. V A i v B. Ale vysoké Q firmwarem nevyřešíš./
+Měl jsem nápad. Test PICC 1 je na 16.1 MHz. Co kdybych to naladil tak aby na šestnácti byla taky rezonance. Chvíli mi to trvalo. Uklidil jsem na stole, udělal pořádek v HF kabelech, dal na ně sucháče a vytiskl si držáček na karty.\
+A pak zažíval úspěch. Test na napětí prošel na všech pozicích. Se zátěží byly v modulacích overshooty. Ale firmwarem jsem je byl s to eliminovat. V A i v B. Ale vysoké Q firmwarem nevyřešíš.\
 Nicméně to byl pokrok!
 
 ![image](31_2.jpg)
 
-Doma jsem vzal přímočarku, konzoly a dospěl k názoru že přes Vinohrady to s takovým nákladem nepůjde. Vlak tedy./
-Verunka zrovna domývala nádobí, když jsem přijel. Večeři nechala na mně. Byly těstoviny se sójovými nudličkami a sugem. Překvapivě to bylo fakt dobrý./
+Doma jsem vzal přímočarku, konzoly a dospěl k názoru že přes Vinohrady to s takovým nákladem nepůjde. Vlak tedy.\
+Verunka zrovna domývala nádobí, když jsem přijel. Večeři nechala na mně. Byly těstoviny se sójovými nudličkami a sugem. Překvapivě to bylo fakt dobrý.\
 Vern pustila film SŽDC, kde hrála její sestra. Bylo to ok. Kluk zařval na vlaku. V dalších příbězích už ale nehrála a tak jsme si vytáhli párové kartičky. Bylo to fajn, ale únava nás zahnala do postele brzy.
 
 [>> Únor](2025_february.md)
