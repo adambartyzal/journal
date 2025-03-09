@@ -1,5 +1,5 @@
 [<< Listopad](2024_november.md)
-
+ sa
 - [1.12 Kafe a umění](#112-kafe-a-umění)
 - [2.12.](#212)
 - [3.12. Lidi jsou hodní](#312-lidi-jsou-hodní)
@@ -23,9 +23,9 @@
 - [21.12. 20 dní zvládnu](#2112-20-dní-zvládnu)
 - [22.12.](#2212)
 - [23.12. Ztracený](#2312-ztracený)
-- [24.12.](#2412)
 - [24.12. Limoncello <br>& Panettone](#2412-limoncello--panettone)
 - [25.12.](#2512)
+- [25-12. Jen na druhé straně nádraží](#25-12-jen-na-druhé-straně-nádraží)
 - [26.12.](#2612)
 - [27.12.](#2712)
 - [28.12. Finále](#2812-finále)
@@ -254,8 +254,6 @@ A tak jsem jedl guláš a koukal na to jak muž v černém přebírá vládu nad
 Zvládl jsem se i oholit. A zalít své i Sářiny květiny. Sbalit se a dojet k Verunce. Jinak to byl vskutku ztracený den.<br>
 Verunka byla z rýmy dost hotová. Uložila mě na gauč a sla spát. Já ještě vyplnil pár lekcí v duolingu , ale před desátou už jsem se snažil usnout.
 
-### 24.12.
-
 ### 24.12. Limoncello & Panettone
 
 Moc jsem toho na gauči nenaspal. Párkrát mi vzbudila Verunka, párkrát fakt že zítra letíte.<br>
@@ -295,10 +293,33 @@ Nahráli jsme na diktafon dění dne a usnuli v objetí.
 
 ### 25.12.
 
+### 25-12. Jen na druhé straně nádraží
+
+Tentokrát jsme neustávali v 5:30. Spíš po devátý. A po společný sprše jsme se ještě vrátili do postele. Balo třeba vyřešit co dál.<br>
+Verona.. A cestou zastávka v Padově. Před jedenáctou jsme poklidili, přesunuli se do kuchyňky a posnídali Panettone. Byla to sladší vánočka. Dali jsme si k tomu čaj a turka.<br>
+Nádraží bylo hned za hotelem. Verunka na přepážce Vykomunikovala , že když si koupíme standardní lístek, můžeme na dvě hodiny vystoupit a pak pokračovat dalším vlakem.<br>
+Naše zastávka byla Padova. Věděl jsem o ní kulový, ale mělo tam být hezký náměstí.<br>
+Za okny vlaku byla nehezká rovina a za ní moc hezké alpy. Ve vlaku jsem měl co chvíli zvlaštní deja vu. Byl to ten samej typ, co nás s Miskou vezl z Barcelony do . Padova naštěstí přišla překvapivě rychle. Na mapě jsme zjistili, že do centra se dostaneme tak, že půjdem pořád rovně po ulici s tramvají.<br>
+Verunce se ale udělalo blbě. Museli jsme se zastavit v parčíku se stínem. Šlo na ní PMS a přišlo tvrdě. Já si chvíli psal, chvíli jedl panetonne, ale převážněJsem řešil, kdo mi z revolutky ukradl 12 a 13€ a jak. Hlavně to jak. Ale vyřešil jsem kulový. Na to abych mohl platit pres Apple Pay jsem potřeboval face id a tomu jsem věřil. Blokovat kartu mi nedávalo smysl.<br>
+Po hodině se Verunka cítila dost ready na cestu na náměstí. Byl to ješte kus cesty. Nikde ani noha, všechno zavřeny! Den po štědrým dnu asi nikdo nikam nechvátá. Náměstí ale bylo pěkný. U kašny uprostřed jsme si dali sváču , pak obešli náměstí a vydali se trochu jinou cestou zpátky. Kolem prázdného tržisté, přes další prázdné náměstí a pak kolem našeho parčíku zpátky.
+
 <a href="../images/2024_december/25_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_1.jpg"></a>
+
+Do Verony to trvalo dýl. Při větším zkoumání mapy jsem objevil, že sice bydlíme jen kousek za nádražím, ale nádraží je větší než celé centrum Verony. Rozhodli jsme se jít napřed do centra i s věcmi.<br>
+Prostor před nádražím byl divnej. Vypadalo to tam jak ve scéně z 28 dní poté. Tu a tam černej podivín. Armádní džíp a ticho. Až asi o 3 bloky dál jsem začal mít pocit, že jsme tam, kde jsme chtěli být.<br>
+Po dalších dvou blocích jsme najednou byli aKolosea. Žádný atrapy. Kolosea plných rozměrů jako v Římě. A lidí bylo najednou spousta. Včetně pána jenž dav obohacoval o písmo svaté svým hlučným hlasem. Jediný, kdo ho poslouchal, byla Verunka. Ne kvůli písmu , nýbrž kvůli Italštině.
+
 <a href="../images/2024_december/25_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_2.jpg"></a>
+
+Mapa slibovala výhled, ale Verunky pohled kudlu v zádech. Nebo bříšku. Težko říct. Její bříško asi opravdu bolelo, jako by ji někdo vraždil. Ale vylezla se mnou nahoru pod hrad a výhled tam byl. Na parádní západ slunka za Veronou. A pítko. Voda trochu pomohla. A spustila hlad.
+
 <a href="../images/2024_december/25_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_3.jpg"></a>
 
+Bufik pod schody sice vypadal sympaticky, aleInternet se shodoval na tom , že ohřívají v mikrovlnce ty nejhorší předdělaný jídla ze supermarketu. Další restaurace, která působila legit byla zavřená. Nakonec jsme měli pizzu a kolosea. Margarita byla vlastně docela v poho. Akorat za servis si řeklo asi 4€.<br>
+Během toho, kdy Veru jedla jsem objevil jak daleko vlastně naše ubytování je. Hodinu pěšky. Kolem kolejí a velké silnice. MHD nejezdila. Čtvrť byla plná individuí. Fakt jsem to úplně nezvládl.<br>
+Verunka a vymyslela krizový plán. Kdyby nás někdo šel přepadnout, vytáhne láhev limoncella z boční kapsy mého batohu a přetáhne ho s ní přes hlavu.<br>
+Bála se asi míň než já. Je to holka z Ostravy. Ani výtah do třináctého patra starého panelového domu jí nevyděsil. Ani byt s velkými prázdnými chodbami a poblikávajícím světlem. Ani koupelna ve které voda spíš kapala než tekla.<br>
+Pokoj byl v pohodě. Po sprše jsme se k sobě přitulili a usnuli.
 
 ### 26.12.
 
