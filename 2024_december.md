@@ -18,10 +18,10 @@
 - [16.12.](#1612)
 - [17.12. Sebranka](#1712-sebranka)
 - [18.12. Dvacet pět bazických bodů](#1812-dvacet-pět-bazických-bodů)
-- [19.12. Tvrdá lekce](#1912-tvrdá-lekce)
+- [19. 12. Tvrdá lekce](#19-12-tvrdá-lekce)
 - [20.12. Smiťák](#2012-smiťák)
 - [21.12. 20 dní zvládnu](#2112-20-dní-zvládnu)
-- [22.12.](#2212)
+- [22. 12. Sinatra](#22-12-sinatra)
 - [23.12. Ztracený](#2312-ztracený)
 - [24.12. Limoncello <br>& Panettone](#2412-limoncello--panettone)
 - [25.12. Jen na druhé straně nádraží](#2512-jen-na-druhé-straně-nádraží)
@@ -87,16 +87,15 @@ guláš<br>
 
 ### 6.12. Narozeniny, plánování a sekera
 
-A i když jsem jí popřál, neodepsala mi. Kdo ví, třeba je v Austrálii. Nebo Laponsku. Nebo Améru. Nebo mrtvá.<br>
-Nevěděl jsem o ní nic a pracovala na tom, aby to tak zůstalo.<br>
+Extrémně se mi nechtělo vstávat. Venku pršelo a Franz byl Ve Vysočanech, takže mokrá prdel na cestě mi nehrozila, ale nedostatek déčka mě dobíhal. Nebo to byl fakt, že na Russela 200 byla ztráta čtyřiceti tisíc, na DAxu deseti a já nevěděl co s tím. Nebo to bylo tím, že v ladění antén jsem taky nepostupoval moc rychle. Nebo to bylo tím, že Mišce bylo 30. Přemýšlel jsem zda jí napsat. Nakonec jsem jí popřál.<br>
+A i když jsem jí popřál, neodepsala mi. Kdo ví, třeba je v Austrálii. Nebo Laponsku. Nebo Améru. Nebo mrtvá. Nevěděl jsem o ní nic a pracovala na tom, aby to tak zůstalo.<br>
 Škoda.<br>
-I přesto, že jsem chtěl být v práci dřív, vyrazil jsem docela pozdě. Potkal jsem tak ale v metru Áďu a to mi zlepšilo den.<br>
-V práci jsem se věnoval měření GSM antén. Reálně to nevypadalo moc dobře. Jenže i přes nedostatečný Return Loss to vlastně vypadalo mnohem líp než ve freebiku. Pokud datasheet a měření alespoň trochu reflektují realitu, je anténa v našem elektrokole úplnej průser. A i přes to nějak funguje.<br>
+I přesto, že jsem chtěl být v práci dřív, vyrazil jsem docela pozdě. Potkal jsem tak ale v metru Áďu a to mi zlepšilo den. Na rozdíl ode mě už stihla plavat s kamarádkou. V práci jsem se věnoval měření GSM antén. Reálně to nevypadalo moc dobře. Jenže i přes nedostatečný Return Loss to vlastně vypadalo mnohem líp než ve freebiku. Pokud datasheet a měření alespoň trochu reflektují realitu, je anténa v našem elektrokole úplnej průser. A i přes to nějak funguje.<br>
 A horseshoe lock vypadá líp. Obzvlášť HLA00b. Anténa s dvěma ušima měla potenciál. Rozhodl jsem se jí osadit celou a v následujícím týdnu na ní ladit NFC.<br>
 Booking mi cinknul, že do soboty platí nějaký cashback. Po vypnutí pracovního togglu jsem ještě zůstal v kanclu a zazezervoval spaní v Benátkách.<br>
 Až nekdy v sedm jsem dojel na kole dom.<br>
-Celou dobu ve vztahu s Verunkou mě pronásleduje myšlenka, že v tomhle vztahu jsem já to, co byla Míša v tom našem. Ale nějak mi docvaklo, že na tom není nic špatnýho. Ona byla ta zodpovědnější z nás dvou. Ona naplánovala výlety. A to že jsem tentokrát koupil letenky já a zarezervoval ubytko, bylo vlastně správně. Nemusí to tak být vždycky. Ale cítil jsem se fajn, když jsem to zvládl a Verunka mi napsala, že mi moc děkuje. Jednoho dne se naučím být dobrý přítel. Opravdu jí chci být dobrý přítel.<br>
-Kromě nadcházejícího výletu jsem ještě potřeboval udělat jedno rozhodnutí. Russel 2000 pořád padal. Udělal sekeru za 38727.72 Kč. Bylo mi jasný, že když ten obchod uzavřu, půjde okamžitě nahoru. Ale když to neudlám, prodělám kalhoty. Se slzou v oku jsem to zavřel a rozhodl jsem se udělat pár krátkých obchodů. Na mém oblíbeném USTECHCASH. Ztrátu jsem srazil na 20317.71. *Sometimes you win. Sometimes you loose.* Celkově jsem byl v černých číslech dost. A přiznat si, že něco nevyjde je asi důležitý. Kdybych to udělal o den dřív, možná bych dokonce skončil na nule. Ale možná bych se taky nic nenaučil.<br>
+Celou dobu ve vztahu s Verunkou mě pronásledovala myšlenka, že v tomhle vztahu jsem já to, co byla Míša v tom našem. Ale nějak mi docvaklo, že na tom není nic špatnýho. Ona byla ta zodpovědnější z nás dvou. Ona naplánovala výlety. A to že jsem tentokrát koupil letenky já a zarezervoval ubytko, bylo vlastně správně. Nemusí to tak být vždycky. Ale cítil jsem se fajn, když jsem to zvládl a Verunka mi napsala, že mi moc děkuje. Jednoho dne se naučím být dobrý přítel. Opravdu jí chci být dobrý přítel.<br>
+Kromě nadcházejícího výletu jsem ještě potřeboval udělat jedno rozhodnutí. Russel 2000 pořád padal. Udělal sekeru za 38727.72 Kč. Bylo mi jasný, že když ten obchod uzavřu, půjde okamžitě nahoru. Ale když to neudělám, prodělám kalhoty. Se slzou v oku jsem to zavřel a rozhodl jsem se udělat pár krátkých obchodů. Na mém oblíbeném USTECHCASH. Ztrátu jsem srazil na 20317.71. *Sometimes you win. Sometimes you loose.* Celkově jsem byl v černých číslech dost. A přiznat si, že něco nevyjde je asi důležitý. Kdybych to udělal o den dřív, možná bych dokonce skončil na nule. Ale možná bych se taky nic nenaučil.<br>
 
 ### 7.12. Návrat k běhu a badmintonu
 
@@ -216,30 +215,38 @@ Během dne jsem došel díky Vláďovi k několika prozření. Uši GSM antény 
 Pan Ptak mi volal , protože večer × 8 měl FEDSnižovat sazby. Byl optimistický. Měl jsem otevřen,/ Dow Johnson ve ztrátě skoro 100 000, ale prý byla na stole možnost, že sazby klesnou o půl procenta. To by bylo fajn.<br>
 Jenže se to nestalo. Fed ohlásil 25 Sb. A na příští rok pouze dvě další úpravy. To se trhu moc nelíbilo. Skoro okamžitě moje ztráta poskočila na dvojnásobek. A st.to dál. Vystartoval jsem pár desítek tisíc k dobru, ale když jsem byl v minusu půl milionu, nedostatek marže mi automaticky zavřel pozici se ztrátou 133 tisíc. To zabolelo. Navíc jsem neměl marži na případný dokup při cestě nahoru. Průser.<br>
 Sice jsem si řekl, že těch 700 tisíc je odepsaných.Ale vidět je ztrácet mi přinášelo značnou míru stresu.<br>
-Až dole mi došlo, že kdybych během pádu skartoval stejnou měrou, ochránil bych se proti voletilitě. Hedgeoval bych. To jsem posral. Lekce příliš pozdě. Příliš draho. Zkurvenej don jones.<br>
+Až dole mi došlo, že kdybych během pádu shortoval stejnou měrou, ochránil bych se proti volatilitě. Hedgeoval bych. To jsem posral. Lekce příliš pozdě. Příliš draho. Zkurvenej Dow jones.<br>
 Přemýšlel jsem jestli s tím skončit. Propad ale věstí nárůst. Vystoupím až se dostanu na nulu. Pomalý investování dává větší smysl. A míň stresuje.
 
-### 19.12. Tvrdá lekce
+### 19. 12. Tvrdá lekce
 
-
+V podstatě jsem nespal. Bylo to jako by mi někdo stál na hrudi. K tomu mi v hlavě hrála kde jaká muzika a před očima běhaly grafy.<br>
+Až v ranní ledový sprše jsem se začal uklidňovat.<br>
+Je to hra. Vstup do ní mě stál 700 tisíc. Můžu přijít o všechno. Ale víc do toho nedám. Ty peníze jsou ztracený tak jako tak.<br>
+Abych to opravdu pochopil, potřeboval jsem tu lekci. Jako jsem potřeboval dostat kopačky od Mišky.
 
 ### 20.12. Smiťák
 
-dosah odmocnna ze dvou menší než velikost smyčky<br>
-osmička<br>
-fotka<br>
-přizúůspování<br>
-loučení před vánoci<br>
-přizpůsobení teoreticky<br>
-na bazén kašlu<br>
-smiťák doma<br>
+Dobré ráno.<br>
+Žádný telefon v posteli . Kafe z moka konvičky. Salát s balsamikem. 20 minut jógy a Adriene. Chleba s cibulovou pomazánkou a senchu.<br>
+Trh šel dál do hajzlu, ale řekl jsem si že dneska mě to nebude stresovat. Dneska se budu soustředit na psychickou pohodu.
+Byl jsem zvědavý na objev z večera. Pokud telefony opravdu používají osmičkovou anténu , není to náhodou cesta i pro nás. Rozhodl jsem se to prakticky ověřit.<br>
+Na láhev Bernarda jsem namotal dvě cetky a jednu zosmil. Vypadalo to zajímavě. A bylo to úplně k ničemu. V nulový pozici se pole vyzkratovalo. Geometricky to dávalo smysl.<br>
+Bylo třeba řešit to víc teoreticky. Navrhnout to teoreticky ve smíťáku a až potom stavět. Pustil jsem se do toho a pohltilo mě to. Lidi si přáli hezký vahoce a já jim odpovídal, ale v hlavě jsem vymýšlel jen to líp odsimulovat. Koukal jsem do toho i později doma po tom, co jsem vynechal bazén.
 
 ### 21.12. 20 dní zvládnu
 
 Chybělo mi sepsat 20 dní.
-do dvanácti psal, pral, myl vodní kámen a koukal na poslední řadu lost
+Do dvanácti psal, pral, myl vodní kámen a koukal na poslední řadu lost.
 
-### 22.12.
+> P.S. O tři měsíce později, chybělo těch dvacet dní vesele dál. Ale pomalu jsem se tím prokousával.
+
+### 22. 12. Sinatra
+
+Spali jsme dlouho. Asi na moc tvrdě, protože si vybavuju několik probuzení. Váleli jsme se až do deseti. Ne Verunka šlo Vertigo.<br>
+Doporučil jsem horkou koupel. A další zázvorovo-kurkumové smoothie. Během koupele přijel Vojta pro akordeon. Verunka vyskočila z vany hodila na sebe bundu a seběhla s věcmi dolů.<br>
+Po snídani jsem vyrazil na vlak. Nakonec přes Libeň. V Lidla jsem koupil pomeranče, zázvor a vincentku a naskočil do rychlíku směr Kolín.<br>
+S mámou jsme šli na Sinatru. Napřed jsem ji teda pomáhal s laptopem a koukali jsme na Rozzuna v přírodě. Sinatra na náměstí byl ok. Oslík tam podle mě trochu trpěl. Ale ne moc. Mohl si jít do ohrádky s domečkem. Dali jsme si svařák a vyfotili se u stromu. V šest mi ale jel vlak, a tak jsme se na námestí rozloučili a já vyběhl na nádraží.
 
 ### 23.12. Ztracený
 
@@ -320,16 +327,11 @@ Pokoj byl v pohodě. Po sprše jsme se k sobě přitulili a usnuli.
 
 ### 26.12. Koupačka
 
-Verona jsme sice prošli jen letmo, ale neměli jsme v plánu do centra se vracet. Verunka vymyslela lepší výlet. K Lago di Garda.
-
-Po východu slunka bylo okolí našeho mrakodrapu podstatně méně děsivé. I byt byl vlastně docela v poho. I spolubydlící. Akorát Verunce bylo blbě a tak si šla lehnout do doby než jel autobus.
-
-tulin naštěstí zabral a tak zvládla i bezhlavý úprk na zastávku autobusu. Protože když na autobus hodinu a půl čekáš doma, jasné že vyrazíš pozdě. Ale doběhli jsme ho a na nádraží dojeli včas. Dokonce jsme stihli koupit pečivo k snídani a pro mě kafe.
-
-Do vlaku na poslední chvíli nastoupila paní s dcerou. Mluvily španělsky a byly totálně zmateny! Verunka se jich ujala a začala jim vysvětlovat, jak si mají validovat lístek a zda sedí ve správném vlaku. Vzaly Veru jako spásu jejich cesty a od té doby byly náš ocásek na další polovinu dne.
-
-Po necelé čtvrt hodině jízdy jsme tady vystoupili V malém městečku jménem Desenzado, sešli z kopce k vodě, koupili ve stroji lístek na lod'9 vyjeli na poloostrov s hradem.
-
+Verona jsme sice prošli jen letmo, ale neměli jsme v plánu do centra se vracet. Verunka vymyslela lepší výlet. K Lago di Garda.<br>
+Po východu slunka bylo okolí našeho mrakodrapu podstatně méně děsivé. I byt byl vlastně docela v poho. I spolubydlící. Akorát Verunce bylo blbě a tak si šla lehnout do doby než jel autobus.<br>
+Aulin naštěstí zabral a tak zvládla i bezhlavý úprk na zastávku autobusu. Protože když na autobus hodinu a půl čekáš doma, jasné že vyrazíš pozdě. Ale doběhli jsme ho a na nádraží dojeli včas. Dokonce jsme stihli koupit pečivo k snídani a pro mě kafe.<br>
+Do vlaku na poslední chvíli nastoupila paní s dcerou. Mluvily španělsky a byly totálně zmateny! Verunka se jich ujala a začala jim vysvětlovat, jak si mají validovat lístek a zda sedí ve správném vlaku. Vzaly Veru jako spásu jejich cesty a od té doby byly náš ocásek na další polovinu dne.<br>
+Po necelé čtvrt hodině jízdy jsme tady vystoupili V malém městečku jménem Desenzado, sešli z kopce k vodě, koupili ve stroji lístek na lod'9 vyjeli na poloostrov s hradem.<br>
 Bylo krásné. Fantasticky řekl bych. Cesta lodí mě ohromně bavila.
 
 <a href="../images/2024_december/26_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/26_2.jpg"></a>
@@ -338,23 +340,17 @@ Koukal jsem o lázních na poloostrově. Lidi se tam koupali. Taky jsem se chtě
 
 <a href="../images/2024_december/26_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/26_1.jpg"></a>
 
-Ještě asi hodinu jsme sedli na břehu jezera než přišel stín a hlad.
-
-Pěšky jsme vyrazili z poloostrova ven. Na úzké silnici proudila auta, po chodníku mrtě lidí. Na mapě jsem našel restauraci /bufet se zapečenými plackami. Měla otevřeno a nešlápli jsme vedle. Jak mazzarelová, tak veganská volba byla supr.
-
-Před plánovaným odjezdem autobusu jsme stihlidokonce nakoupit v penny. Na zastávku jsme pak museli trochu popoběhnout, naštěstí podél silnice, takže kdyby nám autobus přijížděl, viděli bychom ho.
-
-Neviděli jsme ho. Ani ten další. Autobusy prostě nejezdily. Šli jsme stopovat. Moderně, řehořem.
-
-Úspěšně. Vzal nás milý pár. Teda napřed nám zastavil. Ferari aby nám řidič ukázal, že se dovnitř nevejdeme. Ale pair po nem byl super. Ital, který pracoval několik let ve skotsku a ukrajinka mluvili italsky. Jeli do rodné vesnice (která byla docela velké místo před Veronou) a když jsme zkejsli v koloně, dohodli jsme, že nás vezmou tam a ukážou nám to tam.Verunka nadšeně konverzovala o životě ve skotsku, o panettonne a důvodech k práci v zahraničí a vracení se domů.
-
+Ještě asi hodinu jsme sedli na břehu jezera než přišel stín a hlad.<br>
+Pěšky jsme vyrazili z poloostrova ven. Na úzké silnici proudila auta, po chodníku mrtě lidí. Na mapě jsem našel restauraci /bufet se zapečenými plackami. Měla otevřeno a nešlápli jsme vedle. Jak mozzarelová, tak veganská volba byla supr.<br>
+Před plánovaným odjezdem autobusu jsme stihli dokonce nakoupit v penny. Na zastávku jsme pak museli trochu popoběhnout, naštěstí podél silnice, takže kdyby nám autobus přijížděl, viděli bychom ho.<br>
+Neviděli jsme ho. Ani ten další. Autobusy prostě nejezdily. Šli jsme stopovat. Moderně, řehořem.<br>
+Úspěšně. Vzal nás milý pár. Teda napřed nám zastavil. Ferari aby nám řidič ukázal, že se dovnitř nevejdeme. Ale pair po nem byl super. Ital, který pracoval několik let ve skotsku a ukrajinka mluvili italsky. Jeli do rodné vesnice (která byla docela velké místo před Veronou) a když jsme zkejsli v koloně, dohodli jsme, že nás vezmou tam a ukážou nám to tam.Verunka nadšeně konverzovala o životě ve skotsku, o panettonne a důvodech k práci v zahraničí a vracení se domů.<br>
 Villafranca di Verena zrovna slavila vánoce v plném proudu. Když nás vyhodili kousek od jejich domu, šli jsme se podívat do hradu a dát si svařák. na trh u kluziště.
 
 <a href="../images/2024_december/26_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/26_3.jpg"></a>
 
-Asi po hodině jsme vyrazili na vlak. Byla to jenchvilka. A MHD tentokrát jela a tak cesta na naše sídliště byla úplně v pohodě.
-
-K večeři jsme si uvařili torteliny a po jídle usnuli úplně vyřízení.
+Asi po hodině jsme vyrazili na vlak. Byla to jen chvilka. A MHD tentokrát jela a tak cesta na naše sídliště byla úplně v pohodě.<br>
+K večeři jsme si uvařili tortelliny a po jídle usnuli úplně vyřízení.
 
 ### 27.12.
 

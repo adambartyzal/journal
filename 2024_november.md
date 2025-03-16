@@ -18,8 +18,8 @@
 - [17.11. Duše , Svoboda a život](#1711-duše--svoboda-a-život)
 - [18.11. Displej displejuje](#1811-displej-displejuje)
 - [19.11. Paella](#1911-paella)
-- [20.11.](#2011)
-- [21.11. Fejk slunce](#2111-fejk-slunce)
+- [20. 11. 42 let](#20-11-42-let)
+- [21.11. Dýl než je zdrávo](#2111-dýl-než-je-zdrávo)
 - [22.11. Vlk z Walstreetu](#2211-vlk-z-walstreetu)
 - [23.11. Strečink](#2311-strečink)
 - [24.11. Procházka](#2411-procházka)
@@ -237,11 +237,20 @@ V práci skoro nikdo nebyl. Rozhodl jsem se zprovoznit VSAM. Dalo mi to zabrat v
 Verunka chtěla vařit paellu. Chtěl jsem být s ní a tak jsem na kole vyjel na Střížkov. Jindy než obvykle. Parkem a potom po nějaký kostkovaný silnici,kde bylo cítit JZD. Byla to zbytečná zajížďka.<br>
 S vařením jsem až tak moc nepoučil. Akorát jsem nakrájel zeleninu. Což je vlastně docela velká část partly. Dal Už se to všechno jen hodí na obří pánev (v našem případě do pětilitrového hrnce) a nechá udělat. Ne. ještě krevety je nutné spořit a mít správné koření. Většinu z toho udělala Veru. Navíc mi ještě nachystala chleba s patifu a zeleninou a ovocný salát k večeři. Paella totiž byla na španělskou akci ve škole.
 
-### 20.11.
+### 20. 11. 42 let
 
-### 21.11. Fejk slunce
+Verunka vstala přede mnou. Připravila snídani na kterou by cukrová fašistka byla extrémně hrdá. Salát jako předkrm, Granda s bílým jogurtem, mandlemi, konopným semínkem a burákovým máslem. Jirka vedle štrachal ale nakonec jsme se stejně vrhli do loučení po dospělu, protože nás čekal týden, behem kterého jsme se neměli vidět. Verunka odjížděla na LARP.<br>
+Proč se tenhle den jmenuje jak se jmenuje ale nevím.. neudělal jsem si poznámky.
+
+### 21.11. Dýl než je zdrávo
+
+Naplnil jsem termofor, přivázal si to na záda a vyrazil na kole. Chladná prosluněná rána mají něco do sebe. Vůbec jsem nelitoval, že jsem jel později, než jsem plánoval.<br>
+Vláďa jel taky na kole a taky si slunečno pochvaloval.<br>
+Na nabití smartbiku to ale nestačilo, musel jsem přírodě trochu pomoci.
 
 <a href="../images/2024_november/21_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/21_1.jpg"></a>
+
+Jinak jsem celý den v horseshoe locku rozcházel NFCM. Kromě oběda v jídelně se toho teda moc nestalo. Toggle jsem vypnul v osm večer, sedl na kdo, dojel dom a po jednom dílu LOST u kterého jsem uvařil čínu a dal jí do krabiček jsem šel spát.
 
 ### 22.11. Vlk z Walstreetu
 
@@ -249,7 +258,7 @@ Ráno jsem poslal druhou polovinu peněz na účet u Capital Markers. Zlato se p
 Tentokrát nebylo během jízdy slunečno. Vlastně začalo snažit, když jsem otevíral ve Vysočanech vrata. Během toho, co jsem počítal impedance a rozuměl přizpůsobování antén méně a méně a dokonce rozchumelilo.<br>
 Nastesti jsem měl oběd s sebou. Povídali jsme si v kuchyňce o geopolitické situaci. Putin, Trump, Musk, Bitcoin a vůbec. Diky Capital Markers jsem přemýšlel o tom jak trhy fungují.<br>
 Asi mi to ten den opravdu moc nepálilo. V děliči napětí jsem odpojil spodní kondenzátor abych ochránil čip při ladění, což vedlo k jeho zničení. Mělo mi to dojít. Začátečnickáchyba.<br>
-Po práci jsem ještě koukal do počítače. Zlato z rána vylezlo nahoru. Prodal jsem ho a udělal ještě pár krátkodobých obchodů. Převážna na .USTECHCASH a .US2000CASH. Koukal bych do toho fakt dlouho, ale už dlouho jsem nebyl v bazénu, v batohu byly plavky a večer se krátil.<br>
+Po práci jsem ještě koukal do počítače. Zlato z rána vylezlo nahoru. Prodal jsem ho a udělal ještě pár krátkodobých obchodů. Převážně na .USTECHCASH a .US2000CASH. Koukal bych do toho fakt dlouho, ale už dlouho jsem nebyl v bazénu, v batohu byly plavky a večer se krátil.<br>
 Naplaval jsem toho málo. Ale sama mi přišla vhod. Večer jsem ještě prodal ropu, udělal krátký obchod na S&P 500 a šel spát. Za den jsem vydělal něco kolem třiceti tisíc. Bylo to divný. Bylo třeba se víc vzdělat a nepodlehnout tomu. Bylo to až moc snadný.
 
 <a href="../images/2024_november/22_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/22_1.jpg"></a>
