@@ -25,6 +25,11 @@
 - [21.3. Deseti tisíce displejů](#213-deseti-tisíce-displejů)
 - [22.3. S+J=VSL](#223-sjvsl)
 - [23.3. Jak to bůh chtěl](#233-jak-to-bůh-chtěl)
+- [27.3. Máme Covid](#273-máme-covid)
+- [28.3. Nemáme Covid... nejspíš](#283-nemáme-covid-nejspíš)
+- [29.3.](#293)
+- [30.3.](#303)
+- [31.3.](#313)
 
 ### 1.3. Spát a jíst
 
@@ -236,5 +241,28 @@ Trochu mě štvalo, že jsem v pátek zapomněl vyzvednout mlýnek. Ale sobota n
 ### 23.3. Jak to bůh chtěl
 
 Neděle. Nic nedělání. Trocha psaní. Nákup v Lidlu. Přátelé. Válení se v posteli. Válení se na gauči. Východ slunce. Pošmurno. Západ slunce. Tma. Neděle.
+
+### 27.3. Máme Covid
+
+Překvapivě dobře jsem spal. I hodinky si to myslely.. Uvařil jsem čaj a pustil se do práce. Když se z postele vyhrabala Verunka, bylo vidět, že je jí hůř.<br>
+Ranní česnečku ještě cítila, ale večerní špenátovou už ne. To potvrdilo, co jsem si myslel celý den, kdy jsem se v posteli snažil programovat, ale buď mi psal Ludva, nebo Omar, volal Ivan nebo DJ a chtěli po mě vyřešit něco, co nefungovalo.<br>
+Měli jsme Covid. Já ještě nekašlal, ale Veru Už je. Těžko říct, jak moc velký smysl mělo spát každý v jiné posteli. Obzvláště, když v poledne jsme na to vlítli. Ale zezadu a žádný líbání.<br>
+Večer jsem koukal na Severance. Občas jsem se s Verunkou objali. Ale nakonec jsme drželi oddělení, stejně jako v tom seriálu.
+
+### 28.3. Nemáme Covid... nejspíš
+
+Zase jsem spal dobře. Jestli je to tou matrací, budu muset utrácet.<br>
+Verunka ráno zmizela. Šla do lékárny koupit testy.<br>
+Já se pustil do boje s SPI a DMA v testech. Pukala mi z toho kebule.<br>
+Test odhalil, že Covid nemáme. Verunka tak vyrazila k doktorovi a tam jí řekli, že to nic neznamená. Že Covid tak zmutoval tak, až testy nefungují.<br>
+Venku bylo nádherné. V poledne jsme vyrazili do Grebovky sednout si na lavičku a slunit se. Přemýšlel jsem o sendvičích, ale ani jedno pítko, ve kterém bych opláchl zeleninu z Lidlu nebylo funkční.. A navíc přišel mrak a zima. Vrátili jsme se pracovat a marodit domů.
+
+### 29.3.
+
+### 30.3.
+
+### 31.3.
+
+
 
 [>> Duben](2025_april.md)
