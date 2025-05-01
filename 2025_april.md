@@ -6,10 +6,10 @@
 - [4.4.](#44)
 - [5.4. Do kopce a do Asie](#54-do-kopce-a-do-asie)
 - [6.4. Deskovky u Marťi a Vildy](#64-deskovky-u-marťi-a-vildy)
-- [7.4](#74)
+- [7.4. Nábytkářem](#74-nábytkářem)
 - [8.4](#84)
 - [9.4](#94)
-- [10.4](#104)
+- [10.4. Sýrohlíky společnou kartou a film zadarmo](#104-sýrohlíky-společnou-kartou-a-film-zadarmo)
 - [11.4](#114)
 - [12.4. V Hradci je život idilický](#124-v-hradci-je-život-idilický)
 - [13.4](#134)
@@ -26,9 +26,9 @@
 - [25.4. Od oblouku k oblouku](#254-od-oblouku-k-oblouku)
 - [26.4. Kopec a věž](#264-kopec-a-věž)
 - [27.4. Les objets historiques](#274-les-objets-historiques)
-- [28. 4. Paretovo pravidlo](#28-4-paretovo-pravidlo)
-- [29. 4. Dny letí, když vstaneš pozdě](#29-4-dny-letí-když-vstaneš-pozdě)
-- [30. 4. Tradice, přesto narychlo](#30-4-tradice-přesto-narychlo)
+- [28.4. Paretovo pravidlo](#284-paretovo-pravidlo)
+- [29.4. Dny letí, když vstaneš pozdě](#294-dny-letí-když-vstaneš-pozdě)
+- [30.4. Tradice, přesto narychlo](#304-tradice-přesto-narychlo)
 
 
 ### 1.4. Dostala DJe
@@ -94,7 +94,11 @@ Pak jsme hráli hry. 2x Games. Hra s kuličkami a kartičkami. Bavilo mě to. Al
 Veru by hrála dál, ale musela domů, cvičit na flétnu. Já pokračoval s Vildou hraním Santorini. Rozbil mě asi 2x. Bylo to jako s Miskou, ale naopak. Fakt mě rozhodilo, jak hloupě jsem se cítil.<br>
 Večer jsem zabílil fleky. Měl jsem tíživej pocit, že jsem trochu zaseklej a potřeboval jsem něco dokončit.
 
-### 7.4
+### 7.4. Nábytkářem
+
+Málem jsem vyjel brzo. Ale vlezlo mi do toho holení hlavy, úklid, snídaně a nechuť vyjíždět v 0 stupních. Málem jsem jel vlakem celou cestu. Ale když jsem na hlaváku koukal na courák do Trutnova s odjezdem za 3 minuty, řekl jsem si, že kolo mi pomůže do budoucna víc a vyjel po cyklostezce skrz Vitkov.<br>
+Sněžilo. Naštěstí jen trochu. Byl jsem v kraťasech. Test bench po neúspěšné kalibraci ztratil schopnost měřit VNAčkem. Zjistil jsem to při dalším pokusu o ladění. Ze Safirdu přišlo devět EBD z čehož dvě byly rozbitý. Tester opravdu našel, že špatně připájeli konektor. To mě potěšilo. Skoro jsem veřil, že to je k ničemu fíčura, když jsem to programoval.<br>
+S Ludvou jsme šli do Asie. Vyptával se na certifikace. Pak jsem bojoval s pájením modemu až do pěti a potom jsem se pustil do úpravy židle. Kdyby šlo do tuhýho, mohl bych opravovat nábytek. Pomocí 3D tiskárny :)
 
 <a href="../images/2025_april/07_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/07_1.jpg"></a>
 
@@ -106,7 +110,11 @@ Večer jsem zabílil fleky. Měl jsem tíživej pocit, že jsem trochu zaseklej 
 
 <a href="../images/2025_april/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/09_1.jpg"></a>
 
-### 10.4
+### 10.4. Sýrohlíky společnou kartou a film zadarmo
+
+To je akurátní popis večerního rande. Pečivo z Globusu a ČSFD Projekce filmu Amatér. Nemusí všechno stát majlant aby to bylo milý a pěkný. A moje holka z toho měla radost.<br>
+Neměla radost z toho, že za 18 suplovaných hodin na které se připravovala ješte 3x tak dlouho dostala 18 set. To bylo fakt absurdní. Naštvaní byli všichni v učitelském sboru. Prý jsou ale všichni moc měkký na to s tím něco udělat.<br>
+Jsem fakt vděčnej za svojí práci. Je zábavná, se skvělýma lidma co mě posouvají a ještě mám docela dost peněz. Jsem opravdu jeden z nejšťastnějších lidí na planetě.
 
 ### 11.4
 
@@ -345,7 +353,7 @@ Zato ORLY mě nebavilo vůbec. Je to zmatečný letiště. Plný matoucích fran
 Nakonec jsme ale vyletěli. Mohl jsem vybrat sedačky na opačný straně. Viděli bychom eiffelovku. Neva, ale. V Praze jsme přistáli, tak že máma stíhala vlak jedenáct. Doprovodil jsem jí na hlavák a pak sjel domů S devítkou.<br>
 Verunka mě přivítala moc vřele. 2x za sebou :)
 
-### 28. 4. Paretovo pravidlo
+### 28.4. Paretovo pravidlo
 
 Ráno jsme pokračovali. Opět 2x. Opravdu jsme dohnali, co jsme nezvládli. Vyřídilo mě to. Odpadl jsem do postele a když jsem se po osmé vzbudil, Veru byla pryč. Moc jsem nechvátal. Cesta slunečnou Prahou mě trochu probrala. Nicméně dorazil jsem až v sůl desátý.<br>
 V průběhu dne se mě lidi vyptávali na výlet. Z čím přišel modem. Tentokrát jsem se rozhodl ho nerozbít.<br>
@@ -353,14 +361,14 @@ Napájel jsem ho na drátky. Ověřil, že USB funguje. Že je to opravdu modem.
 Nakonec se mi to povedlo. A zámek se připojil na nový backend. Měl jsem radost. S pecí by to asi bylo jednodušší, ale už jsem v tom začínal mít gryf.<br>
 Odpoledne a večer jsem zůstal v práci a výpal se v kole. Myl jsem ho WAPkou, rovnal osmičky, mazal řetěz a i když jsem se nedostal na Špičkově seřízené kolo, jel o Franz domů o poznání lépe. Paretovo pravidlo v praxi.
 
-### 29. 4. Dny letí, když vstaneš pozdě
+### 29.4. Dny letí, když vstaneš pozdě
 
 Možná protože jsem měl v uších špunty. Spíš ale protože Veru je opatrná. Nevzbudila mě. A udělala mi snídani. Vern je skvělá. Zato já trochu flákač. Chtěl jsem být v práci brzy ale když jsem projížděl kolem auto prodejny Vantage, bylo po čtvrt na deset. Proč zrovna tenhle bod? Pak tam kupoval své paní elektro audi. Řekl jsem si že si musím přečíst tu knížku „Courage to be disliked". V tom momentu jsem totiž cítil silný tlak vertikálních vztahů. A to i přes to, že ještě na Vinohradech jsem měl pocit, že skvělá žena, slunce a kolo je všechno, co v životě potřebuju.<br>
 V práci jsem pomáhal DJovi s totemy, vyráběl kabely, zkoušel zámek a nový backend. Přišlo mi konečné, že neprodáváme zajíce v pytli. Šel půjčit kartou, aplikací i backendem. So-so fungovala GPS a vůbec, bylo to skvělý.<br>
 Vera šla hrát deskovky k Vildovi. Já měl v plánu psát, holit si hlavu, dávat život do pořádku a tak, ale většinu večera jsem čuměl do YouTube. Francie mě vyřídila. Čas plynul nějak moc rychle a dovolenou na zotavení se z dovolený jsem si nenaplánoval.<br>
 Něco jsem ale napsal do deníku, tak snad dobrý.
 
-### 30. 4. Tradice, přesto narychlo
+### 30.4. Tradice, přesto narychlo
 
 Verunka se mě ráno ptala, zda chci do práce něco k jídlu. Byla středa, řekl jsem, že všichni budou v práci a tak radsi půjdu s nimi. Ale protože jela do práce vlakem v 8:20, jel jsem s ní.<br>
 V práci opravdu byli všichni. I Ludvík. Měl tam hodně meetingů. Ale na oběd do Radkem s námi nešel. Prohloupil. Grilovaný hermelín se salátkem a krutony byl výborný. Ivanovi ale moc nestačil. Je 2x větší než já a ráno uběhl pět kilometrů z čerňáku. A plánoval běžet zpátky.<br>
