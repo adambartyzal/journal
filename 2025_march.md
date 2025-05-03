@@ -122,7 +122,7 @@ A únava! Závěrečné počítání proběhlo někdy kolem jedenácté a do pos
 Ráno jsme měli pubertální únos. Ale potichu. Stěny byly papírový. Vlak nám jel před jedenáctou. Humus na rohlíku k snídani a k čaji skořicové šneky.<br>
 Překvapivě jsme stihl Lukáše. Šel cvičit s balonem. Byl pružnej jak proutek. Víc jógy řekl jsem si. Zkusil jsem se otočit do mostu opřený o balon. Šlo to. A bolelo to. Ta nedobrá postel mi moc nepomohla. Víc jógy.<br>
 Hynek nás hodil na vlak. Povídal o tom, že dokud bude babička aspoň trochu schopná bydlet v bytě,neměla by být v důchoďáku, kde co týden někdo umře. Každý den jí v bytě někdo navštěvoval a telefonovala s rodinou x-krát denně.<br>
-Ve vlaku jsem jestě trochu psal. Vern si pročítala své zápisky z vysoké. Pomáhaly jí vymyslet struktura učiva pro čtvrťáky .<br>
+Ve vlaku jsem jestě trochu psal. Veru si pročítala své zápisky z vysoké. Pomáhaly jí vymyslet struktura učiva pro čtvrťáky .<br>
 Na jídlo jsme zašli v Karlíně do Vietnamky. Pad Thai a červené kari s tofu. Moc dobrý to bylo. Městská nás hodila dam a já už toho moc víc nezvládl. (Kromě dvojitý dávky dospěláckých aktivit🙂)<br>
 Veru večer jela na zkoušku a dozvěděla se , že druhá Veru v kapela končí, protože se stěhuje pryč. Bude tak jediná v holka v kapele.
 
@@ -137,7 +137,7 @@ Až do šesti jsem upravoval error handling v nfc protokolu. Někam jsem se dost
 ### 11.3. Ráno deprese, večer radost
 
 Na konci roku jsem se zrejně nepoučil. To že trhy šly do háje mi uzavřelo v noci dva pohyby a asi 200 tisk proletělo komínem. Byl jsem smutnej. Kdybych ten účet nikdy neotevřel , Mel bych o osm set tisíc víc. To jsem posral. Nejde to říct jinak. Kolosálně jsem to posral. Měl jsem je poslat na spořák. Nebo nechat v tom ETF, který bylo zrovna taky v háji, ale zase se spraví. Za měsíc, nebo za 4 roky. Day trading je to samý, co bedny. Kolosální průser. Nikdy tam už nepošlu ani korunu.<br>
-Era mela narozeniny. Popřál jsem ji ráno. Dalpusa Verance, která utíkala do práce a dal se do jógy. Potřeboval jsem ze sebe sklepat ten pocit, že jsem úplnej debil a spláchl jsem roční výdělek do kanálu.<br>
+Era mela narozeniny. Popřál jsem ji ráno. Dalpusa Verunce, která utíkala do práce a dal se do jógy. Potřeboval jsem ze sebe sklepat ten pocit, že jsem úplnej debil a spláchl jsem roční výdělek do kanálu.<br>
 Úterý. Ponořil jsem se do digitálních testů. Hodně. Řešil jsem Error Handling a EMD Suppression. Docela mi to šlo.<br>
 V půl osmé byl beďar. Řekl jsem si, že počkám v práci a pojedu vlakem. To jsem udělal, ale Beroun a Benešov není to samý město. V 19:01 jsem ve vlaku zaslechl „Praha Smíchov". Cože co?<br>
 Čekala mě jízda na kole na zahraďák za míň než půl hodinu. Byl to závod. A vyhrál jsem! A cítil plameny na plicích<br>
@@ -151,7 +151,7 @@ Ráno jsem chtěl jít běhat. Respektive. Večer jsem měl ambice jít ráno b�
 
 Ledová sprcha, to km do práce na kole, language transfer v uších. Čím víc jsem LT poslouchal, tím víc jsem byl nespokojenej s Duolingem<br>
 Zbývaly mi 3 digitální testy ze 112. Vyjímka v pollingu a výjimka v S(WTX). Zvládl jsem to před obědem a po půl hoďce ve Vietnamu jsem pustil testy znova na čisto. Něco blblo v testu EMD handlingu. Čichal jsem zradu v TEST PICC. Zkusil jsem KEOLABS Poller. Lepší. Ale nemám rád, když jsou věci na hraně.<br>
-Odpo začalo pršet. Kolo jsem nechal v práci a vyrazil Béčkem na Anděl. Dali jsme si s Tomem projekční reparát. ČSFD promítalo Viléma Tella. Moc jsme nepokecali, ale Tom vypadat vesele a taťkování ho bavilo. Film byl dobovej a protože jsem od něj nic nečekal, potěšil mě. Veru by se líbil. Měl kostýmí jako lidi na Lipnici.<br>
+Odpo začalo pršet. Kolo jsem nechal v práci a vyrazil Béčkem na Anděl. Dali jsme si s Tomem projekční reparát. ČSFD promítalo Viléma Tella. Moc jsme nepokecali, ale Tom vypadat vesele a taťkování ho bavilo. Film byl dobovej a protože jsem od něj nic nečekal, potěšil mě. Veru by se líbil. Měl kostým jako lidi na Lipnici.<br>
 U kina jsem po projekci zahlídl v průchodu tramvaj. Shora jezdí jen sedmička, takže jsem popoběhl a nemusel venku mrznout v kraťasech.<br>
 Když jsme večer jedli housky namazané pomazánkou, Veru si mi lehla na klín a já jí drobil na hlavu. Vtipný bylo, že se to stalo i ráno.
 
@@ -170,7 +170,7 @@ Mávnout nad zámkem applepayem a slyšet, že transakce prošla bylo trochu cre
 Do práce jsme jeli netradičně spolu. Verunka totiž jela připravovat den sv. Patrika, i když v pátek v práci nebývá. Já jel s kolem. To nakonec zůstalo v práci. Měli jsme naplánovaný rande.<br>
 Přes den jsem rozcházel displej a připravoval, jaké součástky koupit. To jsem se rozhodl udelat pořádná. V ERP přes subobjednávku. Pasivy bylo třeba založit se všemi parametry. Vylepšil jsem tak své skripty.<br>
 Když jsem vyrážel ven, měl jsem na displeji paywave symbol, zámek mi pípal a platil a subobjednávka byla ready.<br>
-Vern byla v hokejce na pivu s absolventy. Nebrala telefon, když jsem jí hledal, docela mě tím naštvala. Věděla, že jdu za ní. Ale asi bylo zbytěný nasírat se vie.<br>
+Veru byla v hokejce na pivu s absolventy. Nebrala telefon, když jsem jí hledal, docela mě tím naštvala. Věděla, že jdu za ní. Ale asi bylo zbytěný nasírat se vie.<br>
 Měli jsme oba hlad. Veru vymyslela pizzu. Já navrhl Johnyho. Veru tam zavolala. Béčko nás tam dovezlo. A sice nám napřed udělali špatnou, ale houbová velká byla moc dobrá. Akorát jsme jí dojedli někdy kolem deváté a původně plánovaný bazén padl ze stolu, a tak jsme jeli rovnou dom.
 
 <a href="../images/2025_march/14_1.jpg" target="_blank"><img src="../images/thumbnails/2025_march/14_1.jpg"></a>

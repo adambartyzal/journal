@@ -296,7 +296,7 @@ Západ slunka nad Benátkami byl kýč. Bylo tam fakt nádherně. Sýr byl dobre
 
 <a href="../images/2024_december/24_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/24_3.jpg"></a>
 
-Ale byli jsme na dovolený a měl jsem svátek. Restaurace byla jen kousek a tak jsme si dali opravdový jídlo. Špagety s buratou. A k tomu víno. Všechno bylo moc dobrý. Akorát Verunka byla nešťastná, že s ní číšníci mluví anglicky. Nakonec ale přesedlali na italštinu a Vern byla spoke.
+Ale byli jsme na dovolený a měl jsem svátek. Restaurace byla jen kousek a tak jsme si dali opravdový jídlo. Špagety s buratou. A k tomu víno. Všechno bylo moc dobrý. Akorát Verunka byla nešťastná, že s ní číšníci mluví anglicky. Nakonec ale přesedlali na italštinu a VerU byla spoko.
 
 <a href="../images/2024_december/24_4.jpg" target="_blank"><img src="../images/thumbnails/2024_december/24_4.jpg"></a>
 
@@ -391,7 +391,7 @@ Možná proto si Verunka dala na dece 20. Bylo fakt fantasticky teplo.
 
 Jednička jela kousek od nás. Až na letisko. Jestli jsme jí zaplatili jsme si nebyli jistí. Virtualizované karty strojek nebral a fyzická sice pípla, ale druhým dotykem jsem jí možná odhlásil.<br>
 Každopádně nás a dalších několik desítek lidí, kteří se do autobusu sotva vešli odvezla na letisko, kde jsme překvapivě rychle prošli sekuritkou a pak extrémně dlouho čekali na zpožděný Ryan.<br>
-Hráli jsme na klavír. Vern si koupila Deník malého poseroutky v Italštině a během mých dvou lekcí dnolinga si přečetla notnou část knihy v jazyce, který tři týdny zpátky neovládala.<br>
+Hráli jsme na klavír. Veru si koupila Deník malého poseroutky v Italštině a během mých dvou lekcí dnolinga si přečetla notnou část knihy v jazyce, který tři týdny zpátky neovládala.<br>
 Ryan nakonec dovoloval před náš gate. Verunka nastoupila dozadu a já na sedadlo 1B. První sedadlo v Letade neb 1A neexistuje.<br>
 Letuška byla moc pěkná blond Češka. Prohodili jsme pár vět, ale byla taková trochu zrychlená a během letu měla dost práce. Dal jsem se do psaní deníku.<br>
 Zpoždění v Bergamu nebylo poslední ten den. Když jsme Čekali v autobusech na odvoz, přijeli policajti a někoho hledali.<br>
@@ -401,7 +401,7 @@ Akorát nahrát dění Jsme večer nějak nestihli. To byla škoda. Protože to 
 
 ### 29.12. Verunka měří
 
-Už u snídaně bylo patrný, že Verance to v hlavě šrotuje. Že neděle nebude jen o nedělání, ale že se bude plánovat. On. ostatně rok se blížil ke konci a Verunka měla pravdu. Stěhování se blížilo raketovou rychlostí.<br>
+Už u snídaně bylo patrný, že Verunce to v hlavě šrotuje. Že neděle nebude jen o nedělání, ale že se bude plánovat. On. ostatně rok se blížil ke konci a Verunka měla pravdu. Stěhování se blížilo raketovou rychlostí.<br>
 Během dne měřila metrem, kreslila si v Řehoři a dělala seznamy toho, co bude třeba udělat.<br>
 Zbavit se nějakých věcí určitě. Byli jsme dva a měli tři postele. Málo místa na věci nás obou a žádný místo na klavír. Nakonec to ale Verunka vymyslela dobře. Jen domluvit, načasovat a provést to všechno se zdálo Jako dost práce.<br>
 Vztah bude dost práce. Ale tasil jsem se na to, když jsme šli nakupovat. Když jsme dělali salát a řepnou pomazánka a když jsme měli sex asi potřetí ten den.

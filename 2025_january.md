@@ -37,7 +37,7 @@
 ### 1.1. Rozmontovat postel
 
 Tak zněl plán. Žádná čočka. Ani kocovinový rámen, který možná plánovala Rebeka s Ondrou. Nás s Verunkou čekala práce.<br>
-Vstali jsme až po desátý. Ono spát jsme šli po druhý, takže to bylo legit. Vern připravila ovesnou kaši s jogurtem, Konopným semínkem a borůvkami. Bylo to moc dobrý. Vlilo nám to krev do žil a protože postel ještě nebyla složená, využili jsme naposledy její pohostinnosti při dospělé zábavě.<br>
+Vstali jsme až po desátý. Ono spát jsme šli po druhý, takže to bylo legit. Veru připravila ovesnou kaši s jogurtem, Konopným semínkem a borůvkami. Bylo to moc dobrý. Vlilo nám to krev do žil a protože postel ještě nebyla složená, využili jsme naposledy její pohostinnosti při dospělé zábavě.<br>
 Potom jsme udělali assessment toho, co je třeba. Mirelon, strečku, sadu, téčko, makitu a pár dalších věcí, které Kolbenka nabízela.<br>
 Autobus na Vysočanskou a pěšky k nám. Objevili jsme protékající Sahara. Zavřel jsem kohouty, napsal to na Slack, zavolal Ivanovi zabalili jsme co bylo potřeba a vrátili jsme se na Střížkov.
 
@@ -64,7 +64,7 @@ Trvalo to určitě přes rok, ale konečně jsem opravil čelo Šuplíku. Loctit
 
 <a href="../images/2025_january/3_1.jpg" target="_blank"><img src="../images/thumbnails/2025_january/3_1.jpg"></a>
 
-V práci jsem simuloval a zkoušel jaký efekt to má ve skutečnosti. Na oběd jsme šli do jídelny. Vyprávěl jsem o cestě do itálie. Ivan byl nadšenej. Verance hodně fandil.<br>
+V práci jsem simuloval a zkoušel jaký efekt to má ve skutečnosti. Na oběd jsme šli do jídelny. Vyprávěl jsem o cestě do itálie. Ivan byl nadšenej. Verunce hodně fandil.<br>
 Verunka zůstala u nás a rozebírala Kendyho postel. Poslala mi fotku makity s tím, že je to bezva nástroj. Potom přejela uklízet na Střízka, kam jsem za ní někdy po půl páté přijel na kole. Společně jsme uklízeli a potom každý po vlastní ose vyrazili do Vršovic.
 
 <a href="../images/2025_january/3_2.jpg" target="_blank"><img src="../images/thumbnails/2025_january/3_2.jpg"></a>
@@ -191,7 +191,7 @@ Zas jsme spolu bydleli o trošku víc!
 Bylo potřeba zase trochu pohnout s organized bytu. Rozdělili jsme si to následovně. Já pověsím zrcadlo, Vera uvař! Šovinista a lenoch ve mně si plácli a meli radost.<br>
 Vyvrtat díru bylo jednoduchý. Zabouchat hmoždinu taky a zrcadlo visí v podstatě samo.<br>
 Taky jsem natáhnul do postele hřející dečku a vyzkoušel jí. Bylo to ok. Mohla hřát i víc, ale Verunka říkala, že takhle zvládne spát i nahá a to oproti zimním ponožkám a svetru byl značný posun.<br>
-Pak jsem koukal na Everyday Life od Coldplay. to podle mě jejich vrcholná dílo. Vern uvařila dýňový krém a čočková kari. Koukali jsme u toho na d. " Black Mirror. Nesedive. Pobavila nás čeština v půjčeném autě.<br>
+Pak jsem koukal na Everyday Life od Coldplay. to podle mě jejich vrcholná dílo. Veru uvařila dýňový krém a čočková kari. Koukali jsme u toho na d. " Black Mirror. Nesedive. Pobavila nás čeština v půjčeném autě.<br>
 Vojta mi volal zda nechci večer přijet na deskovky. Verunka mela koncert v Benešově, ale prý by nehráli nic nového a lepší bude na ně jít v Praze. Souhlasil jsem tedy a v pět vyběhl na zpožděný vlak do Braníka.<br>
 Nebyl zpožděný dost na to abych ho doběhl.Alternativa 6 → 19 → XC → 106 byla na dýl, ale další Vlak jel za hodinu. V tramvaji jsem si zvládl zašít knoflík.<br>
 U Vojty už byl jeho spolužák z výšky Zdeněk. Jeho Spolužák ze střední Kafča měl zpoždění. Objednali jsme si pizzu a dali se do hry, kterou Vojta prezentoval jako rychlou.<br>
@@ -265,7 +265,7 @@ Den to byl zvláštní. Plný sexu a jídla. Verunka vařila na pár dní dopře
 
 <a href="../images/2025_january/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_january/18_1.jpg"></a>
 
-Taky jsme potkali Ederka. Měla dvě děti. Všichni mají poslední dobou děti. Doufal jsem, že ještě pár let počkáme.<br>
+Taky jsme potkali Ederku. Měla dvě děti. Všichni mají poslední dobou děti. Doufal jsem, že ještě pár let počkáme.<br>
 S ochranou jsme byli důslední. Ederka si pořídila dítě po čtyřech měsících vztahu. Mě došlo, že s Verunkou chodíme pátý měsíc. Utíkalo to rychle. ale vlastně to nebylo tak dlouhý.<br>
 Bylo nám spolu moc dobře. Tenhle den. Ty předchozí. A věřil jsem, že i ty budoucí.
 
@@ -380,7 +380,7 @@ Druhý den jsme měli balit. Další hru už jsme nezačínali. Ostatně po dvou
 
 Ani tentokrát nebyl Jirka první v kuchyni. Jenže byl poslední den a slíbené palačinky bylo třeba připravit. Někdy v půl deváté holky začali bušit na strop aby Jirka přišel a dal se do díla.<br>
 A stalo se. Udělal u toho docela bordel. V jistou chvíli byl na sporáku půl metrový plamen, ale palačinky byly. A byly docela dobrý. Já už měl v sobě česnekovou pomazánku, takže jsem zvládl jen jednu. Navíc byla hustá za tři.<br>
-V další půl hodině jsme balili a uklízeli. A stihli to tak akorát. V to jsme měli naloženo do aut a louč." se před chatou. K nedělnímu lyžování totiž nebylo počasí, energie ani chuť. Měli jsme toho všichni dost. V autě jsme skoro usínali. Teda já a Vern. Vojta byl naštěstí ready.<br>
+V další půl hodině jsme balili a uklízeli. A stihli to tak akorát. V to jsme měli naloženo do aut a louč." se před chatou. K nedělnímu lyžování totiž nebylo počasí, energie ani chuť. Měli jsme toho všichni dost. V autě jsme skoro usínali. Teda já a Veru. Vojta byl naštěstí ready.<br>
 Povídali jsme si španělsky. Byla to docela sranda. Věty typu Vidím 3 auta. Jedno červené. Co ti včera chutnalo. A tak.<br>
 Vojta nás hodil do Vršek. Vytahali jsme věci nahoru a po chvilce skončili v posteli.<br>
 A najednou byly čtyři hodiny a všecho nás bolelo. Verunka udělala nouzový těstoviny s prstem, zapli jsme si Black Mirror (Joan is Awful) a lehli si k tomu.<br>
@@ -420,7 +420,7 @@ V práci jsem byl jen s Fílou a Omarem, protože ostatní byli nemocní nebo v 
 
 ### 31.1. V práci úplně sám
 
-Vstávat trvalo dlouho. Verunka měla home office a na Kolbence nebyl vůbec nikdo a tak nebyl spěch. Cesta na kole tak byla zalitá sluncem. Dobře že tak. Na oběd jsem zůstával uvnitř. Mel jsem Zapečenou zeleninu, kterou udělala Vern. Řepa s mrkví a bramborem. Extrémně dobrý.<br>
+Vstávat trvalo dlouho. Verunka měla home office a na Kolbence nebyl vůbec nikdo a tak nebyl spěch. Cesta na kole tak byla zalitá sluncem. Dobře že tak. Na oběd jsem zůstával uvnitř. Mel jsem Zapečenou zeleninu, kterou udělala Veru. Řepa s mrkví a bramborem. Extrémně dobrý.<br>
 Dotiskly se první dvě konzoly na police. Byly dost gumový. Ale pevný. Měl jsem víru a dat tisknout další 2.
 
 <a href="../images/2025_january/31_1.jpg" target="_blank"><img src="../images/thumbnails/2025_january/31_1.jpg"></a>
@@ -433,6 +433,6 @@ Nicméně to byl pokrok!
 
 Doma jsem vzal přímočarku, konzoly a dospěl k názoru že přes Vinohrady to s takovým nákladem nepůjde. Vlak tedy.<br>
 Verunka zrovna domývala nádobí, když jsem přijel. Večeři nechala na mně. Byly těstoviny se sójovými nudličkami a sugem. Překvapivě to bylo fakt dobrý.<br>
-Vern pustila film SŽDC, kde hrála její sestra. Bylo to ok. Kluk zařval na vlaku. V dalších příbězích už ale nehrála a tak jsme si vytáhli párové kartičky. Bylo to fajn, ale únava nás zahnala do postele brzy.
+Veru pustila film SŽDC, kde hrála její sestra. Bylo to ok. Kluk zařval na vlaku. V dalších příbězích už ale nehrála a tak jsme si vytáhli párové kartičky. Bylo to fajn, ale únava nás zahnala do postele brzy.
 
 [>> Únor](2025_february.md)

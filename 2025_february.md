@@ -287,7 +287,7 @@ Nějak jsem nestihl snídat. A obděd jsem si taky nevzal. V úterý mě nikdo n
 Zahradní město, kde jsme s Martou měli zabookovaný badminton je 40 minut jízdy na kole. Ale taky zastávka našeho vlaku. Jel jsem s DJem<br>
 Nemít v sobě před sportem žádný kalorie nebylo moudrý. Stavil jsem se v tescu a koupil svačinu bez sacharidů. A šlo to. Žádná slabost ani únava na mě nepřicházely.<br>
 Beďas byl dobrej. Většina bodů byla na mojí straně, ale bavili jsme se dobře. Po pěti setech jsem se převlékl a objevil, že nemám klíče. Marta utíkala na autobus a jak se dal do hledání. Nakonec byly na statice, ale potrápilo mě to.<br>
-Kolo domů a doma nikdo. Vern jela do Ostravy přešít záclony. Usínal jsem ten rok poprvé sám.
+Kolo domů a doma nikdo. Veru jela do Ostravy přešít záclony. Usínal jsem ten rok poprvé sám.
 
 ### 19.2. Stěny křivý a dutý
 
@@ -306,7 +306,7 @@ Spát bez Verunky bylo trochu divný. Z nedostatku sacharidů mě bolela hlava, 
 Keto chřipka odezněla. Posnídal jsem vajíčka a rozkoukal druhý díl Invincibla. Kolo bylo v háji a tak jsem jel vlakem a koukal na seriál i v něm. Čekal mě další den plácání se v analogu. Začínalo mi to lézt krkem. Už dlouho mě moje práce nasrala tak jako teď. Řekl jsem si ale „Takhle vývoj funguje, nakonec na to přijdeš s přijde novej problém! A pustil se do toho.<br>
 Reverzní inženýring. Našel jsem spálenou planetu a pustil se do měření přizpůsobení. Dost mi to potvrdilo to, na co jsem přišel sám. Smyčka v herní potravině. Musí než 352. Naladění ve spodní části smyčky. Tak aby rezonance 16 MHz karty posunula 7 doleva a rezonance na 13 dovnitř. Ale šli ještě trochu dál. Podladili to do dolní půlky, takže deformace smyčky šly na nulovou reaktanci.<br>
 Čtvrt dne jsem tohle měnil, čtvrt dne přítel, čtvrt dne ladil a čtvrt dne to stavěl. Napětí bylo dobrý. Q moc vysoký. Rozhodl jsem se ho tlumit další den.<br>
-Vlak zpátky. Vynést odpadky a bio. A nakoupit chleba než se Vern vrátí. Potkal jsem ji cestou. Měla spoustu věcí a po puse na přivítanou jsme šli každý svoji cestou.<br>
+Vlak zpátky. Vynést odpadky a bio. A nakoupit chleba než se Veru vrátí. Potkal jsem ji cestou. Měla spoustu věcí a po puse na přivítanou jsme šli každý svoji cestou.<br>
 Po nákupu na mě šly chmury. Chyběla mi dost? Jeto ten vztah? Nejspíš to ale byly chmury kůli tý práci. A tmě. Nejel jsem ani jednu cestu na kole.
 
 Když jsme pak byli doma spolu, bylo to lepší.

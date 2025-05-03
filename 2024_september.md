@@ -386,10 +386,10 @@ S desátou jsem odpadl jak mrtvola.
 ### 28.9. Kolem slunce do historie a na čtvrtou metu
 
 Rande s Veronikou. Od soboty do neděle. Tak to říkal kalendář. Tak to bylo třeba udělat. Kdy ale přesně začít. Veru dělala doma generální úklid a dřív než v 11 to nedávala.<br>
-Pustil jsem si Lost. A ještě v te byl doma. Lost jsou past. Sbalil jsem chleba, dojel na ip.lk a zbytek sjel metrem. Vern mě pozvala nahoru. Dávala do kupy nový telefon. Oproti mýmu byl obrovskej. Ale 120 Hz Refresh Rate mě zaujal. Xiaomi Redni Nate 13 Pro. Za asi 6 tisíc. Proti tomu iPhone opravdu působil předražené. Ale iPhone je vodotěsnej. Až v něm nechám vyměnit baterky, snad nadále bude a snad další 3 roky dá.<br>
+Pustil jsem si Lost. A ještě v te byl doma. Lost jsou past. Sbalil jsem chleba, dojel na ip.lk a zbytek sjel metrem. Veru mě pozvala nahoru. Dávala do kupy nový telefon. Oproti mýmu byl obrovskej. Ale 120 Hz Refresh Rate mě zaujal. Xiaomi Redni Nate 13 Pro. Za asi 6 tisíc. Proti tomu iPhone opravdu působil předražené. Ale iPhone je vodotěsnej. Až v něm nechám vyměnit baterky, snad nadále bude a snad další 3 roky dá.<br>
 K obědu Veru připravila japonské rýžové koule. Byly plněné tofu a shiitake. Bylo to moc dobry! Druhá Verunka byla v kuchyni. Povídali jsme si trochu. Působila moc fajn. Přemýšlivě řekl bych.<br>
 Než jsme se vyhrabali z bytu, trvalo to další asi hodinu. Ale venku nebylo o moc víc ošklivo než předtím. Mraky byly. Tu a tam káplo, ale občas zas svítilo. Mělo to dramatický nádech.<br>
-Jízda na nextbiku k nám taky trochu. Ze Střížkova jeto sjezd jak blázen a next bike nebrzdí. Ale Vern to zvládla krásně. Měla mojí helmu a na štestí jí nepotřebovala.<br>
+Jízda na nextbiku k nám taky trochu. Ze Střížkova jeto sjezd jak blázen a next bike nebrzdí. Ale Veru to zvládla krásně. Měla mojí helmu a na štestí jí nepotřebovala.<br>
 V kanclu jsme potkali Petra. Nasadil jsem kolo na freebike S nerezovými řídítky a společně jsme vyrazili k Rokytce. Veru byla z elektrokola nadšená. A z výletu taky. Cestu vůbec neznala. Až u Vltavy se chytla. Sliboval jsem, že Za sluncem už cyklostezka nebude tak plná. Moc jí to nedávalo smysl, ale nerozvíjel jsem to víc. Jeli jsme kolem Vltavy, povídali si, smáli se a bylo to fajn.<br>
 U slunce chvilku trvalo, než jí došlo jak model funguje ale opravdu jen chvilku. Ale čas vlastně utíkal dost rychle. Co nevidět jsme Jeli po novém úseku do klece a málem si nechali ujet přívoz. Ale naštěstí jsem pána zastavil.
 

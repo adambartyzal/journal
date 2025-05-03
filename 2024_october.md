@@ -105,7 +105,7 @@ Vyrazit v to se nám tvrdě nepovedlo. Když měla Veru jídlo hotový, nějak j
 Nakonec jsme obědvali ještě u ní. Moc dobrou pečenou zeleninu s dvěma dipy a moc dobrým salátem z okurky, papriky, rajčete a zálivky z citronové šťávy a čekankového sirupu.<br>
 Po obědě jsme dojeli do NTK. ČVUT byl zavřený, takže páternoster jsem jí neukázal, ale NTK samotné byla nostalgie. Když jsem tam seděl, v naší ústřední knihovně a nedařilo se mi rozchodit debugger ani překlad, cítil jsem se jak deset let zpátky.<br>
 Jak funguje Vojtův kód jsem nepochopil vůbec. Jak ho přeložit taky ne. Ale řekl jsem si first things first a pomalu rozchodil IDF, OPENOCD, GDB a napsal si Hello World. A fungovalo to.<br>
-Vern odjela na zkoušku a já se ještě asi 2 hodiny díval do dokumentace. Řekl jsem si, že rozchodím třídu Pin, tak jak jí máme v stcommonu.<br>
+Veru odjela na zkoušku a já se ještě asi 2 hodiny díval do dokumentace. Řekl jsem si, že rozchodím třídu Pin, tak jak jí máme v stcommonu.<br>
 V půl osmý byl čas vypadnout. Něco sníst a dojet do Světozoru. ČSFD promítalo Substanci. Byl to asi ten nejpřehnanější film, jaký jsem kdy v životě viděl. Bez nadsázky. Třetí dějství tomu nasadilo korunu. O 4 dny později to mělo mít premiéru. V Cannes to vyhrálo cenu za nejlepší scénář. Bylo to přitažlivý i odpudivý, krásný i odporný, zábavný i nutící přemýšlet. 4 hvězdy určíte? Pět? Možná.<br>
 Akorát bylo 11, když ten film skončil.
 
@@ -117,14 +117,14 @@ Měli blbej zdroj. Nic naštěstí neodešla. Dal jsem jim hub a bílou kostku a
 Jeho provedení mi trochu vyrazilo dech. Byla to deska s i2c čipem a dvěma headry. Do těch se zasazoval devkit. Bizár. Martin toho opravdu moc neudelal. Nechal osadit asi 100 těch úplně prázdných desek a po mě asi chtěli abych to celý rozchodil.<br>
 V půl devátý jsem byl hotovej moc jsem se neposunul. Ale kroky zpátky jsem taky nedělal. Přišlo mi to lepší než STM32WB. To byla past.<br>
 Doma byli Kendy se Skřítkem. Zvučili nějakouKonferenci v 02 universu. A večer bali podobně hotový jako já..<br>
-I Vern mi psala že je hotová. Uterky jsou náročný. Navíc mi někdo ukradl olej. Můj bio dne olivový olej. Ve firmě kde je pět a půl člověka. Rozesmutnilo mě to.
+I Veru mi psala že je hotová. Uterky jsou náročný. Navíc mi někdo ukradl olej. Můj bio dne olivový olej. Ve firmě kde je pět a půl člověka. Rozesmutnilo mě to.
 
 ### 9.10. Bůhvíkam
 
 Dan mi napsal. Měl večer koncert na Žižkově. Zeptal jsem se Veru jestli by nešla. Její kamarádka jí psala, že má večer koncert. Prekérka.<br>
 Ale nějak jsem ji dokázal přesvědčit, že folk je lepší volba než hebrejský chorál v synagoze. Bylo to takový dvojsečný. Ale měl jsem jsem radost.<br>
 Sraz jsme měli až na Žižkově. Veru ale jela Céčkem, já Béčkem na Florenc vedou obě. Akorát mě překvapilo, že silnice odkud jezdil autobus byla rozkopaná na kusy.<br>
-Vyzvedl jsem Vern na metru a spolu jsme došli před divadlo odkud provizorně odjížděl autobus.<br>
+Vyzvedl jsem Veru na metru a spolu jsme došli před divadlo odkud provizorně odjížděl autobus.<br>
 Do baru jsme dorazili před sedmou. Z publika první, ale Don už tam byl a chystal si set. Dali jsme se do řeči ptal jsem se co hezkého se mu stalo za dobu co jsme se neviděli. Byl trochu vyhýbavý ohledně odpovědi.<br>
 Sedli jsme si do první řady. Byla jen jedna řada. Dal jsem si pivo. Nebylo tak pozdě, byla to zajímavá IPA a nebylo tak pozdě. Před koncertem jsme se ještě šli projít. Říkal jsem že Daník určitě začne hrát než se vrátíme. Totálně to udělal. Naschvál.
 
@@ -149,8 +149,8 @@ Verunka byla v Ostravě. Šla s babičkou na prohlídku a potom s rodinou za str
 Já jsem jel do práce na kole. Zastavil jsem se pro snídani v Lidlu a naproti svému přesvědčení jsem si K chlebu se sýrem pořídil sadu šroubováků. Ivanovi blbnuly tiskárny. Zkoušel rušit tisk, ale nic to nedělalo. Navíc status „ruší tisk" zůstával v exekutorovi na věky věků. Koukl jsem do kódu a objevil, že je to tím, že Vláďa rušení tisku nikdy nerozchodil.<br>
 Oběd jsem si uvařil v kuchyňce. Jednoduchou itálii. Ivana jsem tak trochu zradil. Ale nevěděl jsem, že bude v práci.<br>
 Scénáře EMule odhalily spoustu problémů v NFCM, slabé ale byly v testování čarování. Pustil jsem se do simulací timerů a přidával kontroly.<br>
-Po páté napsal Ondra zda bych nechtěl přijet na film, či ne pivo. K nim se mi nechtělo. 13 kilometrů do kopce. Navíc večer přijíždela Verunka a já jí vyzvedával na hlaváku. Eva ale chtěla kelímek ze Světozoru. Dohodli jsme se že zajdeme tam a dáme si něcou kina.<br>
-Sjel jsem na můstek metrem. Už nepršelo, mohl jsem jet na kole. Ale nějak jsem se na to necítil. Povídali jsme si o filmu Substance, knížkách (Ondra přečetl jméno větru a Verance. Zas tak moc toho ze mě netahal. Však se poznají.<br>
+Po páté napsal Ondra zda bych nechtěl přijet na film, či ne pivo. K nim se mi nechtělo. 13 kilometrů do kopce. Navíc večer přijíždela Verunka a já jí vyzvedával na hlaváku. Eva ale chtěla kelímek ze Světozoru. Dohodli jsme se že zajdeme tam a dáme si něco u kina.<br>
+Sjel jsem na můstek metrem. Už nepršelo, mohl jsem jet na kole. Ale nějak jsem se na to necítil. Povídali jsme si o filmu Substance, knížkách (Ondra přečetl jméno větru a Verunce. Zas tak moc toho ze mě netahal. Však se poznají.<br>
 Domů mě odvezla šestka. Veru vlak měl zpoždění a na hlaváku jsme se v metru nakonec potkali až před jedenáctou. Přijela s bráchou a s hrncem na zavařování. Brácha vystupoval na Vltavský a když Jsme se dostali na Střížkov, Veru vypadala, že je úplně hotová. Kde pak v noci vzala energii mi bylo záhadou.
 
 <a href="../images/2024_october/11_1.jpg" target="_blank"><img src="../images/thumbnails/2024_october/11_1.jpg"></a>
@@ -184,7 +184,7 @@ V noci jsem se budil a cítil, že na mě jde nemoc. Jestli bylo něco ve zvlhč
 Rozhodl jsem se že homeoffice, Česnečka a čaj je plán. Mouča chtela aktualizovat nějaký návody, tak jsem se pustil do nich. Návody jdou psát i z postele.<br>
 Večer jsme měli jít s Verunkou do kina. Opravdu jsem chtěl, takže jsem si řekl, že je třeba spravit se dost na to abych to zvládl. Víc česneku, víc čaje, víc teplých ponožek, víc klidu.<br>
 A prošlo to. Když jsem v půl pátý mířil na tramvaj, cítil jsem se skoro ok. Ne tolik abych Verunce dal pusu, ale dost na to abych seděl vedle ní. Čekal jsem ve výlezu z metra, ale nejak mě dokázala obejít a napsat mi, že čeká u kina.<br>
-Doběhl jsem za ní a spolu jsme vyrazili do lepší společnosti. Vern dostala popcorn a láhev stelly, já se na nic z toho necítil. Uprostřed uprostřed bylo plno, ale nahoře na boku byla dvojsedačka. Rozdělil jsem se o mandarinku a vyslechli jsme si proslov pro ředitele.<br>
+Doběhl jsem za ní a spolu jsme vyrazili do lepší společnosti. Veru dostala popcorn a láhev stelly, já se na nic z toho necítil. Uprostřed uprostřed bylo plno, ale nahoře na boku byla dvojsedačka. Rozdělil jsem se o mandarinku a vyslechli jsme si proslov pro ředitele.<br>
 Film Výjmečná situace byla hovadina. Ale vtipná hovadina. Vetchý si dokázal dělat prdel sám ze Sebe. Být v kině se svojí holkou je lepší zážitek než sám. Verunka navíc dostala ještě dva lístky. Možná mě prý vezme ještě jednou.<br>
 Na Andělu jsme se rozloučili . Já sjel sedmičkou do Penny, koupil věci na další Česnečku, vincentku amléko na masala. Doma uvařil polívku, koukl na díl Lost a šel spát.
 
@@ -200,21 +200,17 @@ Přes den jsem toho tolik nezvládl. Česnečka k obědu byl spíš vrchol. Ale 
 
 ### 17.10. Malé strasti
 
-Začínal jsem mít pocit, že nad věcmi ztrácím kontrolu. Převážně to bylo proto, že jsem zaspal. Což vlastně bylo dobrý. Nachlazení nevyléčíš tak, že nespíš. To že jsem ale ztratil svůj původní oblek a neměl kravatu, to že jsem ani nepohnul s věcma pro Vojtu, to že.. prostě jsem jenom zaspal a měl rýmu. Jinak bylo všechno v pohodě.
-
-Bylo krásně, měl jsem supr holku, bezva práci, kamarády.. byl jsem dobrej. Napsal jsem si to a uklidnil se. Přes den jsem se věnoval tiskárnám. Ivan chtěl abych nahrál nový firmware. Já chtěl aby exekutor nahrál nový firmware. Nešlo to tak snadno. AVR dude a Slicer nahrávaly firmware jinakSlicer měl vlastní AVR Dude, bral parametry, které ten čistý nechápal.
-
-Došel jsem tak daleko, že jsem si překládal slicer u sebe ale vykuchat z něj nahrávací utilitu nešlo. Vzdal jsem to a nahrál to všechno laptopem.
-
-Fila měl nějaký potíže. Kdo mu comunikovalo a pak přestalo. Přesměroval si ho do Lahti, kde ještě nebylo. Šel jsem mu to vysvětlit, ale choval se jako debil, jinak to napsat nešlo. Prý to rozchodil sám, jenže nerozchodil. historie erpa nelže. Prý chvátal a neměl čas. Rápal se u toho v zapnuté elektronice. Když jsem mu řekl, že takhle toho víc zničí nasral se a řekl, že simám stěžovat někomu jiným. Vlastně to nebyla blbá rada. Došel jsem za Omarem a řekl mu to.
-
+Začínal jsem mít pocit, že nad věcmi ztrácím kontrolu. Převážně to bylo proto, že jsem zaspal. Což vlastně bylo dobrý. Nachlazení nevyléčíš tak, že nespíš. To že jsem ale ztratil svůj původní oblek a neměl kravatu, to že jsem ani nepohnul s věcma pro Vojtu, to že.. prostě jsem jenom zaspal a měl rýmu. Jinak bylo všechno v pohodě.<br>
+Bylo krásně, měl jsem supr holku, bezva práci, kamarády.. byl jsem dobrej. Napsal jsem si to a uklidnil se. Přes den jsem se věnoval tiskárnám. Ivan chtěl abych nahrál nový firmware. Já chtěl aby exekutor nahrál nový firmware. Nešlo to tak snadno. AVR dude a Slicer nahrávaly firmware jinakSlicer měl vlastní AVR Dude, bral parametry, které ten čistý nechápal.<br>
+Došel jsem tak daleko, že jsem si překládal slicer u sebe ale vykuchat z něj nahrávací utilitu nešlo. Vzdal jsem to a nahrál to všechno laptopem.<br>
+Fila měl nějaký potíže. Kolo mu komunikovalo a pak přestalo. Přesměroval si ho do Lahti, kde ještě nebylo. Šel jsem mu to vysvětlit, ale choval se jako debil, jinak to napsat nešlo. Prý to rozchodil sám, jenže nerozchodil. Historie v ERPu nelže. Prý chvátal a neměl čas. Rýpal se u toho v zapnuté elektronice. Když jsem mu řekl, že takhle toho víc zničí nasral se a řekl, že si mám stěžovat někomu jiným. Vlastně to nebyla blbá rada. Došel jsem za Omarem a řekl mu to.<br>
 Večer jsme šli na badminton s Martou. Teda jeli. Autobusem a dalším autobusem. Porazila mě. V jedné ze čtyř her. Rozhodně se zlepšovala. Povídali jsme si a vtipkovali. Badminton s ní má terapeutický efekt.
 
 ### 18.10. Rodiny a Irové
 
 Oblek jsem měl. Kravatu a motýlka. Kravatu, nebo motýlka? Motáka. Jenže jak ho uvázat? Asi 20 minut jsem nad tím laboroval a pak jsem pochopil, že je třeba ho přežit. Vzal jsem na to sešívačku. A díky ní jsem vypadal jak fešák a mohl jsem jet za svojí holkou.<br>
-Rychlý telefonát na Střížkov a popoběhnutí na vlak. 59 a Céčko. Okolo domu, zvonek a schody nahoru. Moje krásná holka tam za dveřmi stála v županu. Její sexy lněná šaty visely na dveřích pokoji a v kuchyni byly lasagně. Nebyl jsem nejšťastnější kluk na světě?<br>
-Asi ne. Ale byl jsem šťastnej až na půdu. I pusa i lasagně chutnaly skvěle. Bešamel byl tentokrát z květáku. Vera měla místo lasagní špagety. Dokázal jsem se nepokecat. Po jídle si Veru z vlasů vytáhla ponožky na kterých byly namotané místo natáček, oblékla se do těch krásných šatů a společně jsme vyrazili na autobus. Málem jsme jeli naopak, ale naštěstí jsem Veru zastavil. 177 nám ujela před nosem, ale jeli jsme s extrémním předstihem a tak to nebyl problém.<br>
+Rychlý telefonát na Střížkov a popoběhnutí na vlak. 59 a Céčko. Okolo domu, zvonek a schody nahoru. Moje krásná holka tam za dveřmi stála v županu. Její sexy lněná šaty visely na dveřích pokoji a v kuchyni byly lasagne. Nebyl jsem nejšťastnější kluk na světě?<br>
+Asi ne. Ale byl jsem šťastnej až na půdu. I pusa i lasagne chutnaly skvěle. Bešamel byl tentokrát z květáku. Vera měla místo lasagní špagety. Dokázal jsem se nepokecat. Po jídle si Veru z vlasů vytáhla ponožky na kterých byly namotané místo natáček, oblékla se do těch krásných šatů a společně jsme vyrazili na autobus. Málem jsme jeli naopak, ale naštěstí jsem Veru zastavil. 177 nám ujela před nosem, ale jeli jsme s extrémním předstihem a tak to nebyl problém.<br>
 183 a 109. V obou autobusech jsme byli suverénně nejlíp oblečení. Nebylo to asi tak těžký. V Do Po jsme podešli vlak a došli do Hotelu Svornost. Ujal se nás Kuba, připnul nám Myrtu a představil Veroniku. Dozvěděli jsme se, že Martin nepřevezl dort v jednom kuse, ale dokázali ho nějak polepit. Pan Herman byl docela sympoš. Verunka začala konverzovatS Ostravskými druhy o mě neznámých telatech a čas obřadu se blížil.<br>
 Odehrával se venku za hotelem. Udělali jsme špalír a koukali jsme jak Tomova mamka přivedla Toma a Terky táta nevěstu. Obřad to byl menší než Anet a Filipa. Ale bylo to stejné silný. A mojí holku opět svatebčané viděli poprvé v den svatby. Točil jsem se v kruzích? Nebo to dělat líp? Těžko říct.<br>
 Házela se rýže, házela se kytice a házel se podvazek. Pila se slivovice a usedlo se k hostině. Byl raut. Dost masožravý. Verunka i já jsme si dali výjimku a pustili se do toho.
@@ -273,11 +269,11 @@ Doma jsem zkusil upéct chleba z přezrálého těsta.. Dopadl tragicky. Nejhů�
 
 Má mysteriozní bolest zad mě neopouštěla. Posunutí sedla, plavání, jóga, Jiná židle v práci, nic z toho nepomáhalo. Snad to opravdu nebyly ledviny. Jiné příznaky ledvinových obtíží jsem nepociťoval. Ale už mě to fakt začínalo štvát.<br>
 V práci jsem se věnoval příkazům pro ovládání PCD operátorem EMV měření. Rozhodl jsem se zrušit obezličku S NRT, zakázat interrupt na Rx a spustit GPT při Tx Done. Tak mi to v hlavě znělo správně. Trochu jsem bojoval S Časovačem. GPT běžel maximálně 38 ms. Napsal jsem si rekurzivní smyčku.<br>
-A na konci dne z toho má radost. Dělalo to co jsem chtěl! Desky byly objednaný, součástky Vládá připravoval, tělo zámku bylo navržený a Číňani na něm pracovali, vypadalo to dobře.<br>
+A na konci dne z toho má radost. Dělalo to co jsem chtěl! Desky byly objednaný, součástky Vláďa připravoval, tělo zámku bylo navržený a Číňani na něm pracovali, vypadalo to dobře.<br>
 I přes oběd v lednici jsem s kluku šel k Šebastiánovi. Měli bulgur s tofu, cibulí, párkem a česnekem. K tomu cibulačku. Udělal bych to za třetina ceny, ale bylo to fakt dobrá.<br>
 Oběd z krabičky jsem měl k večeři.<br>
 Nejdůležitější vecí dne bylo to, že jsem Vojtovi napsal,že pro něj nemůžu dělat. Že to nezvládám časové a že potřebuje někoho kdo ESP rozumí teď, ne za rok. Někoho kdo má čas.<br>
-Vzal to dobře. Musel to tušit. Free bike bere času vandal a to že Vláďa zvláda tolik věcí naráz musí být vykoupení tím, že nemá holku. Ivan zase nespí a spoustu toho 79 něj dělá velká rodina.<br>
+Vzal to dobře. Musel to tušit. Free bike bere času vandal a to že Vláďa zvládá tolik věcí naráz musí být vykoupení tím, že nemá holku. Ivan zase nespí a spoustu toho 79 něj dělá velká rodina.<br>
 Ač je obdivuju, potřebuju to jinak. Potřebuju svůj čas, Čas se svojí holkou. Čas na sport a čas na spánek.Zdraví na prvním místě. Fyzický a hlavně psychický.<br>
 Cestou domů jsem přemýšlel o tom jestli budu schopnej Veru milovat tak jako Jsem miloval Misku. A dospěl jsem K tomu že ne. Miška je moje první opravdová láska. První a který jsem věřil, že bude ta poslední. To už nezažiju. To neznamená, že nejsem schopnej opět milovat. Ale bude to jiný. Vždycky je to jiný. Ale první je to jen jednou.<br>
 Doma jsem dovařil čaj do kom bucky a u dílu LOST snědl chleba. Přede mnou byly prázdniny. Pizza, Polsko a Verunka.
@@ -286,24 +282,24 @@ Doma jsem dovařil čaj do kom bucky a u dílu LOST snědl chleba. Přede mnou b
 
 Záda mě stále trápila, ale začaly prázdniny začaly. Do ničeho se mi nechtělo a tak jsem se válel, četl a psal v posteli. Verunka mi napsala, že potřebuje restart už dnes a že v to půjde na Šatku do sauny a plavat. Odpověděl jsem, že se přidám, ale až na druhou polovina, neb to mám docela daleko a pojedu na kole.<br>
 Dal jsem věci do pračky, něco málo snědl a v modrém svetříku vyrazil na kole přes Karlín do Kobylis.<br>
-Bylo nádherné. Podzimní barvy stromů a slunečno. Extrémně mě ta jízda bavila. V Holešovičkách jsem asipoprvé přejel po mostě. Bylo to lepší než podcházet dírou. Nevím, proč jsem to ty roky, co jsem plaval na Šutce pravidelně nedělal.<br>
-Najít Vern bal trochu oříšek. Psala mi, ale telefon nezvedala. Po chvíli jsem jí ale spatřil v pomalé dráze. Většina ostatních byla plná školáků. Nám sice prázdniny začly , ale vlastně byl všední den.<br>
-Po pár bazénech měla Veru dost, šla ven na kafe. Já doplaval svůj kilometr a vyšel ven za ni. Vlastně si to kafe dát nestihla a tak jsme se domluvili, že si ho dáme na Střížkově v Park Café. S mokrou hlavou a bez bikaskavingu v dosahu jsme se rozdělili aopět potkali u kavárny.<br>
-Dvě kávy a makronka. Výhled do parku a slzy v očích. Z Veru vypadlo, že je toho na ni trochu moc a druhá Very s paní Kolomsovou se zasnoubili a neprodlouží ji smlouva. Kdyby nic nenašla, mohla by ke mně, ale bylo na to brzo, na tom jsme se shodli.<br>
-Dopili jsme kafe a šli k ní. V kuchyni, kde se nám úplně nedařilo dostat se k vaření těstovin Vera prohlásila „Na co si tu hrajeme, jdeme do postele mi't tex." Jenženěkdy v půli přišla druhá Verča a její štrachání vedle nás oba vypnulo. Sbalili jsme se a jeli ke mně.<br>
-Metrem spolu, z Pražáku zvlášť, od nádraží zase spolu. Pan Kepka Vern překvapil svým slovníkem. „Hovna všude, psi posraný!"<br>
+Bylo nádherné. Podzimní barvy stromů a slunečno. Extrémně mě ta jízda bavila. V Holešovičkách jsem asi poprvé přejel po mostě. Bylo to lepší než podcházet dírou. Nevím, proč jsem to ty roky, co jsem plaval na Šutce pravidelně nedělal.<br>
+Najít Veru bal trochu oříšek. Psala mi, ale telefon nezvedala. Po chvíli jsem jí ale spatřil v pomalé dráze. Většina ostatních byla plná školáků. Nám sice prázdniny začly , ale vlastně byl všední den.<br>
+Po pár bazénech měla Veru dost, šla ven na kafe. Já doplaval svůj kilometr a vyšel ven za ni. Vlastně si to kafe dát nestihla a tak jsme se domluvili, že si ho dáme na Střížkově v Park Café. S mokrou hlavou a bez bikesharingu v dosahu jsme se rozdělili a opět potkali u kavárny.<br>
+Dvě kávy a makronka. Výhled do parku a slzy v očích. Z Veru vypadlo, že je toho na ni trochu moc a druhá Veru s panem Colombem se zasnoubili a neprodlouží jí smlouva. Kdyby nic nenašla, mohla by ke mně, ale bylo na to brzo, na tom jsme se shodli.<br>
+Dopili jsme kafe a šli k ní. V kuchyni, kde se nám úplně nedařilo dostat se k vaření těstovin Vera prohlásila „Na co si tu hrajeme, jdeme do postele mít sex." Jenže někdy v půli přišla druhá Verča a její štrachání vedle nás oba vypnulo. Sbalili jsme se a jeli ke mně.<br>
+Metrem spolu, z Pražáku zvlášť, od nádraží zase spolu. Pan Kepka Veru překvapil svým slovníkem. „Hovna všude, psi posraný!"<br>
 Doma jsme se pustili do těstovin. Sesypali jsme zbytky holinek, vřeten a dalších těstovin. Použili jsme Verunčina omáčku, mají parseku a všechno to smatlali dohromady. Bylo to ok. A hlad je nejlepší kuchař. Byl to oběd a byly čtyři hodiny.<br>
 Po jídle jsme tančili a pak se to nějak zvrtlo.<br>
-K večeři jsem udělal tortilly. Rýži s mexickou plechovkou jsem smíchal jako výplň. Zelí, papriku a cibulku jsem nakrájel a Veru tortily zamotala. Během konzumace Veru přidávala Pol v Krakově do mapy.
+K večeři jsem udělal tortily. Rýži s mexickou plechovkou jsem smíchal jako výplň. Zelí, papriku a cibulku jsem nakrájel a Veru tortily zamotala. Během konzumace Veru přidávala Pol v Krakově do mapy.
 
 ### 26.10. Ti s tou pizza peci
 
 Nebyl chleba. Než jsme se ale vyhrabali z postele, Lidl otevřel a horský chléb, mandle v čokoládě, cider pro Sáru a suchý šampon pro Vera na cestu putovaly s námi zpět do domu, kde Pan Kepka krmil Minu.<br>
-Tvaroh by to asi dal a vakuovaná řepa taky, ale měl jsem chuť na řepnou pomazánku. Nastrouhat jsem řepu, smotal jí se dvěma tvarohy, Vern dodala trochu soli a pepře a šli jsme hodovat. Byla opravdu dobrá. Vlastně mi vůbec nedošlo, že tvaroh je živočišnej. Ale Veru to zvládla. Asi začínaly prázdniny a prázdniny dovolají vyjímky. Navíc nás čekala Pizza.<br>
+Tvaroh by to asi dal a vakuovaná řepa taky, ale měl jsem chuť na řepnou pomazánku. Nastrouhat jsem řepu, smotal jí se dvěma tvarohy, Veru dodala trochu soli a pepře a šli jsme hodovat. Byla opravdu dobrá. Vlastně mi vůbec nedošlo, že tvaroh je živočišnej. Ale Veru to zvládla. Asi začínaly prázdniny a prázdniny dovolají vyjímky. Navíc nás čekala Pizza.<br>
 Sára psala, že pokud je chceme vidět fresh a ne vzombie stavu, měli bychom vyrazit vlakem ve 12. To šlo zařídit. V posteli čas utíká jinak.<br>
 V kupé jsme byli první . Jedno sedadlo mělo místenku, ale nás to příliš netrápilo. Na hlaváku se vlak zaplnil k prasknutí. Na sedadlo 105 se posadila babička z Hory, která nedbala našich varování, že jí co nevidět nědko vyhodí.<br>
 Paní co vypadala jako d. k. Rowling si s ní povídala. Všichni si nějak povídali. Kromě pána, který přistoupil v Libni a babičku vyhodil. Veru se jí sželalo a pustila ji na své sedadlo. Místo toho použila moje nohy. Dráty by nám měly vrátit peníze za naší obětavost.<br>
-Nohy mi neupadly. Revizor celou cestu nepřišel a v Hořena nás motorák čekal. Tam už nám lístky kontrolovali. Řekl jsem Verance, že po vystoupení z vlaku už nám zbývá jen 7 kilometrů pěšky. Její pohled byl k nezaplacení. Nechtělo se jí tahat s věcmi. Jinak by to ale dala.<br>
+Nohy mi neupadly. Revizor celou cestu nepřišel a v Hořena nás motorák čekal. Tam už nám lístky kontrolovali. Řekl jsem Verunce, že po vystoupení z vlaku už nám zbývá jen 7 kilometrů pěšky. Její pohled byl k nezaplacení. Nechtělo se jí tahat s věcmi. Jinak by to ale dala.<br>
 Naštěstí to ale nebylo 7 kilometrů. Maximálně jeden. Cestou jsme potkali sošku truck, ale byla polámaná, takže jsme jí nechali v popelnici.<br>
 Jarda už mel rozpálenou pec. Nebo spíš roztápel pec. Darovali jsme pivo a cider, vytáhli pomazánku a pustili se do povídání si. O zemědělce, o Albánii, o Verunce a o pizze. Pochopitelně.
 
@@ -327,7 +323,7 @@ Průvodčí přišel ve 3/4 na šest a tím, že za 35 minut přijedeme do Krako
 Převlékli jsme se , sbalili a vyrazili ven.. Neděle ráno u Polska znamená, že město je prázdné.. Na nádraží byla otevřená jedna pekárna a v ní seděla kopa Čechů, která přijela vlakem. Přidali jsme se k nim. Koupili dvě kávy, latté podle mě bylo kapučíno a naopak. O půl hodiny jsme vyrazili do parku, který se rozprostíral okolo hradeb starého města. První co jsme potkali byl Barbakán. Malá, kulatá tvrz, která se Vera moc líbila.Dál nás nohy vedly na Rynek Glonny. Hlavní náměstí, kde lidi krmili holuby, uprostřed stálo Muzeum Narodowa a v tunelu byl střed města.<br>
 Vlezli jsme do sochy hlavy, chvíli chodili starým městem nazdařbůh (no pun intended) a pak se vynořili o kus dál v Okružním parku. Slunce a podzimní barvy parku extrémně slušely.<br>
 Procházeli jsme se tím nádherným podzimem až do podhradí a dál s dvěma brity nahoru na Zámek Wawel. Jeho kopec sliboval výhledy do okolí. A ty skutečně přišly. Na nádvoří sice byla zeď, ale na opačné straně budovy s kasou a Informacemi jsme našli lehátka.<br>
-Pustili jsme se tam do sýru a vína, které mi nabalila mámaa se kterým se mi nechtělo tahat. Sluníčko stoupalo a po chvíli to bylo na tričko. Vern se pustila do Glucose Revolution a já jsem si udělal pár poznámek do deníku.<br>
+Pustili jsme se tam do sýru a vína, které mi nabalila mámaa se kterým se mi nechtělo tahat. Sluníčko stoupalo a po chvíli to bylo na tričko. Veru se pustila do Glucose Revolution a já jsem si udělal pár poznámek do deníku.<br>
 Pokračovali jsme na informace. Prohlídky hradu byly drahý a působily nudně. Radši jsme si prošli horní nádvoří, pustili si nějakou historií do sluchátek a pak sešli z kopce dolů.<br>
 Ulice starého města nás opět dovedli na Stary Rynek.Postávali jsme a Španělsky mluvící skupiny. Rozhodně jsem průvodkyni nerozuměl. Ale nebyla to jen hatmatilka. Myslím že za rok už to trochu půjde.<br>
 Co dál? Pirogy. To dál. A odložení bagáže. Kousek od ubytka měla být tržnice.. A byla. A za tržnicí hip food court. A na něm dodávka s pirogy. Vybrali jsme špenátové, řepové a zelnohoubové. Řepové byly nejlepší.
@@ -382,7 +378,7 @@ Asi za to mohla únava a sen před spaním. Byl jsem po něm fakt grogy.<br>
 Taky možná pomohl diktafon. To myšlenkový uzavření dne.<br>
 Před odchodem mě Verunka ještě zvládla unavit. Chvilku jsem protestoval a přestal jakkoliv spolupracovat, ale to ji bavilo snad ještě víc. Kolem desáté jsme ale vyrazili ven. Do Lajkonika na snídani. Dát si Pumpkin Spiced Latté, protože to byl *Šmak podzimowy*.<br>
 Oba jsme si dali to samý. Latté a Bagel Krakovsky. Bagel byl moc dobrý, měl v sobě takový syrový slepenec se semínky. Ale ten drink byl víceméně jen cukr. A něco co pálilo v krku, ale spíš jen cukr. Bylo to dost energie na to, abychom ušli cestu, kterou jsme naplánovali 3x.<br>
-Pěšky kolem hradu, skrz centrum, k řece, kolem řeky, k potoku, kolem potoka a pak parkem na kurkovu horu. Ne že se se tak jmenovala, ale při pohledu na ní je pochopitelný, proč ji tak Vern překřtila.<br>
+Pěšky kolem hradu, skrz centrum, k řece, kolem řeky, k potoku, kolem potoka a pak parkem na kurkovu horu. Ne že se se tak jmenovala, ale při pohledu na ní je pochopitelný, proč ji tak Veru překřtila.<br>
 Jak jsme naplánovali, tak jsme udělali. Měl jsem docela radost ze svého orientačního smyslu . Čekal jsem, že z centra se vynoříme a obchodního domu s nápisem JUBILET a to se přesně stalo.<br>
 U řeky jsme potkali zastavku lodí. Mohla by nás cestou zpátky svést do Židovské čtvrti. Ale nechtělo se mi 24 zlotých za jednu jízdu bilo dost.<br>
 U potoka byl stánek, kde paní dělala Zapiekanku. Vybrali jsme tu s jarní cibulkou. Byl toho randál.
