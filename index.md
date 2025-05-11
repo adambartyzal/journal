@@ -2,7 +2,7 @@ Původně cestovní, ale od roku 2022 i osobní deník sloužící jako má exte
 
 ## [2018](2018.md)
 
-Rok, kdy jsme byli na semsetr v Asii.
+Rok, kdy jsme byli na semestr v Asii.
 
 ## [2019](2019.md)
 
@@ -30,3 +30,4 @@ Jaro plné slz, Franz III indigový, Léto bez zubů, Brontíci, Řehoř, Verunk
 
 ## [2025](2025.md)
 
+Pospolu, na běžky, do Ostravy, do Paříže, Veru do Rumunska, zámek s terminálem 
