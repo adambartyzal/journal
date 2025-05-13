@@ -128,7 +128,7 @@ Při návětěvě dalšího parku, jsem se napápálil podobně jako už jednou 
 
 <a href="../images/2021_november/19_4.jpg" target="_blank"><img src="../images/thumbnails/2021_november/19_4.jpg"></a>
 
-Zepředu byly schody. To me naštvalo, ale schody vedly k zamčené bráně a za ní byli turisté, kteří chteli dovnitř. Bylo trochu komické jim zevnitř vysvětlovat jak na to. Vrátil jsem se tedy nahoru, zacvičil si na bradlech a u brány v plotě jsem potkal právě ty turisty, které jsem nasměroval po vnější straně.<br>
+Zepředu byly schody. To me naštvalo, ale schody vedly k zamčené bráně a za ní byli turisté, kteří chtěli dovnitř. Bylo trochu komické jim zevnitř vysvětlovat jak na to. Vrátil jsem se tedy nahoru, zacvičil si na bradlech a u brány v plotě jsem potkal právě ty turisty, které jsem nasměroval po vnější straně.<br>
 Maje už skoro 30 tisíc kroků, vydal jsem se na hostel. Tentokrát z pravé strany. Cestou jsem telefonoval s mamkou, která netrpělivě vyzvídala mé zážitky. I z prava jsem trefil domů bez mapy.
 
 ### 20.11. Vanessa a Řím

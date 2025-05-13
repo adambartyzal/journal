@@ -58,7 +58,7 @@ Příště se musím připravit víc, ne jen tak nazdařbůh vyjet ven.
 ### 2. 11. Cizrna na paprice jí nechutná
 
 Probudil jsem se v mnohem lepším stavu než ve kterém jsem usínal. Ale lenost mě neopouštěla. Díl Lost, kombucha, kafe a válení se až do poledne./
-Potřeboval jsem sítko na slévání kombachy a sítko na lovení bordelu. A trychtýř. Rozhodl jsem se dojet do Ikey, protože Veru se pustila do zavařování cizrny a já chtel za ní. No a Ikea je podobným Smerem. Ne úplně, ale trochu jo./
+Potřeboval jsem sítko na slévání kombachy a sítko na lovení bordelu. A trychtýř. Rozhodl jsem se dojet do Ikey, protože Veru se pustila do zavařování cizrny a já chtěl za ní. No a Ikea je podobným Smerem. Ne úplně, ale trochu jo./
 Sedničkou, béčkem a pak pěšky. Napřed oběd a trochu praní nad nekonečným decafem a pak dolů do spletice bytových doplňků a tisíců lidí. Sítko jsem našel. Taky skleněnýbarel na kombuchu a láhve s integrovanými uzávěry. Nakonec mi ale přišlo, že láhve od Bernarda budou levnější a navíc budou mít obsah.
 
 <a href="../images/2024_november/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/2_1.jpg"></a>
@@ -124,7 +124,7 @@ Tramvají jsme dojeli na béčko a na kolbence se rozloučili. Chodit trávou me
 Modem, který jsem tak složité pájel nefungoval. Rozhodl jsem se, že ho sundám, očistím a připájím pouze ty piny, které potřebuji. Víc kalafuny. lepší distribuce tepla.<br>
 Po druhém pájení pořád nic. Spoléhal jsem se totiž na dioda a Vláďa vybral špatný tranzistor. Objevil Jsem to osciloskopem. Po stažení PWR_KEY tahal stat za gatu tranzistoru ve správném rytmu.<br>
 Objevil jsem to dost pozdě na to, abych se stihl otočit doma před plánovaným badmintonem. Brnknul jsem Mark a vyrazil rovnou do Astry.<br>
-Vzala mi raketu, ale boty jsem neměl. Marta zase potratila. Byla z toho smutná, ale ve hře mi dávala co proto.<br>
+Vzala mi raketu, ale boty jsem neměl. Marťa zase potratila. Byla z toho smutná, ale ve hře mi dávala co proto.<br>
 Na konci jsem byl docela hotovej a začal hrát hodně spodem. Převážně abych se to víc naučil, ale tak proto, že mi trochu ruplo v zádech.<br>
 Cestou jsem to ještě vzal přes Kaufland, koupil řemeslný chleba ve slevě a před krámem ho Omylem mrskl na zem.<br>
 Doma jsem ho trochu opláchl a respekt v troubě. To fungovalo jako dezinfekce i jako očerstvení.

@@ -34,7 +34,7 @@ Oproti tržnicím v Asii bylo všechno organizované. A taky cenově úplně jin
 
 <a href="../images/2022_october/1_2.jpg" target="_blank"><img src="../images/thumbnails/2022_october/1_2.jpg"></a>
 
-Dál se moje kroky ubírali skrze malé uličky vnitřního města. A na chvíli jsme se dokonce ztratil. Ať už ale člověk chce či nechce.. v La Rochelle vždycky skončí na Vieux Portu. Do oka mi parla mořská brána. Vypadalo to, že se dá vylézt nahoru, odkud by mohl být výhled. V mlho dešti, tedy výhled ne moc dobrý, takže za ruské kolo by nemělo smysl mrhaz penězi, ale z veže.. proč ne. I za tu ale chteli peníze. Vydřiduši žabožroutští.
+Dál se moje kroky ubírali skrze malé uličky vnitřního města. A na chvíli jsme se dokonce ztratil. Ať už ale člověk chce či nechce.. v La Rochelle vždycky skončí na Vieux Portu. Do oka mi parla mořská brána. Vypadalo to, že se dá vylézt nahoru, odkud by mohl být výhled. V mlho dešti, tedy výhled ne moc dobrý, takže za ruské kolo by nemělo smysl mrhaz penězi, ale z veže.. proč ne. I za tu ale chtěli peníze. Vydřiduši žabožroutští.
 
 <a href="../images/2022_october/1_3.jpg" target="_blank"><img src="../images/thumbnails/2022_october/1_3.jpg"></a>
 

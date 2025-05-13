@@ -47,7 +47,7 @@ A zbytek dne jsme šroubovali, rozebírali, lepili a připravovali na odvoz o v�
 
 <a href="../images/2025_january/1_2.jpg" target="_blank"><img src="../images/thumbnails/2025_january/1_2.jpg"></a>
 
-Do Vršek jsme dojeli po osmé. Začínali jsme bydlet spolu. Byl to velkej krok. Reba se mě ptala jestli jsem to opravdu chtěl, nebo to byla znouzecnost. 70 na 30 asi těžko říct. Těšil jsem se na to víc než mě to děsilo. Takže dobrý.
+Do Vršek jsme dojeli po osmé. Začínali jsme bydlet spolu. Byl to velkej krok. Réba se mě ptala jestli jsem to opravdu chtěl, nebo to byla znouzecnost. 70 na 30 asi těžko říct. Těšil jsem se na to víc než mě to děsilo. Takže dobrý.
 
 ### 2.1. Vlakem
 
@@ -75,15 +75,15 @@ Na kole byla pěkná kosa. Verunka mě pochopitelně předjela. Doma jsme posunu
 
 ### 4.1. Střížkov → Vršovice
 
-Všechno bylo naplánovaný. Dodávka. Auto s tátou a bráchou. Nábytek sbalený, obalený a věci v přepravkách. Marta s námi počítala a tak zbývalo jen vynést odpad a připravit nějaké občerstvení. Do obchodu jsem vyrazil já, kdyby Honza s Mai přijeli. Vzal jsem bagety, pomazánky, zeleninu a sýr.<br>
+Všechno bylo naplánovaný. Dodávka. Auto s tátou a bráchou. Nábytek sbalený, obalený a věci v přepravkách. Marťa s námi počítala a tak zbývalo jen vynést odpad a připravit nějaké občerstvení. Do obchodu jsem vyrazil já, kdyby Honza s Mai přijeli. Vzal jsem bagety, pomazánky, zeleninu a sýr.<br>
 Přijeli trochu se zpožděním. Čekal jsem, že věci se budou natahovat. Honza byl fakt sympoš. Mai neuměla anglicky a tak jsem poslouchal aspoň španělštinu a jejich dcerka vypadala vesele a energicky. Ale ne nemluvila. Alespoň ne přede mnou.<br>
 S Honzou jsme začali tahat věci do auta. Po chvíli zavolala Martě, že vyráží k nám. Poprosil jsem jí ještě, ať vezme klíče, abychom měli dvoje, dokud Kendy nepřiveze svoje.<br>
-Když přišla pustila se do nošení s námi. Marta vlastně měla dodávku. Vůbec mi to nedošlo. Taky mi nedošlo, že Ondra s Rebekou mi dluží tak tři stěhování. A už vůbec mi nedošlo, že v práci máme tři dodávky. Ale takhle jsem poznal Verunky kamarády a to bylo fajn.<br>
-Když bylo naloženo, vyrazili jsme já, Marta a Honza na sběrný dvůr. Do re-use centra nakonec nepřišlo nic. Stůl jsme rozmlátili palicí na malé kusy a zbytek přišel do různých kontejnerů
+Když přišla pustila se do nošení s námi. Marťa vlastně měla dodávku. Vůbec mi to nedošlo. Taky mi nedošlo, že Ondra s Rebekou mi dluží tak tři stěhování. A už vůbec mi nedošlo, že v práci máme tři dodávky. Ale takhle jsem poznal Verunky kamarády a to bylo fajn.<br>
+Když bylo naloženo, vyrazili jsme já, Marťa a Honza na sběrný dvůr. Do re-use centra nakonec nepřišlo nic. Stůl jsme rozmlátili palicí na malé kusy a zbytek přišel do různých kontejnerů
 
 <a href="../images/2025_january/4_1.jpg" target="_blank"><img src="../images/thumbnails/2025_january/4_1.jpg"></a>
 
-Marta vyrazila pěšky pres Grebovku don. My nabrali ostatní na Ukrajinské a vyrazili na Střížkov. Skoro. Na Karlově Verče došlo, že nemá klíče. Zpátky na Ukrajinské z toho měla Skupinka lidí, jenž stěhovala nové nájemce do bytu po paní Sojková docela sranda.<br>
+Marťa vyrazila pěšky pres Grebovku don. My nabrali ostatní na Ukrajinské a vyrazili na Střížkov. Skoro. Na Karlově Verče došlo, že nemá klíče. Zpátky na Ukrajinské z toho měla Skupinka lidí, jenž stěhovala nové nájemce do bytu po paní Sojková docela sranda.<br>
 Druhý pokus vyšel. Magistrála, Argentinská, Střížkov. Táta s Lukášem už na nás čekali. Nějak trochu hekticky jsem se šel představit a Hynek hned nabídl tykání. Byl to vtipkovi.<br>
 Verunka měla věcí víc. Ale organizaci jsmevěnovali tolik Času, že všechno šlo dobře. Akorát jsme dovnitř nanosili dost sněhu.<br>
 Když bylo naloženo, rozloučili jsme se s druhou Verunkou a vyrazili zpátky do Vršek. Tentokrát My dva v Rapidu s Hynkem a Lukášem a Honza v dodávce jen s rodinou.<br>
@@ -97,7 +97,7 @@ Bydleli jsme spolu! A šli jsme to zpečetit.
 
 ### 5.1. Řehoř pomáhá
 
-Napřed jsem v neděli nechtel delat vůbec nic, ale bylo třeba trochu z minimalizovat chaos a rozložená postel vyzývala ke složení.<br>
+Napřed jsem v neděli nechtěl delat vůbec nic, ale bylo třeba trochu z minimalizovat chaos a rozložená postel vyzývala ke složení.<br>
 Napřed ale snídaně. Rozpekl jsem v troubě zlevněné pečivo z Lidlu a Verunka připravila salát. Bylo toho vlastně kopa.<br>
 K práci jsem si otevřel lahváč, neb byl v lednici. už tak půl roku a Veru likvidovala věci, co tam nepatřily. Taky lednici vymyla. A pustila se do oběda.<br>
 Já s postelí postupoval, ale dával jsem si pauzy.<br>

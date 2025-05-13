@@ -84,8 +84,8 @@ Zpátky jsme jeli busem s přestupem na Lhotce. Oba jsme měli plný batoh tašk
 
 Byli jsme pozvaní k Bekrům na oběd a deskovky. Dopo jsme řešili, co jim přineseme. Štrůdl byl jasná volba. Jak ho ale zafinancovat?<br>
 V penězích začal být bordel. Rozhodli jsme se založit společný účet v Revolutu. V deset dopoledne jsem tak v Lidlu nakoupil jablka, listové těsto a spoustu dalších dobrot za společné peníze.<br>
-Štrůdl jsem udělal skoro sám. Vilda taky pekl. Tvarohovou buchtu. A oba vařili To furita. Burrita s tofu. Bylo to skvělý. Verunka vyprosila recept.<br>
-Pak jsme hráli hry. 2x Games. Hra s kuličkami a kartičkami. Bavilo mě to. Ale Vilda v tom byl moc dobrej. Verunka vyhrála první. Marta druhou. Při tý první byla trochu zpruzelá, protože taktika ji nevyšla. Ale úspěch v druhé jí potěšil.
+Štrůdl jsem udělal skoro sám. Vilda taky pekl. Tvarohovou buchtu. A oba vařili Tofurita. Burrita s tofu. Bylo to skvělý. Verunka vyprosila recept.<br>
+Pak jsme hráli hry. 2x Gizmos. Hra s kuličkami a kartičkami. Bavilo mě to. Ale Vilda v tom byl moc dobrej. Verunka vyhrála první. Marťa druhou. Při tý první byla trochu zpruzelá, protože taktika ji nevyšla. Ale úspěch v druhé jí potěšil.
 
 <a href="../images/2025_april/06_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/06_1.jpg"></a>
 
@@ -95,7 +95,7 @@ Večer jsem zabílil fleky. Měl jsem tíživej pocit, že jsem trochu zaseklej 
 ### 7.4. Nábytkářem
 
 Málem jsem vyjel brzo. Ale vlezlo mi do toho holení hlavy, úklid, snídaně a nechuť vyjíždět v 0 stupních. Málem jsem jel vlakem celou cestu. Ale když jsem na hlaváku koukal na courák do Trutnova s odjezdem za 3 minuty, řekl jsem si, že kolo mi pomůže do budoucna víc a vyjel po cyklostezce skrz Vitkov.<br>
-Sněžilo. Naštěstí jen trochu. Byl jsem v kraťasech. Test bench po neúspěšné kalibraci ztratil schopnost měřit VNAčkem. Zjistil jsem to při dalším pokusu o ladění. Ze Safirdu přišlo devět EBD z čehož dvě byly rozbitý. Tester opravdu našel, že špatně připájeli konektor. To mě potěšilo. Skoro jsem veřil, že to je k ničemu fíčura, když jsem to programoval.<br>
+Sněžilo. Naštěstí jen trochu. Byl jsem v kraťasech. Test bench po neúspěšné kalibraci ztratil schopnost měřit VNAčkem. Zjistil jsem to při dalším pokusu o ladění. Ze Safirdu přišlo devět EBD z čehož dvě byly rozbitý. Tester opravdu našel, že špatně připájeli konektor. To mě potěšilo. Skoro jsem věřil, že to je k ničemu fíčura, když jsem to programoval.<br>
 S Ludvou jsme šli do Asie. Vyptával se na certifikace. Pak jsem bojoval s pájením modemu až do pěti a potom jsem se pustil do úpravy židle. Kdyby šlo do tuhýho, mohl bych opravovat nábytek. Pomocí 3D tiskárny :)
 
 <a href="../images/2025_april/07_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/07_1.jpg"></a>
@@ -112,7 +112,7 @@ S Ludvou jsme šli do Asie. Vyptával se na certifikace. Pak jsem bojoval s páj
 
 To je akurátní popis večerního rande. Pečivo z Globusu a ČSFD Projekce filmu Amatér. Nemusí všechno stát majlant aby to bylo milý a pěkný. A moje holka z toho měla radost.<br>
 Neměla radost z toho, že za 18 suplovaných hodin na které se připravovala ješte 3x tak dlouho dostala 18 set. To bylo fakt absurdní. Naštvaní byli všichni v učitelském sboru. Prý jsou ale všichni moc měkký na to s tím něco udělat.<br>
-Jsem fakt vděčnej za svojí práci. Je zábavná, se skvělýma lidma co mě posouvají a ještě mám docela dost peněz. Jsem opravdu jeden z nejšťastnějších lidí na planetě.
+Jsem fakt vděčnej za svojí práci. Je zábavná, se skvělýma lidma, kteří mě posouvají a ještě mám docela dost peněz. Jsem opravdu jeden z nejšťastnějších lidí na planetě.
 
 ### 11.4
 
@@ -120,7 +120,7 @@ Jsem fakt vděčnej za svojí práci. Je zábavná, se skvělýma lidma co mě p
 
 ### 12.4. V Hradci je život idilický
 
-Takový jsem měl pocit, když jsme šli na oběd do indie na náměstí. Bylo krásné. Město, navržený Gočárem byla plný lidí procházejících se pohodovým tempem nebo projíždějících laxně na kole. Vosečkovi vezli Tondu v kočáře, Vláďa s Vojtou zkoumali nextbíky a já šel se svojí ženou ruku v ruce.<br>
+Takový jsem měl pocit, když jsme šli na oběd do indie na náměstí. Bylo krásné. Město, navržený Gočárem byla plný lidí procházejících se pohodovým tempem nebo projíždějících laxně na kole. Vosečkovi vezli Tondu v kočáře, Vláďa s Vojtou zkoumali nextbiky a já šel se svojí ženou ruku v ruce.<br>
 Měli jsme hotovou práci. Pokácenou meruňku jsme nakrátili, naštípali a snížili entropii. Měli jsme pivo a to se pak líp pracuje.
 
 <a href="../images/2025_april/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/12_1.jpg"></a>

@@ -568,10 +568,10 @@ Ráno jsem tady posnídal, zacvičil si jógu, zabalil se, vylil kafe, vysypal z
 Míša mi vyprávěla zážitky z pěti denního Treku. Nachodili asi 75 kilometrů. Příroda byla nádherná, všude zeleno, ptáci, bílé pláže a tyrkysový oceán. Prý to byl nejkrásnější ks planety, který zatím viděla. Dokonce i brodění se skrz řeku prý bylo fajn.<br>
 Co ale fajn nebylo, byl fakt, že nějaké novozélandské slepice jim proklovali batohy, kvůli jídlu a kvůli odpadkům. Mišky nový drahý Fjällräven. Díra jak vrata. Mrzelo mě to.<br>
 Ale bylo moc fajn jí opět slyšet. V hlavě jsem pořád počítal dny. Dnešek byl to 18. ze 40. Možná jí ani nepoznám, až se vrátí.<br>
-Chvilku potom co jsem došel na Pankrác jsme se rozloučili a já vyrazil hledat ostatní do Albertu. Reba s Ondrou už tam byli. Filip s anet dorazili v závěsu. Nakoupili jsme zásoby na 3 dny, nalodili se do Méďi a vydali se na jih.<br>
+Chvilku potom co jsem došel na Pankrác jsme se rozloučili a já vyrazil hledat ostatní do Albertu. Réba s Ondrou už tam byli. Filip s anet dorazili v závěsu. Nakoupili jsme zásoby na 3 dny, nalodili se do Méďi a vydali se na jih.<br>
 Řešili jsme to je vtípek a to je provokace. Většina našich vtípků rozhodně byly provokace. Byla to docela zábavná cesta.<br>
 Po příjezdu jsme se rozdělili na dva týmy. Tým jídlo a tým teplo. Byl jsem v týmu druhém, protože sekat dříví mě moc baví.<br>
-K obědu jsme vymysleli těstoviny s pestem. Akorát to pesto jsme nekoupili. To ale nevadilo. Měli jsme s sebou randál zeleniny a Reba z ní dokázala vykouzlit výborný oběd. Navíc jsme měli bramborové placky od Nováčkovic jako předkrm.<br>
+K obědu jsme vymysleli těstoviny s pestem. Akorát to pesto jsme nekoupili. To ale nevadilo. Měli jsme s sebou randál zeleniny a Réba z ní dokázala vykouzlit výborný oběd. Navíc jsme měli bramborové placky od Nováčkovic jako předkrm.<br>
 Když jsme byli najedení, využili jsme zbytku denního světla a vyrazili na procházku. Filip si byl jistý, že nedaleko od nás můžeme spatřit pštrosa. Google nám v tom ale moc nepomohl a tak jsme šli k mlýnu, podívat se, jak moc je řekla rozvodněná.
 
 <a href="../images/2023_december/30_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_1.jpg"></a>
@@ -609,7 +609,7 @@ Když jsme se vrátili k autu, měli jsme nachozeno asi patnáct kilometrů. Ces
 
 Po chvíli se k nám připojili Alex se Zuzkou. Zuzka nám vyprávěla o jejím králíkovi a o tom, že se živí česáním. Plátno za nimi promítalo film, kde Menšík soutěžil v pojídání jídla s Bernardýnem.<br>
 Po dojedení a dopití jsme se se s Alexem a Zuzkou rozloučili a auty jsme vyrazili do našich chat.<br>
-Večeři jsme opět měli s grilu. Byl toho jetě větší randál než předešlého večera. Do půlnoci jsme hráli Hanabi a 2 minuty po půlnoci si připili šáňem štastný nový rok!<br>
+Večeři jsme opět měli s grilu. Byl toho jetě větší randál než předešlého večera. Do půlnoci jsme hráli Hanabi a 2 minuty po půlnoci si připili šáňem šťastný nový rok!<br>
 Čekala nás ještě výbušná koťátka. Prohrál jsem první a docela brzy. Odpsal jsem na pár zpráv, popřál ostatním dobrou noc a vyrazil do pelechu. Měl jsem s sebou špunty a tak jsem zalomil poměrně brzy.
 
 [>> Leden](2024_january.md)

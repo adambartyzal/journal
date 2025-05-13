@@ -34,7 +34,7 @@
 
 ### 1.12 Kafe a umění
 
-Břichabol Verunku stále sužoval. Už to ale nebylo akutní a jeden Nimesil jí postavil na nohy. Ne že by mě těšilo, že lupe pilule, ale nechtel jsem aby trpěla. A takhle jsme mohli ven. Na umění. Do Rudolfina. A do galerie České spořitelny o které nikdo neví. Ale drív než jsme tam došli, stavili jsme se na kafe.<br>
+Břichabol Verunku stále sužoval. Už to ale nebylo akutní a jeden Nimesil jí postavil na nohy. Ne že by mě těšilo, že lupe pilule, ale nechtěl jsem aby trpěla. A takhle jsme mohli ven. Na umění. Do Rudolfina. A do galerie České spořitelny o které nikdo neví. Ale drív než jsme tam došli, stavili jsme se na kafe.<br>
 Janek na Václaváku doporučoval kavárnu v domě módy. O víkendu ale měla zavřeno. Sešli jsme níž do Academie. Vůně knížek kávě a koláči rozhodně přidala kladné body.
 
 <a href="../images/2024_december/1_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/1_1.jpg"></a>
@@ -124,7 +124,7 @@ Než jsem šel spát , šel na mě pocit toho, že začíná příliš mnoho vě
 - sepíšu aspoň 2 dny
 - napíšu si Todo na další dny
 
-Pomalu ale jistě. Krůček po krůčku jsem si chtel udelat ve věcech pořádek.<br>
+Pomalu ale jistě. Krůček po krůčku jsem si chtěl udelat ve věcech pořádek.<br>
 Vstal jsem dostatečně brzo. Zvládl dvaceti minutovou jógu, napustil si termofor, protože záda jsem cítil docela dost a vyjel do práce. Ve dvojech rukavicích, protože palčáky byly pryč.<br>
 Dostavil jsem HLA00b a zjistil proč NFC vyčítá nesmysly. Chip Select se zvedal moc brzy. Proč byla otázka na úterý.<br>
 Nakupovat indexy v pondělí je chyba. První short mi vyšel. A měl jsem v tom buď pokračovat, nebo to nechat být. Večer byla sekera přes 60 tisíc. Swap na úterý dělal 4850. Rozhodl jsem se počkat.<br>
@@ -391,7 +391,7 @@ Možná proto si Verunka dala na dece 20. Bylo fakt fantasticky teplo.
 
 Jednička jela kousek od nás. Až na letisko. Jestli jsme jí zaplatili jsme si nebyli jistí. Virtualizované karty strojek nebral a fyzická sice pípla, ale druhým dotykem jsem jí možná odhlásil.<br>
 Každopádně nás a dalších několik desítek lidí, kteří se do autobusu sotva vešli odvezla na letisko, kde jsme překvapivě rychle prošli sekuritkou a pak extrémně dlouho čekali na zpožděný Ryan.<br>
-Hráli jsme na klavír. Veru si koupila Deník malého poseroutky v Italštině a během mých dvou lekcí dnolinga si přečetla notnou část knihy v jazyce, který tři týdny zpátky neovládala.<br>
+Hráli jsme na klavír. Veru si koupila Deník malého poseroutky v Italštině a během mých dvou lekcí duolinga si přečetla notnou část knihy v jazyce, který tři týdny zpátky neovládala.<br>
 Ryan nakonec dovoloval před náš gate. Verunka nastoupila dozadu a já na sedadlo 1B. První sedadlo v Letade neb 1A neexistuje.<br>
 Letuška byla moc pěkná blond Češka. Prohodili jsme pár vět, ale byla taková trochu zrychlená a během letu měla dost práce. Dal jsem se do psaní deníku.<br>
 Zpoždění v Bergamu nebylo poslední ten den. Když jsme Čekali v autobusech na odvoz, přijeli policajti a někoho hledali.<br>
@@ -419,7 +419,7 @@ Někdy ve čtyři ráno přišlo zlepšení. Dal jsem si iselgin další čaj a 
 Stejně jsem si nebyl jistej svou účastí na večerním srazu u Reky a Ondry. Dál jsem dopoval česnek, zázvor a vývar.<br>
 Sraz byl na Ctvrtou. Heenul jsem to. Potkal jsem se s Verunkou na půl cesty a na Břevnov jsme vyjeli tramvají. Nováčkovic přijeli autem i s Pátou a protože pátá se válel na zemi , všichni se postupně přesunuli na zem za ním.<br>
 Poslední dorazil Karel s Týnou. Týna měla hodně fancy Šaty na takovou událost. Ale Týna je vždycky příliš dobře oblečená. Stejně jako já vždycky příliš málo.<br>
-Poslouchali jsme hudbu, povídali si a jedli. Taky jsme šli s Páťou ven. Vydedukoval jsem že ho štvou lampy. Když jsem se pak stal vozičem kočárku, dokázal jsem ho narozdíl od Filipa uspat díky vyhýbání se kuželům světla. Nováčkovic se šli nahoru rozloučit a když se vrátili, nalodili jsme Páťu do jejich zlatého korábu a popřáli Štastný nový rok. Měl jsem radost, že vydržel tak dlouho.<br>
+Poslouchali jsme hudbu, povídali si a jedli. Taky jsme šli s Páťou ven. Vydedukoval jsem že ho štvou lampy. Když jsem se pak stal vozičem kočárku, dokázal jsem ho narozdíl od Filipa uspat díky vyhýbání se kuželům světla. Nováčkovic se šli nahoru rozloučit a když se vrátili, nalodili jsme Páťu do jejich zlatého korábu a popřáli šťastný nový rok. Měl jsem radost, že vydržel tak dlouho.<br>
 Potom jsme hrát. Aktivity. Kluci proti holkám. Vlastně jsem to hrálpoprvé. Hádat mi šlo dobře, popisovat nic moc. Byla to docela plichta. Verunka v jednom kole holkám zařídila spoustu bodů.<br>
 Půlnoc nám hru přerušila. Vzali jsme kabáty, klíče, šumivá vína a vylezli na střechu, abychom viděli ohnostroj had Prahou.<br>
 Chyba lávky. Byla mlha. Videt byly jen ty v nejbližších ulicích. Co už. Karel nám aspoň udelal fajn párovýfotky.<br>

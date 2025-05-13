@@ -203,7 +203,7 @@ Odlil jsem míše polovinu rámenu do sklenice a krabičky a doprovodil jí a na
 
 ### 8.8. Když déšť kvůli tanci odejde
 
-Na Míšu jsem čekal na Florenci na takovým plácku z minulýho tisíciletí. Nevyběhnul jsem jí naproti. Spíš jsem tam tak posedával a čekal, až prijde za mnou. Málem se nenechala obejmout. Že prý mám stále velký osobní kruh. Později jsem se dozvěděl, že se jí to docela dotklo. Že prý málo ukazuju, že jsem štastný, že jí vidím.<br>
+Na Míšu jsem čekal na Florenci na takovým plácku z minulýho tisíciletí. Nevyběhnul jsem jí naproti. Spíš jsem tam tak posedával a čekal, až prijde za mnou. Málem se nenechala obejmout. Že prý mám stále velký osobní kruh. Později jsem se dozvěděl, že se jí to docela dotklo. Že prý málo ukazuju, že jsem šťastný, že jí vidím.<br>
 Zastavili jsme se v Albertu. Měli jsme v plánu dát si piknik na Štvanici. Po novu se na ní totiž dalo přejít přes HolKu. Novou lávku. Její návštěvu jsme měli v seznamu. Původně jsme teda chtěli vyjít každý z opačného konce a potkat se uprostřed, ale nemůžeš mít všechno.<br>
 Na místě jsem vzpomínal na Zdeniny narozeniny. Gentrifikace přinesla hipstry i na ostrov, kde do té doby byla jen tráva a stromy.<br>
 Měli jsme olivové šneky a fazolovou pomazánku. Míša jí chce napodobit v domáchích podmínkách. Prý už je blízko, ale pořád to není ono.<br>

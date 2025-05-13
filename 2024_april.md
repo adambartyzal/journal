@@ -405,7 +405,7 @@ Pěstovat kytky nejspíš vyžaduje mít auto. Sice jsem jel sotva 3 km, ale kv�
 
 <a href="../images/2024_april/28_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/28_1.jpg"></a>
 
-Zabralo mi to dost času, ale s výsledkem jsem byl spokojený. Napsal jsem do skupiny, že mám jazyky k mání a Marta s Rébou si hned 2 zarezervovali.<br>
+Zabralo mi to dost času, ale s výsledkem jsem byl spokojený. Napsal jsem do skupiny, že mám jazyky k mání a Marťa s Rébou si hned 2 zarezervovali.<br>
 
 ### 29.4. Zloděj kam se podíváš
 

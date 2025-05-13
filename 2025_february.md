@@ -40,7 +40,7 @@ Hned po příjezdu mě vítal Hynek a představil mi ženu Janu a dceru Markétu
 Ale byli moc milí. Pochválil jsem Markét její roli ve filmu SŽDC a poměrně rychle jsme byli usazení ke stolu a začali obědvat.<br>
 Hynek udělal moc fajn vege nudle se sojovým i nudličkami. Bylo to fakt moc dobry! Přidal jsem si. Tu a tam Jsem odpověděl na nějakou otázku, ale spíš jsem poslouchal vyprávění rodičů, o dětech.<br>
 Bylo videt, že jsou na svý děti patřičně hrdý. A aby ne.<br>
-Verunka mi chtela ukázat Ostravu. A rodičům fotky z Itálie. Lukáš přinesl laptop a monitor, posedali jsme si na pohovku a po chvíli štelování google alb jsme se pustili do vyprávění. to že jsem se koupal v Lago di Garda přineslo nejedno pozdvižení obočí.<br>
+Verunka mi chtěla ukázat Ostravu. A rodičům fotky z Itálie. Lukáš přinesl laptop a monitor, posedali jsme si na pohovku a po chvíli štelování google alb jsme se pustili do vyprávění. to že jsem se koupal v Lago di Garda přineslo nejedno pozdvižení obočí.<br>
 Po promítání jsme vyrazili na tramvaj do centra. Prošli jsme kolem domů, kde verunka vyrůstala, chodila na základku i na gympl. Tramvaj nás provezla kolem areálu Vítkovic, kde dělal její táta, děda. babička a skoro každý druhý v Ostravě. Vcentru jsme vyjeli na vyhlídkovou věž na radnici a já si tak mohl Ostravu s výkladem prohlédnout v celé své kráse.
 
 <a href="../images/2025_february/1_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_1.jpg"></a>
@@ -112,7 +112,7 @@ Pak jsme si dali dvojku bílého a Únětice v Baráku a otočili se na hlaváka
 <a href="../images/2025_february/5_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/5_2.jpg"></a>
 
 Bylo pozdě. Doslova jsme utekli na devítku abychom stihli aero. Z hlaváku je to devítkou. Díky tomuběhu jsme si s Ondrou a Martou před filmem zvládli pokecat.<br>
-Film byla další Asie. Další Japonsko. O třech klucích co chteli videt umřít dědu, ale skamarádili se s ním. Bylo to fajnově divný.<br>
+Film byla další Asie. Další Japonsko. O třech klucích co chtěli videt umřít dědu, ale skamarádili se s ním. Bylo to fajnově divný.<br>
 Večer Vršovické svezla sedmička a Ondru jednokolka.
 
 ### 6.2. Předčasné přerušení
@@ -286,7 +286,7 @@ Večer jsme se pustili do stavění Hokusaiovy Velké vlny. Návod měl asi 150 
 Nějak jsem nestihl snídat. A obděd jsem si taky nevzal. V úterý mě nikdo na ozone netahá a tak jsem v půl šestý pořád nepozřel nic kromě kafe a čaje. Ideál na start keta.<br>
 Zahradní město, kde jsme s Martou měli zabookovaný badminton je 40 minut jízdy na kole. Ale taky zastávka našeho vlaku. Jel jsem s DJem<br>
 Nemít v sobě před sportem žádný kalorie nebylo moudrý. Stavil jsem se v tescu a koupil svačinu bez sacharidů. A šlo to. Žádná slabost ani únava na mě nepřicházely.<br>
-Beďas byl dobrej. Většina bodů byla na mojí straně, ale bavili jsme se dobře. Po pěti setech jsem se převlékl a objevil, že nemám klíče. Marta utíkala na autobus a jak se dal do hledání. Nakonec byly na statice, ale potrápilo mě to.<br>
+Beďas byl dobrej. Většina bodů byla na mojí straně, ale bavili jsme se dobře. Po pěti setech jsem se převlékl a objevil, že nemám klíče. Marťa utíkala na autobus a jak se dal do hledání. Nakonec byly na statice, ale potrápilo mě to.<br>
 Kolo domů a doma nikdo. Veru jela do Ostravy přešít záclony. Usínal jsem ten rok poprvé sám.
 
 ### 19.2. Stěny křivý a dutý
@@ -343,7 +343,7 @@ Nováčkovic byli první. Rebeka druhá, a Fikrovi poslední. Dostali jsme 2 lá
 Posadili jsme se v obýváku, Verunka lidi zásobovala dobrotama, povídali jsme si a hráli si s Páťou. Když jsem he Choval, rozbrečel se. Ale dokázal jsem to i rozesmát. Verunce to šlo líp. Byl u ní spoke dost dlouho.<br>
 Představovali jsme byt, povídali si o dětech, práci a obsluhovali jsme.. Verunčino jídlo mělo úspěch. Rebece se líbily moje poličky. Všichni říkali, že obývák je supr a my s Verunkou meli radost.<br>
 Nováčkovic pochopitelně vyrazili první. S ostatními jsme seděli asi do půl dvanácté. Ale na Verunku přišla Únava, Rebeka to měla ho minut domů a tak to nemělo smysl protahovat.<br>
-Do postele jsme šli unavení a štastní. Bydleli jsme v moc pěkným bytě a měli moc fajn kamarády. Veru jsem se ještě ptal, zda by pozvala i někoho z jejích kamarádů, že o to stojím. Byla trošičku smutná, že nemá takovou partu, ale Honza s Holkami by prý možná mohl. Byl jsem pro!
+Do postele jsme šli unavení a šťastní. Bydleli jsme v moc pěkným bytě a měli moc fajn kamarády. Veru jsem se ještě ptal, zda by pozvala i někoho z jejích kamarádů, že o to stojím. Byla trošičku smutná, že nemá takovou partu, ale Honza s Holkami by prý možná mohl. Byl jsem pro!
 
 ### 23.2. Plavat jako chcípák
 

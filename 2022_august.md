@@ -14,7 +14,7 @@
 - [12.8. Se sklem z deště pod okap](#128-se-sklem-z-deště-pod-okap)
 - [13.8. Sbohem Ubuntu](#138-sbohem-ubuntu)
 - [14.8. Výlet po pivovarech s Nováčkovic kamarády](#148-výlet-po-pivovarech-s-nováčkovic-kamarády)
-- [15.8. V kyjích jsou neštastní](#158-v-kyjích-jsou-neštastní)
+- [15.8. V kyjích jsou nešťastní](#158-v-kyjích-jsou-nešťastní)
 - [16.8. Plánujeme výlet](#168-plánujeme-výlet)
 - [17.8. Jedeme na výlet](#178-jedeme-na-výlet)
 - [18.8. Výhledy a puchýře](#188-výhledy-a-puchýře)
@@ -206,9 +206,9 @@ I ten autobus o kterém nám paní za oknem říkala, že nepojede nás do Ří�
 Před nádražím jsme ještě vykecávali a vybírali Nováčkovic barvu do ložnice. Jeli s námi jen jednu zastávku a s Martinou jsme zbytek cesty bavili o architektech a o tom jak absurdních chyb se lidé, a dost možná se to dá aplikovat spíš na čechy, dopouští, když se rozhodnou, že platit architektovi je zbytečné.
 
 
-### 15.8. V kyjích jsou neštastní
+### 15.8. V kyjích jsou nešťastní
 
-Něšťastní z toho, že jsme neypátrali proč motorovým deskách odchází procesory. Proto jsem se ráno vydal pomáhat do Kyjí s opravami vložek. Měli tam v tom bordel. Místo toho aby nějak analyzovali situaci. Prostě vytahali všechny vložky z kol, které měly nějaký problém a nechali Toma vyměňovat ebmc aniž by řešili, jestli jsou špatné či ne. Z toho jsem byl neštastný zase já. Zdálo se, že nejvíc problémů je se servomotory.<br>
+Něšťastní z toho, že jsme neypátrali proč motorovým deskách odchází procesory. Proto jsem se ráno vydal pomáhat do Kyjí s opravami vložek. Měli tam v tom bordel. Místo toho aby nějak analyzovali situaci. Prostě vytahali všechny vložky z kol, které měly nějaký problém a nechali Toma vyměňovat ebmc aniž by řešili, jestli jsou špatné či ne. Z toho jsem byl nešťastný zase já. Zdálo se, že nejvíc problémů je se servomotory.<br>
 Taky jsme našli alespoň vágní spojitost mezi odešlými procesory a odešlými pas senzory. V polovině kol, kde ebmc shořela PAS nefungoval. Zda nefungoval už předtím, než k incidentu došlo je ale záhadou, protože z nějakého důvodu v Kyjích senzory netestovali.<br>
 V podstatě v momentu, když jsem se chystal odejít jsem našel v nabíjecím boxu baterii, která se chovala značně nestandardně. Hlásila overvoltage, ale součet napětí na článích byl pouze 35 V. Pak se na ní BMS vypnula úplně. V sudu na baterie už se válelo 6 vyřazených baterií. Mají to tam fakt na salámu klucí.
 
