@@ -40,7 +40,7 @@ Ve skladu jsme potkali staré známé tváře, ale i tvář novou. Dalšího tec
 
 <a href="../images/2021_october/9_2.jpg" target="_blank"><img src="../images/thumbnails/2021_october/9_2.jpg"></a>
 
-espresso house/
+espresso house<br>
 
 <a href="../images/2021_october/9_3.jpg" target="_blank"><img src="../images/thumbnails/2021_october/9_3.jpg"></a>
 

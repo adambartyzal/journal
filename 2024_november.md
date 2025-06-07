@@ -57,9 +57,9 @@ Příště se musím připravit víc, ne jen tak nazdařbůh vyjet ven.
 
 ### 2. 11. Cizrna na paprice jí nechutná
 
-Probudil jsem se v mnohem lepším stavu než ve kterém jsem usínal. Ale lenost mě neopouštěla. Díl Lost, kombucha, kafe a válení se až do poledne./
-Potřeboval jsem sítko na slévání kombachy a sítko na lovení bordelu. A trychtýř. Rozhodl jsem se dojet do Ikey, protože Veru se pustila do zavařování cizrny a já chtěl za ní. No a Ikea je podobným Smerem. Ne úplně, ale trochu jo./
-Sedničkou, béčkem a pak pěšky. Napřed oběd a trochu praní nad nekonečným decafem a pak dolů do spletice bytových doplňků a tisíců lidí. Sítko jsem našel. Taky skleněnýbarel na kombuchu a láhve s integrovanými uzávěry. Nakonec mi ale přišlo, že láhve od Bernarda budou levnější a navíc budou mít obsah.
+Probudil jsem se v mnohem lepším stavu než ve kterém jsem usínal. Ale lenost mě neopouštěla. Díl Lost, kombucha, kafe a válení se až do poledne.<br>
+Potřeboval jsem sítko na slévání kombuchy a sítko na lovení bordelu. A trychtýř. Rozhodl jsem se dojet do Ikey, protože Veru se pustila do zavařování cizrny a já chtěl za ní. No a Ikea je podobným Smerem. Ne úplně, ale trochu jo.<br>
+Sedničkou, béčkem a pak pěšky. Napřed oběd a trochu praní nad nekonečným decafem a pak dolů do spletice bytových doplňků a tisíců lidí. Sítko jsem našel. Taky skleněný barel na kombuchu a láhve s integrovanými uzávěry. Nakonec mi ale přišlo, že láhve od Bernarda budou levnější a navíc budou mít obsah.
 
 <a href="../images/2024_november/2_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/2_1.jpg"></a>
 
@@ -71,20 +71,20 @@ Cizrny měla zavařenou spoustu. Nakrájel jsem cibuli. Po chvili Jsem si uvědo
 
 <a href="../images/2024_november/2_3.jpg" target="_blank"><img src="../images/thumbnails/2024_november/2_3.jpg"></a>
 
-Na hustotě jsme se neshodli. Ani na slanosti. Vlastně jí to vůbec nechutnalo. Zato mně každým dalším soustem víc a víc./
+Na hustotě jsme se neshodli. Ani na slanosti. Vlastně jí to vůbec nechutnalo. Zato mně každým dalším soustem víc a víc.<br>
 Povídali jsme si o práci a kupodivu šli spát brzo.
 
 ### 3.11. Cigarettes after sex.. after sex
 
-A naspal: osm hodin. Nejspíš to bylo tím, že Vera spolubydlící přijeli o den drív než měli a tak jsme neblbli v bytě./
-Ráno jsme vyrazili do Lidla pro věci na snídani se dvěma hrnky na kávu za minci z automatu. To málem nevyšlo. První kafe automat nějak rozbil. Paní ho ale otevřela a zavřela, dala Verunce novou minci a ven jsme vycházeli s pečivem a dvěma plnými hrnky kávy./
+A naspal: osm hodin. Nejspíš to bylo tím, že Vera spolubydlící přijeli o den drív než měli a tak jsme neblbli v bytě.<br>
+Ráno jsme vyrazili do Lidla pro věci na snídani se dvěma hrnky na kávu za minci z automatu. To málem nevyšlo. První kafe automat nějak rozbil. Paní ho ale otevřela a zavřela, dala Verunce novou minci a ven jsme vycházeli s pečivem a dvěma plnými hrnky kávy.<br>
 Kam si sednout? K rybníčku. Veru o něm vůbec nevěděla. Svítilo tam sluníčko a bylo tam hezky. Vlastně bylo venku tak hezky, že jsme se jen otočili na bytě pro bruncha opět vyrazili ven, tentokrát na lavičku se stolečkem 4 rybníčku.
 
 <a href="../images/2024_november/3_1.jpg" target="_blank"><img src="../images/thumbnails/2024_november/3_1.jpg"></a>
 
-Povídali jsme si tam o bydlení a baštili oběd. Verunka byla v náladě a při chuti. Trochu jí štvalo, že doma má spolubydlící. Kendy ve Vršovicích nebyl. Po chvíli rokování jsme se ještě jednou otočili v bytě, Verunka sbalila věci, které další den potřebovala ve škole a metrem a devatenáctkou jsme sjeli ke mně./
-Doma to nás přišlo ve velkým. Ještě že jsem koupil gumy. Když bylo dokonáno, pustil jsem Cigarettes after sex. Přišlo mi to komicky příhodný. Verunka se tomu docela posmávala./
-Musela ale delat přípravy. Zapojil jsem jí laptop do mého docku. Sám ho používám jen v práci./
+Povídali jsme si tam o bydlení a baštili oběd. Verunka byla v náladě a při chuti. Trochu jí štvalo, že doma má spolubydlící. Kendy ve Vršovicích nebyl. Po chvíli rokování jsme se ještě jednou otočili v bytě, Verunka sbalila věci, které další den potřebovala ve škole a metrem a devatenáctkou jsme sjeli ke mně.<br>
+Doma to nás přišlo ve velkým. Ještě že jsem koupil gumy. Když bylo dokonáno, pustil jsem Cigarettes after sex. Přišlo mi to komicky příhodný. Verunka se tomu docela posmávala.<br>
+Musela ale delat přípravy. Zapojil jsem jí laptop do mého docku. Sám ho používám jen v práci.<br>
 Byla nadšená z klekačky. Připravovala mapu autonomních Španělských oblastí. Maličko jsem jí pomáhal s počítačem. ale o Španělsku vím kulový.
 
 <a href="../images/2024_november/3_2.jpg" target="_blank"><img src="../images/thumbnails/2024_november/3_2.jpg"></a>

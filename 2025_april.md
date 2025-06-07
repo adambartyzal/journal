@@ -10,7 +10,7 @@
 - [8.4](#84)
 - [9.4](#94)
 - [10.4. Sýrohlíky společnou kartou a film zadarmo](#104-sýrohlíky-společnou-kartou-a-film-zadarmo)
-- [11.4](#114)
+- [11.4 Francouz a Meruňka](#114-francouz-a-meruňka)
 - [12.4. V Hradci je život idilický](#124-v-hradci-je-život-idilický)
 - [13.4](#134)
 - [14.4. Mankeli](#144-mankeli)
@@ -18,8 +18,8 @@
 - [16.4.](#164)
 - [17.4. Dobrej pocit.](#174-dobrej-pocit)
 - [18.4. Moi moi](#184-moi-moi)
-- [19.4.](#194)
-- [20. 4. Zaokrouhleně 100 km](#20-4-zaokrouhleně-100-km)
+- [19.4. Jako bych celou dobu lhal](#194-jako-bych-celou-dobu-lhal)
+- [20.4. Zaokrouhleně 100 km](#204-zaokrouhleně-100-km)
 - [21.4. Krk a nohy](#214-krk-a-nohy)
 - [23.4. Le France](#234-le-france)
 - [24.4. Hektary zeleně](#244-hektary-zeleně)
@@ -30,12 +30,11 @@
 - [29.4. Dny letí, když vstaneš pozdě](#294-dny-letí-když-vstaneš-pozdě)
 - [30.4. Tradice, přesto narychlo](#304-tradice-přesto-narychlo)
 
-
 ### 1.4. Dostala DJe
 
 Chcalo. Tentokrát jsem prý spal špatně. Možná to bylo termoforem, těžko říct.<br>
 Rostl ve mě pocit, že psat do deníku rutijní událostí nemá smysl. Kam jsem šel na jídlo a tak. Měl jsem špagety co jsem si uvařil v kuchyni a snědl je povídaje si s Ríšou mimochodem.<br>
-Zvětšující se sekera v deníku mě ale stresovala. A deník mě neměl stresovat . Právě naopak. Možná byl čas na změnu konceptu.<br>
+Zvětšující se sekera v deníku mě ale stresovala. A deník mě neměl stresovat.  Právě naopak. Možná byl čas na změnu konceptu.<br>
 Daya v rámci aprílu úplně dostala DJe. Prý Jihlavský tendr platí a všichni jdeme montovat kola. DJ už si skoro kasal rukávy, než mu došlo, že si z nej dělá srandu.<br>
 Slunečním svitem zalitou Prahou jsem jel z práce tonou domů. Stavil jsem u čvičítek a našel bezva láhev u kontejneru se sklem.
 
@@ -114,7 +113,11 @@ To je akurátní popis večerního rande. Pečivo z Globusu a ČSFD Projekce fil
 Neměla radost z toho, že za 18 suplovaných hodin na které se připravovala ješte 3x tak dlouho dostala 18 set. To bylo fakt absurdní. Naštvaní byli všichni v učitelském sboru. Prý jsou ale všichni moc měkký na to s tím něco udělat.<br>
 Jsem fakt vděčnej za svojí práci. Je zábavná, se skvělýma lidma, kteří mě posouvají a ještě mám docela dost peněz. Jsem opravdu jeden z nejšťastnějších lidí na planetě.
 
-### 11.4
+### 11.4 Francouz a Meruňka
+
+Tentokrát mě toho čekalo dost. Calls Firasem ohledně nefunkčního Test Benche. Přípravy na odjezd do Hradce. A mergeování větví ebu kódu s Vláďou. Do Hradce jsem toho moc nepotřeboval. Trenky, ponožky, mikinA dobrou náladu. Call byl horší. Hodně jsem uklidil. Připravil bench. Call na obou laptopech abych mohl sdílet obrazovka a zároveň mít dobrý zvuk. Byl jsem vlastně docela nervózní, ale ukázalo se, že jsem byl ten připravenější z nás dvou a že jsem tomu rozuměl trochu víc. Což bylo blbý, protože jsem netušil co je blbě. Nakonec I jsme prošli nějaký logy a ty jsem poslal mejlem před cestou do Vietnamky na červené kari. Mergeování je vždycky ojet. Naštěstí jsme se každý rýpali v trochu jiné části. Ale stejně forward proběhl divně a gitk ukazovalo někam do háje.  Ale vyřešili jsme to. A mohli s Vojtou vyrazit autem K Jiřímu. Veru přišla když už jsme mířili na parkoviště. Cesta mě překvapila. Vlakem je to do Hradce opravdu lepší. A to mají dálnici. Nejvíc absurdní byly ale poslední dva kilometry. dali jsme přes peron starého nádraží a pak asi hodinu stáli na přejezdu.
+
+Kácet se začalo hned po prohlídce podkrovního bytu. Udělal to tam moc hezky. Až na křivou digestoř. Byl to Airbnb byt ale působil poctivě. A opravdu dřevěné. Zato v meruňce moc dřeva nezbylo. Alespoň ne toho živýho. Ivan s ní motorovkou udelal krátký proces. A pak jsme grilovali. Dokud nás dovnitř nezahnalaZima. Tam jsme dali deskovky. Vyhrálo Metro. Puzzlíky s kolejemi mezi zastávkami Pařížské dopravy. Na spoustě z nich jsem za dva týdny plánoval být. Pivo bylo dobrý, hra taky a kromě Káti a Jirky, kteří odešli spát jsme to táhli někdy do jedný.
 
 <a href="../images/2025_april/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/11_1.jpg"></a>
 
@@ -195,13 +198,28 @@ Změnili nám gate. Kdyby mi Daya nezavolala, možná bych to zjistil moc pozdě
 A bylo. Naštěstí nepršelo. Po rozloučení se u pásů s batohy jsem se vydal pro Franze na Kolbenku. Psal jsem si s Veru španělsky a vlastně mi ta hodina docela uteklo. Jenže když jsem vylezl na povrch, došlo mi, že nemám klíče. Celá cesta byla k ničemu. Dost mě to vybilo. Vlastně jsem byl opravdu unavený a další cesta metrem, vlakem na hlavák, rychlíkem, který po dvaceti minutách nikam nevyjel a dalším vlakem, který mě dovezl na Vršovice zrovna v moment, kdy ten předchozí vlak projel před mým nosem mě dohnalo k ještě většímu vyčerpání.<br>
 Moje žena ale doma udělala bramboráky. Sice se jí napřed připálily na pánvi, ale poradilo si a použila pec. Ty s tofu a černou soli byly lepší. Byl jsem šťastnej že jí po týdnu vidím. Ta únava mě přešla, když jsme se objali.
 
-### 19.4.
+### 19.4. Jako bych celou dobu lhal
+
+Měli jsme plán. Jet na víkend do Lásenice. Dostat se do mé domoviny v sobotu ale není jen tak. Buď té z Hradce hadi někdo autem nebo jsi v prdeli.<br>
+Ok tak temný to není. Dá se stopovat. Možná' i jeden autobus denně jede. Nebo se dá vzít si do vlaku kolo a dojet to na něm. Franz byl ve Vysočanech. Sjeli jsme pro něj s Martiným kolem, es devítkou sjeli zpátky na Hlavák a rychlíkem Vltava vyrazili na jih. Dráhy otočily řazení vlaku. Docela mě to naštvalo. Hezký výhledy jsou jen na jednu stranu. Celou cestu. Stěžoval jsem si na to Verance hned několikrát. Jinak to byl fakt moc pěknej vlak.
 
 <a href="../images/2025_april/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/19_1.jpg"></a>
+
+Z Veselí jel do Hradce Regio Panther. Ten nejnablýskanější vlak jaký jsem kdy viděl. A nejvíc Šik průvodčí, který se nám omlouval, že nás neviděl a málem odjel bez nás, byť to by se určitě nestalo. Nabrali jsme kvůli tomu minutu zpoždění, což vlak ukazoval na vnitřním informačním systému jak v Japonsku.<br>
+Všechny domy v Jižních Čechách byly nově opravený, všechny zahrady upravený. Svítilo slunce. Vzduch voněl. Pán na nádraží nás nadšené zdravil. Úzkokolejky zářily. Hradec byl klidný, ale vůbec ne mrtvý. Lidé si povídali, dávali si zmrzliny. V panský hrál busker, na náměstí další dva, pod kaštan všechno kvetlo a na hradě... tam to byl úplnej extrém.
+
 <a href="../images/2025_april/19_2.jpg" target="_blank"><img src="../images/thumbnails/2025_april/19_2.jpg"></a>
+
+V černé kuchyni rozdávali jídlo zadarmo. V rendelu byly prohlídky. Turisté přijížděli z dalekého okolí a Veru se mě ptala jestli se do Hradce nepřestěhujemei face palm:
+
 <a href="../images/2025_april/19_3.jpg" target="_blank"><img src="../images/thumbnails/2025_april/19_3.jpg"></a>
 
-### 20. 4. Zaokrouhleně 100 km
+Abychom se ale do Lásenice dostali v rozumnou hodinu, bylo třeba vyrazit. Nežáreckou bránou, panoramatickou cestou za řekou a pak přes vesnice pozadu. Mezi Žďáry se konala rybářská soutěž. Bylo to mírně absurdní. Stovky rybářů vedle sebe. Přesvědčit Veru o tom, že v Jižních Čechách nerybaří úplně každy už nebylo možný.<br>
+Poslední část jsme jeli po velký. Nebýt jednoho kamionu, co někam chvátal, byla to klidná jízda. Zábavnější a poučnější než Jus. Celou dobu jsem totiž komentoval Svý dospívání v onom kraji.<br>
+I táta dal chalupu do pucu. Fakt, že jsem o ní mluvil jako o barabizně ze mě dělalo nevděčnýho parchanta. Taková pěkná chaloupka s nádhernou zahradou. Táta ukazoval Verunce jezero, kytky, stromy, pěstírnu a chalupu. Jedli jsme štrůdl a bramboráky, který jsme přivezli a pak jsme relaxovali na dvoře.<br>
+Na noc nás táta ubytoval u Evy. Její matrace byla příjemně tvrdá. Po chvíli dospěláckyho blbnutí jsme usnuli a spali až asi do devíti.
+
+### 20.4. Zaokrouhleně 100 km
 
 Přispali jsme si. Evy postel je sice krátká, ale tvrdost jejich matrací je na spánek moc dobrá. Než jsme se z peřin vyhrabali, odbyla půl desátá.<br>
 Plán zněl jasně. Cyklo výlet. Chvíle u mapy vynesl. verdikt: pojedeme k rybníkům. Jak jinak v Jižních Čechách. Kaskáda, kterou táta vybral připomínala Naději a Lásku.
@@ -262,17 +280,17 @@ Z vlaku nás ještě svezl autobus ke Carrefouru. V tom jsme koupili sky a ten n
 Docela dobře jsem se vyspal. Budík v 6:30 jsem odložil, ale po chvíli jsem vstal a šel jógovat a cvičit. Máme ještě spala ale behem mojí ledové ranní sprchy vstala.<br>
 Snídaně byla docela bohatá. Obzvlášť na sladké. Máma si naložila přesně opačně, než by to udělala cukrová fašistka. Kafe s cukrem, lívance, pan de chocholat a naložené ovoce. Povídal jsem jí o tom jak glukóza v těle funguje. A jak kofein. Moc mě neposlouchala. Já si snědl jogurt, bageta se sýrem a zelený čaj.<br>
 Pešky do schodů jsme vyrazili na vlak RER A. Po pár zastávkách ale vlak zastavil a nechtěl jet dál. Pomocí překladače jsem zjistil, že za tím vězí zapomenutý kufr na Gare de Lyon. Na zastávce kde jsme byli naneštěstí nebyla žádná alternativa, jakse na La Defénse dostat.<br>
-Po půl hodině se ale vlak rozhýbal. Přestup jsme zvládli a vlak U nás vyvezl z podzemí na kolej s výhledem na Pařížské předměstí, moderní město a v dáli i eiffelovku. Půl hodinová cesta dávala najevo, že počasí bude pěkné. Na vlakové stanici ve Versailles nás zastavili revizoři . Naše kartičky byly v pořádku a já měl radost, že jsme MHD neplatili zbytečné. Máma taky.<br>
+Po půl hodině se ale vlak rozhýbal. Přestup jsme zvládli a vlak U nás vyvezl z podzemí na kolej s výhledem na Pařížské předměstí, moderní město a v dáli i eiffelovku. Půl hodinová cesta dávala najevo, že počasí bude pěkné. Na vlakové stanici ve Versailles nás zastavili revizoři.  Naše kartičky byly v pořádku a já měl radost, že jsme MHD neplatili zbytečné. Máma taky.<br>
 Pěšky jsme přešli město Versailles asi za 15 minut a na opačné straně se otevřel pohled na to, jak strašně obří sídlo pokolení Ludvíku vybudovala. Prošli jsme bránou, došli si na záchod a objevili, že ohyzdné dlouhou frontu stát nemusíme. Šli jsme napřed do zahrad.
 
 <a href="../images/2025_april/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/24_1.jpg"></a>
 
-Všechno kvetlo. A všechno bylo zelené. A všechno se táhlo do nekonečna. Záhony, lesíky i fontány a jezírka . A jezera. Našli jsme hrající fontánu. Poobědvali sendviče, které jsem ráno připravil. Došli k velkému trianonu. Prošli jeho vnitřek. Vrátili se oklikou k Neptunově fontáně. Dali si dort a došli do naší fronty do paláce.
+Všechno kvetlo. A všechno bylo zelené. A všechno se táhlo do nekonečna. Záhony, lesíky i fontány a jezírka.  A jezera. Našli jsme hrající fontánu. Poobědvali sendviče, které jsem ráno připravil. Došli k velkému trianonu. Prošli jeho vnitřek. Vrátili se oklikou k Neptunově fontáně. Dali si dort a došli do naší fronty do paláce.
 
 <a href="../images/2025_april/24_2.jpg" target="_blank"><img src="../images/thumbnails/2025_april/24_2.jpg"></a>
 
 Uvnitř bylo všechno zlaté, velké, pompézní a plné lidí. Obrazy, sochy i kostel uvnitř byl. Královská komnata byl úplnej Overkill. A zrcadlová komnata spíš zklamání. Nakonec mě nejvíc bavilo křídlo věnující se bitvám. Bylo v něm míň nacpáno.<br>
-Podruhé nás do zahrad nepustili. Šlo by to prý dračí branou. ale ta byla daleko a i mě vlastně bolely nohy. Radši jsme si dali druhý toast a jablko a vyrazili na vlak. Tentokrát L . Z opačného konce města. Prošli jsme tak obchodní ulici, kde prodávali drahé brýle. A tržnici, kde mi máma koupila levné brýle.<br>
+Podruhé nás do zahrad nepustili. Šlo by to prý dračí branou. ale ta byla daleko a i mě vlastně bolely nohy. Radši jsme si dali druhý toast a jablko a vyrazili na vlak. Tentokrát L.  Z opačného konce města. Prošli jsme tak obchodní ulici, kde prodávali drahé brýle. A tržnici, kde mi máma koupila levné brýle.<br>
 Vlak L se na trasu vlaku U připojil poměrně rychle a tak jsme se zorientovali poměrně rychle. V Carrefour jsme koupili další Skyr a po 24347 krocích odpadli do postele.
 
 ### 25.4. Od oblouku k oblouku

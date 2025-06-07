@@ -180,9 +180,9 @@ Plánoval jsem dojet domů a ostříhat se. Ale nějak z toho sešlo. Koukal jse
 
 ### 12.9. Chleba pro Verunku
 
-Kolo jsem nechal doma. Taky jsem ráno extrémně zdržoval. Měly přijít záplavy. A deště už započaly. Cesta šestkou a béčkem by trvala století. Ale s Řehořem v ruce to uteklo. Akorát v jedoucím metru jsem psal ještě pomaleji a nečitelněji než obvykle./
-Pokračovali jsme ve vymýšlení elektroniky zámku. A já jsem trochu uklízel kód NFC a procházel požadavky EMVCo. Na oběd s kluky jsem našel. Měl jsem s sebou špagety./
-Cestou zpátky už nepršelo. Ale cítil jsem se nakřáple. Respektive. Měl jsem takový divný pocit v rukou. Slabost. Nervovou nefunkčnost. Možná mi chyběl nějaký minerál? Asi bych měl jít na krevní testy pro třicátníky a vegetariány./
+Kolo jsem nechal doma. Taky jsem ráno extrémně zdržoval. Měly přijít záplavy. A deště už započaly. Cesta šestkou a béčkem by trvala století. Ale s Řehořem v ruce to uteklo. Akorát v jedoucím metru jsem psal ještě pomaleji a nečitelněji než obvykle.<br>
+Pokračovali jsme ve vymýšlení elektroniky zámku. A já jsem trochu uklízel kód NFC a procházel požadavky EMVCo. Na oběd s kluky jsem našel. Měl jsem s sebou špagety.<br>
+Cestou zpátky už nepršelo. Ale cítil jsem se nakřáple. Respektive. Měl jsem takový divný pocit v rukou. Slabost. Nervovou nefunkčnost. Možná mi chyběl nějaký minerál? Asi bych měl jít na krevní testy pro třicátníky a vegetariány.<br>
 Večer byly fantastický červánky. Verča se zrovna vracela z výjezdu a prý je taky viděla. 
 
 <a href="../images/2024_september/12_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/12_1.jpg"></a>
