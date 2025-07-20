@@ -252,7 +252,7 @@ Doma jsem objevil, že dracena pučí.
 
 <a href="../images/2024_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/17_1.jpg"></a>
 
-Měl jsem z toho radost. Asi kvůli kytkám jsem si vzpoměl naMartu a napsal ji. Byla v Lyonu na firemním setkání. Zrovna jim začínala nějaká aktivita, takže mi slíbila, že mi odepíše později.
+Měl jsem z toho radost. Asi kvůli kytkám jsem si vzpomněl naMartu a napsal ji. Byla v Lyonu na firemním setkání. Zrovna jim začínala nějaká aktivita, takže mi slíbila, že mi odepíše později.
 
 ### 18.9. Bělejší úsměv
 
@@ -264,9 +264,9 @@ Po dlouhý době jsme byli ve vývoji všichni. A ve výrobě nebyl nikdo. Proto
 
 <a href="../images/2024_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/18_1.jpg"></a>
 
-Bylo docela horko a cítil jsem se docela blbé, když jsem dojel zpocený do té čisťoučké, voňavé ordinace. Ale bylo to v poho. A celá ta procedura taky. Moc hezká doktorka mě odrápala zuby jehlou, opiskovala aultrazvukem očistila kořeny zubů a ukázala jak si zuby čistit mezizubními kartáčky.<br>
+Bylo docela horko a cítil jsem se docela blbé, když jsem dojel zpocený do té čisťoučké, voňavé ordinace. Ale bylo to v poho. A celá ta procedura taky. Moc hezká doktorka mě odrápala zuby jehlou, opiskovala a ultrazvukem očistila kořeny zubů a ukázala jak si zuby čistit mezizubními kartáčky.<br>
 Doma jsem ještě pracoval. A pak hodně koukal do zrcadla. Fakt to pomohlo.<br>
-V Tescu jsem se otočil pro černou čočku, tofu a pečivo. Překvapilo mě jak kvalitní má tesco chleba. Kráskovýpšenično žitný. S Francouzkou pomazánkou chutnal fakt ohromně.
+V Tescu jsem se otočil pro černou čočku, tofu a pečivo. Překvapilo mě jak kvalitní má tesco chleba. Kráskový pšenično žitný. S Francouzkou pomazánkou chutnal fakt ohromně.
 
 ### 19.9. Z Lyonu na kurty
 
