@@ -19,7 +19,7 @@
 - [15.3. Týden Mozku](#153-týden-mozku)
 - [16.3.](#163)
 - [17.3. Budoucnost je nerezová](#173-budoucnost-je-nerezová)
-- [18.3.](#183)
+- [18.3. Na kochleu skrz kost](#183-na-kochleu-skrz-kost)
 - [19.3.](#193)
 - [20.3.](#203)
 - [21.3. Deseti tisíce displejů](#213-deseti-tisíce-displejů)
@@ -206,7 +206,14 @@ Vlak mě svezl i zpátky. Alza mi napsala, že můj nákup dorazil do Alzaboxu n
 Byly moc pěkný!<br>
 Verunka mi vyprávěla, jak šel den sv. Patrika. Byl to prý velký úspěch . Na promítačce mi ukazovala taneční vystoupení, přednášku a stoly plné zelených dobrot. Mel jsem z ní radost. Svale se s tim dost dlouho a bylo moc fajn, že jí všechno vyšlo.
 
-### 18.3. 
+### 18.3. Na kochleu skrz kost
+
+Další ráno kdy jsem se dokopal k tomu vyběhnout do Grébovky. Podcenil jsem oblečení. Kraťasy byly v pohodě? Ale tričko bylo málo. Paže mi chladly a prsty mrzly.<br>
+Když jsem je pak rozehříval ve sprše, bolelo to jak, kdybych je zavřel do svěráku. Jestli takhle bolí artritida, je třeba se jí vyhnout.<br>
+Dál jsem poslouchal language transfer. Ve vlaku, kde jsem chroupal zbytek žitného chleba s kusem tofu. Začínalo to být extrémně těžký. Podmíněná budoucnost a tak.<br>
+Jak při běhu, tak ve vlaku mi do uší hrály mé nové Shokz Open Swim Pro.<br>
+V práci jsem nakupoval součástky, psal emaily do KEOLABS a řešil SPI a linku.<br>
+Běhat ráno mi asi bylo málo. Po práci jsem přejel vlakem na Astra, kde jsme hráli beďas s Martou a potom jel na kole domů. K takovýmhle dnům bych se měl v budoucnu vracet, až se mi nebude chtít ani vstát z postele.
 
 ### 19.3. 
 
