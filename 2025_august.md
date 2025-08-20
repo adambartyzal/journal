@@ -40,7 +40,7 @@ V Irsku je o hodinu míň, takže z letadla jsme vystoupili před osmou a pěšk
 
 Autobusem jsme poté sjeli do centra. Seděli jsme na přední sedačce v horním patře double deckeru. Točil jsem si časosběr a koukal na to, jak nízké domy Dublin má.
 
-![video](05_2.mov)
+<p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2025_august/05_2.mov" type="video/mp4"></video></p>
 
 Po asi čtyřiceti minutách jsme dojeli do centra k bodu nula, přejeli řeku a vystoupili v oblasti plné irských pasů a tradičně vypadajících uliček. Vyšli jsme na lokální známou lávku, prošli si temple bar, došli do kampusu univerzity a zamířili do Doyle's na pivo.<br>
 Vybral jsem O'hara's Irish pale ale. Dobře jsem udělal. Veru Guiness chutnal jak nedopalky v kole z makra.<br>
