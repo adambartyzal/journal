@@ -20,7 +20,12 @@
 - [16.8. Káva Grande](#168-káva-grande)
 - [17.8. Bolest hlavy](#178-bolest-hlavy)
 - [18.8. Sedm prstů je lepší než pět](#188-sedm-prstů-je-lepší-než-pět)
+- [19.8. Jídelna na Vysočanské](#198-jídelna-na-vysočanské)
 - [20.8. Teplota](#208-teplota)
+- [21.8. Září za rohem](#218-září-za-rohem)
+- [22.8. Hardware ok](#228-hardware-ok)
+- [](#-6)
+- [](#-7)
 
 ### 1.8. Ostřejší, barevnější, lepší
 
@@ -330,6 +335,13 @@ Zpátky jsem jel vlakem. Síla ibalginu byla dávno pryč a tlak ve spáncích s
 Verunka ležela. Cítila se o fous líp a pomohla mi připravit salát a další česnečku. Obojí jsme si vzali do obýváku a pustili si asi 5 dílů přátel Za sebou\
 Teplo pod dekou, vitamíny a tekutiny nám rozhodně pomůžou, řekl jsem si.
 
+### 19.8. Jídelna na Vysočanské
+
+Jízda na kde ráno možná zaseknuté rýmě pomáhá, možná ne. Sprcha po příjezdu rozhodně je.\
+V pondělí jsem vyřezal novou anténu a dneska jsem k ní chtěl zapéct modem. Přišlo mi, že se mi to povedlo. jenže Z modemu nepřicházely odpovědi na AT příkazy. Po asi dvou hodinách debugu jsem objevil, že modem, který jsem osadil používá jinou virtuální síťovku.\
+Po více než roce ve Vysočanech jsem konečně navštívil jídelnu DPP naproti metru. Vegetariánská volba byly fazolky S bramborem a vařené vejce polité kapavkou. Trochu bizár, ale vlastně fajn jídlo . S česnečkou za sto pode.\
+Zpátky domů se mi nechtělo jet do kopce. Sjel jsem do Karlina a od řeky po magistrále.
+ 
 ### 20.8. Teplota
 
 Ucpaný nos mě v noci budil. Potřeboval jsem ho nějak zvlhčit. Vincentkový sprej ale nebyl k nalezení. Nasla ho až Verunka ráno. Posnídali jsme ovesnou kaši a já na kole vyjel do práce.\
@@ -338,5 +350,24 @@ Na oběd jsme dojeli do Indie na kolech. Když jsme se vraceli pocítí jsem, ž
 Na novém prototypu mi prošly testy na napětí. To bylo pozitivní. Pár testů na tvary pulzů taky. Ale v rádiu bylo něco špatně. Co jsem si nechal na další den.\
 Cestou domů jsem nakoupil v Lidla. Verunka odjela do Ostravy aby mohla naplánovat s tátou oslava šedesátých narozenin a potom dojela do Zlína na kontrolu očí. Věděl jsem, že se mi nebude chtít moc vařit a tak jsem v italském týdnu nakoupil omáčku a těstoviny se slevou.\
 Vlakem do Vršek. A rovnou do postele. Vypotit tu nemoc. Už mě ten ucpanej nos štval.
+
+### 21.8. Září za rohem
+
+Jirka mi ráno psal, zda nemám na půjčení ikea tašku. Vzpomněl si na mě, protože mám mírnou obsesi. Tašku jsem měl, akorát z OBI. Barva byla Jirkovi ukradená, potřeboval odvézt čerpadlo. Hodil jsem jí do batohu a přejel Vinohrady.\
+Modem fungoval a tak jsem začal osazovat další celou desku hla. To mi zabralo první polovina dne. V té druhé jsem se pustil do analogového testování.\
+Podruhé ve stejném týdnu jsme zvolili Vietnamku. Pán mi opět chtěl dát slevu, de tentokrát jsem mu nechal dýško. Ludva napsal email do 1- CUBE. Adam prý ladí detaily, aby proces certifikace byl se much smoother. Uprostřed září.\
+Vlastně to možná nebylo nemožný. Uvidíme.\
+Doma jsem šel rovnou do postele. Bolehlav od plného nesu byl vražedný.
+
+### 22.8. Hardware ok
+
+Veru jela z Ostravy do Zlína nechat si zkontrolovat oči. Prý vidí na 120% normy. Když jsem dojel do práce a pověděl to Vláďovi, odpověděl že jemu oči řekl to samý. Norma je asi býti mírně slepý.\
+Den jsem trávil pomáháním Ríšovi s testerem a posouváním PICC při analogových testech. Někdy v půl šestý to prošlo. Se třemi chybami v rádiu, ale všechny byly v maximální modulaci. Melo by to jít dohnat firmwarem.\
+Pečené tofu v pomerančové omáčce s česnekem a štouchanými brambory s cibukou bylo překvapení, dne. To zařadím, řekl jsem si.\
+Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili dekou a pustili si Přátele.
+
+###
+
+###
 
 [>> Září](2025_september.md)
