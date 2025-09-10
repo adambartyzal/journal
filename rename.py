@@ -17,7 +17,10 @@ days = [0] * 31
 
 for originalFileName in images:
   path = folderName + originalFileName
-  date = getDateTaken(path)
+  try:
+    date = getDateTaken(path)
+  except:
+    continue
   day = int(str(date).split(' ')[0].split(':')[2])
   days[day - 1]  = days[day - 1] + 1
   newFileName = f'{day:02d}_{days[day - 1]}.jpg'

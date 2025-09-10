@@ -26,6 +26,13 @@
 - [22.8. Hardware ok](#228-hardware-ok)
 - [](#-6)
 - [](#-7)
+- [](#-8)
+- [](#-9)
+- [](#-10)
+- [](#-11)
+- [](#-12)
+- [](#-13)
+- [](#-14)
 
 ### 1.8. Ostřejší, barevnější, lepší
 
@@ -365,6 +372,20 @@ Veru jela z Ostravy do Zlína nechat si zkontrolovat oči. Prý vidí na 120% no
 Den jsem trávil pomáháním Ríšovi s testerem a posouváním PICC při analogových testech. Někdy v půl šestý to prošlo. Se třemi chybami v rádiu, ale všechny byly v maximální modulaci. Melo by to jít dohnat firmwarem.<br>
 Pečené tofu v pomerančové omáčce s česnekem a štouchanými brambory s cibukou bylo překvapení, dne. To zařadím, řekl jsem si.<br>
 Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili dekou a pustili si Přátele.
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
 
 ###
 
