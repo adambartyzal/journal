@@ -1,45 +1,129 @@
 [<< Srpen](2025_august.md)
 
-- [1.9.](#19)
+- [1.9. Štrůdl a bramboráky](#19-štrůdl-a-bramboráky)
+- [2.9. Mít tak 7 miliónů](#29-mít-tak-7-miliónů)
 - [](#)
+- [4.9. Tetanus, záškrt a černý kašel](#49-tetanus-záškrt-a-černý-kašel)
 - [](#-1)
-- [](#-2)
-- [](#-3)
-- [](#-4)
+- [6.9. Po roce chlupatí](#69-po-roce-chlupatí)
 - [7.9. Pět a padesát](#79-pět-a-padesát)
-- [](#-5)
-- [](#-6)
+- [](#-2)
+- [9.9. Místo problému problém](#99-místo-problému-problém)
 - [10.9. Špína a prach](#109-špína-a-prach)
+- [](#-3)
+- [12.9. Taky kávou posedlá](#129-taky-kávou-posedlá)
+- [](#-4)
+- [](#-5)
 
-### 1.9. 
+### 1.9. Štrůdl a bramboráky
+
+Nový měsíc, začátek školního roku a plnění předsevzetí. Po šestá jsem vstal, nazul boty a vyběhl ven. Tentokrát do Felimanky. Mířil jsem na víc než pět, ale lenost to zkrátila na 4, Ale na cvičitkách jsem zkoušel viset co nejdéle a udelal pár shybů.
+
+Verunka k snídani připravila štrůdl a k tomu papriku. Moc víc toho naše zásoby nenabízely, ale obojí byl. dobrý a obojí bylo třeba sníst.
+
+Do práce jsem jel na kole. Čekala mě příprava převodníků a nabíječek pro I-CUBE.
+
+Po práci jsem se zastavil u cvičítek na Palmovce. Jestli někdy zvládnu muscle up, bude to za dlouho.
+
+Z Maršova jsme si přivezli brambory. Brambory, to je takový nezpracovaný bramborák. Zpracoval jsem je a k jejich konzumaci Verunka pustila seriál.
 
 <a href="../images/2025_september/01_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/01_1.jpg"></a>
 
-###
+Sira Galavanta. Muzikál ze středověku. Americkou parodii té doby. Byl to náročný, ale nakonec jsem tomu přivykl Tu a tam byl i dobrej fór.
+
+### 2.9. Mít tak 7 miliónů
+
+Tentokrát jsme po snídani brali kola oba. Měli jsme plán podívat se na dům, který jsme našli cestou z Tišnova na S-Realitách. V Zápech. Kam sice nejel vlak, ale ze Mstětic ano a to byla kousek.
+
+V batohu jsem měl poslední dva bramboráky a švestkový koláč a po rozloučení se s ženou na Vysočanské jsem zamkl Marty kdo na nádraží a vyrazil na Kolbenku mírným deštěm na Franzovi
+
+V kanclu jsme byli jen já Tomík. Plácal jsem se s opravou zámku, který umřel po připojení nabíječky. Nakonec jsem došel k názoru, že utíkal proud pod spínač solárního čipu a proto se nevypnulo nabíjení, když se zapnulo 5L. Vzalo to s sebou i CAN.
+
+Déšt za okny naštěstí ustával. Když jsem před odjezdem snědl poslední bramborák a zbytek koláče, vykouklo sluníčko.
+
+Marti kolo na nádraží naštěstí počkalo. Akorát bylo dost prázdný. Ve vlaku jsem se pustil do výzkumu toho, jak to Vyřešit a být v Zápech na čas. Benzinka kousek od nádraží vypadala slibně. Veru přistoupila na Rajské a zavolala tam. Pumpa prý měli.
+
+Vystoupili jsme v Mstěticích, Veru odvedla kolo na benzínku a naštěstí všechno fungovalo. Po chvíli jsme oba vyjeli na silnici vedoucí do Záp.
+
+Byl na ní provoz. Alespoň až do křižovatky asi kilometr před vsi. Dal většina aut pokračovala do Brandýsa. My sjeli z kopce k hřišti a do kopce na náves a z té to k domu bylo jen asi 200 metrů
+
+Stihli jsme to přesně na čas. Paní byla překvapená. Nakde jí tam prý ještě nikdo nepřijel. Společně s ní tam byl pan Baťka, majitel domu. Syn původních majitelů. Člověk, který znal každý šroub v domě. Protože se o dům staral. Nebyla to žádná ruina. Byl to extrémně milej domek, se Spoustou místa navíc a zahradou s fantastickým výhledem.
+
+Zamiloval jsem se na první pohled. Verunka taky. Sklepy pod altánem, domem i kůlnou bychom mohli nacpat ovocem a zeleninou.
+
+Jenže sedm milionů je sedm milionů.
 
 <a href="../images/2025_september/02_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/02_1.jpg"></a>
 
+Navíc.. bylo třeba se podívat, jak vypadá ven. Rozloučili Jsme se, sedli na kola a vyjeli k hřišti. U hospody byl hlouček lidí a tak jsme se zastavili na nepive a kus řeči. Lidi byli milí. Plus pro Zápy.
+
+Dál jsme měli na programu návštěvu Brandýsa. Tam jsme ale nepobyl: dlouho. Vůbec mi to nedošlo, když jsem vybral kde, jako mód dopravy, ale Veru měla svý dny. Otočili jsme to a vrátili se skrz Zápy na silnici a pak přejeli na cyklostezku do Zelenče.
+
 <a href="../images/2025_september/02_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/02_2.jpg"></a>
 
-###
+Ve vlaku k nám průvodčí došel až po Ho Po. tak nám ale naučtoval kola a lístky mimo Praha. Kilo za asi 5 minut jízdy. Debil s nagelovaným knírem.
+
+Den po uložení kol v kolárné ale nekončil. Ještě jsme se před spaním pustili do krájení švestek na sušení.
+
+Po desátý už jsme ale leželi v posteli. Oběma nám v hlavě jelo, jaký by to bylo. Život v Zápech. Možná by to šlo. Převalovali jsme se dlouho než jsme opravdu Zabrali.
 
 ###
 
-###
+### 4.9. Tetanus, záškrt a černý kašel
+
+Ráno jsem nezvládl. Sice jsem se společně s Verunkou vzbudil, ale pak jsem se válel dál a úplně zapomněl na to, že mám být na očkování.
+
+Přijel jsem na revoluční o půl hodiny později a musel další pul hodinu čekat. Alespoň jsem se po asi letí dnech dostal k deníku.
+
+Po očkování mi prý mělo být blbě a ruka mě měla bolet, jako když mě do ní praští. Cestou kolem Rokytky to bylo ještě dobrý, ale v práci to přicházelo a ve veži, kde byl asijský burger se sójovkou a koriandrem mi začalo být trochu Slivno a ruka začala být extra těžké.
+
+Nepřipájený kondík v NFL mi dal zabrat. Modulace se chovala divně, jakoby se regulátor vypínal. Než jsem ten problém našel. bylo kolem druhé a to jsem emailem slíbil, že se zastavím v bance na Freyové.
+
+Pán přes Hypoték tam napřed nebyl a všichni si mysleli, že už je doma, ale pak ho našli a dal mi představu o tom, co by hypotéka obnášela. Bylo to dost. A bez dvaceti procent LTV byla značně nevýhodná. to % bych měl. Ale na 20% bych musel prodat ETF ke a dolar byl zrovna slabej. Několik set tisíc oproti lednu by proletělo komínem. Bylo třeba ještě spořit a sledovat trh. Dům v Zápech by na's stal přiliš moc.
+
+Domů jsem vzal vlak. Mít v sobě tři nemoci nebylo jen tak. Bylo třeba odpočívat.
 
 ###
 
 <a href="../images/2025_september/05_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/05_1.jpg"></a>
+
+### 6.9. Po roce chlupatí
+
+V noci mě budil třes a zima. Má adaptace na tři nemoci stále probíhala. Veru mi dala ibufem a když zabral, zabral jsem konečně taky.
+
+K snídani jsme měli zapečený chleba s humusem a jablka v županu. Obalit vajíčkem jablko by mě nenapadlo. Ale nebylo to zlý. Než jsme vyrazili hrál jsem si s koťátkem. Bylo rozkošný. Realita byla taková, že to byl další tvor, který bude v domě chcát na koberec a přidělávat bordel, ale to kotě za to nemohlo. Bylo jen a jen roztomilý.
+
+Věci na výšlap a případné stanování jsme hodili do Rapidu a vyrazili směr Beskydy. Verunka řídila a já pouštěl hudbu. Nebylo to daleko sotva pět písniček a sjížděli jsme z hlavní do kopce v lese smerem na parkoviště u hotelu Sepetná. Abychom mohli parkovat bez placení, museli jsme utratit 150 korun a tak jsme vyrazili na polévku a kávu.
+
 <a href="../images/2025_september/06_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/06_1.jpg"></a>
+
+Během polévky to bylo ještě dobrý ale při kávě to začalo jít do kytek. Luky totiž jel se školou surfovat do Itálie. Jeli autobusem a on rodině sdílel polohu. Jenže někde u Modeny v Alpách signál přestal vysílat a Luky nebral telefon. Číslo na vedoucí zájezdu taky nikam nevedlo a google neudelal dobrou službu, protože našel nehodu Flixbusu právě u Modeny. Že se to stalo rok zpátky si Verunka nevšimla a začala obvolávat italské nemocnice, sto dvanáctku a spustila řetězec, který vyustl v to, že nám volali Čeští policisté, že máme zůstat kde jsme, že jedou za námi.
+
+To už Veru věstila, že brácha musí být mrtvej. V hotelu o nich taky zatím nic nevěděli, ale bylo to jen půl hodiny po plánovaném příjezdu. Nicméně policajti byli na cestě a my čekali.
+
+Přijeli a věděli kulový. Šli sepsat zápis pro případné pátrání. Než to zvládli, autobus dojel do hotelu a po několika dalších telefonátech bylo mezinárodní pátrání odvoláno.
+
+Ale bylo docela pozdě. I tak jsme ale na Lysou horu vyrazili. Podobně jako na Etně jsme potkávali spíš lidi jdoucí dolů. Nakonec jsme vešli do mraku. Ale stejně jako Etnu jsme i Lysou Horu pokořili.
+
 <a href="../images/2025_september/06_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/06_2.jpg"></a>
+
+Nakonec i ten výhled byl. Během zlaté hodinky jsme sestoupili pod mrak a stálo to za to.
+
 <a href="../images/2025_september/06_3.jpg" target="_blank"><img src="../images/thumbnails/2025_september/06_3.jpg"></a>
+
+Navíc jsme cestou procvičovali španělštinu, překladem českých písní.
+
 <p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2025_september/06_4.mov" type="video/mp4"></video></p>
+
+Stanování jsme odpískali. Vrátili jsme auto do Ostravy a vyrazili na pizzu. Quatro Formaggi byla na rajčatovém základu. Verunku to hodně zarazilo. Ta i moje margarita byly spíš průměrný. Vzhledem k ceně spíš podprůměrný. Ale co.. bylo to dobrý rande. Slavili jsme rok.
+
+Policajti na naše výročí začali býti tradicí!
 
 ### 7.9. Pět a padesát
 
-Spaní na matraci na zemi nebylo nic moc. Až ráno jsem začal cítit mírné dobytí energie a tak jsem dolehával až do půl desáté.
+Spaní na matraci na zemi nebylo nic moc. Až ráno jsem začal cítit mírné dobytí energie a tak jsem polehával až do půl desáté.
 
-Posnídali jsme granda a toast s humusem a vyrazili za babičkou. U té jsme si opět změřili tlak, tentokrát novým digitálním měřidlem. Já měl 114 na 72. Miki mi ho nezvládla zvednout tím, že si mě po ránu odtáhla bokem a řekla mi, že mi nevěří. Bylo mi to vlastně úplně jedno. Jen mě mrzelo, že s Veru měly na houby vztah i když se k ní Verunka snažila najít cestu.
+Posnídali jsme granolu a toast s humusem a vyrazili za babičkou. U té jsme si opět změřili tlak, tentokrát novým digitálním měřidlem. Já měl 114 na 72. Miki mi ho nezvládla zvednout tím, že si mě po ránu odtáhla bokem a řekla mi, že mi nevěří. Bylo mi to vlastně úplně jedno. Jen mě mrzelo, že s Veru měly na houby vztah i když se k ní Verunka snažila najít cestu.
 
 <a href="../images/2025_september/07_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/07_1.jpg"></a>
 
@@ -56,21 +140,33 @@ Převálcovali jsme srdíčko 113 ku 24. Terka hádala dobře moje kresby, naše
 
 Po šestý jsme ale museli nasednout do auta a nechat se odvézt na nádraží. Anet nám přibalila obří kufr plný věcí, protože tři měsíce nebyla doma a sama by to odvézt nezvládla. Nastesti jsme šli jen mezi vlaky a pak k nám a to je z nádraží kousek.
 
-Ve vlaku to s Verunken cloumalo. I přes to, že Jsme seděli vedle sebe, posílala mi zprávy, že kdyby někde bylo prázdný kapel, vlítla by na mě.
+Ve vlaku to s Verunkou cloumalo. I přes to, že Jsme seděli vedle sebe, posílala mi zprávy, že kdyby někde bylo prázdný kapel, vlítla by na mě.
 
 Jasně že jsem zkontroloval celej vlak.
 
 Ale nebylo nám přáno a tak jsme na Řehořovi luštili křížovky a vlítli na to až doma po přípravách na následující týden. Byl to moc dobrej sen. Po pár dnech půstu a s vidinou ženy na 4 dny pryč.
 
-
 ###
 
-###
+### 9.9. Místo problému problém
+
+Protože večer už jsem nezvládl navařit, moje ranní rutina se protáhla. 
 
 <a href="../images/2025_september/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/09_1.jpg"></a>
 
+Vařil jsem čínu, vynesl jsem plasty, donesl do alzaboxu deseti šalkový chemex a vyzvedl šesti šálkový a nacpal pračku a myčku.
+
 <a href="../images/2025_september/09_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/09_2.jpg"></a>
 
+A najednou bylo po devátý. Vytáhl jsem kolo a dojel do Vysočan. V XLku na mě čekala nová landing plane. Odvrtal a uřezal jsem tu původní a modlil se, aby se vazba chovala podobně jako když jsem měl antény a 90° stupňů otočené.
+
+Výkon prošel. Undershooty se zhoršily. Ponořil jsem se do datasheetu a hledal něco, co by mi mohlo pomoct.
+
+A našel jsem! Regulátory měly proudový limitér. Ten sice nešel vyřadit, de šel obejít. Stačilo spojit VDD-TX s VDD-RF. A najednou spodní úroveň amplitudové modulace byla rovná. Alespoň tak rovná jako ta vrchní.
+
+Jenže ta byla vlnitá jak rozbouřený oceán. Z HLP tam lezla nějaká špína. Doměřil jsem že to leze z boostu bot chargeru. Řešení jsem nechal na následující den a dojel na Konopisťskou kde jsem chvili cvičil.
+
+Doma jsem zvládl už jen pověsit prádlo a dva díly Star Treku.
 
 ### 10.9. Špína a prach
 
@@ -87,5 +183,21 @@ Chvíli mi trvalo pochopit, že boost zdroj je třeba vypnout přenastavit a pak
 Udělal jsem úpravu i na zbylých zámcích a zbytek dne testoval a uklízel prach ze stolů. Bylo ho tam fakt hodně. Když o tom přemýšlím, v klimatizaci asi taky bude spousta šitu. Možná proto mě rozbolela kebule, když jí Jirka zapnul.
 
 Při cestě domů chcalo a ujel mi vlak. Naštěstí jsem měl žlutou pláštěnku a v mezičase jsem v Lidlu koupil noky.Po příjezdu jsem se pustil do toho psaní. 20 dní byla utopie. Ale snížení deficitu by vyjít mělo, řekl jsem si. Za okny stejně lilo a Veru byla pryč.
+
+###
+
+### 12.9. Taky kávou posedlá
+
+Večer se měla Anet stavit pro kufr. Nakonec ale oznámila příjezd dopoledne a Verunka jí tak po mém odjezdu připravila kávu v Chemexu a nad ní prý kecali asi 4 hodiny.
+
+Mě v práci nečekal. nic extra. Pokračoval jsem v testování analogu. Dopsal test na nastavení vyšší frekvence boost zdroje. A objevil chybu v mém call steaku, který se Vláďovi tolik nelíbí. Měl hloubku to, ale při digitálních testech v B části najednou zámek přestal fungovat a bylo to tím, že jsem měl pustnutí 87 a přepsal proměnný úplně za rohem.
+
+Před odjezdem z Kolbenky jsem se koukat na naše cargo kolo. Mělo diz, ale chyběla mu zadní brzda, kabely a kontroler. Asi by šlo dodělat tam nějaký jiný, ale bylo by to dost práce.
+
+Vlak mě dovezl dam. Veru pro velký úspěch připravila třetí chemex dne. Tentokrát pomocí Comandante mlýnku. Po odchodu Anet se pustila do vaření a k večeři jsme měli pečenou zeleninu. Moc dobrou. Pustili jsme si k ní La Casa de Papel.
+
+###
+
+###
 
 [>> Říjen](2025_october.md)
