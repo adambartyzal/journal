@@ -140,11 +140,11 @@ Převálcovali jsme srdíčko 113 ku 24. Terka hádala dobře moje kresby, naše
 
 Po šestý jsme ale museli nasednout do auta a nechat se odvézt na nádraží. Anet nám přibalila obří kufr plný věcí, protože tři měsíce nebyla doma a sama by to odvézt nezvládla. Nastesti jsme šli jen mezi vlaky a pak k nám a to je z nádraží kousek.
 
-Ve vlaku to s Verunkou cloumalo. I přes to, že Jsme seděli vedle sebe, posílala mi zprávy, že kdyby někde bylo prázdný kapel, vlítla by na mě.
+Ve vlaku to s Verunkou cloumalo. I přes to, že jsme seděli vedle sebe, posílala mi zprávy, že kdyby někde bylo prázdný kapel, vlítla by v něm na mě.
 
 Jasně že jsem zkontroloval celej vlak.
 
-Ale nebylo nám přáno a tak jsme na Řehořovi luštili křížovky a vlítli na to až doma po přípravách na následující týden. Byl to moc dobrej sen. Po pár dnech půstu a s vidinou ženy na 4 dny pryč.
+Ale nebylo nám přáno a tak jsme na Řehořovi luštili křížovky a vlítli na to až doma po přípravách na následující týden. Byl to moc dobrej sex. Po pár dnech půstu a s vidinou ženy na 4 dny pryč.
 
 ###
 
