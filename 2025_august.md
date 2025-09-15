@@ -3,17 +3,17 @@
 ## [Srpen](2025.md) 
 
 - [1.8. Ostřejší, barevnější, lepší](#18-ostřejší-barevnější-lepší)
-- [](#)
-- [](#-1)
-- [](#-2)
+- [2.8.](#28)
+- [3.8.](#38)
+- [3.8.](#38-1)
 - [5.8. K leprikónům](#58-k-leprikónům)
 - [6.8. Ostružiny, balíky obilí a hudebníci v ulicích](#68-ostružiny-balíky-obilí-a-hudebníci-v-ulicích)
 - [7.8. Jake, Anthony <br>& Jean](#78-jake-anthony--jean)
 - [8.8. Vstříc viteálu](#88-vstříc-viteálu)
 - [9.8. Ultraprocessed Ireland](#98-ultraprocessed-ireland)
-- [](#-3)
+- [10.8.](#108)
 - [11.8. Mexický fitr](#118-mexický-fitr)
-- [](#-4)
+- [11.8.](#118)
 - [13.8. Jako Frodo a Sam](#138-jako-frodo-a-sam)
 - [14.8. Konečně dovolená](#148-konečně-dovolená)
 - [15.8. Katánii příště](#158-katánii-příště)
@@ -24,15 +24,15 @@
 - [20.8. Teplota](#208-teplota)
 - [21.8. Září za rohem](#218-září-za-rohem)
 - [22.8. Hardware ok](#228-hardware-ok)
-- [](#-5)
-- [](#-6)
-- [](#-7)
-- [](#-8)
-- [](#-9)
-- [](#-10)
-- [](#-11)
-- [](#-12)
-- [](#-13)
+- [23.8.](#238)
+- [24.8.](#248)
+- [25.8.](#258)
+- [26.8](#268)
+- [27.8.](#278)
+- [28.8](#288)
+- [29.8](#298)
+- [30.8.](#308)
+- [31.8.](#318)
 
 ### 1.8. Ostřejší, barevnější, lepší
 
@@ -48,11 +48,11 @@ Po dešti bylo krásné barevno, čisto a všechno působilo skvěle. Skoro jsem
 Doma jsem si otevřel gazpacho. Bylo taky extrémně dobrý. Jenže gazpacho je dobrý vždycky.<br>
 Máma volala. Stěžovala si, že Eva moc leje, že Petr si půjčuje a že Robin vysírá. Moc jsem nevěděl, co jí na to povědět. Řekl jsem si, že se Evy optám, jestli jsou v poho.
 
-###
+### 2.8.
 
-###
+### 3.8.
 
-###
+### 3.8.
 
 ### 5.8. K leprikónům
 
@@ -209,7 +209,7 @@ Psal jsem deník, dobíjel baterie a sledoval zelenou krajinu ubíhající za ok
 Šestnáctka tak příjemná nebyla. Kromě výhledu na neskutečný úplněk jsem se v ní kroutil, byla mi zima a jízda trvala až bolestně dlouho.<br>
 Letiště už začínalo být vylidněné. Prošli jsme všechny tři patra terminálu 2 a nakonec se ubytovali v rohu toho nejvyššího. Veru ve SPARu koupila šunty do uší a půjčila mi nákrčník jako škrabošku.
 
-###
+### 10.8.
 
 <a href="../images/2025_august/10_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/10_1.jpg"></a>
 
@@ -233,7 +233,7 @@ Nakonec jsme opet došli k moři. Do oblasti, kde byla skála. Řekl jsem si, ž
 Když slunko zapadlo, vzduch se rychle ochladil. Voda sice docela hřála, ale bylo třeba dostat něco do břicha. Osušili jsme se a po pláži se vrátili k hotelu, zjistili kolik chtějí za jídlo v tamější restauraci, udělali si mentální poznámku, že jednou by to docela šlo a pak došli domů na salát z poledne. Byla to kopa a byl moc dobrej. K němu dvě piva a konverzace s kolegy.<br>
 Dana už jsem docela znal. Lenka, jeho bývalá kolegyně byla nakonec docela v poho paní, která kdysi měla bohatého manžela, který i skrz oponu dokázal pořídit MTV, Betamax, BMW a a další výdobytky, které Jana s Romanem rozhodně neměli. I tak se ale k Romanovi dostali nahrávky Beatles, Rolling Stones a dalších, neb jeho Pražští rodiče měli kamarády obchodníky a příbuzné v americe. To jen já pocházel z rodiny z vesnice Uprostřed ničeho. Ale co, svět objevuju po svém a Veru to má podobně!
 
-###
+### 11.8.
 
 <a href="../images/2025_august/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/12_1.jpg"></a>
 
@@ -387,22 +387,23 @@ Den jsem trávil pomáháním Ríšovi s testerem a posouváním PICC při analo
 Pečené tofu v pomerančové omáčce s česnekem a štouchanými brambory s cibukou bylo překvapení, dne. To zařadím, řekl jsem si.<br>
 Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili dekou a pustili si Přátele.
 
-###
+### 23.8.
 
-###
+### 24.8.
 
-###
+### 25.8.
 
-###
+### 26.8
 
-###
+### 27.8.
 
-###
+### 28.8
 
-###
+### 29.8
 
-###
+### 30.8.
 
-###
+### 31.8.
+
 
 [>> Září](2025_september.md)
