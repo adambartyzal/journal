@@ -188,13 +188,20 @@ Při cestě domů chcalo a ujel mi vlak. Naštěstí jsem měl žlutou pláště
 
 ###
 
+<a href="../images/2025_september/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/11_1.jpg"></a>
+<a href="../images/2025_september/11_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/11_2.jpg"></a>
+
 ### 12.9. Taky kávou posedlá
 
 Večer se měla Anet stavit pro kufr. Nakonec ale oznámila příjezd dopoledne a Verunka jí tak po mém odjezdu připravila kávu v Chemexu a nad ní prý kecali asi 4 hodiny.
 
+<a href="../images/2025_september/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/12_1.jpg"></a>
+
 Mě v práci nečekal. nic extra. Pokračoval jsem v testování analogu. Dopsal test na nastavení vyšší frekvence boost zdroje. A objevil chybu v mém call steaku, který se Vláďovi tolik nelíbí. Měl hloubku to, ale při digitálních testech v B části najednou zámek přestal fungovat a bylo to tím, že jsem měl pustnutí 87 a přepsal proměnný úplně za rohem.
 
 Před odjezdem z Kolbenky jsem se koukat na naše cargo kolo. Mělo diz, ale chyběla mu zadní brzda, kabely a kontroler. Asi by šlo dodělat tam nějaký jiný, ale bylo by to dost práce.
+
+<a href="../images/2025_september/12_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/12_2.jpg"></a>
 
 Vlak mě dovezl dam. Veru pro velký úspěch připravila třetí chemex dne. Tentokrát pomocí Comandante mlýnku. Po odchodu Anet se pustila do vaření a k večeři jsme měli pečenou zeleninu. Moc dobrou. Pustili jsme si k ní La Casa de Papel.
 
@@ -202,11 +209,15 @@ Vlak mě dovezl dam. Veru pro velký úspěch připravila třetí chemex dne. Te
 
 Po dlouhý době flákací den. Z postele jsme nechvátali, k snídani udělali topinky s prstem, salát, čaj i kávu.
 
+<a href="../images/2025_september/13_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/13_1.jpg"></a>
+
 Jenom se flákat ale nebyl plán. Chtěli jsme plavat. A do páry. Podolí jasná volba. Ještě že noční déšť ustoupil. Vyrazili jsme trochu na blind na tramvaj, počkali na sedmička, na Výtoni přestoupili a došli do bazénu.
 
 Když člověk s multisportkou nahlásí, že chce plavat hodinu a půl, doplácí 20 korun. Když ne a překročí o minutu, doplácí 27 korun a po deseti minutách další.
 
 Šli jsme na hodinu. Oba uplavali lehce přes kilometr Ve venkovním bazénu a chvíli se nahřáli v páře.
+
+<a href="../images/2025_september/13_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/13_2.jpg"></a>
 
 Zpátky jsme to vzali pešky na Pankrác. Chteli jsme sbírat šípky. Naneštěstí ale nebyly zralé. Vzali jsme pár vlašáků a skočili na autobus na Kloboučnickou.
 
@@ -217,6 +228,9 @@ A pak se flákali. Tentokrát to je eufemismus
 Vern večer vyrazila hrát koncert s kapelou do Kafe Nůžky Papír. Prý to bylo dobrý. Ale byla to uzavřená společnost. Narozeniny endokrinologova bráchy. Já byl docela unavený a když se Vern vrátila, už jsem chrupkal.
 
 ### 14.9.
+
+<a href="../images/2025_september/14_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/14_1.jpg"></a>
+
 
 ### 15.9. Dobrej druh dluhu
 
@@ -235,6 +249,8 @@ Byla tma. Leto bylo v háji.
 Verunka měla napilno. Než jsem se vyhrabal z postele, byla připravená vyrazit na vlak. Protože je to ale fantastická ženská, udělala mi snídani než utekla ven, protože vlak jel za 3 minuty. Já se pak pomalu probíral do poměrně nudného dne.
 
 Jel jsem kolem Slides Live. Pak jsem testoval zámky. Objevil, že spojení regulátorů zvedlo úroveň na RFI. Obědval v jídelně DPP bulgurové rizoto. Změnil dělič. Naštval se na Proxilab Spy. Napsal do Keolabs. A pak opět testoval.
+
+<a href="../images/2025_september/16_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/16_1.jpg"></a>
 
 Cestou zpatky jsem se zastavil na cvičítkách. 10 shybů i přítahů docela v pohodě. Vis přes minutu a 3 Vosečkovy šikany.
 
