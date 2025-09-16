@@ -12,8 +12,10 @@
 - [10.9. Špína a prach](#109-špína-a-prach)
 - [](#-3)
 - [12.9. Taky kávou posedlá](#129-taky-kávou-posedlá)
-- [](#-4)
-- [](#-5)
+- [13.9. Šípky nezralý](#139-šípky-nezralý)
+- [14.9.](#149)
+- [15.9. Dobrej druh dluhu](#159-dobrej-druh-dluhu)
+- [16.9. Meh](#169-meh)
 
 ### 1.9. Štrůdl a bramboráky
 
@@ -196,8 +198,45 @@ Před odjezdem z Kolbenky jsem se koukat na naše cargo kolo. Mělo diz, ale chy
 
 Vlak mě dovezl dam. Veru pro velký úspěch připravila třetí chemex dne. Tentokrát pomocí Comandante mlýnku. Po odchodu Anet se pustila do vaření a k večeři jsme měli pečenou zeleninu. Moc dobrou. Pustili jsme si k ní La Casa de Papel.
 
-###
+### 13.9. Šípky nezralý
 
-###
+Po dlouhý době flákací den. Z postele jsme nechvátali, k snídani udělali topinky s prstem, salát, čaj i kávu.
 
+Jenom se flákat ale nebyl plán. Chtěli jsme plavat. A do páry. Podolí jasná volba. Ještě že noční déšť ustoupil. Vyrazili jsme trochu na blind na tramvaj, počkali na sedmička, na Výtoni přestoupili a došli do bazénu.
+
+Když člověk s multisportkou nahlásí, že chce plavat hodinu a půl, doplácí 20 korun. Když ne a překročí o minutu, doplácí 27 korun a po deseti minutách další.
+
+Šli jsme na hodinu. Oba uplavali lehce přes kilometr Ve venkovním bazénu a chvíli se nahřáli v páře.
+
+Zpátky jsme to vzali pešky na Pankrác. Chteli jsme sbírat šípky. Naneštěstí ale nebyly zralé. Vzali jsme pár vlašáků a skočili na autobus na Kloboučnickou.
+
+U potoka se konal nějaký happening. Knížky s Mikulášem paní s knihostánkem neměla a nic jinýho jsem nechtěl. Radši jsme dosti dam a ohřáli si pečenou zeleninu.
+
+A pak se flákali. Tentokrát to je eufemismus
+
+Vern večer vyrazila hrát koncert s kapelou do Kafe Nůžky Papír. Prý to bylo dobrý. Ale byla to uzavřená společnost. Narozeniny endokrinologova bráchy. Já byl docela unavený a když se Vern vrátila, už jsem chrupkal.
+
+### 14.9.
+
+### 15.9. Dobrej druh dluhu
+
+V práci jsem byl jen do čtyř. Slíbil jsem Verunce, že v pět budu doma kvůli cellu s patem přes hypotéky, kterého nám dohodil Hynek.
+
+Dozvěděli jsme se toho hodně. Pár věcí mě překvapilo. Pár věcí jsem si poznačil. Výsledek ale byl takový, že hypotéku bychom měli zvládnout. Lepší by bylo, kdyby Veru nebyla zadlužená aby si v budoucnu mohla vzít další úvěr.
+
+Soft shoes Vern nestihla ale já beďas s Marťou jo. Dal jsem do toho dost a byla to zábava. 4:1.
+
+Cestou kterou jsem na Astra přijel, jsem taky sjel zpátky.
+
+Byla tma. Leto bylo v háji.
+
+### 16.9. Meh
+
+Verunka měla napilno. Než jsem se vyhrabal z postele, byla připravená vyrazit na vlak. Protože je to ale fantastická ženská, udělala mi snídani než utekla ven, protože vlak jel za 3 minuty. Já se pak pomalu probíral do poměrně nudného dne.
+
+Jel jsem kolem Slides Live. Pak jsem testoval zámky. Objevil, že spojení regulátorů zvedlo úroveň na RFI. Obědval v jídelně DPP bulgurové rizoto. Změnil dělič. Naštval se na Proxilab Spy. Napsal do Keolabs. A pak opět testoval.
+
+Cestou zpatky jsem se zastavil na cvičítkách. 10 shybů i přítahů docela v pohodě. Vis přes minutu a 3 Vosečkovy šikany.
+
+Doma Verunčina quinoa, poslední díl Star Treku, úplně debilní mimochodem, chvilka psaní deníku a postel.
 [>> Říjen](2025_october.md)
