@@ -2,6 +2,7 @@
 
 ## [Únor](2024.md) 
 
+
 - [1.2. Štěstí](#12-štěstí)
 - [2.2. Skriptem k psychickému zdraví](#22-skriptem-k-psychickému-zdraví)
 - [3.2. Přání navzdory](#32-přání-navzdory)
@@ -31,6 +32,7 @@
 - [27.2. Bez Ivana](#272-bez-ivana)
 - [28.2. Příliš mnoho sportu](#282-příliš-mnoho-sportu)
 - [29.2. Krypto](#292-krypto)
+
 
 ### 1.2. Štěstí
 
@@ -135,11 +137,17 @@ Od Sáry jsem vyzvedl Koru a šel jí vyvenčit do Nuslí.<br>
 
 Do uší mi zněl podcast, který Miška vybrala. BWA s Petrem Márou. Bylo to zajímavý, ale šel z toho na mě pocit, že ve svém životě nejsem moc ambiciózní. Nezakládám firmy a tak.<br>
 Napsal jsem to Mišce. Vymlouvala mi to. Ale jednu větu napsala zvláštně. Na:<br>
-> Jsi s tím v poho? Nevidíš se v budoucnu s někým, kdo bude zakládat společnosti a žít extravagantní život? Já jsem docela nudnej člověk.<br>
+
+> Jsi s tím v poho? Nevidíš se v budoucnu s někým, kdo bude zakládat společnosti a žít extravagantní život? Já jsem docela nudnej člověk.
+
 mi odepsala:<br>
-> S tímhle jsem v pohodě 🙂<br>
+
+> S tímhle jsem v pohodě 🙂
+
 Optal jsem se s čím tedy není. Chvíli mi neodpovídala úplně na přímo, ale pak jsme to otevřeli.<br>
-> Co jsem se vrátila, tak to není úplně ono. To cítíme oba a myslím, že nás to oba hlodá.<br>
+
+> Co jsem se vrátila, tak to není úplně ono. To cítíme oba a myslím, že nás to oba hlodá.
+
 Nebyla to lehká konverzace. Měl jsem pocit, že jsem na tom zapracoval. Ale asi ne dost. Nebo bylo špatně něco jinýho. Ale pohltil mě strach a pocit, z budoucnosti, která nebude úplně růžová.<br>
 Nemohl jsem usnout. Nemohl jsem spát. Měl jsem pocit, že se mi začíná tříštit svět.<br>
 
@@ -378,16 +386,36 @@ Večer jsem se uchýlil ke čtečce. Vrátil jsem se k Attiovi, prokousal se př
 
 Večer mi Miška napsala, že viděla viděla webinář o rozchodech a tam doporučovali si říct, nebo napsat seznam věcí, které v tom vztahu nefungovaly. Podívat se na něj vždy, když je ti smutno. Někdy kolem druhý ráno jsem se probudil a přečetl jsem si to.<br>
 Napsal jsem jí co se mi odehrálo v hlavě:<br>
-> Přijde mi to krutý. Chápu to. Ale nelíbí se mi to.<br>
-> Ale rozhodl jsem se v hlavě opakovat si, že "Náš vztah skončil"<br>
-> Furt dokola. Jako kafemlejnek.<br>
-> A přichází z toho různý poznání.<br>
-> Miluju tě. Mrzí mě, že jsem ti to neřekl dřív.<br>
-> Myslím si, že děláš chybu. Ale máš na ní právo. A protože k tobě cítím to co cítím, musím ti to dovolit.<br>
-> Budeš mi chybět má dívko z hor. Jsi jedinečná. Extrémně chytrá. Neskutečně krásná. Ohromně milá. Ale nejsi moje.<br>
-> Nevyškrtnu tě ze svýho života. Dokázal jsem to předtím, dokážu to teď.<br>
-> Ale tý neuskutečněný budoucnosti pomalu dávám sbohem.<br>
-> Miluju tě. Náš vztah skončil. Ale jsem za něj vděčný. Děkuji ti za všechno cos pro mě udělala.<br>
+
+> Přijde mi to krutý. Chápu to. Ale nelíbí se mi to.
+
+
+> Ale rozhodl jsem se v hlavě opakovat si, že "Náš vztah skončil"
+
+
+> Furt dokola. Jako kafemlejnek.
+
+
+> A přichází z toho různý poznání.
+
+
+> Miluju tě. Mrzí mě, že jsem ti to neřekl dřív.
+
+
+> Myslím si, že děláš chybu. Ale máš na ní právo. A protože k tobě cítím to co cítím, musím ti to dovolit.
+
+
+> Budeš mi chybět má dívko z hor. Jsi jedinečná. Extrémně chytrá. Neskutečně krásná. Ohromně milá. Ale nejsi moje.
+
+
+> Nevyškrtnu tě ze svýho života. Dokázal jsem to předtím, dokážu to teď.
+
+
+> Ale tý neuskutečněný budoucnosti pomalu dávám sbohem.
+
+
+> Miluju tě. Náš vztah skončil. Ale jsem za něj vděčný. Děkuji ti za všechno cos pro mě udělala.
+
 A myslel jsem to. Chtěl jsem brečet, ale nějak se mi to nedařilo. Nakonec jsem neklidně zas usnul a probudil až ráno.<br>
 Interkom vedle zase pískal.<br>
 Dopo jsem strávil s Marťou. Napsal jsem jí totiž, že jsme se rozešli a nabídla mi, že půjdeme ven. Šli jsme podél Botiče, na tyršův vrch, k Vršovické vodárně, do albertu na Pankráci a pak nad Jezerkou a zpátky. V albertu jsme se stavovali protože Marťa potřebovala bezkofeinový čaj. Vyprávěl jsem jí o rozchodu, cestě do Merseburgu. O tom, že to vlastně nechápu. A o tom jak se cítím. Když se ale prý jeden rozhodne, nejde s tím moc dělat.<br>
@@ -468,17 +496,37 @@ Cestou domů se mi Ivan přiznal, že má vlastně dovolenou. Nemusí stavět d�
 Ráno jsem začal dvaceti minutovou jógou. Trochu mi to pomohlo rozhýbat ztuhlost z náročného večera. U snídaně jsem se zeptal Moniky, co Omar dělá, že se cítí milovaná. Otevřel to docela upřímnou a hezkou diskusi, která trvala až do příjezdu do skladu. Bylo vidět, že dát to do slov nebylo úplně jednoduché. Řekla, že cítí, že je pro něj priorita číslo jedna. Omar pozná, jestli se ten den cítí hezky, nebo na hovno a přizpůsobí podle toho svoje chování. Dělá věci co jí štvou. Umí najít slova, díky kterým se cítí krásná. A to prosím, žádná měkká slovíčka. Padlo například slovo šukatelná. Což nás všechny hodně rozesmálo.<br>
 Ivan taky přispěl svou troškou do mlýna. Jak Ivana obdivuji co do technických schopností, co do vztahů se od něj učit nemůžu. Ivan Magdu miluje, o tom žádná. Ale jejich vztah je takový.. staroškolský. Jsou z vesnice, žijí spolu aby přežili. Ivan Magdě staví dům. Ona mu vaří. Mají fyzické potřeby a navzájem je uspokojují. Všechno je vlastně správně. Ale já bych tak žít nechtěl. Je spousta toho, čeho se od něj můžu učit. Je dobrý táta. Je výborný technik. Ale život bere velmi dogmaticky.<br>
 Zmínil jsem se o té diskusi Mišce. Byla překvapená, že mám tak těžké otázky na kolegy. O našem rozchodu u nich ví jen Karel. Optala se mně, jaké byly věci, kvůli kterým jsem se cítil milovaný. Odepsal jsem jí:<br>
-> Odpovídala jsi mi na moje nekonečný otázky. I když tě to někdy štvalo. I když jsem vlastně nečekal odpověď.<br>
-> Udělala jsi si na mě čas, i když jsi měla času omezeně.<br>
-> plánovala jsi pro nás věci.<br>
-> překonávala jsi nějaký svoje strachy kvůli mně<br>
-> A ze všeho nejvíc, a to umím nejmíň dát do slov. Činy jsi mi ukazovala, že být ve vztahu je lepší než být sám, i když jsi slovy komunikovala často, jak vztahy stojí za hovno.<br>
+
+> Odpovídala jsi mi na moje nekonečný otázky. I když tě to někdy štvalo. I když jsem vlastně nečekal odpověď.
+
+
+> Udělala jsi si na mě čas, i když jsi měla času omezeně.
+
+
+> plánovala jsi pro nás věci.
+
+
+> překonávala jsi nějaký svoje strachy kvůli mně
+
+
+> A ze všeho nejvíc, a to umím nejmíň dát do slov. Činy jsi mi ukazovala, že být ve vztahu je lepší než být sám, i když jsi slovy komunikovala často, jak vztahy stojí za hovno.
+
 Na stejnou otázku mi odpověděla:<br>
-> Když jsi mi popřál dobré ráno a večer, když ses zeptal, jestli jsem dorazila v pořádku, poslal mi písničku, když jsi se mnou koukal na Harryho Pottera, vařil v kuchyni s hudbou.<br>
-> To že jsi mě bral mezi kamarády<br>
-> Taky naše dlouhé hovory přes mobil.<br>
-> Byla toho spousta<br>
-> A já tě mám pořád ráda.<br>
+
+> Když jsi mi popřál dobré ráno a večer, když ses zeptal, jestli jsem dorazila v pořádku, poslal mi písničku, když jsi se mnou koukal na Harryho Pottera, vařil v kuchyni s hudbou.
+
+
+> To že jsi mě bral mezi kamarády
+
+
+> Taky naše dlouhé hovory přes mobil.
+
+
+> Byla toho spousta
+
+
+> A já tě mám pořád ráda.
+
 Odpověděl jsem jí, že já jí taky. Hrozně hrozně moc.<br>
 Během dne jsme jí dokázal překvapit tím, že jsem si pamatoval hlášku *Dvojnásobek za polovic.*. Nějak mi naše konverzace přišla radostnější než za poslední dobu.<br>
 Co do terminálů, pokračoval jsem v testování upgrade kitů a pomalu se nořil do Vláďova kódu. VSAMy které vracely Ivalid SAM OS šly laptopem upgradovat. Byla to jen otázka časovaní.<br>

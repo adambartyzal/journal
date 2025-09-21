@@ -1,6 +1,7 @@
 
 ## [Prosinec](2022.md)  
 
+
 - [1.12. Domů](#112-domů)
 - [2.12. Spíš se to zhoršuje](#212-spíš-se-to-zhoršuje)
 - [3.12. První nádech](#312-první-nádech)
@@ -31,6 +32,7 @@
 - [29.12. Poučen, opět do Hornbachu](#2912-poučen-opět-do-hornbachu)
 - [30.12.](#3012)
 - [31.12. K Jardovi](#3112-k-jardovi)
+
 
 ### 1.12. Domů
 

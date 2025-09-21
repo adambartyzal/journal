@@ -1,4 +1,5 @@
 [<< Srpen](2024_august.md)<br>
+
 - [1.9. Olympijský triatlon](#19-olympijský-triatlon)
 - [2.9. Vlaštovky z papíru.. na papíru](#29-vlaštovky-z-papíru-na-papíru)
 - [3.9. Absurdní plán](#39-absurdní-plán)
@@ -29,6 +30,7 @@
 - [28.9. Kolem slunce do historie a na čtvrtou metu](#289-kolem-slunce-do-historie-a-na-čtvrtou-metu)
 - [29.9. Příležitostná nymfomanka](#299-příležitostná-nymfomanka)
 - [30.9. Potkávat lidi?](#309-potkávat-lidi)
+
 
 ### 1.9. Olympijský triatlon
 
@@ -286,7 +288,7 @@ I zpátky jsme šli pěšky. Dost jsme toho nepovídali. Marťa vystalkovala Ver
 
 ### 20.9. Páťa Nováčkovic
 
-Probudil jsem se s bolestí zad. V rámci boje proti pokrytectví jsem si rozbalil jóga matku a pustil si jógu s Adrienne a dal se do cvičení. V intra říkala, Today we're gonna do back pain! Pak se teda opravila, ale nevím. Možná že mi to opravdu spíš uškodilo<br>
+Probudil jsem se s bolestí zad. V rámci boje proti pokrytectví jsem si rozbalil jóga matku, pustil si jógu s Adrienne a dal se do cvičení. V intru říkala: "Today we're gonna do back pain!" Pak se teda opravila, ale nevím. Možná že mi to opravdu spíš uškodilo<br>
 Dopo jsem řešil opravy. DJe chytal hysterák. Myslím, že se to horší. Možná je toho na něj moc. Nějaký anger management program by mu ale prospěl.<br>
 Nebo holka. Mně to určitě pomáhá. Moje ležela doma v posteli a léčila nachlazení. Což jsem si myslel. Ale v reálu zapékala noky se zeleninou a četla knížku o veganství.<br>
 Ve jménu veganství byl i můj oběd s Vláďou v Deli. Čočkový salát. 173 teda byla pálka za Červenou čočku s cibulí, mrkví a celerem. Ale koření bylo strašné dobrý. Takový dhal.<br>
@@ -296,15 +298,15 @@ Já se svými bolavými zády jsem se cítil nemocnější než ona. Ale dostal 
 
 ### 21.9. Jediný hlas pro Zelené
 
-Možná to bylo masáží, možná tvrdou matrací a nebo něčím úplně jiným, ale když jsem se vzbudil, byl jsem úplně rozložený. Ale pomalu jsme se v objetí probouzeli a ráno nabralo na obrátkách. Bylo nám hezky, já jsem sice nebyl tak moc vzhůru, jak by se patřilo, ale snad to nevadilo. Radost." přišla spousta. Málem jsme nestihli snídani. Ale zvládi jsme do sebe dostat puding a mrkve.<br>
-lístek na vlak už byl koupený a nešlo nic dělat. V 8:45 jsem musel sedět na kole. A tak nějak jsem to zvládl. Sjezd ze Střížkova je super. Vinohradyuž tolik ne. Ale stihl jsem se otočit doma a na nádraží si koupit kafe.<br>
-Ve vlaku jsem se pustil do psaní. Devět dní ani čárka. Nebylo to v mojí moci sepsat. Ale velký úkoly potřebuji jen ten první krok a pak už se to nějak poddá. Za oknem bylo krásné, Čekala mě jízda hezkou přírodou a já byl šťastnej.<br>
-Z Veselí jsem jel pozadu přes Jenčinu. A byla to skvělá volba. Nebe bylo modrý bez mráčku a jižní Čechy po deštích zelené a živé. Akorát jsem jel 30 km proti větru.<br>
+Možná to bylo masáží, možná tvrdou matrací a nebo něčím úplně jiným, ale když jsem se vzbudil, byl jsem úplně rozložený. Ale pomalu jsme se v objetí probouzeli a ráno nabralo na obrátkách. Bylo nám hezky, já jsem sice nebyl tak moc vzhůru, jak by se patřilo, ale snad to nevadilo. Radostí přišla spousta. Málem jsme nestihli snídani. Ale zvládli jsme do sebe dostat puding a mrkve.<br>
+Lístek na vlak už byl koupený a nešlo nic dělat. V 8:45 jsem musel sedět na kole. A tak nějak jsem to zvládl. Sjezd ze Střížkova je super. Vinohrady už tolik ne. Ale stihl jsem se otočit doma a na nádraží si koupit kafe.<br>
+Ve vlaku jsem se pustil do psaní. Devět dní ani čárka. Nebylo to v mojí moci sepsat. Ale velký úkoly potřebuji jen ten první krok a pak už se to nějak poddá. Za oknem bylo krásně, čekala mě jízda hezkou přírodou a já byl šťastnej.<br>
+Z Veselí jsem jel pozadu přes Jemčinu. A byla to skvělá volba. Nebe bylo modrý bez mráčku a jižní Čechy po deštích zelené a živé. Akorát jsem jel 30 km proti větru.<br>
 
 <a href="../images/2024_september/21_1.jpg" target="_blank"><img src="../images/thumbnails/2024_september/21_1.jpg"></a>
 
-Nežárka už opadla. Důchodci co sedávají ve volební komisiseděli na obecním úřadě ve standardní formaci. Ještě za plentou jsem váhal, zda Piráty nebo Zelený. V kalkulačce mi vyšla SOCDEM. Ale ač sympatizuji s jejich myšlenkami, provedení podle mě pokulhává. Volil jsem srdcem. Padloto Zeleným.<br>
-Táta doma nebyl. Jel pro jablko do Příbraze. Našel jsem klíče, pustil se dovnitř a pokračoval v psaní na zahradě. Dům i zahrada vypadaly pohledně. Fasáda byla hotová, tráva upravená, všechno kvetlo... Nestyděl bych se pozvat Verunku na návštevu. To proti mému dospívání byla velká změna.<br>
+Nežárka už opadla. Důchodci co sedávají ve volební komisi seděli na obecním úřadě ve standardní formaci. Ještě za plentou jsem váhal, zda Piráty nebo Zelený. V kalkulačce mi vyšla SOCDEM. Ale ač sympatizuji s jejich myšlenkami, provedení podle mě pokulhává. Volil jsem srdcem. Padlo to Zeleným.<br>
+Táta doma nebyl. Jel pro jablka do Příbraze. Našel jsem klíče, pustil se dovnitř a pokračoval v psaní na zahradě. Dům i zahrada vypadaly pohledně. Fasáda byla hotová, tráva upravená, všechno kvetlo... Nestyděl bych se pozvat Verunku na návštevu. To proti mému dospívání byla velká změna.<br>
 Po chvilce se na freebiku táta objevil. Sjel už další pláště. Povídali jsme si nad kafem, dali si pizzový koláč a během odpoledne jsem si na zahradě lehl na deku, snažil se dopsat deník a odpočíval.<br>
 
 ### 22.9. Krajem rybníků a povodní

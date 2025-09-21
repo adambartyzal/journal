@@ -2,6 +2,7 @@
 
 ## [Říjen](2023.md) 
 
+
 - [1.10. Na vrchol bez vyvrcholení](#110-na-vrchol-bez-vyvrcholení)
 - [2.10. Cooltra](#210-cooltra)
 - [3.10. Atypické úterý](#310-atypické-úterý)
@@ -33,6 +34,7 @@
 - [29.10. Avatar](#2910-avatar)
 - [30.10. Zpátky do práce](#3010-zpátky-do-práce)
 - [31.10. Pro filtr](#3110-pro-filtr)
+
 
 ### 1.10. Na vrchol bez vyvrcholení
 
@@ -139,7 +141,9 @@ Ondra se taky chtěl přidat. Bylo rozhodnuto, v sobotu se bude pochodovat Údol
 ### 7.10. Pivní pochod
 
 Skupina říkala:<br>
-> V 10 na autobusovy zastavce Nemocnice Motol smer Vypich 😉<br>
+
+> V 10 na autobusovy zastavce Nemocnice Motol smer Vypich 😉
+
 Stihl jsem to tak tak. Pár lidí jsem neznal a byli mi představení tak rychle, že jsem si nezapamatoval ani jedno jméno. Putování ale mělo být dlouhé. Řekl jsem si, že buď jména ještě uslyším, nebo se prostě optám.<br>
 Ondra si prý při příchodu vůbec nevšiml Mišky. Byl pak překvapený, že tam je taky. Lidé se Anet vyptávali na to jak se má Filip v Japonsku. Odpovídla vtipně, ale myslím, že už by chtěla aby byl zpátky.<br>
 Po chvíli přijel autobus a po laborování kam až sahá lítačka jsme vyrazili do první hospody. Tam někteří zaplatili dobrovolné startovné a dali rychlé pivko. Já jsem předem avizoval, že pít budu minimálně. Měl jsem za sebou měsíc a půl střízlivění a sice jsem se to chystal porušit. Ale opít jsem se neplánoval. <br>

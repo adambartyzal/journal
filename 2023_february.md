@@ -2,6 +2,7 @@
 
 ## [Únor](2023.md) 
 
+
 - [1.2. Pleasantville](#12-pleasantville)
 - [3.2 Defekt na Výtoni](#32-defekt-na-výtoni)
 - [4.2. Na výlet s Ondrou a Rébou](#42-na-výlet-s-ondrou-a-rébou)
@@ -27,6 +28,7 @@
 - [26.2. Čtyřhra se Sabčou, Marťou a Vildou](#262-čtyřhra-se-sabčou-marťou-a-vildou)
 - [27.2. Bouračka](#272-bouračka)
 - [28.2. Ondra staví kolo](#282-ondra-staví-kolo)
+
 
 ### 1.2. Pleasantville
 
@@ -116,7 +118,9 @@ Přes den jsem si psal s holkou s tinderu, která neměla fotku, ale její profi
 <a href="../images/2023_february/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_february/12_1.jpg"></a>
 
 Psalo se s ní fajn. Pobavilo mě třeba:<br>
-> Takze davas srdicka radsi holkam bez fotky, to neni moc rozumny😁 Co kdyz jsem tlustej kamionak?<br>
+
+> Takze davas srdicka radsi holkam bez fotky, to neni moc rozumny😁 Co kdyz jsem tlustej kamionak?
+
 Ale ukázalo se, že není.<br>
 
 <a href="../images/2023_february/12_2.jpg" target="_blank"><img src="../images/thumbnails/2023_february/12_2.jpg"></a>
@@ -225,9 +229,13 @@ Domů jsem šel pěšky s Jardu a Sárou a ještě dlouho jsme si povídali na r
 
 ### 24.2. Dvouhra se Sabčou
 
-> "Sabča je skvělá!"<br>
+
+> "Sabča je skvělá!"
+
 prohlásila Sára po tom co jí viděla na Paliárce.<br>
-> "Sabču nesnášíme!"<br>
+
+> "Sabču nesnášíme!"
+
 opravila své tvrzení po tom co jsem jí informoval, že během toho co jsme se neviděli si stihla pořídit přítele, kterým byl někdo jiný než já.<br>
 Inu, tehdá mě to rozesmutnilo. Přišla mi skvělá, stejně jako na začátku Sáře. Ale vystřízlivěl jsem. Nicméně párkrát jsme si napsali. Vlastně mi psala ona, protože jsem zmínil, že bych rád šel hrát badminton a ona hraje badminton moc ráda. Ale byl jsem zrovna s vyhozeným kolenem a tak z toho nic nebylo. V mezičase se stihla přestěhovat do Berlína, stuovat double degree v ekonomii. Ale vítr jí zavál k nám a dohodli jsme se, že na ten badminton přece jen půjdeme.<br>
 Raketu mám, ale míčky jsem neměl. Dojel jsem proto na kole na Anděl do dekáče. Až tam mi došlo, že jsem si mohl míčky koupit třeba v edenu a měl bych to cestou .<br>

@@ -2,6 +2,7 @@
 
 ## [Únor](2025.md) 
 
+
 - [1.2. Ostrava !!!](#12-ostrava-)
 - [2.2. Ještě padesát devět a půl let](#22-ještě-padesát-devět-a-půl-let)
 - [3.2. Nákupy s expaty](#32-nákupy-s-expaty)
@@ -29,6 +30,7 @@
 - [26.2. Předčasně naslepo](#262-předčasně-naslepo)
 - [27.2. RFAL není cesta](#272-rfal-není-cesta)
 - [28.2. Start generace Z](#282-start-generace-z)
+
 
 ### 1.2. Ostrava !!!
 

@@ -1,4 +1,5 @@
 [<< Listopad](2024_november.md)<br>
+
 - [1.12 Kafe a umění](#112-kafe-a-umění)
 - [2.12.](#212)
 - [3.12. Lidi jsou hodní](#312-lidi-jsou-hodní)
@@ -30,6 +31,7 @@
 - [29.12. Verunka měří](#2912-verunka-měří)
 - [30.12. Přeci jen nakažen](#3012-přeci-jen-nakažen)
 - [31.12. Na střechu, do mlhy a do nového roku](#3112-na-střechu-do-mlhy-a-do-nového-roku)
+
 
 ### 1.12 Kafe a umění
 
@@ -116,12 +118,14 @@ Večer jsem aspoň založil nadpisy, nahrál fotky a připravil nějaký poznám
 ### 9.12. Dospěláctví je na prd
 
 Než jsem šel spát , šel na mě pocit toho, že začíná příliš mnoho věcí valit před sebou. Rozhodl jsem se že:<br>
+
 - vstanu včas
 - napíšu Kendymu
 - zavolám paní Katbaté
 - Uklidím pořádně kuchyň
 - sepíšu aspoň 2 dny
 - napíšu si Todo na další dny
+
 Pomalu ale jistě. Krůček po krůčku jsem si chtěl udelat ve věcech pořádek.<br>
 Vstal jsem dostatečně brzo. Zvládl dvaceti minutovou jógu, napustil si termofor, protože záda jsem cítil docela dost a vyjel do práce. Ve dvojech rukavicích, protože palčáky byly pryč.<br>
 Dostavil jsem HLA00b a zjistil proč NFC vyčítá nesmysly. Chip Select se zvedal moc brzy. Proč byla otázka na úterý.<br>
@@ -243,7 +247,9 @@ Do dvanácti psal, pral, myl vodní kámen a koukal na poslední řadu lost.<br>
 
 <a href="../images/2024_december/21_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/21_2.jpg"></a>
 
-> P.S. O tři měsíce později, chybělo těch dvacet dní vesele dál. Ale pomalu jsem se tím prokousával.<br>
+
+> P.S. O tři měsíce později, chybělo těch dvacet dní vesele dál. Ale pomalu jsem se tím prokousával.
+
 
 ### 22. 12. Sinatra
 
@@ -259,8 +265,10 @@ Sinatra na náměstí byl ok. Oslík tam podle mě trochu trpěl. Ale ne moc. Mo
 ### 23.12. Ztracený
 
 Kdybych si napsal TODO, vypadalo by následovně:<br>
+
 - Sníst guláš
 - Sbalit se
+
 To znamenalo, že většina dne jsem měl čas koukat na poslední řadu LOST. Verunka marodila a nechat ji spát bylo to nejlepší, co jsem mohl dělat.<br>
 A tak jsem jedl guláš a koukal na to jak muž v černém přebírá vládu nad ostrovem.<br>
 Zvládl jsem se i oholit. A zalít své i Sářiny květiny. Sbalit se a dojet k Verunce. Jinak to byl vskutku ztracený den.<br>

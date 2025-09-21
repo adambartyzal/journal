@@ -1,6 +1,7 @@
 
 ### [Únor](2018.md) 
 
+
 - [12.2. Pondělí - Odlétáme](#122-pondělí---odlétáme)
 - [13.2. Úterý - Přílet do Thajska](#132-úterý---přílet-do-thajska)
 - [14.2. Středa - Go Green Resort](#142-středa---go-green-resort)
@@ -18,6 +19,7 @@
 - [26.2. Pondělí - ID](#262-pondělí---id)
 - [27.2. Úterý - Hrajeme Whista](#272-úterý---hrajeme-whista)
 - [28.2. Středa - Státní svátek na Taiwanu](#282-středa---státní-svátek-na-taiwanu)
+
 
 ### 12.2. Pondělí - Odlétáme
 

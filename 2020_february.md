@@ -1,6 +1,7 @@
 
 ## [Únor](2020.md)  
 
+
 - [9.2. Berlín je brána do Asie](#92-berlín-je-brána-do-asie)
 - [10.2. Budoucnost je zelená](#102-budoucnost-je-zelená)
 - [11.2. Jak pět piv ke koupi motorek vedlo](#112-jak-pět-piv-ke-koupi-motorek-vedlo)
@@ -21,6 +22,7 @@
 - [26.2 Zase po svých](#262-zase-po-svých)
 - [27.2 Domov na obzoru](#272-domov-na-obzoru)
 - [28.2 Češi si dělají srandu ze všeho](#282-češi-si-dělají-srandu-ze-všeho)
+
 
 ### 9.2. Berlín je brána do Asie
 

@@ -1,12 +1,14 @@
 
 ## [Leden](2022.md)  
 
+
 - [16.1. Do Strasbourgu](#161-do-strasbourgu)
 - [17.1. Do La Rochelle](#171-do-la-rochelle)
 - [18.1. Opravy začínají](#181-opravy-začínají)
 - [Výměna dveří](#výměna-dveří)
 - [24.1 Koupačka v Atlantiku a pivo s Annou](#241-koupačka-v-atlantiku-a-pivo-s-annou)
 - [27.1. Boxy v Cernamu mě potrápily - Opět přes Strasbourg](#271-boxy-v-cernamu-mě-potrápily---opět-přes-strasbourg)
+
 
 ### 16.1. Do Strasbourgu
 
@@ -43,11 +45,13 @@ Byt byl tentokrát moc hezký. S rybářským tématem a výhledem na střehy v 
 Bylo třeba zajet za Vincentem do RTCR. Přijeli jsme v momentu, kdy se připravovali na přesun z Lagordu do Cernamu. Vyložili jsme jim náklad, předali reklamace, podepsali předáváky, opravili nový box a vyměnili jeden nabíječ ve starém boxu.<br>
 Auto bez náladu jsme nechali před Cernamem, přenesli veci do bytu a naobědvali se. Plán byl měnit Vodafone SIM karty na vytipovaných stanicích za IoT operátory na zkoušku.<br>
 Objeli jsme:<br>
+
 - Place de Verdun
 - Préfecture
 - Vieux Port
 - Aristide Briand
 - La Genette
+
 Vyměnovali jsme nefunkční tlačítka a seřizovali výšky zámků.<br>
 Večer na St. Nicholas voněly Fish'n'Chips. Vůně ale šla z podniku, kde je sice vařili, ale pouze pro rozvoz. Řekli jsme si ale, že alespoň jednou je musíme zkusit.<br>
 

@@ -2,6 +2,7 @@
 
 ## [Listopad](2023.md)  
 
+
 - [1.11. Vojtovo brano](#111-vojtovo-brano)
 - [2.11. Miška zpět](#211-miška-zpět)
 - [3.11. 日本國](#311-日本國)
@@ -32,6 +33,7 @@
 - [28.11. Vzkaz Sobě](#2811-vzkaz-sobě)
 - [29.11. Svařák a budoucnost](#2911-svařák-a-budoucnost)
 - [30.11. Vícero rolí](#3011-vícero-rolí)
+
 
 ### 1.11. Vojtovo brano
 
@@ -416,7 +418,9 @@ Cestou jsem potkal Jinan dvoulaločný. Otrhal jsem z něj dvě kapsy plné list
 
 ### 23.11. Mám štěstí
 
-> Dobré ráno ze země bryndzy do země syrečků.<br>
+
+> Dobré ráno ze země bryndzy do země syrečků.
+
 Takováhle komická zpráva mi ráno přišla. Za okny byla odporná zima, ale Mišky zprávy mě hřály u srdíčka. I později na cestě. I pak i v Malešicích. Tam jí ale pomáhal dvou kilovatový fukar horka. Prý když se jí po mě stýská, poslouchá moje playlisty. Píseň dne prý byla [Always Alright](<br>
 https://open.spotify.com/track/4ZMhxdNqZOEvGkGZ5zrWm4) od Alabama Shakes.<br>
 Logistika prý nepřála tomu, abychom se večer viděli, ale mě to tak nepřišlo. Po práci jsme si telefonovali a dohodli se, že večer přijedu městskou za ní a druhý den půjdeme koupit květiny a na promoci spolu.<br>
@@ -503,7 +507,9 @@ Byli jsme z toho nešťastní všichni. Miška mě hodila domů. Dojela v pořá
 
 Miška ráno jela opět do Hory. Hrozilo, že odpo jí pošlou do Reichu a na měšťáky už se nedostane vůbec. Takže v po sedmé ráno už jela po dálnici. Čekal jsem v napětí kolik jí naúčtují. Byli jsme dohodnutí, že si náklady na pokutu rozdělíme.<br>
 V půl deváté mi napsala:<br>
-> 100 Kč!<br>
+
+> 100 Kč!
+
 Měl jsem z toho radost. Sebralo jí to čas a 2 body. Ale nechceš přijít o desítku kvůli takový pakárně. Zákon prý říká, že musí být viditelné jak vodorovné tak svislé značení.<br>
 Nahodil jsem žlutou pláštěnku a vyrazil deštěm do Malešic. Má denní náplň byla relativně nudná. Další boxy. Řekl jsem si, že když už tím zabíjím čas, udělám to všechno a pořádně.<br>
 K obědu jsem měl špagety v TTC. <br>
@@ -516,13 +522,27 @@ Sleva z 3590 Kč na 2154 Kč mi přišla dobrá. Jinak by to byla střela za bot
 ### 28.11. Vzkaz Sobě
 
 Poslední dobou si jsem si v hlavě nesl takovou zajímavou myšlenku. Řekl jsem si, že si napíšu vzkaz svému budoucímu já. Člověk by mohl říct, že celej tenhle deník je vzkaz mýmu budoucímu já. Ale není to úplně tak. Smysl zápisu každého dne je to, že se k nim můžu vracet. Zamýšlený tok informací je tedy z budoucna do minula. Vzkaz budoucímu já má směr opačný.<br>
-> Drahý Adame,<br>
-><br>
-> V druhé polovině roku 2023 jsi byl šťastný. Byl jsi šťastný z mnoha důvodů. Viděl jsi hezká místa a dělal fajn věci. S Míšou Kantovou. Teprve jsi poznával jak skvělá je to holka. Ale už tehdá ti bylo jasný, že je to holka se kterou chceš strávit život. Dost toho byl oxytocin, to se nedá vyvracet, ale neviděl jsi to jen ty. Z Míši byli nadšení všichni kolem tebe.<br>
-> Nevím v jakých situacích se budeš nacházet v budoucnu a jestli přijde moment, kdy si řekneš, že Míša vlastně tak skvělá není. Jestli třeba nepřijde jiná, která ti bude připadat lepší. Chci abys sis vzpomněl že Adamovi roku 2023 předcházel Adam, který několik let hledal holku tak bezvadnou jako je ona. Mnohdy ne úplně aktivně. Ale žádná nebyla jako ona. Žádná nebyla tak hodná, tak milá, tak moudrá a tak sexy. A žádná tě nechtěla jako ona.<br>
-> Vzpomeň si na rozhovor s Eliškou Remešovou. Vztahová nula se skoro zákonitě stane. Možná i momenty v červených číslech. Ale z mojí perspektivy stojí za tenhle vztah bojovat co to dá.<br>
-><br>
-> Tak to neposer a měj se hezky.<br>
+
+> Drahý Adame,
+
+
+>
+
+
+> V druhé polovině roku 2023 jsi byl šťastný. Byl jsi šťastný z mnoha důvodů. Viděl jsi hezká místa a dělal fajn věci. S Míšou Kantovou. Teprve jsi poznával jak skvělá je to holka. Ale už tehdá ti bylo jasný, že je to holka se kterou chceš strávit život. Dost toho byl oxytocin, to se nedá vyvracet, ale neviděl jsi to jen ty. Z Míši byli nadšení všichni kolem tebe.
+
+
+> Nevím v jakých situacích se budeš nacházet v budoucnu a jestli přijde moment, kdy si řekneš, že Míša vlastně tak skvělá není. Jestli třeba nepřijde jiná, která ti bude připadat lepší. Chci abys sis vzpomněl že Adamovi roku 2023 předcházel Adam, který několik let hledal holku tak bezvadnou jako je ona. Mnohdy ne úplně aktivně. Ale žádná nebyla jako ona. Žádná nebyla tak hodná, tak milá, tak moudrá a tak sexy. A žádná tě nechtěla jako ona.
+
+
+> Vzpomeň si na rozhovor s Eliškou Remešovou. Vztahová nula se skoro zákonitě stane. Možná i momenty v červených číslech. Ale z mojí perspektivy stojí za tenhle vztah bojovat co to dá.
+
+
+>
+
+
+> Tak to neposer a měj se hezky.
+
 Vyjma rozjímání nad budoucností se den odehrával asi takhle:<br>
 Ráno jsem vyrazil v pláštěnce. Doladil jsem poslední boxy. Jeden jsem dokonce lakoval a nedopadlo to vůbec špatně. Zabalil co šlo. Vrátil nářadí a všechno vyfotil a sepsal na Slack. K obědu jsem v TTC měl moc dobré fusilli s hlívou, sušenými rajčaty a parmazánem. Někdy to zreplikuju.<br>
 Při zavírání brány jsem ale zjistil že zámek zamrzl. Asi 3 min. mi trvalo než jsem s ním pohnul. S Omarem jsem se telefonicky dohodnul že jim ho zamykat nebudu.<br>
@@ -538,7 +558,9 @@ Seděli jsme do zavíračky. Ondra pak vyrazím na jedno kolo domů a my jsme se
 
 ### 29.11. Svařák a budoucnost
 
+
 -5 stupňů a námraza všude. Volba byla jasná. Karmínový drak dnes zůstává doma.
+
 Kombinace vlak a chůze Mně dostaly do karlina v 8:30.<br>
 Ve vývoji jsme se sešli všichni. Vedle byla dokonce monča a omar. Na oběd jsme ale stejně šli jenom já Jirka a vláďa. V jídelně jsme si dali květákové placičky.<br>
 Českomoravská nemovitostní nám připravila svařák k navození vánoční atmosféry. Sedli jsme s ním v atriu a povídali si o filmech.<br>
@@ -552,15 +574,19 @@ Koukali jsme na cyklostezky v Dánsku a měli se hezky.<br>
 
 Ráno jsme si ještě chvíli hráli. Pak jsem si připravil oběd, snídani pro nás pro oba a když se čas nachýlil společně jsme běžely na zastávku autobusu. Stejně měl zpoždění. A díky tomu i já. Pěší cesta přes Vinohrady prostě trvá.<br>
 V práci jsem byl:<br>
+
 - uklízeč databáze
 - betatester webu
 - přepisovač pythonových skriptů
 - diagnostik hw a paječoctober
+
 Miška prý byla:<br>
+
 - poradní hlas Pepovi
 - technický poradce Lukášovi
 - cestovní kancelář
 - pisatel Matlabu
+
 V pátek měla Miška volno a tak po práci jeli s bráchou domu slavit předčasné vánoce. Ptala se mě, jestli jsem koukal do schránky. Opak byl pravdou. Vlastně jsem do ní nekoukal už několik měsíců. Klíč od ní je na velkých klíčích. Ty mám jen když jedu na kole a s kolem se dole nezastavuju, protože by to byl náročný manévr.<br>
 Přišly mi ale hned dva pohledy. Výhled na Amsterdam a kreslený pohled se zkratkou A'DAM. Ten druhý si prý nemohla odpustit.<br>
 [>> Prosinec](2023_december.md)<br>

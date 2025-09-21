@@ -1,4 +1,5 @@
 [<< Červenec](2024_july.md)<br>
+
 - [1.8. Letí to jak blázen](#18-letí-to-jak-blázen)
 - [2.8. Strčte si svoje Aury do prdele](#28-strčte-si-svoje-aury-do-prdele)
 - [3.8 Víkend bez plánu](#38-víkend-bez-plánu)
@@ -30,6 +31,7 @@
 - [29.8. Vojtova voda bez Vojty](#298-vojtova-voda-bez-vojty)
 - [30.8. Červená beruška v červeném výstřihu](#308-červená-beruška-v-červeném-výstřihu)
 - [31.8. Spousta lidí v pyžamu](#318-spousta-lidí-v-pyžamu)
+
 
 ### 1.8. Letí to jak blázen
 

@@ -1,6 +1,7 @@
 
 ## [Říjen](2022.md)   
 
+
 - [1.10. Prší](#110-prší)
 - [10.10 S Marťou ven](#1010-s-marťou-ven)
 - [11.10. Box v Kyjích](#1110-box-v-kyjích)
@@ -23,6 +24,7 @@
 - [29.10. Výlet k přehradě](#2910-výlet-k-přehradě)
 - [30.10. Dopsat deník?](#3010-dopsat-deník)
 - [31.10. Opět na ORL](#3110-opět-na-orl)
+
 
 ### 1.10. Prší
 
@@ -103,10 +105,12 @@ Dál do sadů s houpačkami, kde byla instalace organického vzezření, pohán�
 [Trasa](https://www.strava.com/activities/7974381804)<br>
 Trvalo to dlouho. Původně jsme měli vyjet na cyklo teambuilding k Vojtovi na chatu někdy v květnu. Ale Helsinky a tak dál.. nakonec byl říjen, ale zadařilo se. A ke Karlínskému jádru se na cyklovýlet přidal ještě Tenky a Fíla. Obzvlášť u Fíly jsem to cenil, protože prý na kole nejezdí a plánoval přijet vlakem se Štépou. Štěpán se ale rozhodl že nepojede a tak to Fíla kousnul a vytáhl treka z Garáže u rodičů.<br>
 Plán jsme vybrousili do podoby:<br>
+
 - Jet Vlakem do Tábora
 - Z Tábora do Semic skrze sérii hospod
 - V Semicích se setkat s automotorovou částí výpravy
 - Grilovat křídla, která Ríša naložil a vypít sud Únětické 10.7°
+
 Protože jsme jeli ICčkem, muslel jsem z Vršovic ráno na hlavák. Tyhle cesty tam a zase zpátky, jsou trochu na hlavu. Obzvlášť když pak člověk vidí svoje okna z vlaku. Naproti tomu ale můžu říct, že to bylo popvé, kdy jsem na hlavák přijel skrz starou budovu.<br>
 V pekárně na severní straně jsem si koupil kafe a vyrazil k pokladnám, kde jsme měli domluvený sraz. Minutku po mně přijeli Ivan, Vláďa a Tenky a v těsném závěsu za nimi Fíla, který na ně prý čekal marně čekal nad tunelem, protože se rozhodli jet přes Bulhara.<br>
 Srdcař Tenky šel koupit pivka. Jirka jel vlakem z Hradce a tak už jsme čekali jen na organizátora Vojtu. Přijel v československém dresku na propůjčeném horáku. Tenky se vrátil s pivky a tak první půllitr padl ještě v nádražní hale na stojáka. Další pivka padla v jídelním voze jihočeského expresu poté co jsme zavěsili kola na věšáky a uložili své věco do kupé, do kterého už jsme se z jídelního vozu nevrátili. Inu cestování vlakem má svoje výhody. <br>

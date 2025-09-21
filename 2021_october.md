@@ -1,6 +1,7 @@
 
 ## [Říjen](2021.md)   
 
+
 - [5.10. Opět do Finska](#510-opět-do-finska)
 - [7.10. Nové tvář, stejný přístup](#710-nové-tvář-stejný-přístup)
 - [9.10. Volby z Helsinek](#910-volby-z-helsinek)
@@ -14,6 +15,7 @@
 - [24.10. S Nováčkovic pěšky kolem rybníků](#2410-s-nováčkovic-pěšky-kolem-rybníků)
 - [30.10. Spát na zřícenině](#3010-spát-na-zřícenině)
 - [31.10. Koupit či nekoupit chatku](#3110-koupit-či-nekoupit-chatku)
+
 
 ### 5.10. Opět do Finska
 

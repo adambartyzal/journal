@@ -1,6 +1,7 @@
 
 ## [Srpen](2021.md)   
 
+
 - [15.8. Poprvé Do Finska](#158-poprvé-do-finska)
 - [16.8. Po Lahti](#168-po-lahti)
 - [17.8. Polák přivezl kola](#178-polák-přivezl-kola)
@@ -18,6 +19,7 @@
 - [30.8. Leo opravil vrata](#308-leo-opravil-vrata)
 - [31.1. Komíny a grilování](#311-komíny-a-grilování)
 
+
 ### 15.8. Poprvé Do Finska 
 
 S plánem navštívit 5 nových zemí to vypadalo beldě. Ale práce mě přivedla do Skandinávie. Přes měsíc jsem v Kyjích pomáhal dávat do kupy vložky do kol na projekt Lahti. A v Ludvíkových očích je dobrá odměna za manuální práci, víc manuální práce prímo v místě dění. Ale kdo bych byl abych ohrnoval nos nad tím, když mi někdo zaplatí ubytování a letenku do Finska. Vlastně jsem se těšil jak malý dítě.<br>
@@ -32,9 +34,11 @@ Dům v Lahti jsme našli na druhou dobrou. Silnice, kterou nás navigace byla ro
 ### 16.8. Po Lahti
 
 Ráno jsme si dole v sámošce koupili něco k snídani a autem vyrazili do skladu. Tam jsme se postupně seznámili místními techniky. Nebo spíš netechniky. Banda, kterou Leo dal dohromady se skládala ze:<br>
+
 - Dvou synů jeho kamaráda Akseliho a Illariho
 - Jejich kamaráda co chtěl škváru ale makat moc ne Juha s komickým příjmením Rekola.
 - A asi padesáti letého cápka jménem Markku
+
 Markku vypadal nejschopněji z nich. Docela ale bojoval s jakoukoliv technologií a servisní aplikace či backend ho skoro děsily.<br>
 Odpo jsme se šli projít parkem a k jezeru.<br>
 

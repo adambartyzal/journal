@@ -1,4 +1,5 @@
 [<< Srpen](2025_august.md)<br>
+
 - [1.9. Štrůdl a bramboráky](#19-štrůdl-a-bramboráky)
 - [2.9. Mít tak 7 miliónů](#29-mít-tak-7-miliónů)
 - [3.9. Gril, kino a prstýnek](#39-gril-kino-a-prstýnek)
@@ -19,6 +20,7 @@
 - [18.9. Zápy podruhé](#189-zápy-podruhé)
 - [19.9. Sinusitida zpět?](#199-sinusitida-zpět)
 - [](#-2)
+
 
 ### 1.9. Štrůdl a bramboráky
 

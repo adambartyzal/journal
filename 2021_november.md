@@ -1,6 +1,7 @@
 
 ## [Listopad](2021.md)   
 
+
 - [13.11. Na Harlej](#1311-na-harlej)
 - [15.11. Plánování](#1511-plánování)
 - [16.11. Do Řecka](#1611-do-řecka)
@@ -14,6 +15,7 @@
 - [26.11. 7 divů světa](#2611-7-divů-světa)
 - [27.11. Do Pekla a zpět](#2711-do-pekla-a-zpět)
 - [28.11. Na Bena Caplana](#2811-na-bena-caplana)
+
 
 ### 13.11. Na Harlej
 
@@ -231,9 +233,11 @@ Přelet přes Alpy byl bez váhání jeden z nejhezčích letů, jaké jsem zaž
 
 Po dovolené na teambuilding. Pln zážitků jsem odpo zamířil na vlak do Vysočan, kam z Karlína vyráželo kolegové z Vývoje a v opačném směru Výroba z Kyjí. Vysočanské náraží bylo spíš rozkopané, než rozestavěné a promotat se skrz provizorní cestičky byl docela oříšek. Napsal jsem ostatním ať kopnou do vrtule, jinak nám to frnkne.<br>
 Mimopražská akce obou našich týmů to vlastně byla asi první svého druhu. Plán zněl:<br>
+
 - Dorazit do Hradce a vypít sud, který Jirka pořídil
 - Ráno vyrazit na pěší výlet skrz Peklo až do Náchoda
 - Vlakem se vrátit a jít na bowling s dalšími členy, kteří nejsou výletní, ale jsou pro družení se (čti Martínkovic)
+
 
 ### 27.11. Do Pekla a zpět
 

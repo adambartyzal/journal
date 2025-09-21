@@ -1,4 +1,5 @@
 [<< Září](2024_september.md)<br>
+
 - [1.10. Jiný člověk](#110-jiný-člověk)
 - [2.10. Chyba v plánování](#210-chyba-v-plánování)
 - [3.10. Badminton tradicí?](#310-badminton-tradicí)
@@ -28,6 +29,7 @@
 - [29.10. Šmak podzimowy](#2910-šmak-podzimowy)
 - [30.10. Den na zpracování](#3010-den-na-zpracování)
 - [31. 10. Chmury](#31-10-chmury)
+
 
 ### 1.10. Jiný člověk
 

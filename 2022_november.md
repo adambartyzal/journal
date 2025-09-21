@@ -1,6 +1,7 @@
 
 ## [Listopad](2022.md)   
 
+
 - [1.11. Dvojsečná sekera](#111-dvojsečná-sekera)
 - [2.11. Zimní čas je pruda](#211-zimní-čas-je-pruda)
 - [3.11. Víc než jen refactor](#311-víc-než-jen-refactor)
@@ -31,6 +32,7 @@
 - [28.11. Operace a Morfium](#2811-operace-a-morfium)
 - [29.11. V bolestech](#2911-v-bolestech)
 - [30.11. Radši o den navíc](#3011-radši-o-den-navíc)
+
 
 ### 1.11. Dvojsečná sekera
 

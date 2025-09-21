@@ -2,6 +2,7 @@
 
 ## [Srpen](2025.md) 
 
+
 - [1.8. Ostřejší, barevnější, lepší](#18-ostřejší-barevnější-lepší)
 - [2.8.](#28)
 - [3.8.](#38)
@@ -29,10 +30,11 @@
 - [25.8.](#258)
 - [26.8](#268)
 - [27.8.](#278)
-- [28.8](#288)
+- [28.8. Čím víc zámků, tím víc adidas](#288-čím-víc-zámků-tím-víc-adidas)
 - [29.8](#298)
-- [30.8.](#308)
+- [30.8. Dvakrát dvě lodny](#308-dvakrát-dvě-lodny)
 - [31.8.](#318)
+
 
 ### 1.8. Ostřejší, barevnější, lepší
 
@@ -399,7 +401,19 @@ Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili
 ### 23.8.
 
 
+<a href="../images/2025_august/23_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/23_1.jpg"></a>
+
+
+<a href="../images/2025_august/23_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/23_2.jpg"></a>
+
+
+<a href="../images/2025_august/23_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/23_3.jpg"></a>
+
+
 ### 24.8.
+
+
+<a href="../images/2025_august/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/24_1.jpg"></a>
 
 
 ### 25.8.
@@ -411,15 +425,56 @@ Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili
 ### 27.8.
 
 
-### 28.8
+<a href="../images/2025_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/27_1.jpg"></a>
 
+
+<a href="../images/2025_august/27_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/27_2.jpg"></a>
+
+
+### 28.8. Čím víc zámků, tím víc adidas
+
+Kolo bylo v práci a běhal jsem naposledy pondělí. Bylo na čase nazout boty a vyběhnout. Zvládl jsem se přemluvit a vyběhl podél Botiče, Jezerka nahoru a dolů a poté na kapitol, kde jsem chvíli cvičil. Zkoušel jsem dead hang. 50 vteřin v pohodě. Překvapil jsem sám sebe.<br>
+Verunka připravila moc dobrou kukuřično pohankovou kaši, počkala na mě a po snídani jsme společně jeli vlakem v 8:20.<br>
+Řešil jsem terminály z TELA. Kelly možná opravdu je takový pako, jako si všichni myslí. Pak jsem stavil zámky. Na konci směny jsem měl 4 kompletní a funkční. 3 pro 1- CUBE . Jeden pro Vládu.<br>
+Cestou zpět domů jsem nakoupil pečivo a zelenina. Verunka z toho doma vykouzlila dobroty.<br>
 
 ### 29.8
 
 
-### 30.8.
+### 30.8. Dvakrát dvě lodny
 
+Na to, že matrace byla proležená do oblouku jsem se v přístavku k chatičce vyspal fantasticky. Bak tam tma, chladno a úplné ticho. Hodinky mi naměřily 94 spacích bodů.<br>
+Kluci ještě vyspávali, když jsme se s Verunkou přesunuli do kuchyně na ranní čaj. Snídani jsme museli koupit. Naštěstí Maršov má obchůdek. Od chalupy jen kousek z kopce dolů, kolem novostaveb na náves. Koupili jsme rohlíky, chléb, pomazánkové máslo a vyrazili zpátky snídat.<br>
+
+<a href="../images/2025_august/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/30_1.jpg"></a>
+
+Čekala nás cesta do moštárny. Jablek prý bylo nejmíň za poslední roky. Dvě hodiny. hodny jsou přepravky naučil jsem se.<br>
+Moštování je sice služba, kterou poskytují v moštárně. Realita je ale taková, že člověk si musí sám jablka přivézt, zvážit, naházet do vany, namlít a při mačkání stočit výsledný produkt do svých barelů. Ale hej. Může za to moštárne zaplatit. Doma by to ale dělal rok zatímco v moštárně to trvá asi 2 minuty.<br>
+
+<a href="../images/2025_august/30_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/30_2.jpg"></a>
+
+Moje vtipy s fotkou pracovního řádu na „Pravidla Moštárny" nepadla na úrodnou půdu. Nikdo ten film neviděl. Co už. Šli jsme si aspoň projít Tišnov. Kendyho domovinu. Pěkný městečko s hezkými výhledy. Akorát náměstí bylo rozkopaný na sráč.<br>
+
+<a href="../images/2025_august/30_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/30_3.jpg"></a>
+
+Hynek v mezičase dával do pořádku hrob dědy. Vypadalo to, že u toho chce soukromí, tak jsme po městě šli s Vernkou a S Lakym. Když jsme zas byli všichni spolu, zastavili jsme se v Tescu, Veru tam dokázala najít žárovku, pro kterou jsme tam vlastně jeli a něco k jídlu.<br>
+Zpátky na chalupě jsme pekli štrůdl, pili mošt a obědvali Špagety a fazole venku na zahradě. Ondráčkovic byli názoru, že mošt je ve větším množství projímavý. Rozhodl Jsem se dokázat opak a vypil ho asi litr a půl. Inzulínový peak byl zajištěn.<br>
+Bylo ale třeba pracovat. Přesunuli jsme se na pole. Což ve skutečnosti byla nudle mezi dvěma poli s mírně schnoucími stromy. Švestek tam ale bylo požehnaně. S žebříky a trháčky jsme se pustili do sběru.<br>
+Opět toho byly dvě lodny. To bylo třeba nějak oslavit. Přesunuli jsme autem do Kuřimi do aquapark. Ondráčkovic tam meli permanentky. Multispoutku brali a tak jsme dvě hodiny plavali, jezdili na tobogánu, pářili se v patře a bublali v bublinách.<br>
+
+<a href="../images/2025_august/30_4.jpg" target="_blank"><img src="../images/thumbnails/2025_august/30_4.jpg"></a>
+
+Cestou zpět už byla tma. Řídil Luky a musel brzdit kvůli Srnkám, které si ze silnice nic moc nedělali. Zbytek Večera jsme si povídali u stolu ve světnici a koukali na staré české komediální výstupy v televizi. Nárožný S tubou byl fakt dobrej.<br>
 
 ### 31.8.
+
+
+<a href="../images/2025_august/31_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/31_1.jpg"></a>
+
+
+<a href="../images/2025_august/31_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/31_2.jpg"></a>
+
+
+<a href="../images/2025_august/31_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/31_3.jpg"></a>
 
 [>> Září](2025_september.md)<br>

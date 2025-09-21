@@ -2,6 +2,7 @@
 
 ## [Srpen](2023.md) 
 
+
 - [1.8. Na schovávanou](#18-na-schovávanou)
 - [2.8. Terapie naslepo](#28-terapie-naslepo)
 - [3.8. Dospat ztrátu nejde](#38-dospat-ztrátu-nejde)
@@ -34,6 +35,7 @@
 - [30.8. Klapky a knedlíčky](#308-klapky-a-knedlíčky)
 - [31.8. Světlonoš](#318-světlonoš)
 
+
 ### 1.8. Na schovávanou
 
 Ráno mi v showroomu upadla sluchátka. Jedno jsem našel u nabíjecího boxu. Druhé ne. Měl jsem podezření, že spadlo dírou pro zásuvku pod zem. Ale neviděl jsem ho tam.<br>
@@ -63,7 +65,9 @@ Když jsem se vrátil, Kendy říkal, že Kepka říkal ještě nějaký moudra 
 
 Kepka mi volal do práce. Měl ke mně přijít technik zkontrolovat, zda voda teče ode mně a vymyslet co s tím. Vyrazil jsem tedy domů dřív abych ho na pátou stihl. Byl to nějaký zedník odnaproti a po asi dvou minutách sahání na trubky a koukání se do stoupaček dospěl k názoru, že *je to vlhký*. Koukal jsem se na to a nemohl jsem s tím souhlasit. Ale co naděláš. Řekli, že budou kopat a asi lepší je nechat, než se propadnout.<br>
 Do řeči jsem se dal i s pánem co bydlí pode mnou. Vypadal jako pan Vrba a v bytě prý vůbec není, protože bydlí v Kanadě.<br>
-> Přijel z Kanady a začala téct voda.. tam bych hledal spojitost já.<br>
+
+> Přijel z Kanady a začala téct voda.. tam bych hledal spojitost já.
+
 Domluvili jsme se, že dělník přijde v neděli ráno a vyřeší to. Byla ale první středa v měsíci, což znamená Aero Naslepo. Vyzvedl jsem Marťu na tramvaji. Objala mě tak až to bolelo a společně jsme vyrazili k Antonínovi pro něco k snědku a pak na tramvaj. Dal jsem si Makovou a Povidlovou Buchtu.<br>
 Marťa našla tramvaj a i když se mi to úplně nezdálo, naskočili jsme do ní.. A jeli opačným směrem. Svezli jsme se tedy na Čecháč a tam nám správná tramvaj prostě nepřijela. Protože tamtudy nejezdí. Museli jsme dojít na Koh-i-noor a jet pozadu 19kou. Málem mi nevyšel lístek ale kupovat si druhý jsem odmítl.<br>
 
@@ -88,7 +92,9 @@ Vojta napsal, že bude v Karlíně. Už jsme ho dlouho neviděli a nikdo nevěd�
 Vyprávěl nám, proč vlastně holding do kterého ho jeho kamarádi nalákali chce koupit malou vývojovou firmu. Znělo to trochu, jako by byl Vojra bílý kůň, ale prý to tak nebylo. Doufal jsem že to tak není.<br>
 Dál nám vyprávěl o rozlučce jeho kamaráda, kterou organizoval a o tom, že mu půjde za svědka. Pořídil si kvůli tomu oblek lepší, než měl na svojí svatbě. A rozlučka to prý byla pořádná. Část osazenstva holdovala lepším substancím než alkohol. Po jídle jsme si ještě dali kafe z Emy.<br>
 Pak to na mě padlo. Kocovina mě doběhla a rozjel se mi bolehlav. Asi jsem na tom byl líp než Sára, která psala:<br>
-> dneska obědvám colu a utopence 😃 takhle moc mám kocovinu<br>
+
+> dneska obědvám colu a utopence 😃 takhle moc mám kocovinu
+
 Docela mrtvej jsem jel po práci rovnou domů. S Míšou jsme naplánovali piknik na štvanici a já se dal do vaření cukety.<br>
 
 <a href="../images/2023_august/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_august/3_1.jpg"></a>
@@ -119,7 +125,9 @@ A pak začal Radostín. Moc lidí ale nepřijelo. Měl přijít déšť. Do ře�
 <a href="../images/2023_august/4_4.jpg" target="_blank"><img src="../images/thumbnails/2023_august/4_4.jpg"></a>
 
 Domos se strašně vylil. Na koncertě Krále Doubka, který tentokrát neměl dlouhé boty, zato měl upnuté kaťata, vykřikoval nějaký blbosti a byl docela napřesdržku. Taky tam byla nějaká značně vyfetlá paní co Králi říkala:<br>
-> Hraj do toho jak tančím<br>
+
+> Hraj do toho jak tančím
+
 A skupina lidí, kteří přesvědčovali nějakou svojí členku o tom, že to co si vzala je v pohodě i když očividně v pohodě nebyla. Dole u ohně měl na Rébu a Sáru někdo sexuální narážky a vůbec byl to docela divnej večer.<br>
 
 <a href="../images/2023_august/4_5.jpg" target="_blank"><img src="../images/thumbnails/2023_august/4_5.jpg"></a>
@@ -168,7 +176,9 @@ Cestou domů jsem ale objevil, že roste u nás před nádražím.<br>
 ### 7.8. Rámen
 
 Miška se vracela z Berlína. Takhle jsem to měl v kalendáři napsaný. Těšil jsem se na její vyprávění, ale k vyprávění je lepší jídlo a na seznamu jsme měli uvařit. Pickuplimes měli recept na rámen. Bylo v něm spousta věcí co jsme neměli ale když Miška napsala:<br>
-> Já v Sapě nikdy nebyla. 😁<br>
+
+> Já v Sapě nikdy nebyla. 😁
+
 Bylo rozhodnuto. Budeme vařit rámen a nakoupíme na něj věci v Sapě.<br>
 Po práci jsem jí jel metrem naproti. Úplně jsem si odvykl jím jezdit a na Florenci jsem zapomněl přestoupit.<br>
 Nabral jsem tak desetiminutové zpoždění. O to divnější bylo, že jsem Mišku neviděl u výstupu. Čekala mě u eskalátoru a já vyběhl po schodech, které jsou na Kačerově vlastně v protisměru. Ale našli jsme se. A 333kou už jsme jeli spolu. Uprostřed kloubáku na kolotoči.<br>
@@ -563,6 +573,7 @@ Seběhli jsme tak na Ostrčilák a po dlouhém objetí nastoupili tramvaje v opa
 V noci byl hluk a horko. Nevyspal jsem se nejlíp a vlastně jsem ten přerušovaný spánek natahoval déle než obvykle. Petr s Robinem tak vstali dřív než já. Taky jsem vlastně neměl úplně moc důvod chvátat. Chtěl jsem si v Malešicích odchytit chybu při připojování na WiFi a všichni z výroby mli dovolenou, takže jsem tam plánoval být sám.<br>
 Omar měl nakonec štěstí, že jsem tam byl, protože přijel nějaký kurýr, který chtěl zaplatit.<br>
 Během dne jsem potvrdil, že problémy řeším následovně:<br>
+
 - Moc nevím a plácám se v tom.
 - Když začnu být zoufalý, popíšu detailně co dělám Vláďovi.
 - Nedostanu odpověď, protože je na obědě, nebo dělá pro zásuvky.
@@ -570,6 +581,7 @@ Během dne jsem potvrdil, že problémy řeším následovně:<br>
 - Vyřeším to.
 - Pochlubím se jak jsem to vyřešil.
 - Vláďa napíše, že takhle mi radí rád.
+
 Odpoledne přijel DJ opravovat testovací kola. Ještě jsem změnu v qtCommonu implementoval v qTesteru a ověřil, že funguje na jejich novém testeru.<br>
 Po třetí jsem jel domů. Připravit se na vodu a dojíst zbytky, které by se přes víkend zkazily. Když jsem se balil, zavolal mi Jarda, že nepojedou, protože Sáře se zabila máma. To byl teda šok. Poprosil mě, ať to vyřídím s ostatními.<br>
 Přemýšlel jsem jestli má vůbec smysl jet, ale pro Sáru tu byl Jarda a v Praze bychom akorát zvyšovali míru chaosu. Navíc Marťa s Vildou už vyrazili autem, nebo jsem si to aspoň myslel. Zavolal jsem Ondrovi a Rébu napadlo, že Nováčkovic by se vešli do uvolněné lodě. Ale už vyrazili do Jižních Čech na chatu a pomáhat babičce.<br>
@@ -638,14 +650,18 @@ Jak obrazy, tak vybavení podniku ve mi přišlo úplně zbytečné. Ale Rébě 
 
 Cesta autem do Prahy byla zajímavá. Marťa vybírala hudbu a Vilda řídil. Musím říct, že řídí velmi bezpečně, ale zároveň velmi živě. Možná to umocňovala ta Fabie, ve který 90 působí jak 160. Ale kdybych na vodě pil, v autě bych blil.<br>
 Rébu s Ondrou jsme vyhodili na Břevnově. Psal jsem Mišce:<br>
-> Jedeme přes Břevnov. Kdyby nepršelo, neměl bych mrtě krámu a nesmrděl bych, asi bych ti šel házet kamínky do oken. Ale sprcha first.<br>
+
+> Jedeme přes Břevnov. Kdyby nepršelo, neměl bych mrtě krámu a nesmrděl bych, asi bych ti šel házet kamínky do oken. Ale sprcha first.
+
 Prý by to ocenila, ale chápe 😄<br>
 Dal jsem vodu bez alkoholu a užil si to. Měl jsem ze sebe radost.<br>
 
 ### 28.8. Ohnivá Čaša
 
 Náš seznam obsahoval položku:<br>
+
 - Opět jít hrát na piano
+
 V městské knihovně mají piáno, vzpomněl jsem si. A tak jsme vyrazili po práci na Mariánské náměstí. Jel jsem na kole, takže jsem tam byl první. Zrovna když jsem zamykal kolo ke stojanu, rozpršelo se a tak jsme vyrazil rovnou dovnitř.<br>
 Paní v hudebním koutku mě informovala, že buď musím mít knihovní kartičku, která mi zajistí přístup k lepšímu piánu, nebo svoje sluchátka na klapky v dětské zóně. Šel jsem se podívat do té dětské zóny. Byla to docela fér Yamaha. Zrovna, když jsem zjišťoval, jak připojit sluchátka dvoje, přišla Miška. Ve svým fjällräven svetru. A se svým krásným úsměvem. Ale drátová sluchátka jsme neměli. Mohli jsme zajet do Karlína, vzít si moje náhlavní a půjčit si Ivanovy, ale za prvé by nám to sebralo spoustu času a za druhé se to Mišce zdálo divný.<br>
 Bylo třeba vymyslet jiný plán. Co šachy? Ty by v dole v kavárně mohly mít. Neměli. Ale pán nám tam poradil, že naproti kavárně je herna. Byla, ale taky chtěli kartičku. Možná nám pán ale viděl smutek v očích, nebo to bylo tím, že herna byla úplně prázdná, ale řekl, že do sedmi tam můžeme být. Šachy ale nevěděl jestli má.<br>
@@ -686,10 +702,12 @@ V jednu chvíli jsem ležel na podlaze a jen tak si drnkal poslepu nad hlavou co
 
 Co s tím?Miška se rozhodla, že nejlepší řešení bude, vzít kola a dojet na Letnou do knedlíčkárny. Nextbike přes ošemetná místa spíš vedla, ale když jsme zajeli víc k vodě a potom na Letnou, valila snad rychleji než já. Kola jsme zamkli za Billou a pěšky vyrazili do pasáže na Milady Horákové.<br>
 Bylo docela nacpáno, ale usadili nás. Vybrali jsme 4 příchutě.<br>
+
 - Tofu s hráškem a mátou
 - Tempeh se zelím
 - Shitake s arašídy
 - Kořeněnou mrkev s petrželí
+
 Miška si dala nekonečný jasmínový čaj a já konvičku s bylinkovým čajem. Bylo to super. Poměrně vysoká cena se tak dala skousnout.<br>
 Po jídle jsme se snažili vyjmenovat co nejvíc států USA. Docela jsme pohořeli. Dal jsem jich 30. Mišku ale ještě honila mlsná. Rozhodli jsme se tak dát si ještě 4 sladké knedlíčky. Bylo to strašně dobrý. Trochu jako štrůdl, ale vlastně ne. Omáčka byla trochu jako šodó ale taky ne. Nadchlo mě to.<br>
 Po dojedení a dopití jsme se vrátili na Letenskou pláň, kvůli houpačkám. Vzdálenější nám přišly větší, ale nebylo tomu tak. Houpali jsme se tam asi půl hodiny. Teda houpala se ona, mě z toho bylo docela blbě.<br>

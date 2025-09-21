@@ -1,4 +1,5 @@
 [<< Říjen](2024_october.md)<br>
+
 - [1.11. Poslední den šestinedělí](#111-poslední-den-šestinedělí)
 - [2. 11. Cizrna na paprice jí nechutná](#2-11-cizrna-na-paprice-jí-nechutná)
 - [3.11. Cigarettes after sex.. after sex](#311-cigarettes-after-sex-after-sex)
@@ -28,6 +29,7 @@
 - [28.11.](#2811)
 - [29.11.](#2911)
 - [30.11.](#3011)
+
 
 ### 1.11. Poslední den šestinedělí
 

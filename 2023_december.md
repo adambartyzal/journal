@@ -2,6 +2,7 @@
 
 ## [Prosinec](2023.md)  
 
+
 - [1.12. Třetí v řadě](#112-třetí-v-řadě)
 - [2.12. Nová badmintonová sezóna](#212-nová-badmintonová-sezóna)
 - [3.12. Mezi běžkaři](#312-mezi-běžkaři)
@@ -33,6 +34,7 @@
 - [29.12. 52 dní je prostě moc](#2912-52-dní-je-prostě-moc)
 - [30.12. Provokace](#3012-provokace)
 - [31.12. Mezi Nadějí a Láskou](#3112-mezi-nadějí-a-láskou)
+
 
 ### 1.12. Třetí v řadě
 
@@ -127,7 +129,9 @@ V Karlíně jsem řešil reklamace ze slovenska a pukala mi z toho cévka. Vrace
 <a href="../images/2023_december/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/7_1.jpg"></a>
 
 Těsně před koncem pracovní doby mi Míša napsala zprávu, na kterou jsem koukal asi 10 minut, svět se kolem mě zastavil a moje srdce taky.<br>
-> V posledních pár týdnech jsem si všimla věcí, které mi v našem vztahu nesedí, což už asi tušíš. Ráda bych si o nich promluvila, jen ti to chci dát vědět předem, aby ses na to mohl připravit a samozřejmě záleží i na tobě, zda jsi otevřený to zkusit vyřešit, nebo to nevidíš.<br>
+
+> V posledních pár týdnech jsem si všimla věcí, které mi v našem vztahu nesedí, což už asi tušíš. Ráda bych si o nich promluvila, jen ti to chci dát vědět předem, aby ses na to mohl připravit a samozřejmě záleží i na tobě, zda jsi otevřený to zkusit vyřešit, nebo to nevidíš.
+
 Pár týdnech? Vždyť jsme se viděli pár dní zpátky a měli se moc hezky. Úplně mě to vykolejilo. Nevěděl jsem co dělat. Co napsat. Cítil jsem strach.<br>
 Napsal jsem něco o tom, že mě to hodně zarazilo, že náš vztah je první v mým životě, kterýmu věřím a že mi přijde, že děláme kroky dopředu a že tohle na mě přišlo docela zčista jasna.<br>
 Míša ale nastupovala do auta a vyrážela na dlouhou cestu z Mersbourgu do Prahy a tak jsme si toho víc nenapsali.<br>
@@ -250,9 +254,13 @@ Spolu jsme sešli na Anděl a tramvaj přijela až nepříjemně brzy.<br>
 
 Odjela. Pět týdnů. Byl jsem zvědavý, jak to ponesu. Jestli budu žárlit na Adriena. Jestli budu smutný. Jestli mi to náhodou nebude úplně jedno. Nevěděl jsem. Byla to pro mě bezprecedentní situace.<br>
 Ale v tom momentu, kdy její tramvaj mizela někam na Zborovskou jsem smutný byl. A když jsem pak stál v béčku, udělal se mi úplný knedlík v krku a měl jsem slzy na krajíčku. Ztracen v úvahách, přišla mi zpráva:<br>
-> Jsi skvělý kluk! 🩵<br>
+
+> Jsi skvělý kluk! 🩵
+
 Skoro jsem se rozesmál a upřímně odepsal:<br>
-> A ty jsi skvělá dívka 💚<br>
+
+> A ty jsi skvělá dívka 💚
+
 Třeba máme šanci to dotáhnout na tu verandu, kde si v osmdesáti budeme číst.<br>
 Na odpoledne jsem potřeboval něco vánočního. Jinak mě prý nepustí na loď. Od pána, který před metrem prodával stromky, jsem si vzal větévku, kterou jsem si v kanclu přidělal stahovací páskou ke klopě.<br>
 
@@ -277,7 +285,9 @@ Někdy po osmé jsem volal Mišce, zda by nechtěla abych za ní ještě přijel
 ### 13.12. Je pryč
 
 Po třetí ráno mi zazvonil budík. Napsal jsem Mišce, jak je na tom. Její reakce byla srdcehřívá, ale přišla mi maličko přehnaná. Cituji:<br>
->To je jedna z nejhezčích věcí, kterou pro mě kdo kdy udělal. 🩵<br>
+
+>To je jedna z nejhezčích věcí, kterou pro mě kdo kdy udělal. 🩵
+
 Prostě jsem se jen zeptal. Byla už na zastávce, vzala si tágo. Já jsem pořád váhal, zda jsem přece jen neměl jet za ní, ale vymlouvala mi to. Když nastoupila do autobusu, šel jsem zas spát.<br>
 Ráno mi pak ujel vlak před nosem. Ne že bych šel na nějaký konkrétní. Stejně mě to ale rozezlilo.<br>
 
@@ -323,11 +333,13 @@ Probudil jsem se s s bolehlavem a vyřízenej. Ne že bych to nečekal, necítil
 
 Během dopoledne jsem si říkal, že zapadám zpátky do destruktivních vzorců chování. Opět jsem začal sledovat porno. Sice jsem vybíral jen videa amatérských párů, na nichž bylo vidět, že se milují. Ale stejně. Od těhle videí je to jen krok k profesionální produkci videí, jenž člověka uzavírá do sestupné spirály. Taky jsem měl v týdnu maso. A to jsem ho fakt nechtěl. Jenže jídelna. Po zdražení ale jídelnou člověk stejně neušetří.<br>
 Bylo třeba těmhle přešlapům učinit přítrž. Rozhodl jsem se, že dobrý postup je si to napsat. Chci:<br>
+
 - Opět skoncovat s pornografií
 - Víc si vařit a tím minimalizovat potřebu jíst v jídelně
 - Opravdu spát pravidelně 8 hodin
 - Víc cvičit
 - Víc číst a mín koukat do displejů
+
 Začal jsem tím jídlem. Ve své nové pánvi jsem orestoval květák, mrkev a brokolici. V rýžovaru jsem měl rýži s čočkou a jako bílkovinu naložené tofu. Chutnalo to jednoduše a moc dobře.<br>
 V krátkém časovém oknu které s Míšou máme jsme se dohodli, že v neděli si zavoláme. Pro ní večer, pro mě ráno.<br>
 Většinu dne jsem zabil čtením. *Strike* má přes tisíc stránek. To chvíli trvá.<br>
@@ -415,7 +427,9 @@ Eva mi poslala článek, že na fildě se střílí. Nějakej magor se samopalem
 Ale dělo. Umřelo asi patnáct lidí.<br>
 Když jsem si o tom pak četl doma, bylo mi z toho blbě. Škola je pro mě svatá půda. za většinu toho, kým dneska jsem vděčím škole. Myšlenka, že jdu na zkoušku a někdo mě zastřelí je hrozná. Myšlenka, že mi někdo zastřelí kamarády je hrozná. Nechápal jsem to. A nemyslím si, že to šlo pochopit.<br>
 Potěšilo mě ale, že mi napsala Joosje. Její:<br>
-> Healthy and safe?<br>
+
+> Healthy and safe?
+
 Mě zahřálo u srdce. Chvilku jsme si psali.<br>
 Míša ze zpráv taky působila, že jí to dost rozhodilo. Aby ne. Všechny to rozhodilo. Svět se zbláznil.<br>
 
@@ -544,7 +558,9 @@ Běh pozpátku a bokem na Smíchov je docela na dlouho. A ze Smíchova do Podol�
 Dvacátého deváteho ale znamenalo bazén zdarma a v areálu bylo lidí randál. Po asi kilometru mě to tam přestalo bavit.<br>
 Rychlou chůzí jsem došel do Lidlu. Z tama bylo lepší dojít k Sáře a zalít jí kytky.<br>
 Konverzace v *Sářině kvítí* říkala:<br>
-> Sepíšu postup krmení Maliny a nechám to připravený na kredenci.<br>
+
+> Sepíšu postup krmení Maliny a nechám to připravený na kredenci.
+
 Buď nevím co je kredenc, nebo žádné instrukce zanechány nebyly. Chvíli jsem se radil s Googlem, ale dospěl k názoru, že kvásek nakrmím ve dnech budoucích. Kytky jsem ale zalil.<br>
 Před domem jsem uzřel, že deka ulítla. Naštěstí do keře u vedlejšího domu. Nějaká důchodkyně v okně mě o tom nezapoměla informovat.<br>
 Pověsil jsem povlečení a šel se ztratit v knížce.<br>

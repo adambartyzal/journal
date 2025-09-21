@@ -2,6 +2,7 @@
 
 ## [Září](2023.md) 
 
+
 - [1.9. Aurou na pozemek](#19-aurou-na-pozemek)
 - [2.9. Kostel v Mostě 2.0](#29-kostel-v-mostě-20)
 - [3.9. Válet se na zemi by nám šlo](#39-válet-se-na-zemi-by-nám-šlo)
@@ -32,6 +33,7 @@
 - [28.9. Jeseníky, skoroúplněk a první pusa](#289-jeseníky-skoroúplněk-a-první-pusa)
 - [29.9. Dál než jsme chtěli](#299-dál-než-jsme-chtěli)
 - [30.9. Dvojvrstvě opeřená](#309-dvojvrstvě-opeřená)
+
 
 ### 1.9. Aurou na pozemek
 
@@ -254,7 +256,9 @@ Večer jsme opět grilovali. Nákup v Lidli se sestával z Pita chlebů, hallumi
 
 Ostatní vyspávali dlouho. Šel jsem si ven číst. Adél po probuzení okamžitě vyrazila na kávu.<br>
 Opět jsme šli po ránu plavat. Přeplaval jsem zátoku tam a zpátky abych se probudil. Snídaně byla velkolepá. Žampiony a cibulka, míchaná vajíčka, chléb se salátem a jako sladkou tečku Adél přinesla sladké pečivo s jablky. Než jsme dojedli, byla jedenáctá pryč. Dal jsem se do nadepisování pohledů. Jeden šel mamce, druhý Mülerovým a třetí Mišce. Na to posledním stálo:<br>
-> Ten příští pošleme spolu!<br>
+
+> Ten příští pošleme spolu!
+
 
 <a href="../images/2023_september/15_1.jpg" target="_blank"><img src="../images/thumbnails/2023_september/15_1.jpg"></a>
 
@@ -401,8 +405,8 @@ Večer jsem byl dnem tak znavený, že se mi nechtělo ani sprchovat a po pár s
 
 ### 21.9. Koncentrovaná Itálie
 
-Únava a Mišky magnesium zřejmě fungují. Hodinky mi daly 91 spánkových bodů. Co vác, nějak jsem dokázal prospat hluk z párty, déšť, ještě hlučnější párty po skončení deště, štěkání psa, zpěv ptáků a další hluky, které budily Sáru.<br>
-Raní sprcha sice nebyla teplá, jen vlažná, ale příjemně mi nastartovala den. S Jardou jsme uvařili luštěninovou snídani z cibule (Anom stále jsme měli hromadu cibule.), cizrny, která by to do večera nedala a z plechovky fazolí. Byl to překvapivě gurmánský zážitek.<br>
+Únava a Mišky magnesium zřejmě fungují. Hodinky mi daly 91 spánkových bodů. Co víc, nějak jsem dokázal prospat hluk z párty, déšť, ještě hlučnější párty po skončení deště, štěkání psa, zpěv ptáků a další hluky, které budily Sáru.<br>
+Ranní sprcha sice nebyla teplá, jen vlažná, ale příjemně mi nastartovala den. S Jardou jsme uvařili luštěninovou snídani z cibule (Ano stále jsme měli hromadu cibule.), cizrny, která by to do večera nedala a z plechovky fazolí. Byl to překvapivě gurmánský zážitek.<br>
 Na hike se nikomu moc nechtělo. Zvolili jsme místo toho výlet do města Udine, vzdáleného asi 30 minut jízdy autem od kempu. Na Itálii jsme neměli mnoho času a Udine nabízelo architekturu, espresso, těstoviny, gelato a možná i pizzu a další věci, kvůli kterým lidé do Itálie jezdí<br>
 Podél cesty jsme míjeli topinambury, fabriky, políčka, kostely a hory. Podivně mi to připomínalo Vietnam a o tom jsme se cestou bavili. Jarda se Sárou tam v zimě chtějí. Co budu v zimě dělat já mi bylo tajemstvím. Miška plánovala 5 týdnů na Zélandu a i přes to, že jsme si sotva řekli, že spolu chodíme, stýskalo se mi po ní už po pár dnech dovolené.<br>
 V Udine jsme nechali auto v podzemním parkovišti, kde mimo jiné parkovalo hned několik zaprášených veteránů. Líně jsme se přesunuli do centra a kolem dvanácté začali přemýšlet o obědě. Jarda vybral nějakou tratorii kousek od nás a cestou do ní jsme prošli skrz tržiště, kde nám velmi hlučný ital prodal olivy a sýr.<br>

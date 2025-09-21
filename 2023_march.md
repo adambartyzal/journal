@@ -2,6 +2,7 @@
 
 ## [Březen](2023.md) 
 
+
 - [1.3. Zevlovat a prudit](#13-zevlovat-a-prudit)
 - [2.3. Nejhorší je, když tě to začne bavit](#23-nejhorší-je-když-tě-to-začne-bavit)
 - [3.3. Ponořen v EMVCo](#33-ponořen-v-emvco)
@@ -27,10 +28,13 @@
 - [30.3. S Alčou na Pilulky Štěstí](#303-s-alčou-na-pilulky-štěstí)
 - [31.3. Scraping Google map](#313-scraping-google-map)
 
+
 ### 1.3. Zevlovat a prudit
 
 Do výletníků jsem napsal:<br>
-> Čas letí a únory jsou s výjimkou každého čtvrtého tak krátké, že ve středu je opět prvního a tak oznamuji, že i nadále plánujeme držet tradici a vyrazíme do Aera naslepo!<br>
+
+> Čas letí a únory jsou s výjimkou každého čtvrtého tak krátké, že ve středu je opět prvního a tak oznamuji, že i nadále plánujeme držet tradici a vyrazíme do Aera naslepo!
+
 Po práci jsem to na Žikov vzal přes Karlínský Lidl. Posvačil jsem na plácku ve vnitobloku a vyrazil po mostě mezi palmovkou a žižkovem během západu slunce. Inverze nad Prahou vykreslila pohledný oranžovo modrý opar. Fotku jsem ale nespravil. Výšlap mě plně zaměstnal.<br>
 V kině jsem si nechal nalít pivko a na laptopu si začal zapisovat události z víkendu. V půl dorazila Sára a hned jsem jí začal vyzpovídat ohledně prvního dne v nové práci.<br>
 Prý zrovna slavili šestnáctiny. Bylo tam spousta jídla a zřejmě budou mít spoustu svačin a takových blbostí na place. Občas mě mrzí, že u nás nic takového nemáme, ale.. u nás panuje takový chaos, že na oříšky prostě není čas.<br>
@@ -254,7 +258,9 @@ Po filmu chcalo. Přeběhli jsme do skautského institutu na staromáku. Vyptáv
 Občas se pozastavím nad svou pamětí. Za prvý, není co bývala. A za druhý.. všechno tam asi někde hluboko pořád je, protože čas od času se mi vrátí nějaká vzpomínka na něco, co jsem myslel, že je dávno pryč. Nebo spíš.. vůbec nevěděl, že se stalo.<br>
 Hodně to dělají chutě a vůně. Vzpomínky na cyklocestu ale často přináší další cyklocesty. Jedeš zatáčkou a na milisekundu jsi někde úplně jinde. Malešice, jedeš, zatáčíš, BUM Vietnam.<br>
 A tak mě to napadlo. Chci si vygenerovat Hyperlapse svých cest. Většina jich je nahraných v GPX. A ty co nejsou dokážu vygenerovat z map. Jenže Google je svině. Za API k streetview chce platit.<br>
-> Google mapy ale nejsou placený a tam streetview je ne?<br>
+
+> Google mapy ale nejsou placený a tam streetview je ne?
+
 Takže to musí nějak jít.<br>
 Ukázalo se, že zrada není ani tak v získání obrázků, byť je třeba je sešít z dlaždic, ale v získání panoid, neboli unikátního id jednotlivé streetview bubliny. Ale scrapingem to nějak jde. Ale trvá to.<br>
 

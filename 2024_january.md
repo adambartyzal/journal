@@ -2,6 +2,7 @@
 
 ## [Leden](2024.md) 
 
+
 - [1.1. Střízlivý](#11-střízlivý)
 - [2.1. Pracovitý](#21-pracovitý)
 - [3.1. Konzistentní](#31-konzistentní)
@@ -33,6 +34,7 @@
 - [29.1. Vysušený](#291-vysušený)
 - [30.1. Alternativní](#301-alternativní)
 - [31.1. Kulturní](#311-kulturní)
+
 
 ### 1.1. Střízlivý
 

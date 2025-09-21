@@ -1,4 +1,5 @@
 [<< Březen](2024_march.md)<br>
+
 - [1.4. Děčín je super a není to Apríl](#14-děčín-je-super-a-není-to-apríl)
 - [2.4. Dobré Ráno / Dobrou noc](#24-dobré-ráno--dobrou-noc)
 - [3.4. Opět naslepo](#34-opět-naslepo)
@@ -29,6 +30,7 @@
 - [28.4. Dělení jazyků](#284-dělení-jazyků)
 - [29.4. Zloděj kam se podíváš](#294-zloděj-kam-se-podíváš)
 - [30.4. Po roce Jazz](#304-po-roce-jazz)
+
 
 ### 1.4. Děčín je super a není to Apríl
 
@@ -219,12 +221,15 @@ Po sprše jsem se zabalil, byť jsem nenašel kapsu na laptop. Nechápu co se s 
 
 Semičkou na Áčko a pak autobusem. Žvýkačky a housku v Bille a skrz kontroly. Zase jsem vzbudil podezření. Testovali mě celo tělovým rentgenem. Osahávali mě v rukavicích. Můj batoh prohledávali a stírali. A moje boty rentgenovaly separé.<br>
 Fílu jsem potkal na gatu. Nemáme si toho moc říct. Cítil jsem, že mi to moc nepomůže s mým myšlenkovým rozpoložení. Otázka na kterou se mě Marťa zeptala mi pořád ležela v hlavě.<br>
-> *Na co se těšíš v životě?*<br>
+
+> *Na co se těšíš v životě?*
+
 Pořád jsem neměl žádnou odpověď. Prostě jsem se netěšil vůbec na nic. Na nic ve Finsku. Na nic po návratu. Ani na vodu, na kterou se těšila Marťa. Ani na to že dočtu knížku. Ani na kamarády. Ani na práci.<br>
 
 <a href="../images/2024_april/15_2.jpg" target="_blank"><img src="../images/thumbnails/2024_april/15_2.jpg"></a>
 
 Možná jsem byl v depresi. Řekl jsem si, že bude třeba přečíst si nějaké definice. Ale byl jsem v letadle a pak se den dal do pohybu. Bylo třeba:<br>
+
 - Promotat se letištěm
 - Najít pána co půjčuje auta
 - Půjčit si auto
@@ -238,6 +243,7 @@ Možná jsem byl v depresi. Řekl jsem si, že bude třeba přečíst si nějak�
 - Jít nakoupit
 - Vyřídit ostatní pracovní věci
 - A pak se jít projít
+
 Jezdili jsme Corollou, která mi bolestně připomínala Auru.<br>
 
 <a href="../images/2024_april/15_3.jpg" target="_blank"><img src="../images/thumbnails/2024_april/15_3.jpg"></a>
@@ -253,7 +259,9 @@ Vetšina šla vyřešit vypnutím a zapnutím. Hromadným upgradem jsme přetí�
 Slack praskal ve švech. Hodně jsem toho nastartoval já. Víc Ludva, který začínal působit trochu jako na koksu. Možná byl. Těžko říct.<br>
 Chtěl jsem si po práci postěžovat někomu, kdo ví co dělám. Kdo ví s kým dělám. A někomu s kým nedělám. Chtěl jsem si postěžovat Míše. Přišel jsem o holku, ale přišel jsem i o kamarádku, která o mě věděla nejvíc.<br>
 Chtěl jsem si s ní povídat, protože bylo 16.4. Rok od našeho setkání. Ale napsala mi jen:<br>
-> 😊<br>
+
+> 😊
+
 Jak nůž do srdce. Jasně, dramatizuju. Ale neměl jsem si s kým povídat. Barču jsem předchozí den zahltil svým životním příběhem o mě a Mišce a asi jsem to tím celý posral. Ale s Barčou jsem to viděl podivně pesimisticky.<br>
 Aspoň jsem si večer u Breaking Bad zašil kraťasy. Výsledek nebyl nic moc. Ale vytáhl jsem je tak z poza hranice *na vyhození*. Ať žije ultra slow fashion.<br>
 
