@@ -28,7 +28,7 @@
 - [23.8.](#238)
 - [24.8.](#248)
 - [25.8.](#258)
-- [26.8](#268)
+- [26.8. Po roce Střížkov?](#268-po-roce-střížkov)
 - [27.8.](#278)
 - [28.8. Čím víc zámků, tím víc adidas](#288-čím-víc-zámků-tím-víc-adidas)
 - [29.8](#298)
@@ -419,8 +419,15 @@ Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili
 ### 25.8.
 
 
-### 26.8
+<a href="../images/2025_august/25_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/25_1.jpg"></a>
 
+
+### 26.8. Po roce Střížkov?
+
+Tohle bylo trochu netypické úterý. Na desátou jsem totiž měl naplánovanou prohlídku bytu na Střížkově. A to nebyla jediná netypická věc. V práci byla Ada. Povídali jsme si o tom, jak její rodiče koupili dům na Madeiře a ona se začala učit Portugalsky aby mohla řešit papírování při jeho přestavbě.<br>
+Adi rodiče koupili dům, já přemýšlel o koupi bytu. Před desátou jsem sedl na Franze a vyjel kopec na Střížkov jako už tolikrát při cestách za Verunkou do parku přátelství.<br>
+Najít konkrétní dům mi dalo zabrat, ale nakonec jsme se s paní realitačkou našli. Dům byl malý panelák bez výtahu. Byt skoro jako náš s pokojem navíc. Byl jsem nadšenej.<br>
+Jenže na družstevní byty musí mít člověk zajištění. A já žádnej dům neměl. Co už. Nějak člověk začít musí. Co kdybych chtěl jednoho dne něco koupit a nevěděl jsem na co se zeptat a zaměřit.<br>
 
 ### 27.8.
 
