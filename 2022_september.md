@@ -1,3 +1,4 @@
+
 ## [Září](2022.md)  
 
 - [1.9. Grilování u Jardy](#19-grilování-u-jardy)
@@ -33,7 +34,7 @@
 
 První školní den byl čtvtek a čtvrtky jsem obětoval výrobě. Pustil jsem se do stavby řídítek a postupoval dle návodu abych otestoval, zda se podle něho opravdu řídítka dají složit.<br>
 Nedají. Respektive, pořadí kapitol je špatné a protahobaní kabel k displeji se má protahovat až když už jsou osazené bowdeny, kabely k brazdám a gumolana. Byl jsem naštvaný na tvůrce a řekl si, že je třeba to opravit.<br>
-Po práci jsem vyjel plavat na šutku. Oproti poslední jízdě jsem u letiště zvolil odbočku do leva. Mapy ukazovaly, že letisko půjde objet, ale mapy zřejmě měly zakreslenou cestu, která ani traktoru nemůže vyhovovat. Až na místě jsem si uvědomil, že kdysi už jsem se takhle spálil akorát kdysi na začítku nebylo lákadlo asfaltem.
+Po práci jsem vyjel plavat na šutku. Oproti poslední jízdě jsem u letiště zvolil odbočku do leva. Mapy ukazovaly, že letisko půjde objet, ale mapy zřejmě měly zakreslenou cestu, která ani traktoru nemůže vyhovovat. Až na místě jsem si uvědomil, že kdysi už jsem se takhle spálil akorát kdysi na začítku nebylo lákadlo asfaltem.<br>
 
 <a href="../images/2022_september/1_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/1_1.jpg"></a>
 
@@ -45,38 +46,38 @@ Přemluvili jsme Ondru aby šel nahoru za ní a byli z toho trochu nešťastní.
 V deset jsme sbalili věci a přesunuli se nahoru. Réba v mezičase asi trochu zpracovala realitu promluvila si sama v obýváku s Adél, dospěla k názoru, že jí chvíli nechce vidět a pak vyrazili s Ondrou domů.<br>
 My jsme se přesunuli do obýváku a dál kecali a popíjeli. Adél měla další den jít k alergologovi, a tak pila víno po doušcích a kouřila cigarety po čtvrtkách. Ne že by jí to nějak moc brzdilo. Rozhodla se vyrazit na portugalskou stezku camina.<br>
 Kuřáci se několilkrát vydali na balkón a nechali mě s Alčou samotné. Vyptával jsem se jí na twitter. Zřejmě tím hodně žije a já jsem byl na vážkách zda si ho nezaložit, když jsem zrušil všechny ostatní sociální sítě.<br>
-Když se později Jarda vracel nahoru, po tom co Alču doprovodil na taxík, s úsměvem kuplíře mi sděloval, že se na mě vyptávala.
+Když se později Jarda vracel nahoru, po tom co Alču doprovodil na taxík, s úsměvem kuplíře mi sděloval, že se na mě vyptávala.<br>
 
 ### 2.9. Mexiko s Editou
 
 Během cesty do Kyjí jsem kašlal. Ve středu u oběda kašlal Ludvík, slyšel jsem kašlat Vojtu a vůbec, mojí bublinou zřejmě procházela nějaký epidemie. Taky mě trochu bolela hlava, ale jestli za to mohl nástup nějaké nemoci, nebo kocovina z předchozího dne jsem si nebyl jist.<br>
 DJ přivezl nefunkční vložky z BPL. Za většinu chyb mohli oni. Jeden terminál byl špatně založený.<br>
-Odpoledne jsem dokončil sérii řídítek a vydal se zpátky do města. S Editou jsme byli domluvení, že půjdeme ven. Úplně jsme nebyli domluvení kam a co budeme dělat, ale vykrystalizovalo, že půjdeme na večeři.
+Odpoledne jsem dokončil sérii řídítek a vydal se zpátky do města. S Editou jsme byli domluvení, že půjdeme ven. Úplně jsme nebyli domluvení kam a co budeme dělat, ale vykrystalizovalo, že půjdeme na večeři.<br>
 Sešli jsme se na rohu mezi námi. Když přicházeli, měla na uchu telefon a zdvořile odmítala učit nějakou maminu z tábora anglicky po internetu. Dokud bydlela v Sezimáku, doučovala nějaká děcka angličtinu a jejich matiny měli tendeci se jí čas od času ozvat s tím, že chtějí lekce taky.<br>
 V černých šatech jí to seklo to. Prý v tom obleční byla v práci. Trochu jsem jí to nevěřil.<br>
 Řeč přišla nepřekvapivě na mé cestování po Mexiku a její práci. Jídlo a pití bylo mrtě drahé, ale autentické a bylo ho hodně. Příště si tam dám něco napůl. Takhle jsem po ní už docela plný mého burita dojídal taco, zatímco popíjela druhou margaritu.<br>
 Po jídle jsme zamířili do petrohradské na pivko. Povídali jsme si o filmech, ale zima nás odtud vyhnala relativně brzy.<br>
-Když jsem se vrátil domů, založil jsem si twitter a pročítal si Sářiny příspěvky. Znám jí už dlouho a to jak se prezentuje v internetu, mě překvapilo. Taky mě překvapila její internetová bublina. Sex a drogy byly nosné téma většiny tweetů a odpovědí. Většina z nich mi ale přišla podivně falšená. Možná že twitter není pro mně.
+Když jsem se vrátil domů, založil jsem si twitter a pročítal si Sářiny příspěvky. Znám jí už dlouho a to jak se prezentuje v internetu, mě překvapilo. Taky mě překvapila její internetová bublina. Sex a drogy byly nosné téma většiny tweetů a odpovědí. Většina z nich mi ale přišla podivně falšená. Možná že twitter není pro mně.<br>
 
 ### 3.9. Mafie
 
 Marťa psala že jede na výlet do Svatého Jana pod Skalou s Cedrikem a s její kamarádkou Celine. Byl jsem hodně na vážkách zda se k nim nepřidat. Vyráželi v 11 a ve třičtvrtě na jedenáct, kdy jsem se ještě nevyhrabal z postele mi bylo jasné, že se k nim nepřidám.<br>
 Ondřej napsal do výletníků, že žádné výletění dnes nebude, protože na Steamu je Mafie zadarmo. Docela jsem se pro hraní Mafie nadchl. Yay v AURu má steam a tak jsem měl pocit, že je to nadějné, ale i přes úspěšnou transakci za 0 Kč jsem hru spustit nedokázal. Pouze pro Okna.<br>
 Inu strávil jsem den lenošením. Taky dobrý.<br>
-Veřer jsme vyrazili na pivo do Grébovky. Posedávali jsme tam asi do jedenácti, Jarda do mě trochu hustil ať napíšu Alče. Ne že bych věděl jak se na twitteru jmenuje ale protože na to tak tlačil, neměl jsem chuť se na to ani vyptávat. Večer jsem ale napsal svůj první příspěvek o stoupání do schodů a Sára mě hned sejmula, že jako člověk s handlem @jsem_hater nemůžu psát pateticky.
+Veřer jsme vyrazili na pivo do Grébovky. Posedávali jsme tam asi do jedenácti, Jarda do mě trochu hustil ať napíšu Alče. Ne že bych věděl jak se na twitteru jmenuje ale protože na to tak tlačil, neměl jsem chuť se na to ani vyptávat. Večer jsem ale napsal svůj první příspěvek o stoupání do schodů a Sára mě hned sejmula, že jako člověk s handlem @jsem_hater nemůžu psát pateticky.<br>
 
 ### 4.9. Ležím a potím se
 
-Ráno jsem cítil teplotu. Taky jsem zase kašlal. Neděle je tu ale od toho, že se nemá nic dělat. Nahodil jsem tedy mikinu abych zvedl svou tělesnou teplotu a zachumlal se do peřiny s laptopem na kterém jsem se pustil do sledování Doktora House. Ideální seriál k tomu, když se člověk cítí nemocně.
+Ráno jsem cítil teplotu. Taky jsem zase kašlal. Neděle je tu ale od toho, že se nemá nic dělat. Nahodil jsem tedy mikinu abych zvedl svou tělesnou teplotu a zachumlal se do peřiny s laptopem na kterém jsem se pustil do sledování Doktora House. Ideální seriál k tomu, když se člověk cítí nemocně.<br>
 
 ### 5.9. Mizivý posun a pivo s Celine
 
 Nebýt poslední hodiny, označil bych pracovní den za úplně marný. Po celém dni neplodných snah o nasimulování chyby ve vložce a v kole mě napadlo, že UTP kabel může jít paraleleně s (německým) kabelem k servu. Svoje stolní kolo jsem upravil tak, aby obsahovalo plast D a víc se tak podobalo reálným podmínkám. Německý kabel jsem páskou slepil s UTP kabelem a byl schopen replikovat problém i bez doteku UTP s anténou. UTP ve vložce jsem taky slepil s německým kabelem a nasimuloval 2g pulzy tak silné, že po maličkých krůčcích otáčely servomotorem.<br>
 Po práci jsem jel do podolí plavat. Před vstupem do bazénu, jsem se ale zasekl v bufetu. Nějak jsem si říkal, že si dám něco malého a sladkého abych měl při plavání co pálit. Jak se z toho stalo pivo a chlebíček to netuším.<br>
-Máma mi telefonovala, zda bych jí v ikey nekoupil malý stolek. Škoda, že nezavolala tak o tři dni dříve, kdy jsem přesně takový stolek viděl vyhozený u popelnic vedle grébovky a váhal, zda by se mi nehodil pod květiny.
+Máma mi telefonovala, zda bych jí v ikey nekoupil malý stolek. Škoda, že nezavolala tak o tři dni dříve, kdy jsem přesně takový stolek viděl vyhozený u popelnic vedle grébovky a váhal, zda by se mi nehodil pod květiny.<br>
 Večer mě Marťa tahala na pivo do Petrohradské. Vůbec se mi nechtělo a když na mě dole zvonili, zakřičel jsem na ně z okna, že nikam nejdu. Nakonec jsem ale stejně na jedno vyrazil.<br>
-Celine je starší než jsem čekal. Znají se z doja v Hamburku. I přes to že jsem se vyptával na to co dělá, z jejího vyprávění jsme toho moc nepobral. Dělá na nějakém programu pro studenty, který je má připravit na realitu mimo školní lavice. Taky hodně cestuje a píše o enviromentalismu.q
-Vilém mluvil o tom, že nemá rád svou kolegyni, která prý nic nedělá a ještě k tomu chodí do práce jen sporadicky. Vypadal, že ho to opravdu štve. Měl by víc trénovat mámvpíčismus.
+Celine je starší než jsem čekal. Znají se z doja v Hamburku. I přes to že jsem se vyptával na to co dělá, z jejího vyprávění jsme toho moc nepobral. Dělá na nějakém programu pro studenty, který je má připravit na realitu mimo školní lavice. Taky hodně cestuje a píše o enviromentalismu.q<br>
+Vilém mluvil o tom, že nemá rád svou kolegyni, která prý nic nedělá a ještě k tomu chodí do práce jen sporadicky. Vypadal, že ho to opravdu štve. Měl by víc trénovat mámvpíčismus.<br>
 
 ### 6.9. V Kyjích sám a s Marťou na kole
 
@@ -86,26 +87,24 @@ Když odjeli, zůstoal jsem v Kyjích sám. Když jsem souhlasil s tím, že bud
 Někde někdo něco nezvládl.<br>
 S Marťou jsme na odpoledne měli naplánovanou jízdu na kole z Měcholup. Navrhul jsem, aby přijela za mnou. Mohl bych si tak odpustit cestu do Vršovic a zpátky a pohnout s nastrojováním řídítek. Souhlasila s tím. Našli jsme vlak, který jí doveze do Kyjí a domuvili se, že se potkáme na nádraží.<br>
 První ze dvou vlaků ale nejel, takže musela dalším, který jel z Masaryčky místo z Hlaváku. Při přejezdu z nádraží na nádraží mi napsala, že má obě kola prázdné a to tak, že na kole nejde jet. Přidělal jsem tedy na batoh ruční pumpu.<br>
-Vlak na Masaryčce měl patnáct minut zpoždění. Předchozího veřera se Vilém podivoval proč vyrážíme tak brzy. Nastoleným tempem to ale vypadalo, že nevyrazíme před západem slunka.
+Vlak na Masaryčce měl patnáct minut zpoždění. Předchozího veřera se Vilém podivoval proč vyrážíme tak brzy. Nastoleným tempem to ale vypadalo, že nevyrazíme před západem slunka.<br>
 
 <a href="../images/2022_september/6_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/6_1.jpg"></a>
 
-Opravdu měla prázdná obě kola. Naše pumpičky jsou sice neskladné ale funkční a tak jsme po chvilce byli s to vyrazit. Chtěl jsem pumpičku vrátit do Kyjí. Převážně proto, že se mi s ní nechtělo tahat, ale Marťa si jí radši pumpičku vzala k sobě co kdyby.
+Opravdu měla prázdná obě kola. Naše pumpičky jsou sice neskladné ale funkční a tak jsme po chvilce byli s to vyrazit. Chtěl jsem pumpičku vrátit do Kyjí. Převážně proto, že se mi s ní nechtělo tahat, ale Marťa si jí radši pumpičku vzala k sobě co kdyby.<br>
 
 <a href="../images/2022_september/6_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/6_2.jpg"></a>
 
 Štve mě, že na našich cestách si nikdy neudělám fotku nás dvou nebo aspoň jí. Byly by to hezké připomínky fajn dní. Nějak na to ale nikdy nepřijde čas. Jedeme, povídáme si a najednou jsme doma.<br>
 Tentokrát by ale z fotek stejně moc nebylo. Za hostivaří k přehradě už jsme jeli úplnou tmou. Pod Toulcovým dvorem a podél Botiče už to bylo docela creepy a kdyby s námi jela Celine, pravděpodobně by nás oba zatratila.<br>
-Vyjma fotek, které nefotím si taky nejsem úplně s to vybait o čem se na takových výletech bavíme. Je to zvláštní, mluvíme pořád a zřejmě toho někam do podvědomí ukládám spoustu, protože už se nejednou stalo, že mi něco chtěla vyprávět a já jí zarazil s tím, že už mi to říkala, ale zesumírovat o čem jsme se bavili bezporstředně po tom se vidíme je docela fuška. Nosnými tématy tohoto výletu nicméně byli Cedrik, Celine, její kolegové a ukrajinky co nosí flitry.
-
-[Trasa](https://www.strava.com/activities/7766006132)
-
+Vyjma fotek, které nefotím si taky nejsem úplně s to vybait o čem se na takových výletech bavíme. Je to zvláštní, mluvíme pořád a zřejmě toho někam do podvědomí ukládám spoustu, protože už se nejednou stalo, že mi něco chtěla vyprávět a já jí zarazil s tím, že už mi to říkala, ale zesumírovat o čem jsme se bavili bezporstředně po tom se vidíme je docela fuška. Nosnými tématy tohoto výletu nicméně byli Cedrik, Celine, její kolegové a ukrajinky co nosí flitry.<br>
+[Trasa](https://www.strava.com/activities/7766006132)<br>
 Celine spala u Marťi na karimatce. A protože tam plánovala spát až do Října, zastavili jsme se u mně a vyzvedli mojí plonkovou matraci, se kterou jsem jí pomohl k ní.<br>
-Jarda napsal, ať se zastavím na burčák s čímž jsem nadšeně souhlasil. Přímo od Marťi jsem tak zamířil na Sámovku, kde jsme popíjeli, hejtovali nový pořad V Barandov "Agáta Jaromíra Soukupa". A protože Sára začala chodit na lekce angličtiny, dali jsme si anglické lingvistické okénko se slovy jako: zasnoubení, mazaný a ze složitějšího soudku jmény červů.
+Jarda napsal, ať se zastavím na burčák s čímž jsem nadšeně souhlasil. Přímo od Marťi jsem tak zamířil na Sámovku, kde jsme popíjeli, hejtovali nový pořad V Barandov "Agáta Jaromíra Soukupa". A protože Sára začala chodit na lekce angličtiny, dali jsme si anglické lingvistické okénko se slovy jako: zasnoubení, mazaný a ze složitějšího soudku jmény červů.<br>
 
 ### 7.9. Mše a klubovna
 
-Asi jsem to nachlazení o víkendu nevyležel dostatečně. Cestou do Karlína jsem na kole zase kašlal. Možná to bylo kvůli kouři, který jsem zahlédl nad Nuslemi, ale spíš to bylo to nachlazení.
+Asi jsem to nachlazení o víkendu nevyležel dostatečně. Cestou do Karlína jsem na kole zase kašlal. Možná to bylo kvůli kouři, který jsem zahlédl nad Nuslemi, ale spíš to bylo to nachlazení.<br>
 
 <a href="../images/2022_september/7_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/7_1.jpg"></a>
 
@@ -114,31 +113,31 @@ Konečně ale můžu říct, že jsem se posunul v řešení EBMC krize. Úspě�
 Jednu z opravených desek jsem vložil do integračního kola a vyrazil za mamkou na Hrad. Chtěla totiž doprovodit na nějaký koncert a už bylo na čase dát věci s ní do pořádku.<br>
 Policajti hlídající hrad si ohradili cyklostojan plůtkem. Naštěstí to nebyli kokoti a když jsem se jich zeptal, nechali mě zaparkovat. Když jsem kolo zamykal, přijela máma tramvají. A s ní asi tak milion lidí, kteří utvořili frontu před sekuritkou. Máma se musela nacpat dopředu i přes to, že musela vidět, že já to nestihnu a tak na mě stejně bude muset čekat na druhé straně.<br>
 Televize na nádvoří točila nějaký Mynářův proslov. Z prospektu o koncertě jsem vykoumal, kudy hradem jít a zjistil, že na mě máma ušila boudu. Koncert nebyl koncert ale katolická mše do keré měl občas někdo fouknout na trumpetu.<br>
-Moje kapacita zvládání býti uvnitř kostelů už byla vyčerpaná v dubnu a tenhle "koncert" jí přešvihl na několik let dopředu. Párkrát jsem měl problém nerozesmát se. Katolíci jsou ukázkoví fanatici.
+Moje kapacita zvládání býti uvnitř kostelů už byla vyčerpaná v dubnu a tenhle "koncert" jí přešvihl na několik let dopředu. Párkrát jsem měl problém nerozesmát se. Katolíci jsou ukázkoví fanatici.<br>
 
 <a href="../images/2022_september/7_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/7_2.jpg"></a>
 
 Trumpetista asi uměl hrát, ale výběr skladeb byl teda otřesný. Doprovázející varhanista měl ještě větší problémy držet rytmus než já a z nějakého tajemného důodu mu nikdo neotáčel noty, takže na konci stránky si vždy zpomalil aby na otočenéní listu měl čas. Co do politky to ale byla plodná návštěva Hradu. Vzadu u stěny stál celou dobu Ovčáček.<br>
-Po koncertě jsme šli do klubovny. Vzít mamku na místo, ke jsem během studíí strávil mraky hodin byl zajímavý zážitek. Páter stál 37. V Dejvicích byl svět ještě v pořádku.
+Po koncertě jsme šli do klubovny. Vzít mamku na místo, ke jsem během studíí strávil mraky hodin byl zajímavý zážitek. Páter stál 37. V Dejvicích byl svět ještě v pořádku.<br>
 
 <a href="../images/2022_september/7_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/7_3.jpg"></a>
+
 
 ### 8.9 - 10.9. Znova ležím a potím se
 
 Vzal jsem si volno a rozhodl se to odcházející a vracející se nachlazení vyležet pořádně. Čtyři dni v posteli musí zabrat.<br>
-V Lidlu jsem nakoupil ovoce, zázvor, česnek, zeleninu v krabici za 25 a ještě 5 kilo brambor.
+V Lidlu jsem nakoupil ovoce, zázvor, česnek, zeleninu v krabici za 25 a ještě 5 kilo brambor.<br>
 
 ### 11.9. Do ikey
 
 Na to, že jsem se poslední tři dny válel v posteli jsem toho do deníku moc nenapsal. Rozhodl jsem se, že na to půjdu jako ve skandinávii. S obedem v ikey a nekonečnou kávou, která mi dodá psací drive. Na freebiku s úpravou zdroje, která mě mohla kdekoliv nechat bez podpory motoru jsem vyrazil na čerňák s laptopem v batůžku na zádech.<br>
-Během psaní jsem vypil asi pět hrníčků káva a cítil se jako po lajně, díky čemuž jsem dopsal zážitky záříjových dní.
-
+Během psaní jsem vypil asi pět hrníčků káva a cítil se jako po lajně, díky čemuž jsem dopsal zážitky záříjových dní.<br>
 
 ### 12.9. Po dvou měsících běhat
 
 Nemohl jsem spát. Celou noc jsem se budil a po páté už jsem nezabral. Spánková hygiena začíná po probuzení. Výstřel kortizolu po ránu znamená hromadu melatoninu navečer. Rozhodl jsem se tedy pro běhání.<br>
 Naposledy jsem běhal v Helsinkách. Necelé 4 kilometry a to bylo tohoto roku všechno. Řekl jsem sitedy, že to nesmím přepálit.<br>
-Vyběhl jsem do Nuslí na okruh kolem kopce s podivným názvem Kapitol. Už několikrát jsem se tam chtěl podívat.
+Vyběhl jsem do Nuslí na okruh kolem kopce s podivným názvem Kapitol. Už několikrát jsem se tam chtěl podívat.<br>
 
 <a href="../images/2022_september/12_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/12_1.jpg"></a>
 
@@ -146,7 +145,7 @@ Je odtud obstojný výhled na Vinohrady. Dál jsem zadem obkroužil nádraží a
 V Karlíně jsem řešil reklamaci od Francouzů, kterou tam zanechal Vojta předtím než odjel do Chorvatska. Byla to nudná práce. Dál jsem se probíral nějakou chaotickou bednou z BPL a objevil, že nedávali desky do kol, protože už byly přiřazené kolům v Londýně.<br>
 Rozhodl jsem se tak naučit tester rozpojit vazbu mezi testovanou deskou a jejím rodičem. Už dlouho jsem neprogramoval v céčku. Trvalo mi to déle, než by se mi líbilo, ale s výsledkem jsem byl skoro spokojený. Nestihl jsem akorát dopsat testy, takže jsem měl alespoň nějakou zajímavou činnost na další den v Karlíně.<br>
 Cestou domů jsem na Vidičkově píchl. Už tak jsem jel domů pozdě a půl cesty jsem šel pěšky. Zastavil jsem se v Lidu a když jsem byl na kase, zavírali.<br>
-Doma už jsem jen něco snědl a koukl na díl House.
+Doma už jsem jen něco snědl a koukl na díl House.<br>
 
 ### 13.9. Nové pláště
 
@@ -154,28 +153,28 @@ Trik s kortizolem fungoval. Spaní jsem měl lepší. Zato nohy mi zdřevěněly
 Lepení po ránu je teda ojeb. Fakt se mi to nechtělo dělat. Nemohl jsem najít lepidlo ani fleky. Jediné štěstí bylo, že jsem měl doma pořád Kyjskou pumpičku. Rozhodl jsem se, že pláště už to mají za sebou. Škoda. Stály asi šestnáct set a 9 měsíců po koupi jsou na odpis. Taky jsem na nich ale ujel kolem čtyř tisíc kilometrů.<br>
 Dekáč prodával nějaké červené Micheliny za 850 dvě. Objednal jsem je s plánem vyzvednout je na obědě.<br>
 Při jízdě byla stehna docela v poho, ale jak jsem sestoupil z kola, skoro jsem se sesunul na zem. Blbý běhání. 8 kilometrů v roce 2022! Kam se poděly moje ambice na 520 kilometrů za rok. Inu bude třeba do toho zase naskočit.<br>
-Řídítka, oběd s Ivanem v Globusu a duše z dekáče. Do čtyř jsem dělal s Ríšou a pak jsem se pustil do přezouvání. Ta nižší cenová byla znát. Ale co člověk nadělá, inflace vysoká a červený jsou!
+Řídítka, oběd s Ivanem v Globusu a duše z dekáče. Do čtyř jsem dělal s Ríšou a pak jsem se pustil do přezouvání. Ta nižší cenová byla znát. Ale co člověk nadělá, inflace vysoká a červený jsou!<br>
 
 <a href="../images/2022_september/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/13_1.jpg"></a>
 
-Na tiskařské byla moc hezká zlatá hodinka. Fotkou se mi ale nepodařilo zachytit esenci toho momentu.
+Na tiskařské byla moc hezká zlatá hodinka. Fotkou se mi ale nepodařilo zachytit esenci toho momentu.<br>
 
 ### 14.9. Počasí jde do borovice
 
 Jak by řekli ve Finsku. U nás spíš do kopru. At už jedno či druhé, prostě chcalo.<br>
 pomaloučku po mokré cestě za cyklistkou na esce<br>
-kyje
+kyje<br>
 
 ### 15.9. Rutina
 
 nuda v práci<br>
 v září jsem nudnej člověk<br>
-rutina
+rutina<br>
 
 ### 16.9. Stárnu
 
 kyje<br>
-jedno na plechárně
+jedno na plechárně<br>
 
 <a href="../images/2022_september/16_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/16_1.jpg"></a>
 
@@ -184,37 +183,37 @@ domů<br>
 procházka po praze<br>
 už vůbec nechodím po hospodách<br>
 václavák je kamenné peklo<br>
-tramvají zpátky
+tramvají zpátky<br>
 
 ### 17.9. Květiny a pivo
 
 Květináč v obýváku byl draceně už opravdu malý. Dlouho jsem Rébě nechtěl dát za pravdu, ale bylo to tak. Rozhodl jsem se to změnit a dojít do OBI pro větší. A pro konec a pro pár dalších květináčů na rýmovníky, monsteru, aloe a tak. A substrát. Inu zpátky jsem rozhodně nemohl jít pěšky. Naštěstí OBI je přímo na roztylech a metro nebo autobusy staví co by kamenem dohodil.<br>
 V noci pršelo. Měl jsem pocit, že se mraky vypršely, ale po asi dvou kilometrech chůze mě chytila přeháňka. A bývalé Michelské pekárny další. A pak další. Natekla mi voda do levé boty, pomlátili mě kroupy a kabát vodou ztěžknul. Ale došel jsem tam.<br>
-A po asi hodině výběru obyčejných terakotových květináčů tam nechal bez čtyř korun litr.
+A po asi hodině výběru obyčejných terakotových květináčů tam nechal bez čtyř korun litr.<br>
 
 <a href="../images/2022_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_1.jpg"></a>
 
 Zpátky jsem jel metrem a autobusem (který jsem dobíhal) z Pražáku. Taška s nákuep se pronesla. Terakota váží svoje a to jsem cestou ještě nabral štěrk na drenáž.<br>
-Květiny jsem výtahem svezl dolů a dal se do přesazování. Dracenu mi několikrát shodil vítr a bál jsem se, že dostala sodu. Substrát jsem použil všechen a při cestě zpátky nahoru jsem si asi trochu natáhl záda, protože s novým květináčem dracena vážila tak čtyřicet kilo.
+Květiny jsem výtahem svezl dolů a dal se do přesazování. Dracenu mi několikrát shodil vítr a bál jsem se, že dostala sodu. Substrát jsem použil všechen a při cestě zpátky nahoru jsem si asi trochu natáhl záda, protože s novým květináčem dracena vážila tak čtyřicet kilo.<br>
 
 <a href="../images/2022_september/17_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_2.jpg"></a>
 
 Kepka na mě shora řval, ať neblokuju výtah. Dopo se totiž nahoru někdo stěhoval a těch pět minut, kdy jsem výtah využíval já, mu už asi přišlo přes čáru. zařval jsem na něj zpátky, ať počká až květiny vyložím u sebe ve třetím a neřve. Sousedské vztahy ma jedničku!<br>
-Sotva jsem kytky dozalil, Ondra zvonil dole. Vyrazili jsme na pivo do vzletu. Kdybychom přišli jen o trochu dříve, viděli bychom program Zažít Město Jinak, ale nemůžeš mít všechno. Dali jsme dvě venku a pak se přesunuli dovnitř. Tam zrovna začínal koncert dvou Ukrajinců. Zpěvačky a kytaristy. Byli dobří, mám nahrávku.
+Sotva jsem kytky dozalil, Ondra zvonil dole. Vyrazili jsme na pivo do vzletu. Kdybychom přišli jen o trochu dříve, viděli bychom program Zažít Město Jinak, ale nemůžeš mít všechno. Dali jsme dvě venku a pak se přesunuli dovnitř. Tam zrovna začínal koncert dvou Ukrajinců. Zpěvačky a kytaristy. Byli dobří, mám nahrávku.<br>
 
 <a href="../images/2022_september/17_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/17_3.jpg"></a>
 
-Po deváté Vzlet zavíral. Navrhnul jsem z nostalgie Suterén. Ondra vyjel napřed uklidit jednokolku a já jsem vyrazil pěšky přes Jana Masaryka. Byl tam dřív. Bylo tam strašně nedýchatelno. Ale buď se to po chvíli zlepšilo, nebo jsem si zvykl. Protože z díry u stropu ale mírně foukal chladnější vzduch kloním se k tomu, že šlo o obojí. Dali jsme ještě dvě pivka. Suterén mi chyběl. Pomalu nás tam ale nahrazuje nová generace. Stejně jako v Klubovně.
+Po deváté Vzlet zavíral. Navrhnul jsem z nostalgie Suterén. Ondra vyjel napřed uklidit jednokolku a já jsem vyrazil pěšky přes Jana Masaryka. Byl tam dřív. Bylo tam strašně nedýchatelno. Ale buď se to po chvíli zlepšilo, nebo jsem si zvykl. Protože z díry u stropu ale mírně foukal chladnější vzduch kloním se k tomu, že šlo o obojí. Dali jsme ještě dvě pivka. Suterén mi chyběl. Pomalu nás tam ale nahrazuje nová generace. Stejně jako v Klubovně.<br>
 
 ### 18.9. Sport jen tak pro radost
 
-Už jsem starší. Pět piv po týdnu nepití po ránu jsem cítil. Rozhodl jsem se kocovinu vyhnat sportem. Na kole jsem poslední dobou jezdíl pouze jako na dopravním prostředku. Už dlouho jsem nejel jen protože rádvv jezdím na kole. Počasí tomu sice nepřálo, ale vzal jsem si svetřík a vyrazil na cestu.
+Už jsem starší. Pět piv po týdnu nepití po ránu jsem cítil. Rozhodl jsem se kocovinu vyhnat sportem. Na kole jsem poslední dobou jezdíl pouze jako na dopravním prostředku. Už dlouho jsem nejel jen protože rádvv jezdím na kole. Počasí tomu sice nepřálo, ale vzal jsem si svetřík a vyrazil na cestu.<br>
 
 <a href="../images/2022_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/18_1.jpg"></a>
 
 Můj plán bylo vydřít si kopce do Dolních Břežan a užít si sjezd roklí. Spálil jsem se ale, protože na začátku rokle chyběl most a cesta byla zavřená. Musel jsem zvolit náhradní cestu přes točnou, která byla ještě výš.<br>
 Sjezd k řece ale stál za to. Pomalejší a klikatější než z Břežan, ale možná o to příjemnější.<br>
-V Radotíně už měli hotovou lávku. Nostalgicky jsem si tam zavzpomínal na to, že naposledy jsme tudy jeli s Marťou a místo mostu měli pouze brod.
+V Radotíně už měli hotovou lávku. Nostalgicky jsem si tam zavzpomínal na to, že naposledy jsme tudy jeli s Marťou a místo mostu měli pouze brod.<br>
 
 <a href="../images/2022_september/18_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/18_2.jpg"></a>
 
@@ -222,11 +221,11 @@ Zradám ale nebyl konec. Cyklostezka pod Baranďákem byla zavřená. Asi mi to 
 Cítil jsem, že mi dochází krevní cukr. Cukr.. jelo mi hlavou. Cukr je v kole. A kolu dávají v Mekáči k burgeru. Šlapaje, nedokázal jsem uhasit chuť na fastfood jinak než zastávkou v McDonaldu. Za sto pade to bylo chudé jídlo. Chvíli jsem googlil, zda Big Mac nebýval větší a internet mi hypotézu potvrdil.<br>
 Doma jsem tak ještě snědl spoustu chlebu s pomazánkou.<br>
 Čtyřicet kilometrů jsem ujel.. triatlonovou vzdálenost. Kdybych uběhl deset kilometrů a uplaval kilometr a půl, měl bych den s olympijským triatlonem. To znělo lákavě.<br>
-Nazul jsem boty a vyběhl směrem Hamerský rybník. Těch deset kilometrů jsem uběhl. Spíš ale vůli než fyzičkou. Věděl jsem, že budu trpět a že plavání je ze hry. I tak to ale byl sportovní den, ne že ne.
+Nazul jsem boty a vyběhl směrem Hamerský rybník. Těch deset kilometrů jsem uběhl. Spíš ale vůli než fyzičkou. Věděl jsem, že budu trpět a že plavání je ze hry. I tak to ale byl sportovní den, ne že ne.<br>
 
 ### 19.9. Pro nový řidičák
 
-Když člověku vyprší platnost řidičáku, jak se dostane na registr řidičů pro nový? Autem asi těžko. Městskou by to šlo dobře, ale kolo se úplně nabízí. Jakožto [@jsem_hater](https://twitter.com/jsem_hater/status/1571876508385386496) jsem cítil povinnost napsat o faktu, že před budovou registru není jediný cyklostojan. Naprosto promarněná příležitost. Ostatně přilehlé kongresové centrum na tom není o mnoho lépe. Na asi 9000 míst uvnitř připadá jeden cyklostojan pro asi pět kol.
+Když člověku vyprší platnost řidičáku, jak se dostane na registr řidičů pro nový? Autem asi těžko. Městskou by to šlo dobře, ale kolo se úplně nabízí. Jakožto [@jsem_hater](https://twitter.com/jsem_hater/status/1571876508385386496) jsem cítil povinnost napsat o faktu, že před budovou registru není jediný cyklostojan. Naprosto promarněná příležitost. Ostatně přilehlé kongresové centrum na tom není o mnoho lépe. Na asi 9000 míst uvnitř připadá jeden cyklostojan pro asi pět kol.<br>
 
 ### 20.9. Neúspěšný výběr bot
 
@@ -238,67 +237,66 @@ z kyjí<br>
 defekt<br>
 oprava<br>
 do edenu<br>
-nemají
+nemají<br>
 
 ### 21.9. Co den to defekt?
 
 Při odjezdu jsem objevil, že přední duše je prázdná. Včera defekt, dneska defekt.. Michelin pláště mě fakt rozezlily. Navíc přední byl opravdu menší než zadní, jak se mi zdálo když jsem je nasazoval poprvé. Půl hodina zabitá opravou. O tři bloky dál plášť vyskočil z ráfku, takže další oprava. Navíc jsem si všiml, že špalky už jsou skoro pryč. Proto jsem předchozího dne skoro nedobrzdil na Broumarské.<br>
-Plán koupit boty jsem tak zase posunul někam do budoucna. Stěží jsem večer stihl nakoupit, uvařit a vyprat.
+Plán koupit boty jsem tak zase posunul někam do budoucna. Stěží jsem večer stihl nakoupit, uvařit a vyprat.<br>
 
 ### 22.9. Do Karlína kvůli Vojtovi..
 
-..úplně zbytečně. Spolu jsme kromě oběda neřešili vůbec nic. Po dovolené v Chorvatsku se mu nakupily emaily a přípravy na výjezd jsme tak odsunuli na další den.
-
+..úplně zbytečně. Spolu jsme kromě oběda neřešili vůbec nic. Po dovolené v Chorvatsku se mu nakupily emaily a přípravy na výjezd jsme tak odsunuli na další den.<br>
 Konečně jsem se prokousal opravami, Ale monča přivezla další z helsinek a tajemná kravice "Chybující desky - Předat Adamovi", ležela u techniků už opravdu dlouho bez tknutí. Založil jsem reklamaci z Helsinek, aby se mohl Vláďa další den trápit s platebními terminály a napsal si metody do svého API udělátka pro ERP. Webová aplikace mi přišla docela nedotažená. Vymýšlel jsem jak to zlepšit a reportoval bugy.<br>
-Po práci jsem jel plavat do Podolí. Dal jsem 400 metrů kraulem v kuse. Pak 300 a 300. Vytrvalost se začínala vyplácet.
+Po práci jsem jel plavat do Podolí. Dal jsem 400 metrů kraulem v kuse. Pak 300 a 300. Vytrvalost se začínala vyplácet.<br>
 
 ### 23.9. Do Velryby
 
-V práci mi zatuhla modrá barva na jištění šroubů. Ředidlem nešla rozředit, ale aceton jí pomohl. Řeďení ale bylo medvědí službou. Tekutá barva při manipulaci vycákla z lahvičky a zničila mi kalhoty. Chvíli jsem flek čistil acetonem, ale úplně sundat nešel. Holt jsou teď už pouze pracovní.
+V práci mi zatuhla modrá barva na jištění šroubů. Ředidlem nešla rozředit, ale aceton jí pomohl. Řeďení ale bylo medvědí službou. Tekutá barva při manipulaci vycákla z lahvičky a zničila mi kalhoty. Chvíli jsem flek čistil acetonem, ale úplně sundat nešel. Holt jsou teď už pouze pracovní.<br>
 
 <a href="../images/2022_september/23_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_1.jpg"></a>
 
 Jarda se Sárou se vrátili s Madeiry a svolali pivo na večer do kavárny Velryba. AdHoc akce bývají úspěšnější než plánované srazy. Mělo nás být přes deset a dokonce neplánovaně dorazil David, který šel z práce za rohem. Trochu v marném rozpoložení, neb ve fireballu končil. Startapu, kterém založil. Apple hadr!<br>
 Já vyrazil na kole v kabátu se zámkem za páskem. Okoukal jsem to od hipstera na zelené silničce a musím říct, že je to dobrý trik. Na Karláku jsem potkal Sáru s Jardou. Jarda byl vymóděný jak do divadla a Sára to ihned komentovala tím, že kvůli němu musela převléct aby to nebylo trapný.<br>
-Kolo jsem nechal u značky a radši si ho vyfotil, kdybych ho viděl naposled. Ve švédský zámek mám sice víru, ale ulice to byla frekventovaná.
+Kolo jsem nechal u značky a radši si ho vyfotil, kdybych ho viděl naposled. Ve švédský zámek mám sice víru, ale ulice to byla frekventovaná.<br>
 
 <a href="../images/2022_september/23_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_2.jpg"></a>
 
-Nejedl jsem od jedenácti. Jídlo měli docela napálené, ale burger stál za to. Halloumi na jedničku, cibulka v těstíčku a výborná majonéza v ještě lepší bulce. (Teď když to píšu, dal bych si hned znova!)
+Nejedl jsem od jedenácti. Jídlo měli docela napálené, ale burger stál za to. Halloumi na jedničku, cibulka v těstíčku a výborná majonéza v ještě lepší bulce. (Teď když to píšu, dal bych si hned znova!)<br>
 
 <a href="../images/2022_september/23_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_3.jpg"></a>
 
 Sára vyprávěla o Madeiře. Hodně komicky. Cestovali na půjčené motorce skrz mrak a viděli docela hovno. Na čechy odmítali zaplatit za útulnu a spali venku a s dalšími čechy chodili i tam, kam se zástupci jiných kultur neodvážili.<br>
-Později se přidala Kronešová s Kohym a pak i Réba.
+Později se přidala Kronešová s Kohym a pak i Réba.<br>
 
 <a href="../images/2022_september/23_4.jpg" target="_blank"><img src="../images/thumbnails/2022_september/23_4.jpg"></a>
 
-Když Velryba skončila, pokračovali jsme do Popa. Na to, že jsem si deset dní zpátky stěžoval, že už nechodím do hospod, jich v posledních dnech navštívil docela dost.
+Když Velryba skončila, pokračovali jsme do Popa. Na to, že jsem si deset dní zpátky stěžoval, že už nechodím do hospod, jich v posledních dnech navštívil docela dost.<br>
 
 ### 24.9. Nové boty a pivo na střeše
 
 Vstát v sobotu dřív než v deset se mi nedaří. Spánkový fašista sice říká, že spánek se nedá nahnat, mě co do hodin asi nechybí, ale vyhřátá postel o víkendu je vyhřátá postel.<br>
 Plán zněl koupit boty! Moje Originals Adieas to dali pár dní přes dva roky. 741 dní konkrétně. Stály 1240 korun takže 1.67 koruny na den. To považuju za dobrý výkon. Tentokrát jsem se ale rozhodl firmu Adiho Dasslera opustit a vyzkoušet boty jeho bratra Rudolfa. Puma Ever Cord totiž byly z manšestráku a to chceš!<br>
 Nemohl jsem se ale rozhodnout zda modré nebo šedé. Jen na čerňáku měli obě varianty. Protože tam jezdím pořád, zkusil jsem alespoň jinou trasu kolem Tesca na skalce. Cesta vedla podél ikei a oběd v ikei já nikdy nevynechám. Měli bezmasé koule a musím říct, že jsou prostě lepší než masové.<br>
-Kolo jsem nechal dole v ikei a pěšky šel na nákup bot. Pán mi tmavé musel přinést někde ze skladu, ale zamiloval jsem se do nich hned. Světlý by mě prostě nezvládly.
+Kolo jsem nechal dole v ikei a pěšky šel na nákup bot. Pán mi tmavé musel přinést někde ze skladu, ale zamiloval jsem se do nich hned. Světlý by mě prostě nezvládly.<br>
 
 <a href="../images/2022_september/24_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/24_1.jpg"></a>
 
-Zastavil jsem se ještě v dekáči pro nové cyklorukavice. Staré boty jsem jim tam nechal v koši.
+Zastavil jsem se ještě v dekáči pro nové cyklorukavice. Staré boty jsem jim tam nechal v koši.<br>
 
 <a href="../images/2022_september/24_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/24_2.jpg"></a>
 
-Napadlo mě, že když jsem Toma nechytil týden zptky, mohl by mít čas tentokrát. Prý zrovna umyl okna a měl čas sednout si s vínem a pivkem na terasu. Dole ve večerce jsem tedy koupil dva lahváče Bráníku a společně jsme se vydali nahoru. Povídali jsme si o tramvajích, autech, kolech a politice. Až zima po západu slunka nás zahnala dovnitř, kde jsme ještě kecali a to se mi trochu vymstilo, neb cestou zpátky jsem solidně vymrzl.
+Napadlo mě, že když jsem Toma nechytil týden zptky, mohl by mít čas tentokrát. Prý zrovna umyl okna a měl čas sednout si s vínem a pivkem na terasu. Dole ve večerce jsem tedy koupil dva lahváče Bráníku a společně jsme se vydali nahoru. Povídali jsme si o tramvajích, autech, kolech a politice. Až zima po západu slunka nás zahnala dovnitř, kde jsme ještě kecali a to se mi trochu vymstilo, neb cestou zpátky jsem solidně vymrzl.<br>
 
 ### 25.9. Plavíní a klid
 
 Nemohl jsem spát. Budil jsem se s pocitem těžkých rukou a nohou. Možná za to mohla noční cyklojízda. Ale taky za to možná může nějaký long covid z toho nachalazení co se o mne pokouší celé září.<br>
 Po poledni jsem jel plavat. Rozhodl jsem se svůj kilometr rozdělit na tři úseky po 333 metrech ve 33 metrovém bazénu. Nějak mi ale selhal mozek, protože jsem si napočítal, že musím uplavat 3x 11 bazénů a tak jsem skončil s 1100 metry. Ale šlo mi to. Malý bazén nehřejí a už měl 19 stupňů. Říkal jsem si, že nesmím polevit v otužování a chodit pravidelně abych nezemřel šokem.<br>
-Odpo jsem si šel sednout do Grébovky a meditovat. Meditace je asi přehnaný termín, ale sezení, dechové cvičení a vědomé vyklízení bordelu z hlavy rozhodně probíhalo.
+Odpo jsem si šel sednout do Grébovky a meditovat. Meditace je asi přehnaný termín, ale sezení, dechové cvičení a vědomé vyklízení bordelu z hlavy rozhodně probíhalo.<br>
 
 <a href="../images/2022_september/25_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/25_1.jpg"></a>
 
-Pak jsem ještě obešel grébovku abych měl dost kroků a večer uvařil česnečku a koukal na House.
+Pak jsem ještě obešel grébovku abych měl dost kroků a večer uvařil česnečku a koukal na House.<br>
 
 ### 26.9. Do La Rochelle konečně jinak než po dálnici
 
@@ -306,21 +304,24 @@ Už zase jsem se budil. Cesta do La Rochelle pro mě rozhodně nebyla bezprecede
 Sbalil jsem se jen do batůžku. Tahat krosnu se mi nechtělo a kufr jsem si ještě nepořídil a nevím, jestlu to někdy udělám. Vypil jsem mléko, které by se zkazilo, zalil kytky, vypnul topení a vytáhl spotřebiče ze zásuvky. Bazalka stejně asi uschne, ale kvůli ní se mi nechtělo řešit zalévání někým kdo bydlí poblíž.<br>
 Odlet byl po dvanácté, ale sedět doma nemělo smysl a tak jsem vyrazil na tramvaj. Cesta byla naprosto rutiiní.<br>
 Vystál jsem si frontu, vyzvedl palubenku a vydal se na sekuritku, odkud mě poprvé v životě vyhodili. Vadila jim vrtačka. Tím, že jsem měl asi hodinu a půl k dobru jsem stihl vystát frontu na odbavení ještě jednou před tím, než se objevila Štěpánka a posléze Vojta. S Vojtou jsme ještě zašli do KFC. Tedy on si dal KFC a já si ještě koupil v Bille sendvič.<br>
-Napodruhé sekuritkou bez potíží. Letadlo mě ale zklamalo. Seděl jsem v poslední řadě u okéneka ale běda, okénko tam nebylo. Vedle mě seděl starší pár, pánovi smrdělo z pusy a paní do mě pořád vrážela loktem. Rozečetl jsem knížku [4000 weeks](https://www.goodreads.com/book/show/54785515-four-thousand-weeks), která říká, že právě tolik týdnů trvá jeden lidský život a čím efektivněji se ho snažíme žít, tím rychleji nás semele.
+Napodruhé sekuritkou bez potíží. Letadlo mě ale zklamalo. Seděl jsem v poslední řadě u okéneka ale běda, okénko tam nebylo. Vedle mě seděl starší pár, pánovi smrdělo z pusy a paní do mě pořád vrážela loktem. Rozečetl jsem knížku [4000 weeks](https://www.goodreads.com/book/show/54785515-four-thousand-weeks), která říká, že právě tolik týdnů trvá jeden lidský život a čím efektivněji se ho snažíme žít, tím rychleji nás semele.<br>
 
 <a href="../images/2022_september/26_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_1.jpg"></a>
 
-Ve Francii pršelo. Po chvilkovém boji s automatem jsme koupili lístky na vlak do centra a vydali se na přeplněný vlak B12. V Paříži už bylo počasí o trochu lepší. Asi kilometr a půl jsme šli čtvrcovou sítí činžáků a po chvíli čekání nastoupili na TGV. Sice jsme seděli pozpátku, ale byl to frkot.
+Ve Francii pršelo. Po chvilkovém boji s automatem jsme koupili lístky na vlak do centra a vydali se na přeplněný vlak B12. V Paříži už bylo počasí o trochu lepší. Asi kilometr a půl jsme šli čtvrcovou sítí činžáků a po chvíli čekání nastoupili na TGV. Sice jsme seděli pozpátku, ale byl to frkot.<br>
 
 <a href="../images/2022_september/26_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_2.jpg"></a>
 
-I přes to, že jsme jeli skoro 300 km/h, trvala cesta skoro tři hodiny. V La Rochelle jsme byly po setmění. Došli jsme na naše ubytování, Štěpánka to domluvila a vyrazila k sobě. Poprvé jsem viděl samsung the frame. Je to stylový, ale ve tmě to překvapivě hodně svítí. Byt byl typické airb'n'b, splácanina malých místonstí rozdělených sádrošem. Ale bylo v něm ticho, teplo a měl kuchyňku. Kousek od Plácu Vedrdun.. nebylo si na co stěžovat.
+I přes to, že jsme jeli skoro 300 km/h, trvala cesta skoro tři hodiny. V La Rochelle jsme byly po setmění. Došli jsme na naše ubytování, Štěpánka to domluvila a vyrazila k sobě. Poprvé jsem viděl samsung the frame. Je to stylový, ale ve tmě to překvapivě hodně svítí. Byt byl typické airb'n'b, splácanina malých místonstí rozdělených sádrošem. Ale bylo v něm ticho, teplo a měl kuchyňku. Kousek od Plácu Vedrdun.. nebylo si na co stěžovat.<br>
 
 <a href="../images/2022_september/26_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_3.jpg"></a>
 
+
 <a href="../images/2022_september/26_4.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_4.jpg"></a>
 
+
 <a href="../images/2022_september/26_5.jpg" target="_blank"><img src="../images/thumbnails/2022_september/26_5.jpg"></a>
+
 
 ### 27.9. Práce začíná
 
@@ -331,7 +332,7 @@ snídaně na office de tourisme<br>
 schůze - mají věci špatně nastavené, řeší píčoviny jako překlady velo mechanique<br>
 na oběd do šafránu<br>
 zpátky do crnm<br>
-s anthonym po stanicích -
+s anthonym po stanicích -<br>
 
 ### 28.9. Tlačítka v dešti
 
@@ -340,13 +341,13 @@ na technoforum<br>
 první tlačítko jsem dojebal<br>
 zbytek dobrý<br>
 kafe z mekáče<br>
-oprava s technikem
+oprava s technikem<br>
 
 <a href="../images/2022_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/28_1.jpg"></a>
 
 do CDM<br>
 na vieux port<br>
-prší
+prší<br>
 
 <a href="../images/2022_september/28_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/28_2.jpg"></a>
 
@@ -354,21 +355,21 @@ pro baterii<br>
 vojta<br>
 na fac de science<br>
 do carefourru<br>
-lasagne v troubě co se musí přepnout z myčky
-příprava mapy na zítřek
+lasagne v troubě co se musí přepnout z myčky<br>
+příprava mapy na zítřek<br>
 
 ### 29.9. Simkarty a Itálie
 
 počasí se vylepšilo dle předpovědi<br>
 dělíme se<br>
 do Lagordu<br>
-fief rose, liutenant bernier, aristide briand, marcel de flandre, prefectura zbytečně, vieux port, maison de la mobilité, kafe doma, renesance, aresnal 2, office de tourisme
+fief rose, liutenant bernier, aristide briand, marcel de flandre, prefectura zbytečně, vieux port, maison de la mobilité, kafe doma, renesance, aresnal 2, office de tourisme<br>
 
 <a href="../images/2022_september/29_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/29_1.jpg"></a>
 
 na pláž<br>
 displej<br>
-bageta
+bageta<br>
 
 <a href="../images/2022_september/29_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/29_2.jpg"></a>
 
@@ -377,7 +378,7 @@ do cdm<br>
 kolo co nefunguje<br>
 na večeři do města<br>
 itálie<br>
-o cestování a kraví hlavě
+o cestování a kraví hlavě<br>
 
 ### 30.9. Opět na Il de Ré a na večeři s Emou
 
@@ -390,17 +391,17 @@ oprava meoprava<br>
 technoforum 2<br>
 na clos margat zadem<br>
 renesance, komisariat, eglise de la genete<br>
-na ostrov, kola z laleau
+na ostrov, kola z laleau<br>
 
 <a href="../images/2022_september/30_1.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_1.jpg"></a>
 
-oběd - steak a burger a hromada hranolků
+oběd - steak a burger a hromada hranolků<br>
 
 <a href="../images/2022_september/30_2.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_2.jpg"></a>
 
 na pláž<br>
 koupačka<br>
-zpátky napřímo do centra
+zpátky napřímo do centra<br>
 
 <a href="../images/2022_september/30_3.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_3.jpg"></a>
 
@@ -411,7 +412,7 @@ vojta do postele<br>
 za štěpánkou a neteří<br>
 o škole v brně<br>
 hledání nehledání<br>
-ginger, červené
+ginger, červené<br>
 
 <a href="../images/2022_september/30_4.jpg" target="_blank"><img src="../images/thumbnails/2022_september/30_4.jpg"></a>
 

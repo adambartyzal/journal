@@ -1,3 +1,4 @@
+
 ## [Prosinec](2022.md)  
 
 - [1.12. Domů](#112-domů)
@@ -37,11 +38,11 @@ Na dnešek nám slíbili, že mě i Honzu pustí domů. Čekali jsme na to jako 
 Poslední snídaně, poslední čaj, kterého mi saniťák přinesl radši jen půlku, sprcha a pryč! Rozloučil jsem se s Honzou se slovy, že pokud se ještě nekdy uvidíme, snad to nebude v nemocnici.<br>
 Dole v lékárně jsem ještě koupil ibáč a vydal se na pomalou pěší cesu skrz Vršovice domů. Dýchat jen pusou byl za chůze snad ještě větší omrd než při ležení. Ale ležet už mě fakt nebavilo a tak jsem si chůzi užíval.<br>
 Celkově ale musím říct, že zdravotnictví mě mile překvapilo. Myslím že pokud odvádím dva a půl tisíce měsíčně, stát na mě letos tratil. Už jen to jídlo muselo stát docela dost. Nemocnice, ať ne zbrusu nová, byla čistá, lidé milí a doktoři kompetentní. Teda doufám.<br>
-Cesta mě ale vyřídila a tak jsem doma opět zalehl a pustil si seriál.
+Cesta mě ale vyřídila a tak jsem doma opět zalehl a pustil si seriál.<br>
 
 ### 2.12. Spíš se to zhoršuje
 
-Možná proto jsem si do deníku nezapsal žádné poznámky. Vybavuju si ale, že mě to hodně štvalo. Přišla na mě bolest hlavy a ibáč tomu moc nepomáhal. Moje původní představa, že půjdu den po propuštění do práce se jevila jako hodně naivní.
+Možná proto jsem si do deníku nezapsal žádné poznámky. Vybavuju si ale, že mě to hodně štvalo. Přišla na mě bolest hlavy a ibáč tomu moc nepomáhal. Moje původní představa, že půjdu den po propuštění do práce se jevila jako hodně naivní.<br>
 
 ### 3.12. První nádech
 
@@ -51,15 +52,15 @@ V koupelně jsem nad umyvadlem asi hodinu vymýval z nosu hnis, krev a spoustu d
 Bylo mi dost dobře na procházku. Díra v kalhotech už byla dost velká na to abych si pořídil nové. Vyrazil jsem tedy do C&Ačka. Nejbližší bylo na Václaváku, takýže jsem přešel psí louku, vydrápal se na Zvonařku, sešel Kateřinskou a Štěpánskou. V C&Ačku mě ale přepadla nechuť dávat za cokoliv peníze a tak jsem nekoupil nic.<br>
 Hlady jsem ale umřít nechtěl. Zastavil jsem se tedy v novém Lidlu Na Příkopě. Nějak jsem se tam nemohl rozhodnout co nakoupit až jsem nakonec skončil u inkrediencí na zelnǎčku a donutem. Na rozdíl od nás měli robopokladny a u nich hyperaktivní ukrajinku, která se mi vehementně snažila pomoct, ale byla to "taiwanská pomoc". Myslím, že bez ní bych to zvládnul 2x rychleji. Navíc jsem tam nikomu nezavazel.<br>
 Za kasou jsem objevil, že nákupní plocha se nachází v prostoru bývalého bankovního trezoru. Dveře sejfu byly stále na svém místě, za sklem vystavené na obdiv. Nějací kluci si mysleli, že je to kormidlo, a když jsem jim z plakety přečetl o co se ve skutečnosti jedná, běželi za svými tatínky sdělit jim, jak "krutopřísný" to je!<br>
-Domů jsem jel tramvají a po zbytek večera jsem měl pocit, že čas plyne nějak divně. Možná že Sanorin má vedlejší účinky.
+Domů jsem jel tramvají a po zbytek večera jsem měl pocit, že čas plyne nějak divně. Možná že Sanorin má vedlejší účinky.<br>
 
 ### 4.12. Do kina pilotů
 
-Polívku se mi večer vařit nechtělo a tak jsem se do toho vrhnul až dopoledne dalšího dne. Byla moc dobrá a šlo to i bez klobásy.
+Polívku se mi večer vařit nechtělo a tak jsem se do toho vrhnul až dopoledne dalšího dne. Byla moc dobrá a šlo to i bez klobásy.<br>
 
 <a href="../images/2022_december/4_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/4_1.jpg"></a>
 
-Polévka ale zdaleka neměla být highlight dne. Tím měla být první společenská událost od doby, kdy jsem vyrazil do nemocnice. Nejen společenská, ale kulturní. Návštěva kina pilotů s Alčou.
+Polévka ale zdaleka neměla být highlight dne. Tím měla být první společenská událost od doby, kdy jsem vyrazil do nemocnice. Nejen společenská, ale kulturní. Návštěva kina pilotů s Alčou.<br>
 s knížkou o půl hodiny dříve<br>
 malou vinohradskou<br>
 došlo mi, že nejsme úplně domluvení, kde a jak se sejdeme<br>
@@ -77,7 +78,7 @@ u metra trochu trapná chvíle, nevím jestli něco čekala<br>
 
 ### 5.12. Splinty ven
 
-necvičím
+necvičím<br>
 pěšky do karlína<br>
 nic moc mi neuteklo<br>
 příprava tisku na 12ti tiskárnách je ojeb<br>
@@ -88,14 +89,15 @@ hezká dredatá holka<br>
 v sedě přemítám nad obvody<br>
 pan schalek mi stříhá stehy na splintech<br>
 poprvé smrkám docela volně<br>
-na pivo s ondrou
+na pivo s ondrou<br>
 
 <a href="../images/2022_december/5_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/5_1.jpg"></a>
+
 
 ### 6.12. Ze dvou piv kocovina?
 
 Po práci jsme šli s Ondrou na pivo. Přijel jsem za ním na freebiku a společně jsme vybral nějaký podnik kousek od jeho bytu. Ondra se vyptával na to jak funguje septoplastika a k čemu mi to bude. V podniku vařili vlastní piva. Oba jsme si dali nějaký svrchně kvašený speciál a už po prvním jsem začínal být docela opilý. Asi mi po operaci klesla tolerance. Během druhého dorazila Réba a diskuse se stočila k rodině a k tomu jak jsem vyrůstal. Ondru hodně bavilo to, že mě táta vychovával tak, že mi do ruky vrazil páječku a nechal mě rozebírat televize a třídit součástky.<br>
-Druhé pivo mi dalo snad ještě víc a na cestě na kole jsem jel s pocitem alkoholového opojení.
+Druhé pivo mi dalo snad ještě víc a na cestě na kole jsem jel s pocitem alkoholového opojení.<br>
 
 ### 7.12. Na Projekci s Tomášem
 
@@ -105,18 +107,18 @@ Nebyl když jsme se k němu posadili, odvětil jsem na jeho snahu o naše vystrn
 Tomáš se dal na sport. A ne jen tak ledajaký. Učí se šermovat s japonskou katanou. A nejen šermovat. Je to nějaké Samurajské umění. Vyprávěl o tom s nadšením, tak snad mu to vydrží. A snad to nejsou nějací fanatici.<br>
 Dál jsme se přesunuli do Bar/áku. Tomáš si dal další svařák, já Únětice. Seděli jsme u stolečku v chodbičkovitější části onoho prostru, ale i tak mi to tam přišlo útulné. Bavili jsme se o inflaci a nenašli jsme zrovna moc konesnzus. Ale byla to konstruktivní debata.<br>
 Před fileme se ale chtěl Tom najíst a jeho plán byl zastavit se v Mekáči. Tam jsme narazili na Veroniku s Martinem. Nějak jsem netušil, že přijdou. Chvilku jsme si povídali a dohodli jsme se, že pokračovat budeme v lobby kina Atlas po tom co se otočím v Albertu. Mekáč totiž není můj šálek kávy.<br>
-Nějak jsem opomněl, že v Atlasu netočí pivo, ale mají jen lahvového Fedinanda. A navíc nějak ne moc dobrého. Ale co nadláš.. lepší průměnrný pivo než žádný pivo.
+Nějak jsem opomněl, že v Atlasu netočí pivo, ale mají jen lahvového Fedinanda. A navíc nějak ne moc dobrého. Ale co nadláš.. lepší průměnrný pivo než žádný pivo.<br>
 
 <a href="../images/2022_december/7_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/7_1.jpg"></a>
 
-film byl ujetá píčovina. Líp to popsat nejde. Ale párkrát jsem se zasmál. Takže odpad si nezasloužil.
+film byl ujetá píčovina. Líp to popsat nejde. Ale párkrát jsem se zasmál. Takže odpad si nezasloužil.<br>
 
 ### 8.12. Do víru Vánoční Prahy
 
 Máma přišla někdy po třetí<br>
 stavěl jsem smartbiky<br>
 metrem na karlák<br>
-půl hodiny předem, místa již byla plná
+půl hodiny předem, místa již byla plná<br>
 
 <a href="../images/2022_december/8_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/8_1.jpg"></a>
 
@@ -124,6 +126,7 @@ flétna, housle čelo a čembalo<br>
 mluvčímu nebylo rozumět<br>
 
 <a href="../images/2022_december/8_2.jpg" target="_blank"><img src="../images/thumbnails/2022_december/8_2.jpg"></a>
+
 
 ### 9.12. Hoffman research dream team
 
@@ -138,7 +141,7 @@ o práci<br>
 o pythonu<br>
 o škole<br>
 o cestování<br>
-trochu jsem to přestřelil
+trochu jsem to přestřelil<br>
 
 <a href="../images/2022_december/9_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/9_1.jpg"></a>
 
@@ -163,9 +166,10 @@ plavat do podolí<br>
 
 ### 12.12.
 
-jedno z těch obyčejných pondělí
+jedno z těch obyčejných pondělí<br>
 
 <a href="../images/2022_december/12_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/12_1.jpg"></a>
+
 
 ### 13.12. Promrznul jsem
 
@@ -181,9 +185,10 @@ plavat ven<br>
 všude led<br>
 po 900 do sprchy se ohřát<br>
 na kole ještě větší zima<br>
-doma teplý čaj a vařit polívku
+doma teplý čaj a vařit polívku<br>
 
 <a href="../images/2022_december/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/13_1.jpg"></a>
+
 
 ### 14.12. Jako beduín
 
@@ -205,7 +210,7 @@ uklizeno u mně na stole, v šuplíku a vedle jak nikdy<br>
 
 ### 17.12. Návrat modrých opic
 
-dělení aloe
+dělení aloe<br>
 
 <a href="../images/2022_december/17_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/17_1.jpg"></a>
 
@@ -227,13 +232,14 @@ promrzlý na kost<br>
 ### 20.12. Tisk pro DJe a modelování
 
 mr poopybutthole ulomenou ruku<br>
-ricka jsem vylámal a vypadal dobře
+ricka jsem vylámal a vypadal dobře<br>
 
 <a href="../images/2022_december/20_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/20_1.jpg"></a>
 
+
 ### 21.12. Třídění šuplíku
 
-Děliče se přes noc vytiskly, pustil jsem se proto do organizování šuplíku. Měl jsem z toho opravdu radost. Přitom taková blbost. Výsledek mojí práce jsme poslal mámě a ta to přeposlala Evě, která prý otevřela svůj šuplík a našla tam čokoládu prožranou od molů.
+Děliče se přes noc vytiskly, pustil jsem se proto do organizování šuplíku. Měl jsem z toho opravdu radost. Přitom taková blbost. Výsledek mojí práce jsme poslal mámě a ta to přeposlala Evě, která prý otevřela svůj šuplík a našla tam čokoládu prožranou od molů.<br>
 
 <a href="../images/2022_december/21_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/21_1.jpg"></a>
 
@@ -250,7 +256,7 @@ vitamín D<br>
 
 ### 23.12. Společný oběd
 
-Dopoledne jsem experimentoval, jak by to vypadalo, kdybych zkoušel ke svým 3D modelům dělat výkresy. Pravdělpodobně bych si musel udělat nějakou lepší šablonu, než freecad má. Možná nějak vygumovat nějaký Ivanův výkres. Ale jinak by to docela šlo.
+Dopoledne jsem experimentoval, jak by to vypadalo, kdybych zkoušel ke svým 3D modelům dělat výkresy. Pravdělpodobně bych si musel udělat nějakou lepší šablonu, než freecad má. Možná nějak vygumovat nějaký Ivanův výkres. Ale jinak by to docela šlo.<br>
 
 <a href="../images/2022_december/23_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/23_1.jpg"></a>
 
@@ -259,12 +265,12 @@ Veggie garden, kterou vybrala buď Réba nebo Sára, byla překvapivě blízko. 
 V pátek mají v Indii špenát, takže jsme se šli podívat tam. Jardu jsme potkali za rohem, ale i Indická nás spálila. Neměli meníčka a Indie je bez meníček mrtě drahá. Nakonec vyhrál Globe. Adam mi ho kdysi doporučoval, ale sám jsem tam ještě nebyl. Ondra se ale zaručil, že Globe je fajn a jo.. byl docela OK.<br>
 K pití měli staráč, ale dokázali ho říznout s tmavým byť barevný předěl teda natočit neuměli, což jsme se Sárou zhejtili.<br>
 Když nám přinesli pivo, dorazili Filip s Anet a diskuse se stočila k jejich svatbě. Dál Sára mluvila o její práci, Jarda o americe a já jsem byl myšlenkově trochu mimo, protože mě bolel nos. Ale bylo fajn být někde s ostatními. Od operace jsem byl převážně sám doma. Zelené špagety byly opravdu dobré, na čemž jsme s Rébou shodli, což je nevídaná údálost. Někdy před třetí, uprostřed diskuze se ale objevila servírka s tím, že platíme. Všechn nást to trochu zarazilo, ale pak z ní vypadlo, že ve tři zavírají.<br>
-Inu rozhodli jsme se přemístit. Dohodli jsme se, že Bar/ák, je dobrá volba. Teda byla by, kdyby měli otevřeno. Po chvíli postávání jsme se rozhodli to rozpustit. Popřáli si hezké svátky, objali se a vyrazili. Nováčkovic do metra, Vinohradští a Vršovičští na autobus a já na rekole zpátky do práce.
+Inu rozhodli jsme se přemístit. Dohodli jsme se, že Bar/ák, je dobrá volba. Teda byla by, kdyby měli otevřeno. Po chvíli postávání jsme se rozhodli to rozpustit. Popřáli si hezké svátky, objali se a vyrazili. Nováčkovic do metra, Vinohradští a Vršovičští na autobus a já na rekole zpátky do práce.<br>
 
 ### 24.12. Do hory na vánoce
 
 Vánoce. Fakt jsem na ně nebyl připravenej. Neměl jsem žádný dárek a ani náladu na stromky, ozdoby, ryby se salátem a vůbec vším co k tomu patří.<br>
-Doma nebylo k jídlu zhola nic a Lidl měl zavřít před dvanáctou. Po deváté jsem se vyhrabal z postele a vyrazil na nákup věcí na brokolicový krém. Protože svítilo sluníčko, sedl jsem si asi na čtvrt hodiny do parku a čerpal vitamín D.
+Doma nebylo k jídlu zhola nic a Lidl měl zavřít před dvanáctou. Po deváté jsem se vyhrabal z postele a vyrazil na nákup věcí na brokolicový krém. Protože svítilo sluníčko, sedl jsem si asi na čtvrt hodiny do parku a čerpal vitamín D.<br>
 
 <a href="../images/2022_december/24_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/24_1.jpg"></a>
 
@@ -276,19 +282,19 @@ Robin v autě trucoval, že si ho máma nevšímá. Ne že by to byla pravda. Je
 Eva už byla mírně lízlá, ale já jsem si řekl, že nechci moc pít a tak jsem dostal masalu s mlékem a k tomu vánočku. Robin mě zatáhl k playstationu a přemluvil mě k hraní fify. Moc nám to ani jednomu nešlo, takže síly byly vyrovnané. Když jsem ale začal mít navrch, přebral Petr Robinův ovladač a vyklepl mě.<br>
 Vítězně se vrátil do kuchyně a pokračoval s Evou v přípravě vánoční večeře. Robin misto fify pustil Crashe, kde jsme se střídali a šlo nám to snad ještě hůř než ten fotbal.<br>
 Jídla připravili Veselí opravdu raketu. Rybu i kuře, kopu salátu. A k pití nějaké super fancy víno, které Petr dostal v práci.<br>
-Po večeři jsme šli na balkon zapalovat prskavky.
+Po večeři jsme šli na balkon zapalovat prskavky.<br>
 
 <a href="../images/2022_december/24_2.jpg" target="_blank"><img src="../images/thumbnails/2022_december/24_2.jpg"></a>
 
 Během sršení prskavek Petr připravil dárky pod stromeček, takže Robin začal křičet překvapením, že Ježíšek přinesl dárky asi tak vteřinu po návratu z balkónu.<br>
 Dostal toho fakt milion. A stejně dělal Zagorku že nedostal čokoládu jako táta. Mám ho moc rád, ale je fakt rozmazlenej.<br>
-Zbytek večera se tak sestával z rozbalování dárků, stavění autodráhy hotwheels a ospalého povídání si.
+Zbytek večera se tak sestával z rozbalování dárků, stavění autodráhy hotwheels a ospalého povídání si.<br>
 
 ### 25.12. Dárky
 
 Robin byl vzhůru už po sedmé. Já jsem se z gauče vykopal někdy po osmé, kdy Petr už připravoval snídani. Na Evu ale přišel bolehlav a tak polehávala dál.<br>
 Po snídani jsme se pustili do stavby kuličkové dráhy. Jakožto inženýr jsem byl pověřen rozklíčováním návodu. Obrázky v rádoby izometrickém pohledu občas klamaly, neb některé dráhy, které šly zkopce vypadaly na nákresech jako dokopec. Robin taky zrovna moc nepomáhal, neb do rozestavěné dráhy pouštěl kuličky a tím jí ničil. Petra to přestalo bavit a okřikl ho, ale nemělo to prach žádný efekt, takže nakonec robin dostal facku a utekl za Evou a začal jí otravovat tím, že chtěl vařit sliz. Další z mnoha dárků z předešlého večera.<br>
-Dráhu jsme asi po hodině úspěšně dokončili. Robin si v ní pustil asi tak pět kuliček a přestala ho bavit.
+Dráhu jsme asi po hodině úspěšně dokončili. Robin si v ní pustil asi tak pět kuliček a přestala ho bavit.<br>
 
 <a href="../images/2022_december/25_1.jpg" target="_blank"><img src="../images/thumbnails/2022_december/25_1.jpg"></a>
 
@@ -296,9 +302,10 @@ Myslím, že mě by ale bavilo, kreslit si nové díly ve freecadu a tisnout si 
 K obědu byla kachna. Petr se do toho fakt pustil. Dva druhy knedlíků, dvoje zelí a kachna propečená, že se rozpadala. Prý jsem měl porci, kterou měla mít máma, než zavolala, že nemůže přijet. Robin se před jídlem rozbrečel, že má míň jídla než my a menší talíř. Petr mu jídlo přendal na větší a Robin ho pak většinu nesnědl.<br>
 Po obědě Petr s Robinem vyrazili do Malína a já s Evou jsme si na Netflixu pustili [Lock Stock and Two Smoking Barrels](https://www.csfd.cz/film/7698-sbal-prachy-a-vypadni). Miluju ten film. Natočenej za nula nic a přitom naprostá šipčka. Konec jsem ale nestihl na úkor vlaku. Ve tři mi jel přímák a trochu jsem podcenil vzdálenost na nádraží, takže jsem šel poklusem. Ale stihl jsem ho bez problému. Dokonce jsem si vyklikal místenku a možná dobře, že jsem to udělal. Paní co seděla na mém místě jsem sice nevyhodil, ale cítil jsem, že místo naproti ní mi přísluší víc, než lidem bez místenky. Škoda, že ve vlaku bylo vydýcháno až mi z toho bylo blivno.<br>
 Na hlaváku mě skoro chtěli vyhodit, protože prý vlak prý jel do Vršovic na odstavné nádraží. Ale nenchal jsem se a po chvíli čekání jsme vyjeli a dorazili úplně normálně na druhou kolej přímo ke schodům do díry.<br>
-Když jsem vyběhl nahoru domů, byly za oknem červánky co vypadaly spíš jako Mordor.
+Když jsem vyběhl nahoru domů, byly za oknem červánky co vypadaly spíš jako Mordor.<br>
 
 <a href="../images/2022_december/25_2.jpg" target="_blank"><img src="../images/thumbnails/2022_december/25_2.jpg"></a>
+
 
 ### 26.12. Další dárky
 
@@ -307,13 +314,12 @@ Marťa mi napsala, že má v úterý volno a chtěla by podniknout něco sportov
 Chtěl jsem přepsat NFCU na portsettings třídu. Spíš aby se v buducnu kód líp četl, než že by to bylo potřeba.<br>
 Přepisování firmware bez hardware jde ale jen do jisté míry a tak jsem vyrazil do karlína pro programátor a čtečku. Cestou jsem četl a člověk jdoucí s ničím jiným než čtečkou v ruce zřejmě musí vzbuzovat dojem mítního, neb se mne hned několik lidí vyptávalo na cestu a kde najdou jaký dům. Byl jsem schopný vždy poradit a to trochu nafouklo moje ego.<br>
 V Karlíně jsem zalil kytky, pobral co jsem potřeboval a vyrazil trochu jinou cestou zpátky. Až doma mi došlo že sice mám NFCM, NFCU, programátor a kabely, které jsou potřeba, ale deska nemá osazený debugovací header, protože mi přišlo, že ve finálním produktu zbytečně zabírá místo.<br>
-Během cesty domů jsem nakoupil u Vietnamce pivka abychom si mohli s Petrem dát, když u mně bude přespávat, ale nakonec to odvolal, protože neměl hlídání. A tak jsem večer trávil s nekonečnou knížkou.
+Během cesty domů jsem nakoupil u Vietnamce pivka abychom si mohli s Petrem dát, když u mně bude přespávat, ale nakonec to odvolal, protože neměl hlídání. A tak jsem večer trávil s nekonečnou knížkou.<br>
 
 ### 27.12. Badminton a oběd s Marťou
 
 Protože na Olšanku to trvá tak půl hodiny pěšky, napsal jsem Marťě, že ve čtvrt vyrazíme od ní. Zdržovala, protože jí prý nějak nedošlo, že na badminton je třeba mít boty. Inu já jsem svoje běhací boty ráno myl, aby z nich nepadalo bláto, takže jsem jí to mohl připomenout, když se ptala co s sebou a já napsal vodu a oblečení.<br>
 Protože jsme ale nabrali zpoždění, zavrhl jsem zastávku u Antonína tak jsme od ní pokračovali přímo po Žitomírské nahoru. Povídali jsme si o našich Vánočních prožitcích. Její byly akčnější, neb zahrnovaly například zlomené žebro její mamky a tak.<br>
-
 10 minut před na olšance<br>
 převlečení<br>
 první kurt jediní, pak dva kluci vzadu<br>
@@ -336,7 +342,6 @@ Od nástupu do nemocnice jsem vyjma pár poznámek nic nenapsal do deníku. To z
 Stejně jsem ten plán realizoval. Bezmasé kuličky a nekonečné kafe za ten výlet vždycky stojí. Než jsem ale vyjel, strávil jsem asi půlhodinu proplachováním nosu slanou vodou, protože jsem cítil, že mi levou dírku ucpal nějaký hnus sestávající se z hlenu/strupu/hnisu. Měsíc po operaci a pořád to takovýhle zrady.<br>
 ikea<br>
 do hornbachu<br>
-
 
 ### 29.12. Poučen, opět do Hornbachu
 

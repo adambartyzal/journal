@@ -3,18 +3,22 @@
 - [2.9. Mít tak 7 miliónů](#29-mít-tak-7-miliónů)
 - [3.9. Gril, kino a prstýnek](#39-gril-kino-a-prstýnek)
 - [4.9. Tetanus, záškrt a černý kašel](#49-tetanus-záškrt-a-černý-kašel)
-- [](#)
+- [5.9. Am regulátor to nedává](#59-am-regulátor-to-nedává)
 - [6.9. Po roce chlupatí](#69-po-roce-chlupatí)
 - [7.9. Pět a padesát](#79-pět-a-padesát)
-- [](#-1)
+- [8.9. Odevzdat titul... nebo líp vysvědčení ze základky](#89-odevzdat-titul-nebo-líp-vysvědčení-ze-základky)
 - [9.9. Místo problému problém](#99-místo-problému-problém)
 - [10.9. Špína a prach](#109-špína-a-prach)
-- [](#-2)
+- [](#)
 - [12.9. Taky kávou posedlá](#129-taky-kávou-posedlá)
 - [13.9. Šípky nezralý](#139-šípky-nezralý)
 - [14.9. Deštěm k Lasíkům](#149-deštěm-k-lasíkům)
 - [15.9. Dobrej druh dluhu](#159-dobrej-druh-dluhu)
 - [16.9. Meh](#169-meh)
+- [](#-1)
+- [18.9. Zápy podruhé](#189-zápy-podruhé)
+- [19.9. Sinusitida zpět?](#199-sinusitida-zpět)
+- [](#-2)
 
 ### 1.9. Štrůdl a bramboráky
 
@@ -65,16 +69,24 @@ Film byl polský. O pánovi co točil filmy. Byl docela divnej. Verunka mě ale 
 
 Ráno jsem nezvládl. Sice jsem se společně s Verunkou vzbudil, ale pak jsem se válel dál a úplně zapomněl na to, že mám být na očkování.<br>
 Přijel jsem na revoluční o půl hodiny později a musel další pul hodinu čekat. Alespoň jsem se po asi letí dnech dostal k deníku.<br>
-Po očkování mi prý mělo být blbě a ruka mě měla bolet, jako když mě do ní praští. Cestou kolem Rokytky to bylo ještě dobrý, ale v práci to přicházelo a ve veži, kde byl asijský burger se sójovkou a koriandrem mi začalo být trochu Slivno a ruka začala být extra těžké.<br>
+Po očkování mi prý mělo být blbě a ruka mě měla bolet, jako když mě do ní praští. Cestou kolem Rokytky to bylo ještě dobrý, ale v práci to přicházelo a ve věži, kde byl asijský burger se sójovkou a koriandrem mi začalo být trochu Slivno a ruka začala být extra těžké.<br>
 Nepřipájený kondík v NFL mi dal zabrat. Modulace se chovala divně, jakoby se regulátor vypínal. Než jsem ten problém našel. bylo kolem druhé a to jsem emailem slíbil, že se zastavím v bance na Freyové.<br>
 Pán přes Hypoték tam napřed nebyl a všichni si mysleli, že už je doma, ale pak ho našli a dal mi představu o tom, co by hypotéka obnášela. Bylo to dost. A bez dvaceti procent LTV byla značně nevýhodná. to % bych měl. Ale na 20% bych musel prodat ETF ke a dolar byl zrovna slabej. Několik set tisíc oproti lednu by proletělo komínem. Bylo třeba ještě spořit a sledovat trh. Dům v Zápech by na's stal přiliš moc.<br>
 Domů jsem vzal vlak. Mít v sobě tři nemoci nebylo jen tak. Bylo třeba odpočívat.<br>
 
-###
+### 5.9. Am regulátor to nedává
 
+Očkování mě trochu rozbilo. Pro tentokrát jsem zvolil vlak.<br>
+Čekalo mě testování Keolabs strojem a tušil jsem zradu.<br>
+Když byla karta s velkou zátěží blízko zámku, v B modulaci jsem měřil undershoots. Jenže nebyly způsobený fyzikou. Bylo vidět, že regulator nižší úrovně to nedává. Moc jsem nevěděl co s tím. Zkoušel jsem AWS. Over a Undershot protection a nic nikam nevedlo. Změna kondiků taky ne. Zkoušel jsem různý věci až do šesti.<br>
+Ve tři čtvrtě na osm nám ale jel Regio Jet do Ostravy. Na Vysočanské mi frnknul vlak domů, ale kombinace eska a rychlíku vltava mě domů dostala v sedm a tak jsme stihli't stan i věci na víkend a dojetzpet na hlavák.<br>
+RJ měl zpoždění a tak jsme si došli pro zmrzlinu a Čokoládu do Rd čekárny. Verunka pak omylem vyklopil, zmrzku na zem a na sebe. Naštěstí šel kolem sekuriťák a zavolal úklid.<br>
 
 <a href="../images/2025_september/05_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/05_1.jpg"></a>
 
+Ve vlaku jsme dokoukali letušku na mém laptopu. Ani nevím, proč jsem ho s sebou měl.<br>
+Na Svinově nás vyzvedl Hynek. Rapid byl prý opravený, ale stejně přijel Fabií. Byl nadšený jako vždy. Dovezl nás domů, kde tentokrát nebyl Luky, ale Miki ano.<br>
+Moc už jsme toho ale nezvládli. Bylo pozdě a tak jsme se natáhli ve Verunčiné pokoji vedle sebe na spodní matraci a usnuli.<br>
 
 ### 6.9. Po roce chlupatí
 
@@ -121,8 +133,16 @@ Ve vlaku to s Verunkou cloumalo. I přes to, že jsme seděli vedle sebe, posíl
 Jasně že jsem zkontroloval celej vlak.<br>
 Ale nebylo nám přáno a tak jsme na Řehořovi luštili křížovky a vlítli na to až doma po přípravách na následující týden. Byl to moc dobrej sex. Po pár dnech půstu a s vidinou ženy na 4 dny pryč.<br>
 
-###
+### 8.9. Odevzdat titul... nebo líp vysvědčení ze základky
 
+Začal týden, kdy celá Verunčina škola vyráží na výlet. Musela tak být na Čerňáku už po sedmé i když tenhle školní rok měla mít pondělky volné. Já se v posteli válel až asi do osmi a v hlavě se mi honil pocit, že bych si měl dát život do pořádku. Ne že by byl nějak v háji, ale bylo třeba dohnat spoustu běžných činností.<br>
+Třeba badminton jsem nezvládl zarezervovat. Nacvakl jsem to do webu byť zbyl už jen slot o půlhodinu později, nacpal raketu a míčky do batohu a vyjel do Vysočan bojovat s modulacemi.<br>
+Ve vývoji byli všichni. AWS nikam nevedlo a po obědě v Asii jsem si uvědomil ještě horší průser než undershoot v B. Osa phi=0 na zámku byla o pi/2 otočená oproti té na PICC. Tři čtvrtě roku testuju špatně!<br>
+Panika. Čtení datasheetů. Fakt to tak bylo. Zmátlo mě pootočení popisků na test benchi od keolabs. Ale byla to totálně moje chyba.<br>
+Co naplat. Bylo třeba udelat nové testing volume. Ve zbytku dne jsem ho překresloval a tiskl.<br>
+Po zadu, přes venkovní posilovnu a Lidl ve Strašnicích jsem dojel na Zahraďák. Hry to byly dobrý. Marta povídala o randění přes bumble a tinder. Nic z nich ale nebylo.<br>
+Cestou jsem se ještě stavil v Kauflandu. Nakoupil jsem spoustu mražené zeleniny, tofu a rýži o které jsem si behem nákupu volal s Verunkou. Měli bychom dojet do Sappy, dohodli jsme se.<br>
+Na vaření bylo pozdě. Než jsem ale usnul, poslala mi Verunka dvě mizející fotky. Nic vyloženě odhalenýho, ale rozhodně inspirativního. Verunka je sexy. Mám štěstí.<br>
 
 ### 9.9. Místo problému problém
 
@@ -222,4 +242,46 @@ Jel jsem kolem Slides Live. Pak jsem testoval zámky. Objevil, že spojení regu
 
 Cestou zpatky jsem se zastavil na cvičítkách. 10 shybů i přítahů docela v pohodě. Vis přes minutu a 3 Vosečkovy šikany.<br>
 Doma Verunčina quinoa, poslední díl Star Treku, úplně debilní mimochodem, chvilka psaní deníku a postel.<br>
+
+### 
+
+
+<a href="../images/2025_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/17_1.jpg"></a>
+
+
+<a href="../images/2025_september/17_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/17_2.jpg"></a>
+
+
+### 18.9. Zápy podruhé
+
+Tenhle den byl slabším stínem dne 2.9. Taky jsme vstali brzy a brali kola. Taky ráno pršelo, když jsem jedno z nich zamykal před nádražím. Místo úterý to byl čtvrtek, ale zase jsem delal s Tomíkem. Tentokrát jsme přesměrovali stanici do La Rochelle, aby mohl testovat. A po práci jsme opet jeli do 74, podívat se na dům.<br>
+Jenže tentokrát Jsem Verunka nepotkal ve vlaku. Sice nastoupila, ale na opačné straně a v Hopo nevystoupila, protože seděla na záchodě. Dojela až do Mstětic a pak jela zpet do Zelenče.<br>
+Já do Zelenče dovezl obě kola po cyklostezce. Bylo to docela náročný, ale z ranního Sychrava se vyklubal krásný večer a projížďka skrz pole byla moc pohledná.<br>
+Dům byl rozporuplný. Byl uprostřed rekonstrukce. Nebo spíš za polovinou, protože interiéry byly moc fajn. A dost toho bylo dotáhnutý. Ale bylo tam spousta dalších ale. Sklep co šel pod obecní pozemek. Studna pod pokojem. Dveře k darling do stěny do nikam. Vlhkost i přes podříznutí. Vlastně dost málo místa. A nižší kupní odhad, takže hypotéka by se musela doplácet.<br>
+
+<a href="../images/2025_september/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/18_1.jpg"></a>
+
+Ten minuly byl o dost lepší a vlastně skoro stejně drahej. Na cestě zpátky nám tak nějak dosedalo, že to nebude náš dům.<br>
+
+<a href="../images/2025_september/18_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/18_2.jpg"></a>
+
+Škoda. Zápy jsou fajn.<br>
+
+### 19.9. Sinusitida zpět?
+
+Odřekl jsem cestu na Marti narozeniny. Bylo mi to blbý. Ale taky mi bylo blbě. Mel jsem stejný projevy ucpanýho nosu jako před operací.<br>
+Verunka vstala dřív než já a uvařila mi písmenkovou polívku a nakrájela broskev. Taky jsem od ní měl kari s žampiony v lednici na oběd. Verunka je boží.<br>
+Sprcha mě trochu spravila a já had jízdu do práce na kole. Dopo jsem dodělával něco z předchozího dne a ve zbytku dne jsem osazovat nové HLP. Bylo jich třeba víc. Kvůli L1, L2 a EMC.<br>
+U osazování jsem poslouchal Moon Music od Coldplay. Je to zvláštní album a Film for Future, který ho doprovází je ještě zvláštnější.<br>
+Cestou domu jsem si vzal zámek do batohu a doma porovnal GPS. Kromě rychlý jízdy na Žitomírské to bylo ok.<br>
+Večer jsme si pustili Casa de Popel a zachumlali se do deky. Byl jsem hotovej.<br>
+
+###
+
+
+<a href="../images/2025_september/20_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/20_1.jpg"></a>
+
+
+<a href="../images/2025_september/20_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/20_2.jpg"></a>
+
 [>> Říjen](2025_october.md)<br>

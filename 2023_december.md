@@ -1,4 +1,4 @@
-[<< Listopad](2023_november.md)
+[<< Listopad](2023_november.md)<br>
 
 ## [Prosinec](2023.md)  
 
@@ -43,32 +43,32 @@ Zato z Lenek přišlo rozčarování. Byly tuhé jako prase. Jasně, srovnával 
 <a href="../images/2023_december/1_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/1_1.jpg"></a>
 
 Cestou do schodů zpátky už jsem cítil, že se trochu ohýbají. Rozhodl jsem se, že jim dám šanci. Navíc už jsem je trochu zohýbal.<br>
-Zip byl ale parádní a co do vzhledu se mi strašně líbily. Snad si sednou.
+Zip byl ale parádní a co do vzhledu se mi strašně líbily. Snad si sednou.<br>
 
 ### 2.12. Nová badmintonová sezóna
 
-Na půl jedenáctou jsme byli s Marťou dohodnutí na sraz na Astře. Začínali jsme novou badmintonovou sezónu a oba doufali, že dopadne lépe, než ta cyklistická, která začala a skončila ve [stejný den](../2023_april/#24-zahájení-cyklistické-sezony).
-Čekal jsem, že Marťa pojede autobusem, ale já jsem plánoval rozchodit mé nové Lenky. Ráno jsem si tak dal půlhodinovou jógu a vyrazil na hodinovou cestu zasněženou Prahou.
+Na půl jedenáctou jsme byli s Marťou dohodnutí na sraz na Astře. Začínali jsme novou badmintonovou sezónu a oba doufali, že dopadne lépe, než ta cyklistická, která začala a skončila ve [stejný den](../2023_april/#24-zahájení-cyklistické-sezony).<br>
+Čekal jsem, že Marťa pojede autobusem, ale já jsem plánoval rozchodit mé nové Lenky. Ráno jsem si tak dal půlhodinovou jógu a vyrazil na hodinovou cestu zasněženou Prahou.<br>
 
 <a href="../images/2023_december/2_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/2_1.jpg"></a>
 
 Na prsty mi zima nebyla. Trochu mě trápilo, že dokonalá kůže na botách se ohýbá. Ale tomu se asi nevyhneš. Jinak se prostě rozhýbat nedá.<br>
-Cestou jsem našel hezkou šálu. Rozhodl jsem se, že jí vyperu a dám jí mámě k vánocům.
+Cestou jsem našel hezkou šálu. Rozhodl jsem se, že jí vyperu a dám jí mámě k vánocům.<br>
 
 <a href="../images/2023_december/2_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/2_2.jpg"></a>
 
 Marťa měla pěti minutové zpoždění. Šel jsem se převléct a když jsem se poté v liduprázdné hale protahoval, Marťa přiběhla už oblečená. Rozcvičovali jsme se dlouhýma, volejema, krátkej krátkej dlouhej, padáčky a smeče a pak začali počítat. Mám nahráno víc než ona a bylo to nefér. Asi ve třetí hře jsem přešel spíš do pinkacího režimu a víc jsme si povídali o zážitcích ze Zélandu.<br>
 Po hře jsme šli dolů na Hamr na pivo a polévku. Tam jsme se bavili o nastavení financí ve vztahu a o tom, že jejich fabie to má za pár a tak chtějí kupovat dodávku. Taky mi Marťa vyprávěla o scéně se svojí sestrou kvůli zásuvce od šicího stroje v čaji. Prý jí její sestra mrtě obdivuje a považuje za lepší, což během jejich dospívání vedlo k tomu, že Marťu šikanovala. Prý to vyřešila terapií. Já s Evou na žádný terapii nebyl. Cítil jsem se ochuzen, ale zároveň úspěšně.<br>
-Autobusem jsme pak sjeli na Kloboučnickou, došli ten zbytek a já doma dojedl těstoviny a až do večera se válel na gauči a četl nového Strika.
+Autobusem jsme pak sjeli na Kloboučnickou, došli ten zbytek a já doma dojedl těstoviny a až do večera se válel na gauči a četl nového Strika.<br>
 
 ### 3.12. Mezi běžkaři
 
-Olivie si s někým povídala asi ve 3 ráno. Trochu mi to rozbilo spánek a ráno se mi pak nechtělo z postele. Po pomalém vstávání jsem se rozhodl, že je na čase pohnout s deníkem. Doma se mi být nechtělo a ikeové nemasové koule už jsem dlouho neměl. Oblékl jsem tedy zimní bundu a seběhl dolů. Freebike se mi trochu schovával.
+Olivie si s někým povídala asi ve 3 ráno. Trochu mi to rozbilo spánek a ráno se mi pak nechtělo z postele. Po pomalém vstávání jsem se rozhodl, že je na čase pohnout s deníkem. Doma se mi být nechtělo a ikeové nemasové koule už jsem dlouho neměl. Oblékl jsem tedy zimní bundu a seběhl dolů. Freebike se mi trochu schovával.<br>
 
 <a href="../images/2023_december/3_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/3_1.jpg"></a>
 
 Ometl jsem co šlo a vyrazil přes Nusle. Do kopce abych zahřál baterku. A možná taky sebe. Cestou mi jelo hlavou, že je mi každý rok větší a větší zima. Možná, že Finsko nedám.<br>
-Cyklisté vymizeli. Za celou cestu jsem potkal jednoho. Zato se ale objevili běžkaři. Těch byl randál. Výhledy v Prokopáku byly nádherné.
+Cyklisté vymizeli. Za celou cestu jsem potkal jednoho. Zato se ale objevili běžkaři. Těch byl randál. Výhledy v Prokopáku byly nádherné.<br>
 
 <a href="../images/2023_december/3_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/3_2.jpg"></a>
 
@@ -78,13 +78,13 @@ Sepsal jsem toho dost. Ale taky jsem si uvědomil kolik toho ještě chybí. Tro
 Z ikey jsem jel po plzeňské. Já jsem rovnou k Mišce. Domů a zpátky bych to nedal. Byla taková zima že by mi upadly nejen nohy ale i ruce. Naštěstí jsem dokázal do velkých rukavic nacpat menší rukavice a to mě ochránilo a při jízdě z kopce.<br>
 Úplně jsem zapomněl, že mi napsala, že až se vrátí za Rokytnice, budeme si muset promluvit. V posledních několika týdnech na ní přišla obava, že je pro mě jakousi cenu útěchy, místo toho, že nejsem s Marťou a nebo s Joosje. Trochu mě to vykolejilo. Žádná taková věc ve mě nedřímá. Snažil jsem se to dát najevo slovy. Rozhodně jsem se do toho ale zabrousil a nepříliš vhodně to zakončil slovy, že je to pitomost. Prý jí ale pomohlo už jen to, že onu obavu vyjádřila nahlas. Snad to tak je.<br>
 Asi budu muset víc dávat najevo, že je to vztah, kterému věřím, jako ještě žádnému předtím.<br>
-Zbytek večera jsme si povídali, jedli chléb, sýr, rajčata a cini minis, smáli se a poměrně brzo jsme se přesunuli do postele, protože jsme možná začínali dostávat rozum a docházelo nám, že spaní 5 hodin prostě není zdravý.
+Zbytek večera jsme si povídali, jedli chléb, sýr, rajčata a cini minis, smáli se a poměrně brzo jsme se přesunuli do postele, protože jsme možná začínali dostávat rozum a docházelo nám, že spaní 5 hodin prostě není zdravý.<br>
 
 ### 4.12. Nezmrzlý
 
 Moje hodinky stejně nebyly spokojený. 79 spacích bodů. Prý mi chyběl REM. Asi za to mohl ten kofeinový šok.<br>
 Mišku čekala jízda Meresebourgu. Mě jízda v -11 stupních na freebiku do Karlína. Předehřál jsem si ruce v teplé vodě, dostal jsem do termosky té verde a u branky jsme se rozloučili. Pár zabrzdění opískalo brzdy a já se vydal z kopce dolů na cestu. Až pod kopcem mi došlo, že baterka už definitivně padla pod 10% a motor už mi nepomůže. Aspoň jsem se trochu zahřál táhnutím toho 35 kilového kola s jedním převodem. Ale bolela mě z toho kolena. Sedlo bylo na houby nastavené.<br>
-Z Vltavy se v ranním mrazu zvedala pára. Byl to moc hezký pohled.
+Z Vltavy se v ranním mrazu zvedala pára. Byl to moc hezký pohled.<br>
 
 <a href="../images/2023_december/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/4_1.jpg"></a>
 
@@ -93,15 +93,16 @@ Na oběd jsme došli do Indie. Po práci jsem šel pěšky plavat. U Antonína k
 
 ### 5.12. 2 kilometry kraulem
 
-Ráno bylo ponuré a nic moc se mi nechtělo. Rozhodl jsem se ho zlepšit aspoň snídaní. Zbyla mi dvě bio vajíčka, chléb od antonína, tvaroh a sušená rajčata. Na zlepšení nálady to vydalo.
+Ráno bylo ponuré a nic moc se mi nechtělo. Rozhodl jsem se ho zlepšit aspoň snídaní. Zbyla mi dvě bio vajíčka, chléb od antonína, tvaroh a sušená rajčata. Na zlepšení nálady to vydalo.<br>
 
 <a href="../images/2023_december/5_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/5_1.jpg"></a>
+
 
 ### 6.12. Dobří holubi se vracejí
 
 rano jsem popřál míše k narozeninám<br>
 vlakem a pěšky, kafe z lidlu<br>
-vojta v 11, robert chvíli po něm, do indie,
+vojta v 11, robert chvíli po něm, do indie,<br>
 jel přes husqarnu<br>
 probrat s vojtou co by rád<br>
 porada docela rychlá<br>
@@ -109,26 +110,24 @@ miti má 28 koček<br>
 po práci plavat<br>
 k večeři sýr a housky<br>
 pěšky do kina přes parukářku<br>
-šalvějový čaj
+šalvějový čaj<br>
 
 <a href="../images/2023_december/6_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/6_1.jpg"></a>
 
 ondra s rébou<br>
 film od disneyho z temného období o holce co jde za tátou v době velké krize<br>
 pěšky domů<br>
-míša už si nechce telefonovat
+míša už si nechce telefonovat<br>
 
 ### 7.12. Strach a rozhovor
 
 Ráno padla volba na vlak. Kdybych se třeba podíval do jízdních řádů, možná by mi nefrnknul před obličejem. Další měl jet za 20 minut. Na to jsem neměl trpělivost, na patě jsem se otočil a vyrazil Grébovkou nahoru pěšky. Spíš pro zábavu jsem si pustil do uší navigaci. Byl jsem zvědavý, jestli mě stáhne do tunelu, nebo přes bulhara. Vedla mě do tunelu cestou, kterou bych šel i bez ní.<br>
-V Karlíně jsem řešil reklamace ze slovenska a pukala mi z toho cévka. Vracely se mi například desky, ve kterých byla špatně zapojená čtečka. Ne opačně, jak to někdy bývá, ale tak jak je na následující fotce.
+V Karlíně jsem řešil reklamace ze slovenska a pukala mi z toho cévka. Vracely se mi například desky, ve kterých byla špatně zapojená čtečka. Ne opačně, jak to někdy bývá, ale tak jak je na následující fotce.<br>
 
 <a href="../images/2023_december/7_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/7_1.jpg"></a>
 
-Těsně před koncem pracovní doby mi Míša napsala zprávu, na kterou jsem koukal asi 10 minut, svět se kolem mě zastavil a moje srdce taky.
-
-> V posledních pár týdnech jsem si všimla věcí, které mi v našem vztahu nesedí, což už asi tušíš. Ráda bych si o nich promluvila, jen ti to chci dát vědět předem, aby ses na to mohl připravit a samozřejmě záleží i na tobě, zda jsi otevřený to zkusit vyřešit, nebo to nevidíš.
-
+Těsně před koncem pracovní doby mi Míša napsala zprávu, na kterou jsem koukal asi 10 minut, svět se kolem mě zastavil a moje srdce taky.<br>
+> V posledních pár týdnech jsem si všimla věcí, které mi v našem vztahu nesedí, což už asi tušíš. Ráda bych si o nich promluvila, jen ti to chci dát vědět předem, aby ses na to mohl připravit a samozřejmě záleží i na tobě, zda jsi otevřený to zkusit vyřešit, nebo to nevidíš.<br>
 Pár týdnech? Vždyť jsme se viděli pár dní zpátky a měli se moc hezky. Úplně mě to vykolejilo. Nevěděl jsem co dělat. Co napsat. Cítil jsem strach.<br>
 Napsal jsem něco o tom, že mě to hodně zarazilo, že náš vztah je první v mým životě, kterýmu věřím a že mi přijde, že děláme kroky dopředu a že tohle na mě přišlo docela zčista jasna.<br>
 Míša ale nastupovala do auta a vyrážela na dlouhou cestu z Mersbourgu do Prahy a tak jsme si toho víc nenapsali.<br>
@@ -140,12 +139,12 @@ Po asi čtvrt hodině za mnou Miška přišla. Trochu váhavě jsem jí objal a 
 Nevrhli jsme se do toho rovnou, ale přišlo to.<br>
 Prý se chovám tak, jako by náš vztah byl víc o mně než o ní. Jenže ona do něj dává víc než já. Ten pocit nejistoty v ní umocnilo pár drobností a pár větších věcí. Mezi drobnosti patřilo třeba to, že když se vidíme, neobejmu jí. Mezi větší bylo to, že jsem jí ignoroval během jejích narozenin a šel si s kamarády do kina.<br>
 Byly to legit argumenty. A byly to věci, který na sobě chci zlepšit. Trochu se mě dotklo, že mi to neřekla dříve a to, že já narozeninám nepřikládám téměř žádnou váhu je něco, v čem se lišíme víc než jsem čekal. Jenže já je chtěl slavit v Pátek. A na tom jsme se dohodli. Či jsem si to aspoň myslel. Prý jsem ale řekl, že se v pátek uvidíme možná.<br>
-Zima nás dohnala zpátky k ní. Byli jsme trochu odtažitější než obvykle. Ale pokud to bylo možné, měl jsem radost, že jsem přijel ještě ten den. Myslím, že jinak by to bylo horší. Neusínali jsme v objetí. Ale aspoň vedle sebe.
+Zima nás dohnala zpátky k ní. Byli jsme trochu odtažitější než obvykle. Ale pokud to bylo možné, měl jsem radost, že jsem přijel ještě ten den. Myslím, že jinak by to bylo horší. Neusínali jsme v objetí. Ale aspoň vedle sebe.<br>
 
 ### 8.12. Dárky
 
 Miška rán chvátala míň než já. Moc se mi do vstávání nechtělo, ale bylo třeba vyrazit. Dostal jsem jablko na cestu. Při nasazování mých nových Lenek se mi zasekl zip. Jedna z šestnácti recenzí informovala kupující o tom, že se zipem jsou potíže. 1/16 není moc, řekl jsem si tehdá. Dva týdny na to začal zip jít do prdele.<br>
-Po chvíli čarování se mi podařilo zip odseknout, rozloučili jsme se a já vyběhl do mrazivého rána s působivým slunkem prosvicujícím ranní inverzi.
+Po chvíli čarování se mi podařilo zip odseknout, rozloučili jsme se a já vyběhl do mrazivého rána s působivým slunkem prosvicujícím ranní inverzi.<br>
 
 <a href="../images/2023_december/8_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_1.jpg"></a>
 
@@ -154,7 +153,7 @@ Míše někdo odřel firemní oktávku. Ale byl to fér člověk a všechno vyř
 V práci jsem se pustil do psaní návodu na montáž sestavy SCR+EBUF. Mělo to hodně fotek a málo textu. Ideální návod podle mě. DJovy elaboráty mě začínaly štvát. Do uší mi hráli [xx](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) a den ubíhal poměrně kvapně.<br>
 Vláďa se ale nedotavil. S Ivanem jsme vydedukovali, že má kocovinu. Večer totiž měli sraz se zásuvkářema a ti umí lít.<br>
 Zavolali jsme mu a domluvili jsme se na Vietnamu. Pho Bo kocovinu lečí.<br>
-Po obědě ve během kterého se DJ dokázal zamknout na záchodech jsem v Albertu nakoupil balící papír a mašli. Kromě šachů jsem měl v plánu dát Mišce ještě jeden dárek. Vymodeloval jsem poukázku ve formátu kreditky na lekci pájení v Karlíně. Míša několikrát říkala, že se chce naučit pájet. Přišlo mi to hezký.
+Po obědě ve během kterého se DJ dokázal zamknout na záchodech jsem v Albertu nakoupil balící papír a mašli. Kromě šachů jsem měl v plánu dát Mišce ještě jeden dárek. Vymodeloval jsem poukázku ve formátu kreditky na lekci pájení v Karlíně. Míša několikrát říkala, že se chce naučit pájet. Přišlo mi to hezký.<br>
 
 <a href="../images/2023_december/8_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_2.jpg"></a>
 
@@ -166,27 +165,27 @@ Byl toho randál. A přišla na nás divná věc. Takový těžkost. Na mě v ru
 I já jsem dostal dárek. Ale nevěděl jsem jaký. Měl být na Ladronce od osmi. To jsme stíhali tak tak. Nechali jsme si zabalit zbytek jídla, srkli digestiv a vyrazili na autobus.<br>
 Na zastávce jsme stáli v objetí a svět byl naprosto v pořádku. Byli jsme si vědomí rozhovoru z předchozího večera, ale nic nepůsobilo nuceně. Byl to skvělej večer. A měl být ještě lepší.<br>
 Na švédské jsme vyhodili věci a vyrazili na autobus na Ladronku. Trochu jsem vymýšlel co má Miška za lubem. Ale zas tak moc jsem tomu nedával. Chtěl jsem být překvapený.<br>
-A byl jsem. Finská sauna v suterénu jedné z tamějších vil jen pro nás dva. S kádí a s postelí. Bylo to parádní.
+A byl jsem. Finská sauna v suterénu jedné z tamějších vil jen pro nás dva. S kádí a s postelí. Bylo to parádní.<br>
 
 <a href="../images/2023_december/8_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_3.jpg"></a>
 
 Měli jsme dvě hodiny na to nahřívat se a chladit a relaxovat spolu. A bylo to boží. Cákat horkou vodu na rozžhavené kamení. Ležet v sauně. Sprchovat se spolu. Mrazit se sudu a pak ležet vedle sebe úplně vyklidnění! Miloval jsem to! Nejlepší vánoční dárek co jsem si mohl přát.<br>
-Čtyři rotace. Uteklo to skoro příliš rychle. Venku se mezitím rozesněžilo. Landronka byla až na občasného běžkaře úplně prázdná. Šli jsme napřed ruku v ruce, ale prsty nám mrzly a tak jsme sněhem cupitali s rukama v kapsách, kolem vysílače a Strahovského stadionu až na Švédskou.
-přes ladronku pěšky domů.
+Čtyři rotace. Uteklo to skoro příliš rychle. Venku se mezitím rozesněžilo. Landronka byla až na občasného běžkaře úplně prázdná. Šli jsme napřed ruku v ruce, ale prsty nám mrzly a tak jsme sněhem cupitali s rukama v kapsách, kolem vysílače a Strahovského stadionu až na Švédskou.<br>
+přes ladronku pěšky domů.<br>
 
 <a href="../images/2023_december/8_4.jpg" target="_blank"><img src="../images/thumbnails/2023_december/8_4.jpg"></a>
 
-Do postele jsme se dostali někdy po jedenácté, ale neusnuli jsme okamžitě. Povídali jsme si v objetí. A měli se hezky. A někdy v jednu jsme se probudili a měli se znova hezky. Pořádný osmihodinový spánek ještě musíme vypilovat
+Do postele jsme se dostali někdy po jedenácté, ale neusnuli jsme okamžitě. Povídali jsme si v objetí. A měli se hezky. A někdy v jednu jsme se probudili a měli se znova hezky. Pořádný osmihodinový spánek ještě musíme vypilovat<br>
 
 ### 9.12. Knížky a levičácký dýchánek
 
 I bez budíku jsem se vzbudil svých 10 minut před sedmou. Míša dřímala a já jí nechtěl budit. Vytáhl jsem z batohu kindle a pustil se do čtení *Strika*. Četl jsem si tak skoro hodinu, než se probrala a požádala mě, zda jí nepodám její kindle aby se mohla ponořit do čtení *Etzlera v Číně*. A tak jsme leželi vedle sebe a oba četli. Bylo to pomalý a milý ráno. Těším se na víc takových v budoucnu.<br>
-Ale hlad nás nakonec vytáhl z postele. Míšu první. Já trochu podváděl a válel se dál.
+Ale hlad nás nakonec vytáhl z postele. Míšu první. Já trochu podváděl a válel se dál.<br>
 
 <a href="../images/2023_december/9_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/9_1.jpg"></a>
 
 K obědu jsme měli zbytek 蔬菜炒飯. Tentokrát na nás žádná těžkost nepřišla. Buď to teda bylo tím čajem, nebo místem. Těžko říct. Po dojedení jsme se dál váleli u topení, četli a občas si povídali o tom, kam se naše knížky ubírají.<br>
-Měli jsme plán dojít do čajovny, ale čas ubíhal a my se nezvedali. A pak už bylo pozdě. Jen tak tak jsme stihli jednu partii šachů.
+Měli jsme plán dojít do čajovny, ale čas ubíhal a my se nezvedali. A pak už bylo pozdě. Jen tak tak jsme stihli jednu partii šachů.<br>
 
 <a href="../images/2023_december/9_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/9_2.jpg"></a>
 
@@ -196,7 +195,7 @@ Prošli jsme parčíkem, kde bylo všechno rozkopané a došli k Ondrovi. Réba 
 S Ondrou jsem pak třídil desky od jeho Dědy.<br>
 Miška si ze swapu nakonec přece jen něco odnesla. Wacom tablet od ondry. Já jsem taky nic neplánoval odnést, ale dostal jsem nerezovou pánev, která Rébě nefunguje na indukci.<br>
 Miška nerez miluje a nad mojí keramikou trochu ohrnuje nos. Ne že by řekla, že jídlo z ní jíst nebude. Ale bylo vidět, že by jí zahřálo u srdíčka, kdybych si jí vzal.<br>
-Když už byl čas a lidé se pomalu rozcházeli domů, vyrazili jsme společně na tramvaj. Míša se mnou jela jen na Malovanku. Mě čekalo brzké vstávání a potřeboval jsem si doma vyzvednout věci na běžkování.
+Když už byl čas a lidé se pomalu rozcházeli domů, vyrazili jsme společně na tramvaj. Míša se mnou jela jen na Malovanku. Mě čekalo brzké vstávání a potřeboval jsem si doma vyzvednout věci na běžkování.<br>
 
 ### 10.12. Bez zranění
 
@@ -208,29 +207,29 @@ Nahoře v elefantu, kam se lyže vejdou líp jsme se spočítali. Fíla chyběl.
 Ostatní jsme našli před Nádražím v Lysé. Nalodili jsme se do Caravelly a vyrazili směr Jizerské Hory. Řídila Magda. Povídali jsme si o minulém výletu, o divných reklamách na preekoproud a víc už si moc nepamatuju. Byl jsem trochu ztracený ve vzpomínkách na mou poslední návštěvu Jizerek. Byl to asi nejlepší den roku 2023.<br>
 Závěrečné stoupání bylo skoro nebezpečné. Magda ale Caravellu ukočírovala a dovezla nás na parkoviště ještě o kousek dál, než jsme večeřeli s Miškou.<br>
 Převlékli jsme se, nazuli lyžáky a vydali se na cestu. Byl jsem docela posranej strachy. Moje poslední běžkování skončilo čtvrtrokem kulhání, magnetickou rezonancí kolene a zjištění, že lepší to už nebude, protože trpím hypermobilitou. Inu jsem jsem pomalu a byl poslední.<br>
-Ale bylo tam nádherně a počasí vyšlo.
+Ale bylo tam nádherně a počasí vyšlo.<br>
 
 <a href="../images/2023_december/10_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_1.jpg"></a>
 
 Asi po kilometru jsme začali stoupat. Trochu mi to podkluzovalo. Že bych zhubnul? Naposledy byl můj mohérový pruh naprosto bez chyby. Trochu jsem se zapotil. Vojta rozdával čaj s rumem, jen jsem si ale líznul abych zjistil jak moc to namíchal. Pít jsem nechtěl. Teplý čaj jsem měl v termosce.<br>
-[Cestou](https://www.strava.com/activities/10358198237) měl Jirka přednášky z historie o vlastnictví horských chat komunistickými pány.
+[Cestou](https://www.strava.com/activities/10358198237) měl Jirka přednášky z historie o vlastnictví horských chat komunistickými pány.<br>
 
 <a href="../images/2023_december/10_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_2.jpg"></a>
 
 Obědvali jsme na Smědavě. Nově postavené horské chatě. Nebo spíš vile. Měli tam moderní jídelnu s horskou přirážkou. Ale cena byla vykoupená dobrým jídlem, příjemným prostředím, kde se myslelo nejen na fajn krb, ale i na akustiku. Skoro se nám nechtělo pokračovat dál.<br>
 Ale slunka bylo málo a čekala nás ještě [polovina cesty](https://www.strava.com/activities/10359475922). Na té už jsme víc klesali. A já se víc bál. Přišly okamžiky, kdy bruslaři stoupali rychleji, než já sjížděl.<br>
 Ale zvládl jsem to bez zranění až k autu. A užil jsem si to. Všichni jsme si to užili.<br>
-Převlékli jsme se, pomohli nějakému pánovi vyjet ze sněhu, nalodili se do Caravelly a příjemně unavení vyjeli zpět do Lysé.
+Převlékli jsme se, pomohli nějakému pánovi vyjet ze sněhu, nalodili se do Caravelly a příjemně unavení vyjeli zpět do Lysé.<br>
 
 <a href="../images/2023_december/10_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/10_3.jpg"></a>
 
-Na parkovišti jsme se rychle rozloučili, protože nám zrovna přijížděl vlak. Vojta byl nadšený. Byly to jeho první běžky. Byl zvyklý jen sjezdovat. Na Masaryčce jsme každý vyrazili vlastním směrem. Přecházet mezi Masaryčkou a Hlavákem je omrd. V tomhle Praha není nejlíp vymyšlená. Doma jsem byl kolem osmé. K večeři jsem si snědl tu bagetu, kterou jsem měl pro případ, že by nebyl oběd.
+Na parkovišti jsme se rychle rozloučili, protože nám zrovna přijížděl vlak. Vojta byl nadšený. Byly to jeho první běžky. Byl zvyklý jen sjezdovat. Na Masaryčce jsme každý vyrazili vlastním směrem. Přecházet mezi Masaryčkou a Hlavákem je omrd. V tomhle Praha není nejlíp vymyšlená. Doma jsem byl kolem osmé. K večeři jsem si snědl tu bagetu, kterou jsem měl pro případ, že by nebyl oběd.<br>
 
 ### 11.12. Lenky zpátky na Slovensko
 
 Míša měla den plný cest. Jela autem do práce. Pak jela vyzvednout řidičák na vyšehrad. Pak zas jela zpátky na roztyly a ještě nakupovala věci na Chodově. Já jsem to měl komornější. Došel jsem pěšky do práce. Rozebral totem a zas ho celý složil, kvůli výměně držáku jednotky. Ten starý byl o 1 mm jinde. Jeden posraný milimetr. Ale chtěli jsme to mít v cajku, tak jak říká dokumentace. Ve vietnamce jsme si dali s Vláďou udon a udon. Bylo to dle čísla stejné jídlo, ale každý jsme měli jinou omáčku. Já kari, vláďa karamelovou. Oboje bylo super.<br>
 Pouštět tiskárny z farmy je ultra jednoduché. I tak jsem to ale dokázal zautomatizovat ještě víc a napsal si na to skript. Jsem fakt línej člověk.<br>
-Po práci jsem zabalil Lenky do krabice, vytiskl a přibalil reklamační protokol a štítek a krabici zalepil.
+Po práci jsem zabalil Lenky do krabice, vytiskl a přibalil reklamační protokol a štítek a krabici zalepil.<br>
 
 <a href="../images/2023_december/11_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/11_1.jpg"></a>
 
@@ -240,26 +239,22 @@ Prý celý den nic nejedla a měla hlad. Měla ale v plánu vařit a najíst se 
 V Antonínovi jsme pořídili chleba. Na Míše už bylo fakt znát, že má hlad. Mé všetečné otázky jí trochu vytáčely. **Musím si do budoucna uložit do batohu nějakou svačinu poslední záchrany.**<br>
 V žabce ještě Miška pořídila Žervé a u ní doma jsme se pustili do přípravy jídla. Vajíčka na tvrdo na kousky v misce s rajčaty, tvarohem a kořením. K tomu Antonínův chleba a jakou sladkou tečku cukroví.<br>
 Po jídle se jí nálada skokově zlepšila lepší a začala mi dokonce odpovídat na otázky, na jejichž odpověď už jsem zanevřel.<br>
-Do postele jsme tentokrát šli docela brzo. Usínali jsme spolu naposledy na strašně dlouho, tak se úplně nedalo divit, že nám to trvalo docela dlouho.
+Do postele jsme tentokrát šli docela brzo. Usínali jsme spolu naposledy na strašně dlouho, tak se úplně nedalo divit, že nám to trvalo docela dlouho.<br>
 
 ### 12.12. Plavba Prahou
 
 Míša byla po probuzení odhodlaná vstát včas. Vlastně mě překvapilo jak rychle vyskočila z postele. Ale vyskočil jsem za ní. Co mi zbývalo. Čištění zubů, jablko k snídani a jablka do batohu. Bylo třeba se zbavit jídla co by se zkazilo za dobu co měla být pryč.<br>
-Spolu jsme sešli na Anděl a tramvaj přijela až nepříjemně brzy.
+Spolu jsme sešli na Anděl a tramvaj přijela až nepříjemně brzy.<br>
 
 <a href="../images/2023_december/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/12_1.jpg"></a>
 
 Odjela. Pět týdnů. Byl jsem zvědavý, jak to ponesu. Jestli budu žárlit na Adriena. Jestli budu smutný. Jestli mi to náhodou nebude úplně jedno. Nevěděl jsem. Byla to pro mě bezprecedentní situace.<br>
-Ale v tom momentu, kdy její tramvaj mizela někam na Zborovskou jsem smutný byl. A když jsem pak stál v béčku, udělal se mi úplný knedlík v krku a měl jsem slzy na krajíčku. Ztracen v úvahách, přišla mi zpráva:
-
-> Jsi skvělý kluk! 🩵
-
-Skoro jsem se rozesmál a upřímně odepsal:
-
-> A ty jsi skvělá dívka 💚
-
+Ale v tom momentu, kdy její tramvaj mizela někam na Zborovskou jsem smutný byl. A když jsem pak stál v béčku, udělal se mi úplný knedlík v krku a měl jsem slzy na krajíčku. Ztracen v úvahách, přišla mi zpráva:<br>
+> Jsi skvělý kluk! 🩵<br>
+Skoro jsem se rozesmál a upřímně odepsal:<br>
+> A ty jsi skvělá dívka 💚<br>
 Třeba máme šanci to dotáhnout na tu verandu, kde si v osmdesáti budeme číst.<br>
-Na odpoledne jsem potřeboval něco vánočního. Jinak mě prý nepustí na loď. Od pána, který před metrem prodával stromky, jsem si vzal větévku, kterou jsem si v kanclu přidělal stahovací páskou ke klopě.
+Na odpoledne jsem potřeboval něco vánočního. Jinak mě prý nepustí na loď. Od pána, který před metrem prodával stromky, jsem si vzal větévku, kterou jsem si v kanclu přidělal stahovací páskou ke klopě.<br>
 
 <a href="../images/2023_december/12_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/12_2.jpg"></a>
 
@@ -277,72 +272,69 @@ Loď nás vzala proti proudu řeky. Do zdymadla. Kolem žlutých lázní až pod
 Jídla byl randál. Pivo točili do trojek a s lidmi z ostatních firem jsme se nijak zvlášť nedružili. Vlastně jsme byli rozdělení vývoj / výroba. Musíme to příště polepšit. Čas od času někdo otevřel skleněnou střechu a lidé si fotili noční Prahu. Obzvlášť ty rozsvícené Žluté lázně.<br>
 Povídali jsme si Charlesem, který na podzim roku 2024 chce na své jachtě přejet z Řecka na Kanáry a odtud do Ameriky. Prý bude dobrý vítr. Inu, jsem zvědavý.<br>
 Celkově jsme ale skončili dost brzy.<br>
-Někdy po osmé jsem volal Mišce, zda by nechtěla abych za ní ještě přijel a ráno jí doprovodil na autobus. Přišlo jí to zbytečný. Trochu mě to rozesmutnilo, ale přijal jsem to. A tak jsme šli  kluky od právnické směrem do Karlína a u Masaryčky se rozdělili. Ivan s Váďou pokračovali dál a já s Jirkou se oddělili na cestu na Hlavák, kde Jirkovi jel vlak do Hradce a já po mírném zmatení se slávisty nasedl do Elephantu do Vršovic.
+Někdy po osmé jsem volal Mišce, zda by nechtěla abych za ní ještě přijel a ráno jí doprovodil na autobus. Přišlo jí to zbytečný. Trochu mě to rozesmutnilo, ale přijal jsem to. A tak jsme šli  kluky od právnické směrem do Karlína a u Masaryčky se rozdělili. Ivan s Váďou pokračovali dál a já s Jirkou se oddělili na cestu na Hlavák, kde Jirkovi jel vlak do Hradce a já po mírném zmatení se slávisty nasedl do Elephantu do Vršovic.<br>
 
 ### 13.12. Je pryč
 
-Po třetí ráno mi zazvonil budík. Napsal jsem Mišce, jak je na tom. Její reakce byla srdcehřívá, ale přišla mi maličko přehnaná. Cituji:
-
->To je jedna z nejhezčích věcí, kterou pro mě kdo kdy udělal. 🩵
-
+Po třetí ráno mi zazvonil budík. Napsal jsem Mišce, jak je na tom. Její reakce byla srdcehřívá, ale přišla mi maličko přehnaná. Cituji:<br>
+>To je jedna z nejhezčích věcí, kterou pro mě kdo kdy udělal. 🩵<br>
 Prostě jsem se jen zeptal. Byla už na zastávce, vzala si tágo. Já jsem pořád váhal, zda jsem přece jen neměl jet za ní, ale vymlouvala mi to. Když nastoupila do autobusu, šel jsem zas spát.<br>
-Ráno mi pak ujel vlak před nosem. Ne že bych šel na nějaký konkrétní. Stejně mě to ale rozezlilo.
+Ráno mi pak ujel vlak před nosem. Ne že bych šel na nějaký konkrétní. Stejně mě to ale rozezlilo.<br>
 
 <a href="../images/2023_december/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/13_1.jpg"></a>
 
 V práci už byli skoro všichni. Zdálo se, že všichni měli nějaký cally. Já jsem si potichoučku pájel a přemýšlel, jaký to bude, 40 dní se nevidět.<br>
 Jirka byl hladovej a tak jsme velmi brzky vyrazili do jídleny. Po obědě mi Míša volala, když jsem vyměňoval tisky na tiskárně. DB měl zpoždění, ale s tím se počítalo. Proto vyrazila tak brzy.<br>
 Po práci jsem šel na návštěvu za Sárou. Byli jsme dva našimi partnery v Praze zanechaní.<br>
-Sára uvařila čaj, který prý Jarda pije furt, ale podle mě neměl žádnou chuť. Vyprávěla mi o cestě od klienta v taxíku, který boural. O stržených trolejích a o dalších katastrofách, co se kolem ní dějí.``
-Kora byla po koupeli a byla kartáčem načechraná. Na fotce to není tak vidět, ale vypadala o 5 kilo větší.
+Sára uvařila čaj, který prý Jarda pije furt, ale podle mě neměl žádnou chuť. Vyprávěla mi o cestě od klienta v taxíku, který boural. O stržených trolejích a o dalších katastrofách, co se kolem ní dějí.``<br>
+Kora byla po koupeli a byla kartáčem načechraná. Na fotce to není tak vidět, ale vypadala o 5 kilo větší.<br>
 
 <a href="../images/2023_december/13_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/13_2.jpg"></a>
 
-Řešili jsme, jestli jsme letos navštívili dost zemí. Já jsem poprvé prokaučoval svůj plán 5 nových. Ale nemůže být každý rok posvícení. Švýcarsko a Slovinsko musely stačit. Domů jsem si odnášel termosku, kterou jsem chtěl. A štolu, odporně sladkou věc s nápisem BOSCH, kterou jsem nechtěl, ale co naděláš.
+Řešili jsme, jestli jsme letos navštívili dost zemí. Já jsem poprvé prokaučoval svůj plán 5 nových. Ale nemůže být každý rok posvícení. Švýcarsko a Slovinsko musely stačit. Domů jsem si odnášel termosku, kterou jsem chtěl. A štolu, odporně sladkou věc s nápisem BOSCH, kterou jsem nechtěl, ale co naděláš.<br>
 
 <a href="../images/2023_december/13_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/13_3.jpg"></a>
+
 
 ### 14.12. Malé žluté letadélko
 
 Po ránu jsem si připravil smoothie ze zázvoru, kukrkumy, banánu a pomeranče. Doufal jsem, že tím zaženu otok v krku. Kurkuma je zrádná. Koupil jsem jí v bio kvalitě a věřím že je dobrá, ale žlutý je od ní úplně všechno. A to nechceš. Příště se vrátím k prášku.<br>
 Do Karlína jsem dojel vlakem. Během oprav desek z Krakowa jsem poslouchal přednášku o beta glukanech.<br>
 Od [Minulé neděle](#312-mezi-běžkaři) jsem do deníku nezapsal ani slovo. Bylo třeba s tím pohnout. Stalo se toho hodně.<br>
-
-Večer jsem se díval na flight radar. Míša přistávala v Aucklandu. Na opačný straně planety ode mě. Bylo mi z toho ouzko.
+Večer jsem se díval na flight radar. Míša přistávala v Aucklandu. Na opačný straně planety ode mě. Bylo mi z toho ouzko.<br>
 
 <a href="../images/2023_december/14_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/14_1.jpg"></a>
 
 
 ### 15.12. Střípky dream teamu
 
-[Téměř přesně rok zpátky](../2022_december#2212-nic-se-mi-nechce) jsem napsal: Nic se mi nechce, stress na hodinkách, nechuť ke všemu a pocit že druhá polovina tohohle roku stála za prd.
+[Téměř přesně rok zpátky](../2022_december#2212-nic-se-mi-nechce) jsem napsal: Nic se mi nechce, stress na hodinkách, nechuť ke všemu a pocit že druhá polovina tohohle roku stála za prd.<br>
 S tím posledním jsem v tomhle roce nemohl souhlasit. Poslední půlrok byl jeden z nejlepších půlroků vůbec. Ale ráno jsem se probudil se všemi ostatními vyjmenovanými pocity. Ne ráno. V noci jsem se budil.<br>
 Bolest v krku mě opustila, ale přišla na mě slabost. Rozhodně jsem byl nějaký nakřáplý a říkal jsem si, že jít večer na pivo je kokotina.<br>
 V práci jsem opravoval desky z Krakowa. Sundavání a nandavání procesorů. Nijak zvlášť zábavná činnost. Ale já vlastně pájím rád.<br>
 Míša šla spát, chvíli po tom co jsem dorazil do práce. I přes to, že jsem to věděl, padlo na mě, že nebude lehký najít společný čas.<br>
-Po práci jsem se dozvěděl, že na Filipa přišel Covid, Marek nás zazdil a Honzova mladá prý chtěla, aby se o ní staral, když jí je blbě místo toho aby vyrážel do víru velkoměsta. Aspoň že Skořič byl pro.
+Po práci jsem se dozvěděl, že na Filipa přišel Covid, Marek nás zazdil a Honzova mladá prý chtěla, aby se o ní staral, když jí je blbě místo toho aby vyrážel do víru velkoměsta. Aspoň že Skořič byl pro.<br>
 
 ### 16.12. Činit lepší rozhodnutí
 
-Probudil jsem se s s bolehlavem a vyřízenej. Ne že bych to nečekal, necítil jsem se stoprocentně už při cestě na pivo a piva, když tělo trochu bojuje člověku nepřidají. I přes naspaní osmi hodin mi hodinky daly 43 spacích bodů. Převážně kvůli stresu. Moje tělo evidentně stále bojovalo s nemocí.
+Probudil jsem se s s bolehlavem a vyřízenej. Ne že bych to nečekal, necítil jsem se stoprocentně už při cestě na pivo a piva, když tělo trochu bojuje člověku nepřidají. I přes naspaní osmi hodin mi hodinky daly 43 spacích bodů. Převážně kvůli stresu. Moje tělo evidentně stále bojovalo s nemocí.<br>
 
 <a href="../images/2023_december/16_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/16_1.jpg"></a>
 
 Během dopoledne jsem si říkal, že zapadám zpátky do destruktivních vzorců chování. Opět jsem začal sledovat porno. Sice jsem vybíral jen videa amatérských párů, na nichž bylo vidět, že se milují. Ale stejně. Od těhle videí je to jen krok k profesionální produkci videí, jenž člověka uzavírá do sestupné spirály. Taky jsem měl v týdnu maso. A to jsem ho fakt nechtěl. Jenže jídelna. Po zdražení ale jídelnou člověk stejně neušetří.<br>
-Bylo třeba těmhle přešlapům učinit přítrž. Rozhodl jsem se, že dobrý postup je si to napsat. Chci:
-
+Bylo třeba těmhle přešlapům učinit přítrž. Rozhodl jsem se, že dobrý postup je si to napsat. Chci:<br>
 - Opět skoncovat s pornografií
 - Víc si vařit a tím minimalizovat potřebu jíst v jídelně
 - Opravdu spát pravidelně 8 hodin
 - Víc cvičit
 - Víc číst a mín koukat do displejů
-
 Začal jsem tím jídlem. Ve své nové pánvi jsem orestoval květák, mrkev a brokolici. V rýžovaru jsem měl rýži s čočkou a jako bílkovinu naložené tofu. Chutnalo to jednoduše a moc dobře.<br>
 V krátkém časovém oknu které s Míšou máme jsme se dohodli, že v neděli si zavoláme. Pro ní večer, pro mě ráno.<br>
 Většinu dne jsem zabil čtením. *Strike* má přes tisíc stránek. To chvíli trvá.<br>
-Večer mi napsala Sára. Prý měla kocovinu a venčení Kory by nedala. Nahodil jsem tedy oblečení a vydal se za ní. Spolu se psem jsme vyrazili kolem Botiče, do psího parku, tunelem do Nuslí, a pak zas k Botiči.
+Večer mi napsala Sára. Prý měla kocovinu a venčení Kory by nedala. Nahodil jsem tedy oblečení a vydal se za ní. Spolu se psem jsme vyrazili kolem Botiče, do psího parku, tunelem do Nuslí, a pak zas k Botiči.<br>
 
 <a href="../images/2023_december/16_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/16_2.jpg"></a>
+
 
 ### 17.12. Poklicové selhání
 
@@ -354,28 +346,28 @@ Den se rychle krátil a já chtěl stihnout aspoň trochu slunce. Vyrazil jsem p
 V Tchibo změnili Colombia Decaf opět na Brazil Decaf. Inu nekoupil jsem ho. Ale vyzkoušel jsem decaf v McDonald's. Zaujala mě akustická úprava stropu. Opravdu v tom mekáči byla radost sedět. Je to blbý, když chainy mají lepší akustiku než malé podniky. Páteční Vrátnice v Kalíně na tom ale byla fakt tragicky.<br>
 V Podolí jsem byl víc v páře než v bazénu. Ale klidných 800 metrů bylo fajn. Zpátky jsem jel na nextbiku. Kroků už jsem měl habaděj.<br>
 Přemýšlel jsem nad tím jak mi chybí Míša. Těžko to kvantifikovat. Vlastně to jde ode zdi ke zdi. Jsou momenty, kdy jsem úplně v pohodě. A pak přijde chvíle kdy je mi do breku, protože bych jí chtěl mít u sebe.<br>
-Doma jsem objevil, že poklice se do pánve sice vejde, ale nesedí dobře. Rozhodl jsem se, že jí vrátím. Byl jsem ale naštvaný. Měl jsem si tu pánev vzít s sebou.
+Doma jsem objevil, že poklice se do pánve sice vejde, ale nesedí dobře. Rozhodl jsem se, že jí vrátím. Byl jsem ale naštvaný. Měl jsem si tu pánev vzít s sebou.<br>
 
 ### 18.12. Brainstorming
 
 Vláďa do práce přinesl odporový drát a tlačítko na opravu mé myše. Když jsem ho vyměnil, získala úplně novou fíčuru. Uspokojivé KLAP, při stisku kolečka. A taky zase fungovala jak měla. Opravovat věci se vyplácí.<br>
 Vláďa s drátem takové úspěchy nezažíval. Zas tak moc nehřál a byl tak tenký, že propaloval díru do obalu článku. Kdyby se to stalo v baterii, tak by to zkratovalo články k sobě. A to nechceš.<br>
-A tak jsme začali brainstormovat zda to není celé kokotina. Ale Ivana napadlo místo drátu použít flexpásek. Místo metru oddporového drátu desetimetry mědi? Místo nedefinovaného místa hezký pásek. Sem s tím. Po půl dne nám ale začalo docházet, že jak do baterky jednou vložíme pásek, je tam napořád. nacpat do sestaveného packu prostě nešlo. A když někdo při montáži zničí konektor, můžeme vyhodit baterku. A někdo zničí konektor, to se prostě stane.
+A tak jsme začali brainstormovat zda to není celé kokotina. Ale Ivana napadlo místo drátu použít flexpásek. Místo metru oddporového drátu desetimetry mědi? Místo nedefinovaného místa hezký pásek. Sem s tím. Po půl dne nám ale začalo docházet, že jak do baterky jednou vložíme pásek, je tam napořád. nacpat do sestaveného packu prostě nešlo. A když někdo při montáži zničí konektor, můžeme vyhodit baterku. A někdo zničí konektor, to se prostě stane.<br>
 
 <a href="../images/2023_december/18_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/18_1.jpg"></a>
 
 A pak mě to napadlo. Dáme ho na stranu. Což je na první pohled nesmysl. Ale když na flexu vystřihneme ouška a ohneme je do boku, můžeme je vsunout mezi články tak, abychom hřáli uvnitř.<br>
 Vláďu dokonce napadlo jak ouška prodloužit na větší délku než nabízí Céčkový profil. Začínalo to nabírat obrysy.<br>
-Po práci mě ještě čekalo několik událostí. Bazén, kde jsem uplaval kilometr jen kraulovýma rukama. Sváča na Bezovce. Jízda do kostelu sv. Salvátora, kde měla Nasťa koncert a pak přesun do světozoru na ČSFD projekci.
+Po práci mě ještě čekalo několik událostí. Bazén, kde jsem uplaval kilometr jen kraulovýma rukama. Sváča na Bezovce. Jízda do kostelu sv. Salvátora, kde měla Nasťa koncert a pak přesun do světozoru na ČSFD projekci.<br>
 
 <a href="../images/2023_december/18_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/18_2.jpg"></a>
 
 Škoda, že jsem si s Našťou nestihl popovídat. Musel jsem vyrazit ještě před koncem koncertu. [Píseň](https://open.spotify.com/track/6UDFkqHY5gLREnSh9jd5th), která zněla jako znělka civilizace nebo tak něco, byla ale parádní.<br>
-Jestli byl film s Nicolasem Cagem taky parádní, říct úplně nedokážu. Zahrál to skvěle. Scénář měl nášlap, ale pak se to nějak vytrácelo a na konci jsem se cítil spíš zklamaně. Nebo spíš osaměle. Chtěl jsem vedle sebe mít Mišku. Chytit jí zaruku a obejmout jí. Napsal jsem jí to.
+Jestli byl film s Nicolasem Cagem taky parádní, říct úplně nedokážu. Zahrál to skvěle. Scénář měl nášlap, ale pak se to nějak vytrácelo a na konci jsem se cítil spíš zklamaně. Nebo spíš osaměle. Chtěl jsem vedle sebe mít Mišku. Chytit jí zaruku a obejmout jí. Napsal jsem jí to.<br>
 
 <a href="../images/2023_december/18_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/18_3.jpg"></a>
 
-Ale byla na druhý straně planety. Sednul jsem tak na draka a jel domů do prázdný postele.
+Ale byla na druhý straně planety. Sednul jsem tak na draka a jel domů do prázdný postele.<br>
 
 ### 19.12. Vojta opět v Karlíně
 
@@ -383,11 +375,11 @@ V úterý jsem byl v práci převázně sám. Tu a tam se tam objevil Petr, ale 
 Vojta přišel před jedenáctou. Návštěva lékaře mu zabrala míň než čekal. Chvíli jsme si povídali a pak dali Vláďovi vědět, že jdeme do Vietnamky.<br>
 Odpoledne jsem se věnoval opravám.<br>
 V bazénu jsem pokračoval v plavání jenom rukama. Tentokrát jsem dal v kuse dokonce 1250m.<br>
-Bez bílkovin je cvičení ale téměř k prdu. Pustil jsem se tak do vaření sójových kostek. Jídlo co jsem poměrně rychle spíchl mi Miška skoro záviděla.
+Bez bílkovin je cvičení ale téměř k prdu. Pustil jsem se tak do vaření sójových kostek. Jídlo co jsem poměrně rychle spíchl mi Miška skoro záviděla.<br>
 
 <a href="../images/2023_december/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/19_1.jpg"></a>
 
-Koukal jsem na youtube na lidi, kteří dodržují blueprint protocol. Možná proto jsem doma ještě chvíli cvičil. Ale možná to bylo proto, že podvědomě chci kouknout do zrcadla a vidět tam svalnatýho fešáka.
+Koukal jsem na youtube na lidi, kteří dodržují blueprint protocol. Možná proto jsem doma ještě chvíli cvičil. Ale možná to bylo proto, že podvědomě chci kouknout do zrcadla a vidět tam svalnatýho fešáka.<br>
 
 ### 20.12. Tichý ohňostroj
 
@@ -395,49 +387,47 @@ Míša měla volnější večer. V noci pršelo a kdybych jel vlakem, mohli bych
 Napřed nás v telefonátu odřízl tunel pod Vinohrady. Potom tunel pod nádražím. Potom hledání Tchiba. A pak zas tunel. Mimochodem Tchibo jsem nenašel. Onen krám prostě zrušili. Je tam místo něho Costa.<br>
 Pověděla mi to paní v Oxalisu od které jsem si koupil nějaký bio decaf.<br>
 Tunel nás ještě jednou odřízl, ale pak už jsme si povídali celou cestu až do práce. Tam jsme pokračovali v bateriovém brainstormingu. Došlo nám, že kabely můžeme vynechat úplně. Jenže co se senzory. SMD? takovou 0402 bychom tam mohli nacpat.<br>
-Ověřil jsem to. Vláďa z nějakého displeje vykuchal flex a já na něj napájel součástku, která byla u displejového driveru. Neztratit jí byl ojeb, Ale protáhnout mezi články šla úplně v klidu. Začal jsem tomu opravdu věřit.
+Ověřil jsem to. Vláďa z nějakého displeje vykuchal flex a já na něj napájel součástku, která byla u displejového driveru. Neztratit jí byl ojeb, Ale protáhnout mezi články šla úplně v klidu. Začal jsem tomu opravdu věřit.<br>
 
 <a href="../images/2023_december/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/20_1.jpg"></a>
 
 Takže jsme museli překreslit fbbc. Navthl jsem konektor jako v iPhonu. Vláďa udělal výzkum a zjistil, že je nejen dostatečně malej, ale dokonce i levnej. Jen napájet ho bude fakt voser.<br>
 V době oběda se začali trousit do Karlína lidé z Malešic. Měla být porada. O hodinu dříve než je zvykem. Nijak moc jsme toho ale nevyporadovali. Baterka byla zajímavější.<br>
-K ondrovi na vánoční sraz jsem jel metrem, metrem a pak tramvají. Dorazil jsem první. Nováčkovic v závěsu.
+K ondrovi na vánoční sraz jsem jel metrem, metrem a pak tramvají. Dorazil jsem první. Nováčkovic v závěsu.<br>
 
 <a href="../images/2023_december/20_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/20_2.jpg"></a>
 
 Jarda přiletěl, ale rozhodl se že nepojede k nám ale za Sárou, která večírek zazdila. Ondra byl naštvanej. To datum vybral kvůli nim, protože takhle se čtvrt roku neuvidí.<br>
 Řešili jsme co na Silvestra. Jestli na chatu, jestli pozvat Niki, která ale zřejmě plánovala být v Praze s Víťou a tak.<br>
 Moc jsme toho nevyřešili. Ale zahráli jsme si fajn karetní hru, kde jsme budovali ohňostroje. Nikdo mi neradil, protože jsem měl blbý karty. Ale výsledek zněl: *Obecnesvo je nadšené*<br>
-V 11 večer jsem vyrazil na dva a dvacítku. Přestup na šestku na Karláku mi nevyšel. Vyprchala mi jízdenka a já tak nakonec stejně jel další dva a dvacítkou a byl nucet to dojít z Ruský.
+V 11 večer jsem vyrazil na dva a dvacítku. Přestup na šestku na Karláku mi nevyšel. Vyprchala mi jízdenka a já tak nakonec stejně jel další dva a dvacítkou a byl nucet to dojít z Ruský.<br>
 
 ### 21.12. Svět se zbláznil
 
 Vstával jsem lehce před osmou. Ověřil jsem, že ledová sprcha večer pomáhá se stresem ve spánku, i přes spánek dlouhý 6:53 mi hodinky daly 83/100.<br>
 Do práce jsem vyrazil na drakovi. Na Bělehradský jsem spatřil DJ stoupat do kopce. I s motorem jel tak 15 km/h. Šlápl jsem do pedálů a se slovy *Čekal bych víc od těch elektrol!* jsem ho předjel a vyjel na magistrálu. Předjel jsem ho skoro o 10 minut.<br>
 Ale asi jsem to neměl dělat. V tom rychlém výstupu jsem se zadýchal a ledový vzduch do plic nebyl nic moc.<br>
-Ivan nám poslal DXF vyhřívacího pásku. Ze zvědavosti jsem si ho vytiskl, slepil a vystřihl. Do modelu seděl pěkně. Myslím, že oproti baterii od Bechu to bude velký pokrok.
+Ivan nám poslal DXF vyhřívacího pásku. Ze zvědavosti jsem si ho vytiskl, slepil a vystřihl. Do modelu seděl pěkně. Myslím, že oproti baterii od Bechu to bude velký pokrok.<br>
 
 <a href="../images/2023_december/21_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/21_1.jpg"></a>
 
 Eva mi poslala článek, že na fildě se střílí. Nějakej magor se samopalem šel po vzoru amerických škol vystřílet spolužáky. Moc jsem tomu nevěřil. Teda, psali to na čt24 a ti jsou důvěryhodní. Spíš jsem to odmítal akceptovat jako realitu. Tohle se přece v Česku neděje.<br>
 Ale dělo. Umřelo asi patnáct lidí.<br>
 Když jsem si o tom pak četl doma, bylo mi z toho blbě. Škola je pro mě svatá půda. za většinu toho, kým dneska jsem vděčím škole. Myšlenka, že jdu na zkoušku a někdo mě zastřelí je hrozná. Myšlenka, že mi někdo zastřelí kamarády je hrozná. Nechápal jsem to. A nemyslím si, že to šlo pochopit.<br>
-Potěšilo mě ale, že mi napsala Joosje. Její:
-
-> Healthy and safe?
-
+Potěšilo mě ale, že mi napsala Joosje. Její:<br>
+> Healthy and safe?<br>
 Mě zahřálo u srdce. Chvilku jsme si psali.<br>
-Míša ze zpráv taky působila, že jí to dost rozhodilo. Aby ne. Všechny to rozhodilo. Svět se zbláznil.
+Míša ze zpráv taky působila, že jí to dost rozhodilo. Aby ne. Všechny to rozhodilo. Svět se zbláznil.<br>
 
 ### 22.12. Poslední den v práci
 
 I tentokrát jsem spatřil DJe cestou. Zrovna nastupoval. Ovšem příjezd do Karlína jsme si prohodili. Já se totiž ještě stavěl v lékárně pro magnesium a betaglukany.<br>
 Protože jsem měl špenátové noky s sebou, nepřidal jsem se v poledne k ostatním, jdoucím do indie, i přes to, že to byl vlastně můj nápad. Za okny se ale v průběhu oběda udělalo tak hnusně, že jsem toho nijak zvlášť nelitoval.<br>
-Většinu dne jsem kreslil obrázky v inkscape. Vypadaly trochu dětsky, ale rozhodně byly pochopitelnější než fotky.
+Většinu dne jsem kreslil obrázky v inkscape. Vypadaly trochu dětsky, ale rozhodně byly pochopitelnější než fotky.<br>
 
 <a href="../images/2023_december/22_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/22_1.jpg"></a>
 
-Dal jsem tisknout poslední plasty v roce. Postupně jsme se loučili. Vláďa vyjel první za bráchou a pak autem na jih. Potom šel Petr a pak já. Ivan ještě řešil aktualizace a DJ manuál, ze kterého jsem nebyl nadšený. Vlastně mi přišel příšerný. Ale nějak jsem neměl sílu s tím něco dělat.
+Dal jsem tisknout poslední plasty v roce. Postupně jsme se loučili. Vláďa vyjel první za bráchou a pak autem na jih. Potom šel Petr a pak já. Ivan ještě řešil aktualizace a DJ manuál, ze kterého jsem nebyl nadšený. Vlastně mi přišel příšerný. Ale nějak jsem neměl sílu s tím něco dělat.<br>
 
 ### 23.12. Máma s Petrem do Vršovic
 
@@ -449,22 +439,23 @@ Byli v Zéladnii koukat na místní ptactvo. Přespávali ve fancy bytu s výhle
 Na bazén jsem měl asi jen půl hodinu. Chvilka v páře a kilometr pod 20 minut. Venku ale pršelo. Máma ale přijížděla do Libně a tak jsem to hecnul, půjčil si nextbike a v dešti přejel přes pražák na nádraží. Přijel promočený, ale načas. Petr přišel z tepla nádražní budovy a společně jsme se vydali ke mně domů.<br>
 K obědu jsem uvařil noky se špenátem a s tofu. Všem to buď chutnalo, nebo se rozhodli být taktní a pochválit mi to. Vlastně kromě máminý poznámky o tom, že ze sóji se posere.<br>
 Najedení jsme sepsali seznam a vyrazili na nákup. Nakupovat najedený je vždycky rozumnější. Nákup jsme uložili dom a tramvají vyrazili na výstavu betlémů do betlémské kaple. Šestka jede na Lazarskou. To mi úplně nedošlo. Ale z Lazarský už to byl jen kousek.<br>
-V podzemí, kde se výstava odehrávala, byl za kasou takový postarší, ale aktivní a upovídaný pán. Myslím, že to organizuje každý rok a i minule mě značně vysíral. Lidu tam byl trilion a betlémů taky. Zaujaly mě kyvadlové hodiny se zvonovým mechanismem. Máma se zasekla u pultu s cetkami a potom si pustila skleněnku na kuličkové dráze.
+V podzemí, kde se výstava odehrávala, byl za kasou takový postarší, ale aktivní a upovídaný pán. Myslím, že to organizuje každý rok a i minule mě značně vysíral. Lidu tam byl trilion a betlémů taky. Zaujaly mě kyvadlové hodiny se zvonovým mechanismem. Máma se zasekla u pultu s cetkami a potom si pustila skleněnku na kuličkové dráze.<br>
 
 <a href="../images/2023_december/23_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/23_1.jpg"></a>
 
 Deštěm zpátky jsme šli na Karlák.<br>
-Doma jsem se vrhl na pečení Tartiflette. Od DJova perfekcionismu to bylo daleko, ale dal jsem si záležet. Během čekání na upečení brambor jsme hráli deskovku *Všechny divy světa*, kterou jsem dostal rok dva zpátky od Evy a Petra. Byla dobrá. Každý jsme něco věděli.
+Doma jsem se vrhl na pečení Tartiflette. Od DJova perfekcionismu to bylo daleko, ale dal jsem si záležet. Během čekání na upečení brambor jsme hráli deskovku *Všechny divy světa*, kterou jsem dostal rok dva zpátky od Evy a Petra. Byla dobrá. Každý jsme něco věděli.<br>
 
 <a href="../images/2023_december/23_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/23_2.jpg"></a>
 
-Brambory chutnaly výborně. Dojedli jsme je někdy kolem deváté. Petr pak vyrazil na ubytovnu a máma po chvíli povídání a dlouhém dnu šla spát. Já si ještě chvilku psal s Miškou, protože už měla ráno.
+Brambory chutnaly výborně. Dojedli jsme je někdy kolem deváté. Petr pak vyrazil na ubytovnu a máma po chvíli povídání a dlouhém dnu šla spát. Já si ještě chvilku psal s Miškou, protože už měla ráno.<br>
 
 <a href="../images/2023_december/23_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/23_3.jpg"></a>
 
+
 ### 24.12. Svíčky za obě babičky
 
-Celou noc mě budilo pískání z venku. Neměl jsem úplně chuť nějak to řešit. Ale v hlavě se mi vířily i plány zavolat fízly. Rána mi došla trpělivost. Vyštrachal jsem ve skříni kinesiotape, protože lepší pásku jsem nenašel a v teplácích došel k sousedům a pískající interkom zalepil.
+Celou noc mě budilo pískání z venku. Neměl jsem úplně chuť nějak to řešit. Ale v hlavě se mi vířily i plány zavolat fízly. Rána mi došla trpělivost. Vyštrachal jsem ve skříni kinesiotape, protože lepší pásku jsem nenašel a v teplácích došel k sousedům a pískající interkom zalepil.<br>
 
 <a href="../images/2023_december/24_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/24_1.jpg"></a>
 
@@ -472,13 +463,13 @@ Nepomohlo to úplně, ale několik decibelů to ubralo a při zavřeném okně u
 Pustili jsme se do snídaně a dali Petrovi vědět ať dorazí.<br>
 Čekala nás příprava salátu. Uvařil jsem vajíčka, máma oloupala brambory a když jsme zjistili, že nemám kolečko na krájení brambor, Petr se ještě otočil v Edenu a pořídil ho.<br>
 Všechno jsem pokrájel do mísy, máma to zamíchala s omáčkou a hotový salát jsme uložili ven na balkon. K obědu jsme měli druhou polovinu včerejších brambor. Byly snad ještě lepší. Akorát okurky skončily v salátu, takže k okyselení zbyl jen lák.<br>
-Venku nepršelo. Vyrazili jsme proto procházku. Pěšky na Vyšehrad, prohlédnout si betlém uvnitř. Dál nás naše kroky vedly na náplavku, kde jsme si vyfotili společnou fotku.
+Venku nepršelo. Vyrazili jsme proto procházku. Pěšky na Vyšehrad, prohlédnout si betlém uvnitř. Dál nás naše kroky vedly na náplavku, kde jsme si vyfotili společnou fotku.<br>
 
 <a href="../images/2023_december/24_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/24_2.jpg"></a>
 
 Poslední zastávka před západem slunka byl kostel sv. Vojtěcha. Ten mě překvapil. Byla v něm dobrá akustika. Asi díky červenému koberci. Zapálili jsme dvě svíčky. Jednu za každou z mých babiček.<br>
 Za tmy jsme chtěli vidět světýlka ve Žlutých lázních. Pětkou jsme dojeli na Lihovar, došli k řece a objevili, že štědrý den je den bez světýlek.<br>
-Co už. Doběhli jsme dvacítku, počkali na Andělu 15 minut na sedmičku a doma jsme se pustili do smažení celerových řízků. Máma obalovala, jí smažil. Šlo to rychle. Na nerezové pánvi jsem potřeboval překvapivě málo oleje a stačil mi nejmenší plamen.
+Co už. Doběhli jsme dvacítku, počkali na Andělu 15 minut na sedmičku a doma jsme se pustili do smažení celerových řízků. Máma obalovala, jí smažil. Šlo to rychle. Na nerezové pánvi jsem potřeboval překvapivě málo oleje a stačil mi nejmenší plamen.<br>
 
 <a href="../images/2023_december/24_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/24_3.jpg"></a>
 
@@ -486,18 +477,18 @@ Kromě celeru jsme ještě měli každý třetinu obaleného eidamu. Vánoční 
 Celer měl úspěch. Nutričně je to slabota, ale aspoň to není tragédie. A chuťově.. není to maso. Je to celer v trojobalu. Celer je dobrej a trojobal taky.<br>
 Po večeři jsme si předali dárky. Máma dostala šálu, svíčku a zdravý likér na rýmu. Já druhý likér. A Petr svíčku. Měl jsem radost, že materiálních dárků bylo minimum a byly promyšlené.<br>
 Po jídle jsem promítal fotky z cesty na kole z La Rochelle do Prahy. Petr je ještě neviděl.<br>
-Myslím, že jsme to zvládli moc hezky. Sice jsme zapomněli uvařit svařák, ale co naděláš.
+Myslím, že jsme to zvládli moc hezky. Sice jsme zapomněli uvařit svařák, ale co naděláš.<br>
 
 ### 25.12. Nic nedělání
 
-Máma mě probudila štracháním v koupelně. Spal jsem přes 9 hodin a od hodinek dostal skóre 86. Ale klidně bych ještě ležel. Posnídali jsme vánočku, čaj a kafe a pak jsem mámu doprovodil na vlak.
+Máma mě probudila štracháním v koupelně. Spal jsem přes 9 hodin a od hodinek dostal skóre 86. Ale klidně bych ještě ležel. Posnídali jsme vánočku, čaj a kafe a pak jsem mámu doprovodil na vlak.<br>
 
 <a href="../images/2023_december/25_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/25_1.jpg"></a>
 
 Měl jsem před sebou volný týden. V deníku zelo 57 nedopsaných dní za rok 2023. Většina z nich měla poznámky. Pár ne. Docela jsem chtěl z poznámek sepsat smysluplné texty. Taky jsem se ale chtěl válet. Dočíst knihu. A pustit se do programování zigbee.<br>
 Den jsem začal pročítáním toho jak funguje nemocenská u OSVČ. Pokud bych někdy chtěl jít na otcovskou dovolenou, čerpat mateřský příspěvek nebo od státu něco dostat v momentě, kdy se zrakvím, musel bych si po asi 2 roky platit nemocenské pojištění. A to jsem totálně nedělal. Rozhodl jsem se že od začátku roku 2024 budu. Dle webu se zvedl minimální poplatek. S paušální daní ale existuje i poplatek maximální a není o moc větší. Sociálka byla co do informací poměrně skoupá. Většina článků se stále zabývala rokem 2023 a na lidi s paušální daní se docela sralo. Taky jsem přesně nepochopil kam, dokdy a s jakými symboly peníze posílat. Přes ePortál jsem se ale k platbě přihlásil a doufal, že mi informace přijdou do datovky.<br>
 Pak jsem si dal salát a uleželý celer. K tomu jsem si pustil velmi nudný nový díl Simpsonů a pak se končeně pustil do psaná deníku.<br>
-Sepsat 52 dní asi byla utopie. Ale některé ty důležité, jako například [Dvojvrstvě opeřená](../2023_september/#309-dvojvrstvě-opeřená), [Humorné přešlapy](../2023_september/#129-humorné-přešlapy) nebo - [Deset úkolů pro Dobrodruha](../2023_july/#77-deset-úkolů-pro-dobrodruha-část-první) jsem chtěl dopsat.
+Sepsat 52 dní asi byla utopie. Ale některé ty důležité, jako například [Dvojvrstvě opeřená](../2023_september/#309-dvojvrstvě-opeřená), [Humorné přešlapy](../2023_september/#129-humorné-přešlapy) nebo - [Deset úkolů pro Dobrodruha](../2023_july/#77-deset-úkolů-pro-dobrodruha-část-první) jsem chtěl dopsat.<br>
 
 ### 26.12. Pozpátku
 
@@ -506,22 +497,22 @@ Kokotina nebo ne? Knees over toes Guy si myslí že ne. A spousta článků to p
 *Kam ale bežět?*<br>
 Do bazénu. Multisportku je třeba využít. Taky jsem si říkal, že pára a ledový bazén mi v rekonvalescenci po běhu pomůžou.<br>
 Snad to tak bylo. Akorát brýle jsem ztratil.<br>
-Zbytek dne jsem četl. Taky jsem si psal s Davidem. Byl s Týnou v Lodndýně. Noha ho pořád bolí, ale ušli 17000 korků, tak se asi lepší.
+Zbytek dne jsem četl. Taky jsem si psal s Davidem. Byl s Týnou v Lodndýně. Noha ho pořád bolí, ale ušli 17000 korků, tak se asi lepší.<br>
 
 ### 27.12. Je pryč už dlouho
 
-Ráno mi napsala Míša. Poslala mi video jak jde po pláži.
+Ráno mi napsala Míša. Poslala mi video jak jde po pláži.<br>
 
 <p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2023_december/27_1.mp4" type="video/mp4"></video></p>
 
 Byl to patnáctý den ze čtyřiceti. Chyběla mi čím dál víc. Nejvíc mě na tom štvalo, že se vrátí a já odjedu na měsíc. Řekl jsem si, že do deníku musím přidat nějakou sekci vděčnosti. Objektivně jsem se totiž měl skvěle. Skoro líp než kdy jindy. Ale stejně na mě šla trudomylsnost. Už jsem jí chtěl zpátky.<br>
 Bolely mě lýtka. Jakože hodně. Asi jsem to s tím během pozpátku přestřelil. Přemýšlel jsem jak z toho ven. Klidem? To bych zas už nikdy nevyběhnul. Šel jsem to rozchodit. Stejnou trasu jako včera. Ale pomalu. Místo plavání pára na střídačku s ledovým bazénem. Dal jsem 4 otočky. 5 minut v ledu.<br>
-Zpátky jsem šel pěšky přes výhledy z Kavčích hor.
+Zpátky jsem šel pěšky přes výhledy z Kavčích hor.<br>
 
 <a href="../images/2023_december/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/27_1.jpg"></a>
 
-Taky jsem naplánoval badminton na čtvrtek. Skoro to bylo [výročí](../2022_december/#2712-badminton-a-oběd-s-marťou). Jen jsem moc nevěděl, jak na tom budou moje lýtka.
-Po čtvrté jsem vyrazil na kole do Vojtova skladu v Petrovicích. Cestou jsem potkal 7 policejních aut se zapnutými sirénami jedoucími skrz město dobře stovkou. Jedno z nich dokonce byla zásahovka. O com jim šlo jsem se nedozvěděl. Ale západ slunka byl pohledný.
+Taky jsem naplánoval badminton na čtvrtek. Skoro to bylo [výročí](../2022_december/#2712-badminton-a-oběd-s-marťou). Jen jsem moc nevěděl, jak na tom budou moje lýtka.<br>
+Po čtvrté jsem vyrazil na kole do Vojtova skladu v Petrovicích. Cestou jsem potkal 7 policejních aut se zapnutými sirénami jedoucími skrz město dobře stovkou. Jedno z nich dokonce byla zásahovka. O com jim šlo jsem se nedozvěděl. Ale západ slunka byl pohledný.<br>
 
 <a href="../images/2023_december/27_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/27_2.jpg"></a>
 
@@ -529,19 +520,19 @@ Vojtův sklad byl v suterénu toho snad nejzazšího paneláku v Praze. Malá m�
 Domluvili jsme se, že mi pošle přístupy k fw a zdrojům a půjčil mi jednu elektroniku.<br>
 Zpátky jsem jel už za tmy. Zastavil jsem se ještě na nákup v Edenu. Doma uvařil jednoduché rizoto. A zbytek dne se věnoval knížce.<br>
 Je jedna věc, kterou si tu chci poznamenat. Souvisí s mým bojem se závislostí na pornografii. Poslední video, na které jsem se díval ve mě nezanechalo pocit prázdnoty a znechucení ze sebe sama. Natočil ho pár *Diana & Damien*. Jsou to vlogeři. Na YouTube se točí, jak cestují po světě. Na PornHub dávají záznam toho jak spolu spí. A je na nich vidět, že se milují. Že to není zinscenovaný, ale že to opravdu prožívají. A to jak spolu vypadají, když jsou nazí mi připomnělo mě a Míšu. Ne že bych jen koukal a psal do komentářů, že ti dva mají něco po čem toužím, jako spousta dalších. Já mám tu možnost to opravdu zažívat. A to chci. Nechci si to zničit tím, že bych měl videa v počítači radši než jí.<br>
-Chtěl jsem si to sem napsat. A vrátit se k tomu, pokud to bude potřeba. Doufám, že 2024 je ten rok, kdy se mi to podaří.
+Chtěl jsem si to sem napsat. A vrátit se k tomu, pokud to bude potřeba. Doufám, že 2024 je ten rok, kdy se mi to podaří.<br>
 
 ### 28.12. Pětihra
 
 Pořídil jsem si pastu na zuby a veganský protein. Ne že by to měnilo moje ranní zvyky, ale cítil jsem, že když mi při čištění zubů pění pusa a ve vločkách cítím podivnou chuť, něco se mění. Taky mě pořád hrozbě bolely nohy.<br>
 Zkusil jsem to roztáhnout jógou. Trochu to pomohlo. V 10 jsem vyrazil za Marťou. Trochu zdržovala. Ale ve čtvrt jsme vycházeli. Před vánoci byla nemocná. Tak že byla v nemocnici a dávali jí antibiotika do žíly. Přes kopec jsme poměrně bryskním tempem přešli až na Olšanku. Byli jsme tam brzy, tak jsme si v Albertu pořídili olivové šneky a mandarinky.<br>
-Ondra přijel na jednokole, Réba v zápětí tramvají a Filip poslední autem. 2 hodiny je dost. Kór když tě bolí nohy. Ale tím že nás bylo pět tak jsme se stihli rozumně prostřídat. Některé hry byly dost vyrovnané. Hráli jsme vždy do deseti a jedna končila 20:18.
+Ondra přijel na jednokole, Réba v zápětí tramvají a Filip poslední autem. 2 hodiny je dost. Kór když tě bolí nohy. Ale tím že nás bylo pět tak jsme se stihli rozumně prostřídat. Některé hry byly dost vyrovnané. Hráli jsme vždy do deseti a jedna končila 20:18.<br>
 
 <a href="../images/2023_december/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/28_1.jpg"></a>
 
 Fip jel po hře za Anet, která doma vařila. My jsme si šli sednout do italské, hned vedle badmintonu. Marťa vyprávěla o Zélandu, o neteři a o vánocích. Diskuse o dětech vydržela docela dlouho.<br>
 Po jídle Réba s Ondrou sedli na tramvaj a my s Marťou vyrazili zpátky pěšky k nám. Byl to povedený sraz. Měl bych jich svolávat více.<br>
-Doma jsem se vrátil ke knížce. Pobavilo mě, že i na sklonku l roku dočítal více než tisíci stránkového Strika.
+Doma jsem se vrátil ke knížce. Pobavilo mě, že i na sklonku l roku dočítal více než tisíci stránkového Strika.<br>
 
 ### 29.12. 52 dní je prostě moc
 
@@ -552,13 +543,11 @@ Protože mi nějakej zmrd ukradl brýle (Tentokrát jsem je spíš zapomněl v s
 Běh pozpátku a bokem na Smíchov je docela na dlouho. A ze Smíchova do Podolí ještě na dýl. Ale šlo to. A zatuhlé nohy jsem trochu rozběhal.<br>
 Dvacátého deváteho ale znamenalo bazén zdarma a v areálu bylo lidí randál. Po asi kilometru mě to tam přestalo bavit.<br>
 Rychlou chůzí jsem došel do Lidlu. Z tama bylo lepší dojít k Sáře a zalít jí kytky.<br>
-Konverzace v *Sářině kvítí* říkala:
-
-> Sepíšu postup krmení Maliny a nechám to připravený na kredenci.
-
+Konverzace v *Sářině kvítí* říkala:<br>
+> Sepíšu postup krmení Maliny a nechám to připravený na kredenci.<br>
 Buď nevím co je kredenc, nebo žádné instrukce zanechány nebyly. Chvíli jsem se radil s Googlem, ale dospěl k názoru, že kvásek nakrmím ve dnech budoucích. Kytky jsem ale zalil.<br>
 Před domem jsem uzřel, že deka ulítla. Naštěstí do keře u vedlejšího domu. Nějaká důchodkyně v okně mě o tom nezapoměla informovat.<br>
-Pověsil jsem povlečení a šel se ztratit v knížce.
+Pověsil jsem povlečení a šel se ztratit v knížce.<br>
 
 ### 30.12. Provokace
 
@@ -572,29 +561,29 @@ Chvilku potom co jsem došel na Pankrác jsme se rozloučili a já vyrazil hleda
 Řešili jsme to je vtípek a to je provokace. Většina našich vtípků rozhodně byly provokace. Byla to docela zábavná cesta.<br>
 Po příjezdu jsme se rozdělili na dva týmy. Tým jídlo a tým teplo. Byl jsem v týmu druhém, protože sekat dříví mě moc baví.<br>
 K obědu jsme vymysleli těstoviny s pestem. Akorát to pesto jsme nekoupili. To ale nevadilo. Měli jsme s sebou randál zeleniny a Réba z ní dokázala vykouzlit výborný oběd. Navíc jsme měli bramborové placky od Nováčkovic jako předkrm.<br>
-Když jsme byli najedení, využili jsme zbytku denního světla a vyrazili na procházku. Filip si byl jistý, že nedaleko od nás můžeme spatřit pštrosa. Google nám v tom ale moc nepomohl a tak jsme šli k mlýnu, podívat se, jak moc je řekla rozvodněná.
+Když jsme byli najedení, využili jsme zbytku denního světla a vyrazili na procházku. Filip si byl jistý, že nedaleko od nás můžeme spatřit pštrosa. Google nám v tom ale moc nepomohl a tak jsme šli k mlýnu, podívat se, jak moc je řekla rozvodněná.<br>
 
 <a href="../images/2023_december/30_1.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_1.jpg"></a>
 
-Mlýn byl ale sotva kilometr daleko a naše nohy měli na víc. Došli jsme tak až do vesnice Drahov a co naše oči neviděli? Pštros! Teda Emu, ale to už je minimální rozdíl. Napřed se bál. Byl na opačné straně výběhu vydával divné hluboké zvuky, trochu jako bušení bubnu. Pak se ale podél plotu přiblížil a skoro u nás hupsnul na kámen. A když říkám hupsnul, myslím tím, že se snažil obšťastnit kámen pod sebou svým rudým naběhlým penisem. Asi byl osamělejší než se zdálo. Po aktu ale přišel za námi. Shodli jsme se, že to byl hřeb dne. Trochu nechutný a bizarní, ale rozhodně hřeb
+Mlýn byl ale sotva kilometr daleko a naše nohy měli na víc. Došli jsme tak až do vesnice Drahov a co naše oči neviděli? Pštros! Teda Emu, ale to už je minimální rozdíl. Napřed se bál. Byl na opačné straně výběhu vydával divné hluboké zvuky, trochu jako bušení bubnu. Pak se ale podél plotu přiblížil a skoro u nás hupsnul na kámen. A když říkám hupsnul, myslím tím, že se snažil obšťastnit kámen pod sebou svým rudým naběhlým penisem. Asi byl osamělejší než se zdálo. Po aktu ale přišel za námi. Shodli jsme se, že to byl hřeb dne. Trochu nechutný a bizarní, ale rozhodně hřeb<br>
 
 <a href="../images/2023_december/30_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_2.jpg"></a>
 
-Slunce už zapadalo a my se tak vydali zpátky na chatu. Tam jsme připravili maso, sýry, zeleninu, salát a dresing. Filip roztopil gril a po půl hodině jsme se dali do hodování.
+Slunce už zapadalo a my se tak vydali zpátky na chatu. Tam jsme připravili maso, sýry, zeleninu, salát a dresing. Filip roztopil gril a po půl hodině jsme se dali do hodování.<br>
 
 <a href="../images/2023_december/30_3.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_3.jpg"></a>
 
-Byla to bašta. Nad jídlem jsme diskutovali, zda o půlnoci půjdeme plavat nazí do Pískovny. Ochladilo se totiž na 2°C a začala jít pára od pusy. Nejsme ale sračky a tradice je tradice. Jako sladkou tečku jsme měli grilováný banán.
+Byla to bašta. Nad jídlem jsme diskutovali, zda o půlnoci půjdeme plavat nazí do Pískovny. Ochladilo se totiž na 2°C a začala jít pára od pusy. Nejsme ale sračky a tradice je tradice. Jako sladkou tečku jsme měli grilováný banán.<br>
 Uvařili jsme svařák, zabalili ručníky a vyrazili ven. Bylo to daleko. Nejspíš mi to tak přišlo, protože jsem nepil. Navíc byla fakt zima. Boty nám přimrzali k vlakovému mostu.<br>
-Pláž byla celá bahnitá. Oblečení jsem nechal v převlékárně u lesa, narozdíl od ostatních, kteří se převlékali na kmenu spadlého stromu ležícího téměř ve vodě. S Ondrou jsme do vody vezli první. Rébu chytla křeč do nohy ale nakonec se ponořila taky. A Nováčkovic jí následovali. Žádné velké plavání se ale nekonalo. Jestli jsem byl ve vodě 30 sekund, tak hodně. Teplé oblečení a svařák rozhodně přišly vhod.
+Pláž byla celá bahnitá. Oblečení jsem nechal v převlékárně u lesa, narozdíl od ostatních, kteří se převlékali na kmenu spadlého stromu ležícího téměř ve vodě. S Ondrou jsme do vody vezli první. Rébu chytla křeč do nohy ale nakonec se ponořila taky. A Nováčkovic jí následovali. Žádné velké plavání se ale nekonalo. Jestli jsem byl ve vodě 30 sekund, tak hodně. Teplé oblečení a svařák rozhodně přišly vhod.<br>
 
 <a href="../images/2023_december/30_4.jpg" target="_blank"><img src="../images/thumbnails/2023_december/30_4.jpg"></a>
 
-Cesta zpátky byla snad ještě delší. V chatě jsme si ještě povídali, jedli jednohubky s pomazánkou, Ondra četl tweety Zrzky od vedle a spát jsme šli někdy před třetí.
+Cesta zpátky byla snad ještě delší. V chatě jsme si ještě povídali, jedli jednohubky s pomazánkou, Ondra četl tweety Zrzky od vedle a spát jsme šli někdy před třetí.<br>
 
 ### 31.12. Mezi Nadějí a Láskou
 
-Vstal jsem první. Opět jsem se totiž probudil první. Tentokrát pár minut po mých standardních sedmi ráno. Zbývalo mi posledních pár desítek stránek *Running Grave*, tak jsem se do nich pustil a zhruba po deváté jsem věděl jak to všechno skončí.
+Vstal jsem první. Opět jsem se totiž probudil první. Tentokrát pár minut po mých standardních sedmi ráno. Zbývalo mi posledních pár desítek stránek *Running Grave*, tak jsem se do nich pustil a zhruba po deváté jsem věděl jak to všechno skončí.<br>
 No a pak už jsem teda vstal. Naštípal jsem venku dříví a zatopil. Během prvního praskání dřeva v kamnech přišel dolů Ondra a postavil na čaj. V 10 hodin přesně zavolala Miška. Uvnitř nebyl signál, nasadil jsem tedy kabát a šel si sednout ven. Popřála mi spoustu krásných věcí, z nichž mě nejvíc pobavilo *hodně sexu*. Inu.. to bude záležet i na ní. Ale těším se na to.<br>
 Během našeho telefonátu se ostatní pustili do snídaně a když jsem se k nim připojil, byli už téměř najedení. Dal jsem si vánočku a chleba se zbytkem sýrové pomazánky. Naplánovali jsme výlet. Autem do Vlkova. Pěšky kolem rybníku. Lesem. Potom po úzké cestičce mezi rybníky Nadějí a Láskou a pak kolem dalších rybníků pojmenovaných Skutek, Měkký, Pražský, Fišmistr a hromadou dalších obdobně chytře pojmenovaných. A pak zpátky k Hotelu Vlkov, kde nám Alex dal tip na bramborové knedlíky s žahourem.<br>
 Navařili jsme čaj, zabalili svačinu a Méďou dojeli do Vlkova. Cestou jsme se zastavili ve Veselí u Penny. Vyslali jsme Rébu s Filipem na nákup a když se vraceli, rozhoupali jsme Auto pařením na disco verzi Popelky.<br>
@@ -603,13 +592,12 @@ Hotel Vlkov byl zavřený. Naštěstí jsme měli Méďu a mohli jsme po návrat
 
 <p><video loop autoplay muted style="width:100%;max-width:800px"><source src="../images/2023_december/31_1.mp4" type="video/mp4"></video></p>
 
-Když jsme se vrátili k autu, měli jsme nachozeno asi patnáct kilometrů. Cestou jsme potkali ceduli hlásající, že v Pondědráži vaří. Anet to ověřila telefonem a ukázalo se, že cedule nelhala. Byla to vesnická hospoda se smaženými jídly. Ale byla férová. Dal jsem si květák s americkými brambory. Filipův guláš vypadal dobře, Ondrův králík taky a smažené věci nebyly nasáklé olejem.
+Když jsme se vrátili k autu, měli jsme nachozeno asi patnáct kilometrů. Cestou jsme potkali ceduli hlásající, že v Pondědráži vaří. Anet to ověřila telefonem a ukázalo se, že cedule nelhala. Byla to vesnická hospoda se smaženými jídly. Ale byla férová. Dal jsem si květák s americkými brambory. Filipův guláš vypadal dobře, Ondrův králík taky a smažené věci nebyly nasáklé olejem.<br>
 
 <a href="../images/2023_december/31_2.jpg" target="_blank"><img src="../images/thumbnails/2023_december/31_2.jpg"></a>
 
 Po chvíli se k nám připojili Alex se Zuzkou. Zuzka nám vyprávěla o jejím králíkovi a o tom, že se živí česáním. Plátno za nimi promítalo film, kde Menšík soutěžil v pojídání jídla s Bernardýnem.<br>
 Po dojedení a dopití jsme se se s Alexem a Zuzkou rozloučili a auty jsme vyrazili do našich chat.<br>
 Večeři jsme opět měli s grilu. Byl toho jetě větší randál než předešlého večera. Do půlnoci jsme hráli Hanabi a 2 minuty po půlnoci si připili šáňem šťastný nový rok!<br>
-Čekala nás ještě výbušná koťátka. Prohrál jsem první a docela brzy. Odpsal jsem na pár zpráv, popřál ostatním dobrou noc a vyrazil do pelechu. Měl jsem s sebou špunty a tak jsem zalomil poměrně brzy.
-
-[>> Leden](2024_january.md)
+Čekala nás ještě výbušná koťátka. Prohrál jsem první a docela brzy. Odpsal jsem na pár zpráv, popřál ostatním dobrou noc a vyrazil do pelechu. Měl jsem s sebou špunty a tak jsem zalomil poměrně brzy.<br>
+[>> Leden](2024_january.md)<br>

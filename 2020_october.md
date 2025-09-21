@@ -1,3 +1,4 @@
+
 ## [Říjen](2020.md) 
 
 - [6.10. Do La Rochelle s Omarem](#610-do-la-rochelle-s-omarem)
@@ -8,11 +9,15 @@
 
 ### 6.10. Do La Rochelle s Omarem
 
+
 ### 
+
 
 ### 10.10. Na Il de Ré
 
+
 ### 12.10. Zpátky
+
 
 ### 25.10. Stanovaní co se změnilo v chatování 
 

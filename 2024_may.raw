@@ -34,27 +34,40 @@
 
 ### 1.5. Před kinem který není
 
-Třešně odkvetly a láska byla v trapu. Vesmír pro mě měl jiný plány. Oslavit svátek práce prací. Něco takovýho řekl rok zpátky Petr. Tehdá jsem se válel v Grébovce. Tentokrát jsem ale pracoval. Byla možnost, nebylo moc co jinýho dělat. Přišlo mi, že práce bylo to jediný co mi zbylo.\
-Negativní myšlení. Bára měla pravdu. Bylo třeba mé negativní myšlení trochu zpozitivnit.\
-Byl jsem drabej, měl jsem kamarády, rodinu, peníze, práci, kolo.. a na kole jsem jel do Kolbenky, tentokrát přes Kubáň, Třebešín a Jarov.\
-Pracoval i Omar, Tomík a Petr. A po obědě přišel i Ludva. Teda, ne že bych nějaký oběd měl s sebou. Nějak jsem se rozhodl, že si dám jídlo před kinem.\
-Objevily se nový problémy. Kite nasadil novou verzi backendu, něco podělali a když se vrátili k tý starý, rozbili mapy. A mapy rozbily vyčítání baterie. Aspoň tak to vypadalo.\
-Nevěděl jsem jestli to dělají oni nebo my. Ale po čtení logů z backendu, jsem dospěl že bude třeba jít do modemu. A po čtení z modemu jsem dospěl k tomu, že upgrad mapy neprojde. A tak jsem debugoval gdbčkem. A objevil, že kolo při stahování mapy restartuje watchdog.\
-Padalo to až někdy ke konci a tak jsme vymysleli dočasný řešení. Zjednodušili jsme mapu.\
+Třešně odkvetly a láska byla v trapu. Vesmír pro mě měl jiný plány. Oslavit svátek práce prací. Něco takovýho řekl rok zpátky Petr. Tehdá jsem se válel v Grébovce. Tentokrát jsem ale pracoval. Byla možnost, nebylo moc co jinýho dělat. Přišlo mi, že práce bylo to jediný co mi zbylo.
+
+Negativní myšlení. Bára měla pravdu. Bylo třeba mé negativní myšlení trochu zpozitivnit.
+
+Byl jsem drabej, měl jsem kamarády, rodinu, peníze, práci, kolo.. a na kole jsem jel do Kolbenky, tentokrát přes Kubáň, Třebešín a Jarov.
+
+Pracoval i Omar, Tomík a Petr. A po obědě přišel i Ludva. Teda, ne že bych nějaký oběd měl s sebou. Nějak jsem se rozhodl, že si dám jídlo před kinem.
+
+Objevily se nový problémy. Kite nasadil novou verzi backendu, něco podělali a když se vrátili k tý starý, rozbili mapy. A mapy rozbily vyčítání baterie. Aspoň tak to vypadalo.
+
+Nevěděl jsem jestli to dělají oni nebo my. Ale po čtení logů z backendu, jsem dospěl že bude třeba jít do modemu. A po čtení z modemu jsem dospěl k tomu, že upgrad mapy neprojde. A tak jsem debugoval gdbčkem. A objevil, že kolo při stahování mapy restartuje watchdog.
+
+Padalo to až někdy ke konci a tak jsme vymysleli dočasný řešení. Zjednodušili jsme mapu.
+
 Po práci jsem si zabouchl klíče venku. Naštěstí už jsem měl kolo na té správné straně vrat, tak jsem se otočil u Ludvy doma. Směrem k němu mi pomáhal skopec a vítr. Ale opačně to byl ojeb. Dál jsem se zastavil pro nové kraťasy. Réba měla pravdu. Měly to za sebou. Letmým propočtem jsem objevil, že mě stály 31 haléřů na den. Fér cena za to jakou práci odvedly. Určitě přes pět tisíc kilometrů na kole a většinu posledních dvou let.
 
 ![image](1_1.jpg)
 
-V Albertu jsem vyřešil večeři. Měl jsem rajčatpa, sýr a pizza rohlík. Ondra napsal, že na kino s Rébou nepůjdou. Nasralo mě to. Byli jedniní kdo vypadali že půjde. Později mi Réba říkala, že měli náročný den s celou rodinou a byli grogy. Ale v tom momentu jsem cítil, že jedna z posledních věcí, na které se těším padla.\
+V Albertu jsem vyřešil večeři. Měl jsem rajčatpa, sýr a pizza rohlík. Ondra napsal, že na kino s Rébou nepůjdou. Nasralo mě to. Byli jedniní kdo vypadali že půjde. Později mi Réba říkala, že měli náročný den s celou rodinou a byli grogy. Ale v tom momentu jsem cítil, že jedna z posledních věcí, na které se těším padla.
+
 Jel jsem domů a koukal na Breaking Bad.
 
 ### 2.5. Zpátky ke kořenům
 
-Vzhůru v šest. Ale z postele jsem se stejně dostal až po půl. Zprvu mi nebylo vůbec jasný, proč jsem chtěl vstávat tak brzo. Ale bylo to kvůli bazénu. A možná taky kvůli pečení chlebu. Ale na to jsem neměl a ošatku s nakynutým těstem jsem dal do lednice. Stejně jsem tomu chlebu moc nevěřil. Kvas byl starý a chleba moc nevoněl.\
-V bazénu ve Slavii jsem nebyl roky. Možná od Taiwanu ne. I když to spíš ne. Ale rozhodně ne od školy.\
-I přes renovaci je to fakt socík v praxi. Ale práci odvede. Bylo třeba ho zařadit častěji. Ostatně cesta přes Vinohradskou na Kolbenku je docela dobrá.\
-V práci jsme zjednodušili mapu. Pomohlo to se zaseklým upgradem.\
-Štěpán mě v práci požádal, zda bych mu zprovoznil kol. Ostatně jsem měl lihovkou napsanáno *041* posledních několik dní. Řekl jsem mu ať odblokuje pin na simce a dá jí do kola. Volal mi, když jsem na kole stoupal na ohradu. Slíbil jsem mu, že na to doma kouknu a později to rozchodil přes smsky. Měl jsem radost, že jsem mu mohl pomoct. Sice mi v telefonu málem vymluvil díru do hlavy, ale přišlo mi, že je mi vděčný a lepší vztah s kolegou je vždycky fajn.\
+Vzhůru v šest. Ale z postele jsem se stejně dostal až po půl. Zprvu mi nebylo vůbec jasný, proč jsem chtěl vstávat tak brzo. Ale bylo to kvůli bazénu. A možná taky kvůli pečení chlebu. Ale na to jsem neměl a ošatku s nakynutým těstem jsem dal do lednice. Stejně jsem tomu chlebu moc nevěřil. Kvas byl starý a chleba moc nevoněl.
+
+V bazénu ve Slavii jsem nebyl roky. Možná od Taiwanu ne. I když to spíš ne. Ale rozhodně ne od školy.
+
+I přes renovaci je to fakt socík v praxi. Ale práci odvede. Bylo třeba ho zařadit častěji. Ostatně cesta přes Vinohradskou na Kolbenku je docela dobrá.
+
+V práci jsme zjednodušili mapu. Pomohlo to se zaseklým upgradem.
+
+Štěpán mě v práci požádal, zda bych mu zprovoznil kol. Ostatně jsem měl lihovkou napsanáno *041* posledních několik dní. Řekl jsem mu ať odblokuje pin na simce a dá jí do kola. Volal mi, když jsem na kole stoupal na ohradu. Slíbil jsem mu, že na to doma kouknu a později to rozchodil přes smsky. Měl jsem radost, že jsem mu mohl pomoct. Sice mi v telefonu málem vymluvil díru do hlavy, ale přišlo mi, že je mi vděčný a lepší vztah s kolegou je vždycky fajn.
+
 Z přezrálého Narcise jsem upekl chleba číslo 8.. asi? Už jsem se v tom ztrácel. Byl extra kyselý. Ale šel jíst.
 
 ![image](2_1.jpg)
@@ -65,48 +78,69 @@ Byl to divnej den. Od druhého plavání ve Slavii, přes psaní testů pro mé 
 
 ![image](3_1.jpg)
 
-Ať jsem dělal co jsem dělal. Míša v mojí hlavě číhala na každým rohu. Potkal jsem několik Aur. Z ničeho nic mě přemohla vzpomínka, jak jsme o sebe opření čely.\
-Doma jsem se podíval do kalendáře a zjistil, že nemám naplánovaný nic. Vůbec nic. Když jsem se snažil naplánovat vodu, lidi neměli vůbec čas. A jeden večer napařování knedlíčků u mě. Taky se mi je nepodařilo dát dohromady. To srovnání toho, že já jsem v kalendáři neměl ani jednu událost až do nekonečna a ostatní stěží našli pár volných dní mě ubíjela.\
-*Bez Mišky nežiju. Jen přežívám. Úplně prázdnej. S žádnou vidinou čehokoliv.* Stál jsem na balkoně a napadlo mě, že kdybych přelezl zábradlí a skočil, nic moc by se nestalo. Neměl jsem žádný sebebvražedný myšlenky. Cítil jsem se jen neskutečně prázdnej. A nevěděl jsem co s tím.\
-Z ničeho nic napsala Sára, že koncert začíná v 19:30. Koncert.. úplně jsem na něj zapomněl. Ale nepřekvapil mě fakt, že se mi to vykouřilo z hlavy. Nechtěl jsem tam jít.\
-Ale vidina psychickýho trápení se v prázdým bytě byla mnohem horší než koncert s kamarády.\
-A tak jsem se oblékl a vyrazil do Vinohradského pivovaru. Ještě jsem se zastavil v Tescu na Kodaňské. Nikdy jsem tam nebyl. A nic mě tam opět úplně neláká. Je to lepší vietnamec.\
-Když jsem do pivovaru dorazil, byl tam z lidí jen Jarda a Martinova přítelkyně. A tři polévky. Postupně lidé začali přicházet. Přišlo i pár lidí, které jsem opravdu nečekal. Škoda že nebyl prostor si s nimi více popovídat.\
-Třeba s Tomášem Suchomelem. A s Petrem Švandou. Nebo s Nasťou, která mě objala zezadu, když jsem koukal na kapelu. Nadšeně jsem jí objal zpátky. Ale opravu jsme toho nenapovídali moc.\
-I tak ale měla Nasťi přítomnost nečekaný efekt. Nebo možná měl být očekávaný. Těžko říct. Réba to špatně nesla. Ondra totiž Nasťu zahlédl dřív a Rébě to neřekl. Neměl nic společného s tím, že se objevil, takže v tom byl nevinně. Ale vyhrotili to. Vyhrotili to hodně. Napřed Ondra uraženě odešel. Réba měla slzy v očích. A když se vrátil a vypadalo to že půjdeme k Martinovým kamarádům na bytovici.. pohádali se víc, vylil na Rebeku pivo a ona mu roztrhla tričko. Po mírné scéně na schodech Ondra odjel domů. My ostatní zůstali s Rébou, která nevěděla, zda domů za Ondrou. Byla z toho fakt špatná.\
-Trochu tyhle události zastínili koncert, kterej byl lepší než jsem čekal. Za prvý zvučení bylo o řády výše než třeba na Slamníku. A hlavně do toho dali mrtě energie a práce.\
+Ať jsem dělal co jsem dělal. Míša v mojí hlavě číhala na každým rohu. Potkal jsem několik Aur. Z ničeho nic mě přemohla vzpomínka, jak jsme o sebe opření čely.
+
+Doma jsem se podíval do kalendáře a zjistil, že nemám naplánovaný nic. Vůbec nic. Když jsem se snažil naplánovat vodu, lidi neměli vůbec čas. A jeden večer napařování knedlíčků u mě. Taky se mi je nepodařilo dát dohromady. To srovnání toho, že já jsem v kalendáři neměl ani jednu událost až do nekonečna a ostatní stěží našli pár volných dní mě ubíjela.
+
+*Bez Mišky nežiju. Jen přežívám. Úplně prázdnej. S žádnou vidinou čehokoliv.* Stál jsem na balkoně a napadlo mě, že kdybych přelezl zábradlí a skočil, nic moc by se nestalo. Neměl jsem žádný sebebvražedný myšlenky. Cítil jsem se jen neskutečně prázdnej. A nevěděl jsem co s tím.
+
+Z ničeho nic napsala Sára, že koncert začíná v 19:30. Koncert.. úplně jsem na něj zapomněl. Ale nepřekvapil mě fakt, že se mi to vykouřilo z hlavy. Nechtěl jsem tam jít.
+
+Ale vidina psychickýho trápení se v prázdým bytě byla mnohem horší než koncert s kamarády.
+
+A tak jsem se oblékl a vyrazil do Vinohradského pivovaru. Ještě jsem se zastavil v Tescu na Kodaňské. Nikdy jsem tam nebyl. A nic mě tam opět úplně neláká. Je to lepší vietnamec.
+
+Když jsem do pivovaru dorazil, byl tam z lidí jen Jarda a Martinova přítelkyně. A tři polévky. Postupně lidé začali přicházet. Přišlo i pár lidí, které jsem opravdu nečekal. Škoda že nebyl prostor si s nimi více popovídat.
+
+Třeba s Tomášem Suchomelem. A s Petrem Švandou. Nebo s Nasťou, která mě objala zezadu, když jsem koukal na kapelu. Nadšeně jsem jí objal zpátky. Ale opravu jsme toho nenapovídali moc.
+
+I tak ale měla Nasťi přítomnost nečekaný efekt. Nebo možná měl být očekávaný. Těžko říct. Réba to špatně nesla. Ondra totiž Nasťu zahlédl dřív a Rébě to neřekl. Neměl nic společného s tím, že se objevil, takže v tom byl nevinně. Ale vyhrotili to. Vyhrotili to hodně. Napřed Ondra uraženě odešel. Réba měla slzy v očích. A když se vrátil a vypadalo to že půjdeme k Martinovým kamarádům na bytovici.. pohádali se víc, vylil na Rebeku pivo a ona mu roztrhla tričko. Po mírné scéně na schodech Ondra odjel domů. My ostatní zůstali s Rébou, která nevěděla, zda domů za Ondrou. Byla z toho fakt špatná.
+
+Trochu tyhle události zastínili koncert, kterej byl lepší než jsem čekal. Za prvý zvučení bylo o řády výše než třeba na Slamníku. A hlavně do toho dali mrtě energie a práce.
+
 30 písní k 30 letům.
 
 ![image](3_2.jpg)
 
-Jarda udělal promítání za kapelu. Docela mě pobavilo, že k písni *Na druhej břeh* bylo video z Balkánu, kde jsem já a Ondra plavali v jezeře, moři a řece.\
+Jarda udělal promítání za kapelu. Docela mě pobavilo, že k písni *Na druhej břeh* bylo video z Balkánu, kde jsem já a Ondra plavali v jezeře, moři a řece.
+
 Réba nakonec jela domů. Jarda šel na bytovici a já se Sárou domů. Byla jedna v noci. Povídali jsme si o vztazích. Rozumím jím čím dál míň.
 
 ### 4.5. Zpět k decafu
 
-Poslední dobou jsem měl bordel ve financích. Dopoledne jsem si zapsal výdaje do Spendee. Chvíli mi to zabralo. BTC se trochu zberchal a SPX a QQQ taky. Na člověka jde trochu deprese, když jdou jeho peníze do háje.\
-Za poslední dva měsíce jsem do deníku nepřidal jedinou fotku a psaní taky vázlo. Deník mi sice bral dost času. Ale čas byl jediný čeho jsem měl přebytek. Taky mi došlo mi kafe a tak jsem vyrazil do Tchiba, koupit zrnka s narozeninovou slevou, která mi přišla poštou. S kartou prý nejde sleva kombinovat. Naštvalo mě to. Ale co naděláš. I tak jsem koupil půl kila zrnek a k tomu uvařený decaf za stejnou cenu, jako 300g z doubleshotu.\
-Nesepsal jsem zdaleka všechno. Ale sepsal jsem toho dost.\
+Poslední dobou jsem měl bordel ve financích. Dopoledne jsem si zapsal výdaje do Spendee. Chvíli mi to zabralo. BTC se trochu zberchal a SPX a QQQ taky. Na člověka jde trochu deprese, když jdou jeho peníze do háje.
+
+Za poslední dva měsíce jsem do deníku nepřidal jedinou fotku a psaní taky vázlo. Deník mi sice bral dost času. Ale čas byl jediný čeho jsem měl přebytek. Taky mi došlo mi kafe a tak jsem vyrazil do Tchiba, koupit zrnka s narozeninovou slevou, která mi přišla poštou. S kartou prý nejde sleva kombinovat. Naštvalo mě to. Ale co naděláš. I tak jsem koupil půl kila zrnek a k tomu uvařený decaf za stejnou cenu, jako 300g z doubleshotu.
+
+Nesepsal jsem zdaleka všechno. Ale sepsal jsem toho dost.
+
 Z Pankráce jsem sestoupil do Podolí. Bazén byl kousek a měl jsem čas jít plavat. Cestou nešlo nemyslet na Mišku. [Sbírat šípky říkala](../2023_october/#510-sbírat-šípky-říkala) bylo neskutečný odpoledne. Vyhlídce jsem se radši vyhnul, ale na opačné straně byla taky.
 
 ![image](4_1.jpg)
 
-V bazénu jsem dal líný kilometr a zpátky jsem sjel přes Výtoň na nextbiku. Měl vymletou převodovku a byla to otrava.\
+V bazénu jsem dal líný kilometr a zpátky jsem sjel přes Výtoň na nextbiku. Měl vymletou převodovku a byla to otrava.
+
 Doma jsem uvařil špenát s brokolicí a k tomu rýži. Dal jsem do toho čili papričky, které mi Ondra s Rébou přivezli z Guatemaly. Byly opravdu potentní. Když jsem si rukou, kterou jsem je drobil do hrnce, sáhl na nos, půl hodiny jsem měl pocit, že mi upadne.
 
 ### 5.5. Záporná hranice intervalu
 
-V Praze se běžel maraton. Chvilku jsem přemýšlel, že taky půjdu běhat. Ale cítil jsem akutní lenost. Radši jsem koukal na Breaking Bad. Blížil jsem se konci. Bylo to napínavý jak kšandy a každej díl měl takovej cliffhanger, že jsem musel pouštět další. Až do oběda.\
-Bolestivě jsem si uvědomoval, že se blíží OpenHouse. I jsem to napsal do výletníků. Nějak ale moje myšlenky utekly k Mišce. [Den](../2023_may/#205-avu-firing-openhouse-a-sáraland) kdy měla Zdena narozeniny byl fakt silnej. V jednu chvíli, když jsem si dával špenát s rýží do mikrovlnky jsem se rozbrečel. Už to byly skoro tři měsíce, co jsme se neviděli. A já jsem brečel, stočenej do klubíčka, na podlaze kuchyně a vzlykal.\
-Maličko jsem byl za ten rozchod vděčnej. Ukázal mi jak příšerný je přijít o někoho, koho miluješ. Dalo mi to tu zápornou hranici intervalu toho co láska umí. Bez prožití si tohohle jsem asi ani nemohl vědět, že mi někdo může takhle chybět.\
-Ale chyběla mi. Pořád stejně moc. Taky jsem ale věděl, že mě nemiluje. Kdyby mě milovala.. já vlastně nevím co by dělala...\
-Podobně jako jsem si napsal [vzkaz sobě](../2023_november/#2811-vzkaz-sobě), chtěl bych se sem někdy v budoucnu vrátit. Tehdá jsem to psal, abych si si připomněl krásný to může být. Tentokrát bych si rád vratil do toho, opačnýho pocitu. Jak strašně to člověka dokáže roztrhat na kousky.\
+V Praze se běžel maraton. Chvilku jsem přemýšlel, že taky půjdu běhat. Ale cítil jsem akutní lenost. Radši jsem koukal na Breaking Bad. Blížil jsem se konci. Bylo to napínavý jak kšandy a každej díl měl takovej cliffhanger, že jsem musel pouštět další. Až do oběda.
+
+Bolestivě jsem si uvědomoval, že se blíží OpenHouse. I jsem to napsal do výletníků. Nějak ale moje myšlenky utekly k Mišce. [Den](../2023_may/#205-avu-firing-openhouse-a-sáraland) kdy měla Zdena narozeniny byl fakt silnej. V jednu chvíli, když jsem si dával špenát s rýží do mikrovlnky jsem se rozbrečel. Už to byly skoro tři měsíce, co jsme se neviděli. A já jsem brečel, stočenej do klubíčka, na podlaze kuchyně a vzlykal.
+
+Maličko jsem byl za ten rozchod vděčnej. Ukázal mi jak příšerný je přijít o někoho, koho miluješ. Dalo mi to tu zápornou hranici intervalu toho co láska umí. Bez prožití si tohohle jsem asi ani nemohl vědět, že mi někdo může takhle chybět.
+
+Ale chyběla mi. Pořád stejně moc. Taky jsem ale věděl, že mě nemiluje. Kdyby mě milovala.. já vlastně nevím co by dělala...
+
+Podobně jako jsem si napsal [vzkaz sobě](../2023_november/#2811-vzkaz-sobě), chtěl bych se sem někdy v budoucnu vrátit. Tehdá jsem to psal, abych si si připomněl krásný to může být. Tentokrát bych si rád vratil do toho, opačnýho pocitu. Jak strašně to člověka dokáže roztrhat na kousky.
+
 Odpo jsem dojel do Alzy pro Airtag a napařovač. 
 
 ![image](5_1.jpg)
 
 Cestou zpátky jsem se zastavil v Tescu a koupil testovací knedlíčky. Cestou z Tesca jsem zahlédl hezkou cyklistku na dost špatným kole. Měla růžový náhlavní sluchátka a měla téměř prázdnou zadní duši. Řekl jsem jí to a popřál ať dojede ve zdraví domu. Nemluvila česky a vlastně mě napadlo, že jí chci pozvat ven. Dokonce kolem mě projela ještě, když jsem u Míny hledal klíče. Ale já srab jsem za ní neběžel.
-Na rýžovaru šlo napařovat šlo jak nic. Na hoštění mi ale chyběly další věci. Sójovka došla a tak.\
+Na rýžovaru šlo napařovat šlo jak nic. Na hoštění mi ale chyběly další věci. Sójovka došla a tak.
+
 
 ### 6.5. Vláďa & Miguel
 
@@ -114,37 +148,51 @@ Týden toho, kdy byl Vláďa pryč skončil. Přijel, dopoledne si postavil stů
 
 ![image](6_1.jpg)
 
-Oddebugoval jsem si to tedy na kole na stole. Spadlo to někde v iotbackend třídě. Na ukládání stringu do paměti. Constring o délce 12 charů se nevešel do dvaceti charového bufferu. Protože to byl Slice a C compiler vybral konstruktor z děděné třídy a nevěděl kde klasický céčkový string končí, protože neměl na konci nulu. A tak udělal Constring o délce 100. Céčkařina vyšší dívčí.\
-K obědu Monča objednala pizzu. Standardní margarita pro mě. Byla dobrá. Někdo by i řekl, že za dobrou cenu. Ale 169 mi přijde pořád dost. V mý hlavě má jídlo stát do stovky. Žiju ve špatný zemi.\
+Oddebugoval jsem si to tedy na kole na stole. Spadlo to někde v iotbackend třídě. Na ukládání stringu do paměti. Constring o délce 12 charů se nevešel do dvaceti charového bufferu. Protože to byl Slice a C compiler vybral konstruktor z děděné třídy a nevěděl kde klasický céčkový string končí, protože neměl na konci nulu. A tak udělal Constring o délce 100. Céčkařina vyšší dívčí.
+
+K obědu Monča objednala pizzu. Standardní margarita pro mě. Byla dobrá. Někdo by i řekl, že za dobrou cenu. Ale 169 mi přijde pořád dost. V mý hlavě má jídlo stát do stovky. Žiju ve špatný zemi.
+
 do banky
 
 ![image](6_2.jpg)
 
-do tesca\
+do tesca
+
 napařovat testovací knedlíčky
 
 ![image](6_3.jpg)
 
 ### 7.5. Stovky Bobrů
 
-Pršelo. Pršelo dost. Úsměv na tvář mi to nepřineslo, ale jednou to přijít muselo. Byl to ideální čas vyzkoušet si kombinaci vlaku a kola v pláštěnce. Jeden vlak jel dokonce přímo do Libně. Sbalil jsem pláštěnku, těch pár metrů jsem přejel jen v mikině a vynesl kolo na peron.\
-Jenže vlak byl ECčko. A na ty neplatí PID lístek. A přestup na hlaváku ve výsledku vydal na asi 40 minut. *Srát na to* řekl jsem si, nasadil pláštěnku a sjel to celý na kole. Šlo to. Ale nateklo mi do bot. Ve Vysočanech jsem tak sušil ponožky horkovzduškou a nosil na betonový zaprášený podlaze pantofle.\
-Během dne jsme vysvětlovali Miguelovi co a jak, Vláďa vyzkoušel Radegastovnu, která bez masa neměla ani ťuk a ve tři mi přišla pozvánka do Aera na projekci [Stovek Bobrů](https://www.csfd.cz/film/1240536-stovky-bobru).\
-Cestou do kina jsem se zastavil na Sokolovské ve 4campingu. Vyzvednout nový batoh. Fjallraven 20. Polární Lišku. Zamiloval jsem se do toho batohu na první pohled. Nacpal jsem ho do mého batohu z dekáče a pokračoval na Žižkov mírným poprcháváním.\
+Pršelo. Pršelo dost. Úsměv na tvář mi to nepřineslo, ale jednou to přijít muselo. Byl to ideální čas vyzkoušet si kombinaci vlaku a kola v pláštěnce. Jeden vlak jel dokonce přímo do Libně. Sbalil jsem pláštěnku, těch pár metrů jsem přejel jen v mikině a vynesl kolo na peron.
+
+Jenže vlak byl ECčko. A na ty neplatí PID lístek. A přestup na hlaváku ve výsledku vydal na asi 40 minut. *Srát na to* řekl jsem si, nasadil pláštěnku a sjel to celý na kole. Šlo to. Ale nateklo mi do bot. Ve Vysočanech jsem tak sušil ponožky horkovzduškou a nosil na betonový zaprášený podlaze pantofle.
+
+Během dne jsme vysvětlovali Miguelovi co a jak, Vláďa vyzkoušel Radegastovnu, která bez masa neměla ani ťuk a ve tři mi přišla pozvánka do Aera na projekci [Stovek Bobrů](https://www.csfd.cz/film/1240536-stovky-bobru).
+
+Cestou do kina jsem se zastavil na Sokolovské ve 4campingu. Vyzvednout nový batoh. Fjallraven 20. Polární Lišku. Zamiloval jsem se do toho batohu na první pohled. Nacpal jsem ho do mého batohu z dekáče a pokračoval na Žižkov mírným poprcháváním.
+
 Film uváděl pán z projekcí naslepo. Jmenoval se Jiří Flígl a film vyprávěl jak film pro českou distribuci koupil, protože jinak to nešlo. A že lidi v čechách jsou dostatečně magoři na to, že se mu to zaplatilo.
 
 ![image](7_1.jpg)
 
-Byl to absolutní bizár. Bavilo mě to extrémně. Škoda je, že jsem tam byl sám.\
+Byl to absolutní bizár. Bavilo mě to extrémně. Škoda je, že jsem tam byl sám.
+
 
 ### 8.5. Moula a lopata
 
-Konec války pro nás znamená volno. Je dobrý si to připomínat. A je ještě lepší vyrazit na výlet. Protože můžeme. Na výlet s Kozou. Dvakrát odložený a tentokrát konečně zrealizovaný. Veronikou organizovaný.\
-Domluvení jsme byli na desátou na čerňáku. Cestou jsem si četl. A zvládl jsem toho přečíst v tramvaji a v metru docela dost. Na čerňák se jede dlouho. I na kolbenku bych městskou jezdil rok. Přemýšlel jsem o tom jaký by bylo mít psa. Asi by mě to připravilo o většinu života jak jsem ho žil doposavad. Ale potřeboval jsem něco změnit. Začít třeba podnikat. Něco novýho se učit. Něco co by mě posunulo dopředu, ne zpátky.\
-Byl jsem tam s předstihem. Došel jsem si na záchod do CČM, doplnil vodu a na K+R potkal Rebeku. Po chvíli přijeli Nováčkovic Méďou a pár minut na to přišel Vojta Řídký.\
-Jeli jsme do Boreče. Tam byla farma a na té nám měli půjčit kozu. Když píšu deník zpětně, je strašně těžký vybavit si, o čem jsme se cestou vlastně bavili. Vím, že Réba vyprávěla o Ondrově nové jednokolce za 80 tisíc, který má kolo na Poště a pošta je o svátích zavřená, takže trucuje doma. A pak jsme se ještě bavili asi o práci. Nicméně.. do Boreče jsme dorazili první. Za námi dvoj autová delegace: Martin, Verča, Bára, Kája, Kuba, Tomáš a další, některé jsem dokonce zatím neznal.\
-U koz jsme potkali ještě Veroniku s Tondou, její mamku a jejího učitele angličtiny.\
-Pán od koz nám nakonec vybral kozla Moulu a kozu Lopatu. Dali jsme mu nějaký drobný příspěvek, který vlastně ve výsledku nebyl tak drobný, protože nás ve výsledku bylo asi 15.\
+Konec války pro nás znamená volno. Je dobrý si to připomínat. A je ještě lepší vyrazit na výlet. Protože můžeme. Na výlet s Kozou. Dvakrát odložený a tentokrát konečně zrealizovaný. Veronikou organizovaný.
+
+Domluvení jsme byli na desátou na čerňáku. Cestou jsem si četl. A zvládl jsem toho přečíst v tramvaji a v metru docela dost. Na čerňák se jede dlouho. I na kolbenku bych městskou jezdil rok. Přemýšlel jsem o tom jaký by bylo mít psa. Asi by mě to připravilo o většinu života jak jsem ho žil doposavad. Ale potřeboval jsem něco změnit. Začít třeba podnikat. Něco novýho se učit. Něco co by mě posunulo dopředu, ne zpátky.
+
+Byl jsem tam s předstihem. Došel jsem si na záchod do CČM, doplnil vodu a na K+R potkal Rebeku. Po chvíli přijeli Nováčkovic Méďou a pár minut na to přišel Vojta Řídký.
+
+Jeli jsme do Boreče. Tam byla farma a na té nám měli půjčit kozu. Když píšu deník zpětně, je strašně těžký vybavit si, o čem jsme se cestou vlastně bavili. Vím, že Réba vyprávěla o Ondrově nové jednokolce za 80 tisíc, který má kolo na Poště a pošta je o svátích zavřená, takže trucuje doma. A pak jsme se ještě bavili asi o práci. Nicméně.. do Boreče jsme dorazili první. Za námi dvoj autová delegace: Martin, Verča, Bára, Kája, Kuba, Tomáš a další, některé jsem dokonce zatím neznal.
+
+U koz jsme potkali ještě Veroniku s Tondou, její mamku a jejího učitele angličtiny.
+
+Pán od koz nám nakonec vybral kozla Moulu a kozu Lopatu. Dali jsme mu nějaký drobný příspěvek, který vlastně ve výsledku nebyl tak drobný, protože nás ve výsledku bylo asi 15.
+
 A vyrazili jsme. Pomalu. Protože kozy se zastavovali na každém rohu. Napřed je šlo docela přemlouvat a popotahovat. Když jsme ale došli ke stromkům, začaly je ohryzovat a jejich tempo kleslo. Na poli to bylo ještě marnější. Zrovna když jsem otěže přebral já s Filipem. Ne že bychom nějak chvátali, ale některé to štvalo. A někteří byly na kozy poměrně hrubí. Slovy i fyzicky.
 
 ![image](8_1.jpg)
@@ -153,47 +201,74 @@ Na to, že jsem si řekl, že nebudu čučet na seriály, každej den si věnuju
 
 ### 9.5. Ta spojka jsem nejspíš já
 
-I přes to, že mě slunko budí po šesté, moje ranní rutina prostě trvá. Musím se naučit připravit si věci večer. Ráno prostě vstát, oblíknout se, posnídat a vyrazit. Žádný čumění do mobilu skoro hodinu jak jsem si na to zvykl.\
-Kilometr v nacpaným bazénu jsem zvládl s tempem pod 2 min/km.\
-V práci jsem se pustil do osazování. Chybělo mi to.\
-Na oběd měla přijet Peťa. A napsal jsem i Vojtovi, který se rozhodl, že přijede. Měl jsem z toho radost. Dlouho jsem si říkal, že mám bývalé kolegy, kteří se k nám rádi vracejí, protože jsme firma plná dobrých lidí a děláme to rádi. Ale došlo mi, že ta spojka jsem nejspíš já To já se bavím s Peťou a jezdím s ní do pivovaru. To já dělám nahrávátka pro Vojtu a bavím se s nám dál. To samý dělám mezi svýma kamarádama. Občas mě to praští do očí, ale většinou si to neuvědomuju. Těžko říct, jestli je to tím, že jsem singl a kompenzuju si tím nedostatek sociálního vyžití, protože vedle mě není někdo, kdo mě má rád. Ale spíš to tak není. Když jsem byl s Miškou, chtěl jsem s ostatními trávit snad ještě víc času. Být pro jednou taky ten, kdo je v páru. Co už..\
-Vojta přišel nějak okolo v půl dvanáctý, bavil se s klukama a pak jsme vyrazili Peťe vstříc k metru. Spolu jsme vyrazili do AFI věžáku. Dole měli jídelnu. Docela fancy a jednotná cena 174 za jídlo nebyla zrovna malá. Ale všechno vypadalo moc dobře a porce byly notné. Vlastně jsem si vzal ještě koláč s lesním ovocem.\
-Peťa vyprávěla o tom, že v úterý se značně změnily její plány, protože jí povýšili. Bude Head of Sales for North America. Protože hlavouni v její společnosti, což je nějaký dceřinka DB jsou starouši co neumí Anlicky a nerozumí věcem tohohle století. Vojta vtipně podotknul, jak dlouho bude trvat, než tohle začnou říkat o nás.\
-Bylo to moc příjemný posezení.\
-Pěťa se pak šla podívat k nám a Vojta vyrazil dál do světa. Byla nadšená a povídala si s ostatními a se mnou s neskutečně krásným úsměvem. Nemohl jsem neslyšet Rébu, která se ptala, proč s ní nic nepodniknu. Možná protože bude dělat pro Američany a bude v Praze ještě míň než doteď a to je tak jednou za šest týdnů. Ale hlas v zadu hlavy mi říkal, že bych se do ní dokázal zamilovat raz dva. Je drobná, krásná, milá, extrémně chytrá, ambiciózní.. všechno co mám rád.. blbý.\
-Doprovodil jsem jí k metru, rozloučili jsme se objetím a já se vrátil k pájení. Vláďa dokázal rozchodit zaseknuté i2c v kolech v Lahti.\
-Po práci jsem dojel do Alzy vyzvednout obal na mobil pro Mámu. Potkal jsem tam Tomáše Hermana. Říkal, že na moje narozeniny by mohl dorazit.\
-Už se mi nechtělo jet přes centrum. Vzal jsem to po magistrále se zastávkou v Lidlu. U kasy jsem objevil, že pizza se do polární lišky nevejde. Celkově byl ten batoh menší než můj předchozí. Nejspíš daň za větší členění. Hlavně kapsa nahoře uvnitř překáží, když člověk vozí laptop. Taky jsem se nemohl rozhodnout, zda vozil laptop v kapse či ne. Překvapive ne kvůli laptopu, ale kvůli batohu. Bál jsem se, že rohy laptopu způsobí prodření na spodní straně. Viděl jsem to na youtube v jedné z recenzí po několika letech.\
-Doma jsem shltal pitu s bazalkovým pestem a potom upečenou pizzu. Oboje bylo extrémně dobrý. A taky plný kalorií. Bylo ještě dost slunka a já tak vyrazil s knížkou v ruce do Folimanky na cvičítka.\
+I přes to, že mě slunko budí po šesté, moje ranní rutina prostě trvá. Musím se naučit připravit si věci večer. Ráno prostě vstát, oblíknout se, posnídat a vyrazit. Žádný čumění do mobilu skoro hodinu jak jsem si na to zvykl.
+
+Kilometr v nacpaným bazénu jsem zvládl s tempem pod 2 min/km.
+
+V práci jsem se pustil do osazování. Chybělo mi to.
+
+Na oběd měla přijet Peťa. A napsal jsem i Vojtovi, který se rozhodl, že přijede. Měl jsem z toho radost. Dlouho jsem si říkal, že mám bývalé kolegy, kteří se k nám rádi vracejí, protože jsme firma plná dobrých lidí a děláme to rádi. Ale došlo mi, že ta spojka jsem nejspíš já To já se bavím s Peťou a jezdím s ní do pivovaru. To já dělám nahrávátka pro Vojtu a bavím se s nám dál. To samý dělám mezi svýma kamarádama. Občas mě to praští do očí, ale většinou si to neuvědomuju. Těžko říct, jestli je to tím, že jsem singl a kompenzuju si tím nedostatek sociálního vyžití, protože vedle mě není někdo, kdo mě má rád. Ale spíš to tak není. Když jsem byl s Miškou, chtěl jsem s ostatními trávit snad ještě víc času. Být pro jednou taky ten, kdo je v páru. Co už..
+
+Vojta přišel nějak okolo v půl dvanáctý, bavil se s klukama a pak jsme vyrazili Peťe vstříc k metru. Spolu jsme vyrazili do AFI věžáku. Dole měli jídelnu. Docela fancy a jednotná cena 174 za jídlo nebyla zrovna malá. Ale všechno vypadalo moc dobře a porce byly notné. Vlastně jsem si vzal ještě koláč s lesním ovocem.
+
+Peťa vyprávěla o tom, že v úterý se značně změnily její plány, protože jí povýšili. Bude Head of Sales for North America. Protože hlavouni v její společnosti, což je nějaký dceřinka DB jsou starouši co neumí Anlicky a nerozumí věcem tohohle století. Vojta vtipně podotknul, jak dlouho bude trvat, než tohle začnou říkat o nás.
+
+Bylo to moc příjemný posezení.
+
+Pěťa se pak šla podívat k nám a Vojta vyrazil dál do světa. Byla nadšená a povídala si s ostatními a se mnou s neskutečně krásným úsměvem. Nemohl jsem neslyšet Rébu, která se ptala, proč s ní nic nepodniknu. Možná protože bude dělat pro Američany a bude v Praze ještě míň než doteď a to je tak jednou za šest týdnů. Ale hlas v zadu hlavy mi říkal, že bych se do ní dokázal zamilovat raz dva. Je drobná, krásná, milá, extrémně chytrá, ambiciózní.. všechno co mám rád.. blbý.
+
+Doprovodil jsem jí k metru, rozloučili jsme se objetím a já se vrátil k pájení. Vláďa dokázal rozchodit zaseknuté i2c v kolech v Lahti.
+
+Po práci jsem dojel do Alzy vyzvednout obal na mobil pro Mámu. Potkal jsem tam Tomáše Hermana. Říkal, že na moje narozeniny by mohl dorazit.
+
+Už se mi nechtělo jet přes centrum. Vzal jsem to po magistrále se zastávkou v Lidlu. U kasy jsem objevil, že pizza se do polární lišky nevejde. Celkově byl ten batoh menší než můj předchozí. Nejspíš daň za větší členění. Hlavně kapsa nahoře uvnitř překáží, když člověk vozí laptop. Taky jsem se nemohl rozhodnout, zda vozil laptop v kapse či ne. Překvapive ne kvůli laptopu, ale kvůli batohu. Bál jsem se, že rohy laptopu způsobí prodření na spodní straně. Viděl jsem to na youtube v jedné z recenzí po několika letech.
+
+Doma jsem shltal pitu s bazalkovým pestem a potom upečenou pizzu. Oboje bylo extrémně dobrý. A taky plný kalorií. Bylo ještě dost slunka a já tak vyrazil s knížkou v ruce do Folimanky na cvičítka.
+
 Dal jsem pár shybů a pár dipů vždy proložených pár odstavci knihy.
 
 ### 10.5. Pátek o ničem
 
-Cesta do práce se pomalu stávala rutinou. Už počtvrté jsem šel cestou plavat do Slavie a objevil, že tam byli ti samí lidé co před týdnem. Taky jsem si říkal, že je třeba tam být dříve. Po půl osmé se do bazénu nacpe spousta podivínů jako tlusťoch s Apple Watch Ultra, který prostě jen a jen překážel.\
-Přes Vinohradskou nemocnici a pak dolů přes Libeň. Vysočanské jsem se ale vyhnul zadem. Mezi paneláky sice byla horší cesta, ale zpívali tam ptáci a vyhnul jsem se dvěma světlům.\
-V práci kluci bílili stěny. Já jsem stavěl druhý prototyp fbbc00c a před polednem jsme s Vláďou na kolech vyrazili do místní Vietnamky na Freyově. Měli dobré jak Pad Thai s tofu tak Bun Dau Nam Bo. Ale oboje stálo 175. Víc než v Karlíně. Co mě ale potěšilo byl flex do baterie. Byla to věc, kterou jsme vybrainstormovali spolu s Vláďou a Ivanem a bylo to trochu na můj popud. A vypadalo sakra dobře. A ty 0402 šly napájet vlastně docela dobře. Až jsem si pak říkal jako jsou 0603 obří.\
+Cesta do práce se pomalu stávala rutinou. Už počtvrté jsem šel cestou plavat do Slavie a objevil, že tam byli ti samí lidé co před týdnem. Taky jsem si říkal, že je třeba tam být dříve. Po půl osmé se do bazénu nacpe spousta podivínů jako tlusťoch s Apple Watch Ultra, který prostě jen a jen překážel.
+
+Přes Vinohradskou nemocnici a pak dolů přes Libeň. Vysočanské jsem se ale vyhnul zadem. Mezi paneláky sice byla horší cesta, ale zpívali tam ptáci a vyhnul jsem se dvěma světlům.
+
+V práci kluci bílili stěny. Já jsem stavěl druhý prototyp fbbc00c a před polednem jsme s Vláďou na kolech vyrazili do místní Vietnamky na Freyově. Měli dobré jak Pad Thai s tofu tak Bun Dau Nam Bo. Ale oboje stálo 175. Víc než v Karlíně. Co mě ale potěšilo byl flex do baterie. Byla to věc, kterou jsme vybrainstormovali spolu s Vláďou a Ivanem a bylo to trochu na můj popud. A vypadalo sakra dobře. A ty 0402 šly napájet vlastně docela dobře. Až jsem si pak říkal jako jsou 0603 obří.
+
 Z práce jsem jel rovnou domů. Pak jsem se otočil v Lidlu, udělal si Caprese a pustil se do čtení. Chtěl jsem tu knihu už dočíst. Rozečetl jsem jí [23.3.](../2024_march/#233-mild-cough) a poslední třetina mě spíš srala. Ale byl jsem už moc daleko na to jí odložit.
 
 ![image](10_1.jpg)
 
 ### 11.5. Rodinné strasti
 
-Napsal jsem Tátovi přání k narozeninám. Až ve vlaku do Hory jsem objevil, že Geary stagnuje a poslal to z webu.\
-Od úterý jsem nezapnul porno. Měl jsem ze sebe radost. Po malých krůčcích bych se z toho zas mohl dostat. Vím, že můj život byl bez toho řádově lepší.\
-Eva mi napsala, že jsem minul polární záři. Byla prý všude v česku a já jsem to prospal. Ve Finsku žádná nebyla a v Praze jsem jí prosral taky? To jsem teda smolař.\
-Mrzelo mě, že máma to zrušila. Ještě víc mě mrzelo, že mi napsala, že se o ní nezajímám a že nemám lhát, že mě mrzí, že nepřijede.\
-Ve vlaku jsem psal. Vlak je na psaní dobrej. Čtení mi v něm moc nejde, ale psaní docela jo. Zase jsem trochu vážil jak moc mi deník dává a jak moc mi bere, výsledek byl stejnej jako vždy. I přes propálených několik hodin týdně mě stále extrémně baví číst si zpětně co se mi dělo.\
-Z nádraží jsem zavolal Evě a vyrazil pěšky k nim. Bylo horko. Mělo být dvacet stupňů a možná i bylo. Ale slunko pálilo a bylo dusno, takže jsem se potil.\
-Robin byl př trochu rozívenej, ale asi docela normálně. Chtěl hrát hry. Nakonec jsme vytáhli Vrhcáby. Petr mi osvětlil pravdila a nakonec mě porazil. Ale jen o ten nejmenší kousíček co šlo. V polsedním tahu jsem měl už jen jeden kámen.\
+Napsal jsem Tátovi přání k narozeninám. Až ve vlaku do Hory jsem objevil, že Geary stagnuje a poslal to z webu.
+
+Od úterý jsem nezapnul porno. Měl jsem ze sebe radost. Po malých krůčcích bych se z toho zas mohl dostat. Vím, že můj život byl bez toho řádově lepší.
+
+Eva mi napsala, že jsem minul polární záři. Byla prý všude v česku a já jsem to prospal. Ve Finsku žádná nebyla a v Praze jsem jí prosral taky? To jsem teda smolař.
+
+Mrzelo mě, že máma to zrušila. Ještě víc mě mrzelo, že mi napsala, že se o ní nezajímám a že nemám lhát, že mě mrzí, že nepřijede.
+
+Ve vlaku jsem psal. Vlak je na psaní dobrej. Čtení mi v něm moc nejde, ale psaní docela jo. Zase jsem trochu vážil jak moc mi deník dává a jak moc mi bere, výsledek byl stejnej jako vždy. I přes propálených několik hodin týdně mě stále extrémně baví číst si zpětně co se mi dělo.
+
+Z nádraží jsem zavolal Evě a vyrazil pěšky k nim. Bylo horko. Mělo být dvacet stupňů a možná i bylo. Ale slunko pálilo a bylo dusno, takže jsem se potil.
+
+Robin byl př trochu rozívenej, ale asi docela normálně. Chtěl hrát hry. Nakonec jsme vytáhli Vrhcáby. Petr mi osvětlil pravdila a nakonec mě porazil. Ale jen o ten nejmenší kousíček co šlo. V polsedním tahu jsem měl už jen jeden kámen.
+
 Dál jsme hráli na klarinet. Z prvu jsem z toho nevydal ani zvouček. Ale asi tak po hodině mi to už docela šlo. I přefoukávat tak aby to znělo jazzově. Jen druhá oktáva mi nějak unikala.
 
 ![image](11_1.jpg)
 
-Pak jsme se vydali do města. Spodem kolem řeky. Bylo hezky. Skoro horko. Eva mi nevěřila, když jsem to předtím říkal a musela si do batůžku sundavat svetr.\
-Od řeky jsme vyšli nahoru do centra hledat jídlo. Skoro všude měli plno. Něměli jsme tak pizzu, na kterou měl Petr chuť a i z Kozlovny nás poslali dál. Skončili jsme u Divišů. Měli jsme koprovku, smažák a kachna. Robin nic nechtěl. Se třema nápoji to stálo litr. Centrum hory, jasný. Ale stejně.. Od mého ideálu stokoruny za oběd hodně daleko.\
-Dál jsme se posunuli na kafe ke třem pávům. Robin si tam hrál s dětmi a my si dali kafe a víno.\
-Zpátky jsme šli standardní cestou kolem Billy. I tam jsem byl naposledy s Miškou.\
-Doma jsme dali ještě trochu klarinetu a k tomu v pozadí běžel hokej. Eva s Petrem měli v plánu jet grilovat k nějakým kamarádům. Necítil jsem se na nějakou větší socializaci a tak jsme se domluvili, že mě hodí cestou na vlak. Eva byla nešťastná, že bude muset vyčistit balkony. Měli jim revitalizovat fasádu a jim na balkoně sídlila paní holubová s vejci.\
+Pak jsme se vydali do města. Spodem kolem řeky. Bylo hezky. Skoro horko. Eva mi nevěřila, když jsem to předtím říkal a musela si do batůžku sundavat svetr.
+
+Od řeky jsme vyšli nahoru do centra hledat jídlo. Skoro všude měli plno. Něměli jsme tak pizzu, na kterou měl Petr chuť a i z Kozlovny nás poslali dál. Skončili jsme u Divišů. Měli jsme koprovku, smažák a kachna. Robin nic nechtěl. Se třema nápoji to stálo litr. Centrum hory, jasný. Ale stejně.. Od mého ideálu stokoruny za oběd hodně daleko.
+
+Dál jsme se posunuli na kafe ke třem pávům. Robin si tam hrál s dětmi a my si dali kafe a víno.
+
+Zpátky jsme šli standardní cestou kolem Billy. I tam jsem byl naposledy s Miškou.
+
+Doma jsme dali ještě trochu klarinetu a k tomu v pozadí běžel hokej. Eva s Petrem měli v plánu jet grilovat k nějakým kamarádům. Necítil jsem se na nějakou větší socializaci a tak jsme se domluvili, že mě hodí cestou na vlak. Eva byla nešťastná, že bude muset vyčistit balkony. Měli jim revitalizovat fasádu a jim na balkoně sídlila paní holubová s vejci.
+
 V kolíně jsem měl půl hodiny a seběhl jsem di Billy pro svačinu. Na hlaváku se průvodčí málem porval s nějakým ukrajincem co kouřil na záchodcích a doma už jsem jen rozkoukal novou řadu Discovery.
 
 ### 12.5. Asijský triatlon
@@ -209,9 +284,12 @@ Den jsem začal TODO listem, který jsem si zapsal do diáře. Chtěl jsem toho 
 - uklízet
 - prát
 
-A kdo ví co ještě. Možná díky tomu TODO listu jsem toho hodně zvládl. Uběhl něco přes pět kilometrů s tempem jen asi 2 vteřiny přes 5 kilometrů. Dojel jsem do Sapy, nakoupil těsto, omáčky a jedny předpřipravané knedlíčky a další asijský bulšit, na který mi vydal cash.\
-Dál jsem jel přes Dolní Břežany. Sjezd z Břežan dolů je něco, co nikdy neodmítnu. Extrémně zábavná věc.\
-V Podolí jsem si dal bábkovku a pak uplaval kilometr. Poslední stovku jsem napálil za 1:35. V první lajně byl totiž nějaký kluk s trenérkou a dal to za 0:58. Měl sice ploutve a šnorchl, ale stejně.. 0:58.\
+A kdo ví co ještě. Možná díky tomu TODO listu jsem toho hodně zvládl. Uběhl něco přes pět kilometrů s tempem jen asi 2 vteřiny přes 5 kilometrů. Dojel jsem do Sapy, nakoupil těsto, omáčky a jedny předpřipravané knedlíčky a další asijský bulšit, na který mi vydal cash.
+
+Dál jsem jel přes Dolní Břežany. Sjezd z Břežan dolů je něco, co nikdy neodmítnu. Extrémně zábavná věc.
+
+V Podolí jsem si dal bábkovku a pak uplaval kilometr. Poslední stovku jsem napálil za 1:35. V první lajně byl totiž nějaký kluk s trenérkou a dal to za 0:58. Měl sice ploutve a šnorchl, ale stejně.. 0:58.
+
 V Lidlu jsem ještě koupil jarní cibulku, tofu a doma jsem se pustil do plnění a balení knedlíčků. Byl to docela ojeb. Pobavilo mě, že mám jen jeden hrnec, ale vlastním nesmysle jako julienne škrabku:
 
 ![image](12_1.jpg)
@@ -224,9 +302,11 @@ Jen to praní jsem nezvládl. Ale byl jsem téměř připravenej na úterý. Tě
 
 ### 13.5. Nedobré dojmy
 
-V kalendáři jsem měl, že musím přejít k ČSOB. Naplánoval jsem to na *po obědě*. Moc úspěšný jsem ale nebyl. Pobočku zrovna opravovali a na provizorní byly jen paní co uměly zakládat nové účty a jedna, která uměla migrovat účty, ale premium účet založit neuměla. Zklamání. Po tom co den vypadal docela k světu. Ráno jsem uplaval 1200 m. V práci úspěšně stavěl prototypy, vylepšil si třídu pro DNA, opravil bordel v databázi ve finských simkách a dokonce si na to napsal dobrý test.\
+V kalendáři jsem měl, že musím přejít k ČSOB. Naplánoval jsem to na *po obědě*. Moc úspěšný jsem ale nebyl. Pobočku zrovna opravovali a na provizorní byly jen paní co uměly zakládat nové účty a jedna, která uměla migrovat účty, ale premium účet založit neuměla. Zklamání. Po tom co den vypadal docela k světu. Ráno jsem uplaval 1200 m. V práci úspěšně stavěl prototypy, vylepšil si třídu pro DNA, opravil bordel v databázi ve finských simkách a dokonce si na to napsal dobrý test.
+
 Před začátkem projekce, kterou pořádalo [ČSFD](https://www.csfd.cz/film/1316181-havet) jsem měl hodinu času. Kolo jsem zamkl na Václaváku a šel si sednout do Světozoru. Dal jsem si Bezinkovou limonádu, pokukoval po moc hezké barmance a psal si deník.`
-V kině nás potom pán informoval, že Lucerna je připojená k nové trafostanici a může se stát, že vypadne proud, protože se to již během dne stalo. A stalo se to. Asi by to nebyl problém, kdyby film po deseti minutých temna pustili ve stejném momentu, jako skončil. Jenže to nezvládli. Ten čas prostě přeskočili a těžko se pak odhadovalo, proč měl hlavní hrdina krvavou hlavu. Proč jich je o jednoho míň a proč pavouci tak strašně moc vyrostli.\
+V kině nás potom pán informoval, že Lucerna je připojená k nové trafostanici a může se stát, že vypadne proud, protože se to již během dne stalo. A stalo se to. Asi by to nebyl problém, kdyby film po deseti minutých temna pustili ve stejném momentu, jako skončil. Jenže to nezvládli. Ten čas prostě přeskočili a těžko se pak odhadovalo, proč měl hlavní hrdina krvavou hlavu. Proč jich je o jednoho míň a proč pavouci tak strašně moc vyrostli.
+
 
 ![image](13_1.jpg)
 
@@ -234,72 +314,110 @@ Ale i bez přeskoku to byl špatnej film. Režijně, herecky i vyprávěním. Je
 
 ### 14.5. Knedlíčkový den
 
-Probudil jsem se fyzicky unavený. Jestli to bylo tím. že jsem spal jen šest a půl hodiny.. možná, ale cítil jsem se jetej.\
+Probudil jsem se fyzicky unavený. Jestli to bylo tím. že jsem spal jen šest a půl hodiny.. možná, ale cítil jsem se jetej.
+
 Uplaval jsem kilometr jenom rukama. V práci jsem objevil, že mi kluci zmenšili stůl. Omar totiž finišoval svůj kancl a stůl byl jeho. Ten, který mi dali místo něj byl prohnutý. Ale co naděláš. Byl dočasný. Hezky jsem si na něm ale roztřídil věci a psal si o tom s Editou.
  
 ![image](14_1.jpg)
 
-Po práci jsem sjel do Lidlu. Koupit věci na hoštění. Aby bylo co pít, nakoupil jsem nepivo a pivo do basy a ještě nějaký plechovky a láhev vína.\
-S těžkou přepravkou jsem se vláčel domů. Nějaký anglicky mluvící pán mi nabídl, že mi pomůže. Bylo to milý, ale už jsem byl prakticky doma. Minula mě nějaký slečna ve fialových šatech, která vypadala jako Edita. Ale nepozdravila mě. Vrtalo mi to hlavou. Ale pak se ozvalo *Adýs!!* od skutečné Edity a to rozsoudilo mé váhání.\
-Šla se jen otočit domů a pak vyrážela do Grébovky s kamarádkou na víno.\
-Já jsem se pustil do příprav. První dorazil Ondra. Venku bylo krásně a tak jsme začali dole.\
-Druzí se přidali Nováčkovic. Přijeli svým novým zlatým Suzuki. Spolu s Anet jsme vyšli nahoru aby si mohla dojít na záchod a společně jsme pobrali na zahradu humus, sklenky, mrkvičky a další potřebnosti.\
-Pak přišel Jarda s Korou a po něm David. Rebeka byla na nějaký akci na hradě a napsala, že dorazí v osm.\
-Nováčkovic prodávali mercedes kolotočářům. Bylo to docela vtipný. Technicky je Anet a tak lidé volali jí, ale vždycky nakonec řešil detaily Filip.\
-Před osmou dorazila Réba. Povídala o lidech co nezvládají oblečení na formálních akcích. Zvládla pohanit mě na svatbě, což sice chápu, ale bylo to zbytečný. A prootže dole už začínalo být chladněji, přesunuli jsme se nahoru, kde sice bylo málo židlí, ale David se natáhl na zem a byl s tím v poho.\
-Já sjem se dal do napařování knedlíčků. Omáčky jsme na stundeta rozdistribuovali do víček od zavařovaček a Koře se udělalo blbě. Jardovi bylo blbě poslední dva dny, co se vrátil z Vídně a Kora to asi chytla od něj. Každopádně zvracela v bytě hned 2x.\
-Knedlíčky ale lidem chutnaly, nebo to alespoň říkali. Člověk neví.\
-Uspřádal jsem tour bytu. Jako vždy největší úspěch měla zbytková energie a po jídle jsme seděli a povídali si. Na deskovky nebyl čas. Třeba příště.\
-V půl jedenáctý byl konec. HoPo je daleko a Břevnov asi tak stejně. Ale bylo to moc fajn.\
+Po práci jsem sjel do Lidlu. Koupit věci na hoštění. Aby bylo co pít, nakoupil jsem nepivo a pivo do basy a ještě nějaký plechovky a láhev vína.
+
+S těžkou přepravkou jsem se vláčel domů. Nějaký anglicky mluvící pán mi nabídl, že mi pomůže. Bylo to milý, ale už jsem byl prakticky doma. Minula mě nějaký slečna ve fialových šatech, která vypadala jako Edita. Ale nepozdravila mě. Vrtalo mi to hlavou. Ale pak se ozvalo *Adýs!!* od skutečné Edity a to rozsoudilo mé váhání.
+
+Šla se jen otočit domů a pak vyrážela do Grébovky s kamarádkou na víno.
+
+Já jsem se pustil do příprav. První dorazil Ondra. Venku bylo krásně a tak jsme začali dole.
+
+Druzí se přidali Nováčkovic. Přijeli svým novým zlatým Suzuki. Spolu s Anet jsme vyšli nahoru aby si mohla dojít na záchod a společně jsme pobrali na zahradu humus, sklenky, mrkvičky a další potřebnosti.
+
+Pak přišel Jarda s Korou a po něm David. Rebeka byla na nějaký akci na hradě a napsala, že dorazí v osm.
+
+Nováčkovic prodávali mercedes kolotočářům. Bylo to docela vtipný. Technicky je Anet a tak lidé volali jí, ale vždycky nakonec řešil detaily Filip.
+
+Před osmou dorazila Réba. Povídala o lidech co nezvládají oblečení na formálních akcích. Zvládla pohanit mě na svatbě, což sice chápu, ale bylo to zbytečný. A prootže dole už začínalo být chladněji, přesunuli jsme se nahoru, kde sice bylo málo židlí, ale David se natáhl na zem a byl s tím v poho.
+
+Já sjem se dal do napařování knedlíčků. Omáčky jsme na stundeta rozdistribuovali do víček od zavařovaček a Koře se udělalo blbě. Jardovi bylo blbě poslední dva dny, co se vrátil z Vídně a Kora to asi chytla od něj. Každopádně zvracela v bytě hned 2x.
+
+Knedlíčky ale lidem chutnaly, nebo to alespoň říkali. Člověk neví.
+
+Uspřádal jsem tour bytu. Jako vždy největší úspěch měla zbytková energie a po jídle jsme seděli a povídali si. Na deskovky nebyl čas. Třeba příště.
+
+V půl jedenáctý byl konec. HoPo je daleko a Břevnov asi tak stejně. Ale bylo to moc fajn.
+
 Večer mi ještě psala Edita, že hodně přemýšlela, že bych se zastavil na to víno, ale byla unavená a cítila, že na ní jde spaní. Stejně mi to ale přineslo úsměv na tvář.
 
 ### 15.5. Dohnat deficit
 
-Někdy během dne mi přišel email, že můj limitní prodej BTC se provedl. Pár dní zpátky jsem totiž ztratil víru v to, že BTC ještě poroste a nastavil prodej 75% na cenu 58500 €. S těžkým srdcem jsem pak sledoval, jak roste dál k 62000 €. Uklidňoval jsem se, že jsem na tom vydělal. Měl bych mít radost. Ale srdíčko mě bolelo z toho, že jsem ještě během toho dne mohl mít aso o 1000 € víc. A 1000 € ti jen tak někdo nedá.\
+Někdy během dne mi přišel email, že můj limitní prodej BTC se provedl. Pár dní zpátky jsem totiž ztratil víru v to, že BTC ještě poroste a nastavil prodej 75% na cenu 58500 €. S těžkým srdcem jsem pak sledoval, jak roste dál k 62000 €. Uklidňoval jsem se, že jsem na tom vydělal. Měl bych mít radost. Ale srdíčko mě bolelo z toho, že jsem ještě během toho dne mohl mít aso o 1000 € víc. A 1000 € ti jen tak někdo nedá.
+
 Po práci jsem přijel domů a po chvíli čtení jsem šel spát. Neuklidil jsem, nevypral jsem, neoholil jsem se a prostě usnul. Ale druhý den mě hodinky pochválily. Zní to, jako že jsem hodně jejich otrok. Ale já jsem se opravdu cítil vyspanější.
 
 ### 16.5. Než se naděju bude další zima
 
-Šestnáctýho? Kam se poděla polovina Května. Když čas při pohledu zpátky letí, znamená to většinou, že daný moment toho moc nenabízí. A asi to tak bylo. S výjimkou předchozího dne jsem opravdu tak nějak plul ze dne do dne. Rutinou a nic neděláním. Kolo / bazén / kolo / práce / kolo / vaření / únava.\
-Ale to že jsem přemýšlel o tom, že mi začíná vadit, že nic nedělám, jsem bral jako dobrou zprávu. Poslední 3 měsíce (heledě na datum jsem si uvědomoval, že na den přesně tři měsíce) jsem neměl chuť dělat vůbec nic.\
-Pomalu jsem se překlápěl do mindsetu toho, že něco chci dělat. Něco chci vymyslet. Něco chci podniknout.\
-Vodu s kolegy. Vodu s kamarády. Na kole někam. Na výlet s někým.\
-V práci jsem se ale věnoval baterii. Snažil jsem se nemyslet na to kolikátýho je. Ne že by mi to úplně šlo. Ale když člověk pájí články a baterie vlastně je takový malá bomba.. obavy o nezapálení nové provozovny pomáhají.\
-Na oběd jsme šli pěšky do Deli. Někde pozadu, přes plot, kudy vedl DJ.\
-Cestou zpátky mi Ivan ale Mišku připomněl. Řešili jsme co vidíme za strom. A knížku na rozpoznávání stromů podle listů má Miška ode mně. Jen to věnování jsem jí tam nedopsal. Blbec jsem. Teď už to nezvládnu.\
+Šestnáctýho? Kam se poděla polovina Května. Když čas při pohledu zpátky letí, znamená to většinou, že daný moment toho moc nenabízí. A asi to tak bylo. S výjimkou předchozího dne jsem opravdu tak nějak plul ze dne do dne. Rutinou a nic neděláním. Kolo / bazén / kolo / práce / kolo / vaření / únava.
+
+Ale to že jsem přemýšlel o tom, že mi začíná vadit, že nic nedělám, jsem bral jako dobrou zprávu. Poslední 3 měsíce (heledě na datum jsem si uvědomoval, že na den přesně tři měsíce) jsem neměl chuť dělat vůbec nic.
+
+Pomalu jsem se překlápěl do mindsetu toho, že něco chci dělat. Něco chci vymyslet. Něco chci podniknout.
+
+Vodu s kolegy. Vodu s kamarády. Na kole někam. Na výlet s někým.
+
+V práci jsem se ale věnoval baterii. Snažil jsem se nemyslet na to kolikátýho je. Ne že by mi to úplně šlo. Ale když člověk pájí články a baterie vlastně je takový malá bomba.. obavy o nezapálení nové provozovny pomáhají.
+
+Na oběd jsme šli pěšky do Deli. Někde pozadu, přes plot, kudy vedl DJ.
+
+Cestou zpátky mi Ivan ale Mišku připomněl. Řešili jsme co vidíme za strom. A knížku na rozpoznávání stromů podle listů má Miška ode mně. Jen to věnování jsem jí tam nedopsal. Blbec jsem. Teď už to nezvládnu.
+
 Doma jsem toho zas moc nezvládl. Maličko jsem se posunul v knížce, sepsal si TODO list, ale radši jsem šel spát.
 
 ### 17.5. Jako s bombou
 
 Ranní plavání ve Slavii už se mi dostávalo pod kůži. Paní za kasou už si na mě taky zvykla. 4 dráhy zabíraly tréninky. V první lajně byla jako každý pátek krásná slečna a její mamka (myslím). A můj kilometr utekl docela rychle, protože nakonec jsme v druhý lajně byli jen dva.q
-Když jsem se osušil a zabalil, objevil jsem, že venku chčije jak z konve. Radar sliboval lepší počasí o 10 minut později. I tak ale byla na tričko kosa a poprchávalo. Škoda, že pláštěnka byla v práci.\
-Pokračoval jsem na práci s baterií. Naneštěstí jsem utrhl FPC konektor. Změnili jsme proto pad, na kterém držel na pad na poli s prokovy. Snad to pomůže. Celou desku jsem postavil znovu. Horkovzduchem jsem postupně přendaval součástky a po obědě jsem měl hotovo.\
-Otočil jsem diody a pak připojil fbmc. A baterka se vypnula. Vláďa mi pomohl a uázalo se, že šla do bootloaderu. Proč? I na to jsme nakonec přišli. fbmc posílalo periodicky příkaz na čtení baterie, ale Vláďa změnil protokol, takže první nebyl status, ale loader.\
+Když jsem se osušil a zabalil, objevil jsem, že venku chčije jak z konve. Radar sliboval lepší počasí o 10 minut později. I tak ale byla na tričko kosa a poprchávalo. Škoda, že pláštěnka byla v práci.
+
+Pokračoval jsem na práci s baterií. Naneštěstí jsem utrhl FPC konektor. Změnili jsme proto pad, na kterém držel na pad na poli s prokovy. Snad to pomůže. Celou desku jsem postavil znovu. Horkovzduchem jsem postupně přendaval součástky a po obědě jsem měl hotovo.
+
+Otočil jsem diody a pak připojil fbmc. A baterka se vypnula. Vláďa mi pomohl a uázalo se, že šla do bootloaderu. Proč? I na to jsme nakonec přišli. fbmc posílalo periodicky příkaz na čtení baterie, ale Vláďa změnil protokol, takže první nebyl status, ale loader.
+
 Všechno tedy bylo v pořádku.
 
 ![image](14_1.jpg)
 
-I to topení fungovalo, byť nakonec šla baterka do permanentního failu kvůli `cell temperature error`. Taky v pořádku.\
-A tak jsem si očistil řetěz a přehazovačku a sledoval, proč ve Franzovi III začalo divně praskat. Neobjevil jsem nic. Až cestou jem si všiml, že se to neděje, když nesedím v sedle. Že by to byl ten blbej AirTag?\
-Doma jsem díly Discovery, které byly natočené. Měl jsem docela dlouhý TODO list. Od Asijského večera byl v bytě bordel, vlasy mi rostly, nehty taky. Prostě ty udržovací činnosti.\
+I to topení fungovalo, byť nakonec šla baterka do permanentního failu kvůli `cell temperature error`. Taky v pořádku.
+
+A tak jsem si očistil řetěz a přehazovačku a sledoval, proč ve Franzovi III začalo divně praskat. Neobjevil jsem nic. Až cestou jem si všiml, že se to neděje, když nesedím v sedle. Že by to byl ten blbej AirTag?
+
+Doma jsem díly Discovery, které byly natočené. Měl jsem docela dlouhý TODO list. Od Asijského večera byl v bytě bordel, vlasy mi rostly, nehty taky. Prostě ty udržovací činnosti.
+
 Nechal jsem je na víkend. Stejně jsem neměl žádný plán.
 
 ### 18.5. Chci plán
 
-Venku bylo pořád hnusně. Koukal jsem tak na Jamese Hoffmana, cvičil jógu. [Tohle](https://www.youtube.com/watch?v=0hTllAb4XGg) video obsahuje protahování oblastí, které jsem měl tak zkrácené, že jsem si řekl, že je třeba je protahovat možná i denně. YouTube mě navedl na [video](https://www.instagram.com/) holčiny, co jela podobnou trasu jako já. Dokonce potkala stejný spadlý strom přes cestu. Řekl jsem si, že jí musím napsat. Sice bydlí někde Baskicku, ale když za mamkou přijela na kole do Prahy, třeba tu někdy je a mohli bychom dát kafe a pokecat.\
-Založil jsem instagram a udělal to. Snažil jsem se psychicky připravit na to, že mi neodepíše. Její příspěvky měly stovky lajků a já neměl ani fotku na profilu. Přidal jsem tam tu s ukulele a zavřel web. Aplikaci jsem nechtěl.\
-Moje oblíbená činnost, čtení toho, co jsem dělal před rokem, začínala bolet. Loni jsem se totiž začínal zamilovávat do Mišky. Udržovat tu bolest takhle při životě bolelo jak trám. Ale já takhle funguju. Čtu svůj deník. Proč bych ho jinak psal. Doma mi voní svíčka, kterou udělala. Mám tu vůni rád a nechci jí měnit jen proto, že mi dala košem. V práci každý den jím hůlkama, který mi dala. Jsou hezký a jsou funkční. Byla by škoda je nepoužívat. Já nechci mít věci, který nepoužívám.\
-Napadlo mě ale, že až jí příště uvidím, bude s někým jiným a bude šťastná. Pocit, kterej to ve mě vyvolalo byl tísnivej. Doslova fyzickej. Cítil jsem, jak kdyby mi někdo dal hlavu do svěráku a pomalu točil kličkou.\
-Sjel jsem na Čerňák do ikey zapsat dění věcí minulých. Zkusil jsem odhlait záhadu praskání v předním kole, ale nepodařilo se mi to. Nebyl to držák na airtag, protože jeho sundání nepomohlo. Posouvání se na sedle dopředu a dozadu zvuk rozhodně umocňovalo, ale to bylo tak všechno co jsem objevil.\
+Venku bylo pořád hnusně. Koukal jsem tak na Jamese Hoffmana, cvičil jógu. [Tohle](https://www.youtube.com/watch?v=0hTllAb4XGg) video obsahuje protahování oblastí, které jsem měl tak zkrácené, že jsem si řekl, že je třeba je protahovat možná i denně. YouTube mě navedl na [video](https://www.instagram.com/) holčiny, co jela podobnou trasu jako já. Dokonce potkala stejný spadlý strom přes cestu. Řekl jsem si, že jí musím napsat. Sice bydlí někde Baskicku, ale když za mamkou přijela na kole do Prahy, třeba tu někdy je a mohli bychom dát kafe a pokecat.
+
+Založil jsem instagram a udělal to. Snažil jsem se psychicky připravit na to, že mi neodepíše. Její příspěvky měly stovky lajků a já neměl ani fotku na profilu. Přidal jsem tam tu s ukulele a zavřel web. Aplikaci jsem nechtěl.
+
+Moje oblíbená činnost, čtení toho, co jsem dělal před rokem, začínala bolet. Loni jsem se totiž začínal zamilovávat do Mišky. Udržovat tu bolest takhle při životě bolelo jak trám. Ale já takhle funguju. Čtu svůj deník. Proč bych ho jinak psal. Doma mi voní svíčka, kterou udělala. Mám tu vůni rád a nechci jí měnit jen proto, že mi dala košem. V práci každý den jím hůlkama, který mi dala. Jsou hezký a jsou funkční. Byla by škoda je nepoužívat. Já nechci mít věci, který nepoužívám.
+
+Napadlo mě ale, že až jí příště uvidím, bude s někým jiným a bude šťastná. Pocit, kterej to ve mě vyvolalo byl tísnivej. Doslova fyzickej. Cítil jsem, jak kdyby mi někdo dal hlavu do svěráku a pomalu točil kličkou.
+
+Sjel jsem na Čerňák do ikey zapsat dění věcí minulých. Zkusil jsem odhlait záhadu praskání v předním kole, ale nepodařilo se mi to. Nebyl to držák na airtag, protože jeho sundání nepomohlo. Posouvání se na sedle dopředu a dozadu zvuk rozhodně umocňovalo, ale to bylo tak všechno co jsem objevil.
+
 Začínal jsem přemýšlet o Alpách. Pěšky nebo kolo? Tyrolsko? Týden nebo dýl. Sám?.. Hnít v Praze už mě sralo.
 Večer jsem se díval na [Yesterday](https://www.csfd.cz/film/654089-yesterday). John Lennon se tam hlavního protagonisty ptal:
 
-*You want a good life?*\
-*It's not complicated.*\
-*Tell the girl you love*\
-*that you love her.*\
-*And tell the truth to everyone*\
-*whenever you can.*\
+*You want a good life?*
+
+*It's not complicated.*
+
+*Tell the girl you love*
+
+*that you love her.*
+
+*And tell the truth to everyone*
+
+*whenever you can.*
+
 
 Co je ti to ale platný, když ona nemiluje tebe.. posral jsem to. Neřekl jsem jí to když jsem měl. A pak už bylo pozdě.
 
@@ -313,26 +431,38 @@ Asi jsem neměl dost a tak jsem ještě sjel do podolí plavat.
 
 ### 20.5. Neplodná práce
 
-V práci jsem zkoumal spálená cbn. Vymýšlel jsem všechno možné, ale nikam to nevedlo.\
-Na oběd kluci vymysleli grilování. Udělali mi sýr, což bylo milý. Taky jsem si s sebou vzal jídlo do krabičky a někdy ve tři jsem měl radost, že jsem si ho vzal. Jeden hermelín a dva plátky chlebu člověku moc nedají.\
-úklid skříně a vyhazování věcí\
-Doma jsem se pustil do sádrování díry po vytržené garnýži a jejímu opětovnému přidělání. Slunko už zapadalo po desáté a vycházelo snad ve 4. Zatmívací závěsy jsem měl a bylo je třeba využít. A zkrátit. Přemýšlel jsem nad zapošíváním, ale nakonec jsem je opravdu jen ustříhl nůžkami.\
+V práci jsem zkoumal spálená cbn. Vymýšlel jsem všechno možné, ale nikam to nevedlo.
+
+Na oběd kluci vymysleli grilování. Udělali mi sýr, což bylo milý. Taky jsem si s sebou vzal jídlo do krabičky a někdy ve tři jsem měl radost, že jsem si ho vzal. Jeden hermelín a dva plátky chlebu člověku moc nedají.
+
+úklid skříně a vyhazování věcí
+
+Doma jsem se pustil do sádrování díry po vytržené garnýži a jejímu opětovnému přidělání. Slunko už zapadalo po desáté a vycházelo snad ve 4. Zatmívací závěsy jsem měl a bylo je třeba využít. A zkrátit. Přemýšlel jsem nad zapošíváním, ale nakonec jsem je opravdu jen ustříhl nůžkami.
+
 A byla tma. A bylo to dobrý.
 
 ### 21.5. Krok do lepší společnosti
 
-Sice jsem měl zatměno, ale probouzel jsem se. Asi jsem byl nějaký neuklidněný. Ale na hodinkách bylo i tak vidět zlepšení.\
-Premium účet u ČSOB. To byla ta nejdůležitější věc toho dne. Dlouho jsem si říkal, že na něj přejdu a konečně přišlo datum dne, kdy jsem měl schůzku s mojí novou bankéřkou.\
-V 6:20 jsem vylezl z postele. V 7:03 jsem vlezl do bazénu, uplaval 3/4 kilometru a pak v tempu dojel na Vysočanskou, kde jsem byl v 7:59.\
-Ale moje paní nikde. A telefon taky nebrala. A dveře říkali, že tam budou až v 9. Trochu jsem v ní ztrácel víru, dřív než jsem jí poprvé uviděl, ale řekl jsem si, že nad ní ještě nebudu lámat hůl a šel jsem si nakoupit něco k snídani do Lidlu.\
-Po chvíli mi zavolala s omluvou a slíbila, že mi uvaří kafe, až přijdu.\
-Hodinu a 3/4 jsme byli ve smlouvách. S bankami to nikdy není na chvilku. Ale měl jsem radost. Vypadalo to, že se mi mermomocí nesnaží nic cpát a spíš mluví z vlastní zkušenosti.\
-Dál jsem se trápil s CBN. Uchyloval jesm se k absurdnějším scénářům a stále nic nenacházel.\
+Sice jsem měl zatměno, ale probouzel jsem se. Asi jsem byl nějaký neuklidněný. Ale na hodinkách bylo i tak vidět zlepšení.
+
+Premium účet u ČSOB. To byla ta nejdůležitější věc toho dne. Dlouho jsem si říkal, že na něj přejdu a konečně přišlo datum dne, kdy jsem měl schůzku s mojí novou bankéřkou.
+
+V 6:20 jsem vylezl z postele. V 7:03 jsem vlezl do bazénu, uplaval 3/4 kilometru a pak v tempu dojel na Vysočanskou, kde jsem byl v 7:59.
+
+Ale moje paní nikde. A telefon taky nebrala. A dveře říkali, že tam budou až v 9. Trochu jsem v ní ztrácel víru, dřív než jsem jí poprvé uviděl, ale řekl jsem si, že nad ní ještě nebudu lámat hůl a šel jsem si nakoupit něco k snídani do Lidlu.
+
+Po chvíli mi zavolala s omluvou a slíbila, že mi uvaří kafe, až přijdu.
+
+Hodinu a 3/4 jsme byli ve smlouvách. S bankami to nikdy není na chvilku. Ale měl jsem radost. Vypadalo to, že se mi mermomocí nesnaží nic cpát a spíš mluví z vlastní zkušenosti.
+
+Dál jsem se trápil s CBN. Uchyloval jesm se k absurdnějším scénářům a stále nic nenacházel.
+
 Večer jsem se stavil za paní paní Kotrbatou. Měla pro mě nějaký přeplatek a pan Kepka mi už 2x říkal, že to mám vyřešit.
 
 ### 22.5. Zničit box není tak lehký
 
-Pokračoval jsem v měření na cbn. Došel jsem tak daleko, že jsem si box sestavil a hrubě vytahoval baterie za jízdy. Odpojoval zásuvku a zas jí zapínal a vůbec, byl k boxu neomalený. A nic. Všechno fungovalo.\
+Pokračoval jsem v měření na cbn. Došel jsem tak daleko, že jsem si box sestavil a hrubě vytahoval baterie za jízdy. Odpojoval zásuvku a zas jí zapínal a vůbec, byl k boxu neomalený. A nic. Všechno fungovalo.
+
 Po práci jsem snědl itálii, kterou jsem původně měl jako o
 
 ### 23.5. Franze na léčení
@@ -341,37 +471,53 @@ V práci jsem neměl až tak moc co dělat. Ivan se ale dal do rozebírání top
 
 ![image](23_1.jpg)
 
-Po práci jsem se ještě asi hodinu snažil zbavit klapajícího zvuku seřizováním kola na centrstole. Neúspěšně. Zavezl jsem tak Franze III. do Dekáče.\
-Servisák moc nevěděl, ale slbil, že další den se na to podívá expert. Na kase byla moc hezká a kouzelná prodavačka. Když jsem odevzal kolo, potkal jsem jí ještě v prostoru krámu a možná jsem s ní trochu flirtoval. Možná bych jí měl pozvat ven.\
+Po práci jsem se ještě asi hodinu snažil zbavit klapajícího zvuku seřizováním kola na centrstole. Neúspěšně. Zavezl jsem tak Franze III. do Dekáče.
+
+Servisák moc nevěděl, ale slbil, že další den se na to podívá expert. Na kase byla moc hezká a kouzelná prodavačka. Když jsem odevzal kolo, potkal jsem jí ještě v prostoru krámu a možná jsem s ní trochu flirtoval. Možná bych jí měl pozvat ven.
+
 Češi asi hráli hokej. Všude byl randál fanoušků, když jse šel valili se na mě odevšad. Vlak jel až za půl hodiny. Zatelefonoval jsem tak mámě, která měla mindrák, že na ní seru.
 
 ### 24.5. Postrčen kupředu vlastní blbostí
 
-Deset minut před sedmou mi jel Vlak do Hradce. Kalendář říkal *K Zubaři* v 10:20 a stihl jsem hezky v klidu snídani a přípravu kávy do vlaku. Na peronu byla holka s batohem *Kanken*. Neměl ale červené logo, které se mi nelíbí, ale bylo vyšité v hezké šedé. Můj *Raven* je ale hezčí. Holka ale byla pohledná. Taková.. úplně obyčená. Ale měla iPhone, macBook a AirPody. Buď byla bohatá, nebo dbala na kvalitu.\
+Deset minut před sedmou mi jel Vlak do Hradce. Kalendář říkal *K Zubaři* v 10:20 a stihl jsem hezky v klidu snídani a přípravu kávy do vlaku. Na peronu byla holka s batohem *Kanken*. Neměl ale červené logo, které se mi nelíbí, ale bylo vyšité v hezké šedé. Můj *Raven* je ale hezčí. Holka ale byla pohledná. Taková.. úplně obyčená. Ale měla iPhone, macBook a AirPody. Buď byla bohatá, nebo dbala na kvalitu.
+
 Ve Veselí ale zmizela v tunelu pod nádražím ven. Já jsem si šel sednout do čekárny, protože vlak měl jet až za 20 minut. Dle tabule. Jenže to jsem se zmýlil. Po chvíli čekání a neúspěšném boji s programováním, jsem si všiml, že nejede za 20 minut. Ale za hodinu dvacet. Můj vlak totiž vůbec nejel. Byl nahrazený autobusem a pěkná holka v něm už byla napůl cesty do Hradce. A s ní i možnost nechat si vytrhnout zub, jak jsem se dozvěděl při telefonátu do ordinace.
 
 ![image](24_1.jpg)
 
-Došla mi trpělivost a zavolal jsem zubařům do Vršovic, které jsem vygooglil a internet měl pocit, že jsou v poho. Paní mi naplánovala vstupní prohlídku někam do Srpna, ale slíbila mi, že až se něco uvolní, přeobjedná mě na dřív.\
-Koupil jsem jízdenku a jel zpátky. Přemýšlel jsem zda náhodou nejet do práce? Měl jsem volno.Sražené vlaky v tunelu pod Vinohrady to rozhodnutí potvrdily.Zbytek dne jsem koukal do kódu. STM32WB55 prostě odmítal fungovat. Nanstaloval jesm si CUBEMX a vygeneroval si minimální kód HALem. A to fungovalo. Porovnával jsem tak registry a nekdy odpoledne konečně rozblikal diodu.\
-Párkrát mi telefonoval servisák z Decathlonu. Moc nevěděl co s mým kolem je a cvakající zvuk prý neslyšel. Kolem sedmé jsem jedničkou vyrazil za ním a až spolu jsme přišli na to, že problém tkví v destičkách. A nic moc s ním nejde dělat. Nové destičky ho dělaly míň a trochu mě uklidnilo, že vím, že praskání není život ohrožující. Jenom otravný.\
-Zpátky jsem jel přes centrům na nuselské schody. Ondra s Rébou tam popíjeli plechovky a spolu jsme pak přešli do Blatouchu.\
+Došla mi trpělivost a zavolal jsem zubařům do Vršovic, které jsem vygooglil a internet měl pocit, že jsou v poho. Paní mi naplánovala vstupní prohlídku někam do Srpna, ale slíbila mi, že až se něco uvolní, přeobjedná mě na dřív.
+
+Koupil jsem jízdenku a jel zpátky. Přemýšlel jsem zda náhodou nejet do práce? Měl jsem volno.Sražené vlaky v tunelu pod Vinohrady to rozhodnutí potvrdily.Zbytek dne jsem koukal do kódu. STM32WB55 prostě odmítal fungovat. Nanstaloval jesm si CUBEMX a vygeneroval si minimální kód HALem. A to fungovalo. Porovnával jsem tak registry a nekdy odpoledne konečně rozblikal diodu.
+
+Párkrát mi telefonoval servisák z Decathlonu. Moc nevěděl co s mým kolem je a cvakající zvuk prý neslyšel. Kolem sedmé jsem jedničkou vyrazil za ním a až spolu jsme přišli na to, že problém tkví v destičkách. A nic moc s ním nejde dělat. Nové destičky ho dělaly míň a trochu mě uklidnilo, že vím, že praskání není život ohrožující. Jenom otravný.
+
+Zpátky jsem jel přes centrům na nuselské schody. Ondra s Rébou tam popíjeli plechovky a spolu jsme pak přešli do Blatouchu.
+
 Povídali jsme si o dětství a dospívání. Bylo to milý. Ale vlastně bylo docela pozdě. A Praha byla podivně prázdná. Po jednom čaji/víně/nepivu jsme v jedenáct vyrazili domů.
 
 ### 25.5. Inkrementální pokroky
 
-V klidu jsem si programoval když z ničeho nic mě mozek hodil do momentu, kdy jsme s Miškou stáli na pařezu v Jeseníkách. Bez jakýhokoliv důvodu. Bylo to jak *Prstem do zubů* jak by řekl Ríša.\
-K obědu jsem si udělal tortellini s bio omáčkou z lidlu a bazalkovým tofu. Jídlo za 5 minut. Zdravý a dobrý. A pak jsem se šel natáhnout do Grébovky na sluníčko, chytat bronz a konečně dočíst toho Murakamiho.\
-Konce Murakamiho knížek mě obvykle naštvou. Tentokrát mě ale přešel jen nijaký. Jako vždy byl ten konec otevřený a jestli se s Pan Okada dal opět dohromady s Kumiko nikdo neví.\
-Rozečetl jsem [Blue Zones](). Mělo to jen 200 stránek. Proti 750 příjemná změna.\
-Sluníčko ale zašlo a přicházel déšť. Sbalil jsem se a zašel nakoupit do Lidlu. Když jsem vyšel z obchodu ven pršelo. Možná bych měl mít v batohu deštník.\
-Zbytek dne jsem opět věnoval převážně programování. Zní to jako bych něco opravdu naprogramoval, ale reálně jsem se moc neposunul. K debugu toho, proč systém padá do HardFaultu při vložení `initCpp()` jsem musel použít `objdump`. Disassembly už jsem nepoužil dlouho. Ale pomohlo mi to. Objevil jsem, že problém je s pushnutím na stack. A tak jsem se začal rýpat v linkerscriptu. STM32WB55 začíná na adrese 0x20000008. Proč je posunutá o těch 8 bajtů je mi záhadou, ale vyřešilo to můj problém s initem. Jen aby to spadlo o trochu dál.\
-Takhle jsem se pomalu ale jistě prokousával až do stavu, kdy jsem rozchodil Systick, opravil chybu v PLL, zjistil, že třídy PortSettings a Pin jsou napsané na tvrdo pro F4 a linker mi přilinkovává objekty se špatnými adresami. Bylo dobrý se s tím trápit. Vláďa by mi to opravil za vteřinu. A já bych buď nepochopil jak, nebo bych to po chvíli zapomněl.\
+V klidu jsem si programoval když z ničeho nic mě mozek hodil do momentu, kdy jsme s Miškou stáli na pařezu v Jeseníkách. Bez jakýhokoliv důvodu. Bylo to jak *Prstem do zubů* jak by řekl Ríša.
+
+K obědu jsem si udělal tortellini s bio omáčkou z lidlu a bazalkovým tofu. Jídlo za 5 minut. Zdravý a dobrý. A pak jsem se šel natáhnout do Grébovky na sluníčko, chytat bronz a konečně dočíst toho Murakamiho.
+
+Konce Murakamiho knížek mě obvykle naštvou. Tentokrát mě ale přešel jen nijaký. Jako vždy byl ten konec otevřený a jestli se s Pan Okada dal opět dohromady s Kumiko nikdo neví.
+
+Rozečetl jsem [Blue Zones](). Mělo to jen 200 stránek. Proti 750 příjemná změna.
+
+Sluníčko ale zašlo a přicházel déšť. Sbalil jsem se a zašel nakoupit do Lidlu. Když jsem vyšel z obchodu ven pršelo. Možná bych měl mít v batohu deštník.
+
+Zbytek dne jsem opět věnoval převážně programování. Zní to jako bych něco opravdu naprogramoval, ale reálně jsem se moc neposunul. K debugu toho, proč systém padá do HardFaultu při vložení `initCpp()` jsem musel použít `objdump`. Disassembly už jsem nepoužil dlouho. Ale pomohlo mi to. Objevil jsem, že problém je s pushnutím na stack. A tak jsem se začal rýpat v linkerscriptu. STM32WB55 začíná na adrese 0x20000008. Proč je posunutá o těch 8 bajtů je mi záhadou, ale vyřešilo to můj problém s initem. Jen aby to spadlo o trochu dál.
+
+Takhle jsem se pomalu ale jistě prokousával až do stavu, kdy jsem rozchodil Systick, opravil chybu v PLL, zjistil, že třídy PortSettings a Pin jsou napsané na tvrdo pro F4 a linker mi přilinkovává objekty se špatnými adresami. Bylo dobrý se s tím trápit. Vláďa by mi to opravil za vteřinu. A já bych buď nepochopil jak, nebo bych to po chvíli zapomněl.
+
 
 ### 26.5. Okolo
 
-Po letech jsem vyrazil na kompletní 8100. Vlastně jsem to celý ujel jen jednou. A tentokrát jsem se rozhodl dát si to v opačným směru.\
-Ráno jsem vyrazil do Kolovrat vlakem. Objevil jsem, že Klánovický les je krásný. Ze severu Prahy byl ten den výhled až na sever republiky. Hloupě jsem si nevzal dvacku na převoz a tak jsem musel vybrat z bankomatu v Klecanech. Koupil jsem si u přívozu aspoň nepivo, abych rozbil dvoustovku.\
+Po letech jsem vyrazil na kompletní 8100. Vlastně jsem to celý ujel jen jednou. A tentokrát jsem se rozhodl dát si to v opačným směru.
+
+Ráno jsem vyrazil do Kolovrat vlakem. Objevil jsem, že Klánovický les je krásný. Ze severu Prahy byl ten den výhled až na sever republiky. Hloupě jsem si nevzal dvacku na převoz a tak jsem musel vybrat z bankomatu v Klecanech. Koupil jsem si u přívozu aspoň nepivo, abych rozbil dvoustovku.
+
 Rozhodl jsem se, že je třeba přejít Krkonoče a taky poslat decaf paní Kantové.
 
 ![image](26_1.jpg)
@@ -380,7 +526,8 @@ Zastavil jsem se u Lasíků. Je to vždycky dobrá volba. Ctěl jsem si dát nea
 
 ![image](26_2.jpg)
 
-V oblasti za letiskem jsem měl díry. Ale 8100 je tam obstojeně značená narozdíl od Klánovic. Vesnice, kde je sjezd a výjezd, co mě sundá vždycky nezlamala. Sjezd do Černošic taky ne. Zato déšt při výšlapu do Břežan jsem nečekal. Chvíli jsem tam čekal pod stromem pak vyjel do vody. Vlastně to byl nejlepší moment, kdy na okruhu zmoknout.\
+V oblasti za letiskem jsem měl díry. Ale 8100 je tam obstojeně značená narozdíl od Klánovic. Vesnice, kde je sjezd a výjezd, co mě sundá vždycky nezlamala. Sjezd do Černošic taky ne. Zato déšt při výšlapu do Břežan jsem nečekal. Chvíli jsem tam čekal pod stromem pak vyjel do vody. Vlastně to byl nejlepší moment, kdy na okruhu zmoknout.
+
 Za dálnicí jsem udělal nějakou chybu a sjel z trasy. Už to byl ale docela konec a u Kolovrat jsem se zas našel.
 
 ![image](26_3.jpg)
@@ -393,71 +540,106 @@ Ta vesnice je jen satelit. Ani pítko tam neměli. Byl jsem docela hotovej a ž�
 
 ![image](27_1.jpg)
 
-Na desátou jsem byl objednaný k zubaři. MCDentist byli cestu do práce. Na konci Konopištské, kterou denně jezdím v protisměru.\
-Oproti trojstředisku to tam vypadalo jako v budoucnosti. A asi to bylo tím, že oproti trojstředisku to budoucnost byla. Příjemná asistentka mi udělala kompletní rentgen a vzala mě za paní doktorkou Miriam Benešovou. Ta mi udělala ještě 4 malé rentgeny a foťákem vyfoila několik snímků zubů a nakonec tváře, protože stovky zubů jsou bez tváře k ničemu. Dala mi žádanku na chirurgii, řekla že tam mi vyrvou tu problematickou pravou stranu, ale že je možný, že to bude třeba až za několik měsíců.\
-Do práce jsem dorazil před obědem. A ten trval. Jeli jsme do foodcourtu do Fénixe. Všem to trvalo. A když jsme se konečně dostali k obchoďáku, neměl jsem správné klíče. Takže jsem si ještě jednou sjel do Kolbenky a zpátky.\
-V práci jsem byl fakt dlouho. Asi do půl devátý. Vláďa mi vysvětloval co dělá jeho linkerscript, jak funguje PSEUDOVTOR a bylo vidět, že vysvětlovat ho to baví. Je na to co napsal hrdej a ne každej to dokáže ocenit.\
-Protože jsem ale neměl úplně co dělat, šel jsem sádrovat do vývoje. Ve středu jsme chtěli malovat a na to je třeba mít rovný stěny.\
-Když ostatní odešli, vrátil jsem se k programování. Řekl jsem si, že rozchodím usart. Byl jsem tam až do půl devátý a nepovedlo se mi to. Musela to být nějaký prkotina, ale nedařilo se mi jí odhalit.\
-Večer tam bylo tak ticho, že se do areál začaly stahovat kočky. Napsal jsem to do genaralu a Omar měl hrůzu z toho, že budou spouštět senzory zabezpečovačky.\
+Na desátou jsem byl objednaný k zubaři. MCDentist byli cestu do práce. Na konci Konopištské, kterou denně jezdím v protisměru.
+
+Oproti trojstředisku to tam vypadalo jako v budoucnosti. A asi to bylo tím, že oproti trojstředisku to budoucnost byla. Příjemná asistentka mi udělala kompletní rentgen a vzala mě za paní doktorkou Miriam Benešovou. Ta mi udělala ještě 4 malé rentgeny a foťákem vyfoila několik snímků zubů a nakonec tváře, protože stovky zubů jsou bez tváře k ničemu. Dala mi žádanku na chirurgii, řekla že tam mi vyrvou tu problematickou pravou stranu, ale že je možný, že to bude třeba až za několik měsíců.
+
+Do práce jsem dorazil před obědem. A ten trval. Jeli jsme do foodcourtu do Fénixe. Všem to trvalo. A když jsme se konečně dostali k obchoďáku, neměl jsem správné klíče. Takže jsem si ještě jednou sjel do Kolbenky a zpátky.
+
+V práci jsem byl fakt dlouho. Asi do půl devátý. Vláďa mi vysvětloval co dělá jeho linkerscript, jak funguje PSEUDOVTOR a bylo vidět, že vysvětlovat ho to baví. Je na to co napsal hrdej a ne každej to dokáže ocenit.
+
+Protože jsem ale neměl úplně co dělat, šel jsem sádrovat do vývoje. Ve středu jsme chtěli malovat a na to je třeba mít rovný stěny.
+
+Když ostatní odešli, vrátil jsem se k programování. Řekl jsem si, že rozchodím usart. Byl jsem tam až do půl devátý a nepovedlo se mi to. Musela to být nějaký prkotina, ale nedařilo se mi jí odhalit.
+
+Večer tam bylo tak ticho, že se do areál začaly stahovat kočky. Napsal jsem to do genaralu a Omar měl hrůzu z toho, že budou spouštět senzory zabezpečovačky.
+
 Při usínání mě zuby na pravé straně rozbolely zas trochu víc. Řekl jsem si, že hned ráno zavolám zubařům u pivovaru. Psali, že tamější chirurg má velké svaly a bezbolestné kleště. A to chceš.
 
 ### 28.5. T-2 dny
 
-Týden zpátky jsem stihl před návštěvou banky uplavat 3/4 kilometru ve Slavii, dojet do Vysočan a být tam včas. ASi protože paní to minule nedala, tentokrát jsem to nehorotil a dojel 2 minuty po osmé. A stejně tam byl dřív než ona. Spolu jsme během asi půl hodiny převedli penzijko, v lidlu jsem si koupil sváču a dal se do boje s uartem. Ale Omar mi připoměl, že ve skutečnosti na mě čeká urgentnější práce a to reklamace z Trnavy. Nemusel jsem se tak cítit blbě, že dělám na něčem pro sebe. Ale taky jsem se učil jak funguje Vláďův kód. Což je moje práce.\
-Zubní chirurg měl volno až 30. září. Protože zubaři ve Vršovicích mi řekli, že budou mít volno v Srpnu a pak měli volno za dva dny, řekl jsem si, že se to třeba změní. Velmi milá recepční mi slíbila, že kdyby se místo uvolnilo, dá mi vědět.\
-Rozchodil jsem ten usart. Byla to kokotina, přesně tak jak jsem čekal. Přerušení v NVICu mělo špatné číslo. Protože v datasheetu jsou dvě tabulky. Jedna pro každé jádro a M0+ jádro má jiná přerušení než M4.\
-Protože jsem narozeniny moc nenaplánoval a pomalu se potvrzovalo že bude hnusně, dohodl jsem se s Evou i Mámou, že za nimi přijedu někdy později a napsal to do skupiny. I tak jsem z toho byl špatnej. Jediný co jsem si ke svým narozeninám přál bylo, abychom je trávili spolu s Miškou. A protože tohle nemohlo vyjít, cítil jsem se jako by všechno co zbylo stálo za starou bačkoru. Ale všechno co mi zbylo, bylo všechno co mi zbylo. S tím nešlo nic dělat. A tak jsem se cestou domů zastavil v mém oblíbeném suterénu. Pán co asi kdysi býval *Lidská bytost*, ale v současné době vypadal jako úplně normální kluk řekl, že se vejdeme. Zarezervoval jsem to a dal si jednoho birela k psaní deníku.\
+Týden zpátky jsem stihl před návštěvou banky uplavat 3/4 kilometru ve Slavii, dojet do Vysočan a být tam včas. ASi protože paní to minule nedala, tentokrát jsem to nehorotil a dojel 2 minuty po osmé. A stejně tam byl dřív než ona. Spolu jsme během asi půl hodiny převedli penzijko, v lidlu jsem si koupil sváču a dal se do boje s uartem. Ale Omar mi připoměl, že ve skutečnosti na mě čeká urgentnější práce a to reklamace z Trnavy. Nemusel jsem se tak cítit blbě, že dělám na něčem pro sebe. Ale taky jsem se učil jak funguje Vláďův kód. Což je moje práce.
+
+Zubní chirurg měl volno až 30. září. Protože zubaři ve Vršovicích mi řekli, že budou mít volno v Srpnu a pak měli volno za dva dny, řekl jsem si, že se to třeba změní. Velmi milá recepční mi slíbila, že kdyby se místo uvolnilo, dá mi vědět.
+
+Rozchodil jsem ten usart. Byla to kokotina, přesně tak jak jsem čekal. Přerušení v NVICu mělo špatné číslo. Protože v datasheetu jsou dvě tabulky. Jedna pro každé jádro a M0+ jádro má jiná přerušení než M4.
+
+Protože jsem narozeniny moc nenaplánoval a pomalu se potvrzovalo že bude hnusně, dohodl jsem se s Evou i Mámou, že za nimi přijedu někdy později a napsal to do skupiny. I tak jsem z toho byl špatnej. Jediný co jsem si ke svým narozeninám přál bylo, abychom je trávili spolu s Miškou. A protože tohle nemohlo vyjít, cítil jsem se jako by všechno co zbylo stálo za starou bačkoru. Ale všechno co mi zbylo, bylo všechno co mi zbylo. S tím nešlo nic dělat. A tak jsem se cestou domů zastavil v mém oblíbeném suterénu. Pán co asi kdysi býval *Lidská bytost*, ale v současné době vypadal jako úplně normální kluk řekl, že se vejdeme. Zarezervoval jsem to a dal si jednoho birela k psaní deníku.
+
 
 ### 29.5. Odhodlán to zkusit
 
-Kendy ráno přijel. Nebo přijel v noci. Těžko říct.\
-malování\
-opravy\
-s DJem\
-Do dekáče, holčina tam nebyla\
-na balabenku a zkratkami\
-doma jsem debugoval kód\
+Kendy ráno přijel. Nebo přijel v noci. Těžko říct.
+
+malování
+
+opravy
+
+s DJem
+
+Do dekáče, holčina tam nebyla
+
+na balabenku a zkratkami
+
+doma jsem debugoval kód
+
 až asi do desíti, kendy někde odpadl,
 
 ![image](29_1.jpg)
 
 ### 30.5. Do další dekády s kamarády, co mě mají rádi
 
-Třicátníci lépe spí. Dvacátého devátého mi bylo 29 a hodinky mi daly 79 spacích bodů. 30. mi bylo 30 a daly mi vodů 95. A cítil jsem se líp. Tak, že jsem porušil doporučení glukózové bohyně a dal si k snídani 4 kostičky čokolády. A je nutný dodat, že celá 85% čokoláda z Lidlu má kostiček jen 8.\
-V tempu jsem uplaval ranní kilometr a cestou do práce jsem lámal rekordy.\
-V práci jsem pokračoval v malování. Ta největší černota už zmizela. Vlastně to vypadalo mnohem líp. Ale práce bylo ještě randál. Pokračoval jsem v malování rohů štětcem a sádrováním detailů. Po tom co jsem vyspravil velké díry jsem začínal vidět mnohem větší množství děr malých.\
-Odkdy jsem perfekcionista?\
-Možná od třicítky. Taky jsem poslouchal popík jako Lorde. To taky dělají starci.\
-Oběd jsme si dali s Vláďou a Ivanem v Deli. Místo dortíku jsem si dal štrůdl a moc mi chutnal\
-po práci vysvitlo slunko, byla to docela zrada. Suterén jsem naplánoval, protože mělo pršet. Ale co naděláš. Vzal jsem to přes Holešovice. Chtěl jsem si pořídit sluchátka. Ale alza mě informovala, že je připraví až další den. Sára napsala, že když je venku hezky, mohli bychom si sednout ven na pizzu. Dojel jsem tak k Johnymu a čekal na ostatní.\
-Ondra přijel první na jednokole. Pak Nováčkovic, Adél a Tomáš. Přesunuli jsme se k pizze a objednali její výrobu. Postávali jsme tam a mezitím se přitrousili Jarda se Sárou a pak David s Týnou. navrátilci z Itálie pohrdli Johnyho pizzou a šli si koupit jednu vedle do Di Pietra.\
-Pěšky jsme se přesunuli do amfiteátru pod Apolinářem. Našel jsem to místo s Miškou. Ale co naděláš. Bylo to dobrý místo na konzumaci pizzy a skoro nikdo tam ještě nebyl.\
+Třicátníci lépe spí. Dvacátého devátého mi bylo 29 a hodinky mi daly 79 spacích bodů. 30. mi bylo 30 a daly mi vodů 95. A cítil jsem se líp. Tak, že jsem porušil doporučení glukózové bohyně a dal si k snídani 4 kostičky čokolády. A je nutný dodat, že celá 85% čokoláda z Lidlu má kostiček jen 8.
+
+V tempu jsem uplaval ranní kilometr a cestou do práce jsem lámal rekordy.
+
+V práci jsem pokračoval v malování. Ta největší černota už zmizela. Vlastně to vypadalo mnohem líp. Ale práce bylo ještě randál. Pokračoval jsem v malování rohů štětcem a sádrováním detailů. Po tom co jsem vyspravil velké díry jsem začínal vidět mnohem větší množství děr malých.
+
+Odkdy jsem perfekcionista?
+
+Možná od třicítky. Taky jsem poslouchal popík jako Lorde. To taky dělají starci.
+
+Oběd jsme si dali s Vláďou a Ivanem v Deli. Místo dortíku jsem si dal štrůdl a moc mi chutnal
+
+po práci vysvitlo slunko, byla to docela zrada. Suterén jsem naplánoval, protože mělo pršet. Ale co naděláš. Vzal jsem to přes Holešovice. Chtěl jsem si pořídit sluchátka. Ale alza mě informovala, že je připraví až další den. Sára napsala, že když je venku hezky, mohli bychom si sednout ven na pizzu. Dojel jsem tak k Johnymu a čekal na ostatní.
+
+Ondra přijel první na jednokole. Pak Nováčkovic, Adél a Tomáš. Přesunuli jsme se k pizze a objednali její výrobu. Postávali jsme tam a mezitím se přitrousili Jarda se Sárou a pak David s Týnou. navrátilci z Itálie pohrdli Johnyho pizzou a šli si koupit jednu vedle do Di Pietra.
+
+Pěšky jsme se přesunuli do amfiteátru pod Apolinářem. Našel jsem to místo s Miškou. Ale co naděláš. Bylo to dobrý místo na konzumaci pizzy a skoro nikdo tam ještě nebyl.
+
 Když přišel Jirka, předal mi Krásnou knížku s fotkami Afriky pro cestovní inspiraci. A aby to nebyla jen knížka, dal do ní krásné přání, věnování a k tomu ještě buzolu a čaj. Bylo to ohromně srdcehřový. A taky hrozně podobně udělaný jako od Mišky.. Možná by se k sobě hodili napadlo mě.. Jenže nevykročili správnou nohou a neměli o sobě valný mínění. Škoda.
 
 ![image](30_1.jpg)
 
-Karel s Týnkou dorazili poslední. Začínal jsem být trochu na trní, protože bylo po osmý a já už jsem rezervaci posouval. Po dojední pizzy jsem tedy opatrně ostatní popostrkával, abychom se zvedli a dorazili do suterénu. Potřeba holek jít na záchod mi v tom hodně pomohla.\
-V hospodě jsem mi lidé zazpívali a předali moc milý dárek. Hokusaiovu velkou vlnu z lega. Obraz a činnost v jednom dárku. Ne jen obyčená věc. Dali si na tom fakt záležet. A věnování a příní bylo kouzelný. Navíc bylo prý vytáhnutý z popelnice. Boží.\
+Karel s Týnkou dorazili poslední. Začínal jsem být trochu na trní, protože bylo po osmý a já už jsem rezervaci posouval. Po dojední pizzy jsem tedy opatrně ostatní popostrkával, abychom se zvedli a dorazili do suterénu. Potřeba holek jít na záchod mi v tom hodně pomohla.
+
+V hospodě jsem mi lidé zazpívali a předali moc milý dárek. Hokusaiovu velkou vlnu z lega. Obraz a činnost v jednom dárku. Ne jen obyčená věc. Dali si na tom fakt záležet. A věnování a příní bylo kouzelný. Navíc bylo prý vytáhnutý z popelnice. Boží.
+
 Pil jsem Birella a snažil se věnovat všem, ale úplně to nešlo. Navíc po chvíli přišla Marťa a dala mi k narozeninám nové tričko. Bylo boží. Úplně dokonale mi sedlo a všem se líbilo. Taky mělo štítek `tia.`. I když mi to z dvacátých osmých přišlo skvělý, bylo vidět, že za ty dva roky se hodně posunula.
 Karel s Týnkou mi dali pomazánku z mandlí a doma vypálené soju. Adél čaj a diář a David s týnou dvě Kinder Vajíčka. Všechno to bylo milý a vtipný.
 
 ![image](30_2.jpg)
 
-Někdy kolem jedenácté se začínali lidé rozpouštět. Se všemi jsem se ještě objal a přijmul ještě jednu gratulaci. Po půlnoci jsme to zabalili všichni. Většina jela tramvají, jen já s Marťou jsme vyrazili pěšky. Teda.. Marťa popojížděla na Franzovi a já si nesl lego.\
+Někdy kolem jedenácté se začínali lidé rozpouštět. Se všemi jsem se ještě objal a přijmul ještě jednu gratulaci. Po půlnoci jsme to zabalili všichni. Většina jela tramvají, jen já s Marťou jsme vyrazili pěšky. Teda.. Marťa popojížděla na Franzovi a já si nesl lego.
+
 Byl jsem šťastnej jako už dlouho ne. Rozhodl jsme se z toho čerpat, až na mě zase přijde trudomyslnost. Mám kamarády co mě mají rádi. To není jen tak. Toho je si třeba vážit.
 
 ### 31.5. Bez děr, bez skvrn a bez šumu
 
-Oslava narozenin ve mě zanechala plejádu pozitivních pocitů. A jeden negativní. Miška mi nepopřála. Váhal jsem nad tím, zda to bylo proto, že na mě prostě zapomněla, ale neuměl jsem si představit, jak by se to stalo. Roz zpátky jsme si v průběhu dne, kdy jsem stoupal na tourmalet psali celý den. Usínal jsem při čtení jejích zpráv. Vím to, protože všechny ty zprávy mám stažený a prošel jsem si je. Nevím jestli to byl dobrej nápad, ale dočetl jsem si, že tam byla padla první zmínka toho jet do Barcelony a do Taragony. Ještě to nemělo být se mnou, ale ta myšlenka tam byla.\
-Ne nezapomněla na mě. Spíš mi nenapsala schválně. Spíš prostě systematicky pracovala na tom, aby mezi nás vkládala odstup. Miška ale narozeninám dává mnohem větší váhu než já a o to víc mě to ranilo. Přišlo mi to chladný. Bolestně chladný. Takovou jsem jí neznal. Takovou jí asi ani znát nechci, docházelo mi.\
+Oslava narozenin ve mě zanechala plejádu pozitivních pocitů. A jeden negativní. Miška mi nepopřála. Váhal jsem nad tím, zda to bylo proto, že na mě prostě zapomněla, ale neuměl jsem si představit, jak by se to stalo. Roz zpátky jsme si v průběhu dne, kdy jsem stoupal na tourmalet psali celý den. Usínal jsem při čtení jejích zpráv. Vím to, protože všechny ty zprávy mám stažený a prošel jsem si je. Nevím jestli to byl dobrej nápad, ale dočetl jsem si, že tam byla padla první zmínka toho jet do Barcelony a do Taragony. Ještě to nemělo být se mnou, ale ta myšlenka tam byla.
+
+Ne nezapomněla na mě. Spíš mi nenapsala schválně. Spíš prostě systematicky pracovala na tom, aby mezi nás vkládala odstup. Miška ale narozeninám dává mnohem větší váhu než já a o to víc mě to ranilo. Přišlo mi to chladný. Bolestně chladný. Takovou jsem jí neznal. Takovou jí asi ani znát nechci, docházelo mi.
+
 V práci jsem dosárdroval poslední detaily, válečkem natřel druhou vrstvu a dospěl k názoru, že víc už se s tím nemá smysl srát. Po obědě s Vláďou ve Vietnamce, kde pad thai pálí a není tak dobrý jako v Karlíně, jsem strhal pásky a dal se do čištění podlahy puc mašinou.
 
 ![image](31_1.jpg)
 
-Brány jsem nakonec zavíral já. V krátkém okně bez deště jsem dojel do Alzy. Čekaly tam na mě nové JBL Live Flex. Pecková sluchátka s ANC. Trochu bizár. Nejvyšší v jejich peckové řadě. Ale nejsem bohatý abych si mohl kupovat levné věci. Blbý je, že jsou v nich baterky a nakonec stejně půjdou do hajzlu. Ať se o ně budu starat sebe líp.\
-A nevím jestli jsem se o ně postaral dobře hned ten první den. Jel jsem deštěm s do tunelu a pak starou cestou až do Vršovic. ANC funguje. Sežere kus deště, trochu větru a maličko aut. Ale s uzavřenými sluchátky se to nedá srovnávat. Trochu mě zklamalo, že sice lze přemapovat gesta. Ale jen do přednastavených setů.\
-Doma jsem si vyzkoušel trička Malfini. Klučičí funkční mi byly dobře. Ale polo mi přišlo příliš dlouhé. Ale třeba to dokážu nějak zkrátit.\
+Brány jsem nakonec zavíral já. V krátkém okně bez deště jsem dojel do Alzy. Čekaly tam na mě nové JBL Live Flex. Pecková sluchátka s ANC. Trochu bizár. Nejvyšší v jejich peckové řadě. Ale nejsem bohatý abych si mohl kupovat levné věci. Blbý je, že jsou v nich baterky a nakonec stejně půjdou do hajzlu. Ať se o ně budu starat sebe líp.
+
+A nevím jestli jsem se o ně postaral dobře hned ten první den. Jel jsem deštěm s do tunelu a pak starou cestou až do Vršovic. ANC funguje. Sežere kus deště, trochu větru a maličko aut. Ale s uzavřenými sluchátky se to nedá srovnávat. Trochu mě zklamalo, že sice lze přemapovat gesta. Ale jen do přednastavených setů.
+
+Doma jsem si vyzkoušel trička Malfini. Klučičí funkční mi byly dobře. Ale polo mi přišlo příliš dlouhé. Ale třeba to dokážu nějak zkrátit.
+
 Před spaním jsem se šel projít do Gréobovky. Pro lepší usínání.
 
 [>> Červen](2024_june.md)

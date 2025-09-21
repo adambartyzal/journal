@@ -1,3 +1,4 @@
+
 ## [Prosinec](2021.md)   
 
 - [17.12. Nevšední zážitek](#1712-nevšední-zážitek)
@@ -8,16 +9,24 @@
 
 ### 17.12. Nevšední zážitek
 
+
 <a href="../images/2021_december/17_1.jpg" target="_blank"><img src="../images/thumbnails/2021_december/17_1.jpg"></a>
+
 
 ### 22.12. iPhone to nedal
 
+
 <a href="../images/2021_december/23_1.jpg" target="_blank"><img src="../images/thumbnails/2021_december/23_1.jpg"></a>
+
 
 ### 23.12. Call s Ondrou
 
+
 ### 24.12. Po roce svátek
+
 
 <a href="../images/2021_december/24_1.jpg" target="_blank"><img src="../images/thumbnails/2021_december/24_1.jpg"></a>
 
+
 ### 31.12. Únětice a Krajčo
+

@@ -1,4 +1,4 @@
-[<< Prosinec](2022_december.md)
+[<< Prosinec](2022_december.md)<br>
 
 ## [Leden](2023.md) 
 
@@ -60,14 +60,15 @@ do kopce přes vinohrady na nejlepší smažák v praze podle instagramu<br>
 
 Předsevzetí jsou kokotina. Víc sportovat ale na začátku roku napadne až příliš mnoho lidí. V bazénu tak byla hlava na hlavě a já jsem tak byl nucen uchýlit se do poslední lajny pro pomalé. naštěstí tam moc brzd nebylo a většina jich odešla brzy po mém příchodu. Nahradila je moc pěkná holka. Asiatka.. rozhodně jsem na ně zatíženej! Prohodili jsme pár slov. Byla expat a mluvila jen anglicky. Když jsem odcházel mávala mi.<br>
 Cestu domů jsem zvládl pěšky. A doma povečeřel zbytky z dní předchozích.<br>
-Po večeři jsem se dal do stavby stolu. Tentokrát s pořádnýma nohama. 3D výtisky se ukázaly jako přesné. Potěšilo mě, že když si dá s šuplerou člověk větší práci, než když to tam foukne jen tak na oko, tak se zadaří. Rýsoval jsem, vrtal a šrouboval až do desíti. Vlastně jsem to stihl skoro přesně, takže soused shora si nepřišel stěžovat. Od profi stolu to mělo daleko, ale kombinace bílá/světlé dřevo/černý plast se mi líbí čím dál víc. Rozhodl jsem se, že nahradím žlutou skříň nějakou policí na kytky stejného stylu.
+Po večeři jsem se dal do stavby stolu. Tentokrát s pořádnýma nohama. 3D výtisky se ukázaly jako přesné. Potěšilo mě, že když si dá s šuplerou člověk větší práci, než když to tam foukne jen tak na oko, tak se zadaří. Rýsoval jsem, vrtal a šrouboval až do desíti. Vlastně jsem to stihl skoro přesně, takže soused shora si nepřišel stěžovat. Od profi stolu to mělo daleko, ale kombinace bílá/světlé dřevo/černý plast se mi líbí čím dál víc. Rozhodl jsem se, že nahradím žlutou skříň nějakou policí na kytky stejného stylu.<br>
 
 <a href="../images/2023_january/2_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/2_1.jpg"></a>
+
 
 ### 3.1. Opět na draku
 
 Ráno jsem po dlouhé době vyrazil do práce na karmínovém draku. Srdíčko mi zaplesalo, neb skutečné kolo je prostě skutečné kolo. Freebike je fajn, když je člověk dřevák, nebo když je fakt hnusně, ale ta radost tam prostě chybí. V práci bylo typické úterý, což znamenalo, že jsem byl ve vývoji sám a vedle byl jen Petr. Pustil jsem se do modelování součástek, aby export desek obsahoval všechno.<br>
-Po práci jsem šel opět plavat. Televize v lobby tvrdila, že uvnitř bude 26 lidí. Dvě dráhy byly zabrané školním plaváním a ve zbytku tak byl náprask. Se mnou v dráze byl pán co vypadal jako Vilda za 15 let. Zpátky venku jsem zjistil, že jsem nezamkl draka. Naštěstí ho nikdo neukradl. Je to sice kolo s velkou duší, ale taky je to docela vrak.
+Po práci jsem šel opět plavat. Televize v lobby tvrdila, že uvnitř bude 26 lidí. Dvě dráhy byly zabrané školním plaváním a ve zbytku tak byl náprask. Se mnou v dráze byl pán co vypadal jako Vilda za 15 let. Zpátky venku jsem zjistil, že jsem nezamkl draka. Naštěstí ho nikdo neukradl. Je to sice kolo s velkou duší, ale taky je to docela vrak.<br>
 
 ### 4.1. Aero na slepo
 
@@ -79,15 +80,15 @@ Před filmem měl místní člověk proslov. Mluvil o tom, že správný scéná
 
 <a href="../images/2023_january/4_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/4_1.jpg"></a>
 
-Skončil někdy před jedenáctou. Marťa pospíchala na tramvaj, ale já byl na kole a tak jsem se ještě zdržel s Ondrou a Rébou na zastávce a poté si dal závod sám se sebou, protože už bylo pozdě a hlavně zima a já se chtěl doma ohřát.
+Skončil někdy před jedenáctou. Marťa pospíchala na tramvaj, ale já byl na kole a tak jsem se ještě zdržel s Ondrou a Rébou na zastávce a poté si dal závod sám se sebou, protože už bylo pozdě a hlavně zima a já se chtěl doma ohřát.<br>
 
 ### 5.1. Návrat k vývoji g5int testeru
 
-Tohle jsem odkládal dlouho. Roky řekl bych. Ale safiral měl intů v únoru vyrábět několik desítek. A to se mi na stole testovat nechtělo. Bylo třeba demystifikovat tajemné proudy, které jsem měl poznačené v issue.
+Tohle jsem odkládal dlouho. Roky řekl bych. Ale safiral měl intů v únoru vyrábět několik desítek. A to se mi na stole testovat nechtělo. Bylo třeba demystifikovat tajemné proudy, které jsem měl poznačené v issue.<br>
 
 ### 6.1. Neodložil jsem to jen tak z plezíru
 
-Hodinky mi pořád měřily o dost víc stresu než před operací. Byl jsem zvědavý, jak se projeví, když plavání přesunu na ráno. Ráno se vždycky plave hůř. Navíc v bazénu bylo víc lidí, než bych před osmou čekal. Holt asi novoroční předsevzetí dělá svoje.
+Hodinky mi pořád měřily o dost víc stresu než před operací. Byl jsem zvědavý, jak se projeví, když plavání přesunu na ráno. Ráno se vždycky plave hůř. Navíc v bazénu bylo víc lidí, než bych před osmou čekal. Holt asi novoroční předsevzetí dělá svoje.<br>
 
 ### 7.1. Trocha běhu a hodně chůze
 
@@ -97,7 +98,7 @@ K obědu jsem spíchl brokolicový krém. Místo smetany jsem dal bílý jogurt 
 Taky jsem si řekl, že možná je na čase opět pohnout s deníkem a že je venku tak hezky, vydal jsem se opět psát do ikey, tentokrát ale pěšky. A to asi byla chyba. Výlet to byl pěkný, ale 13 kilometrů ke docela střela po tom co člověk s z ničeho nic uběhne kilometrů pět. Ale já nikdy nebyl troškař. Když už tak už.<br>
 Než jsem na Čerňák došel, slunko zapadalo. Výhled na komín malešické spalovny byl ale impozantní.<br>
 Do ikey jsem došel kolem páté. 40 korun za lístek ušetřeno!<br>
-165 za bezmasé koule, nekonečné pití a nekonečné kafe. Tady je to s šetřením trochu na hraně.. ale jedno kafe by v kavárně stálo nejméně pade a já vypil 4. Takže dobrý.
+165 za bezmasé koule, nekonečné pití a nekonečné kafe. Tady je to s šetřením trochu na hraně.. ale jedno kafe by v kavárně stálo nejméně pade a já vypil 4. Takže dobrý.<br>
 
 ### 8.1. Očkování a debaty
 
@@ -106,17 +107,19 @@ ve žluté bundě o dost lepší než v kabátu<br>
 Bylo to bolestivě jednoduchý. Přijdeš, vyplníš elementární formulář, paní tě píchne a jsi dobrej. Seděl jsem tam ještě tak 20 minut, ale nic na mě nepřišlo. Šel jsem si koupit něco ke svačině v Tescu a nasral jsem se na přepážce "Služby zákazníkům", kde mi nebyla paní schopná říct číslo mojí Club Card. Ne že by byla blbá a neuměla s počítačem. Prý to prostě nejde. Jediná možnost je zavolat na Club Card linku, která o víkendu nefunguje.<br>
 Z OC Smíchov jsem přejel do OC Eden a koupil si pixlu proteinu. Plavu dost, chci víc běhat, po ránu cvičím a bez bílkovin bych chřadl.<br>
 Protože jsem se obával, že mě očkování sundá, moc jsem toho nedělal. Pustil jsem si rozhovory s kandidáty na prezidenta a sledoval jak je Babiš úplně neschopen odpovědět na jakoukoliv otázku a to i malým dětem. Večer měla být na ČT super debata a před tou jsem ještě šel nakoupit do Lidlu, protože kromě piksly proteinu jsem měl doma houby. Tedy ani houby.<br>
-Debata byla fakt plodná. Diviš tam střílel do generála a Danuše, Bašta byl mimo, Středula valil hlášky na nepřítomného Babiše a nakonec odstoupil. Akorát Hilšer mě zklamal. Valil svojí rétoriku ve zbytečně dlouhých a nesouvisejících větách.
+Debata byla fakt plodná. Diviš tam střílel do generála a Danuše, Bašta byl mimo, Středula valil hlášky na nepřítomného Babiše a nakonec odstoupil. Akorát Hilšer mě zklamal. Valil svojí rétoriku ve zbytečně dlouhých a nesouvisejících větách.<br>
 
 ### 9.1. Po Pfizeru vymletej
 
 Nevyspal jsem se. Pfizer kolující v žíle mě nahlodal a v průběhu dne spíš ještě víc rozjebával. Taky mi přišlo, že jsem úplně vymletej. Bojoval jsem s g5int testerem a dělal jsem dětinské chyby. Prohodil jsem TP7 a TP6 a pípákem se mi to vůbec nedařilo najít.<br>
 V práci zřejmě praskla nějaká trubka, protože z ventilace se táhl smrad jako ze záchodu a vyvětrat to prostě nešlo. Takže jsme měli permanentně otevřené dveře, což nějak prohloubilo můj nastupující pocit nemoci.<br>
-Na cestě domů už mi regulérně bušilo v kebuli a do večera jsem stihl jen podepsat prodloužení smlouvy s paní Kotrbatou, sepsat pár vět do deníku a lehnout si do postele.
+Na cestě domů už mi regulérně bušilo v kebuli a do večera jsem stihl jen podepsat prodloužení smlouvy s paní Kotrbatou, sepsat pár vět do deníku a lehnout si do postele.<br>
 
 ### 12.1. Předvolební debata u Jardy a Sáry
 
+
 <a href="../images/2023_january/12_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/12_1.jpg"></a>
+
 
 ### 13.1. Za tátou
 
@@ -125,31 +128,31 @@ nějak bez energie<br>
 ledová sprcha<br>
 v kabátu na kole<br>
 smrad snad horší než v předchozích dnech<br>
-z nosu jsem vytáhl niť po splintu
+z nosu jsem vytáhl niť po splintu<br>
 
 <a href="../images/2023_january/13_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/13_1.jpg"></a>
 
+
 ### 14.1. Volby
 
-Tátovy kytky jsou nesmyslně velké. Moje dracena by záviděla.
+Tátovy kytky jsou nesmyslně velké. Moje dracena by záviděla.<br>
 
 <a href="../images/2023_january/14_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/14_1.jpg"></a>
 
 Doma toho k jídlu moc nebylo. K snídani jsem ale našel Vánočku. Pro další věci jsme museli vyrazit na nákup do Jednoty. Překvapilo mě, že na pokladně dělá paní Pechková. Odstěhovali se přece do Stráže nad Nežárkou za rodiči. Stýskalo se jí ale prý po Lásenici, v Jednotě prý hledali někoho na výpomoc a bylo to blíž, než do Hradce, kde pracovala předtím.<br>
 Z Jednoty naše kroky mířili k volebním urnám. Na první kolo jsem tátu nepřímo přesvědčil, aby Volil Nerudovou místo Andreje. Řekl ale, že pokud to v druhém bude Andrej proti Vojákovi. Hodí to Andrejovi. Asi bych se mohl snažit ho přesvědčit víc, ale neměl jsem na to energii ani chuť. V Lásenici věří, že s Andrejem bude líp.<br>
 Chodit dvakrát stejnou cestou je škoda. Obzvlášť je-li pěkně. A pěkně bylo. Vzali jsme to ted okolo rybníka a bavili se o politice, o unii a jejím financování. Někde napůl cesty jsme potkali rodinu, která volila před námi. Měli stejný plán, akorát šli opačně.<br>
-Doma jsem si vzpomněl, že jsem chtěl Ondrovi vyfotit rádio z plechovky.
+Doma jsem si vzpomněl, že jsem chtěl Ondrovi vyfotit rádio z plechovky.<br>
 
 <a href="../images/2023_january/14_2.jpg" target="_blank"><img src="../images/thumbnails/2023_january/14_2.jpg"></a>
 
-A součástky, které jsem jako malý vypajoval a třídil.
+A součástky, které jsem jako malý vypajoval a třídil.<br>
 
 <a href="../images/2023_january/14_3.jpg" target="_blank"><img src="../images/thumbnails/2023_january/14_3.jpg"></a>
 
-Do večera stihli sečíst rozhodnou většinu hlasů a vyhráli dle předpokladu Andrej a Pavel.
+Do večera stihli sečíst rozhodnou většinu hlasů a vyhráli dle předpokladu Andrej a Pavel.<br>
 
 ### 15.1. Kyvadla a sloupy
-
 
 3d tištěné hodiny<br>
 kyvadlo s cívkou<br>
@@ -160,9 +163,10 @@ videa se sloupy<br>
 
 ### 16.1. Zavřený tunel
 
-Řekl jsem si, že plavat ráno bude lepší než odpo, kdy bývá Olšanka nacpaná k prasknutí a vyrazil jsem pěšky na Žižkov. Vůbec, ale vůbec jsem si nevzpoměl, že jsem ostatním v pátek říkal, že tunel bude na 14 dní zavřený. Došlo mi to až na náměstíčku s koněm. Sdílená kola nikde nebyla a já tak musel obejít vítkov pěšky. Ze schodů, kde kdysi sedávaly fetky byl ale hezký výhled na ranní Prahu.
+Řekl jsem si, že plavat ráno bude lepší než odpo, kdy bývá Olšanka nacpaná k prasknutí a vyrazil jsem pěšky na Žižkov. Vůbec, ale vůbec jsem si nevzpoměl, že jsem ostatním v pátek říkal, že tunel bude na 14 dní zavřený. Došlo mi to až na náměstíčku s koněm. Sdílená kola nikde nebyla a já tak musel obejít vítkov pěšky. Ze schodů, kde kdysi sedávaly fetky byl ale hezký výhled na ranní Prahu.<br>
 
 <a href="../images/2023_january/16_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/16_1.jpg"></a>
+
 
 ### 17.1. Plavat s Ondrou
 
@@ -172,7 +176,7 @@ lidí jak much<br>
 1300 metrů<br>
 na pivo?<br>
 nakonec k dandům<br>
-guláš a knedelo zelo
+guláš a knedelo zelo<br>
 
 <a href="../images/2023_january/17_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/17_1.jpg"></a>
 
@@ -185,7 +189,7 @@ po o do kyjí<br>
 na freebike<br>
 ondra to smontoval hezky<br>
 ohnout pár nodů<br>
-modemy zas jinak
+modemy zas jinak<br>
 
 <a href="../images/2023_january/19_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/19_1.jpg"></a>
 
@@ -194,12 +198,12 @@ do auta vzadu s ludvou<br>
 o politice a trolejbusech<br>
 jedno z aut jelo blbě<br>
 scházíme se, říšovi někde upadl výfuk<br>
-dorazil taky
+dorazil taky<br>
 
 <a href="../images/2023_january/19_2.jpg" target="_blank"><img src="../images/thumbnails/2023_january/19_2.jpg"></a>
 
 tombola<br>
-když jsem odešel dva pytle brambor
+když jsem odešel dva pytle brambor<br>
 
 <a href="../images/2023_january/19_3.jpg" target="_blank"><img src="../images/thumbnails/2023_january/19_3.jpg"></a>
 
@@ -210,25 +214,26 @@ s papabearem, vlaďou a áďou do půl třetí<br>
 
 ### 20.1. Odsouvání kocoviny
 
+
 <a href="../images/2023_january/20_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/20_1.jpg"></a>
+
 
 ### 21.1. Kocovina a relaps
 
-Měsíc a den. Nic moc. Doufám, že příště to bude lepší.
+Měsíc a den. Nic moc. Doufám, že příště to bude lepší.<br>
 
 ### 22.1. Běh, Badminton a pivo
 
-Když jsem doma zapnul sporák, plyn nebyl modrý. Trochu mě to vyděsilo. Zjišťoval jsem, zda nemám nějak ucpanou plotýnku, ale dělaly to všechny. Plynárny asi v rámci šetření kvůli krizi přimíchali do zemního plynu nějaký další.
+Když jsem doma zapnul sporák, plyn nebyl modrý. Trochu mě to vyděsilo. Zjišťoval jsem, zda nemám nějak ucpanou plotýnku, ale dělaly to všechny. Plynárny asi v rámci šetření kvůli krizi přimíchali do zemního plynu nějaký další.<br>
 
 <a href="../images/2023_january/22_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/22_1.jpg"></a>
 
 běhat<br>
-
 S Marťou jsme byli domluvení, že půjdeme odpoledne hrát badminton. Cítil jsem, že je třeba sportovat dřív a tak jsem si šel zaběhat. A když už jsem ten den běhal, rohodl jsem se, že na Zahradní město, kde jsme měli rezervaci, dojdu pěšky místo plácání peněz za MHD.<br>
 Šel jsem zadem přes Chodovskou a za Jižní spojkou jsem vyšel po schodech, o kterých jsem tušil, že tam jsou, ale nikdy jsem po nich nešel. Vedly na ulici *Na Vinobraní*, která vedla přímo k Tělovýchovné jednotě Astra. Na zastávce jsem vyzvedl Marťu a šli jsme dovnitř. Bylo to jak projít do socialismu. Naštěstí i cena díky tomu byla nižší, než v ostatních tělocvičnách.<br>
 Nějak nám nešlo počítat, ale naše hra měla větší dynamiku než minule. Marťa totiž trénovala s Vildou.<br>
 sice jsem plánoval nejít na pivo, ale protože někdo v šatně ho zmínil nastoupili jsme na autobus a pak došli do toho neomítnutýho podinku u synkáče<br>
-líbilo se mi tam
+líbilo se mi tam<br>
 
 <a href="../images/2023_january/22_2.jpg" target="_blank"><img src="../images/thumbnails/2023_january/22_2.jpg"></a>
 
@@ -238,19 +243,18 @@ jarda se sárou přišli a přinesli vrtačku a psa<br>
 ### 24.1. Bolehlav
 
 Během noci jsem si asi tak 30x vzbudil. Pravděpodobně proto na mě ráno na mě přišel takový bolehlav, že jsem do práce napsal, že nejsem ve stavu práceschopný. Taky za to mohlo trochu to, že práce tentokrát neznamenalo být v Karlíně, ale jet někam na Zličín do skladu bez topení a vyndavat tam z kol čtečky. Na to jsem prostě neměl a ležel jsem v posteli až nekdy do dvanácti.<br>
-Při nákupu v Lidlu mi padl do oka malý lopatkovec ve slevě. Dlouho už jsem plánoval, že Jirkovi v práci malý kousek lopatkovec oddloubnu, ale těch pár korun za tenhle, ještě v roztomilém květníčku mi přišlo v fajn.
+Při nákupu v Lidlu mi padl do oka malý lopatkovec ve slevě. Dlouho už jsem plánoval, že Jirkovi v práci malý kousek lopatkovec oddloubnu, ale těch pár korun za tenhle, ještě v roztomilém květníčku mi přišlo v fajn.<br>
 
 <a href="../images/2023_january/24_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/24_1.jpg"></a>
 
-Cestou zpátky jsem v parku před nádražím potkal Jardu s Korou. Skákala na strom po neexistující veverce a Jarda z toho měl hroznou srandu. A skákala fakt vysoko. Její trup byl dobře v úrovni mé hlavy. Jarda po mně poslal domů pozdrav Kendymu, který jsem vyřídil a zalezl si do postele s knížkou a se Simpsonovými.
+Cestou zpátky jsem v parku před nádražím potkal Jardu s Korou. Skákala na strom po neexistující veverce a Jarda z toho měl hroznou srandu. A skákala fakt vysoko. Její trup byl dobře v úrovni mé hlavy. Jarda po mně poslal domů pozdrav Kendymu, který jsem vyřídil a zalezl si do postele s knížkou a se Simpsonovými.<br>
 
 ### 25.1. Menší bolehlav, ale pořád žádná paráda
 
 
-
 ### 26.1. Spasitel z nylonu
 
-Slackbot mi připoměl, že jsem Fílovi slíbil vytisknout mu dalšího Spasitele. Pustil jsem se do krájení a když už jsem byl u toho, vydal jsem ho hned v několika materiálech. PET, ABS a nad rámec standardních jsem vyzkoušel Nylon s karbonem. To se mi napoprvé nepovedlo. Zawarpoval a utrhl se po pár vrstvách
+Slackbot mi připoměl, že jsem Fílovi slíbil vytisknout mu dalšího Spasitele. Pustil jsem se do krájení a když už jsem byl u toho, vydal jsem ho hned v několika materiálech. PET, ABS a nad rámec standardních jsem vyzkoušel Nylon s karbonem. To se mi napoprvé nepovedlo. Zawarpoval a utrhl se po pár vrstvách<br>
 karbon nevyšel<br>
 ani podruhé v impro izolační komoře<br>
 s Vláďou do Gastra<br>
@@ -263,7 +267,7 @@ film mě překvapil, role hlupáka je asi dost těžká<br>
 
 ### 27.1. Kabely
 
-Ivana nějak uhranula myšlenka Spasitele. To že jsem se ho snažil.
+Ivana nějak uhranula myšlenka Spasitele. To že jsem se ho snažil.<br>
 ivan posedlý spasitelem<br>
 osazování<br>
 antiklimatický výsledek<br>
@@ -276,9 +280,10 @@ kabel funguje<br>
 montáž kabelů na stůl<br>
 kabel nefunguje<br>
 objevil jsem proč hdmi nejede.<br>
-množení jazyka
+množení jazyka<br>
 
 <a href="../images/2023_january/27_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/27_1.jpg"></a>
+
 
 ### 28.1. Volby a jiné kabely
 
@@ -290,13 +295,14 @@ Prodlužovací kabely, které sice umí přenést HDMI, Power Delivery a USB3 al
 <a href="../images/2023_january/28_1.jpg" target="_blank"><img src="../images/thumbnails/2023_january/28_1.jpg"></a>
 
 Nové kabely nebyly zdaleka tak pěkně omotané. Ale jestli budou fungovat tak to asi neva.<br>
-Pavel vyhrál. Koukal jsem nad kávou na kus jeho proslovu. Po dopití jsem došel do Karlína, kde jsem omyl Draka a skrz centrum jsem se vrátil domů. Pojedl jsem polévku a pizzu a dal se do cable managementu.
+Pavel vyhrál. Koukal jsem nad kávou na kus jeho proslovu. Po dopití jsem došel do Karlína, kde jsem omyl Draka a skrz centrum jsem se vrátil domů. Pojedl jsem polévku a pizzu a dal se do cable managementu.<br>
 
 <a href="../images/2023_january/28_2.jpg" target="_blank"><img src="../images/thumbnails/2023_january/28_2.jpg"></a>
 
-Na druhý pokus dobrý. PD, HDMI, USB2 i 3. Všechno jelo jak jsem si představoval. Až si někdy pořídím bezdrátovou myš a klávesnici. Budu mít na stole jen jeden kabel do laptopu.
+Na druhý pokus dobrý. PD, HDMI, USB2 i 3. Všechno jelo jak jsem si představoval. Až si někdy pořídím bezdrátovou myš a klávesnici. Budu mít na stole jen jeden kabel do laptopu.<br>
 
 <a href="../images/2023_january/28_3.jpg" target="_blank"><img src="../images/thumbnails/2023_january/28_3.jpg"></a>
+
 
 ### 29.1. Doma skoro uklizeno
 
@@ -308,6 +314,5 @@ domů uvařit nasi goreng<br>
 
 ### 31.1. Kus osmičky pryč
 
-Koupit si měkký chleba, kousnout do něj a objevit, že je v něm kámen je pruda. Zjistit, že ten kámen není kámen, ale kus vlastního zubu je možná ještě větší pruda. Naštěstí to byla pravá horní osmička, kterou stejně nechci. Asi by bylo rozumný okamžitě se objednat k zubaři, ale při čištění zubu kartáčkem jsem nepocítil žádnou bolest a zub se dál netříštil, takže jsem postrádal motivaci k přepisu k nějakému Pražskému zubaři. Nejvíc mě na tom štvalo to, že v místě lomu zubu zůstala ostrá špička můj zvědavý jazyk se o ní trochu pořezal.
-
+Koupit si měkký chleba, kousnout do něj a objevit, že je v něm kámen je pruda. Zjistit, že ten kámen není kámen, ale kus vlastního zubu je možná ještě větší pruda. Naštěstí to byla pravá horní osmička, kterou stejně nechci. Asi by bylo rozumný okamžitě se objednat k zubaři, ale při čištění zubu kartáčkem jsem nepocítil žádnou bolest a zub se dál netříštil, takže jsem postrádal motivaci k přepisu k nějakému Pražskému zubaři. Nejvíc mě na tom štvalo to, že v místě lomu zubu zůstala ostrá špička můj zvědavý jazyk se o ní trochu pořezal.<br>
 [>> Únor](2023_february.md)

@@ -1,3 +1,4 @@
+
 ## [Únor](2022.md)  
 
 - [12.2. Spotánní pivko v Petrohradské](#122-spotánní-pivko-v-petrohradské)
@@ -9,28 +10,28 @@
 
 Večer Jarda psal, zda nepůjdeme na pivo. Neměl jsem žádný plán a pivo znělo fajn. Dohodli jsme se tedy na Petrohradské kam přijdou i se Sárou a Korou. Dorazil jsem první a napadlo mě, že naposledy jsem v Petrohradské seděl s Marťou někdy v prosinci, když mi předávala skleničky na víno. Rozhodl jsem se, že jí napíšu ať přijde.<br>
 Zpětně vzato, tohle rozhodnutí bylo v mém životě docela klíčové.<br>
-Vybrainstormovali jsme výlet na další do hospody u Lasíků v Úněticích. Marťa přišla a myslím že si s mými kamarády docela sedla. Bavili se o pozemku, který Jarda se Sárou pořídili a o tom, že se svým ex pořídili pozemek na druhé straně lesa, kterého se při rozchodu musela zbavit. Pozvali jsme jí na výlet a soulasila s tím že s námi půjde, byť možná jen kus cesty, protože večer má plány.
+Vybrainstormovali jsme výlet na další do hospody u Lasíků v Úněticích. Marťa přišla a myslím že si s mými kamarády docela sedla. Bavili se o pozemku, který Jarda se Sárou pořídili a o tom, že se svým ex pořídili pozemek na druhé straně lesa, kterého se při rozchodu musela zbavit. Pozvali jsme jí na výlet a soulasila s tím že s námi půjde, byť možná jen kus cesty, protože večer má plány.<br>
 
 ### 13.2. Výlet do pivovaru
 
 Snídani před výletem jsem vyřešil v Lidlu. Převážně proto, že se mi nechtělo vstávat a už vůbec ne řěšit snídani. Možná proto jsem nabíral zpoždění oproti smluvenému termínu. Do skupiny jsem napsal, ať beze mně neodchází, ale když jsem přiběhl na Sámovu, byla tam jen Marťa. V zápětí se ale otevřely vrata a ven vyskočila Kora a za ní Sára s Jardou. Tomáš z tramvaje taky přišel docela brzy a dlouho se čekalo jen na Adél s Johnym. Adél totiž potřebovala kafe. Tedy.. ne že by sehnat kafe ve Vršovicích trvalo tak dlouho. Pravděpodobně zdržovali jen proto, že jsou neschopní přijít na čas. Ale sešli jsme se a vyrazili.<br>
 Vyptával jsem se Johnyho na letní plány. Původně totiž chtěli hlídat dům někde v Itálii. To prý ale padlo a plán změnili na cestu po jihu francie v T2 jeho rodičů. To jsem mu docela záviděl.<br>
 Marťa se Johnyho na pár věcí vyptala taky, ale převážně se bavila se Sárou, ktrou už znala. Teda.. znala jeden den, ale pořád o jeden den více než ostatní. Navíc lidi ze SlidesLive se baví o SlidesLive a nemůžou si pomoci.<br>
-Šli jsme na Fildovačku a pak k řece, přes náplavku a přes řeku na Letnou. Z letné dolů do stromovky, kde jsme zastavili u hladového okna. Marťa je vzdycky hladová. Jablko, které jsem jí dal jí prý moc nenasytilo.
+Šli jsme na Fildovačku a pak k řece, přes náplavku a přes řeku na Letnou. Z letné dolů do stromovky, kde jsme zastavili u hladového okna. Marťa je vzdycky hladová. Jablko, které jsem jí dal jí prý moc nenasytilo.<br>
 
 <a href="../images/2022_february/13_1.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_1.jpg"></a>
 
 Johny popíjel pivko cestou. Já jsem si řekl, že když už jdeme do těch Únětic, dáme si Únětice až jako oslavné pivo. Na únor bylo docela horko. Vlastně jsem šel v tričku. Ony Únetice jsou taky dost na kopci, takže jsme se zahřáli. Obzvlášť při výstupu na Babu a na nějaký další kopec u Suchdola.<br>
-Navigval Tomáš. Vybíral cestu přes vesničky za Prahou a vybíral moc hezky. Sklaní útvary, ze kterých byl vidět náš cíl v nás vyvolaly touhu po stanování.
+Navigval Tomáš. Vybíral cestu přes vesničky za Prahou a vybíral moc hezky. Sklaní útvary, ze kterých byl vidět náš cíl v nás vyvolaly touhu po stanování.<br>
 
 <a href="../images/2022_february/13_2.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_2.jpg"></a>
 
 U Lasíků bylo živo. Fronta až ven, ale stůl u kterého jsme seděli na Silvestra byl volný. Všichni byli nadšení z koláčů a postupně jsme od sebe nazvzájem vyzkoušeli skoro všechno co tam měli. A pivo? 10,7° je záruka kvality, která mě nikdy nezklamala.<br>
-Večer a sezení ale přinesly zimu a tak jsme se přesunuli dovnitř.
+Večer a sezení ale přinesly zimu a tak jsme se přesunuli dovnitř.<br>
 
 <a href="../images/2022_february/13_3.jpg" target="_blank"><img src="../images/thumbnails/2022_february/13_3.jpg"></a>
 
-Autobus zpátky nám ujel a to i přes značný spěch. Byla už noc a tak si z cesty pamatuju převážně jen obří Lidl někde uprostřed ničeho a to, že jsme byli v autobuse docela hluční. S Tomášem jsme se rozloučili na podbabě a do Vršovic dojeli tramvají.
+Autobus zpátky nám ujel a to i přes značný spěch. Byla už noc a tak si z cesty pamatuju převážně jen obří Lidl někde uprostřed ničeho a to, že jsme byli v autobuse docela hluční. S Tomášem jsme se rozloučili na podbabě a do Vršovic dojeli tramvají.<br>
 
 ### 18.2. Divy světa u Jirky
 
@@ -39,26 +40,26 @@ Dal to dohromady Jirka a plán byl po práci dojet vlakem k němu, večer hrát 
 Ráno jsem zvládl nemožné. Sbalit všechno co jsem potřeboval, přidělat na batoh běžky a hůlky a dojet s tím vším na kole do Karlína. Havaroval jsem jen jednou a to velmi kontrolovaně.<br>
 V poledne jsem koupil lístky pro mě a Vláďu a někdy před pátou jsme se sbalili a vyrazili na hlavák. Šli jsme po Žižkovské highlině a na nádraží jsme byli zbytečně brzy. Koupili jsme tedy nějaké občersvení do vlaku v Bille. Já pochopitelně Bráník a přesto, že Vláďa je fanda Bráňi také, vzal si něco víc fancy.<br>
 Cesta utekla docela rychle. Hradečan rychlík Vltava strčí hravě do kapsy. Jirka nám napsal, že o nás bude moc dobře postaráno, neb k večeři budou bramboráky a guláš.<br>
-Byl jsem pyšný na svůj orientační smysl, neb jsem v Jiřímu trefil bez mapy a poznal správný dům i přes to, že před ním nestála Multipla, podle které se chtěl orientovat Vláďa.
+Byl jsem pyšný na svůj orientační smysl, neb jsem v Jiřímu trefil bez mapy a poznal správný dům i přes to, že před ním nestála Multipla, podle které se chtěl orientovat Vláďa.<br>
 
 ### 19.2. Běžky co skončily špatně
 
 Ráno jirka připravil snídani a k ní brutálně silný čaj. Jakože tak silný, že i ve Vietnamu by s tím měli problém. Zabalili jsme se a počkali na Šumeldovi. Ti se na chvíli podívali k Jirkovi na úpravy, které provedl na altánu. Ivan poté ještě zažehlil vosk do Jiřího, jeho a mých lyží a vyrazili jsme do hor.<br>
 Cestou Ivan vzpomínal na závody Spartan race, které se v té oblasti běhají a na ubytování ve kterém tehdá byli.<br>
 Autem jsme vyjeli do Deštného v Orlických horách a autobusem jsme vyjeli nahoru na začátek bežecké trasy. Podmínky ale nebyly příznivé. Jirka sice našel na zemi tisícovku, což bylo pozitivní, ale foukal vítr, který naházel jehličí do stopy. Kvůli tomu nebyla vůbec sjízdná. Vítr byl vlastně tak silný, že když jsem roztáhl na vrcholku kopce ruce, hnal mě po sněhu bez nutnosti cokoliv dělat.<br>
-Od dvou dalších běžkařů jsme se dozvěděli, že nižší trasa je sjízdnější. Vzali jsme tedy bežky na ramena a sešli pár set metrů zpět. Vskutku to tam bylo lepší a my vyrazili do kopce směrem na rohlednu velká deštná. Cestou jsem si pochvaloval své nové běžky. Mohérový pruh je fakt paráda. Ivanovi jehličí strhalo stoupací vosk a podjíždělo mu to. Pod rozhlednou u občersvovací boudy jsme na něj museli čekat, protože přemazával.
+Od dvou dalších běžkařů jsme se dozvěděli, že nižší trasa je sjízdnější. Vzali jsme tedy bežky na ramena a sešli pár set metrů zpět. Vskutku to tam bylo lepší a my vyrazili do kopce směrem na rohlednu velká deštná. Cestou jsem si pochvaloval své nové běžky. Mohérový pruh je fakt paráda. Ivanovi jehličí strhalo stoupací vosk a podjíždělo mu to. Pod rozhlednou u občersvovací boudy jsme na něj museli čekat, protože přemazával.<br>
 
 <a href="../images/2022_february/19_1.jpg" target="_blank"><img src="../images/thumbnails/2022_february/19_1.jpg"></a>
 
-Na rozhledně foukalo jak blázen. Docela jsme tam vymrzli. Výhled byl ale parádní. Z rohledny už to bylo převážně o sjezdech. Vláďa jel všechny skopce opatrně a pomalu, já jsem se toho nebál a sjížděl všechno v tempu.
+Na rozhledně foukalo jak blázen. Docela jsme tam vymrzli. Výhled byl ale parádní. Z rohledny už to bylo převážně o sjezdech. Vláďa jel všechny skopce opatrně a pomalu, já jsem se toho nebál a sjížděl všechno v tempu.<br>
 
 <a href="../images/2022_february/19_2.jpg" target="_blank"><img src="../images/thumbnails/2022_february/19_2.jpg"></a>
 
-Dojeli jsme až k Tenkyho chatě. Její obyvatelé ale byli zdrovna na sjezdovce, takže jsme se nepotkali. Čekat na ně nemělo smysl. Během telefonátu s Tenkym jsem vysvětloval Ivanovi, jak funguje moje moje turnamic vázání. A ještě že jsem to udělal. Pár set metrů za chatou, na rovince v úplně šnečím tempu se mi podařilo vyhodit si koleno a zamotat se do lyží tak, že jsem si ho nemohl vrátit. Bolest neskutečná. Ivan naštěstí přijel, vyhákl mi lyži a já si nahodil nohu zpátky. Nevím jestli naštěstí, či naneštěstí už v tom mám praxi.
+Dojeli jsme až k Tenkyho chatě. Její obyvatelé ale byli zdrovna na sjezdovce, takže jsme se nepotkali. Čekat na ně nemělo smysl. Během telefonátu s Tenkym jsem vysvětloval Ivanovi, jak funguje moje moje turnamic vázání. A ještě že jsem to udělal. Pár set metrů za chatou, na rovince v úplně šnečím tempu se mi podařilo vyhodit si koleno a zamotat se do lyží tak, že jsem si ho nemohl vrátit. Bolest neskutečná. Ivan naštěstí přijel, vyhákl mi lyži a já si nahodil nohu zpátky. Nevím jestli naštěstí, či naneštěstí už v tom mám praxi.<br>
 
 <a href="../images/2022_february/19_3.jpg" target="_blank"><img src="../images/thumbnails/2022_february/19_3.jpg"></a>
 
 Koleno jsme rychle zchladili sněhem, podvázali ivanovou malou preventivní ortézou a když se ukázalo, že jsem sice vyřazený z běžkování, ale ne úplně v zneschopněný, rozdělili jsme se na dvě party. Já a Ivan jsme jeli zpět k Tenkyho chatě a zbytek dojel k autu s tím, že se pro nás vrátí a naberou nás.<br>
 V chatě totiž byla Tenkyho paní a její příbuzná. Udělali nám čaj a dali moc dobrou buchtu. Postupně se do chaty trousili její obyvatelé. Tenky totiž pořádal akci pro kamrády a dohromady jich bylo asi šestnáct. Když přišli skoro všichni, rozlily se panáky a při čtvrtém jsem začal zapomínat na bolest nohy. Ivan se alkohol snažil odmítnout, takže měl asi jen dva.<br>
 Magdě patří obdiv, protože po zasněžených serpentinách dokázala vyjet Caravelou až nahoru k chatě bez nehody. Já jsem se dobelhal do auta a po chvíli diskuse jsme vyrazili do Prahy.<br>
-Vyhodili mě a Vláďu na Čerňáku a dál jsme jeli metrem. Našel jsem si, že na Národní budu moct přestoupit na nízkopodlažní tramvaj, na kterou se dá dostat výtahem. Cestu jsem absolvoval s naprostou opatrností, domu se dobelhal a uložil do postele.
+Vyhodili mě a Vláďu na Čerňáku a dál jsme jeli metrem. Našel jsem si, že na Národní budu moct přestoupit na nízkopodlažní tramvaj, na kterou se dá dostat výtahem. Cestu jsem absolvoval s naprostou opatrností, domu se dobelhal a uložil do postele.<br>

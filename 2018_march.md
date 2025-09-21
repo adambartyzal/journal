@@ -1,3 +1,4 @@
+
 ### [Březen](2018.md) 
 
 - [1.3. Čtvrtek - Cesta pro razítko](#13-čtvrtek---cesta-pro-razítko)
@@ -45,15 +46,15 @@ Jarda cestou vytahoval s Ondry fakta o jeho životě v Číně a já jsem si f
 Vyrobit razítko netrvalo předem oznámených pět minut, ale tak dvacet, načež se Jarda dozvěděl, že jeho jméno je do gumy zvěčněné špatně, a tak paní vyráběla jedno další, tentokrát už o poznání rychleji.<br>
 Cestu do BigCity jsme zřejmě nezvolili správně, a tak jsme se zeptali bandy místních školaček, z nichž jedna byla natolik odvážná, že nám v angličtině vysvětlila kudy kam. Zřejmě z ní byla pro ostatní hrdinka týdne.<br>
 Ve Far EasTone si Jarda s Ondrou pořídili tarif za 500, já za 300. Objevil jsem, že na Taiwanu se nezadává PIN, což mě docela zarazilo, protože peněženku s oběma kartami nechávám ladem na pokoji.<br>
-V AMartu jsem nakoupil mrkve, vločky a kuchyňské víno za 23. A na zastávce směrem k naší univerzitě. Jsme se všichni sešli. Až v autobuse nám došlo, že Ondra s námi není. 
+V AMartu jsem nakoupil mrkve, vločky a kuchyňské víno za 23. A na zastávce směrem k naší univerzitě. Jsme se všichni sešli. Až v autobuse nám došlo, že Ondra s námi není. <br>
 
 ### 2.3. Pátek - Den lampionového festivalu
 
-Ráno nás čekala cesta za Jeffreym (nebo Gregem) do budovy jazyků. Našli jsme angličtináře rovnou oba. Cápek, zřejmě Jeff nám řekl, že s námi nemá problém a že se máme zapsat nahoře v kanceláři. Tam už s námi ale problém měli. Hlavně ta baba od minule. Takže English Oral Communication asi nebude. Po neúspěchu bylo brzo jít za panem Wolfem, a tak jsem si koupil v menze placku. Měla typickou Taiwanskou chuť. 
+Ráno nás čekala cesta za Jeffreym (nebo Gregem) do budovy jazyků. Našli jsme angličtináře rovnou oba. Cápek, zřejmě Jeff nám řekl, že s námi nemá problém a že se máme zapsat nahoře v kanceláři. Tam už s námi ale problém měli. Hlavně ta baba od minule. Takže English Oral Communication asi nebude. Po neúspěchu bylo brzo jít za panem Wolfem, a tak jsem si koupil v menze placku. Měla typickou Taiwanskou chuť. <br>
 Protože už jsme měli razítka, vydali jsme se na poštu založit účet. První šel Filip. Trvalo to asi milion let. Poté co mu místní oficír předal šekovou knížku, šel na řadu Jarda, ale ozvalo se "SORÍ", protože Jardovo razítko, i přes dvojí výrobu nebylo správné. A to jen proto, že Jarda si do LINEu napsal svoje jméno blbě. A tak když jsem si vytvářel účet já, vydali se kluci za panem Wolfem. Dřív, než jsem dostal šekovou knížku jí, vrátil se, s tím, že už jsme úspěšně bakaláři a můžeme se účastnit předmětové loterie.<br>
-Zpátky na koleji jsme se připravili na výlet do 台北 a dál. Napsal jsem ceduli 台北 a vyrazili jsme k dálničnímu nájezdu. Ještě nás ale přepadl hlad, takže jsme se zastavili v restauracích na hlavní ulici a dali si burger. Podle včerejšího hledání v mapě jsem kluky dovedl k nájezdu. Ale byl to nepříjemný koridor, tak jsme se vrátili na křižovatku o kus zpátky. Výhodou bylo, že se k nám sjížděla z více směrů. 
+Zpátky na koleji jsme se připravili na výlet do 台北 a dál. Napsal jsem ceduli 台北 a vyrazili jsme k dálničnímu nájezdu. Ještě nás ale přepadl hlad, takže jsme se zastavili v restauracích na hlavní ulici a dali si burger. Podle včerejšího hledání v mapě jsem kluky dovedl k nájezdu. Ale byl to nepříjemný koridor, tak jsme se vrátili na křižovatku o kus zpátky. Výhodou bylo, že se k nám sjížděla z více směrů. <br>
 Filip stopoval poprvé v životě, ale ujal se toho s vervou. Usmíval se na auta i proti sluníčku. Řekl bych, že na úspěch jsme čekali tak patnáct minut. Mezitím se u nás zastavil skútr s radou, že jedeme moc daleko. Miluju tyhle radily.<br>
-Zastavil nám kamion. Cápek neuměl ni slovo anglicky a byl nahluchlý. Ale o to víc do nás valil něco čínsky. V kamionu měl bordel, že se nohy bořily až po kolena. Filip si zasloužil místo vepředu a Já s Jardou jsme si sedli dozadu na postel. Měl iPhone 8 a Galaxy S8, stejný jako Filip, takže měli společnou půdu. S Jardou si dal retko a po pár neúspěšných pokusech o verbální komunikaci přešel na znakovou řeč. Nakonec nás hodil až do 台北, někam mezi modrou a oranžovou linku.
+Zastavil nám kamion. Cápek neuměl ni slovo anglicky a byl nahluchlý. Ale o to víc do nás valil něco čínsky. V kamionu měl bordel, že se nohy bořily až po kolena. Filip si zasloužil místo vepředu a Já s Jardou jsme si sedli dozadu na postel. Měl iPhone 8 a Galaxy S8, stejný jako Filip, takže měli společnou půdu. S Jardou si dal retko a po pár neúspěšných pokusech o verbální komunikaci přešel na znakovou řeč. Nakonec nás hodil až do 台北, někam mezi modrou a oranžovou linku.<br>
 
 <a href="../images/2018_march/2_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/2_1.jpg"></a>
 
@@ -61,11 +62,11 @@ Tam jsme chvíli postávali, přemýšleli, zda jet autobusem na metro, ale z m
 Šli jsme tedy s paní k jejímu autu. Bylo zaparkované na parkovišti pod jejich firmou, a tak nás pozvali k nim do kanceláře. Překládali a editovali dětské knížky a přinesli nám jednu zeměpisnou, kde byla část vyčleněná Čechám. Vlastně byla plná zajímavých věcí z Prahy. Letná, Žižkovská věž a podobně.<br>
 Potom nás jsme výtahem sjeli na parkoviště a nasedli do snad nejluxusnějšího mercedesu, v jakém jsem kdy seděl. Na metro to trvalo asi 10 minut, během kterých jsme se ptali co vidět a vysvětlovali, že jedeme na lampionový festival do Pingxi.<br>
 Vyhodili nás na modrém metru, kde jsme nakoupili žetony a vyrazili na zastávku 台北 101.<br>
-Metro mají dlouhé, klimatizované a průchozí. Jezdí bez řidičů, takže má dvojí dveře a před nimi na zemi čárami vyznačené místo pro čekání.
+Metro mají dlouhé, klimatizované a průchozí. Jezdí bez řidičů, takže má dvojí dveře a před nimi na zemi čárami vyznačené místo pro čekání.<br>
 
 <a href="../images/2018_march/2_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/2_2.jpg"></a>
 
-Najít 台北 101 nebylo bůhví jak těžké, protože stanice je přímo po ní. Applestore do kterého Filip vezl svůj rozbitý macBook byl jen asi o 50 metrů vedle. Chvíli jsem tam šmatlal po iPadech, ale když Filip oznámil, že tam bude ještě hodinu, vyrazili jsme s Jardou sami napřed.
+Najít 台北 101 nebylo bůhví jak těžké, protože stanice je přímo po ní. Applestore do kterého Filip vezl svůj rozbitý macBook byl jen asi o 50 metrů vedle. Chvíli jsem tam šmatlal po iPadech, ale když Filip oznámil, že tam bude ještě hodinu, vyrazili jsme s Jardou sami napřed.<br>
 
 <a href="../images/2018_march/2_3.jpg" target="_blank"><img src="../images/thumbnails/2018_march/2_3.jpg"></a>
 
@@ -77,47 +78,47 @@ Filip se k nám připojil a společně jsme šli na nádraží, kde jsme chvíl
 Festival probíhal v údolí pod velkým mostem a už cestou jsme viděli lampiony. Letící i padající.<br>
 Na to, že je to jeden ze 14 festivalů, jenž National Geographic doporučuje navštívit, to byla docela komerční past. A možná právě proto.<br>
 U hlavní stage jsme potkali Dana a Kaliho, jejich kamarádku Terkou a jejími dvěma asijskými spolužáky, která studuje v 台北. Koukali jsme asi na troje skupinové vypouštění lampiónů a potom se po mostě přesunuli na kopec, kvůli výhledu.<br>
-Koupili jsme lampion a napsali na něj naše přání, ale cápek se zřejmě rozhodl nás ojebat, takže ho jako omylem zapálil. Potom nám řekl, že si jako můžeme vzít další, ale když jsme ho popsali, začal do nás valit, že ho musíme zaplatit. Asijští přátelé si taky jeden koupili, ale cápek valil, že pokud mu nezaplatíme náš, nevypustí ani jeden. Prvotřídní zmrd.
+Koupili jsme lampion a napsali na něj naše přání, ale cápek se zřejmě rozhodl nás ojebat, takže ho jako omylem zapálil. Potom nám řekl, že si jako můžeme vzít další, ale když jsme ho popsali, začal do nás valit, že ho musíme zaplatit. Asijští přátelé si taky jeden koupili, ale cápek valil, že pokud mu nezaplatíme náš, nevypustí ani jeden. Prvotřídní zmrd.<br>
 
 <a href="../images/2018_march/2_4.jpg" target="_blank"><img src="../images/thumbnails/2018_march/2_4.jpg"></a>
 
-Nakonec jsme mu přihodili asi kilo, a naše dva lampiony zkušeným grifem zapálil a poslal do vzduchu, takže bylo jasné, že první zapálil ne náhodou, ale schválně.
+Nakonec jsme mu přihodili asi kilo, a naše dva lampiony zkušeným grifem zapálil a poslal do vzduchu, takže bylo jasné, že první zapálil ne náhodou, ale schválně.<br>
 
 <a href="../images/2018_march/2_5.jpg" target="_blank"><img src="../images/thumbnails/2018_march/2_5.jpg"></a>
 
-Poté festival utichl a dav se začal vracet směrem k autobusům, ke kterým se formovaly dvě fronty. Pomalá na sezení a rychlá na stání. Samozřejmě jsme vybrali 
+Poté festival utichl a dav se začal vracet směrem k autobusům, ke kterým se formovaly dvě fronty. Pomalá na sezení a rychlá na stání. Samozřejmě jsme vybrali <br>
 Stání a v autobuse si sedli na zem. Jel zadarmo až do 台北 a dovezl nás až na stanici metra Zoo.<br>
 Jarda si domluvil spaní na koleji u Terky, ale Já s Filipem už jsme se nevešli, takže jsme řešili, kam složit hlavy. Po chvíli broušení po AirBnB, nám Asiatka doporučila Japonskou online kavárnu, která má postele a je nedaleko od kolejí, tudíž jsme se vydali s ostatními do centra.<br>
 Jak už bylo zvykem, nakoupili jsme pivka v 7-11 a sedli do parku. Po druhém pivku na mě šla dřímota, takže jsem s mexickou dečkou zalomil přímo na zemi.<br>
-Když mě ostatní vzbudili, vydali jsme se Filipem do oné kavárny. Byla pár bloků od nás, v domě, který podle mě byl zároveň bordel. Jelo se do ní výtahem do čtrnáctého patra. Všude byly velké obrazovky, počítače, černé kožené gauče a mišmaš podivných lidí. Ale cena dobrá, pokojík oddělený dřevěnou stěnou, která nebyla až po strop, od ostatních s koženou matrací místo podlahy, nám dostačoval k pohodlnému spánku, a tak jsme se ubytovali. 
+Když mě ostatní vzbudili, vydali jsme se Filipem do oné kavárny. Byla pár bloků od nás, v domě, který podle mě byl zároveň bordel. Jelo se do ní výtahem do čtrnáctého patra. Všude byly velké obrazovky, počítače, černé kožené gauče a mišmaš podivných lidí. Ale cena dobrá, pokojík oddělený dřevěnou stěnou, která nebyla až po strop, od ostatních s koženou matrací místo podlahy, nám dostačoval k pohodlnému spánku, a tak jsme se ubytovali. <br>
 
 ### 3.3. Sobota - Den v 台北
 
-S Filipem jsme se v 10 vzbudili v japonské online kavárně. Stále to bylo divné, jako den předtím. Podivní lidé polehávali na gaučích, koukali na více než metrové LCD obrazovky, mládež hrála hry a naproti tomu paní s tabletem zřejmě vyučovala mladou holčinu, která z nás bílých nemohla odtrhnout oči.
+S Filipem jsme se v 10 vzbudili v japonské online kavárně. Stále to bylo divné, jako den předtím. Podivní lidé polehávali na gaučích, koukali na více než metrové LCD obrazovky, mládež hrála hry a naproti tomu paní s tabletem zřejmě vyučovala mladou holčinu, která z nás bílých nemohla odtrhnout oči.<br>
 
 <a href="../images/2018_march/3_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/3_1.jpg"></a>
 
 Vysprchovat se nezadařilo, jelikož sprcha byla zavřená, kvůli čemuž jsme se sbalili, dali si 奶茶 (Milk tea), jakožto pití, jenž bylo v ceně, a vyrazili do víru velkoměsta.<br>
-U stánkaře s dobře lámanou angličtinou a entusiasmem až na půdu jsme si dali rice cake v omeletě s chutí, a snědli jsme ho ve výklenku s dvěma křesly. Poté jsme se vydali bezcílně bloumat ulicemi 台北. Ostatní zřejmě spali, neb nám na internetech neodpovídali. Po chvíli bloumání ulicemi jsme se usadili do vnitro blokového parčíku, kde chodil stále dokola stařík, paní se psem a asi 4 kočky. Moc hezké místo. Po téměř hodině, jsme vyrazili na dále do 台北. Jardovi jsme poslali špendlík obchodu s razítkem a obchodu s foťáky. Na trhu nám Japonec, který navštívil už 46 zemí, poradil, ať se vydáme do 西門 (XiMen)
+U stánkaře s dobře lámanou angličtinou a entusiasmem až na půdu jsme si dali rice cake v omeletě s chutí, a snědli jsme ho ve výklenku s dvěma křesly. Poté jsme se vydali bezcílně bloumat ulicemi 台北. Ostatní zřejmě spali, neb nám na internetech neodpovídali. Po chvíli bloumání ulicemi jsme se usadili do vnitro blokového parčíku, kde chodil stále dokola stařík, paní se psem a asi 4 kočky. Moc hezké místo. Po téměř hodině, jsme vyrazili na dále do 台北. Jardovi jsme poslali špendlík obchodu s razítkem a obchodu s foťáky. Na trhu nám Japonec, který navštívil už 46 zemí, poradil, ať se vydáme do 西門 (XiMen)<br>
 
 <a href="../images/2018_march/3_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/3_2.jpg"></a>
 
-Oranžovou linkou jsme tam dojeli. Lidí mrtě, obchodů ještě víc. Ale pohled na město zajímavý. Pomalu jsme probloudili až k řece, kde nás začal sužovat hlad. Vydali jsme se směrem Night market, ale jídlo jsme si dali u paní, co uměla překvapivě dobře anglicky. Standardní Taiwanský bufet. Ve sklenici měli dobrou chuť. Pak jsme prošli Second Hand ulicí až k 龍山寺 (LongShan Temple), kde hromada starců hrálo nějakou asijskou dámu či co. A protože už táhlo na čtvrtou rozhodli jsme se metrem dojet k dálničnímu nájezdu a stopnout auto do 新竹. Čínské znaky jsme sepsali na žluté menu z místní restaurace a vydali se hledat stopařské štěstí. Minulo nás, protože křižovatka byla pro autostop velice nepříhodná. Nakonec jsme šli po dálničním nadjezdu pár set metrů pěšky, ale zhodnotili jsme, že rychlost v tamějších místech je extrémní a vydali se zpět na vlak. Než jsme ale slezli z dálnice, zastavili nás místní policajti. Zahrál jsem to na ztraceného turistu, co hledá metro a umí anglicky, ale čínsky nikoli. (ne moc daleko od pravdy). Byli dobrý, ukázali nám kudy jít (i přes to, že jsem to moc dobře věděl) a jeden nás doprovodil až téměř na chodník. 
+Oranžovou linkou jsme tam dojeli. Lidí mrtě, obchodů ještě víc. Ale pohled na město zajímavý. Pomalu jsme probloudili až k řece, kde nás začal sužovat hlad. Vydali jsme se směrem Night market, ale jídlo jsme si dali u paní, co uměla překvapivě dobře anglicky. Standardní Taiwanský bufet. Ve sklenici měli dobrou chuť. Pak jsme prošli Second Hand ulicí až k 龍山寺 (LongShan Temple), kde hromada starců hrálo nějakou asijskou dámu či co. A protože už táhlo na čtvrtou rozhodli jsme se metrem dojet k dálničnímu nájezdu a stopnout auto do 新竹. Čínské znaky jsme sepsali na žluté menu z místní restaurace a vydali se hledat stopařské štěstí. Minulo nás, protože křižovatka byla pro autostop velice nepříhodná. Nakonec jsme šli po dálničním nadjezdu pár set metrů pěšky, ale zhodnotili jsme, že rychlost v tamějších místech je extrémní a vydali se zpět na vlak. Než jsme ale slezli z dálnice, zastavili nás místní policajti. Zahrál jsem to na ztraceného turistu, co hledá metro a umí anglicky, ale čínsky nikoli. (ne moc daleko od pravdy). Byli dobrý, ukázali nám kudy jít (i přes to, že jsem to moc dobře věděl) a jeden nás doprovodil až téměř na chodník. <br>
 
 <a href="../images/2018_march/3_3.jpg" target="_blank"><img src="../images/thumbnails/2018_march/3_3.jpg"></a>
 
-Po cestě metrem na nádraží jsme objevili, že rychlodráhou by to stálo přes dvě kila autobus 150 a rozhodli se pro lokálu za stovku. Paní nám prodala lístky, ale až před nástupem jsme zjistili, že platí z 新竹 do 台北, ne naopak. Naštěstí vlak měl sekeru, takže jsme je stihli u paní vyměnit. A nasednout na vlak, který pro jistotu jel z opačné strany kvůli zpoždění. Hodina stání v klimatizovaném, ale přecpaném vlaku, nedělala mým nohám dobře, a tak jsem si krátil čas dumáním nad čínštinou na dveřích. Filip už taky začínal mít cestování dost, a když jsme pak čekali na zastávce na náš univerzitní bus. Bylo na nás vidět, že se těšíme na postel na koleji. Autobus měl pro jistotu prohozenou ceduli a nechápajícího řidiče, ale naštěstí nám mladá Taiwanka řekla, že jedeme dobře, a tak jsme se dostali na kolej. 
+Po cestě metrem na nádraží jsme objevili, že rychlodráhou by to stálo přes dvě kila autobus 150 a rozhodli se pro lokálu za stovku. Paní nám prodala lístky, ale až před nástupem jsme zjistili, že platí z 新竹 do 台北, ne naopak. Naštěstí vlak měl sekeru, takže jsme je stihli u paní vyměnit. A nasednout na vlak, který pro jistotu jel z opačné strany kvůli zpoždění. Hodina stání v klimatizovaném, ale přecpaném vlaku, nedělala mým nohám dobře, a tak jsem si krátil čas dumáním nad čínštinou na dveřích. Filip už taky začínal mít cestování dost, a když jsme pak čekali na zastávce na náš univerzitní bus. Bylo na nás vidět, že se těšíme na postel na koleji. Autobus měl pro jistotu prohozenou ceduli a nechápajícího řidiče, ale naštěstí nám mladá Taiwanka řekla, že jedeme dobře, a tak jsme se dostali na kolej. <br>
 
 ### 4.3. Neděle - Ztratil jsem se
 
 V devět ráno jsem šel běhat. Vydal jsem se po cihlovém chodníčku a pak doleva. Po asi kilometru se nedalo zahnout jinam než na silnici. Asi dva kilometry jsem teda běžel vedle silnice. Vybíral jsem odbočky tak abych se vrátil v pětikilometrovém okruhu zpátky. Nepodařilo se a ztratil jsem se. Rozhodl jsem se tedy jít pomalu a po asi 30 % kopci jsem se vydrápal na odstavné parkoviště vysloužilých autobusů, ze kterého vedla jen ona příjezdová cesta a brána na druhé straně. S ostnatým drátem. No... přelezl jsem jí. A vydal se po okraji kopce dál. Výhledy paráda ale byl jsem absolutně ztracen. Nicméně jsem se nevzdal a nešel googlit cestu. Po asi 2 km jsem v dáli poznal kovovou budovu skladu a při ceduli 中華大學jsem se rozhodl běžet zpátky.<br>
-Našel jsem Filipa, jak lamentuje nad svou životní situací (nic se mu nechce, má rozbitý notebook) a pak jsem se konečně dokopal dát věci do pračky. 
+Našel jsem Filipa, jak lamentuje nad svou životní situací (nic se mu nechce, má rozbitý notebook) a pak jsem se konečně dokopal dát věci do pračky. <br>
 Buď málo prášku, nebo co, ale všechno oblečení smrdí a efekt praní byl nulový. Sušička se za jízdy otevřela, takže stejně všechno zůstalo mokré, jenom deset dolarů proletělo komínem.<br>
 Na oběd jsme šli do ulice směrem z kopce, kde jsme ještě nebyli. Po chvilkovém kroužení a vybírání jsme skončili tam, kde jsme byli s Thomasem. Dal jsem si burger s čínským znakem pro trojku. Nebyl zlý, ale nenajedl jsem se z něj.<br>
 Po zbytek odpoledne jsem dopisoval deník. Je to překvapivě časově náročná činnost, ale člověk si tím příjemně utřídí myšlenky a zavzpomíná, co a jak bylo. Zprvu jsem psal v pokoji, ale protože venku bylo hezky, šel jsem psát k rybníku s husou a kachnami.<br>
 Byl jsem tam do setmění, kdy mně vyhnali komáři a vybitá baterka.<br>
 Jarda se vrátil a s Thomasem, Markem a Ondrou jsme šli na jídlo. Původně Thomas plánoval polévku, ale bylo plno, tak jsme šli naproti. Dal jsem si tam maso s rýží, ale naštěstí zeleniny k tomu měli dost a celkově chuť (a tentokrát myslím skutečně chuť) byla výborná. Trojobal chutnal jako skořicové pečivo, proti tomu kuřice a salát. Pro tentokrát jsem vraždy nelitoval. Konec konců byla neděle.<br>
-Na koleji jsem se večer dál věnoval deníku s Filipovou pomocí (datovaných fotek v mobilu). 
+Na koleji jsem se večer dál věnoval deníku s Filipovou pomocí (datovaných fotek v mobilu). <br>
 
 ### 5.3. Pondělí - Den v RTmartu
 
@@ -126,14 +127,14 @@ Hned po ránu jsme běželi na oddělení jazyků, aby nám nikdo nezabral míst
 Ta nepříjemná bába, zřejmě Carol, tam byla znova. Ale předala nás mladé asistentce, která nás rozdělila mezi Jeffa a Grega. Samozřejmě k tomu bylo potřeba milion razítek a popisů.<br>
 Na oběd jsme byli v menze. Dan si stěžoval, že je tam jídlo drahé, ale další nějakou speciální rybu, zřejmě platýse, takže se nemohl divit. Já jako vegetarián si nemůžu stěžovat. 45 za plný talíř květáku, nějaké zelené trávy, tofu a rýže.<br>
 Po obědě jsem dopisoval deník na balkoně a z dáli se přivalily kotouče husté mlhy. Bylo tak vlhko, že se mi voda srážela na počítači. Asi mu to nedělalo dobře, ale protože tady něco jako vzduchová izolace v domech není, tak nemělo smysl jít na pokoj. Akorát by se tam nedalo dýchat.<br>
-Po asi hodině diskuzí, kdy vyrazíme do RTmartu, jsme konečně vyrazili do RTmartu. Další asi půlhodinu jsme čekali na autobus do centra, tak půl hodiny jeli autobusem a další asi půlhodinu strávili pěší chůzí do RTmartu. Nejméně hodinu a půl jsme byli v RTmartu. Pak jsme šli půl hodiny zpátky pěšky na autobus a půl hodiny jsme jeli autobusem zpátky na kolej.
+Po asi hodině diskuzí, kdy vyrazíme do RTmartu, jsme konečně vyrazili do RTmartu. Další asi půlhodinu jsme čekali na autobus do centra, tak půl hodiny jeli autobusem a další asi půlhodinu strávili pěší chůzí do RTmartu. Nejméně hodinu a půl jsme byli v RTmartu. Pak jsme šli půl hodiny zpátky pěšky na autobus a půl hodiny jsme jeli autobusem zpátky na kolej.<br>
 
 <a href="../images/2018_march/5_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/5_1.jpg"></a>
 
 Celkově bych řekl, že zabere celkem dlouho, nakupovat v RTmartu.<br>
 Večer jsme šli do baru hrát Whista. Kluci si předtím koupili rum, ale já se rozhodl nepít. Šli jsme ve dvou různých skupinách a obě na sobě nezávisle koupili kolu.<br>
 Hra byla fakt dobrá. V baru jsem jí vyhrál, opravdu dobře jsme se bavili. Zaznamenal bych nějaké hlášky, ale bylo jich tolik, že si vlastně žádnou nepamatuji.<br>
-Pak už ale byla zima, tak jsme se přesunuli do krčku u bufetu a v kartách pokračovali. Tentokrát vedl Jarda bezchybnou hru a já jsem pohořel. Ale byl jsem unavený, konec konců hráli jsme do dvou ráno. 
+Pak už ale byla zima, tak jsme se přesunuli do krčku u bufetu a v kartách pokračovali. Tentokrát vedl Jarda bezchybnou hru a já jsem pohořel. Ale byl jsem unavený, konec konců hráli jsme do dvou ráno. <br>
 
 ### 6.3. Úterý - První basketbal
 
@@ -143,18 +144,18 @@ Po asi tak čtrnácti dnech jsem konečně našel píseň, která mi hrála hlav
 Když jsem se vrátil, Filip už byl za Kelly, tedy, zřejmě Ashley, s tím, že peníze dojdou, zřejmě až tak za měsíc a šel teprve snídat. Na oběd jsem tedy šel sám. Dal jsem si konečně ten všemi vychvalovaný lilek. K tomu tofu a salát. Za 50. Ale byla toho kopa.<br>
 S plným břichem jsem se odebral na pokoj, kde jsem googlil jak sehnal kolo za pár šupů.<br>
 Odpoledne, jsme si šli zahrát basketbal. Hrál jsem ho poprvé v životě a objevil jsem, že mě to nebaví. Asi mi chybí jistá jiskra pro kontaktní sporty. Ale pořád lepší než sedět v pokoji.<br>
-Filip se připravoval na svoje Tinder randíčko. 
+Filip se připravoval na svoje Tinder randíčko. <br>
 
 ### 7.3 Středa - První den zapsaných předmětů
 
 Kluci zas přispávali až do jedenácti. Takže než se vůbec vyhrabali z postele, stihl jsem dojít na International Office kvůli účtu, projít se po kampusu nasnídat se a vysprchovat. Teda v opačném pořadí.<br>
 Z Filipa vypadlo, že jeho rande bylo spíše konverzační, neb slečna byla jasný Mko.<br>
 V jednu jsme vyrazili na přednášku Sustainable Green Energy. Po postávání před přednáškovou přišel profesor, a když jsme ho oslovili, odvětil „sit down please“. Takže jsme proseděli celou čínskou přednášku. Občas teda prohlásil něco anglicky naším směrem, ale moc toho nebylo. Nicméně, dozvěděli jsme se, že nebudeme muset psát test, ale místo toho odevzdáme práci v angličtině. Což je vlastně ideál.<br>
-Po přednášce kluci jeli do města pro baskeťák a jí šel do menzy na oběd. Po obědě jsem si šel na pokoj projíždět Duolingo a psát si znaky. Zabralo mi to až do čínštiny. Jarda se Filipem vrátili tak tak, ale Marek s Ondrou na čínštinu nepřišli vůbec.
+Po přednášce kluci jeli do města pro baskeťák a jí šel do menzy na oběd. Po obědě jsem si šel na pokoj projíždět Duolingo a psát si znaky. Zabralo mi to až do čínštiny. Jarda se Filipem vrátili tak tak, ale Marek s Ondrou na čínštinu nepřišli vůbec.<br>
 
 <a href="../images/2018_march/7_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/7_1.jpg"></a>
 
-Erik 老師 je fakt dobrej cápek. Zakázal telefon, mluvení anglicky, a vysvětloval čínštinu tak trochu pantomimou. Sice už jsme věděli dost z toho, co jsme brali, ale forma byla dobrá. Nakonec jsme šli na nudlovou polévku na hlavní ulici. Byla toho za 50 docela kopa. Filip měl 
+Erik 老師 je fakt dobrej cápek. Zakázal telefon, mluvení anglicky, a vysvětloval čínštinu tak trochu pantomimou. Sice už jsme věděli dost z toho, co jsme brali, ale forma byla dobrá. Nakonec jsme šli na nudlovou polévku na hlavní ulici. Byla toho za 50 docela kopa. Filip měl <br>
 
 ### 8.3 Čtvrtek - Vločky-Rýže-Nudle
 
@@ -162,32 +163,32 @@ Ráno jsem si šel zaběhat. Rozpršelo se, fakt hodně. Promočený jsem čekal
 Pokračuju v zajetém standardu: Vločky-Rýže-Nudle a vlastně mi to nijak nevadí. Filipovi jo. Marek každé ráno zmizí asi kvůli jeho stupidnímu rozvrhu skrze celý týden.<br>
 Zbytek dopoledne jsem tedy proflákal před notebookem. A potom jsme s Jardou a Filipem vyrazili do menzy. Když si Jarda nandal na talíř kotel lilku a nudlí a paní ho prohlásila „Veeery hungry“.<br>
 Filip nedojedl, a když jsme to po něm dojídal, poslední sousto byla nějaká vatovitá nechutná věc, která mi málem zvrátila kufr.<br>
-Po obědě jsme se opět šli flákat na pokoj až do Introduction to World music. Když jsme dorazili do budovy jazyků, kde se hodina konala. Paní profesorka skutečně mluvila anglicky. Sdělila nám, že vyučuje další předměty, jež by pro nás byly příhodnější. A tak jsme běhali mezi International Office a jazyky ve snaze si za prvé změnit předmět, což už nešlo. Za druhé zapsat si další, což taky nešlo. A za třetí, zjistit, zda lze chodit na jeden předmět, ale mít zapsaný jiný. Žádný úspěch. Prostě je pozdě a basta. A tak jsme se vydali na kolej.
+Po obědě jsme se opět šli flákat na pokoj až do Introduction to World music. Když jsme dorazili do budovy jazyků, kde se hodina konala. Paní profesorka skutečně mluvila anglicky. Sdělila nám, že vyučuje další předměty, jež by pro nás byly příhodnější. A tak jsme běhali mezi International Office a jazyky ve snaze si za prvé změnit předmět, což už nešlo. Za druhé zapsat si další, což taky nešlo. A za třetí, zjistit, zda lze chodit na jeden předmět, ale mít zapsaný jiný. Žádný úspěch. Prostě je pozdě a basta. A tak jsme se vydali na kolej.<br>
 
 <a href="../images/2018_march/8_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/8_1.jpg"></a>
 
 Na šestou jsme se opět vydali na čínštinu, tentokrát s Markem a Ondrou. Kvůli nim jsme půlhodiny opakovali látku z předešlého dne, ale nebylo to na škodu. Potom Erik vytáhl nastříhané papírky a nechal nás spojovat čínštinu s pinynem. Uspěl jsem, což mě potěšilo.<br>
-Večer jsme si dali kolu s vínem na vaření a karty až do jedné ráno v budově naproti koleji. 
+Večer jsme si dali kolu s vínem na vaření a karty až do jedné ráno v budově naproti koleji. <br>
 
 ### 9.3 Pátek - První konverzace a Chromatologie
 
 Jsme tu už tak asi 14 dní. Docela mě to zarazilo. Letí to jak blázen.<br>
 Dneska jsme vstávali brzo, abychom stihli anglickou konverzaci. Jsme rozdělení tak, že já s Filipem chodíme k Jeffovi a Jarda ke Gregovi. Jeff se každého ve třídě postupně ptal „what’s new and interesting“ a pro nás je tady všechno „new&interesting“. Každopádně, některým Asiatům se do konverzace zrovna 2x nechtělo, a tak je Jeff musel popostrkovat. Zhruba v polovině nás nechal přečíst článek a poté jsme se rozdělili do skupin po čtyřech, ve kterých jsme měli o článku diskutovat. Bylo nás šest a článku jsme moc nedali. Bavili jsme se o tom, odkud jsme a proč jsme zrovna tady a podobně. Jedna holčina byla na zdejší poměry překvapivě odvážná a vyptávala se nás.<br>
 Co mě ale pobavilo mnohem víc, byla přestávka po konci hodiny. Taiwanci se seběhli kolem nás a holčiny vytáhli do popředí toho, co do angličtiny, nejmarnějšího kluka s tím, že se s námi chce seznámit. Samy se prostě asi styděli, a tak ztropili tenhle cirkus. Ale byla to ohromně příjemná změna oproti standardně se otáčejícím stydlivým obličejům.<br>
-Nicméně po chvíli jsme museli na Field Trip to 新竹. Jarda se někam vytratil, ale když jsme ho našli, nenesl dobré zprávy. Profesorka umí anglicky jen pramálo, a proto nás tam nechce. 
+Nicméně po chvíli jsme museli na Field Trip to 新竹. Jarda se někam vytratil, ale když jsme ho našli, nenesl dobré zprávy. Profesorka umí anglicky jen pramálo, a proto nás tam nechce. <br>
 Takže jsme měli dvě tři hodiny do Creative Chromatology.<br>
 Strávili jsme je basketbalem, ale mě začalo protestovat koleno, takže jsem tomu moc nedal. Poté mi paní v menze rozdělila brokolici, takže i při dvou přílohách jsem byl na 50 dolarech. (Příště si dám 3 menší.).<br>
 V knihkupectví jsme nakoupili tempery a papír a s mírným zpožděním jsme se vydali na hodinu.<br>
 Opravdu zážitek. Po snad patnácti letech jsem si maloval temperami na čtvrtku. Malovali jsme 50 odstínů bílé, podle bílého harampádí, které jsme mými nůžkami nastříhali cestou na kolej.<br>
 Další nás čekal Tour Guiding and Interpretation. Kluci v kampusu nám poradili, že se učí v hlavní administrativní budově v počítačové učebně. Hrdě jsme tam vyrazili, ale třída zela prázdnotou. Nakonec jsme v eCapmusu objevili, že dnešní hodina byla přesunuta na minulou sobotu. Takže do konce dne volno.<br>
-Na koleji jsem pojedl vločky a šel se koukat na seriál. U toho jsem usnul, a když jsem se vzbudil, chvíli jsem si psal 郁絜 (YuJie) a u toho dopisoval deník. Kluci ještě šli hrát basket, ale mě se moc nechtělo. 
+Na koleji jsem pojedl vločky a šel se koukat na seriál. U toho jsem usnul, a když jsem se vzbudil, chvíli jsem si psal 郁絜 (YuJie) a u toho dopisoval deník. Kluci ještě šli hrát basket, ale mě se moc nechtělo. <br>
 
 ### 10.2. Sobota - 台中(Taichung)
 
 Vstávání probíhalo za neustálého odkládání budíku. Marek se totiž podobně jako Filip vyrazil na víkend do 台中. Oba chtěli jet vlakem, ale Filip si pohrával s myšlenkou stopování (Jak to jednou člověka chytí, těžko se přestává.), ale nechtělo se mu samotnému.<br>
 Venku bylo hezky, takže jsem si říkal, že sedět na pokoji můžu, až bude hnusně a rozhodl se stopovat s Filipem.<br>
 Na streetview jsem asi půl hodiny hledal ideální místo na cestu zpátky a po misce ovesné kaše (ano neměním svůj standard) a přípravě cedulí tam i zpátky černým fixem jsme se vydali ke stejnému dálničnímu nájezdu, ze kterého jsme asi před 10 dny vyráželi k moři.<br>
-Je to dobrý plác, neb nám zastavilo auto snad do pěti minut. Řídila ho paní (i když bych jí tipnul sotva 20) se dvěma malými dětmi, sledujícími na iPadu prasátko Peppu. Vmáčkli jsme se oba dozadu a vyrazili na cestu po dálnici číslo tři v postarší Toyotě. Paní občas zkusila něco anglicky, a tak jsme se jí snažili odpovídat co nejjednodušší angličtinou.
+Je to dobrý plác, neb nám zastavilo auto snad do pěti minut. Řídila ho paní (i když bych jí tipnul sotva 20) se dvěma malými dětmi, sledujícími na iPadu prasátko Peppu. Vmáčkli jsme se oba dozadu a vyrazili na cestu po dálnici číslo tři v postarší Toyotě. Paní občas zkusila něco anglicky, a tak jsme se jí snažili odpovídat co nejjednodušší angličtinou.<br>
 
 <a href="../images/2018_march/10_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/10_1.jpg"></a>
 
@@ -196,13 +197,13 @@ Po asi hodině jsme se přiblížili 台中 a po konzultaci s digitální techn
 Jsme v Asii, takže vystupování z auta se neobešlo bez řádného fotografování iPhonem. Celá posádka se tedy vyrovnala před onu Toyotu, Já se stopovací cedulí v ruce a ostatní s véčkem z prstů. Zapózovali jsme kolemjdoucímu turistovi, který se chopil postu fotografa. Poté ještě muselo dojít k výměně facebookových profilů, aby mohla být fotografie řádně zaslána.<br>
 S poledním sluncem nad hlavou na nás přišel cestovní hlad a my se vydali hledat restauraci se studentským poměrem cena/chuť.<br>
 Po chvíli kroužení po parčíku s jídlem za světové ceny, jsme uhnuli na rušnou ulici, a s každým dalším krokem se ceny přibližovaly ideálu.<br>
-S personálem jedné restaurace jsme česko-čínsko-anglicko-polopaticky objednali polévky s nudlemi. Já s placatými pšeničnými a Filip vlasovými rýžovými. Těšilo mě, že polévka je bez vraždy a obsahuje výbornou cibulku. Pán nám nicméně stejně přinesl „beef“ na talířku, který jsem sice ochutnal, ale převážnou část ponechal Filipovi.
+S personálem jedné restaurace jsme česko-čínsko-anglicko-polopaticky objednali polévky s nudlemi. Já s placatými pšeničnými a Filip vlasovými rýžovými. Těšilo mě, že polévka je bez vraždy a obsahuje výbornou cibulku. Pán nám nicméně stejně přinesl „beef“ na talířku, který jsem sice ochutnal, ale převážnou část ponechal Filipovi.<br>
 
 <a href="../images/2018_march/10_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/10_2.jpg"></a>
 
 Po jídle jsme se rozhodli vyrazit do botanické zahrady a cestou se zastavit v parku a v elektru. Na mapě to vypadalo na hezký potůček se zelení okolo, ale byla to docela nehezká betonová stoka. Naštěstí se situace proti proudu zlepšovala a kolem stoky začala růst zeleň. V 7-11 jsme nakoupili mražený puding a s ním došli až k parku, kde probíhal nějaký happening pro děti. Elektro NOVA vůbec nebylo velké elektro, ale jakési velké sdružení malých elektro obchodů pod jednu střechu. Mobilů tam bylo jen poskrovnu a notebooky pro Filipa taky žádná sláva. A tak jsme pokračovali v cestě.<br>
 Na Markovo doporučení jsme nakoupili něco jako válec z palačinkového těsta s náplní. Sladko bramborovou a červeno-fazolovu. Zvláštní vynález, ale nemůžu říct, že špatný.<br>
-Do skleníku byl vstup asi 20 TWD. Výtah do vyšších pater nejel a schody byly zavřené. Ale kytky byly fajn a atmosféra taky. Posedávali jsme tam asi tak půl hodiny, když k nám přišel místní oficír s tím, že zavírají.
+Do skleníku byl vstup asi 20 TWD. Výtah do vyšších pater nejel a schody byly zavřené. Ale kytky byly fajn a atmosféra taky. Posedávali jsme tam asi tak půl hodiny, když k nám přišel místní oficír s tím, že zavírají.<br>
 
 <a href="../images/2018_march/10_3.jpg" target="_blank"><img src="../images/thumbnails/2018_march/10_3.jpg"></a>
 
@@ -214,12 +215,12 @@ Park, na každém rohu ozářený množstvím světélek a zdobený množstvím 
 Nějak jsme se minuli. Ale díky internetům jsme se nakonec našli.<br>
 Na trhu si hladový Filip objednal vraždu a já s Šárkou stinky tofu. Žádná bomba abych pravdu řekl, ale jíst se to dalo. Šárka si to nemyslela, takže jsem to dojídal za ní.<br>
 Nakonec jsme se odebrali do OKMartu, kde jsme nakoupili pivko a zasedli s ním k místnímu potoku.<br>
-Po asi dvou hodinkách posedávání a diskuze, jsme Šárku posadili na uber a vydali se zpět na hostel. 
+Po asi dvou hodinkách posedávání a diskuze, jsme Šárku posadili na uber a vydali se zpět na hostel. <br>
 
 ### 11.3. Neděle - Zpátky 
 
 Vzbudil jsem se v hostelu někdy před devátou. S nabitým mobilem jsem chvíli věnoval odepisování do Čech a do 台北, a protože odevzdávat věci jsme měli až v devět tak jsem ještě na chvilku zkoušel usnout. Před devátou jsem dal ranní spršku a po 奶茶 z prášku v přízemí jsme vyrazili ven.<br>
-V 7-11 jsme pořídili EasyCard a vyrazili jsme posnídat. Chvíli jsme bloudili, ale pak jsme dostali tip na 2nd market, tedy tržnici ne tak daleko od nás. Hned na začátku mě svým zjevem a vůni zaujalo něco, co jsem překřtil na řýžorák. Uvnitř jsme se pozastavili u obchůdku s frontou a v podstatě v tom okamžiku nám od JaiHo přišla fotka téhož místa s tím, že ho rozhodně máme zkusit. 
+V 7-11 jsme pořídili EasyCard a vyrazili jsme posnídat. Chvíli jsme bloudili, ale pak jsme dostali tip na 2nd market, tedy tržnici ne tak daleko od nás. Hned na začátku mě svým zjevem a vůni zaujalo něco, co jsem překřtil na řýžorák. Uvnitř jsme se pozastavili u obchůdku s frontou a v podstatě v tom okamžiku nám od JaiHo přišla fotka téhož místa s tím, že ho rozhodně máme zkusit. <br>
 Zkusili jsme a jídlo bylo fajn. Dal jsem si bramborové listy a Filip masové koule. Cena byla vyšší ale ne děsivá. Pak jsme ještě procházeli market a já nakoupil banány.<br>
 Pak jsme pokračovali v relativně bezcílném bloumání, neboť kolem dvanácté měl Filip sraz s JaiHo. Vydali jsme se směrem k zajímavé futuristicky vypadající věži. Nakonec jsme k ní došli a mě zaujali uBiky. V kiosku jsem zaregistroval svou novou EasyCard a v domnění, že budu moci nasednout a vyrazit jsem přitiskl kartu na čtečku.<br>
 Error číslo 4. Žádný kredit. Krátká zastávka ve FamilyMartu a jedna stovečka kredit dobily. A tentokrát už mě stojan do řitě neposlal. Filip se zaregistroval také a společně jsme vyrazili na cestu k muzeu moderního umění.<br>
@@ -227,12 +228,12 @@ Na uBiku je město o poznání menší než pěšky, takže za 15 minut jsme byl
 Všechno bylo zdarma, jen co je pravda, ale spousta místností byla prázdná. A ty, které prázdné nebyly, stejně nezměnily můj pohled na moderní umění. Ale křivdil bych, kdybych řekl, že něco zajímavé nebylo. Žirafy z výfuků nebo reggae pes se mi líbily.<br>
 Když jsme se přesytili muzea JaiHo dorazila a společně jsme se vydali na oběd s tím, že po obědě vyrazím na autobus a poté stop zpátky do 新竹.<br>
 Chvíli nás vedla různými uličkami až k místu, kde bylo plno, a další lidé stáli ve frontě. A tak jsme pokračovali v pouti za jídlem. Skončili jsme v podniku, kde jsme si dali já nudle, Filip rýži. A k tomu salát a něco, co byla zřejmě rýže slepená kachní krví. To jsem jen ochutnal a přenechal Filipovi. Sám jsem si jedl svůj salát.<br>
-Po obědě jsme společně došli na autobus a dál už jsem pokračoval sám.
+Po obědě jsme společně došli na autobus a dál už jsem pokračoval sám.<br>
 
 <a href="../images/2018_march/11_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/11_1.jpg"></a>
 
 Jízda autobusem byla dobrá schíza. Věděl jsem jen fonetický přepis názvu mé cílové zastávky. Všechny nápisy ale byly v čínštině a hlas z reproduktoru zněl asi jako „prchrkřřřrkrpchšhhh“. Těžkou dedukcí jsem objevil, která zastávka je škola a od té odpočítával 12 zastávek a porovnával je se symboly venku za sklem.<br>
-Dorazil jsem do správné zastávky a podle printscreenu mapy jsem vyrazil na stop plác. Nebylo to špatné místo. Výhled jak z Holywood hills, rovinka na zastavení, nájezd přímo na trojku.
+Dorazil jsem do správné zastávky a podle printscreenu mapy jsem vyrazil na stop plác. Nebylo to špatné místo. Výhled jak z Holywood hills, rovinka na zastavení, nájezd přímo na trojku.<br>
 
 <a href="../images/2018_march/11_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/11_2.jpg"></a>
 
@@ -241,12 +242,12 @@ Po asi hodině a půl mě s přáním úspěchu na Taiwanu vyhodili přímo př
 Dal jsem prát boty, a vyrazil na hřiště, ale už hráli s nějakými Asiaty hru vysoké úrovně, a tak jsem si házel na koš sám a učil se driblovat podvědomě.<br>
 Na večeři jsme šli do podniku po cestě dolu. Marek se mezitím taky vrátil a dohromady jsme každý dali různý druh 蛋餅 (Eggrolls) a k tomu 奶茶.<br>
 Poté šli kluci k automatu na plyšáky, kde už několik dní marně vytahují plyšáka ve tvaru koziček.<br>
-Samozřejmě nikdo neuspěl, neb je to „zfixlovaná mrdka“. A tak jsme šli na biliár. V 7-11 jsme k tomu nakoupili pivka a ve výprodejovým krámku chipsy. S každou další hrou mi to šlo míň a míň ale je pravda, že s každou další hrou jsem byl duchem víc a víc pryč. Katarina mě trápí, něco s ní je, a nechce mi to říct. Ať jsem to z ní doloval horem dolem, jediné, co jsem se dozvěděl je, že mě tím nechce zatěžovat.
+Samozřejmě nikdo neuspěl, neb je to „zfixlovaná mrdka“. A tak jsme šli na biliár. V 7-11 jsme k tomu nakoupili pivka a ve výprodejovým krámku chipsy. S každou další hrou mi to šlo míň a míň ale je pravda, že s každou další hrou jsem byl duchem víc a víc pryč. Katarina mě trápí, něco s ní je, a nechce mi to říct. Ať jsem to z ní doloval horem dolem, jediné, co jsem se dozvěděl je, že mě tím nechce zatěžovat.<br>
 
 <a href="../images/2018_march/11_3.jpg" target="_blank"><img src="../images/thumbnails/2018_march/11_3.jpg"></a>
 
 A tak jsem si aspoň psal s Míšou.<br>
-Po biliáru přišly šipky. Už jsem fungoval tak jen na 10 %, protože jsem ze tří vždycky trefil maximálně dvě. Nakonec jsem rezignoval úplně a vydal se na kolej spát. 
+Po biliáru přišly šipky. Už jsem fungoval tak jen na 10 %, protože jsem ze tří vždycky trefil maximálně dvě. Nakonec jsem rezignoval úplně a vydal se na kolej spát. <br>
 
 ### 12.3. Pondělí - Adam přijel na návštěvu
 
@@ -256,15 +257,15 @@ V rámci šetření jsem tedy vyrazil do menzy, kde jsem si dal bezmasý oběd 
 Uložil jsem si printscreen mapy do mobilu a vydal se na pěší cestu k nejbližší stanici uBike. Podél volejbalových kurtů, přivázaných psů až k dolní bráně školy. Tam jsem si uvědomil, že tudy už jsem jednou běžel, ale myslel jsem si, že to je na opačné straně školy. Poučen tímto faktem jsem prošel pod dálnicí s basketbalovým hřištěm a na mapě objevil výbornou zkratku. Jenže v realitě byla zkratka za bránou.<br>
 To bych ale nebyl Čech, abych nezkusil bránu odsunout. A ejhle, šlo to. Chvíli jsem šel zkratkou s pocitem pýchy, jak jsem ochcal systém, když tu se za mnou objevili čtyři černí psi, kteří si to ke mně rázovali podstatně vyšším tempem, než bych byl dokázal běžet. „Debilní rok psa“ projelo mi hlavou, když jsem nabíral co největší rychlost.<br>
 V ruce jsem stále držel telefon, kterým jsem naznačil pohyb házení kamenu vůči smečce. Ubrali na rychlosti, ale stále mě doháněli.<br>
-Sebral jsem tedy ze země skutečné kamení a mrsknul je jejich směrem. To je konečně přesvědčilo, že já nejsem ta správná oběť. Jenže... další na mě čekal po cestě o trochu dále. 
+Sebral jsem tedy ze země skutečné kamení a mrsknul je jejich směrem. To je konečně přesvědčilo, že já nejsem ta správná oběť. Jenže... další na mě čekal po cestě o trochu dále. <br>
 S tepem na hranici infarktu jsem ho obešel. Potichu a velkým obloukem. V radosti, že jsem přežil toto setkání s Taiwanskou kulturou, jsem prošel zkratkou až na silnici.<br>
 Na křižovatce stál pán s mačetou, ale po právě prožitých minutách, mě nijak nerozhodil. Pozdravil jsem ho s úsměvem, který mi oplatil a vydal se co nejrychleji od něj.<br>
-Kolem sebe jsem najednou začal poznávat již jednou spatřené budovy. „Jsem v tom místě, kde jsem se minule ztratil“ Což znamenalo, že přede mnou je další brána, kterou ale tentokrát nepřelezu, protože ze strany silnice nemá stupínek. Vydal jsem se tedy bloudit džunglí. Podle mapy bylo jasné, že uBike minu, a proto jsem se snažil dostat k dalšímu. Z kopce dolů, podél řeky, a pak podivně opuštěnou vesnicí. Když tu, z ničeho nic jsem se octl v 新竹. U univerzity, nedaleko od pekárny, kde jsme byli s Danem. uBike tam ale měli a tak jsem mávl EasyCard a vydal se na kole skrz 新竹. 
+Kolem sebe jsem najednou začal poznávat již jednou spatřené budovy. „Jsem v tom místě, kde jsem se minule ztratil“ Což znamenalo, že přede mnou je další brána, kterou ale tentokrát nepřelezu, protože ze strany silnice nemá stupínek. Vydal jsem se tedy bloudit džunglí. Podle mapy bylo jasné, že uBike minu, a proto jsem se snažil dostat k dalšímu. Z kopce dolů, podél řeky, a pak podivně opuštěnou vesnicí. Když tu, z ničeho nic jsem se octl v 新竹. U univerzity, nedaleko od pekárny, kde jsme byli s Danem. uBike tam ale měli a tak jsem mávl EasyCard a vydal se na kole skrz 新竹. <br>
 Po asi dva a dvaceti minutách jsem dorazil k BigCity, kde mě stojan obral o deset TWD. Adam s Tamarou byli někde zaseklí v buse, a tak jsem na ně čekal asi 10 minut.<br>
 Když dorazili, vydali jsme se hledat park, kde posedíme a pokecáme. To se ukázalo jako oříšek, Obešli jsme asi 5 bloků a dostali se do parčíku s altánem uprostřed, ale nic tam neměli, takže jsme se jinou, podstatně kratší cestou vrátili k BigCity a tam nakoupili bubbletea pro ně a ovocný čaj pro mě.<br>
 V parčíku jsme seděli asi 2 hodiny a vyměňovali si zážitky a poznatky z cest. Když už se setmělo, zastavili jsme se v obchodním centru na záchod a Adam s Tamčou se vydali hledat něco k jídlu. Já jsem nastoupil na uBike a dal se zhruba směrem k CHU.<br>
 Usmálo se na mě štěstíčko a na zemi jsem našel EasyCard s 76 TWD. Alespoň částečně to tedy refundovalo mou kartu z 台中.<br>
-Večer už jsem toho moc nenadělal a šel spát docela brzy, abych zítra vstal brzy na cestu pro ARC. 
+Večer už jsem toho moc nenadělal a šel spát docela brzy, abych zítra vstal brzy na cestu pro ARC. <br>
 
 ### 13.3. Úterý - ARC a nákupy
 
@@ -282,9 +283,10 @@ Filip pořád neměl matraci, protože v aMartu prý mají lepší. Odebrali js
 Autobusem jsme, tentokrát už s matrací, dojeli zpátky na kolej a já s Filipem jsme si šli zaházet na koš.<br>
 Z toho se vyvinula akce až do večera, protože tak po hodině dohazované, jsme se odebrali na druhé hřiště. Tam jsme hráli další dohazovanou s Danem a poté streetball s Asiaty. To mě nebavilo, a navíc mě začínalo opravdu bolet koleno. Odebral jsem se tedy prát prádlo, protože jsem na sobě měl své poslední nezimní ponožky.<br>
 Večer jsme měli naplánováno vyrazit do baru s holkami, které kluci potkali na basketu. Byla to jedna moc hezká holka a její kamarádka Mko, jak už to tady bývá.<br>
-V baru jsme byli až někdy do čtyř do rána, ale já jsem byl většinu času duchem mimo, protože s Katarinou něco je, ale vypáčit z ní, byť jen trochu detailů se ukázalo jako téměř nadlidský úkol.
+V baru jsme byli až někdy do čtyř do rána, ale já jsem byl většinu času duchem mimo, protože s Katarinou něco je, ale vypáčit z ní, byť jen trochu detailů se ukázalo jako téměř nadlidský úkol.<br>
 
 <a href="../images/2018_march/13_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/13_1.jpg"></a>
+
 
 ### 14.3. Středa - Hudebka a volejbal
 
@@ -302,18 +304,18 @@ I přes to, že Ondra vyrazil na hodinu s plánem naučit se hrát na kytaru, n
 Po konci hodiny jsem s Kenem a jedním dalším klukem přeběhli do piano klubu. Je v budově s badmintonem. Mají tam pianino, v malé místnůstce, které prý má nějaké vady, a tak se skládají na opravy, ale konečně jsem objevil, kde si tu zahrát.<br>
 Na čínštině jsme začali 服飾 z minula. Erik byl stejně komický jako minule. Ale probrali jsme toho fakt hodně. Mrtě podstatných jmen a slovesa jako: mít rád, nemít rád, mít a nemít. Potom jsme si každý zapsal, co máme, co máme rádi a naopak. A pomocí otázek jsme se vyptávali a zapisovali, co mají či nemají ostatní.<br>
 Nakonec jsme ještě měli malý přednes před třídou.<br>
-Pár minut před devátou jsme se společně vydali na volejbal. Sraz jsme měli přímo před kolejí, kde nás vyzvednul klučina z předchozího dne. Nevedl nás do aktivity center, ale ven za budovu F, kde už byla kopa Asiatů připravených hrát. Asi deset minut jsme si hráli volejbal sami a Asiaté si pinkali o stěnu. Nakonec někdo z nich přemohl stud a vysvětlil nám, že prvních 40 minut je trénink a až pak se začíná hrát. Jejich dodržování přesně zajetých pravidel mě nepřestává fascinovat. 
+Pár minut před devátou jsme se společně vydali na volejbal. Sraz jsme měli přímo před kolejí, kde nás vyzvednul klučina z předchozího dne. Nevedl nás do aktivity center, ale ven za budovu F, kde už byla kopa Asiatů připravených hrát. Asi deset minut jsme si hráli volejbal sami a Asiaté si pinkali o stěnu. Nakonec někdo z nich přemohl stud a vysvětlil nám, že prvních 40 minut je trénink a až pak se začíná hrát. Jejich dodržování přesně zajetých pravidel mě nepřestává fascinovat. <br>
 A tak jsme se přidali k tréninku. Smečovali jsme přes síť, pinkali si v kruhu, odráželi přes síť zpátky a podobně.<br>
 V jeden moment jsem dostal míčem do levé ruky takovou petelici, že jsem z tréninku vypadl na asi 15 minut.<br>
 A pak už se hrálo.<br>
-Můj první volejbal, nepočítám-li ta asi 3 setkání na písku s Filipovou bandou.
+Můj první volejbal, nepočítám-li ta asi 3 setkání na písku s Filipovou bandou.<br>
 
 <a href="../images/2018_march/14_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/14_1.jpg"></a>
 
 Hrálo se 6 na 6. Kdo podával, odcházel na lavičku a na jeho místo šel další. První 3 hry jsme prohráli, i když těsně. Poslední jsme vyhráli.<br>
 S holkami od minule jsme se v pauzičkách fotili na „instáček“. Byla to docela sranda.<br>
 Skončili jsme někdy po půl dvanácté. Jeden tým s námi ještě chtěl hrát, ale my už jsme byli docela grogy. Dan dokonce skončil s natáhnutou nožní klenbou.<br>
-Na koleji jsme dali sprchu, pozdní večeři a šli spát. 
+Na koleji jsme dali sprchu, pozdní večeři a šli spát. <br>
 
 ### 15.3. Čtvrtek - Večeře s holkami a kulečník
 
@@ -327,13 +329,14 @@ Přidaly se k nám dvě holky z Mongolska, pokud se nemýlím a jedna byla tak
 Venku pršelo, kvůli čemuž jsme na kolej skoro běželi. Teda Jarda s Filipem ne, protože měli deštník.<br>
 Na LINEu nám holky nabídly, že půjdeme hromadně na večeři. Jasně že jsme šli. Překvapivě jsme šli do stejného podniku, kde už jsme jednou měli 蛋餅 a nepřišel mi nikterak fancy.<br>
 Holky toho objednaly hromadu. Hashbrowny, párky, tofu, 蛋餅 se sýrem, smažené kdovíco, a většinu z toho vícekrát.<br>
-Na co ale Jannice nezapomněla, bylo QQ, nebo jak se to píše. Kuličky se žvýkavou strukturou, která znamená právě to jejich QQ. No… měli jsme z toho zábavu na půl večera.
+Na co ale Jannice nezapomněla, bylo QQ, nebo jak se to píše. Kuličky se žvýkavou strukturou, která znamená právě to jejich QQ. No… měli jsme z toho zábavu na půl večera.<br>
 
 <a href="../images/2018_march/15_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/15_1.jpg"></a>
 
-Druhou půlku večera jsme strávili na kulečníku. Snad ani jedna z nich kulečník nikdy nehrála. Marek se rychle ujal Jannice a zabral pro ně dva stůl. Já jslem by v týmu s YiYu proti Jardovi a Danovi. Poté jsme se nějak náhodně střídali. Mko 大大, nepůsobila, že by chtěla nějak hrát, ale Dan jí vzal do týmu, aby se necítila opuštěná. Byli jsme tam asi do jedné do rána. Ale jak my, tak holky měly druhý den školu, tak jsme ti nijak víc neprotahovali. 
+Druhou půlku večera jsme strávili na kulečníku. Snad ani jedna z nich kulečník nikdy nehrála. Marek se rychle ujal Jannice a zabral pro ně dva stůl. Já jslem by v týmu s YiYu proti Jardovi a Danovi. Poté jsme se nějak náhodně střídali. Mko 大大, nepůsobila, že by chtěla nějak hrát, ale Dan jí vzal do týmu, aby se necítila opuštěná. Byli jsme tam asi do jedné do rána. Ale jak my, tak holky měly druhý den školu, tak jsme ti nijak víc neprotahovali. <br>
 
 <a href="../images/2018_march/15_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/15_2.jpg"></a>
+
 
 ### 16.3. Pátek - První Tour Guiding
 
@@ -341,11 +344,11 @@ Protože jsme minule dostali za úkol přečíst si do následující hodiny dva
 I přes naše téměř pětiminutové zpoždění jsme byli ve třídě jedni z prvních. Zanedlouho dorazil Jeff a vysvětlil nám, že pokud venku pršelo, je pravděpodobnost vysoké účast prachbídná.<br>
 Ale třída se pomalu začala plnit, a tak jsme si v první půlhodině odbyli pravidelné new&interesting a pak se vrhli na otázky ke článkům, které bacha… nikdo nečetl. A tak Jeff zavelel, aby si všichni článek dočetli ze smartphonů. Trochu jsem se u toho nudil a začal vypínat, což se neslo celým zbytkem dne. Pět hodin spánku mi prostě nestačí.<br>
 Po angličtině jsme měli mezeru a vyrazili s Kalim a Danem do raníkárny na brunch. Snažil jsem se vybrat něco bez vraždy a vydařilo se. Vybral jsem si sendvič s volským okem a hashbrownem. Ostatní měli burgery a sendviče s masem.<br>
-Po jídle jsme šli všichni na chromatologii. Tentokrát vybaveni skicáky, paletami a temperami jsme se cítili podstatně připravenější.
+Po jídle jsme šli všichni na chromatologii. Tentokrát vybaveni skicáky, paletami a temperami jsme se cítili podstatně připravenější.<br>
 
 <a href="../images/2018_march/16_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/16_1.jpg"></a>
 
-Malovali jsme diagram skládání barev, sytost a rozpad barvy. Do příště si musím sehnat tenčí štětec. Ale byl jsem pochválen.
+Malovali jsme diagram skládání barev, sytost a rozpad barvy. Do příště si musím sehnat tenčí štětec. Ale byl jsem pochválen.<br>
 
 <a href="../images/2018_march/16_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/16_2.jpg"></a>
 
@@ -355,13 +358,13 @@ Po návratu na kolej nám došlo, že jsme neměli plnohodnotný oběd, ale jen 
 Zvědav na vegetariánskou restauraci, o které mluvila roztomilá ukecaná Taiwanka ráno na angličtině, jsme z koleje vyšli zadem. Byla ale napálená a kluci si stejně brousili zuby na maso, a tak jsme bloudili dál. Dobloudili jsme až dolů k cápkovi, kterému jsme slíbili už před pár dny, že se u něj zítra zastavíme. Ale i on měl draze a výběr žádná sláva. Nakonec jsme se zastavili ve slevněnce a nakoupili sušenky.<br>
 Odtud jsme se dostali do franšízové restaurace, kterou jsem až doposud míjel, protože mi přišla komerční.<br>
 Byla to chyba. Nudle se sójovou omáčkou a nakrájenou cibulkou byly parádní. S přidáním trochu chuti ve mně zmizeli jak po másle. A dobře najezený jsem na koleji zalomil ani nevím jak.<br>
-Ostatní šli krát karty do krčku, kde se k nim připojila Jannice a Dada. 
+Ostatní šli krát karty do krčku, kde se k nim připojila Jannice a Dada. <br>
 Po asi třech hodinách jsem se vzbudil a šel se na ně podívat, ale nějak jsem se nemohl naladit na jejich, kuchyňským vínem navozenou, náladu. Jarda učil Jannice sprosťárny a ta ho naučila že zao ve čtvrtém tónu znamená mrdat, což je docela nešťastné, při představě že v jiném tónu je to dobré ráno.<br>
-Po jedné partičce karet a chvilce sledování Asiatů hrajících Beer pong bez piva jsme se odebrali spát.
+Po jedné partičce karet a chvilce sledování Asiatů hrajících Beer pong bez piva jsme se odebrali spát.<br>
 
 <a href="../images/2018_march/16_3.jpg" target="_blank"><img src="../images/thumbnails/2018_march/16_3.jpg"></a>
 
-Ale po šlofíku se mi nedařilo usnout, a tak jsem ještě asi hodinu poslouchal muziku, než se mi podařilo zabrat. 
+Ale po šlofíku se mi nedařilo usnout, a tak jsem ještě asi hodinu poslouchal muziku, než se mi podařilo zabrat. <br>
 
 ### 17.3. Sobota - Výročí školy
 
@@ -374,30 +377,30 @@ Dal jsem se tedy do dopisování deníku, u čehož jsem ale nevydržel dlouho a
 Výsledek sice nebyl ťip ťop, ale byl tak o 1000 % lepší než původní stav.<br>
 Mezitím se Jarda s Markem probrali. Možná protože jsem u úklidu dělal docela bordel, ale koneckonců bylo 11 a čistá okna prospějí i jim.<br>
 Jannice napsala do skupiny, že se za ní máme přijít ke školní bráně, kde probíhaly oslavy výročí školy. A tak jsme se Já s Filipem a Jardou vydali ven.<br>
-U brány na pódiu se konalo nějaké předávání následované představením akrobatů, kteří si házeli holkami několik metrů do vzduchu. Nebýt té absolutně příšerné hudby a zmatečné choreografie, byla by to parádní podívaná. Jannice sbírala podpisy studentů, dle jejích slov „aby jí učitelka měla ráda“. A tak jsme se jí tam podepsali jak čínsky, tak česky.
+U brány na pódiu se konalo nějaké předávání následované představením akrobatů, kteří si házeli holkami několik metrů do vzduchu. Nebýt té absolutně příšerné hudby a zmatečné choreografie, byla by to parádní podívaná. Jannice sbírala podpisy studentů, dle jejích slov „aby jí učitelka měla ráda“. A tak jsme se jí tam podepsali jak čínsky, tak česky.<br>
 
 <a href="../images/2018_march/17_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/17_1.jpg"></a>
 
-Pak jsme procházeli stánky s jídlem a věcmi. U stánku prevence pohlavních chorob měli až nepříjemně přesně vytvarované modely penisů, s nimiž se poté chtěli fotit. Asie..
+Pak jsme procházeli stánky s jídlem a věcmi. U stánku prevence pohlavních chorob měli až nepříjemně přesně vytvarované modely penisů, s nimiž se poté chtěli fotit. Asie..<br>
 
 <a href="../images/2018_march/17_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/17_2.jpg"></a>
 
 Mezitím se zjevil marek se zbrusu novým hipsterským baťůžkem a poslal nás před FEL, si ho vzít taky. Cestou jsem si ještě koupil točenou zmrzlinu za 35.<br>
-Marek s Thomasem a Ondrou si koupili nudlovou polévku s vnitřnostmi, ale Marek jí nejedl. Nabízel jí snad všem, ale fakt nebyla dobrá. Přišlo mi, že možnosti festivalu jsem již vyčerpal, a tak jsem se vrátil na kolej, kam přišel i Marek s plyšákem, kterého údajně vyhrál v bouchání kladívkem do stěny s body, ale nakonec z něj vypadlo, že za jedno bouchnutí dal dvacku a dohromady ho teda plyšák vyšel na 400.
+Marek s Thomasem a Ondrou si koupili nudlovou polévku s vnitřnostmi, ale Marek jí nejedl. Nabízel jí snad všem, ale fakt nebyla dobrá. Přišlo mi, že možnosti festivalu jsem již vyčerpal, a tak jsem se vrátil na kolej, kam přišel i Marek s plyšákem, kterého údajně vyhrál v bouchání kladívkem do stěny s body, ale nakonec z něj vypadlo, že za jedno bouchnutí dal dvacku a dohromady ho teda plyšák vyšel na 400.<br>
 
 <a href="../images/2018_march/17_3.jpg" target="_blank"><img src="../images/thumbnails/2018_march/17_3.jpg"></a>
 
 Neměl jsem co dělat, a proto jsem si šel házet na koš. Filip s Kalim se ke mně přidali s míčem, jenž už se nám několik dní povaloval přede dveřmi a nikdo o něj nejevil zájem.<br>
 Házeli jsme si asi hodinu. Přidal se i Dan, ale nebyl tam tak dlouho, bolela ho noha a potom jel do města. Já jsem se rozhodl trénovat sám házení na koš.<br>
 Když už jsme se vybili, šli jsme po sprše na večeři do místa, kde jsme ještě nebyli. Vše za 65, vše s masem. Dal jsem si vepřové na pepři s rýží.<br>
-Po zbytek večera jsme už toho moc konstruktivního nenadělali. Jarda si prohlížel fotky, a protože jsem se nudil, díval jsem se s ním a pak hrál na kytaru. 
+Po zbytek večera jsme už toho moc konstruktivního nenadělali. Jarda si prohlížel fotky, a protože jsem se nudil, díval jsem se s ním a pak hrál na kytaru. <br>
 
 ### 18.3. Neděle - Úklid
 
 Vstal jsem až po deváté. Jednou za čas jsem tedy dospal plných osm hodin, a potom jsem se vrhnul na dopisování deníku. Jde to pomalu, obzvlášť když píšu roztržitě. A tak jsem dopoledne střídavě psal, snídal vločky s pomerančem a pročítal internety.<br>
 Na docela brzký oběd jsme vyrazili s Thomasem a s Ondrou, který se pomalu ale jistě připravoval na filmové rande s Filipínkou z Tinderu.<br>
 Oběd jsme dali blízko zadní brány. Ptal jsem se Thomase, která jídla neobsahují maso. Vyhýbavě mi odpověděl, že možná jedno. Byla to polévka s nudlemi. Ostatní dostali 炒飯.<br>
-Oběd s Thomasem
+Oběd s Thomasem<br>
 
 <a href="../images/2018_march/18_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/18_1.jpg"></a>
 
@@ -408,14 +411,13 @@ Filip se vrátil<br>
 Vyrazili jsme tedy do všeMartu. Jenže špatným směrem, a to k bráně. Co už, kroky chyběly, a tak jsme se vydali na procházku. Cestou dolu k Filipíncům, pak po schodech do propasti, po dalších schodech zpátky, a pak pod dálnicí a zpátky do kopce.<br>
 Ve všeMartu jsem nakoupil lepší bujón, toustový chleba a ve FamilyMartu dressing na už skomírající salát z úterka.<br>
 V krčku jsme potkali Marka, zrovna šel na večeři. Tak jsme tam s ním poseděli, protože venku na nás šli komáři. A když jsme se dostali zpátky na pokoj, uvařil jsem nudle s bujonem a koukal na Legends of Tomorow.<br>
-Po zbytek večera jsem uklízel dvaceti osmi letý bordel po debilních Asiatech.
-
+Po zbytek večera jsem uklízel dvaceti osmi letý bordel po debilních Asiatech.<br>
 
 ### 19.3. Pondělí - Soutěž o nejčistější pokoj
 
 Dneska jsem se rozhodl zbořit systém Vločky-Rýže-Nudle hned z rána a k snídani jsem asi dal kávu a Taiwanskou placku.<br>
 Po letmém surfování na internetu jsem se vydal házet si na koš. Bylo horko, fakt horko. Chvíli jsem při házení chytal bronz bez trička. Filip si házel taky, vůbec nechápu, kde ze sebe vytáhl tolik energie. Já jsem málem umřel. Chápu, že místní hrají až po setmění.<br>
-Od asi jedenácti až do dvou jsme uklízeli. Thomas stál v pokoji a buzeroval. Měl jsem mu chuť vypíchnout oko. A nebyl jsem jediný. Jeho hláška že prázdné police jsou lepší než police, na kterých je něco úhledně uspořádané, nepřesahující byla asi poslední kapka. Měl jsem uklizeno milionkrát, než on tak ať jde do prdele.
+Od asi jedenácti až do dvou jsme uklízeli. Thomas stál v pokoji a buzeroval. Měl jsem mu chuť vypíchnout oko. A nebyl jsem jediný. Jeho hláška že prázdné police jsou lepší než police, na kterých je něco úhledně uspořádané, nepřesahující byla asi poslední kapka. Měl jsem uklizeno milionkrát, než on tak ať jde do prdele.<br>
 
 <a href="../images/2018_march/19_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/19_1.jpg"></a>
 
@@ -429,12 +431,12 @@ Po chvíli sezení a sledování seriálu mi už kolej lezla tak na nervy, že j
 Zjistil jsem, že badmintonové kurty jsou zadarmo a došel za ostatníma na večeři, ale už měli dojedeno a já stejně šetřil.<br>
 A tak jsem si dal nudle až na pokoji.<br>
 Kalimu se narodil synovec, což byl ideální důvod pro to jít pít do baru, ale já se na alkohol necítil. Pil jsem tedy jen čaj.<br>
-Hráli jsme Whista. Marek se opil a choval se tak nepříjemně, že jsem to tam zabalil a šel spát. Před spaním jsem si psal s Lin, asi bych za ní měl zajet. 
+Hráli jsme Whista. Marek se opil a choval se tak nepříjemně, že jsem to tam zabalil a šel spát. Před spaním jsem si psal s Lin, asi bych za ní měl zajet. <br>
 
 ### 20.3. Úterý - Na dopravní inspektorát 
 
 Pršelo. A ne málo. Vlastně tolik, že ani nebylo jasné, jakým směrem prší. Ostatní, kromě Ondry to příliš nevzrušovalo, neb vyspávali včerejší pití, ale já jsem to pozoroval, s miskou ovesné kaše, ve čtvrtém patře.<br>
-Došly mi ponožky, a tak jsem si od Filipa půjčil desetidolar a šel prát. Dokonce jsem je stihl dát po doprání do odstředivky a pověsit na šprušle žebříku na pokoji, než ostatní vstali. 
+Došly mi ponožky, a tak jsem si od Filipa půjčil desetidolar a šel prát. Dokonce jsem je stihl dát po doprání do odstředivky a pověsit na šprušle žebříku na pokoji, než ostatní vstali. <br>
 Měl jsem chuť na čočku na kyselo. Což tady nejde tak úplně zahnat a tak jsem si dal svůj poslední pomeranč.<br>
 Plán zněl: Na konci dne mít řidičák na skútr. A tak jsme se, s přestávkou na brunch, neb kluci ještě nejedli, vydali na autobus do 新竹. Asi nám ujel, protože na nádraží jsme byli snad půl hodiny, a když autobus startoval, hodiny odbyly dvanáctou už deset minut zpátky.<br>
 Kvůli dešti autobus taky zrovna nepospíchal, za což jsem byl vděčný, protože za sucha řeže zatáčky takovým způsobem, že snídaně má tendenci utéct z žaludku.<br>
@@ -448,11 +450,11 @@ Váha, tlak, oční zkouška, prohlídka doktorem. Vším jsme prošli za doprov
 S velkým, ale opravdu velkým, červeným razítkem na zdravotním formuláři jsme o hodinu a kousek dorazili zpět na dopravní inspektorát. Kde nás čekaly tři úkony. Testy, Jízdy a Instruktážní hodinu.<br>
 Z časových důvodů jsme šli na instruktáž. Jasně že byla čínsky. Jak přednáška, tak videa.<br>
 Takže 90 minut proletělo komínem a na zbytek už nebyl čas. Alespoň že ta nemocnice byla rychlá.<br>
-A tak jsme, protože jsme byli ve městě, navštívili místní vývařovnu. Dali si rýži s bambusem a něčím, co chutnalo jako májka, ale bylo to moc dobré. Poté došli do RTmartu, kde jsme se tradičně zdrželi o více než hodinu. Z RTmartu došli do bazaru, kde jsme, po poradě s místním skrze Google překladač, zakoupili rýžovar za 300 a v aMartu dokoupili 3 kg rýže za 150. Čím víc nakoupíš, tím víc ušetříš ne?
+A tak jsme, protože jsme byli ve městě, navštívili místní vývařovnu. Dali si rýži s bambusem a něčím, co chutnalo jako májka, ale bylo to moc dobré. Poté došli do RTmartu, kde jsme se tradičně zdrželi o více než hodinu. Z RTmartu došli do bazaru, kde jsme, po poradě s místním skrze Google překladač, zakoupili rýžovar za 300 a v aMartu dokoupili 3 kg rýže za 150. Čím víc nakoupíš, tím víc ušetříš ne?<br>
 A po osmé večer jsme se konečně posadili do autobusu zpátky na univerzitu.<br>
 Zase stál 15 i přes to, že jsem platil Tisícem.<br>
 Na koleji jsme se vrhli do vaření rýže, ale snad hodinu a půl to vypadalo bledě, rýžovar byl asi rozbitý. Nevydržel jsem to a dal jsem si nudle. Ale někdy po jedenácté Jarda objevil, že v rýže je teplá měkká a hotová.<br>
-Snědl jsem ji s bujónem, který zbyl z nudlí. Byla to parádní změna a s plným břichem se usínalo dobře. 
+Snědl jsem ji s bujónem, který zbyl z nudlí. Byla to parádní změna a s plným břichem se usínalo dobře. <br>
 
 ### 21.3. Středa - Výroba flétny
 
@@ -462,44 +464,44 @@ Snažil jsem se dát si co nejvíce zeleniny, abych doplnil vitamíny, které by
 To způsobilo patnácti minutové zpoždění v mém příchodu na přednášku, která stejně ale ještě ani nezačala, neboť promítací technika stagnovala, nebo se jí profesor ještě nenaučil ovládat.<br>
 Nevím, jestli si náš nevšiml, nebo na to jen sral, ale anglicky neprohodil snad ani slovo. Takže jsme tam byli úplně zbytečně. Nicméně na konci dělal prezenci a podivil se tomu, že máme čínská jména.<br>
 Introduction to World Music už byla podstatně lepší hodina. Paní učitelka nedorazila, ale s čínochem jsme se pustili do vyrábění flétny. V průběhu výroby jsme si dělali srandu a vydávali z nedodělků všelijaké pazvuky. Cápek z toho neměl moc radost, ale nijak nezakročil.<br>
-Po dolepení flétny lepidlem, začištění dírek a umytí a odrhnutí celé flétny vyzkoušel naše výrobky.
+Po dolepení flétny lepidlem, začištění dírek a umytí a odrhnutí celé flétny vyzkoušel naše výrobky.<br>
 
 <a href="../images/2018_march/21_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/21_1.jpg"></a>
 
-Ondrova se mu líbila a zahrál na ní Jethro hadr. Moje se mu líbila dokonce ještě víc, což nic neměnilo na tom, že sám jsem z ní zrovna moc zvuků nevyloudil. Což se trochu zlepšilo v následující hodině na koleji, kde jsme zvukem našich fléten viditelně, a hlavně slyšitelně srali Filipa. 
+Ondrova se mu líbila a zahrál na ní Jethro hadr. Moje se mu líbila dokonce ještě víc, což nic neměnilo na tom, že sám jsem z ní zrovna moc zvuků nevyloudil. Což se trochu zlepšilo v následující hodině na koleji, kde jsme zvukem našich fléten viditelně, a hlavně slyšitelně srali Filipa. <br>
 Co už. Měl si ji udělat taky.<br>
-Na flétnu ale nešlo hrát do nekonečna, protože se blížila čínština. Tam jsem sice seděl a čas od času na něco Erikovi odpovídal, ale moc mi to nedalo. 
-V devět hodin večer se kluci, kromě Ondry odebrali na volejbal, ale já se cítil grogy, a tak jsem zůstal v posteli a šel spát snad před jedenáctou. 
+Na flétnu ale nešlo hrát do nekonečna, protože se blížila čínština. Tam jsem sice seděl a čas od času na něco Erikovi odpovídal, ale moc mi to nedalo. <br>
+V devět hodin večer se kluci, kromě Ondry odebrali na volejbal, ale já se cítil grogy, a tak jsem zůstal v posteli a šel spát snad před jedenáctou. <br>
 
 ### 22.3. Čtvrtek - Odpočinek a test z Čínštiny
 
 Přispal jsem si. Až asi do devíti, a pak jsem nějak neměl energii na něco kloudného. A tak jsem si pročítal, proč by mě mohl bolet zub či dáseň. Dospěl jsem názoru, že mi chybí vitamín C, vápník, mám špatnou pastu na zuby a kartáček používám špatně.<br>
-A tak jsem vyrazil do všeStoru nakoupit. Koupil jsem mléko a paradontax. Uvidíme, zda se něco zlepší. Mléko jsem vypil cestou a na koleji jsem pastu hned vyzkoušel. Zuby po ní nebolely víc, takže fajn. 
+A tak jsem vyrazil do všeStoru nakoupit. Koupil jsem mléko a paradontax. Uvidíme, zda se něco zlepší. Mléko jsem vypil cestou a na koleji jsem pastu hned vyzkoušel. Zuby po ní nebolely víc, takže fajn. <br>
 Venku bylo hezky, a tak jsem se přemluvil k tomu jít si zaběhat na ovál. Propočítal jsem, že na tempo 4:50, musím ovál oběhnout za 2:10.<br>
 Idea dobrá, ale nemám vteřinovou ručičku. Venku Filip házel na koš. Ani on neměl vteřinovou ručičku. Vlastně vůbec neměl hodinky. Co už. Tak jsem se vydal běhat tempem, které zřejmě bylo ještě vražednější.<br>
 Už kolem pátého kola mi bylo jasné, že 22,1 okruhů prostě nedám. Ale nechtělo se mi to vzdát, takže jsem doběhl kilometrů pět.<br>
 Bylo téměř 12:30, tedy čas, který Thomas označil jako čas předávání výhry.<br>
-To proběhlo přímo přede dveřmi naší koleje. Samozřejmě jsme se fotili, několikrát. Ale utržili jsme 4000 TWD za úklid, a to dělá osm stovek na hlavu, což nenajdeš na zemi.
+To proběhlo přímo přede dveřmi naší koleje. Samozřejmě jsme se fotili, několikrát. Ale utržili jsme 4000 TWD za úklid, a to dělá osm stovek na hlavu, což nenajdeš na zemi.<br>
 
 <a href="../images/2018_march/22_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/22_1.jpg"></a>
 
 Obědvali jsme všichni v menze. Vlastně kromě Marka. Snažil jsem se vybrat zeleninu, která by mi pomohla s vitamínem C. Seděli jsme tam snad hodinu, bavili se o seriálu Vikingové, což se zákonitě stočilo k holkám, a nakonec s výrazům o mrdání v čínštině.<br>
 Měl jsem chuť se připravit na zítřejší Tour Guiding a najít si v knihovně knížku, ze které připravíme povídání o Západním pobřeží, ale po půlhodinovém hledání v místním neuspořádaném knihovním systému, nám kluk zjistil, že knížku si mezitím někdo půjčil. 不好。V Cave Books jí taky neměli, museli bychom si jí objednat a zaplatit předem. To mě od učení odradilo, a tak jsem se odebral k jezeru, kde jsem dopisoval deník a psal si s Katarinou, která zrovna vstávala.<br>
-Na čínštině jsme měli test. Teda spíš bojovku. Po třídě byla čtyři stanoviště. U prvního se hledal PinYin, který odpovídal zadaným slovům. U druhého se hledaly znaky k dokončení fráze. Třetí byly otázky a k nim jsme měli nalézt odpověď a poslední byl rozhovor s Erikem. 
+Na čínštině jsme měli test. Teda spíš bojovku. Po třídě byla čtyři stanoviště. U prvního se hledal PinYin, který odpovídal zadaným slovům. U druhého se hledaly znaky k dokončení fráze. Třetí byly otázky a k nim jsme měli nalézt odpověď a poslední byl rozhovor s Erikem. <br>
 
 ### 23.3. Pátek - Markovy kamarádky
 
-Na ranní konverzaci se každý týden potvrzuje, že dochvilnost není u Taiwanců zvykem. Pravidelně jsme tam jedni z prvních. Ale k nám do skupiny se většinou připojují dvě holčiny, jejichž jména už pravděpodobně padla, ale ne do mojí paměti. Pomalu ale jistě začíná být blbé se jich na ně ptát, když spolu konverzujeme několikátý týden. Nicméně po celou dobu hodiny jmen potřeba nebylo, ostatně já jsem docela zvyklý oslovovat lidi beze jmen. Mám rád tu špetku chaosu, kterou to vyvolává. 
+Na ranní konverzaci se každý týden potvrzuje, že dochvilnost není u Taiwanců zvykem. Pravidelně jsme tam jedni z prvních. Ale k nám do skupiny se většinou připojují dvě holčiny, jejichž jména už pravděpodobně padla, ale ne do mojí paměti. Pomalu ale jistě začíná být blbé se jich na ně ptát, když spolu konverzujeme několikátý týden. Nicméně po celou dobu hodiny jmen potřeba nebylo, ostatně já jsem docela zvyklý oslovovat lidi beze jmen. Mám rád tu špetku chaosu, kterou to vyvolává. <br>
 Na Tour Guiding jsme měli mít připravené povídání o východním pobřeží. Sedli jsme před obědem před počítače a projeli přednášky a wikipedii. Vypsali výpisky a připravili se na pár otázek. Nic důkladného, ale lepší něco než nic.<br>
 Na chromatologii jsme malovali barevný diagram. V podstatě to udělátko z photoshopu, ale na papíru. Do budoucna se bude hodit k hledání opačných barev. Na mém diagramu se ze záhadných důvodů nezjevila fialová, ale hnusně hnědá. Což je zřejmě barva, ke které konverguje jakékoliv míchání více barev.<br>
 Tour Guiding dopadl přesně jak podle Murphyho zákonů, protože jsme dopoledne nezanedbali přípravu. Byla naprosto zbytečná. Hodina probíhala asi tak, že jsme se rozdělili do skupin a mluvili o náhodných věcech. Skupina, kde jsem byl já, moc upovídaná nebyla. Kromě 念慈. S tou se povídat dalo, takže jsme se tak nějak vyčlenili ze skupiny a povídali si spolu.<br>
 Když jsme se dostali zpátky na kolej. Ondra zrovna přidával fotky do sdíleného alba. To byla akce. Nahrával je po jedné a všem vyskakovala upozornění co každých pár vteřin jedno. Nakonec se mu podařilo jich přidat jedenáct najednou. Ač je Google mistrem technologií, občas dospěje k zajímavému chování. Fotky ale stály za vidění a těším se, až se Ondra rozhodne zaslat další dávku.<br>
 Marka prý zastavila nějaká učitelka, že by se její studentky chtěli více rozmluvit anglicky, a tak si chtějí popovídat s námi, zahraničními studenty. Domluvili jsme tedy společnou večeři v podniku dle jejich výběru, po osmé večer. Sraz u brány.<br>
-Po osmé tady znamená tak v půl deváté a v tolik se od brány dohromady vydali na hlavní ulici. Tím dohromady myslím mě, Filipa, Jardu, Marka, Thomase, Jannie, Emily a Sunny. Plán byl jít do jídelny zvané: „Cats love fish“. Kamarádky byly tři. 
+Po osmé tady znamená tak v půl deváté a v tolik se od brány dohromady vydali na hlavní ulici. Tím dohromady myslím mě, Filipa, Jardu, Marka, Thomase, Jannie, Emily a Sunny. Plán byl jít do jídelny zvané: „Cats love fish“. Kamarádky byly tři. <br>
 Emily mi hrozně připomínala ZhuLi. Byla i stejně plachá. Což teda bylo trochu na potvoru, protože povídat si s ní moc nešlo. A když se trochu oklepala, Marek do ní začal hustit nějaký svůj monotónní proslov. Zrovna jako do Jannie, která byla z nich tří asi nejméně bojácná a taky bez váhání nejpohlednější. Nechápu, jak to ten kluk zvládne. Nicméně právě tohle chování byl jeden z důvodů proč s námi Janice a YiYu už nemluví. A tak jsem doufal, že tentokrát to nepodělá. Naštěstí se rozmluvila Sunny. Mko této trojice. Ráda prý vaří a dle její postavy ráda to taky sní. Ale byla usměvavá a nebála se mluvit. Prý pochází z Taitungu a kdybychom měli čas, zrovna když tam bude, máme se zastavit, upeče nám prý vepřové koleno.<br>
 Na kolena zrovna nejsem, což jsem předtím vysvětlil Jannie a ona mi domluvila, že dostanu jídlo bez masa.<br>
 Dokonce jsme na konci dostali dezert, něco mezi pudingem a stracciatellou. Po jídle jsme se pomalu vydali zpátky na kolej. Cestou jsem se bavil s Jannie, která prý ráda hraje badminton, což mě zaujalo a dohodli jsme se, že si někdy půjdeme zahrát.<br>
-Před kolejemi jsme se rozloučili, a mě nezbylo než doufat, že je Marek nějak nepobouřil, neboť byl jediný, kdo na ně má kontakt. 
+Před kolejemi jsme se rozloučili, a mě nezbylo než doufat, že je Marek nějak nepobouřil, neboť byl jediný, kdo na ně má kontakt. <br>
 
 ### 24.3. Sobota - Wave club
 
@@ -510,14 +512,14 @@ Vyhodil nás kousek od 台北 101, kam ho dovedly Google mapy. Jejich používá
 Pár bloků pěšky, kolem parku, kde jogíni předváděli své pozice.<br>
 Filip se odebral do Apple Store se svým notebookem a já s Jardou jsme se vydali hledat něco k snědku. Po krátkém bloudění jsme nalezli nárožní prodejnu nudlí a seafoodu. Překladač ve změti znaků nalezl nudle a různá příslovce Objednal jsem si pšeničné nudle v polévce, jelikož jsem si vzpomněl, že Filip v 台中 měl nudle sklovité, které se slepily v jednolitou masu.<br>
 Jarda tomu moc nevěřil a jeho oliheň se ve sklovitých rýžových nudlích pomalu ale jistě ztrácela.<br>
-Po jídle jsme našli uBike Stanici a čekali na Filipa, ale jeho machinace s rozbitým macBookem se zdály nekonečné, a tak jsme vyrazili bez něj. Jarda točil z kola videa a já si užíval samotnou jízdu. Kolo mi tu chybí, a i když uBike je pouze náhražka, přinášelo mi příjemné pocity, zase šlapat do pedálů.
+Po jídle jsme našli uBike Stanici a čekali na Filipa, ale jeho machinace s rozbitým macBookem se zdály nekonečné, a tak jsme vyrazili bez něj. Jarda točil z kola videa a já si užíval samotnou jízdu. Kolo mi tu chybí, a i když uBike je pouze náhražka, přinášelo mi příjemné pocity, zase šlapat do pedálů.<br>
 
 <a href="../images/2018_march/24_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/24_1.jpg"></a>
 
 Stojany byly přímo pod sloní horou. Při parkování jsme potkali dva Čechy, kteří se nijak zvlášť nechtěli bavit, ale nemám jim to za zlé.<br>
 Skrze nemocnici, která stála před námi, jsme se odebrali na výstup na horu. Cesta vedla po schodech, a čím výš jsme byli, tím víc turistů jsme potkávali.<br>
 Těsně pod vrcholem, už byly fronty na vyhlídky z velkých kamenů. Nešel jsem tam a radši jsem se vyšplhal až na vrchol, kde povětšinou výhledu stejně překážely větve stromů. Ale dala se tam najít hezká místa.<br>
-To nejhezčí bylo plně obsazené fotoaparáty na stativech, a jejich obsluhovači. Výhled měli na město, jemuž dominovala 台北 101 se sluncem zapadající po její levé straně.
+To nejhezčí bylo plně obsazené fotoaparáty na stativech, a jejich obsluhovači. Výhled měli na město, jemuž dominovala 台北 101 se sluncem zapadající po její levé straně.<br>
 
 <a href="../images/2018_march/24_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/24_2.jpg"></a>
 
@@ -526,11 +528,11 @@ Slunko zapadlo, to je sice pravda. Ale nezapadlo za horizont, ale do smogu měst
 Po několika fotkách, spravených párem z Německa, jsme se vydali dolů na MRT k Terce na kolej, kde jsme si nechali věci, převlékli se do dlouhých kalhot, které byly podmínkou pro vstup do klubu a kousek od koleje jsme se najedli studených nudlí s arašídovou omáčkou, okurkou a česnekem. Neskutečně dobrá kombinace.<br>
 Terka s námi nejela, i přes to, že holky mají vstup i pití zadarmo.<br>
 Klub byl pár metru od 101, takže jsme jeli stejnou cestou MRT zpátky. Před klubem ještě nebyla fronta, jelikož Kali nám předal milné informace a klub otevíral až o hodinu později.<br>
-…
+…<br>
 
 ### 25.3. Neděle - Na uBike po 台北, několikrát
 
-Vzpomínky se začínají mlžit. Vybavuju si, že jsme potkali Poláka a Novozélanďana. Dvě holky, Asiatky, jednu černovlasou, jednu hnědovlasou. Hnědovlasá byla hodně lísavá.
+Vzpomínky se začínají mlžit. Vybavuju si, že jsme potkali Poláka a Novozélanďana. Dvě holky, Asiatky, jednu černovlasou, jednu hnědovlasou. Hnědovlasá byla hodně lísavá.<br>
 
 <a href="../images/2018_march/24_3.jpg" target="_blank"><img src="../images/thumbnails/2018_march/24_3.jpg"></a>
 
@@ -540,16 +542,16 @@ I přes to, že s brunetkou se bavil Jarda, najednou visela na Filipovi a jeho 
 Ve čtyři zavřel bar a společnost se začala rozpouštět a přesunovat dolu ven. Tam jsme se snad půl hodiny hledali, scházeli a rozcházeli. Kali, evidentně nejvylitější z nás, chtěl jít do garáží s nějakými holkami, což mu Dan vymluvil, protože to byly kurvy.<br>
 Nakonec jsme se nějak seskupili a vyrazili na studené nudle. Filip s brunetkou vedl procesí. Zbytek, nějak klopýtal v polo nerozhodnutém rozpoložení za nimi.<br>
 Moc se mi s nimi nechtělo. Ať si Filip dělá, s kým chce, co chce, ale nepotřebuju to mít na očích. A tak jsme se u stanice uBiku rozdělili.<br>
-Na uBike jsme dojeli až na NTUT. Šílená jízda to byla. Vlastně mě téměř fascinuje, že nikdo neboural, kromě mne, ale má bouračka byla trochu komická, neb jsem najel na obrubník v sotva jednokilometrové 
+Na uBike jsme dojeli až na NTUT. Šílená jízda to byla. Vlastně mě téměř fascinuje, že nikdo neboural, kromě mne, ale má bouračka byla trochu komická, neb jsem najel na obrubník v sotva jednokilometrové <br>
 rychlosti, s hlavou otočenou vzad a skácel jsem se na zem.<br>
-Po vrácení uBike nás hlad dostal skrze podzemní garáž až před Tycos Noodles. Bylo za osm šest, a protože Dan naléhal, že za chvíli otevřou (protože je to prý snídárna), čekali jsme v sedě na obrubníku.
+Po vrácení uBike nás hlad dostal skrze podzemní garáž až před Tycos Noodles. Bylo za osm šest, a protože Dan naléhal, že za chvíli otevřou (protože je to prý snídárna), čekali jsme v sedě na obrubníku.<br>
 
 <a href="../images/2018_march/25_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/25_1.jpg"></a>
 
 Neotevřeli. A tak jsem bos s Kalim nakoupil něco v 7-11 (kde Kali rasisticky hlásil něco na dva Afričany. Doslova prý řekl uklízeči, že podlahu nikdy nevyčistí, dokud tam bude ta černá špína.) a to jsme, za Zdenčina videotelefonátu, snědli.<br>
 Nakonec jsme se odebrali zpátky na kolej NTUT, kde nám rozespalá Terka otevřela a my se co nejtišeji, neboť na pokoji s ní spala Dánka, uložili ke spánku.<br>
 Spal jsem na mexické dečce, protože měli jen 3 matrace. Někdy v poledne, mě Dánka vzbudila tím, že na mě převrhla svůj baťoh. Mimochodem mě překračovala v sukni a takové probuzení je tady vskutku netradiční. Když odešla, rychle jsem zase zalomil, a nakonec jsme vstávali až někdy kolem čtvrté.<br>
-Tentokrát už jsme se na Tycos Noodles dostali. I když už zavírali. Dali je nám To Go a ve stejném parčíku jako předešlého dne jsme je pojedli.
+Tentokrát už jsme se na Tycos Noodles dostali. I když už zavírali. Dali je nám To Go a ve stejném parčíku jako předešlého dne jsme je pojedli.<br>
 
 <a href="../images/2018_march/25_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/25_2.jpg"></a>
 
@@ -559,7 +561,7 @@ Hodili nás do 新竹, přímo na nádraží, odkud jsem autobusem jel k Univer
 Na koleji jsme se setkali všichni v téměř stejnou dobu a vrazili na smaženky ze stánku a pivko.<br>
 Cápci tam smažili všechno, co jim přišlo pod ruku, ale musím říct, že houba a brokolice byly snad nejlepší, z toho, co tam měli.<br>
 Všechno nám to dali zadarmo. Příště jim musíme něco přinést.<br>
-Ještě jsme se zastavili ve slevněnce a u automatu s bluetooth repráčky. Kluci mě na jednu hru překecali, ale bylo to jasně vyhozených 10 dolarů. 
+Ještě jsme se zastavili ve slevněnce a u automatu s bluetooth repráčky. Kluci mě na jednu hru překecali, ale bylo to jasně vyhozených 10 dolarů. <br>
 
 ### 26.3. Pondělí - Oběd s panem Wolfem
 
@@ -567,15 +569,15 @@ S Filipem jsme v menze nakoupili oběd do krabičky a vyrazili na FEL za panem
 Pan Wolf nám v podstatě vnutil peníze za jídlo a dal nám prázdné formuláře o dosavadním životě na zdejší univerzitě.<br>
 Nad krabičkou rýže se zeleninou jsem vyplňoval údaje a bavil se s kluky o tom, kolik hodin obětujeme studiu, spánku a podobně.<br>
 Po chvíli se k nám pan Wolf připojil a vyptával se nás na naše životní úspěchy. Protože jsem uvedl cestu na Kubu, téma se točilo kolem ní.<br>
-Nakonec musel někam odspěchat a my se vydali zpátky na kolej. 
+Nakonec musel někam odspěchat a my se vydali zpátky na kolej. <br>
 Abych pravdu řekl, vzpomínky z tohoto dne nejsou nikterak valné. Vyvozuji tedy, že jsme dělali houby.<br>
 Na co si ale vzpomínám, byl nákup ve slevněnce. Nakoupil jsem něco, co mohla být sušená zelenina. Po poradě s Googlem jsem ale objevil článek: „11 Horrible Side Effects of Ajinomoto (Pragnancy, Cancer, & ………)“ a tak místo mě ochutnal tento superprášek pouze koš na chodbě.<br>
-K večeru jsme se odebrali na volejbalové hřiště. Kde jsme odehráli několik celkem neúspěšných her. 
+K večeru jsme se odebrali na volejbalové hřiště. Kde jsme odehráli několik celkem neúspěšných her. <br>
 
 ### 27.3. Úterý - Řidičák a telefon
 
 Marek nás informoval, že v deset musíme dojít za Kelly, protože v administrativní kanceláři je nějaký problém se stipendiem. V tu dobu, už jsme ale chtěli být dávno pryč, a tak jsme nechali Marka Markem a vydali se na International Office dřív.<br>
-Kelly nás dovedla do kanceláře, kde jsme pouze předali naše Taiwanské ID, a to bylo všechno. 
+Kelly nás dovedla do kanceláře, kde jsme pouze předali naše Taiwanské ID, a to bylo všechno. <br>
 Vyrazili jsme tedy na autobus, ale protože jsem nesnídal, zastavili jsme se ještě ve snídárně. 蛋餅 se salátem a horná čokoláda mě postavily na nohy. Na nádraží jsme nečekali ani pět minut, než autobus otevřel dveře vytvářející se frontě.<br>
 V autobusu jsme na Jardově iPhonu projížděli otázky, které nás předchozího dne překvapily. To nám zabralo čas až na zastávku v parku nedaleko inspektorátu. V tom nás Filip opustil a já s Jardou jsme se vydali do prvního patra, kde nás paní informovala o tom, že testy jsou v 13:40, ale od dvanácti si můžeme trénovat na dráze praktickou část zkoušky. Jenže… na vlastním skútru. Který mít nemůžeme, protože bez papírů se koupit nedá. Taková trochu rekurzivní past.<br>
 A tak jsme šli do RTmartu na nákup zeleniny. Mandarinky za dolar, no nekup to. Zbytek už tak levný nebyl a společně s ortézou na koleno, to byl snad nejdražší nákup v RTmartu.<br>
@@ -584,38 +586,38 @@ Po asi půlhodině nás paní se zpěvným výkřikem „moneyyy“ obrala o 250
 Třičtvrtěhodinový test, který jsem zakončil skórem 84 bodů ze sta. 85 jich je potřeba. Přednost zprava tu není a stála mě dvě důležité otázky.<br>
 „Next week“, dozvěděl jsem se a vyrazil na chodbu za ostatními. Černoch utržil 86 a Jarda dokonce 90.<br>
 Filip se mezitím pohyboval v okolí elektra, a tak jsem mu napsal, že vyrazím za ním. Poslal mi mapu, ale neměl jsem v mobilu SD kartu, a tak mi popisoval cestu slovy.<br>
-Na uBike jsem vyrazil přes most nad kolejemi a pak rovně po mírně se stáčející ulici přesně dle jeho instrukcí. Vypadalo to dobře, dorazil jsem k bráně univerzity, přesně jak Filip psal. Jenže… nebyla to správná univerzita. A tak Filip našel, že tahle univerzita je jen kousek od té jeho a šel mě hledat. Já jsem mezitím hledal stojan na uBike. 
+Na uBike jsem vyrazil přes most nad kolejemi a pak rovně po mírně se stáčející ulici přesně dle jeho instrukcí. Vypadalo to dobře, dorazil jsem k bráně univerzity, přesně jak Filip psal. Jenže… nebyla to správná univerzita. A tak Filip našel, že tahle univerzita je jen kousek od té jeho a šel mě hledat. Já jsem mezitím hledal stojan na uBike. <br>
 Dopadlo to tak, že jsem se octnul u muzea skla a zoo. Což nebylo dobré. A tak jsem se vrátil, Místo univerzity tam ale najednou byla nemocnice a Filip, který mezitím došel k bráně univerzity, zjistil, že je to sice stejná škola, ke které jsem dorazil prve, ale úplně jiná budova.<br>
 No… bloudili jsme ještě dlouho, dokud jsem definitivně nezapíchl uBike u nemocnice a nevydal se pěšky po hlavní ulici. Dvacetiminutový pochod vyústil v naše shledání asi 200 metrů od NOVA electronics, kde jsem našel stánek obchodu s mobily, který jsem den předtím objevil díky Thomasovu vyhledávači.<br>
 Ve stánku prodával Asiat v růžové mikině. Trochu bez přemýšlení jsem na něj spustil anglicky, což nikam nevedlo, neb anglicky toho moc nenapovídal. Měl ale maketu Xperie XZ1 compact, rozuměl slovu black a kalkulačkou jsme vyřešili cenu.<br>
 Chtěl deposit 1000 TWD, a pak vyrazil na motorce do svého skladu.<br>
 A tak jsme se, s již velmi pokročilým hladem, vydali na univerzitu, kde Filip zahlédl menzu. A že to byla menza. Obsahovala asi 10 okýnek s různými jídly, z nichž jeden dokonce byl McDonald.<br>
 Skončil jsem u okénka, kde se vařilo stylem vyber si sám. Vybral jsem dva druhy tofu, salát a tmavé nudle. To mi všechno pokrájeli, navařili a nechali mě zalít si to omáčkou a doplnit zvláštní kyselou cibulí. Omáčky jsem dal hodně, takže jídlo bylo spicy. Ale strašně dobré. Fakt jsem si pochutnal.<br>
-Po jídle jsme se vrátili do Novy, kde už měl cápek připravený můj telefon. Zapnul ho, nechal mě se přihlásit a poté jsem doplatil zbytek, předem domluvených 12600 TWD a telefon byl můj. 
+Po jídle jsme se vrátili do Novy, kde už měl cápek připravený můj telefon. Zapnul ho, nechal mě se přihlásit a poté jsem doplatil zbytek, předem domluvených 12600 TWD a telefon byl můj. <br>
 Konec jedné éry. Upřímně doufám, že bude fungovat doma.<br>
 Na uBike jsme se vydali zpátky k RTmartu, kde Filip nakupoval a já odhaloval taje androidu oreo.<br>
-Pěšky jsme se vydali do parčíku na bus, který přijel až tak po dvaceti minutách. A když jsme dorazili na kolej, videochatoval jsem chvíli s Evou, Mámou, a Robinem najednou, protože Eva byla u nás. 
+Pěšky jsme se vydali do parčíku na bus, který přijel až tak po dvaceti minutách. A když jsme dorazili na kolej, videochatoval jsem chvíli s Evou, Mámou, a Robinem najednou, protože Eva byla u nás. <br>
 Kluci mezitím zmizeli na smaženky a já se vydal za nimi. Cápek mi tam nalil nějakou jejich pálenici a nabídl smaženu houbu. Po pár fotkách, diskusi a poslechu čínského hiphopu, jsme se rozhodli dát karty v krčku.<br>
-Neměli jsme ale papír a tužku a než se Kali s Jardou vrátili, už jsme byli unavení a šli jsme spát. 
+Neměli jsme ale papír a tužku a než se Kali s Jardou vrátili, už jsme byli unavení a šli jsme spát. <br>
 
 ### 28.3. Středa - Z volejbalu piano
 
 Komáři v noci mě pokousali, takže jsem se vůbec nevyspal. Mají tu nějaký lepší druh komárů, protože po kousnutí na mě nezbyde malý červený flíček, ale centimetrové bílé kolo s rudým okrajem pálícím jako čert. Ráno už je to přešlo, takže jsem si přispal, abych dohnal alespoň trochu spánku. Energii jsem tradičně nabral z ovesné kaše, a aby se mi nezvětšil pivas, vydal jsem se na ovál.<br>
 Uběhl jsem něco málo pod čtyři kilometry docela v tempu, ale stále tu neběhám tak rychle jako v Čechách. Místní počasí to prostě nedovoluje. Ale jednou to zbořím a až se vrátím domů, budu jak raketa.<br>
 Po sprše byl čas vydat se na Sustainable green energy. Hodina angličtinou zrovna moc neoplývala, a tak jsem ji věnoval letmému studiu čínštiny a čmárání si po papírech. Na hudebce jsme se sešli ve vedlejší místnosti. Stále jsme se nedohodli, co budeme hrát, s kým budeme hrát, ba dokonce ani na co budu já hrát. A Asiati tomu vůbec nepomáhali. Jejich pasivní přístup typu, přinesu si flétnu, ale ani na ní nezahraju, mě trochu vytáčí.<br>
-Erik po nás chtěl, abychom si sehnali knížku: Contemporary course in Chinese I. A tak jsme s Jardou po hudebce navštívili místní knihovnu. Bez úspěchu. Ba ani Cavebooks knížku neměli a museli bychom si jí objednat a zaplatit. Snad 400 dolarů či tak nějak. 
+Erik po nás chtěl, abychom si sehnali knížku: Contemporary course in Chinese I. A tak jsme s Jardou po hudebce navštívili místní knihovnu. Bez úspěchu. Ba ani Cavebooks knížku neměli a museli bychom si jí objednat a zaplatit. Snad 400 dolarů či tak nějak. <br>
 No… Fotky a tiskárna budou muset stačit. A tak jsem na notebooku ořízl fotky z minula a v tiskárně patro pod naším pokojem jsem vyměnil dolar za jednu stránku učebnice. Celkem mě první lekce stála 16 TWD což se dá přežít.<br>
-Erik měl radost, že knížku mám, byť jsme jí stejně použili tak na pět minut. Začal jsem pochybovat, za na lekci druhou další peníze obětuji. 
+Erik měl radost, že knížku mám, byť jsme jí stejně použili tak na pět minut. Začal jsem pochybovat, za na lekci druhou další peníze obětuji. <br>
 K večeru se zastavil Asiat z volejbalu a přinesl místní specialitu. Placky z těsta. Nic víc, nic míň. Chutnaly parádně. Ostatní si jich dali mrtě, s nutellou, jamem a asi i burákovým máslem. Já si dal jen dvě, a dvě schoval Markovi, který se s námi měl sejít na volejbalu.<br>
-Tam jsme se skutečně sešli, ale nějak mi to nešlo a nebavilo mě to. Takže jsem se odebral k pianu. Tam jsem hraním blbostí strávil zbytek večera. Značně znaven jsem vyrazil na pokoj, ale nikdo tam nebyl, tedy kromě mých klíčů.
+Tam jsme se skutečně sešli, ale nějak mi to nešlo a nebavilo mě to. Takže jsem se odebral k pianu. Tam jsem hraním blbostí strávil zbytek večera. Značně znaven jsem vyrazil na pokoj, ale nikdo tam nebyl, tedy kromě mých klíčů.<br>
 
 <a href="../images/2018_march/28_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/28_1.jpg"></a>
 
-Nezbývalo než napsat na messenger, který mi prozradil, že kluci jsou na šipkách s Asiatem. Odvláčel jsem se tam, půjčil klíče, a když jsem se vrátil. Padl jsem na postel a spal. 
+Nezbývalo než napsat na messenger, který mi prozradil, že kluci jsou na šipkách s Asiatem. Odvláčel jsem se tam, půjčil klíče, a když jsem se vrátil. Padl jsem na postel a spal. <br>
 
 ### 29.3. Čtvrtek - Jídlo z horkých pánví
 
-Až do devíti do rána. Následovaly aktivity: sprcha, vločky, pračka, notebook, odstředivka a poté věšení prádla. Když byl v půl dvanácté můj dopolední rituál prádelní očisty završen, sbalil jsem deku, počítač a desky, vzal si s sebou salát, rajčata a toast, a s tím vším jsem vyrazil opalovat a při tom dopisovat deník na trávě uprostřed běžeckého oválu. Slunce pálilo jak blázen a já jsem cítil jak se rakovinové buňky v mém epidermu. Přikryl jsem se tedy bílým tričkem a tím se zachránil před bolestivou smrtí.
+Až do devíti do rána. Následovaly aktivity: sprcha, vločky, pračka, notebook, odstředivka a poté věšení prádla. Když byl v půl dvanácté můj dopolední rituál prádelní očisty završen, sbalil jsem deku, počítač a desky, vzal si s sebou salát, rajčata a toast, a s tím vším jsem vyrazil opalovat a při tom dopisovat deník na trávě uprostřed běžeckého oválu. Slunce pálilo jak blázen a já jsem cítil jak se rakovinové buňky v mém epidermu. Přikryl jsem se tedy bílým tričkem a tím se zachránil před bolestivou smrtí.<br>
 
 <a href="../images/2018_march/29_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/29_1.jpg"></a>
 
@@ -623,12 +625,12 @@ Až do devíti do rána. Následovaly aktivity: sprcha, vločky, pračka, notebo
 Dozvěděli jsme se, že existuje pět druhů blues. Country, Chicago, Urban, West Coast a Texas Blues. Necítil jsem mezi nimi bůhví, jaký rozdíl. Jarda se dokonce rozohnil nad stupiditou onoho rozdělení. Ale co naděláš, v testu to bude.<br>
 Na čínštině jsme pokračovali v první lekci z knížky. Pokládali jsme si navzájem otázky. A na konci jsme poslouchali nahrávku o vyzvednutí na letišti a představení jednotlivých členů.<br>
 Na večeři jsme sešli společně s Filipem, Jardou, Danem, Kalim a Markem do oranžového podniku, kde mají nahřáté pánvičky. Jarda a Kali si dali jednu porci s rýží a ostatní s nudlemi. Já jsem bádal nad místním menu a vybádal jsem vegetariánskou smaženou rýži. Té byl docela kopec.<br>
-Po jídle jsme v 7-11 nakoupili pivko a před školní bránou jsme ho popíjeli. Já jsem testoval noční fotky z mé nové Xperie. Filipův Samsung fotí v noci lépe. Ale je to velká nehezká cihla. Zatím jsem se Sony docela spokojený. 
+Po jídle jsme v 7-11 nakoupili pivko a před školní bránou jsme ho popíjeli. Já jsem testoval noční fotky z mé nové Xperie. Filipův Samsung fotí v noci lépe. Ale je to velká nehezká cihla. Zatím jsem se Sony docela spokojený. <br>
 
 ### 30.3. Pátek - Téměř nové oblečení a Gin z Filipínského obchodu 
 
 Na angličtině jsme byli jedni z prvních. Článek o stažení z prodeje korejské kosmetiky pokračoval diskusí o dalších vadných produktech, které velké firmy byly donuceny stáhnout z prodeje. Já si vzpomněl na antennagate u iPhonu 4 a Filip na pavouky v nádržích na benzín.<br>
-Skupina Asiatek v oficiálních vestičkách 中華大學宿舍 procházeli v pravidelných intervalech kolem dveří našeho pokoje a v prostoru košů vytvářeli zlatý důl vyhozených věcí, jež by správný šetřivý Čech ještě nepochybně využil. Jaká náhoda, že takových šetřivých Čechů je tu plný pokoj. A tak dříve, než se věci stihly ohřát slunečními paprsky prosvítajícími z oken na východ, putovaly k nám na pokoj, kde získávaly nové majitele. Trička, kalhoty, a dokonce vařečka obohatili náš majetek za 0 slovy nula Taiwanských dolarů.
+Skupina Asiatek v oficiálních vestičkách 中華大學宿舍 procházeli v pravidelných intervalech kolem dveří našeho pokoje a v prostoru košů vytvářeli zlatý důl vyhozených věcí, jež by správný šetřivý Čech ještě nepochybně využil. Jaká náhoda, že takových šetřivých Čechů je tu plný pokoj. A tak dříve, než se věci stihly ohřát slunečními paprsky prosvítajícími z oken na východ, putovaly k nám na pokoj, kde získávaly nové majitele. Trička, kalhoty, a dokonce vařečka obohatili náš majetek za 0 slovy nula Taiwanských dolarů.<br>
 
 <a href="../images/2018_march/30_1.jpg" target="_blank"><img src="../images/thumbnails/2018_march/30_1.jpg"></a>
 
@@ -636,7 +638,7 @@ Co nám ale přišlo zvláštní, bylo to, že jedna z oněch dívek měla slzy
 Blížil se ale čas oběda a na dnešek jsme měli naplánováno poobědvat s panem Wolfem. Tentokrát jsme nejedli u něj, ale na meetingu o patro výše, kde zrovna končila hodina Signálů a Soustav. Pan Wolf měl jídla napočítaná přesně do jednoho. Včetně drinků. Měl jsem modrý čaj a k jídlu rýži, lilek a malé plátky červeného sladkého masa. Po jídle jsme se představili jeho studentům svými čínskými jmény. Prý ho neumím vyslovit, což mě trochu rozesmutnilo.<br>
 Se slovy, že ke konci semestru bude ještě jeden sraz, se akce rozpustila a my jsme vyrazili na otočku na kolej, kde jsme nabrali vodovky a vyrazili na Chromatologii.<br>
 Tam jsme měli za úkol rozkreslit spektrum barev od studených do teplých v jednom rozměru a v druhém od tvrdých do měkkých. Na Tour Guidingu jsme se bavili o bozích na Taiwanu a o svátku Čištění hrobek, což velice připomíná naše dušičky.<br>
-S Jardou jsme se rozhodli polapit zlatou hodinku a ukrást její duši za pomoci obrázkových přístrojů. A to ze střechy koleje, neboť Taiwanské střechy jsou více balony než střechami. Mým novým, telefonem jsem zpravil několik fotek zapadajícího slunce, a poté mou zvědavost ukojilo točená extra zpomalených videí tekoucí vody v prapodivném přístroji na ohřev vody.
+S Jardou jsme se rozhodli polapit zlatou hodinku a ukrást její duši za pomoci obrázkových přístrojů. A to ze střechy koleje, neboť Taiwanské střechy jsou více balony než střechami. Mým novým, telefonem jsem zpravil několik fotek zapadajícího slunce, a poté mou zvědavost ukojilo točená extra zpomalených videí tekoucí vody v prapodivném přístroji na ohřev vody.<br>
 
 <a href="../images/2018_march/30_2.jpg" target="_blank"><img src="../images/thumbnails/2018_march/30_2.jpg"></a>
 
@@ -644,7 +646,7 @@ Na večeři jsme jeli do 新竹. Měli jsme tam sraz se Suiem, který nám chtě
 Poté jsme se ještě vydali pro podivný tekutý puding a naše cestování se Suiem jsme zakončili ve Filipínském obchodě, kde jsme nakoupili Gin a Tonik.<br>
 Přidala se k nám Terka, která zrovna přijela z 台北 a společně jsme zasedli u potoka vedoucí skrze 新竹. Tam jsme popíjeli Gin a Tonik a potkali Taiwance, co bydlí o patro nad námi a pár dní zpátky, jsme se s ním bavili v menze.<br>
 Zpátky ve značném alkoholovém opojení byla jízda autobusem o poznání zábavnější nežli ta směrem do města. Seznámili jsme se s Jordáncem, který taky studuje na CHU. Ale pouze píše závěrečnou práci.<br>
-Den jsme zakončili pivkem u smaženkáře, který nás opět zásoboval různými jídly připravenými za pomoci velké fritézy, a to pouze za fotku toho, jak se to do nás sype. 
+Den jsme zakončili pivkem u smaženkáře, který nás opět zásoboval různými jídly připravenými za pomoci velké fritézy, a to pouze za fotku toho, jak se to do nás sype. <br>
 
 ### 31.3. Sobota - Plánuji výlet 
 
@@ -652,4 +654,4 @@ Dnešní zápisky jsou strohé, neb náplň dne byla strohá. Protože zítra r�
 Jarda trávil den obdobně. Jeho plány ale byly vyrazit z 台中 do hor a za horami do 花蓮 (Hualien).<br>
 Filip mě štval. Je v něm jistý kopec sobeckosti. Psát žádosti není jen tak. Každým jsem strávil nejméně půl hodiny a ve všech jsem ho zmínil. Domlouval jsem dvě místa, což mi určitě sebralo spoustu možností a on si obepisoval holky na Tinderu. Já myslel na ubytování dvou lidí a on na to, jak smočit.<br>
 Nicméně spolkl jsem své naštvání a pokračoval v přípravách. Zabralo mi to fakt dlouho. Než jsem se vykopal ven, už se smrákalo. Kali, Dan a Terka se zrovna vraceli z výletu do Miaoli. Společně s nimi jsem ve všeMartu nakoupil toustový chleba, který mi na pokoji společně s arašídovým máslem, zaplnil můj břich.<br>
-Večer jsme v krčku hráli s Terkou Whista a u toho pili nějakou míchanici ginu a guavové šťávy.
+Večer jsme v krčku hráli s Terkou Whista a u toho pili nějakou míchanici ginu a guavové šťávy.<br>
