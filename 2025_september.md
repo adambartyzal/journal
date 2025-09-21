@@ -16,10 +16,10 @@
 - [14.9. Deštěm k Lasíkům](#149-deštěm-k-lasíkům)
 - [15.9. Dobrej druh dluhu](#159-dobrej-druh-dluhu)
 - [16.9. Meh](#169-meh)
-- [17.9. Schůzky , svařák a knihy](#179-schůzky--svařák-a-knihy)
+- [17.9. Schůzky, svařák a knihy](#179-schůzky-svařák-a-knihy)
 - [18.9. Zápy podruhé](#189-zápy-podruhé)
 - [19.9. Sinusitida zpět?](#199-sinusitida-zpět)
-- [](#)
+- [20.9. Sbírat šípky, řekl jsem](#209-sbírat-šípky-řekl-jsem)
 
 
 ### 1.9. Štrůdl a bramboráky
@@ -249,7 +249,7 @@ Jel jsem kolem Slides Live. Pak jsem testoval zámky. Objevil, že spojení regu
 Cestou zpatky jsem se zastavil na cvičítkách. 10 shybů i přítahů docela v pohodě. Vis přes minutu a 3 Vosečkovy šikany.<br>
 Doma Verunčina quinoa, poslední díl Star Treku, úplně debilní mimochodem, chvilka psaní deníku a postel.<br>
 
-### 17.9. Schůzky , svařák a knihy
+### 17.9. Schůzky, svařák a knihy
 
 K snídani jsme si dali křížovku. Tedy dali jsme si i jídlo, ale luštili jsme u něj. Úspěšné. Na druhou ale nezbyl čas. Verunce jel vlak .<br>
 Ve Vysočanech byl den plný schůzek. Napřed přijel pan Zukal s panem Petrželkou a ještě nějakým finem z Acceleronixu. Šli jednat o výměně 2200 modemů, protože EG 915N EAA mě příliš málo paměti na to abychom do něj uložili firmware při upgradu a v datasheetu ◦ tom nebyla ani zmínka.<br>
@@ -291,11 +291,18 @@ U osazování jsem poslouchal Moon Music od Coldplay. Je to zvláštní album a 
 Cestou domu jsem si vzal zámek do batohu a doma porovnal GPS. Kromě rychlý jízdy na Žitomírské to bylo ok.<br>
 Večer jsme si pustili Casa de Popel a zachumlali se do deky. Byl jsem hotovej.<br>
 
-###
+### 20.9. Sbírat šípky, řekl jsem
 
+Naspal jsem skoro deset hodin. Bolehlav trochu ustoupil, ale sucho v nose jsem měl pořád. Bylo třeba nastavit si časovač, pravidelně nosní sliznici zvlhčovat a dát si klidový víkend.<br>
+U jídelního stolu Verunka loupala česneky a koukala na předvolební debatu. Přidal jsem se k ní a loupal vlašáky z minulé soboty. Šlo to pomalu. Veru se pustila do plnění patizonu k obědu a politici do hádky.<br>
+Paní z Ano byla fakt otravná. Havlíček bez penisu. Paní z SPD hloupoučká. ODSák rozumnej. Starosta vlídnej. Pirát zasněnej. Motorista úplně mimo, stejně jako pán z přísahy. Nejchytřejší i nejpřipravenější byla komunistka. To bylo blbý. Na základě té debaty bych šel volit je. Ale nepůjdu.<br>
+Patizon byl... jedlej. Semínka uvnitř byly otravný. Ale najedli jsme se. Verunka řekla, že je to zřejmě naposledy, co patizon pekla.<br>
+Po nějakým postelovým blbnutí jsme vyrazili ven. Sbírat šípky. Autobusem na Kavčí Hory. A narozdíl od minulého víkendu, Červené plody byly zralé. A taky docela obrané dalšími čajechtivci. Ale nasbírali jsme docela plné dva pytle než jsme se dostali do bodu, kdy jsme se museli natahovat do oblasti s trny. Ořechy byly malý a mimo náš dosah. Nemělo smysl se s nimi trápit.<br>
+Radši jsme se vrátili k autobusu a sjeli zpět na kloboučnickou. A na Pizzu Speciale. Podniku ukrajinského páru S výborným hodnocením. Vybrali jsme funghi, došli na pivní most, dali si dva staráče a já pak sběhl pro upečenou pizzu. Paní mi k ní natlačila ještě kolu. Byli milí.<br>
 
 <a href="../images/2025_september/20_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/20_1.jpg"></a>
 
+Pizza byla dobrá. pivo taky ušlo a počasí bylo skoro jižanské. Po dojedení jsme vyrazili domů a tam se pustili do čištění šípků a sušení.<br>
 
 <a href="../images/2025_september/20_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/20_2.jpg"></a>
 
