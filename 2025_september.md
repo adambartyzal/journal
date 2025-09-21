@@ -16,10 +16,10 @@
 - [14.9. Deštěm k Lasíkům](#149-deštěm-k-lasíkům)
 - [15.9. Dobrej druh dluhu](#159-dobrej-druh-dluhu)
 - [16.9. Meh](#169-meh)
-- [](#)
+- [17.9. Schůzky , svařák a knihy](#179-schůzky--svařák-a-knihy)
 - [18.9. Zápy podruhé](#189-zápy-podruhé)
 - [19.9. Sinusitida zpět?](#199-sinusitida-zpět)
-- [](#-1)
+- [](#)
 
 
 ### 1.9. Štrůdl a bramboráky
@@ -174,6 +174,7 @@ Při cestě domů chcalo a ujel mi vlak. Naštěstí jsem měl žlutou pláště
 
 ### 11.9. Verunka pomáhá
 
+Ráno se mi nic moc nechtělo. Rozhodně ne sednout si na kolo a přejíždět Vinohrady. Ale když jsem pak jel po mostě z Krejeárka na Palmovku, slunko svítilo na Karlín a Hradčany na obzoru, říkal jsem si, že to set sakra stálo za to. Stará nablýskaná T3 jedoucí po paralelním mostě z toho udelala ještě větší parádu. Možná až kýč.<br>
 Pokračoval jsem v testování. A v úklidu, protože prostoje v měření modelací prostě dávaly Čas na něco malýho, ale ne víc. Stůl už vypadal dobře, ale na zemi to bylo pořád zlý. Zametal jsem a nakreslil jsem si fajnovej háček na batoh, abych ho nemusel máčet ve špíně na podlaze.<br>
 
 <a href="../images/2025_september/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/11_1.jpg"></a>
@@ -248,14 +249,23 @@ Jel jsem kolem Slides Live. Pak jsem testoval zámky. Objevil, že spojení regu
 Cestou zpatky jsem se zastavil na cvičítkách. 10 shybů i přítahů docela v pohodě. Vis přes minutu a 3 Vosečkovy šikany.<br>
 Doma Verunčina quinoa, poslední díl Star Treku, úplně debilní mimochodem, chvilka psaní deníku a postel.<br>
 
-### 
+### 17.9. Schůzky , svařák a knihy
 
+K snídani jsme si dali křížovku. Tedy dali jsme si i jídlo, ale luštili jsme u něj. Úspěšné. Na druhou ale nezbyl čas. Verunce jel vlak .<br>
+Ve Vysočanech byl den plný schůzek. Napřed přijel pan Zukal s panem Petrželkou a ještě nějakým finem z Acceleronixu. Šli jednat o výměně 2200 modemů, protože EG 915N EAA mě příliš málo paměti na to abychom do něj uložili firmware při upgradu a v datasheetu ◦ tom nebyla ani zmínka.<br>
+Když Vláďa zmínil, že jsme si nakreslili vlastní LTE anténu, jeho reakce prý byla: „Můžu ji vidět?". Jasně že jo!<br>
+Bylo vidět, že ho to nadchlo. Kdyby nebyl svázanej korporátníma pravidlama, vzal by si jí s sebou do komory a zmařil nám jí jen tak.<br>
+Pak šli s Ludvou a Vládou na oběd. Já s Jirkou a Ivanem skončili ve veži, kde byly palačinky jako jediné vegetariánské jídlo.<br>
+Dál byl na pořadu dne call s Plzní a na večer byl naplánovaný call s Brazilcemi. Na tom jsem naštěstí nemusel být. Měli jsme totiž jiný plány. Sára v knihobotu pořádala pití svařáku a čtení. To se Verance líbilo a tak po práci vyrazila do Holešek.<br>
+Přes Karlín, kde jsme si dali Pad Thai. Pak Veru chytla tramvaj a já přejel HolKu a konečně se podíval. Jak vypadá spojka Manin a Holešek skrz Bubny.<br>
 
 <a href="../images/2025_september/17_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/17_1.jpg"></a>
 
+Ke čtení jsem vybral Hellera. Hlava nehlava. Verunka nabrala knih několik včetně Coelha.<br>
 
 <a href="../images/2025_september/17_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/17_2.jpg"></a>
 
+Jarda se Sárou točili nějaký materiály pro knihobot. Neměli na nás, nebo na čtení čas. Někdy po devátý, když už byla venku docela zima jsme vyrazili dom. Jungmanova byla po letech cykloobousměrná. Fízlové, kteří jeli za mnou mi tak poprvé nemohli říct ani popel.<br>
 
 ### 18.9. Zápy podruhé
 
