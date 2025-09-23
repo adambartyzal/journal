@@ -20,6 +20,8 @@
 - [18.9. Zápy podruhé](#189-zápy-podruhé)
 - [19.9. Sinusitida zpět?](#199-sinusitida-zpět)
 - [20.9. Sbírat šípky, řekl jsem](#209-sbírat-šípky-řekl-jsem)
+- [21.9. Na steroidech](#219-na-steroidech)
+- [22.9. Hablar con ella](#229-hablar-con-ella)
 
 
 ### 1.9. Štrůdl a bramboráky
@@ -306,4 +308,18 @@ Pizza byla dobrá. pivo taky ušlo a počasí bylo skoro jižanské. Po dojeden�
 
 <a href="../images/2025_september/20_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/20_2.jpg"></a>
 
+
+### 21.9. Na steroidech
+
+Veru onemocněla. Rozbolelo jí v krku a ucpal se jí nos. Mě začínalo být lépe. Ale ucpaný nos jsem měl pořád a nelepšil se. Dospěl jsem k názoru, že je třeba pořídit kortikosteroidy. V DrMaxovi prodávali sprej se stejnou účinnou látkou jako obsahuje Mommx, který mi předepsali na ORL ve Vinohradské.<br>
+Uvařil jsem Verunce samahan, čaj na průdušky a mátový čaj a vyrazil do Edenu do lékárny. Venku bylo snad ještě tepleji než v sobotu. Koupil jsem sprej, dozvěděl se, že ho mám aplikovat „od přepážky", jinak zeslábne a praskne. Taky že kortikosteroidy vysušují a je třeba nos vlhčit. Na tom jsem pracoval už od rána. Měl jsem patnácti minutový časovač a sprej s Vincentkoujsem aplikoval pokażdé, když zabuzučel.<br>
+Zpátky doma jsem se pustil do psaní deníku. Chybělo ho randál. Ale šlo mi to a září jsem doplnil celé a ze srpna taky pár dní.<br>
+Večer jsme si pustili pár dílů La Casa de Papel. Ale ne příliš. Šli jsme spát rozumně před desátou.<br>
+
+### 22.9. Hablar con ella
+
+Nešel jsem běhat. Ale šel jsem se po ránu projít, tu a tam popoběhl a na kapitolu chvíli cvičil. Je duležitější vybudovat si rutinu víc než občas běhat a pak to pověsit na hřebík.<br>
+Snídali jsme zapečené vločky. Přímé vlaky ujely, ale alespoň jsem zámek 560 vzal skrz tunel vlakem v 8:30 a pak tunelem na highline.<br>
+Teplo víkendu pominulo. Denní maximum dosáhlo 13°C. Cestou do veže ještě navíc hnusně foukalo. Naštěstí tortilla a gulášová polévka mě zahřály dost na zpáteční cestu bez prochladnutí.<br>
+Stavěl jsem další HLP. A pastu nanesl pozdě, takže součástky jsem nanášel až do šesti. Pak jsem sedl na kolo, dojel na nádraží a domů dojel vlakem. Cestou jsem duolingoval a zůstalo mi to i doma, takže jsme si s Verunkou povídali Španělsky. Moc mi to nešlo. Vlastně vůbec. Ale byla to zábava.<br>
 [>> Říjen](2025_october.md)<br>
