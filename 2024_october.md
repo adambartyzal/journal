@@ -1,3 +1,6 @@
+
+## [Říjen](2024.md)  
+
 [<< Září](2024_september.md)<br>
 
 - [1.10. Jiný člověk](#110-jiný-člověk)

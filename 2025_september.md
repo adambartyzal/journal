@@ -1,5 +1,8 @@
 [<< Srpen](2025_august.md)<br>
 
+## [Září](2024.md)  
+
+
 - [1.9. Štrůdl a bramboráky](#19-štrůdl-a-bramboráky)
 - [2.9. Mít tak 7 miliónů](#29-mít-tak-7-miliónů)
 - [3.9. Gril, kino a prstýnek](#39-gril-kino-a-prstýnek)
@@ -22,6 +25,13 @@
 - [20.9. Sbírat šípky, řekl jsem](#209-sbírat-šípky-řekl-jsem)
 - [21.9. Na steroidech](#219-na-steroidech)
 - [22.9. Hablar con ella](#229-hablar-con-ella)
+- [](#)
+- [](#-1)
+- [](#-2)
+- [](#-3)
+- [](#-4)
+- [](#-5)
+- [](#-6)
 
 
 ### 1.9. Štrůdl a bramboráky
@@ -320,6 +330,51 @@ Večer jsme si pustili pár dílů La Casa de Papel. Ale ne příliš. Šli jsme
 
 Nešel jsem běhat. Ale šel jsem se po ránu projít, tu a tam popoběhl a na kapitolu chvíli cvičil. Je duležitější vybudovat si rutinu víc než občas běhat a pak to pověsit na hřebík.<br>
 Snídali jsme zapečené vločky. Přímé vlaky ujely, ale alespoň jsem zámek 560 vzal skrz tunel vlakem v 8:30 a pak tunelem na highline.<br>
+
+<a href="../images/2025_september/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/22_1.jpg"></a>
+
 Teplo víkendu pominulo. Denní maximum dosáhlo 13°C. Cestou do veže ještě navíc hnusně foukalo. Naštěstí tortilla a gulášová polévka mě zahřály dost na zpáteční cestu bez prochladnutí.<br>
 Stavěl jsem další HLP. A pastu nanesl pozdě, takže součástky jsem nanášel až do šesti. Pak jsem sedl na kolo, dojel na nádraží a domů dojel vlakem. Cestou jsem duolingoval a zůstalo mi to i doma, takže jsme si s Verunkou povídali Španělsky. Moc mi to nešlo. Vlastně vůbec. Ale byla to zábava.<br>
+
+### 
+
+
+### 
+
+
+###
+
+
+<a href="../images/2025_september/25_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/25_1.jpg"></a>
+
+
+###
+
+
+###
+
+
+<a href="../images/2025_september/27_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_1.jpg"></a>
+
+
+<a href="../images/2025_september/27_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_2.jpg"></a>
+
+
+<a href="../images/2025_september/27_3.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_3.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/28_1.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_september/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/30_1.jpg"></a>
+
+
+<a href="../images/2025_september/30_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/30_2.jpg"></a>
+
 [>> Říjen](2025_october.md)<br>
