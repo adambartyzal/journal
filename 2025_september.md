@@ -31,7 +31,7 @@
 - [](#-3)
 - [](#-4)
 - [](#-5)
-- [](#-6)
+- [30.9. Další francouzi](#309-další-francouzi)
 
 
 ### 1.9. Štrůdl a bramboráky
@@ -369,11 +369,20 @@ Stavěl jsem další HLP. A pastu nanesl pozdě, takže součástky jsem nanáš
 <a href="../images/2025_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/28_1.jpg"></a>
 
 
-###
+### 30.9. Další francouzi
 
+Veru zmizela už před sedmou. Ve mně třímal pocit neštěstí a tak jsem se válel až do půl osmý! Verunky kvásek už to mel opet za pár a tak jsem zadělal na chleba. Možná kvůli tomu jsem z domu vyjel až v devět.<br>
+Bylo pět stupňů. Dlouhé noci se začaly podepisovat. Na Kde jsem měl teplé boty, rukavice a zimní čepici aby mi nefoukalo do uší.<br>
+Čekaly mě pokusy s 2g odrušením a call s FIME.<br>
+Bypass 36 mi nic nepřinesl. 47pA v USB na HLA působilo nadějně, ale pomohlo jen jednomu zámku. Microsoft rozbil v Edgi Inspektora. Přešel jsemna firefox, protože už uměl vertikální tady a kategorie.<br>
+Verunky zapečená tofu věc byla moc dobrá. Moučník taky.<br>
+Hovor s FIMEem byl standardní představovací. Akorát na něm z nějakého důvodu by Artur Costa. Překvapilo to mě, Vláďu i Ludvu.<br>
+Večer jsem plánoval bazén, ale nějak mě to přešlo. Bylo třeba dodělat ten chléb a chtel jsem být se ženou víc než sám ve vodě.<br>
+A tak jsem se vrátil a pustil do toho chlebu. Veru pustila papírový dům a hnětení, překládání a pečení Jsem pokládal Španělštinou v národní mincovně.<br>
 
 <a href="../images/2025_september/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/30_1.jpg"></a>
 
+Chleba vyšel. Jeden z mých nejlepších. Veru byla nadšená. Dali jsme si ještě čerstvý.<br>
 
 <a href="../images/2025_september/30_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/30_2.jpg"></a>
 
