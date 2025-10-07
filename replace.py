@@ -40,6 +40,8 @@ with open(newfilename, 'w') as new:
             new.write('\n') # empty line before lines
           line = line.replace('\n','')
           isList = True
+        elif ('<!--' in line or '-->' in line):
+          line = line #TODO do better
         else:
           line = line.replace('\n','<br>')
 
