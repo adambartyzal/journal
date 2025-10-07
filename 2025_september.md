@@ -31,6 +31,7 @@
 - [](#-3)
 - [](#-4)
 - [](#-5)
+- [29.9. Konec nejistoty](#299-konec-nejistoty)
 - [30.9. Další francouzi](#309-další-francouzi)
 
 
@@ -363,11 +364,22 @@ Stavěl jsem další HLP. A pastu nanesl pozdě, takže součástky jsem nanáš
 <a href="../images/2025_september/27_3.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_3.jpg"></a>
 
 
-###
+### 
 
 
 <a href="../images/2025_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/28_1.jpg"></a>
 
+
+### 29.9. Konec nejistoty
+
+Tohle nebyl dobry den. Na snídani zbyl jen salát a mandarinka. Ale nejsem takovej blbec abych si head zkazit den tím, že jsem měl dobrou mandarinku a dobrý salát. Ne blbý byly jiný věci.<br>
+Ten zámek mě štval. 2g odpojovalo modem. Řešil jsem jak to odstranit či co to vlastně způsobuje. Rušení? Zdroje? Na měřil jsem toho dost. Úprav udelal několik. Vyřešil kulovy!<br>
+To bylo blbý. Ale ne nejhorší.<br>
+Nejhorší totiž byl telefonát těsně před obědem od paní Dundáčkové. Naše obavy se naplnily. Vyhodí nah. Na konci roku. Na jednu stranu bylo dobrýto vědět. Na druhou to byl ojeb a vidina ztráty peněžní, časové, životně kvalitativní a kdo ví čeho dalšího. Vršovice jsem si oblíbil. A nájem 15k za měsíc taky.<br>
+Na Ukrajinské 7 jsme si udělali domov. Bylo mi smutno. A byl jsem i nasranej. Obzvlášť během cesty na beďar. Ale spíš mi bylo smutno.<br>
+Marta naproti tomu zářila. Byla čerstvě zamilovaná. Do kluka z Bamblu, kterýho ale už znala z doby, kdy dobrovolničila v organizaci hlavák.<br>
+Když jsme začínali hrát byla už tma. Začínal půlrok tmy. Šla na mě tradomyslnost.<br>
+Ještě že Veru je tak bezva a podporující. Mám štěstířekl jsem si. Objednal lístky na pendolino na Tomášovu svatbu a šel spát vedle svý skvělý ženy. Půjde to. Jen je to ojeb.<br>
 
 ### 30.9. Další francouzi
 

@@ -3,41 +3,25 @@
 ## [Říjen](2025.md)  
 
 
-- [](#)
+- [1.10. Do moře a mezi nacisty](#110-do-moře-a-mezi-nacisty)
 - [2.10. Zuby za osmnáct set, statek za mega](#210-zuby-za-osmnáct-set-statek-za-mega)
-- [](#-1)
+- [3.10. Málem jsem na to přišel sám](#310-málem-jsem-na-to-přišel-sám)
 - [4.10. Resource bloků v lese víc než hřibů](#410-resource-bloků-v-lese-víc-než-hřibů)
 - [5.10. Adamovo stavení a Adamovi přátelé](#510-adamovo-stavení-a-adamovi-přátelé)
 - [6.10. Sprostá zlodějna](#610-sprostá-zlodějna)
-- [](#-2)
-- [](#-3)
-- [](#-4)
-- [](#-5)
-- [](#-6)
-- [](#-7)
-- [](#-8)
-- [](#-9)
-- [](#-10)
-- [](#-11)
-- [](#-12)
-- [](#-13)
-- [](#-14)
-- [](#-15)
-- [](#-16)
-- [](#-17)
-- [](#-18)
-- [](#-19)
-- [](#-20)
-- [](#-21)
-- [](#-22)
-- [](#-23)
-- [](#-24)
-- [](#-25)
-- [](#-26)
+- [7.10. Prostě úterý](#710-prostě-úterý)
 
 
-### 
+### 1.10. Do moře a mezi nacisty
 
+Ráno už chleba nebyl tak křehký jako večer, ale vstávat ve čtyři, abych měl čerstvý chléb k snídani mě ani nehne. S patifu byl super.<br>
+Do práce mě svezl poslední přímý vlak. Než jsem udělal něco pořádného, začal firemní meeting. Přesunuli jsme ho na desátou.. Hlavní téma byl fakt, že Áda nastoupila na full-time. To už jsme všichni věděli.<br>
+K obědu byl Vietnam a po něm jsem dělal pokusy s 2g pulzy. Kondíky do Usb a podobně. Co pomáhal. jednomu zámku, druhý rozbil. víc. Spíš náhodný jevy.<br>
+Přenesení simky z jednoho zámku do druhého přeneslo symptomy. Bylo to prostě vzdáleností od BTSky.<br>
+V šest jsme šli s Verunkou plavat do Hloubětína. Veru chtěla převážně do páry, ale ta v jejich Šatně nejela. U nás sice je, ale byla plná a ne moc teplá. Radši jsme plavali. Napřed v otevřeném prostoru a potom do lajny. Lidi bez lajn plavou úplně na punk.<br>
+Dál nás čekalo Aero. Veru jela přes Palmovku tramvají, já přes Jarov na kole. Vzal jsem to přes Lidl, abychom se před kinem mohli najíst, ale Veru si do tramvaje koupila vlastní baštu a přijela plná. Nacpal jsem do sebe rohlík se sýrem zatímco mi žena vedla kolo a v kině jsme potkali Ondru. Rebeka přišla v zápětí.<br>
+Veru hned začala tím, že ve Vršovicích už dlouho nepobudeme. Moc jsme to ale neprobrali. Stihl jsem ale 2 piva. Jardovým stylem. Druhý do sálu. Na film kabaretZ Berlína za dob nástupu nacismu. Byl dobrej. Veru si to taky myslela. Akorát těsně před koncem usnula.<br>
+Šulcovi jeli tágem. Já Veru doprovodil na Náhledové nádražía na Nádraží Vršovice jí vyzvedl.<br>
 
 ### 2.10. Zuby za osmnáct set, statek za mega
 
@@ -49,8 +33,18 @@ V práci jsem sepsal fakturu, vyřešil několik emailů, dali jsme si u Šebest
 Ve čtyři mi přišel pravidelný email o nových nabídkách na realitním trhu. Tentokrát obsahoval nový dům v Zápech. Tedy. Hodně starý dům v podstatě na spadnutí, ale ne fakt velkým a hezkým pozemku. Za 999000 Kč. Napsal jsem i zavolal. Nebral to. A po asi půl hodině v inzerátu dopsal nula a v emailu se omluvil.<br>
 Doma jsme to hodně obrečeli nad luštěním křížovek.Za mega by to byl fakt kup.<br>
 
-###
+### 3.10. Málem jsem na to přišel sám
 
+Večer jsme měli jet domů kvůli volbám. Ale večer je večer a před ním zbýval celý den. Pochopení, pred se zámek odpojuje při připojování do 2g, jsem nebyl and o fous blíže.<br>
+Ráno jsem zalil kytky, přečetl si noviny a vyrazil na vlak. Nějak na mě přišla lenost. Řešil jsem jaký Common Mode Choker koupit a kam ho připájet. Coilcraft se mi líbil.<br>
+Až po obědě, těstovinách s fazolemi, od Verunky, mě napadlo nastavit trigger osciloskopu tak, že spustí na výpadek USBčka. A našel jsem to. Totálně to způsoboval 2g burst. Ale neviděl jsem jak. Vládu napadlo podívat se na USB-V. Padalo skoro na dva volty. Spojil jsem ho s 3V8, protože PC8 je FT a voilá. Attatch do 2g prošel jak víno.<br>
+Štvalo mě, že jsem na to nepřišel bez něj. Ale měl jsem radost! Týden jsem se tím zabýval. Týden!<br>
+Rozhodl jsem se zámek vzít do Jižních Čech. Na trati má problém i iPhone. Byl to dobrý test.<br>
+Veru už byla doma, když jsem přijel S devítkou. Zabalili jsme se, dali jídlo do krabiček a vyrazili na Silvu Nortica.<br>
+Měla zpoždění. Nějaký opilec vypadal, že skočí do kolejí a byl ze zpoždění vlaku ještě rozhořčenější než já. Ale přijel. A naše místenky tentokrát byly na straně výhledů.<br>
+Zámek se neodpojoval. To bylo dobrý. Dal jsem si k jídluVerunčiny těstoviny s fazolemi a společně Jsme luštili křížovky.<br>
+Lokalku jsme stihli. A autobus taky. Tata by pro nás prý posla Honzu kdyby ne. V Autobusu jsme byli jediní dva. Celou cestu. Luxus který věští zrušení onoho spoje.<br>
+Táta delal palačinky. Dali jsme si je s pudingovou Marmeládou a povídali si o tom, co se stalo za dobu, co jsme se neviděli.<br>
 
 ### 4.10. Resource bloků v lese víc než hřibů
 
@@ -113,8 +107,12 @@ Nad kapucínem v Tokiu mi přišel email od hlídacího psa s novými inzeráty 
 Navíc doma navařila a poklidila. Miluju jí moc. Víc a víc.<br>
 Cestou jsem stejně zmokl. Ale serpentina v Troji mě bavila a průjezd stromovkou taky. Praha je skvělá. Bylo mi jasný, že nechci pryč. Ještě ne.<br>
 
-###
+### 7.10. Prostě úterý
 
+Celkem tuctové uterý. Kdo do práce, osazování, oživování, pomáhání Temíkovi pochopit jak fungují stanice. K jídlu Verunky karí s belagou, kolo zpatky, cvičení na Konopisťské, doma politika.<br>
+Vern se radila s kolegy v hokejce a já šel pak. Víc nic.<br>
+Prostě úterý.<br>
+<!--<br>
 
 ###
 
@@ -188,3 +186,5 @@ Cestou jsem stejně zmokl. Ale serpentina v Troji mě bavila a průjezd stromovk
 ###
 
 [>> Listopad](2025_november.md)<br>
+
+-->
