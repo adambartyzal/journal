@@ -57,11 +57,11 @@ Doma jsme to hodně obrečeli nad luštěním křížovek.Za mega by to byl fakt
 Byl víkend, na vsi bylo ticho a slunko už zdaleka nemele letní sílu. Přispali jsme si. Chleba se sýrem a cizrnové pečivo jsme snídali až po deváté.<br>
 Byl druhý den voleb a urna čekala na naše hlasy. Vyrazili jsme pěšky přes ves a potkali Lukáše a zbytek Mrkvičků, kteří trhali peří z nějaká obří husy. Zpoza lahváče nás informoval, že on už má odveleno a že si to máme pořádně rozmyslet.<br>
 U Formaňáku bylo fakt pěkně a pohledno. Zato u komise to bylo úplně stejný jako vždycky. Možná jen Verunka z Ostravy přinesla mírné pozdvižení. Piráti +2.<br>
-Zpátky jsme šli dolů k obchodu a přes chalupy. TátaV mezičase nahodil o blečení na výlet, já vzal zámek do košíku a všichni jsme společně vyrazili na peší výlet a sběr hub v lese. Taky jsme zavolali Evě a dozvěděli se, že kocour je napůl Mainská mívali.<br>
+Zpátky jsme šli dolů k obchodu a přes chalupy. TátaV mezičase nahodil oblečení na výlet, já vzal zámek do košíku a všichni jsme společně vyrazili na peší výlet a sběr hub v lese. Taky jsme zavolali Evě a dozvěděli se, že kocour je napůl Mainská mívali.<br>
 
 <a href="../images/2025_october/04_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/04_3.jpg"></a>
 
-Prošli jsme podél Pasečáku, skrz pole a do lesa a Lomečaku. Zprvu byla situace slabá, ale po odpočinku na posedu jsme přešli do oblasti s hnojníky a beklami a z skautským sadem jsme našli i hřiby.<br>
+Prošli jsme podél Pasečáku, skrz pole a do lesa a Lomečáku. Zprvu byla situace slabá, ale po odpočinku na posedu jsme přešli do oblasti s hnojníky a beklami a z skautským sadem jsme našli i hřiby.<br>
 
 <a href="../images/2025_october/04_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/04_2.jpg"></a>
 
@@ -70,7 +70,7 @@ Na louce během cesty zpět jsme potkali šípky. Hrozil ale déšť a košík b
 <a href="../images/2025_october/04_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/04_1.jpg"></a>
 
 Po bramboračce jsme si dali siestu. Volby skončily, hlasy se sčítaly, komunisti naštěstí nenabrali 5% ale vyhrálo ANO. Naštěstí „jen" s 85 mandáty.<br>
-Na šípky jsme šli vybavení nažkami a nabrali celou tašku. Cesta jsme si zkrátili přes JZD. Spojení tam vylepšili stěny hodnotnými informacemi.<br>
+Na šípky jsme šli vybavení nažkami a nabrali celou tašku. Cesta jsme si zkrátili přes JZD. Sprejeři tam vylepšili stěny hodnotnými informacemi cituji: "Putin je kretén! Fiala je debil. Babiš je zmrd." Koho sprejeři volili mi nebylo jasný.<br>
 Po západu slunka jsme diskutovali o genetice, kombinatorice a nakonec o našich pracích. Byl to moc fajn den.<br>
 
 ### 5.10. Adamovo stavení a Adamovi přátelé

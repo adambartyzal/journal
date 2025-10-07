@@ -328,7 +328,7 @@ Večer jsme si pustili pár dílů La Casa de Papel. Ale ne příliš. Šli jsme
 
 ### 22.9. Hablar con ella
 
-Nešel jsem běhat. Ale šel jsem se po ránu projít, tu a tam popoběhl a na kapitolu chvíli cvičil. Je duležitější vybudovat si rutinu víc než občas běhat a pak to pověsit na hřebík.<br>
+Nešel jsem běhat. Ale šel jsem se po ránu projít, tu a tam popoběhl a na kapitolu chvíli cvičil. Je důležitější vybudovat si rutinu víc než občas běhat a pak to pověsit na hřebík.<br>
 Snídali jsme zapečené vločky. Přímé vlaky ujely, ale alespoň jsem zámek 560 vzal skrz tunel vlakem v 8:30 a pak tunelem na highline.<br>
 
 <a href="../images/2025_september/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/22_1.jpg"></a>
