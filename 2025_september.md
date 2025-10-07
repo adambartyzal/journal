@@ -28,9 +28,9 @@
 - [](#)
 - [](#-1)
 - [](#-2)
+- [26.9. Wafle až z Belgie](#269-wafle-až-z-belgie)
 - [](#-3)
-- [](#-4)
-- [](#-5)
+- [28.9. Vzít zámek na výlet](#289-vzít-zámek-na-výlet)
 - [29.9. Konec nejistoty](#299-konec-nejistoty)
 - [30.9. Další francouzi](#309-další-francouzi)
 
@@ -349,8 +349,12 @@ Stavěl jsem další HLP. A pastu nanesl pozdě, takže součástky jsem nanáš
 <a href="../images/2025_september/25_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/25_1.jpg"></a>
 
 
-###
+### 26.9. Wafle až z Belgie
 
+Verunka napekla štrůdl a uvařila drstkovku z hlíny. To bylo trochu vtipný, protože v práci ne veži jsem jí měl taky. Tesně po tom, co nám Monča napsala, že Ludva vyhodil Dáju. Úplně zčista jasna.<br>
+I když, tak úplně zčista jasna to asi nebylo. Sám jsem měl pocit, že není nejbystřejší.<br>
+Večer nám měl přijet host z Belgie. Ale až někdy po desáté. Do té doby jsme si pouštěli papírový dům.<br>
+Návštěva byl Verunky spolužák Vojta z gymplu. Odstěhoval se do Belgie za přítelkyní. Povídalo se s ním dobře. Naše vzdělání mělo velký přesah, proto taky a zájmy a světo názor asi taky. Kecali jsme asi do pul Jedny! Ale přijel k nám přespat ne přebdět.<br>
 
 ###
 
@@ -364,11 +368,15 @@ Stavěl jsem další HLP. A pastu nanesl pozdě, takže součástky jsem nanáš
 <a href="../images/2025_september/27_3.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_3.jpg"></a>
 
 
-### 
+### 28.9. Vzít zámek na výlet
 
+Většinu dne jsme strávili doma. Vytíral a otíral jsem kuchyň, záchod a koupelnu davovou vodou. Obzvlášt záchodu to pomohlo.<br>
+Veru vařila čočkové kari a během dne začalo být jasný že na ní jdou její dny, a tak zalehla se zahřívací lahví.<br>
+Já byl zvědavý, jak se bude zámek chovat mimo město.. Zas tak moc jsem toho nenajel. Kdo bylo nějaký zadřený. V Běchovicích jsem posunul zadní, trochu to pomohlo a tak Jsem nejel na nádraží, ale dojel to celý domů.<br>
 
 <a href="../images/2025_september/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/28_1.jpg"></a>
 
+A tam jsem zjistil, že zámek má brutální výpadky.<br>
 
 ### 29.9. Konec nejistoty
 
