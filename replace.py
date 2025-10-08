@@ -21,9 +21,7 @@ with open(newfilename, 'w') as new:
 
       line = line.replace('<!-- omit in toc -->','')
 
-      if (line[0] == '#'):
-        line = '\n' + line
-      elif (line[0] == '>'):
+      if (line[0] == '#' or line[0] == '>' or '<!--' in line or '-->' in line):
         line = '\n' + line
       elif (line[0:8] == '![image]'):
         image_name = line[line.find('(') + 1 : line.find(')')]
@@ -40,8 +38,6 @@ with open(newfilename, 'w') as new:
             new.write('\n') # empty line before lines
           line = line.replace('\n','')
           isList = True
-        elif ('<!--' in line or '-->' in line):
-          line = line #TODO do better
         else:
           line = line.replace('\n','<br>')
 

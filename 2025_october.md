@@ -112,6 +112,7 @@ Cestou jsem stejně zmokl. Ale serpentina v Troji mě bavila a průjezd stromovk
 Celkem tuctové uterý. Kdo do práce, osazování, oživování, pomáhání Temíkovi pochopit jak fungují stanice. K jídlu Verunky karí s belagou, kolo zpatky, cvičení na Konopisťské, doma politika.<br>
 Vern se radila s kolegy v hokejce a já šel pak. Víc nic.<br>
 Prostě úterý.<br>
+
 <!--
 
 
@@ -189,3 +190,4 @@ Prostě úterý.<br>
 [>> Listopad](2025_november.md)<br>
 
 -->
+
