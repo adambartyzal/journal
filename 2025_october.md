@@ -10,6 +10,12 @@
 - [5.10. Adamovo stavení a Adamovi přátelé](#510-adamovo-stavení-a-adamovi-přátelé)
 - [6.10. Sprostá zlodějna](#610-sprostá-zlodějna)
 - [7.10. Prostě úterý](#710-prostě-úterý)
+- [](#)
+- [](#-1)
+- [10.10. Budeme mít okna!](#1010-budeme-mít-okna)
+- [11.10. Déšť tomu dodal grády](#1110-déšť-tomu-dodal-grády)
+- [12.10. Úkoly splněné](#1210-úkoly-splněné)
+- [13.10. Brouka do hlavy](#1310-brouka-do-hlavy)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -113,25 +119,104 @@ Kolo do práce, osazování, oživování, pomáhání Tomíkovi pochopit jak fu
 Veru se radila s kolegy v hokejce a já šel psát. Víc nic.<br>
 Prostě úterý.<br>
 
+###
+
+
+###
+
+
+<a href="../images/2025_october/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/09_1.jpg"></a>
+
+
+<a href="../images/2025_october/09_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/09_2.jpg"></a>
+
+
+### 10.10. Budeme mít okna!
+
+Vstávali jsme v šest. Čekala nás prohlídka bytu ve 13:20 na Letňanech. Já se taky potřeboval sbalit na Tomášova rozlučku se svobodou. Nacpal jsem nějaký oblečení do batohu, sbalil kytaru a zbytek ponechat náhodě. Do Vysočan mě vzal stejně jako Veru vlak. Akorát o půl hodiny pozdější.<br>
+Vláďovi začala dovolená. Trochu jsem očekával smršť dotazů na mojí osobu, ale byl pátek a všichni už Jeli na pomalejší stupeň. A tak jsem koukal víc do IDF než do freebiku.<br>
+Před jednou jsem jsem vzal freebike a vyjel nahoru do Letňan. Stoupání je to značný. Vzal jsem to po cestě, která pozbyla původního smyslu vybudováním Průmyslového polookruhu. Míjel jsem tak maringotky, které tam město nasázel. jako azyl pro lidi v krizi. Bylo to trochu creepy.<br>
+U Letňanské pláně mi uletěla čepice a řidiče v koloně to pobavilo.<br>
+Veru jela autobusem. Měla trochu zpoždění a tak Jsem pana Pospíšila před domem v Tupolevově první a dal jsem se s ním do řečí. Byl to divnej makléř. Takové přestárlej skejťák. Extrémní sympoš. Vzhledem trochu jako děda za mlada. Vyptával se proč se stěhujeme a kdo jsme. Fakt ho to zajímalo.<br>
+Když Veru dorazila, vzal nás nahoru, kde byl přítomen současný nájemce. Pak, který s přítelkyní koupil byt, jinak by se prý nestěhoval pryč. Pochopitelné. Byl to super byt. Předsunutá lodžie, sklad na harampádí, kuchyni absolutní paráda. Řekli jsme, že to bereme. Bylo tam všechno.<br>
+Letňany. Pro nás oba blíž. Za ok cenu. Přes člověka co vypadal v poho. V bytě, kterej měl okna. Ta hrozná nálada posledních dní odpadla.<br>
+
+<a href="../images/2025_october/10_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/10_1.jpg"></a>
+
+Šli jsme se podívat ještě na sklep a potom freebike.Pana Pospíšila zajímal.<br>
+Veru šla plavat. Já si v Penny koupil pečivo a sjel zpět na Kolbenku. Chvíli jsem se ještě rýpat v Ovladači na RGB Ledku. Prošlo to a ve 4 jsem se rozloučil s Áďou a vyrazil na metro.<br>
+Z Čerňáku nám měl jet Rj v 16:30. Měli jsme jet po silovým spojem. Postupně jsme se sešli, ale autobus nepřijel. Ondra to jel řešit do kanceláře. Paní volala řidiči, ale ten to nebral. Prostě se ztratil i s autobusem. Nakonec nás rozházeli do busů jedoucích později.<br>
+
+<a href="../images/2025_october/10_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/10_2.jpg"></a>
+
+V Liberci jsme měli čas. Respektive, nechali jsme si ujet vlak před nosem a šli do hospody na opačné straně kdysi zřejmě velmi honosného nádraží<br>
+Měli plno. Ale dali nám pivo a s tím jsme si sedli venku a předali Tomášovi úkoly. Pustil se do jejich plnění hned, ale vdaných párů bylo před klubem, kde měl být Na Stojáka stand up, bylo málo.<br>
+Do Frýdlantu jel malý Regio Spider. Není to nejlepší vlak. Ale dovezl nás do rodného města mé mámy, kde pivovar naneštěstí zavřel brzy. Ještě že Lidl jsme stihli. A potkali v něm Vojtu Cimla. Ten sjel s nákupem na chatu a my ostatní došli po cestě mezi potokem a řekou.<br>
+
+<a href="../images/2025_october/10_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/10_3.jpg"></a>
+
+Bylo to tam moc pěkný. Velká chalupa s verandou a grilem. Na zahradě dokonce bazén. Tomáš se pustil do opékání buřtů. Jarda s Vojtou sjeli do hospody pro pivo do patek a po jejich návratu jsme začali hodovat a diskutovat a poznávat se. Těm vytrvalejším to vydrželo do čtyř ráno<br>
+
+### 11.10. Déšť tomu dodal grády
+
+Ráno jsem objevil, že ležím ve stejné posteli jako Vojta. Ale bylo to tak velký letiště, že jsme mezi sebou měli místa milion. Vstal jsem první a dal si sprchu a ranní pivo.<br>
+Snídaňová diskuse se točila kolem Slides Live. Oni už to tak mají. Kdyby nás v chatě bylo několik z freebiku, vzpomínali bychom na naše firemní zážitky. Jídlo jsme si připravili každý sám. Já si namazal kousky a k tomu měl papriku a rajče.<br>
+Venku mžilo. Bylo třeba vyřešit plán. Singltrek pod smrkem od nás byl asi hodinu a půl chůze kolem řeky. 20 minut vlakem ze zastávek, na které bychom šli asi tak hodinu a nebo nás mohl Vojta na etapy převézt. C bylo správně.<br>
+Ondra obvolal půjčovny. V první byli nemeli kol dostatek. Ve druhé ano, ale byli překvapení, že v takovém počasí chceme jet. Ostatní váhali, zda to tedy má smysl, ale řekl jsem, že spíš jo. Že budeme Špinaví, ale to k bajku patří.<br>
+Na jedenáctou jsme se tedy dopravili do Lázní Libverda ve dvou skupinách. První Vojta, já, Marek a Martin. Druhá Vojta, Jarda, Ondra a Tomáš.<br>
+Pán v půjčovně byl sympoš. Otec kluka, který normálně business řídil, Jenže zrovna jel nějaký závod. Kola měl moc pěkný. Seřízený celopéra s hydraulickýma brzdama a teleskopyckými sedlovkami. Jen helmy nepůjčoval. Respektive. Měl šest helem, které lidi v obchodě Zapomněli v průběhu dob. Řekl jsem, že to zvládnu bez ní a pojedu opatrně. Byla to trochu píčovina, ale byla by fakt škoda nejet.<br>
+
+<a href="../images/2025_october/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/11_1.jpg"></a>
+
+Jakožto člověk singltreku nejznalejší jsem s pánem vyřešil formality, z veškeré hotovosti jsme zaplatili zálohu a napodruhé zvládli zaplatit kartou. Venku se v mezičase vystřídal větší děsit a polojasno, de na startu na hats opět mžilo. Nevadilo to. Začali jsme stoupat.<br>
+Lidi to bavilo. Měl jsem radost. Taky mě to bavilo. Počasí nebylo překážkou. Spíš naopak. Z kopců a údolí stoupala mlha a příroda působila mysteriózně. Kluci se zadýchávali víc než já. Každodenní cesta přes Vinohrady asi pomáhá. Nicméně Vojta s Jardou si nezapoměli stěžovat, že jsem prý slíbil, že jízda bude jako vánek.<br>
+Na Hubertce jsme si dali pivo a polévku. U stolu s námi seděl sedm a sedmdesáti letý pán, zubicí se od ucha k uchu. Dával si pařáky slivovice. Napřed sám a potom s osmdesátiletou paní Zdenkou. Tomáš se jich šel vyptávat na rady do manželství. Pán byl ženatý padesát sedm let. Ale se Zdenkou. Možná že v tom byl ten trik?<br>
+Červená vedoucí od Hubatky už byla houpací a zábavná. A špinavější. Bláto začalo cákat na záda a na prdel. Obzvlášt, když přišel na řadu sjezd k obřímu sudu. Stoupání dál vedlo otevřenější cestou. Dalo se jet i vedle sebe a bláta přibývalo.<br>
+
+<a href="../images/2025_october/11_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/11_2.jpg"></a>
+
+Nad pramenem kyselky nás opustil Vojta Ciml. V Praze hoČeledo rande s osmnáctiletou holčinou. Byl úplně zasranej od bláta a chtel se před cestou do Prahy ještě zkulturnit.<br>
+I ten pramen nás rozdělil. Mára martin jeli k němu dolů, ostatní horní cestou, ale já s Ondrou jsme se k pramenu vratili. Taky jsme si to protáhli kolem Měděnce. což bylo možná zbytečně moc daleko. Ale jelo se potokem a bylo to zajímavý. Sjezd na konci jsme napálili a ostatní téměř dohnali.<br>
+K půjčovně mezitím dorazil druhý Vojta, se kterým se Tomáš znal z gymplu a z domu v Kyjích. I přes to, Že z nás padaly kusy bláta nás ochotně převezl autem zpatky na chalupu, kde jsme se daly do očisty hadicí a poté sprchou, pračkou a sušičkou.<br>
+Ve zbytku večera Tomáš vařil hostinu z Ingrediencí dle seznamu. Dopadlo to na výbornou. Think na grilu s bramborami s česnekem a fíky s nicotou jako side dish.<br>
+
+<a href="../images/2025_october/11_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/11_3.jpg"></a>
+
+Nakonec jsme se přesunuli do garáže / herny a hráli ping pong a kulečník. Únava na mě padla nekdy pred jednou a šel jsem spat trochu dřív než ostatní. Kromě Jandy. Ten už chrupkal.<br>
+
+### 12.10. Úkoly splněné
+
+Jít spat těsně po půlnoci byla dobrá volba. Vzbudil jsem se v 9 a zapsal si něco málo do deníku. Když člověk místo vody pije pivo, paměť nefunguje zdaleka tak dobře.<br>
+Čekala nás snídaně a úklid. Předat jsme měli chatu v původním stavu. Do dvanácti jsme tak vysávali. myli a dávali věcí na původní místa.<br>
+Povedlo se. Paní byla spoko a my tak vyrazili zpátky do Frýdlantu. <br>
+
+<a href="../images/2025_october/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/12_1.jpg"></a>
+
+Do pivovaru. Moc krásnou přírodou v podzimním hávu. Albrecht údajně změnil majitele a šlo to tam z kopce. Ověřili jsme to. I když možná ne. Moje řezaný bylo skvělý, smažák vzhledem k ceně taky a kolena byl flák. Vlastně jedinej problém byly krokety, který si objednal Tomáš. A Tomáš má problémy v každý hospodě.<br>
+Z pivovaru to bylo asi půl hodiny na nádraží. Bylo načase splnit úkol: Složit píseň která ukáže, jak moc máš Terka rád a vydělat s ní alespoň korunu busteváním. Na náměstí nikdo nebyl . Na peronu to bylo lepší. Písnička to byla moc milá a vydělala to korun ještě před refrénem.<br>
+Ve vlaku dostal Tomáš radu od průvodčí, ktera byla manželstvím zhrzena! Zarecitovala mu báseň<br>
+*S úsměvem\<br>
+bez mráčku\<br>
+do manželského koncentráčku.*<br>
+Bylo to divný. Až jsem z toho tom vlaku zapomněl mikinu. Škoda, měl jsem jí rád. Spíš za to mohl třetí den pití piva místo vody. V takovým stavu člověk dělá chyby.<br>
+Třeba Ondra díky tomu našel RegioJet z centra, ne z nádraží a tak nám po návštěvě absurdní čtyřky s deními ochlasty fandícími velké pardubické, autobus ujel. Ukrajinský autobus do Prahy nás nevzal a další RJ měl málo míst.<br>
+
+<a href="../images/2025_october/12_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/12_2.jpg"></a>
+
+Marek se rozhodl jet přes Jablonec. Když jsme ale o hodinu později jeli naším Rjčkem přes centrum, přistoupil k nám. A tak jsme ještě v Hloubětíně dali večeři ve Staré hospodě. Byla to fajn tečka za dobře prožitým víkendem. Fakt to všechno pěkně vyšlo.<br>
+Nás 3 Vršovické vzalo domů tágo a ostatní sedli na městskou.<br>
+Veru byla na zkoušce. Než se vrátila usnul jsem. Stejně jako mně jí krví kolovalo několik piv a pár dní odloučeni v ní probudilo chuť. Spát jsme šli pozdě.<br>
+
+### 13.10. Brouka do hlavy
+
+Ráno jsme s Verunkou jeli do Vysočan společně. Bylo třeba vytisknout a podepsat rezervačnd smlouvu na byt v Letňanech. Ráno nás ale ještě stihli popadnout démoni.<br>
+Verunka v práci zmátla Jirku. Myslel si, že je to Monča. Smlouvy jsem vytiskl hned 2x, Makléř Jirka nám to potvrdil obratem a tak jsme zlehlali o osmnáct tisíc. Dle smlouvy ale neměli jít realitce, ale byl použitý na Část kauce po kodepsání nájemní smlouvy<br>
+Po kafi se Verunka vratila dam a já se pustil do debugu připojení pomocí Acceleronixem. IMSI v Kartě nesedělo s jejich systémem. APN už vůbec ne. Až mobil to rozchodil.<br>
+Odpo přišly nový VNAčka. LibreVNA mě nadchlo. A ukázalo, že Tiny nebylo zllý. Ale substrát ze Safiralu měl menší epsilon. To bylo nešťastný.<br>
+Chtel jsem do bazénu, ale nevzal jsem si zámek. Zastavil jsem se aspoň u cvičitek na Konopištské. Zavolal jsem Kotrbaté a domluvil, že se zastavil ve čtvrtek.<br>
+Doma jsme si s Verunkou povídali o budoucnosti. Měla rychlejší harmonogram než já. Dávalo to smysl. Dalo mi to brouka do hlavy.<br>
+
 <!--
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
 
 
 ###
