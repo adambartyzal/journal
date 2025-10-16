@@ -11,11 +11,13 @@
 - [6.10. Sprostá zlodějna](#610-sprostá-zlodějna)
 - [7.10. Prostě úterý](#710-prostě-úterý)
 - [](#)
-- [](#-1)
+- [9.10. Majitel šesti činžáků nevaří a nepeče](#910-majitel-šesti-činžáků-nevaří-a-nepeče)
 - [10.10. Budeme mít okna!](#1010-budeme-mít-okna)
 - [11.10. Déšť tomu dodal grády](#1110-déšť-tomu-dodal-grády)
 - [12.10. Úkoly splněné](#1210-úkoly-splněné)
 - [13.10. Brouka do hlavy](#1310-brouka-do-hlavy)
+- [](#-1)
+- [15.10. Krteček, veverka, jety a doktor Galén](#1510-krteček-veverka-jety-a-doktor-galén)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -122,14 +124,19 @@ Prostě úterý.<br>
 ###
 
 
-###
+### 9.10. Majitel šesti činžáků nevaří a nepeče
 
+Bytová situace na mě nějak dolehla. Ráno jsem se nemohl vykopat z bytu a jel jsem vlakem až v 9. Praha byla prázdná. Kromě Kolbenky. Ta stála až k Ivanovi zřejmě. Proto mu cesta trvala hodinu a půl.<br>
 
 <a href="../images/2025_october/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/09_1.jpg"></a>
 
+Opravoval jsem NFCčka kabílkem, řešil tiskárny a na oběd jsme šli do věže na rizoto.<br>
+Po návratu do dom nás čekala prohlídka dvou bytů. Oba ve Vršovicích. Oba od stejného makléře a oba patřící<br>
+stejnému majiteli. Tomu se v životě poštěstilo. Vlastnil v Praze šest činžovních domů. Ale nevařil a nepekl. Trouba ani pořádný sporák nebyl ani v ulici Na Spojce. Ani v Novgorodské.<br>
 
 <a href="../images/2025_october/09_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/09_2.jpg"></a>
 
+Zato tam byly Wavky. Za oboje bychom dali přes 20. A kupovali bychom lednici, pračku a neměli kam dát myčku. Alespoň Na Spojce ne. O Novgorodský bych i uvažoval. Ale čekala nás prohlídka v Letňanech, takže jsme si neplácli.<br>
 
 ### 10.10. Budeme mít okna!
 
@@ -216,13 +223,20 @@ Odpo přišly nový VNAčka. LibreVNA mě nadchlo. A ukázalo, že Tiny nebylo z
 Chtel jsem do bazénu, ale nevzal jsem si zámek. Zastavil jsem se aspoň u cvičitek na Konopištské. Zavolal jsem Kotrbaté a domluvil, že se zastavil ve čtvrtek.<br>
 Doma jsme si s Verunkou povídali o budoucnosti. Měla rychlejší harmonogram než já. Dávalo to smysl. Dalo mi to brouka do hlavy.<br>
 
+###
+
+
+### 15.10. Krteček, veverka, jety a doktor Galén
+
+Tentokrát jsme tolik nechvátali. Ještě v půl deváté jsem doma vyřizoval na slacku dotazy ohledně acceleronixu a na kole dojel na Kolbenku až v půl desátý.<br>
+Skoro na schůzi, kde se nový simky řešily. Taky příspěvek na očkování na žloutenku. Ostrouhal jsem. A i B protilátky už mi dávno kolovaly krví.<br>
+Radši jsem šel krájet antény na substrátu ze safiralu. Měl jsem fakt radost z novýho VNA.<br>
+Do Vietnamu jsme šli s Adélkou. Musela si potom vyzvednout na poště věci, který v pondělí nepřivezlo auto. To, který na nás sere pokaždý.<br>
+Krájení antén je na dýl. A brainstormování nové baterie. ještě na dýl. Vymýšleli jsme jí s Ludvou a Ivanem až do půl šestý a já musel jet Silvou Norticou, abych stihl deskovky u Fíkrů.<br>
+Reálně to byla večeře, povídání a kartičkovaná. Rizoto, bydlení a kauza knihobot a 4 postavy / zvířata. Jety mi zabral fakt dlouho. Doktor Galén prý opravdu existoval.<br>
+Návštěva to byla milá. Meli jsme sociální týden. Na další den jsme plánovali signal.<br>
+
 <!--
-
-
-###
-
-
-###
 
 
 ###
