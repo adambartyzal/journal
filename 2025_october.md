@@ -18,6 +18,17 @@
 - [13.10. Brouka do hlavy](#1310-brouka-do-hlavy)
 - [](#-1)
 - [15.10. Krteček, veverka, jety a doktor Galén](#1510-krteček-veverka-jety-a-doktor-galén)
+- [](#-2)
+- [](#-3)
+- [](#-4)
+- [](#-5)
+- [20.10. Dundáčková není Hrmo](#2010-dundáčková-není-hrmo)
+- [21.10. Karma nefunguje](#2110-karma-nefunguje)
+- [](#-6)
+- [23.10. Nalezený dítě](#2310-nalezený-dítě)
+- [](#-7)
+- [25.10. Bez padesáti osmdesát](#2510-bez-padesáti-osmdesát)
+- [26.10. O hodinu víc](#2610-o-hodinu-víc)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -226,6 +237,12 @@ Doma jsme si s Verunkou povídali o budoucnosti. Měla rychlejší harmonogram n
 ###
 
 
+<a href="../images/2025_october/14_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/14_1.jpg"></a>
+
+
+<a href="../images/2025_october/14_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/14_2.jpg"></a>
+
+
 ### 15.10. Krteček, veverka, jety a doktor Galén
 
 Tentokrát jsme tolik nechvátali. Ještě v půl deváté jsem doma vyřizoval na slacku dotazy ohledně acceleronixu a na kole dojel na Kolbenku až v půl desátý.<br>
@@ -236,40 +253,92 @@ Krájení antén je na dýl. A brainstormování nové baterie. ještě na dýl.
 Reálně to byla večeře, povídání a kartičkovaná. Rizoto, bydlení a kauza knihobot a 4 postavy / zvířata. Jety mi zabral fakt dlouho. Doktor Galén prý opravdu existoval.<br>
 Návštěva to byla milá. Meli jsme sociální týden. Na další den jsme plánovali signal.<br>
 
+###
+
+
+###
+
+
+###
+
+
+<a href="../images/2025_october/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/18_1.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_1.jpg"></a>
+
+
+<a href="../images/2025_october/19_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_2.jpg"></a>
+
+
+<a href="../images/2025_october/19_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_3.jpg"></a>
+
+
+<a href="../images/2025_october/19_4.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_4.jpg"></a>
+
+
+### 20.10. Dundáčková není Hrmo
+
+Verunka nemusela vstávat. Já neměl budík a tak mě probudil až telefonát od DJe. Brali si zámek do Maďarska, ale nebyl nabity! Poradil jsem mu co dělat a šel si oholit hlavu. Nový týden, nový sestřih.<br>
+Zvolil jsem vlak. A kafe z automatu. Bylo slunečno a já měl dobrou náladu.<br>
+Vláďa se vrátil z lodě. Kapitánovat prý bylo fajn. Povídal o tom Vic ve Vietnamce nad obědem. Jinak jsme řešili baterii a v půl třetí nám začal call s kusem a paní z další firmy přes L2, TQM, PCI a dalších zkratek, které bylo třeba demystifikovat.<br>
+V šest měla přijít paní Kotrbatá. Tentokrát to neodřekla. Paní Dundáčková se rozhodla přijít s ní o půl hodiny dřív. Vyrazil jsem za Verunkou, která vycídila byt a připravila občerstvení.<br>
+Vlastně to byla milá návštěva. Kdyby nás teda nevyhazovali. Domluvili jsme se na odprodeji myčky a dalších drobnostech. Veru byla celou návštěvu fantastická.<br>
+Večer jsme dokoukali první loupež La casa de papel. Naštěstí to nemělo cliffhanger na třetí sérii.<br>
+
+### 21.10. Karma nefunguje
+
+Dj nějak nedokázal zámek v Maďarsku zapnout. Ráno jsem doma zjišťoval, čím to je, že se neozývá v internetu ani na Sms. Ukázalo se, že mu vypadl simkarta. Naneštěstí to objevil až někde za Brnem. Test k prdu. Ale GPS i GSM na D1 celou dobu dobry? Měl jsem radost aspoň z toho.<br>
+
+<a href="../images/2025_october/21_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/21_1.jpg"></a>
+
+Co mě nepotěšilo, byl pan Pospíšil. Zavolal mi, že současný nájemník má nějaké zdržení s bankou a nestihne se vystěhovat do víkendu, kdy my plánovali stěhování. Víc nevěděl.<br>
+S Ivanem jsme koukali na baterie. Pustil jsem se do výzkumu článků. 4 Ah 18650 existují, ale jsou vykoupené velkým množstvím neduhů.<br>
+Po práci jsem šel plavat. S trochou mentálního přemáhání jsem uplaval kilometr a dal 15 minut sauny. Ve sprše jsem nějakému pánovi zachránil plavky před ztrátou a venku se mi vesmír odměnil šlápnutím do lejna. Byl jsem z toho nešťastnej.<br>
+Veru měla lepší den. Nakupovala v sekáči šaty. Moc jí všechny slušely. Ukazovala se mi večer, když jsem dojídal zbytek tvrdého chlebu.<br>
+
+<a href="../images/2025_october/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/22_1.jpg"></a>
+
+
+###
+
+
+### 23.10. Nalezený dítě
+
+Veru se probudila s balením v krku. Rozhodla se zavolat do práce a jít k doktorce. Já si zabalil noky a vyjel na kole ven. Bylo mživo, ale na obloze se díky tomu vykouzlila dvojitá duha. „All the way.""<br>
+Safiral si uvědomil, že nemají tester. Otestoval jsem ho, zabalil a připravil na cestu UPSkou. Ríša jel do Bech Akku. Měl s sebou zámek a měl ho dovézt do Německa. Volal mi z první vesnice za rozvedonem a všechno klaplo. Acceleronix se připojil do Vodafone. d a dostal data téměř okamžitě.<br>
+Christelle nám nacenila její služby. Ludvík udělat tabulku a vycházelo to asi líp než s Arturem, ale pořád to byly vyšší miliony korun.<br>
+Venku pršelo. Hrabal jsem se v NFCM a nechtelo se mi ven. Taky jsem mohl napracovat čas na pátek. Ale taky bylo třeba nakoupit na nadcházející dekolaudací. Nakonec jsem jel v 19:17. Jenže...<br>
+U kolárny jsem našel dítě. Sedělo tam na křesle a prý čekalo na mámu. Máma prý šla koupit chlebík. To bylo trochu divný. Nikdy jsem je neviděl rozdělený. Šli jsme na zahradu, pak jsme potkali sousedy zdola a s nimi šli hledat rodiče nahoru.<br>
+Na zvonek, ani klepání nereagovali. Kluk měl boty naopak. Série telefonátů ukázala , že paní opravdu šla na nákup, ale kluk měl být doma, nicméně si dokázal odemknout a odejít i když táta byl doma. „Vzadu" prý neslyšel zvonek.<br>
+Paní jsem potkal venku a všechno dobře dopadlo. Teda až na hádku, kterou jsme zaslechli s Verunkou o půl hodinu později.<br>
+Lidl ale stihl zavřít. Vzal jsem krosnu a dojel na kole do Tesca. Byl to trochu debilní nápad. 4 šestipíva, zelenina , pečivo a další se do krosny moc nevešly, a tak jsem jel s plnýma rukama ověšený vším možným.<br>
+Ale zvládl jsem to!<br>
+
+### 
+
+
+<a href="../images/2025_october/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/24_1.jpg"></a>
+
+
+### 25.10. Bez padesáti osmdesát
+
+Další líná sobota. Skoro stejně jako sedm dní nazpátek jsme většinu dne byli doma. Veru se léčila a já lenivěl. Chtěl jsem rozchodit MQTT Broker na Raspi, ale našel jsem na SD kartě fotky a chytil nostalgickou a pak přešel na YouTube.<br>
+Odpo jsme si dali tortilly plněné rýží s mexickou směsí. Když jsme pak šli do Grébovky na vzduch, objevili jsme, že přesně rok zpatky , jsme je měli spolu poprvé.<br>
+Na lavičce pod opadávajícími stromy jsem psal, Veru luštila křížovku a pili jsme čaj. Veru do toho občas zakašlala. Bylo nám tak osmdesát<br>
+Přicházející déšť nás donutil se zvednout a vrátit se domů. Tam jsme si pustili další řadu La Casa de Popel. A potom film Inside man. Verunka byla překvapená, že o něm nikdy neslyšela. Byla to v mnohém předloha pro La Casa de Papel.<br>
+
+### 26.10. O hodinu víc
+
+Neděle byla snad ještě línější než sobota. Nicméně stěhování oficiálně započalo. Uklidil jsem do krabice monitor. Veru pár knih. A pak jsme lenošili, koukali na Brexit a Sbormistra a váleli se na gauči. To všechno v den, kdy jsme získali hodinu spánku navíc a přišli o hodinu světla na půl roku dopředu.<br>
+
+<a href="../images/2025_october/26_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/26_1.jpg"></a>
+
+
 <!--
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
 
 
 ###
