@@ -21,7 +21,7 @@
 - [16.10. Signál bez Verunky](#1610-signál-bez-verunky)
 - [](#)
 - [](#-1)
-- [](#-2)
+- [19.10. Ten správně hřejivý podzim](#1910-ten-správně-hřejivý-podzim)
 - [20.10. Dundáčková není Hrmo](#2010-dundáčková-není-hrmo)
 - [21.10. Karma nefunguje](#2110-karma-nefunguje)
 - [22.10. Ludvíkova sokyně](#2210-ludvíkova-sokyně)
@@ -30,6 +30,7 @@
 - [25.10. Bez padesáti osmdesát](#2510-bez-padesáti-osmdesát)
 - [26.10. O hodinu víc](#2610-o-hodinu-víc)
 - [27.10. Imunita](#2710-imunita)
+- [28.10. Den České státnosti finové neslaví](#2810-den-české-státnosti-finové-neslaví)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -292,20 +293,31 @@ Intalace mi přišly fajn. Kromě mappingu na Staroměstskou radnici. Ta neměla
 <a href="../images/2025_october/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/18_1.jpg"></a>
 
 
-###
+### 19.10. Ten správně hřejivý podzim
 
-
-<a href="../images/2025_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_1.jpg"></a>
-
+Vzbudil jsem se v 9:11. Zhrozil se jak je moc pozdě a Usnul na další hodinu a půl. Měl jsem kocovinu. Už fakt dlouho jsem neměl kocovinu.<br>
 
 <a href="../images/2025_october/19_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_2.jpg"></a>
 
+Když jsem se vyhrabal z postele a došel do kuchyně, našel jsem Verunku válčit s pánví. Chtěla udělat placky z fazolí, ale neměly vnitřní pevnost a vznikl připálený cucflek. Výzva. Vyčistil jsem pánev, provedl seasoning a zkusil udělat lepší placku. Melo to potenciál. Ale potom se to v okamžiku zhroutilo.<br>
+Ze zbytku jsme udelali mufiny. A pak se přesunuli do sprchy, kde jsme měli pěkné.<br>
+Venku taky bylo pěkně. Oblékli jsme se, u nádraží vzali rekole a next bike a vyrazili do Hlubočep. Kolem Botiče ve kterém se zrovna jelo Rio. Ještě nikdyjsem to naživo neviděl a přišlo mi to skvělý. Poslal jsem fotky do skupiny.<br>
 
 <a href="../images/2025_october/19_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_3.jpg"></a>
 
+Sára má nadšení nesdílela. Prý videla krysy fandit. Cimprlína. Jasně že krysy fandily. Jelo se to jednou za rok a počasí vyšlo!<br>
+Koukli jsme jak lodě vyjíždí na Výtoni do Vltavy a pokračovali přes Baranďák. Na Hlubočepskou stanicí bikesharingu jsme dojeli po 57 minutách jízdy. Zaplaceno Multispeutkou!<br>
+Veru mi vyčetla, že jsem jí neřekl, že si má vzít legíny. Její dámské partie v džínách na rekole utrpěly odření. Ale naštěstí jen mírné a tak mohla pokračovat v peší části výletu Prokopským údolím.<br>
+
+<a href="../images/2025_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_1.jpg"></a>
+
+Bylo to moc fajn. Našli jsme lom, nenašli tunel adošli až do Butovic. Moc hezkým podzimem. V Albertu jsme koupily housky se sýrem, tempeh v akci a jogurt a mléko na množení v sušičce.<br>
 
 <a href="../images/2025_october/19_4.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_4.jpg"></a>
 
+Metrem jsme přejeli do Radlic. Do bazénu, ve kterém jsem ještě nikdy neplaval. Byla to třetí část výletu.Nakonec dokonce se slevou, neb prý zrovna dokončili rekonstrukci.<br>
+Bazén měl extrémně finský vibe a novou finskou saunu. Škoda, že genderově rozdělenou. Sprchy tam vyly. Nejde to popsat líp. Znělo to jako smečka vlků. Pět a dvacítka obklopená sklem a za okny podzimní krajina. Byl jsem nadšenej.<br>
+Cestou metrem domů jsem vyjmenovával stanice. K večeři jsme měli zedníci a pustili si Casa de Papel. Únava přišla brzy. Byl to aktivní den!<br>
 
 ### 20.10. Dundáčková není Hrmo
 
@@ -386,10 +398,17 @@ Chtěl jsem Verunku potěšit. Koupil jsem jí podzimní kytici. Ona zase chtěl
 Rozebrali jsme společně stůl a pak si pustili Sbormistra. Oba jsme čekali víc.<br>
 Na mě šla slabota. Imunita potřebovala podpořit dlouhým spánkem. Obzvlášť, když mě čekal let do Finska.<br>
 
+### 28.10. Den České státnosti finové neslaví
+
+Letět pracovně ve svátek není tak zlý. Člověk dostane zaplaceno 2x a dietu k tomu. Venku bylo hnusné. Jak v Praze, tak ve Finsku. Ideální příležitost k tomu nechat si zaplatit navíc, za něco ne úplně zábavného.<br>
+Verunka nám udělala k snídani bagely s mozarelou. Na letisko jsem nechvátal. Odlet byl dvacet minut před polednem. Snažil jsem se sbalit nějak efektivně, ale s Horshoe Lockem, dvěma CBN, nabíječkami, debuggerem, laptopem, Řehořem a dalšími pracovními nesmysly zbylo místo jen na ponožky a trenky. A vlastně na plavky a ručník. Přemýšlel jsem o návštěvě bazénu a sauny. Bylo to Finsko konec konců.<br>
+19 → A → 59. Trocha Duoinga a rostoucí bolehlav. Na letišti žvýkačky a bageta z Billy a potom poprvé sekuritka s novým rentgenem, který nepotřebuje vyndavat věci. Stejně mě vybrali. Nedivil jsem se, vzhledem k množství elektroniky v batohu.<br>
+Na gejtu a v letadle jsem dopsal docela značnou část deníku. Spousta dní chybelo, ale pohnul jsem s tím. Být na chvili odříznutý od internetu je prospěšný.<br>
+V Helsinkách pršelo. Ale cestou vlakem se mraky trhaly. Finské ticho mě obklopilo. Mám tu zemi moc rád. Opak Španělska, který má ráda Veru. Ale já vlastně taky. Mám rád od obojeho trochu.<br>
+V Lahti jsem se ubytoval a vyrazil se zámkem ne zádech ven. Potkal jsem jedno odemčené kolo. Proč tomu tak bylo, bylo záhadou, kterou logy neodhalily. Tady Jsem potkal Eliase a jednoho z těch novějších. Měnili baterie.<br>
+V Primě jsem koupil něco k večeři a dojel na kole do hotelu. Bylo pozdě, tma a já byl grogy. Něco mále jsem dopsal, ohřál se ve sprše, napsal lidem, že stěhování se posouvá a šel spát.<br>
+
 <!--
-
-
-###
 
 
 ###

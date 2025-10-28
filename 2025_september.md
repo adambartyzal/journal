@@ -29,7 +29,7 @@
 - [](#-1)
 - [](#-2)
 - [26.9. Wafle až z Belgie](#269-wafle-až-z-belgie)
-- [](#-3)
+- [27.9. Tři slunečnice za mlýnek](#279-tři-slunečnice-za-mlýnek)
 - [28.9. Vzít zámek na výlet](#289-vzít-zámek-na-výlet)
 - [29.9. Konec nejistoty](#299-konec-nejistoty)
 - [30.9. Další francouzi](#309-další-francouzi)
@@ -356,14 +356,24 @@ I když, tak úplně zčista jasna to asi nebylo. Sám jsem měl pocit, že nen�
 Večer nám měl přijet host z Belgie. Ale až někdy po desáté. Do té doby jsme si pouštěli papírový dům.<br>
 Návštěva byl Verunky spolužák Vojta z gymplu. Odstěhoval se do Belgie za přítelkyní. Povídalo se s ním dobře. Naše vzdělání mělo velký přesah, proto taky a zájmy a světo názor asi taky. Kecali jsme asi do pul Jedny! Ale přijel k nám přespat ne přebdět.<br>
 
-###
+### 27.9. Tři slunečnice za mlýnek
 
+Vojta vyrážel na vlak v pět ráno. Probudil mě, tak jsme se alespoň rozloučili pak jsme usnuli znova a dost tvrdě na to, abychom zaspali odjezd naplánovaného vlaku do Kolína.<br>
+Nebyl to problém, jeli jsme dalším vlakem. My a Horseshoe Lock. Verunka nesdílela svůj neomezený internet mamince dětí, kteří se dožadovali hraní her na tabletu. Zero screen time<br>
 
 <a href="../images/2025_september/27_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_1.jpg"></a>
 
+nevyšel, ale pomohlo to. Děti se uklidnily.<br>
+Zámek vypadával ze sítě. Hodně. Nebylo to dobry!<br>
+Po vystoupení z vlaku bylo třeba pořídit mámě květiny. Pohřební prý nebyly ok. Jakoby to hrálo roli. Aspoň bych neutratil randál jako pán v květinářství před námi. Dvanáct set tam nechal. Hnus. Ještěže tři slunečnice S heřmánkem okolo stály „jen" 430.<br>
+Mámu rozhodně potěšily.<br>
 
 <a href="../images/2025_september/27_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_2.jpg"></a>
 
+Pustil jsem se do přenášení údajů do nového telefonu. Čekal jsem to jednodušší Xiaomi a Motorola nejsou kamarádi.<br>
+Vera si s mámou povídala o porodnici. Měli jsme kávu, chleba s pomazánkou a když už byl mobil použitelnej, Vyrazili jsme ven na náměstí, kde bylo vinobraní. Pít se mi ale nechtělo a tak jsme pokračovali k řece a na ostrov.<br>
+Na vlak jsme dojeli vlakem. Curákem na nádraží a pak rychlíkem. Dobrej trik za jednu PID jízdenku.<br>
+Na Verunku šla teplota. Dali jsme polévku, wafle a šli do postele.<br>
 
 <a href="../images/2025_september/27_3.jpg" target="_blank"><img src="../images/thumbnails/2025_september/27_3.jpg"></a>
 
