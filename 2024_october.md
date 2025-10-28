@@ -26,7 +26,7 @@
 - [23.10. Nejhorší chleba na planetě](#2310-nejhorší-chleba-na-planetě)
 - [24.10. Říct NE](#2410-říct-ne)
 - [25.10. Podzimní prázdniny](#2510-podzimní-prázdniny)
-- [26.10. Ti s tou pizza peci](#2610-ti-s-tou-pizza-peci)
+- [26.10. Ti s tou pizza pecí](#2610-ti-s-tou-pizza-pecí)
 - [27.10. Poprvé nepracovně](#2710-poprvé-nepracovně)
 - [28.10. Zatáhla mě do podzemí](#2810-zatáhla-mě-do-podzemí)
 - [29.10. Šmak podzimowy](#2910-šmak-podzimowy)
@@ -303,16 +303,16 @@ Doma jsme se pustili do těstovin. Sesypali jsme zbytky holinek, vřeten a dalš
 Po jídle jsme tančili a pak se to nějak zvrtlo.<br>
 K večeři jsem udělal tortily. Rýži s mexickou plechovkou jsem smíchal jako výplň. Zelí, papriku a cibulku jsem nakrájel a Veru tortily zamotala. Během konzumace Veru přidávala Pol v Krakově do mapy.<br>
 
-### 26.10. Ti s tou pizza peci
+### 26.10. Ti s tou pizza pecí
 
-Nebyl chleba. Než jsme se ale vyhrabali z postele, Lidl otevřel a horský chléb, mandle v čokoládě, cider pro Sáru a suchý šampon pro Vera na cestu putovaly s námi zpět do domu, kde Pan Kepka krmil Minu.<br>
+Nebyl chleba. Než jsme se ale vyhrabali z postele, Lidl otevřel a horský chléb, mandle v čokoládě, cider pro Sáru a suchý šampon pro Veru na cestu putovaly s námi zpět do domu, kde Pan Kepka krmil Mínu.<br>
 Tvaroh by to asi dal a vakuovaná řepa taky, ale měl jsem chuť na řepnou pomazánku. Nastrouhat jsem řepu, smotal jí se dvěma tvarohy, Veru dodala trochu soli a pepře a šli jsme hodovat. Byla opravdu dobrá. Vlastně mi vůbec nedošlo, že tvaroh je živočišnej. Ale Veru to zvládla. Asi začínaly prázdniny a prázdniny dovolají vyjímky. Navíc nás čekala Pizza.<br>
-Sára psala, že pokud je chceme vidět fresh a ne vzombie stavu, měli bychom vyrazit vlakem ve 12. To šlo zařídit. V posteli čas utíká jinak.<br>
-V kupé jsme byli první . Jedno sedadlo mělo místenku, ale nás to příliš netrápilo. Na hlaváku se vlak zaplnil k prasknutí. Na sedadlo 105 se posadila babička z Hory, která nedbala našich varování, že jí co nevidět nědko vyhodí.<br>
-Paní co vypadala jako d. k. Rowling si s ní povídala. Všichni si nějak povídali. Kromě pána, který přistoupil v Libni a babičku vyhodil. Veru se jí sželalo a pustila ji na své sedadlo. Místo toho použila moje nohy. Dráty by nám měly vrátit peníze za naší obětavost.<br>
+Sára psala, že pokud je chceme vidět fresh a ne v zombie stavu, měli bychom vyrazit vlakem ve 12. To šlo zařídit. V posteli čas utíká jinak.<br>
+V kupé jsme byli první. Jedno sedadlo mělo místenku, ale nás to příliš netrápilo. Na hlaváku se vlak zaplnil k prasknutí. Na sedadlo 105 se posadila babička z Hory, která nedbala našich varování, že jí co nevidět někdo vyhodí.<br>
+Paní co vypadala jako J. K. Rowling si s ní povídala. Všichni si nějak povídali. Kromě pána, který přistoupil v Libni a babičku vyhodil. Veru se jí sželelo a pustila ji na své sedadlo. Místo toho použila moje nohy. Dráty by nám měly vrátit peníze za naší obětavost.<br>
 Nohy mi neupadly. Revizor celou cestu nepřišel a v Hořena nás motorák čekal. Tam už nám lístky kontrolovali. Řekl jsem Verunce, že po vystoupení z vlaku už nám zbývá jen 7 kilometrů pěšky. Její pohled byl k nezaplacení. Nechtělo se jí tahat s věcmi. Jinak by to ale dala.<br>
 Naštěstí to ale nebylo 7 kilometrů. Maximálně jeden. Cestou jsme potkali sošku truck, ale byla polámaná, takže jsme jí nechali v popelnici.<br>
-Jarda už mel rozpálenou pec. Nebo spíš roztápel pec. Darovali jsme pivo a cider, vytáhli pomazánku a pustili se do povídání si. O zemědělce, o Albánii, o Verunce a o pizze. Pochopitelně.<br>
+Jarda už mel rozpálenou pec. Nebo spíš roztápěl pec. Darovali jsme pivo a cider, vytáhli pomazánku a pustili se do povídání si. O zemědělce, o Albánii, o Verunce a o pizze. Pochopitelně.<br>
 
 <a href="../images/2024_october/26_1.jpg" target="_blank"><img src="../images/thumbnails/2024_october/26_1.jpg"></a>
 

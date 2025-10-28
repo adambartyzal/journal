@@ -10,25 +10,26 @@
 - [5.10. Adamovo stavení a Adamovi přátelé](#510-adamovo-stavení-a-adamovi-přátelé)
 - [6.10. Sprostá zlodějna](#610-sprostá-zlodějna)
 - [7.10. Prostě úterý](#710-prostě-úterý)
-- [](#)
+- [9.10. Za koleje se nevejdeme](#910-za-koleje-se-nevejdeme)
 - [9.10. Majitel šesti činžáků nevaří a nepeče](#910-majitel-šesti-činžáků-nevaří-a-nepeče)
 - [10.10. Budeme mít okna!](#1010-budeme-mít-okna)
 - [11.10. Déšť tomu dodal grády](#1110-déšť-tomu-dodal-grády)
 - [12.10. Úkoly splněné](#1210-úkoly-splněné)
 - [13.10. Brouka do hlavy](#1310-brouka-do-hlavy)
-- [](#-1)
+- [14.10. Na samou hranici hlavního města](#1410-na-samou-hranici-hlavního-města)
 - [15.10. Krteček, veverka, jety a doktor Galén](#1510-krteček-veverka-jety-a-doktor-galén)
+- [16.10. Signál bez Verunky](#1610-signál-bez-verunky)
+- [](#)
+- [](#-1)
 - [](#-2)
-- [](#-3)
-- [](#-4)
-- [](#-5)
 - [20.10. Dundáčková není Hrmo](#2010-dundáčková-není-hrmo)
 - [21.10. Karma nefunguje](#2110-karma-nefunguje)
-- [](#-6)
+- [22.10. Ludvíkova sokyně](#2210-ludvíkova-sokyně)
 - [23.10. Nalezený dítě](#2310-nalezený-dítě)
-- [](#-7)
+- [24.10. Dekolaudace](#2410-dekolaudace)
 - [25.10. Bez padesáti osmdesát](#2510-bez-padesáti-osmdesát)
 - [26.10. O hodinu víc](#2610-o-hodinu-víc)
+- [27.10. Imunita](#2710-imunita)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -132,8 +133,12 @@ Kolo do práce, osazování, oživování, pomáhání Tomíkovi pochopit jak fu
 Veru se radila s kolegy v hokejce a já šel psát. Víc nic.<br>
 Prostě úterý.<br>
 
-###
+### 9.10. Za koleje se nevejdeme
 
+Cítil jsem se paralyzovany! Sledovat ceny bytů. Pronájmů i prodejů. Chodit na prohlídky ruin za 7 milionů nebe nezařízených nehezkých bytů mě vyčerpávalo.<br>
+Cítil jsem se unaveně a s tlakem na hrudi. A to jsem na tom nejspíš byl mnohem líp než někteří. Na hlavu svět.<br>
+Bytu na druhé straně kolejí jsme ale hodně věřili. I když měl být menší. Nacházel se ve stejném bloku jako zrno zrnka. Na vlak ve Vršovicích ideál. Po mém návratu 7 Práce jsme se tam šli podívat.<br>
+Makléř byl sympeš. Ale když to člověk sečetl 23 tisíc měsíčně za prostor, kam bychom nedali své věci a to jsme minimalisté. Opravená kuchyň byla fajn, ale absence jakékoliv skříně byl problém. Během večera nám dost.. že potřebujeme víc než 40 metrů.<br>
 
 ### 9.10. Majitel šesti činžáků nevaří a nepeče
 
@@ -142,7 +147,7 @@ Bytová situace na mě nějak dolehla. Ráno jsem se nemohl vykopat z bytu a jel
 <a href="../images/2025_october/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/09_1.jpg"></a>
 
 Opravoval jsem NFCčka kabílkem, řešil tiskárny a na oběd jsme šli do věže na rizoto.<br>
-Po návratu do dom nás čekala prohlídka dvou bytů. Oba ve Vršovicích. Oba od stejného makléře a oba patřící<br>
+Po návratu dom nás čekala prohlídka dvou bytů. Oba ve Vršovicích. Oba od stejného makléře a oba patřící<br>
 stejnému majiteli. Tomu se v životě poštěstilo. Vlastnil v Praze šest činžovních domů. Ale nevařil a nepekl. Trouba ani pořádný sporák nebyl ani v ulici Na Spojce. Ani v Novgorodské.<br>
 
 <a href="../images/2025_october/09_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/09_2.jpg"></a>
@@ -234,14 +239,23 @@ Odpo přišly nový VNAčka. LibreVNA mě nadchlo. A ukázalo, že Tiny nebylo z
 Chtel jsem do bazénu, ale nevzal jsem si zámek. Zastavil jsem se aspoň u cvičitek na Konopištské. Zavolal jsem Kotrbaté a domluvil, že se zastavil ve čtvrtek.<br>
 Doma jsme si s Verunkou povídali o budoucnosti. Měla rychlejší harmonogram než já. Dávalo to smysl. Dalo mi to brouka do hlavy.<br>
 
-###
+### 14.10. Na samou hranici hlavního města
 
+Neboli do Horních Počernic. Po práci ve které jsem opět řezal antény a dostal se do ní vlakem se třema tupýma holkama, který jezdí v 7:20 každej den. Tři úplně vylízaný osoby, jejichž rodiče jim platí soukromou střední, kterou stejně nedávají. Ale to nevadí, dokud táta platí...<br>
+Veru jsem vyzvedl na Rajské Zahradě. Dojet metrem tam, bylo lepší než jet tramvají zpátky na Vysočanskou. Poslouchal jsem cestou irské folkové písně a každý s jedním sluchátkem jsme poté tančili na peronu, dokud vlak nepřijel.<br>
+Z vlaku jsme došli skrz Ho Po až k Nováčkovic. Trochu mě překvapilo, že už tam byla Reba s Ondrou. A ještě víc, že tam byl David s Týhou. Oba páry přijely auty. Nová doba.<br>
+Páťa mě na kočáře pláštěnku, která se mu moc nezdála a tak ho Filip vystavil proměnlivému počasí. Vyrazili jsme z obce ven do polí mezi dvěma dálnicemi.<br>
 
 <a href="../images/2025_october/14_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/14_1.jpg"></a>
 
+Vyprávěli jsme o hledání bytů a domů a o nadcházejícím stěhování. David vyprávěl o stěhování na šestku do mezonetového bytu, kde je v patře skryt před kočičími chlupy. Týna měla v posledním půl roce černý kašel a potom měli oba covid. Prý stěží udýchala procházku k dálnici a zpět. Nezáviděl jsem jí to. A má radost, že já byl očkovanej.<br>
+Po asi hodině venku, jsme se uchýlili k Filipovi a Anet domů. Předali jsme štrůdl, Rába taky a nováčkovic připravili občerstvení z vajíčkovky.<br>
+Zpětně si moc nepamatuju, o čem se ostatní bavili. Zabavil jsem se hraním si s Pátku. Měl knížky a autíčka a piánko a ovládal všechno najednou. Bylo to vtipný.<br>
 
 <a href="../images/2025_october/14_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/14_2.jpg"></a>
 
+Večer nás Réba hodila na vlak. Přímej už byl v trapu, ale i tak to bylo v poho cesta.<br>
+Bydlet mimo nádraží mi bude chybět.<br>
 
 ### 15.10. Krteček, veverka, jety a doktor Galén
 
@@ -249,11 +263,24 @@ Tentokrát jsme tolik nechvátali. Ještě v půl deváté jsem doma vyřizoval 
 Skoro na schůzi, kde se nový simky řešily. Taky příspěvek na očkování na žloutenku. Ostrouhal jsem. A i B protilátky už mi dávno kolovaly krví.<br>
 Radši jsem šel krájet antény na substrátu ze safiralu. Měl jsem fakt radost z novýho VNA.<br>
 Do Vietnamu jsme šli s Adélkou. Musela si potom vyzvednout na poště věci, který v pondělí nepřivezlo auto. To, který na nás sere pokaždý.<br>
-Krájení antén je na dýl. A brainstormování nové baterie. ještě na dýl. Vymýšleli jsme jí s Ludvou a Ivanem až do půl šestý a já musel jet Silvou Norticou, abych stihl deskovky u Fíkrů.<br>
+Krájení antén je na dlouho. A brainstormování nové baterie ještě na dýl. Vymýšleli jsme jí s Ludvou a Ivanem až do půl šestý a já musel jet Silvou Norticou, abych stihl deskovky u Fíkrů.<br>
 Reálně to byla večeře, povídání a kartičkovaná. Rizoto, bydlení a kauza knihobot a 4 postavy / zvířata. Jety mi zabral fakt dlouho. Doktor Galén prý opravdu existoval.<br>
 Návštěva to byla milá. Meli jsme sociální týden. Na další den jsme plánovali signal.<br>
 
-###
+### 16.10. Signál bez Verunky
+
+Tma, zima a nedostatek energie. 6 ráno. Veru bylo slabo.<br>
+Chvíli jsme vedli diskusi, zda má smysl jít do práce, ale Veru cítila že to dá, akorat se musí večer dospat.<br>
+Do práce mi přišla nová VNAčka. Malé NanovNA mě příjemné překvapilo a velké Libre VNA nadchlo. Hlavně jeho aplikace.<br>
+Na signál jsem vyrazil pěšky. V lidlu si koupil dvě pity a přecpal se během chůze po sokolovské tak, že mi začalo být trochu blivno.<br>
+Nedošel jsem ani na Palmovku, když začalo být jasny! že jdu pozdě. Vzal jsem tramvaj, pak Béčko a z metra si volal s mámou. Mela pocit, že se neozvu, jak je rok dlouhej.<br>
+V Klementinu jsem potkal Ondru, Davida s Týnou a Martin s jejím novým klukem, který vedl moc fajn psa. Ten nám všem utkvěl v paměti víc, než ten kluk, který toho moc nenapovídal.<br>
+
+<a href="../images/2025_october/16_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/16_1.jpg"></a>
+
+Intalace mi přišly fajn. Kromě mappingu na Staroměstskou radnici. Ta neměla hlavu ani patu. Tam Verunka, která doma léčila nachlazení, nepřišla o nic. Vnitřní výstava nasvícených epoxidů, tunel s postupně rozsvěcují mi se zářivkami, projekce do vodotrysku nad řekou a Ludmila byly moc fajn. V té jsme se rozprchli do Třech směrů. Tramvaj, metro a next bike.<br>
+
+<a href="../images/2025_october/16_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/16_2.jpg"></a>
 
 
 ###
@@ -303,8 +330,12 @@ Veru měla lepší den. Nakupovala v sekáči šaty. Moc jí všechny slušely. 
 <a href="../images/2025_october/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/22_1.jpg"></a>
 
 
-###
+### 22.10. Ludvíkova sokyně
 
+Bylo hnusně. Jel jsem s Verunkou. Koukal jsem ve vlaku do zpráv a ukázalo se, že Ludvík konečně narazil na někoho, kdo byl rychlejší a dělal víc věcí než on. Christelle byla magor. Ale v dobrým slova smyslu.<br>
+Postavil jsem HLA S EU modemem, šli jsme do Věže s Adélkou a potom jsem hledal, jak 2g pulz vypne NFC. Nenašel jsem to.<br>
+Během cesty totálně zasekanou Prahou jsem se zastavil v Lidlu a nakoupil noky a zelí na jídlo s tempehem. Doma sice byla rýžová náplň do tortil, ale Veru souhlasila s tím, že tempeh je dobrá volba. Akorát byla u sestřenky na smíchově. Zkracovali tam na stroji šaty.<br>
+Jídlo se mi mrtě povedlo. Myslím, že za to mohlo připálení a půlka piva, kterou jsem do něj nalil. Verunka byla nadšená. Navíc jsem ho udělal ze dvou pytlů noků, takže bylo asi pět porcí a spousta zbyla do práce na další den.<br>
 
 ### 23.10. Nalezený dítě
 
@@ -318,11 +349,17 @@ Paní jsem potkal venku a všechno dobře dopadlo. Teda až na hádku, kterou js
 Lidl ale stihl zavřít. Vzal jsem krosnu a dojel na kole do Tesca. Byl to trochu debilní nápad. 4 šestipíva, zelenina , pečivo a další se do krosny moc nevešly, a tak jsem jel s plnýma rukama ověšený vším možným.<br>
 Ale zvládl jsem to!<br>
 
-### 
+### 24.10. Dekolaudace
 
+Pátek. Den na který jsme svolali Dekolaudační party. Vstal Jsem v šest, probral se ledovou sprchou a dojel do práce vlakem.<br>
+Moc jsem s debugem NFC / 2g nepohl. Ale rušení callbacku byl dobrý krok. V gdb jsem alespoň tušil, v jakém stavu se zámek nachází.<br>
+Vlakem jsem se i vrátil. Verunka doma připravila kotel hlívové polévky, ale když jsem jí šel do kuchyně obejmout, byla nějaká nešťastná. Všichni lidé, které pozvala jí to odřekli. Nemoci, nemoci a brácha, který v Ostravě řešil veterinární situaci s kočkou, které nakonec nic nebylo. Bylo mi to líto.<br>
+Ale nebyl čas plakat. Bylo třeba namazat řepovou pomazánku a po chvilce doběhnout dolů pro Nováčkovic a Rébu s Ondrou. První přivezli Páťu a koláč a druzí hromadu krabic. David s Týnou se omluvili a Fikrovi měli přijít později kvůli NIPSu.<br>
 
 <a href="../images/2025_october/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/24_1.jpg"></a>
 
+Polévka lidem chutnala moc, jednohubky taky. S pomazánkou i ty pečené. Povídali jsme si o stěhování, o plánování svatby a o životě s Páťou. Nováčkovic pořád měli plné ruce práce, ale už nevypadali jenom unaveně. Po sedmé příchozí Fikrovi zase posunuli diskusi ke stavbě a ke studii na zemědělce. A ke knihobotu, což už jsme si odbyli pár dní zpátky, takže jsem se věnoval přípravě dobrot a s Pátou hrál na piáno.<br>
+Nováčkovic odjeli dřív, zbytek seděl asi do půl jedenácté.<br>
 
 ### 25.10. Bez padesáti osmdesát
 
@@ -338,10 +375,18 @@ Neděle byla snad ještě línější než sobota. Nicméně stěhování ofici�
 <a href="../images/2025_october/26_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/26_1.jpg"></a>
 
 
+### 27.10. Imunita
+
+Obranyschopnost. Věc, kterou je třeba si hýčkat a rozvíjet. Není bezmezná a většinu víkendu ve mně fungovala, ale v neděli večer to prasklo. Ráno jsem měl v krku škrabavo a síly sotva půl.<br>
+Ale hecl jsem to a po konzumaci vitamínů, teplé sprše a chlebu s pomazánkou vyrazil na vlak. V něm mi přišlo, že jsem pořád jeden z těch zdravějších.<br>
+Chtěl jsem do zámku, který měl u sebe DJ v písku nahrát opravu hodin. Jenže loader nějak stagnoval. Hledáním toho, proč tomu tak je, jsem strávil většinu dne.<br>
+Překladač byl na víně. Přeložil nahrávání na flashku po dvou slovech v opačném pořadí, než Vláďovo ga.Pomohlo až disassembly.<br>
+Domů měl přijít dělník změřit futra. Nevolal mě ani paní Dundáčkové. Zato ta volala mě, že paní Kotrbatá si zlomila stehenní kost.<br>
+Chtěl jsem Verunku potěšit. Koupil jsem jí podzimní kytici. Ona zase chtěla překvapit mě a usmažila bramboráky.<br>
+Rozebrali jsme společně stůl a pak si pustili Sbormistra. Oba jsme čekali víc.<br>
+Na mě šla slabota. Imunita potřebovala podpořit dlouhým spánkem. Obzvlášť, když mě čekal let do Finska.<br>
+
 <!--
-
-
-###
 
 
 ###
