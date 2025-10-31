@@ -14,7 +14,7 @@
 - [9.8. Ultraprocessed Ireland](#98-ultraprocessed-ireland)
 - [10.8. Úrovně lidství](#108-úrovně-lidství)
 - [11.8. Mexický fitr](#118-mexický-fitr)
-- [11.8.](#118)
+- [11.8. 12.8. Heuréka!](#118-128-heuréka)
 - [13.8. Jako Frodo a Sam](#138-jako-frodo-a-sam)
 - [14.8. Konečně dovolená](#148-konečně-dovolená)
 - [15.8. Katánii příště](#158-katánii-příště)
@@ -26,7 +26,7 @@
 - [21.8. Září za rohem](#218-září-za-rohem)
 - [22.8. Hardware ok](#228-hardware-ok)
 - [23.8.](#238)
-- [24.8.](#248)
+- [24.8. 24.8. TODO list](#248-248-todo-list)
 - [25.8.](#258)
 - [26.8. Po roce Střížkov?](#268-po-roce-střížkov)
 - [27.8.](#278)
@@ -257,17 +257,33 @@ Nakonec jsme opet došli k moři. Do oblasti, kde byla skála. Řekl jsem si, ž
 Když slunko zapadlo, vzduch se rychle ochladil. Voda sice docela hřála, ale bylo třeba dostat něco do břicha. Osušili jsme se a po pláži se vrátili k hotelu, zjistili kolik chtějí za jídlo v tamější restauraci, udělali si mentální poznámku, že jednou by to docela šlo a pak došli domů na salát z poledne. Byla to kopa a byl moc dobrej. K němu dvě piva a konverzace s kolegy.<br>
 Dana už jsem docela znal. Lenka, jeho bývalá kolegyně byla nakonec docela v poho paní, která kdysi měla bohatého manžela, který i skrz oponu dokázal pořídit MTV, Betamax, BMW a a další výdobytky, které Jana s Romanem rozhodně neměli. I tak se ale k Romanovi dostali nahrávky Beatles, Rolling Stones a dalších, neb jeho Pražští rodiče měli kamarády obchodníky a příbuzné v americe. To jen já pocházel z rodiny z vesnice Uprostřed ničeho. Ale co, svět objevuju po svém a Veru to má podobně!<br>
 
-### 11.8.
+### 11.8. 12.8. Heuréka!
 
+Rolety fungují. Dokud byly zatažený můj mozek byl ve spánkovém módu. Když jsme na sebe pustili světlo, najednou jsem měl chuť na snídani.<br>
+Chleba, sýr a zeleninový salát jsme přenesli na stůl venku, kde jsem zapisoval co se dělo v Irsku a verunka z kindlu četla svůj deník z mládí.<br>
+Abychom stihli autobus do Syrakus, vyrazili jsme v předstihu a u zastávky si koupili tříšť. Byla ok, ale gelato tam uměli líp.<br>
+Autobus v době odjezdu nepřijel. Nepřijel ani o dvacet minut později. To už začalo štvát pána, který tam byl s námi. Začal na Verunku mluvit anglicky, i když to evidentně neuměl. Veru mu odpovídala Italsky, což jí taky úplně nešlo. Moc informací si nepředali. Po čtyřiceti minutách už mě to tam vyloženě nebavilo. Po hodině se ale objevil a my téměř okamžitě pochopili, proč nabral takový zpoždění.<br>
+Autobus se do malých uliček Fontány prostě nevešel. Respektive, sám by se vešel, ale protijedoucí auta zřejmě nechápala, že vedle sebe to prostě nepůjde a cpali se řidičce do cesty a couvat už nešlo, protože si italové nenechávali žádné rozestupy.<br>
+Řidička měla nervy ze železa. Myslím, že chlap by to nedal. Za městem už se ale provoz rozhýbal.<br>
+V výstupní zastávky si Very prohlížela klobouky a čepice. Nakonec si koupila šátek. Zamotala si ho na hlavu a překročení mostu jsme započali objevování ostrova, kde Archimédes objevil svůj zákon, běhal nahý a vykřikoval Heuréka!<br>
+Viděli jsme zbořeninu, malé uličky a lidi koupající se v moři. Mrtě čistém moři. Když to šlo, sešli jsme k němu taky.<br>
+Byla škoda, že jsme neměli brýle. Bylo jasný, že pod vodou by byl parádní výhled. Po chvili plavání jsme tedy vyrazili do vnitřku historické zástavby a vydali se hledat obchůdek s plaveckým náčiním. A něco k jídlu!<br>
+Smažený rýžový koule. Arančína. Asi za 2€ jedno. Horký a sytý. A moc dobrý.<br>
 
 <a href="../images/2025_august/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/12_1.jpg"></a>
 
+I ty brýle jsme našli. V sámošce. První teda byly úplně na hovno, ale Veru domluvila výměnu a po procházce okolo ostrova, pivku z láhve u fontány a obdivování sochy na mysu jsme se vrátili k moři. O kus dál než předtím. Věci jsme pověsili na hradby a šli se potápět.<br>
 
 <a href="../images/2025_august/12_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/12_2.jpg"></a>
 
+Bylo to super!<br>
+Malý ryby, velký ryby, barevní krabi a raci poustevníčci. Akorát Vera si nějak odřela stehna a slaná voda jí začala pálit. Vyrazila pro krém do lékárny a já dál objevovat taje mořského dna.<br>
+Když už jsem byl úplně rozpuštěnej, zavolala mi Veru seshora z ochozu a vrátili jsme se na pevninskou část města. Odsolená voda v pitku byla echt hnusná. Zkusil jsem další a ta byla hnusná a teplá. Nic moc, ale pít jsme museli a platit za vodu, když jsou kolem pitka mě nikdo nedonutí.<br>
 
 <a href="../images/2025_august/12_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/12_3.jpg"></a>
 
+Kdy nám pojede autobus nebylo úplně jasný. Na zastávce jsme si dali 2x deaf presso a počkali na správné číslo. Tentokrát jel autobus po rovné silnici a byli jsme doma docela rychle.<br>
+Dali jsme si salát, plánovali Etnu a sdíleli zážitky S ostatními, kteří se většinu dne váleli u moře pět minut od domu.<br>
 
 ### 13.8. Jako Frodo a Sam
 
@@ -427,11 +443,16 @@ Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili
 <a href="../images/2025_august/23_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/23_3.jpg"></a>
 
 
-### 24.8.
+### 24.8. 24.8. TODO list
 
+Pořád se mi nechtelo nic dělat. Ale lenivě jsem většinu soboty a kolem mě se hromadil bordel a vypad jsem jako bezdomovec. Napsal jsem si TODO list a pustil se do dne.<br>
+Napřed jsem se ostříhal a oholil. Dokonale čistá lebka bez říznutí. Měl jsem z toho radost.<br>
+Trochu jsem poklidil. Tam jsem mohl udělat víc. Ale chyběl mi dopamin.<br>
+Na alza jsem objednal, co chybělo. Hlavně ořechy. A dal do sušičky další křížaly. A najednou byl večer.<br>
 
 <a href="../images/2025_august/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/24_1.jpg"></a>
 
+Veru měla radost z mýho chleba.<br>
 
 ### 25.8.
 

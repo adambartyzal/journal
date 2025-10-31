@@ -25,9 +25,9 @@
 - [20.9. Sbírat šípky, řekl jsem](#209-sbírat-šípky-řekl-jsem)
 - [21.9. Na steroidech](#219-na-steroidech)
 - [22.9. Hablar con ella](#229-hablar-con-ella)
-- [](#)
-- [](#-1)
-- [](#-2)
+- [23.9. Povolit nos saunou](#239-povolit-nos-saunou)
+- [24.9. Len rukou neumeleš](#249-len-rukou-neumeleš)
+- [25.9. Bílá nemoc](#259-bílá-nemoc)
 - [26.9. Wafle až z Belgie](#269-wafle-až-z-belgie)
 - [27.9. Tři slunečnice za mlýnek](#279-tři-slunečnice-za-mlýnek)
 - [28.9. Vzít zámek na výlet](#289-vzít-zámek-na-výlet)
@@ -322,7 +322,7 @@ Pizza byla dobrá. pivo taky ušlo a počasí bylo skoro jižanské. Po dojeden�
 
 ### 21.9. Na steroidech
 
-Veru onemocněla. Rozbolelo jí v krku a ucpal se jí nos. Mě začínalo být lépe. Ale ucpaný nos jsem měl pořád a nelepšil se. Dospěl jsem k názoru, že je třeba pořídit kortikosteroidy. V DrMaxovi prodávali sprej se stejnou účinnou látkou jako obsahuje Mommx, který mi předepsali na ORL ve Vinohradské.<br>
+Veru onemocněla. Rozbolelo jí v krku a ucpal se jí nos. Mě začínalo být lépe. Ale ucpaný nos jsem měl pořád a nelepšil se. Dospěl jsem k názoru, že je třeba pořídit kortikosteroidy. V DrMaxovi prodávali sprej se stejnou účinnou látkou jako obsahuje Mommox, který mi předepsali na ORL ve Vinohradské.<br>
 Uvařil jsem Verunce samahan, čaj na průdušky a mátový čaj a vyrazil do Edenu do lékárny. Venku bylo snad ještě tepleji než v sobotu. Koupil jsem sprej, dozvěděl se, že ho mám aplikovat „od přepážky", jinak zeslábne a praskne. Taky že kortikosteroidy vysušují a je třeba nos vlhčit. Na tom jsem pracoval už od rána. Měl jsem patnácti minutový časovač a sprej s Vincentkoujsem aplikoval pokażdé, když zabuzučel.<br>
 Zpátky doma jsem se pustil do psaní deníku. Chybělo ho randál. Ale šlo mi to a září jsem doplnil celé a ze srpna taky pár dní.<br>
 Večer jsme si pustili pár dílů La Casa de Papel. Ale ne příliš. Šli jsme spát rozumně před desátou.<br>
@@ -334,27 +334,40 @@ Snídali jsme zapečené vločky. Přímé vlaky ujely, ale alespoň jsem zámek
 
 <a href="../images/2025_september/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/22_1.jpg"></a>
 
-Teplo víkendu pominulo. Denní maximum dosáhlo 13°C. Cestou do veže ještě navíc hnusně foukalo. Naštěstí tortilla a gulášová polévka mě zahřály dost na zpáteční cestu bez prochladnutí.<br>
+Teplo víkendu pominulo. Denní maximum dosáhlo 13°C. Cestou do věže ještě navíc hnusně foukalo. Naštěstí tortilla a gulášová polévka mě zahřály dost na zpáteční cestu bez prochladnutí.<br>
 Stavěl jsem další HLP. A pastu nanesl pozdě, takže součástky jsem nanášel až do šesti. Pak jsem sedl na kolo, dojel na nádraží a domů dojel vlakem. Cestou jsem duolingoval a zůstalo mi to i doma, takže jsme si s Verunkou povídali Španělsky. Moc mi to nešlo. Vlastně vůbec. Ale byla to zábava.<br>
 
-### 
+### 23.9. Povolit nos saunou
 
+Vlak v 8.20 měl v posledním vagonu s prostorem na kola funkční jen pravé dveře. Bylo to 50/50 jestli vystoupím. Měl jsem štěstí. V batůžku jsem měl oběd od Verunky a čekalo mě stavění HLP.<br>
+Na to jsem nepotřeboval příliš mozkové kapacity a tak jsem si do podkresu pustil Mikýře.<br>
+Abych nevyhazoval peníze za multispoutku do luftu, vzal jsem to domů přes STEP. Střídal jsem saunu, ledovou sprchu a páru. To vše v rámci snahy o podporu imunity a povolení sinusitidy. Docela to fungovalo. Aspoň dočasně.<br>
 
-### 
+### 24.9. Len rukou neumeleš
 
+Dál jsem stavěl HLP. Charles potřeboval zámky na prezentace, DJ do zkušebáku, Mastercard a Visa na L2 a ICube na L1.<br>
+Verunka měla ucpaný nos taky. Naštěstí ne chronicky. Dal jsem jí sprej a apeloval aby ho použila maximálně 2x denně a jen 3 dny za sebou, aby to tak i zůstalo.<br>
+V práci jsem vyzkoušel ruční mlýnek na drcení lněného semínka. Bylo to úplně k ničemu. Bylo třeba pořídit elektrický. Nebo se zeptat mámy, zda by nám nedala ten její, který stoprocentně nepoužívala.<br>
+Veru prováděla Ostravské středoškoláky Prahou. Domů se vrátila pozdě, neb dělala osvětu o Erasmu<br>
 
-###
+### 25.9. Bílá nemoc
 
+Plán na večer vymyslela Verunka. A Veronika. Verunky učitelka Z gymplu, jejíž studenty Verunka prováděla ve středu po Praze. Na dnešní večer naplánovaly divadlo. Čapkovu Bílou nemoc v ABC.<br>
+Když jsem přijel domu, trochu zmožený debugem, předbíhajících je hodin v HSLocku, ohřála mi Verunka basta, ale času bylo málo, takže jsem toho zhltl půlku a nahodil oblek. Doslova.<br>
+Hezky oblečení jsme vyrazili na šestku a dojeli do Vodičkovy, kde už se v pasáži U Nováků nacházelo jak spousty studentů oblečených semi formálně, tak dospělých v oblecích jako my.<br>
 
 <a href="../images/2025_september/25_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/25_1.jpg"></a>
 
+Na představování bylo jen pár vteřin. Sotva jsme se usadili, zazněla latinská hřmotná úvodní písem. Celkově to bylo moderní a Donutil hrál dvojroli Galéna a Generla.<br>
+Vysloužil si tleskot ve stoje.<br>
+Veru nebylo nejlíp, takže jsme s Ostraváky dali jen krátkou řeč, domluvili příští divadlo v Ostravě a tramvají sjeli dom.<br>
 
 ### 26.9. Wafle až z Belgie
 
 Verunka napekla štrůdl a uvařila drstkovku z hlíny. To bylo trochu vtipný, protože v práci ne veži jsem jí měl taky. Tesně po tom, co nám Monča napsala, že Ludva vyhodil Dáju. Úplně zčista jasna.<br>
 I když, tak úplně zčista jasna to asi nebylo. Sám jsem měl pocit, že není nejbystřejší.<br>
 Večer nám měl přijet host z Belgie. Ale až někdy po desáté. Do té doby jsme si pouštěli papírový dům.<br>
-Návštěva byl Verunky spolužák Vojta z gymplu. Odstěhoval se do Belgie za přítelkyní. Povídalo se s ním dobře. Naše vzdělání mělo velký přesah, proto taky a zájmy a světo názor asi taky. Kecali jsme asi do pul Jedny! Ale přijel k nám přespat ne přebdět.<br>
+Návštěva byl Verunky spolužák Vojta z gymplu. Odstěhoval se do Belgie za přítelkyní. Povídalo se s ním dobře. Naše vzdělání mělo velký přesah, proto taky a zájmy a světonázor asi taky. Kecali jsme asi do pul jedný. Ale přijel k nám přespat ne přebdět.<br>
 
 ### 27.9. Tři slunečnice za mlýnek
 
@@ -380,7 +393,7 @@ Na Verunku šla teplota. Dali jsme polévku, wafle a šli do postele.<br>
 
 ### 28.9. Vzít zámek na výlet
 
-Většinu dne jsme strávili doma. Vytíral a otíral jsem kuchyň, záchod a koupelnu davovou vodou. Obzvlášt záchodu to pomohlo.<br>
+Většinu dne jsme strávili doma. Vytíral a otíral jsem kuchyň, záchod a koupelnu davovou vodou. Obzvlášť záchodu to pomohlo.<br>
 Veru vařila čočkové kari a během dne začalo být jasný že na ní jdou její dny, a tak zalehla se zahřívací lahví.<br>
 Já byl zvědavý, jak se bude zámek chovat mimo město.. Zas tak moc jsem toho nenajel. Kdo bylo nějaký zadřený. V Běchovicích jsem posunul zadní, trochu to pomohlo a tak Jsem nejel na nádraží, ale dojel to celý domů.<br>
 
@@ -393,18 +406,18 @@ A tam jsem zjistil, že zámek má brutální výpadky.<br>
 Tohle nebyl dobry den. Na snídani zbyl jen salát a mandarinka. Ale nejsem takovej blbec abych si head zkazit den tím, že jsem měl dobrou mandarinku a dobrý salát. Ne blbý byly jiný věci.<br>
 Ten zámek mě štval. 2g odpojovalo modem. Řešil jsem jak to odstranit či co to vlastně způsobuje. Rušení? Zdroje? Na měřil jsem toho dost. Úprav udelal několik. Vyřešil kulovy!<br>
 To bylo blbý. Ale ne nejhorší.<br>
-Nejhorší totiž byl telefonát těsně před obědem od paní Dundáčkové. Naše obavy se naplnily. Vyhodí nah. Na konci roku. Na jednu stranu bylo dobrýto vědět. Na druhou to byl ojeb a vidina ztráty peněžní, časové, životně kvalitativní a kdo ví čeho dalšího. Vršovice jsem si oblíbil. A nájem 15k za měsíc taky.<br>
+Nejhorší totiž byl telefonát těsně před obědem od paní Dundáčkové. Naše obavy se naplnily. Vyhodí nah. Na konci roku. Na jednu stranu bylo dobrý to vědět. Na druhou to byl ojeb a vidina ztráty peněžní, časové, životně kvalitativní a kdo ví čeho dalšího. Vršovice jsem si oblíbil. A nájem 15k za měsíc taky.<br>
 Na Ukrajinské 7 jsme si udělali domov. Bylo mi smutno. A byl jsem i nasranej. Obzvlášť během cesty na beďar. Ale spíš mi bylo smutno.<br>
 Marta naproti tomu zářila. Byla čerstvě zamilovaná. Do kluka z Bamblu, kterýho ale už znala z doby, kdy dobrovolničila v organizaci hlavák.<br>
-Když jsme začínali hrát byla už tma. Začínal půlrok tmy. Šla na mě tradomyslnost.<br>
-Ještě že Veru je tak bezva a podporující. Mám štěstířekl jsem si. Objednal lístky na pendolino na Tomášovu svatbu a šel spát vedle svý skvělý ženy. Půjde to. Jen je to ojeb.<br>
+Když jsme začínali hrát byla už tma. Začínal půlrok tmy. Šla na mě trudomyslnost.<br>
+Ještě že Veru je tak bezva a podporující. Mám štěstí, řekl jsem si. Objednal lístky na pendolino na Tomášovu svatbu a šel spát vedle svý skvělý ženy. Půjde to. Jen je to ojeb.<br>
 
 ### 30.9. Další francouzi
 
 Veru zmizela už před sedmou. Ve mně třímal pocit neštěstí a tak jsem se válel až do půl osmý! Verunky kvásek už to mel opet za pár a tak jsem zadělal na chleba. Možná kvůli tomu jsem z domu vyjel až v devět.<br>
 Bylo pět stupňů. Dlouhé noci se začaly podepisovat. Na Kde jsem měl teplé boty, rukavice a zimní čepici aby mi nefoukalo do uší.<br>
 Čekaly mě pokusy s 2g odrušením a call s FIME.<br>
-Bypass 36 mi nic nepřinesl. 47pA v USB na HLA působilo nadějně, ale pomohlo jen jednomu zámku. Microsoft rozbil v Edgi Inspektora. Přešel jsemna firefox, protože už uměl vertikální tady a kategorie.<br>
+Bypass 36 mi nic nepřinesl. 47pA v USB na HLA působilo nadějně, ale pomohlo jen jednomu zámku. Microsoft rozbil v edgi inspektora. Přešel jsem na firefox, protože už uměl vertikální tady a kategorie.<br>
 Verunky zapečená tofu věc byla moc dobrá. Moučník taky.<br>
 Hovor s FIMEem byl standardní představovací. Akorát na něm z nějakého důvodu by Artur Costa. Překvapilo to mě, Vláďu i Ludvu.<br>
 Večer jsem plánoval bazén, ale nějak mě to přešlo. Bylo třeba dodělat ten chléb a chtel jsem být se ženou víc než sám ve vodě.<br>

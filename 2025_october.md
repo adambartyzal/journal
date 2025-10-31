@@ -19,8 +19,8 @@
 - [14.10. Na samou hranici hlavního města](#1410-na-samou-hranici-hlavního-města)
 - [15.10. Krteček, veverka, jety a doktor Galén](#1510-krteček-veverka-jety-a-doktor-galén)
 - [16.10. Signál bez Verunky](#1610-signál-bez-verunky)
-- [](#)
-- [](#-1)
+- [17.10. Lejsek, Hilebrant, Goscinny a Sempé](#1710-lejsek-hilebrant-goscinny-a-sempé)
+- [18.10. Idf a Sally's](#1810-idf-a-sallys)
 - [19.10. Ten správně hřejivý podzim](#1910-ten-správně-hřejivý-podzim)
 - [20.10. Dundáčková není Hrmo](#2010-dundáčková-není-hrmo)
 - [21.10. Karma nefunguje](#2110-karma-nefunguje)
@@ -31,6 +31,7 @@
 - [26.10. O hodinu víc](#2610-o-hodinu-víc)
 - [27.10. Imunita](#2710-imunita)
 - [28.10. Den České státnosti finové neslaví](#2810-den-české-státnosti-finové-neslaví)
+- [29.10. Chudák Ilari](#2910-chudák-ilari)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -284,14 +285,28 @@ Intalace mi přišly fajn. Kromě mappingu na Staroměstskou radnici. Ta neměla
 <a href="../images/2025_october/16_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/16_2.jpg"></a>
 
 
-###
+### 17.10. Lejsek, Hilebrant, Goscinny a Sempé
 
+Do práce jsme jeli s Verunkou společné. Mě čekala v práci schůzka se zástupci z Bech akku. Vláďa byl pořád pryč a tak ta elektronika zbyla na mě. Přednější ale stejně byla mechanická stránka věci. BMS nám fungovala dobře. Do starého kola bychom měnili akorát komunikaci zpátky na ADUM.<br>
+Zabralo nám to překvapivě dlouho. Lejsek je nadšenec a prototyp baterie do FB2 se mu líbil hodně. Ono aby ne. Bylo v něm spousta práce.<br>
+Po schůzi jsem koukal do IDF. Potom jsem vzal ze skříně dlouhé kalhoty a na kole vyrazil domů.<br>
+V laptopu jsem měl stažené Mikulášovy patálie: jak to všechno začalo a když jsem ukázal Verunce, jak pěkné je to animované, večerní program byl jasný.<br>
+Animace byla opravdu nádherná. A Sempé se jí dožil, narozdíl od Gosciniho. Mikuláše tam mohlo být více, ale o tom ten film vlastně nebyl. Byl to dokument a pocta autorům. Na pet hvězdiček dobře natočená.<br>
 
-###
+### 18.10. Idf a Sally's
 
+Venku zřejmě bylo moc krásně. Vůbec jsem toho nevyužil. Konečně jsem se ponořil do programování espček. Naposledy jsem to zkoušel [tady]() a to už byl nějaký | patek.<br>
 
 <a href="../images/2025_october/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/18_1.jpg"></a>
 
+Můj cíl byl. připojit esp k našemu backendu. Napřed na Wifi. A nakonec na Open Thread. Ale k tomu jsem měl daleko. Ale wifi byla připojena! A přes MQTT jsem dokázal ovládat barvu led diody. To nebylo vůbec zlý.<br>
+Verunka cvičila na večerní koncert v Sally's . Trochu blbý<br>
+bylo, že nevěděla co přesně, neb dokázali ztratit set list. Koncert začínal v sedm. Vern vyrazila po patře! já hodinu po ní.<br>
+Z ostatních se přihlásila jen Rebeka. Kdyby nešla, asi bych zůstal doma . Sally's moc nemusim, ale nechat ji tam samotnou by bylo blbý. V šestce Jsem ale cítil bolehlav jako prase.<br>
+Až řezaný pivo pomohlo. Asi jsem alkoholik.<br>
+Nakonec to bylo moc fajn. Povídali jsme si o pracích. Mišce, která byla na operaci kyčle a o prstenu.<br>
+Kapele chybel zpěvák a tak to táhla Veru. Zvládla to moc pěkné.<br>
+Po koncertě jsme ještě sedali dole s absolventy STARTU. ale nevydrželi dlouho, takže jsme kolem půlnoci vyrazili do zimy na tramvaj taky.<br>
 
 ### 19.10. Ten správně hřejivý podzim
 
@@ -301,17 +316,17 @@ Vzbudil jsem se v 9:11. Zhrozil se jak je moc pozdě a Usnul na další hodinu a
 
 Když jsem se vyhrabal z postele a došel do kuchyně, našel jsem Verunku válčit s pánví. Chtěla udělat placky z fazolí, ale neměly vnitřní pevnost a vznikl připálený cucflek. Výzva. Vyčistil jsem pánev, provedl seasoning a zkusil udělat lepší placku. Melo to potenciál. Ale potom se to v okamžiku zhroutilo.<br>
 Ze zbytku jsme udelali mufiny. A pak se přesunuli do sprchy, kde jsme měli pěkné.<br>
-Venku taky bylo pěkně. Oblékli jsme se, u nádraží vzali rekole a next bike a vyrazili do Hlubočep. Kolem Botiče ve kterém se zrovna jelo Rio. Ještě nikdyjsem to naživo neviděl a přišlo mi to skvělý. Poslal jsem fotky do skupiny.<br>
+Venku taky bylo pěkně. Oblékli jsme se, u nádraží vzali rekole a next bike a vyrazili do Hlubočep. Kolem Botiče ve kterém se zrovna jelo Rio. Ještě nikdy jsem to naživo neviděl a přišlo mi to skvělý. Poslal jsem fotky do skupiny.<br>
 
 <a href="../images/2025_october/19_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_3.jpg"></a>
 
 Sára má nadšení nesdílela. Prý videla krysy fandit. Cimprlína. Jasně že krysy fandily. Jelo se to jednou za rok a počasí vyšlo!<br>
-Koukli jsme jak lodě vyjíždí na Výtoni do Vltavy a pokračovali přes Baranďák. Na Hlubočepskou stanicí bikesharingu jsme dojeli po 57 minutách jízdy. Zaplaceno Multispeutkou!<br>
-Veru mi vyčetla, že jsem jí neřekl, že si má vzít legíny. Její dámské partie v džínách na rekole utrpěly odření. Ale naštěstí jen mírné a tak mohla pokračovat v peší části výletu Prokopským údolím.<br>
+Koukli jsme jak lodě vyjíždí na Výtoni do Vltavy a pokračovali přes Baranďák. Na Hlubočepskou stanicí bikesharingu jsme dojeli po 57 minutách jízdy. Zaplaceno Multisportkou!<br>
+Veru mi vyčetla, že jsem jí neřekl, že si má vzít legíny. Její dámské partie v džínách na rekole utrpěly odření. Ale naštěstí jen mírné a tak mohla pokračovat v pěší části výletu Prokopským údolím.<br>
 
 <a href="../images/2025_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_1.jpg"></a>
 
-Bylo to moc fajn. Našli jsme lom, nenašli tunel adošli až do Butovic. Moc hezkým podzimem. V Albertu jsme koupily housky se sýrem, tempeh v akci a jogurt a mléko na množení v sušičce.<br>
+Bylo to moc fajn. Našli jsme lom, nenašli tunel a došli až do Butovic. Moc hezkým podzimem. V Albertu jsme koupily housky se sýrem, tempeh v akci a jogurt a mléko na množení v sušičce.<br>
 
 <a href="../images/2025_october/19_4.jpg" target="_blank"><img src="../images/thumbnails/2025_october/19_4.jpg"></a>
 
@@ -401,17 +416,25 @@ Na mě šla slabota. Imunita potřebovala podpořit dlouhým spánkem. Obzvláš
 ### 28.10. Den České státnosti finové neslaví
 
 Letět pracovně ve svátek není tak zlý. Člověk dostane zaplaceno 2x a dietu k tomu. Venku bylo hnusné. Jak v Praze, tak ve Finsku. Ideální příležitost k tomu nechat si zaplatit navíc, za něco ne úplně zábavného.<br>
-Verunka nám udělala k snídani bagely s mozarelou. Na letisko jsem nechvátal. Odlet byl dvacet minut před polednem. Snažil jsem se sbalit nějak efektivně, ale s Horshoe Lockem, dvěma CBN, nabíječkami, debuggerem, laptopem, Řehořem a dalšími pracovními nesmysly zbylo místo jen na ponožky a trenky. A vlastně na plavky a ručník. Přemýšlel jsem o návštěvě bazénu a sauny. Bylo to Finsko konec konců.<br>
+Verunka nám udělala k snídani bagely s mozzarellou. Na letisko jsem nechvátal. Odlet byl dvacet minut před polednem. Snažil jsem se sbalit nějak efektivně, ale s Horshoe Lockem, dvěma CBN, nabíječkami, debuggerem, laptopem, Řehořem a dalšími pracovními nesmysly zbylo místo jen na ponožky a trenky. A vlastně na plavky a ručník. Přemýšlel jsem o návštěvě bazénu a sauny. Bylo to Finsko konec konců.<br>
 19 → A → 59. Trocha Duoinga a rostoucí bolehlav. Na letišti žvýkačky a bageta z Billy a potom poprvé sekuritka s novým rentgenem, který nepotřebuje vyndavat věci. Stejně mě vybrali. Nedivil jsem se, vzhledem k množství elektroniky v batohu.<br>
 Na gejtu a v letadle jsem dopsal docela značnou část deníku. Spousta dní chybelo, ale pohnul jsem s tím. Být na chvili odříznutý od internetu je prospěšný.<br>
 V Helsinkách pršelo. Ale cestou vlakem se mraky trhaly. Finské ticho mě obklopilo. Mám tu zemi moc rád. Opak Španělska, který má ráda Veru. Ale já vlastně taky. Mám rád od obojeho trochu.<br>
 V Lahti jsem se ubytoval a vyrazil se zámkem ne zádech ven. Potkal jsem jedno odemčené kolo. Proč tomu tak bylo, bylo záhadou, kterou logy neodhalily. Tady Jsem potkal Eliase a jednoho z těch novějších. Měnili baterie.<br>
 V Primě jsem koupil něco k večeři a dojel na kole do hotelu. Bylo pozdě, tma a já byl grogy. Něco mále jsem dopsal, ohřál se ve sprše, napsal lidem, že stěhování se posouvá a šel spát.<br>
 
+### 29.10. Chudák Ilari
+
+Moc se mi vstávat nechtělo. Ale dokopal jsem se do sprchy a ledová je ve Finsku opravdu ledová. Hotelová snídaně měla milion sladkých možností, ale i něco zdravýho se dalo najít. Pořádně jsem se nadlábl a vyrazil na keskus matka pro kolo 505 bylo odemčený. Po chvilce diagnostiky jsem dospěl k názoru, že je to blbé nainstalovaným server. Jinak to bylo fajn leelo a tak jsem na něm dojel do skladu.<br>
+První co jsem zkontroloval byla nabíjecí bouda. Bylo to špatný. Klika byla v háji, klíč v zámku a nikde nikdo. Dva boxy jely , jeden byl úplně v háji. Smrad zlej, Černota všude. Ve skladu byl bordel. Nářadí všude, rozbitý kola taky.<br>
+Po chvíli se objevil Mishka. Dal si kafe, informoval mě o tom, že vandalismus vzrostl a pak sedl do auta a odjel.<br>
+Po chvíli přišel Ilari. Povídali jsme si o tom, proč tam jsem a jak jim to jde. Bylo toho na něj opravdu hodně. Poprvé v životě mi ho bylo líto. Bylo to opravdu zvláštní. Pár let zpátky to byl rozmazlenej spratek a teď měl zodpovědnost a i když to bylo na hovno, seděl uprostřed haly a zaplétal metou do kola, protože vandalové vystříhaly zadní dráty.<br>
+Pustil jsem se do dokumentování, čistění, přenastavování, generování nových obrazů na karty a nakonec jel koupit klávesnici do Karismy. Rozchodil jsem připojení nabíječek. Pár kol s Eliasem a naučil ho používat tester serv a motorů, aby montoval zamykací mechanismy správně.<br>
+Byl jsem tam s nimi do šesti. Vlastně jsem odcházelposledni! Otočil jsem se v Lidlu pro Sky a pečivo a na hotelu si dal dlouhou sprchu.<br>
+Zbytek večera jsme řešili věci na slacku a čuměl jsem do YouTube. Neprospívalo mi to. Měl bych ho nějak zablokovat. Pár hodin pryč a nic mi to do života nedalo. Měl jsem cvičit a meditovat. Nebo jít do sauny.<br>
+Verunka doma našla barvy na kůži a posílala mi fotky jejích nápadů na halloweenské kostýmy.<br>
+
 <!--
-
-
-###
 
 
 ###
