@@ -4,9 +4,9 @@
 
 
 - [1.8. Ostřejší, barevnější, lepší](#18-ostřejší-barevnější-lepší)
-- [2.8.](#28)
+- [2.8. Už mě nebavilo se na to dívat](#28-už-mě-nebavilo-se-na-to-dívat)
 - [3.8.](#38)
-- [3.8.](#38-1)
+- [4.8.](#48)
 - [5.8. K leprikónům](#58-k-leprikónům)
 - [6.8. Ostružiny, balíky obilí a hudebníci v ulicích](#68-ostružiny-balíky-obilí-a-hudebníci-v-ulicích)
 - [7.8. Jake, Anthony \& Jean](#78-jake-anthony--jean)
@@ -50,13 +50,37 @@ Po dešti bylo krásné barevno, čisto a všechno působilo skvěle. Skoro jsem
 Doma jsem si otevřel gazpacho. Bylo taky extrémně dobrý. Jenže gazpacho je dobrý vždycky.<br>
 Máma volala. Stěžovala si, že Eva moc leje, že Petr si půjčuje a že Robin vysírá. Moc jsem nevěděl, co jí na to povědět. Řekl jsem si, že se Evy optám, jestli jsou v poho.<br>
 
-### 2.8.
+### 2.8. Už mě nebavilo se na to dívat
 
+Jestli jsem na sobotu měl nějaký plány, tak proletěly komínem. Venku bylo ohyzdno a tak jsem koukal na Avatara ve španělštině.<br>
+Když už mi začínalo připadat, že vyloženě mrhám časem, pustil jsem se do čištění zapečené špíny na nerezové pánvi od Ondry s Rebekou. Cif je docela žíravina, ale chtělo to i dost mechanického dření, než ta černota slezla.<br>
+
+<a href="../images/2025_august/02_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/02_1.jpg"></a>
+
+Ve vylepšování jsem pokračoval. S proklady dalšími díly avatara jsem se rozhodl zabalit fleky na zdi, které udělalo houpací křeslo a voda od Olivie.<br>
+
+<a href="../images/2025_august/02_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/02_2.jpg"></a>
+
+Zelenina a pečivo došly. Vyrazil jsem do lidla nakoupí Ve slevové uličce mě překvapil Summer Ale od Lobkowicze za 14 korun. Vzal jsem tři kousky na zkoušku a to se mi stalo osudným. Taška byla přetížená, ucho se utrhlo, nákup spadl na lahváč, ten praskl a jeho obsah natekl do nákupu.<br>
+
+<a href="../images/2025_august/02_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/02_3.jpg"></a>
+
+Sklo bylo roztříštěný fest, chleba nasákával pivo, ucha utržený obě. Byl jsem nešťastnej. Ale bylo třeba to donést domu a řešit to tam.<br>
+
+<a href="../images/2025_august/02_4.jpg" target="_blank"><img src="../images/thumbnails/2025_august/02_4.jpg"></a>
+
+Většina věcí šla omýt. Trochu jsem váhal nad tím zda je moudrý jíst chleba, ve kterým mohla být sklo, ale omyl jsem ho taky a přes tvrdou káru zdálo se nic neproniklo.<br>
 
 ### 3.8.
 
 
-### 3.8.
+<a href="../images/2025_august/03_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/03_1.jpg"></a>
+
+
+### 4.8.
+
+
+<a href="../images/2025_august/04_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/04_1.jpg"></a>
 
 
 ### 5.8. K leprikónům

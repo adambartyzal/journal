@@ -430,7 +430,7 @@ První co jsem zkontroloval byla nabíjecí bouda. Bylo to špatný. Klika byla 
 Po chvíli se objevil Mishka. Dal si kafe, informoval mě o tom, že vandalismus vzrostl a pak sedl do auta a odjel.<br>
 Po chvíli přišel Ilari. Povídali jsme si o tom, proč tam jsem a jak jim to jde. Bylo toho na něj opravdu hodně. Poprvé v životě mi ho bylo líto. Bylo to opravdu zvláštní. Pár let zpátky to byl rozmazlenej spratek a teď měl zodpovědnost a i když to bylo na hovno, seděl uprostřed haly a zaplétal metou do kola, protože vandalové vystříhaly zadní dráty.<br>
 Pustil jsem se do dokumentování, čistění, přenastavování, generování nových obrazů na karty a nakonec jel koupit klávesnici do Karismy. Rozchodil jsem připojení nabíječek. Pár kol s Eliasem a naučil ho používat tester serv a motorů, aby montoval zamykací mechanismy správně.<br>
-Byl jsem tam s nimi do šesti. Vlastně jsem odcházelposledni! Otočil jsem se v Lidlu pro Sky a pečivo a na hotelu si dal dlouhou sprchu.<br>
+Byl jsem tam s nimi do šesti. Vlastně jsem odcházel posledni! Otočil jsem se v Lidlu pro Sky a pečivo a na hotelu si dal dlouhou sprchu.<br>
 Zbytek večera jsme řešili věci na slacku a čuměl jsem do YouTube. Neprospívalo mi to. Měl bych ho nějak zablokovat. Pár hodin pryč a nic mi to do života nedalo. Měl jsem cvičit a meditovat. Nebo jít do sauny.<br>
 Verunka doma našla barvy na kůži a posílala mi fotky jejích nápadů na halloweenské kostýmy.<br>
 
