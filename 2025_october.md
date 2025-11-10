@@ -32,6 +32,8 @@
 - [27.10. Imunita](#2710-imunita)
 - [28.10. Den České státnosti finové neslaví](#2810-den-české-státnosti-finové-neslaví)
 - [29.10. Chudák Ilari](#2910-chudák-ilari)
+- [](#)
+- [](#-1)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -421,7 +423,7 @@ Verunka nám udělala k snídani bagely s mozzarellou. Na letisko jsem nechváta
 Na gejtu a v letadle jsem dopsal docela značnou část deníku. Spousta dní chybelo, ale pohnul jsem s tím. Být na chvili odříznutý od internetu je prospěšný.<br>
 V Helsinkách pršelo. Ale cestou vlakem se mraky trhaly. Finské ticho mě obklopilo. Mám tu zemi moc rád. Opak Španělska, který má ráda Veru. Ale já vlastně taky. Mám rád od obojeho trochu.<br>
 V Lahti jsem se ubytoval a vyrazil se zámkem ne zádech ven. Potkal jsem jedno odemčené kolo. Proč tomu tak bylo, bylo záhadou, kterou logy neodhalily. Tady Jsem potkal Eliase a jednoho z těch novějších. Měnili baterie.<br>
-V Primě jsem koupil něco k večeři a dojel na kole do hotelu. Bylo pozdě, tma a já byl grogy. Něco mále jsem dopsal, ohřál se ve sprše, napsal lidem, že stěhování se posouvá a šel spát.<br>
+V Prismě jsem koupil něco k večeři a dojel na kole do hotelu. Bylo pozdě, tma a já byl grogy. Něco málo jsem dopsal, ohřál se ve sprše, napsal lidem, že stěhování se posouvá a šel spát.<br>
 
 ### 29.10. Chudák Ilari
 
@@ -434,15 +436,9 @@ Byl jsem tam s nimi do šesti. Vlastně jsem odcházel posledni! Otočil jsem se
 Zbytek večera jsme řešili věci na slacku a čuměl jsem do YouTube. Neprospívalo mi to. Měl bych ho nějak zablokovat. Pár hodin pryč a nic mi to do života nedalo. Měl jsem cvičit a meditovat. Nebo jít do sauny.<br>
 Verunka doma našla barvy na kůži a posílala mi fotky jejích nápadů na halloweenské kostýmy.<br>
 
-<!--
-
-
 ###
 
 
 ###
 
 [>> Listopad](2025_november.md)<br>
-
--->
-

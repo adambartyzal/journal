@@ -14,7 +14,7 @@
 - [9.8. Ultraprocessed Ireland](#98-ultraprocessed-ireland)
 - [10.8. Úrovně lidství](#108-úrovně-lidství)
 - [11.8. Mexický fitr](#118-mexický-fitr)
-- [11.8. 12.8. Heuréka!](#118-128-heuréka)
+- [12.8. Heuréka!](#128-heuréka)
 - [13.8. Jako Frodo a Sam](#138-jako-frodo-a-sam)
 - [14.8. Konečně dovolená](#148-konečně-dovolená)
 - [15.8. Katánii příště](#158-katánii-příště)
@@ -281,7 +281,7 @@ Nakonec jsme opet došli k moři. Do oblasti, kde byla skála. Řekl jsem si, ž
 Když slunko zapadlo, vzduch se rychle ochladil. Voda sice docela hřála, ale bylo třeba dostat něco do břicha. Osušili jsme se a po pláži se vrátili k hotelu, zjistili kolik chtějí za jídlo v tamější restauraci, udělali si mentální poznámku, že jednou by to docela šlo a pak došli domů na salát z poledne. Byla to kopa a byl moc dobrej. K němu dvě piva a konverzace s kolegy.<br>
 Dana už jsem docela znal. Lenka, jeho bývalá kolegyně byla nakonec docela v poho paní, která kdysi měla bohatého manžela, který i skrz oponu dokázal pořídit MTV, Betamax, BMW a a další výdobytky, které Jana s Romanem rozhodně neměli. I tak se ale k Romanovi dostali nahrávky Beatles, Rolling Stones a dalších, neb jeho Pražští rodiče měli kamarády obchodníky a příbuzné v americe. To jen já pocházel z rodiny z vesnice Uprostřed ničeho. Ale co, svět objevuju po svém a Veru to má podobně!<br>
 
-### 11.8. 12.8. Heuréka!
+### 12.8. Heuréka!
 
 Rolety fungují. Dokud byly zatažený můj mozek byl ve spánkovém módu. Když jsme na sebe pustili světlo, najednou jsem měl chuť na snídani.<br>
 Chleba, sýr a zeleninový salát jsme přenesli na stůl venku, kde jsem zapisoval co se dělo v Irsku a verunka z kindlu četla svůj deník z mládí.<br>
