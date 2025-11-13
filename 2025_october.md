@@ -45,7 +45,7 @@ Přenesení simky z jednoho zámku do druhého přeneslo symptomy. Bylo to prost
 V šest jsme šli s Verunkou plavat do Hloubětína. Veru chtěla převážně do páry, ale ta v jejich Šatně nejela. U nás sice je, ale byla plná a ne moc teplá. Radši jsme plavali. Napřed v otevřeném prostoru a potom do lajny. Lidi bez lajn plavou úplně na punk.<br>
 Dál nás čekalo Aero. Veru jela přes Palmovku tramvají, já přes Jarov na kole. Vzal jsem to přes Lidl, abychom se před kinem mohli najíst, ale Veru si do tramvaje koupila vlastní baštu a přijela plná. Nacpal jsem do sebe rohlík se sýrem zatímco mi žena vedla kolo a v kině jsme potkali Ondru. Rebeka přišla v zápětí.<br>
 Veru hned začala tím, že ve Vršovicích už dlouho nepobudeme. Moc jsme to ale neprobrali. Stihl jsem ale 2 piva. Jardovým stylem. Druhý do sálu. Na film kabaretZ Berlína za dob nástupu nacismu. Byl dobrej. Veru si to taky myslela. Akorát těsně před koncem usnula.<br>
-Šulcovi jeli tágem. Já Veru doprovodil na Náhledové nádražía na Nádraží Vršovice jí vyzvedl.<br>
+Šulcovi jeli tágem. Já Veru doprovodil na Nákladové nádraží a na Nádraží Vršovice jí vyzvedl.<br>
 
 ### 2.10. Zuby za osmnáct set, statek za mega
 
