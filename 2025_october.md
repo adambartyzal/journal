@@ -32,8 +32,8 @@
 - [27.10. Imunita](#2710-imunita)
 - [28.10. Den České státnosti finové neslaví](#2810-den-české-státnosti-finové-neslaví)
 - [29.10. Chudák Ilari](#2910-chudák-ilari)
-- [](#)
-- [](#-1)
+- [30.10. Lahti, Helsinky, Praha , Kunratice](#3010-lahti-helsinky-praha--kunratice)
+- [Z Pendolina blivno](#z-pendolina-blivno)
 
 
 ### 1.10. Do moře a mezi nacisty
@@ -422,13 +422,22 @@ Verunka nám udělala k snídani bagely s mozzarellou. Na letisko jsem nechváta
 19 → A → 59. Trocha Duoinga a rostoucí bolehlav. Na letišti žvýkačky a bageta z Billy a potom poprvé sekuritka s novým rentgenem, který nepotřebuje vyndavat věci. Stejně mě vybrali. Nedivil jsem se, vzhledem k množství elektroniky v batohu.<br>
 Na gejtu a v letadle jsem dopsal docela značnou část deníku. Spousta dní chybelo, ale pohnul jsem s tím. Být na chvili odříznutý od internetu je prospěšný.<br>
 V Helsinkách pršelo. Ale cestou vlakem se mraky trhaly. Finské ticho mě obklopilo. Mám tu zemi moc rád. Opak Španělska, který má ráda Veru. Ale já vlastně taky. Mám rád od obojeho trochu.<br>
+
+<a href="../images/2025_october/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/28_1.jpg"></a>
+
 V Lahti jsem se ubytoval a vyrazil se zámkem ne zádech ven. Potkal jsem jedno odemčené kolo. Proč tomu tak bylo, bylo záhadou, kterou logy neodhalily. Tady Jsem potkal Eliase a jednoho z těch novějších. Měnili baterie.<br>
+
+<a href="../images/2025_october/28_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/28_2.jpg"></a>
+
 V Prismě jsem koupil něco k večeři a dojel na kole do hotelu. Bylo pozdě, tma a já byl grogy. Něco málo jsem dopsal, ohřál se ve sprše, napsal lidem, že stěhování se posouvá a šel spát.<br>
 
 ### 29.10. Chudák Ilari
 
 Moc se mi vstávat nechtělo. Ale dokopal jsem se do sprchy a ledová je ve Finsku opravdu ledová. Hotelová snídaně měla milion sladkých možností, ale i něco zdravýho se dalo najít. Pořádně jsem se nadlábl a vyrazil na keskus matka pro kolo 505 bylo odemčený. Po chvilce diagnostiky jsem dospěl k názoru, že je to blbé nainstalovaným server. Jinak to bylo fajn leelo a tak jsem na něm dojel do skladu.<br>
 První co jsem zkontroloval byla nabíjecí bouda. Bylo to špatný. Klika byla v háji, klíč v zámku a nikde nikdo. Dva boxy jely , jeden byl úplně v háji. Smrad zlej, Černota všude. Ve skladu byl bordel. Nářadí všude, rozbitý kola taky.<br>
+
+<a href="../images/2025_october/29_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/29_1.jpg"></a>
+
 Po chvíli se objevil Mishka. Dal si kafe, informoval mě o tom, že vandalismus vzrostl a pak sedl do auta a odjel.<br>
 Po chvíli přišel Ilari. Povídali jsme si o tom, proč tam jsem a jak jim to jde. Bylo toho na něj opravdu hodně. Poprvé v životě mi ho bylo líto. Bylo to opravdu zvláštní. Pár let zpátky to byl rozmazlenej spratek a teď měl zodpovědnost a i když to bylo na hovno, seděl uprostřed haly a zaplétal metou do kola, protože vandalové vystříhaly zadní dráty.<br>
 Pustil jsem se do dokumentování, čistění, přenastavování, generování nových obrazů na karty a nakonec jel koupit klávesnici do Karismy. Rozchodil jsem připojení nabíječek. Pár kol s Eliasem a naučil ho používat tester serv a motorů, aby montoval zamykací mechanismy správně.<br>
@@ -436,9 +445,42 @@ Byl jsem tam s nimi do šesti. Vlastně jsem odcházel posledni! Otočil jsem se
 Zbytek večera jsme řešili věci na slacku a čuměl jsem do YouTube. Neprospívalo mi to. Měl bych ho nějak zablokovat. Pár hodin pryč a nic mi to do života nedalo. Měl jsem cvičit a meditovat. Nebo jít do sauny.<br>
 Verunka doma našla barvy na kůži a posílala mi fotky jejích nápadů na halloweenské kostýmy.<br>
 
-###
+### 30.10. Lahti, Helsinky, Praha , Kunratice
+
+Budík před šestou nikdy není dobrej. Ale přivstal jsem si, abych před vlakem v 7:13 stihl sbalit věci a nasnídat se.<br>
+Snídárna byla plná dělníků, hasičů a záchranářů. Bylo to dobře vymyšlený. Těžce makáš? Můžeš mít pořádnou snídani. Hezkej příklad Finskýho Happiness First.<br>
+
+<a href="../images/2025_october/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/30_1.jpg"></a>
+
+Během jízdy vlakem Z se rozednívalo. Finsko za okny bylo pěkný. Mám tu zemi rád.<br>
+I letiště v Helsinkách mám rád. Je čistý a dobře organizovaný. Mají spoustu místa kam si sednout a dokonce espresso house S normálníma cenama.<br>
+
+<a href="../images/2025_october/30_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/30_2.jpg"></a>
+
+Kafe jsem si ale nedal. Šel jsem rovnou na gejt 19 a pokračoval v psaní. Tyhle tři dny deníku prospěly. Když jsem kouknul, kolik dní jsem vynechal na konci roku 2024, uznal jsem, že letos jsem opravdu poctivý. Tu a tam chyběl den, ale ty hlavní byly sepsaný, nebo měly alespoň osu.<br>
+Psal jsem i v letadle. Byl to šesti sedačkový airbus a já byl v uličce. Nic moc jinýho delat nešlo. Skoro ani koukat do mobilu. Liquid glass a skoro 4 roky stará baterie vybily mobil před polednem. A to jsem jen poslouchal hudbu.<br>
+Pravda je ale taková, že mě to psaní už sralo. Dělal jsem to protože jsem věděl, že na to je čas a že zpětně toho nebudu litovat. Ale těšil jsem se na to až si od toho zas odpočinu.<br>
+Za Verunkou jsem dojel někdy po poledni. Posun času hrál v můj prospěch. Bylo pěkné. Vyrazili jsme ven. Vlakem do Krče a pěšky do Krčského lesa. K labuti.<br>
+Sluníčko podzimní krajinu nasvicovalo do nádherných barev. Rybníkáři museli vypouštět Šeberák, protože potok byl plný vody. Slíbil jsem daňky a hrad. Hrad se zradou. Vern vyzvídala, jestli tam teda je, nebo ne.<br>
+
+<a href="../images/2025_october/30_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/30_3.jpg"></a>
+
+Husité ho vypálili rok po jeho dostavení Václavem IV. Zjistili jsme to z informační tabule. Taky jsme objevili, že v Kunraticích se vaří pivo Muflon.<br>
+
+<a href="../images/2025_october/30_4.jpg" target="_blank"><img src="../images/thumbnails/2025_october/30_4.jpg"></a>
+
+Kolem potoka a rybníka, kde jsme s Miškou koupili letenky do Barcelony, jsme došli do onoho pražského předměstí. Měli tam fajn rybník a zámeckou zahradu. A taky dětské hřiště s provazovou prolézačkou. Jen ten pivovar byl zavřenej a my tak jeli domů s prázdnou.<br>
+Ale ne úplně. Na Vyskočilově jsme si dali pizzu!<br>
+
+### Z Pendolina blivno
 
 
-###
+<a href="../images/2025_october/31_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/31_1.jpg"></a>
+
+
+<a href="../images/2025_october/31_2.jpg" target="_blank"><img src="../images/thumbnails/2025_october/31_2.jpg"></a>
+
+
+<a href="../images/2025_october/31_3.jpg" target="_blank"><img src="../images/thumbnails/2025_october/31_3.jpg"></a>
 
 [>> Listopad](2025_november.md)<br>
