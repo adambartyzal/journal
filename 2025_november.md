@@ -160,7 +160,7 @@ Aspoň že odpadky jsme zvládli vynést. Jinak bych měl pocit, že jsem úpln�
 ### 11.11. 
 
 
-<a href="../images/2025_november/01_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/01_1.jpg"></a>
+<a href="../images/2025_november/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/11_1.jpg"></a>
 
 
 ### 12.11. Minulost a budoucnost
