@@ -12,6 +12,7 @@
 - [7.11. V Ostravě co pět dní](#711-v-ostravě-co-pět-dní)
 - [8.11. Na to, že mu táhne na 70 vypadá dobře](#811-na-to-že-mu-táhne-na-70-vypadá-dobře)
 - [9.11. Unavený](#911-unavený)
+- [11.11.](#1111)
 - [12.11. Minulost a budoucnost](#1211-minulost-a-budoucnost)
 - [](#-2)
 
@@ -24,9 +25,15 @@ Do půl jedenácté jsme se vysprchovali, oblékli a nadepsali obálku. Ondra se
 Ve Stěbořících jsme byli asi hodinu před obřadem. Přímo pod kostelem byla moc milá kavárna s připraveným občerstvením. Seděli jsme u stolu s Adél, Mácou a Ondrou a ke kávě jedli perníčky a chlebíčky. Paní Suchomelová si s námi přišla povídat a od další moc milé paní jsme dostali myrtu.<br>
 Venku bylo nádherné. Ten dokonale barevný podzim, asi patnáct stupňů a mraky odešly. Říkal to i farář v úvodní řeči, po tom co jsme se všichni usadili v malém, ale hezky upraveném kostele. Jeho přednes byl Veselý, dokonce vtipný a i když velmi církevní, vypůjčil si analogii i z nějaké zřejmě řecké mytologie. Příběh o štěstí ukrytém v nitru byl moc milý.<br>
 Tomášova sestra zazpívala z balkánu úvodní píseň. Opravdu moc pěkné. Zpívalo se vlastně opravdu hodně. A taky se hodně slibovalo a přísahalo. Třeba plození dětí.<br>
-Po obřadu jsme se venku fotili. Různé skupiny. Byl jsem Členem asi dvou. Většina jich ale byla různá variace rodiny<br>
+Po obřadu jsme se venku fotili. Různé skupiny. Byl jsem Členem asi dvou. Většina jich ale byla různá variace rodiny.<br>
+
+<a href="../images/2025_november/01_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/01_1.jpg"></a>
+
 Zpátky nás hodil stejný pán. Před jízdárnu, kde se rozbíjel talíř a jedl předkrm. A uvnitř potom polévka a potom raut. Jídla bylo opravdu hodně. Hodně hodně. Všechno bylo extrémně dobrý.<br>
 Jarda měl proslov o prdění! Tomův taťka přál hodně stesti! Psalo se do knih . Todd. se video. Skládaly se origami, hrála cimbálovka, tančilo se a jedlo. Jedlo Je pořád. Už jsem to psal, ale ten důraz je třeba.<br>
+
+<a href="../images/2025_november/01_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/01_2.jpg"></a>
+
 S Verunkou jsme se šli podívat na kapličku. Promeškali jsme tak Tomášova píseň pro Terku a Ještě vystoupení ostatních s písní složenou přímo tam.<br>
 Ale viděli jsme Toma převlečeného do Folklórního kroje, jak roztáčí svou sestru a vlastně všechny ženy přítomné. Mě Verunka učila polku. A docela to šlo. Minimálně to bylo zábavný.<br>
 Někdy kolem půlnoci jsme ale šli spát. Byli jsme hotovy! Byl to extrémně vydařený den!<br>
@@ -149,6 +156,12 @@ Nějak mě to paralyzovalo.<br>
 
 Když přišla Veru, dali jsme si ty lazaně a koukli na Přátele.<br>
 Aspoň že odpadky jsme zvládli vynést. Jinak bych měl pocit, že jsem úplně selhal. Byl jsem úplně unavenej.<br>
+
+### 11.11. 
+
+
+<a href="../images/2025_november/01_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/01_1.jpg"></a>
+
 
 ### 12.11. Minulost a budoucnost
 
