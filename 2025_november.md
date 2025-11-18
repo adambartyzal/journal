@@ -7,14 +7,19 @@
 - [2.11. Další kostel!](#211-další-kostel)
 - [](#)
 - [4.11. 64 gb ram](#411-64-gb-ram)
-- [](#-1)
+- [5.11. Lilek v oleji místo filmu](#511-lilek-v-oleji-místo-filmu)
 - [6.11. Židle zdarma](#611-židle-zdarma)
 - [7.11. V Ostravě co pět dní](#711-v-ostravě-co-pět-dní)
 - [8.11. Na to, že mu táhne na 70 vypadá dobře](#811-na-to-že-mu-táhne-na-70-vypadá-dobře)
 - [9.11. Unavený](#911-unavený)
+- [10.11. TQM](#1011-tqm)
 - [11.11.](#1111)
 - [12.11. Minulost a budoucnost](#1211-minulost-a-budoucnost)
-- [](#-2)
+- [](#-1)
+- [14.11. Naslepo na Břevnově](#1411-naslepo-na-břevnově)
+- [15.11. Opět rozmontovat postel](#1511-opět-rozmontovat-postel)
+- [16.11. Jazykové tornádo, jízda na koni a poslední promítání](#1611-jazykové-tornádo-jízda-na-koni-a-poslední-promítání)
+- [17.11. I přes svobodu ani krok ven](#1711-i-přes-svobodu-ani-krok-ven)
 
 
 ### 1.11. Všichni svatí stojí při Tomášovi a Terce
@@ -78,11 +83,18 @@ U knihobotu jsem vyfotil zvadlý lopatkovec. Poslal jsem to Sáře a ta mi řekl
 <a href="../images/2025_november/04_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/04_3.jpg"></a>
 
 
-### 
+### 5.11. Lilek v oleji místo filmu
 
+Docela dost jsem si zvykl na ranní ledové sprchy. Nemá smysl vypisovat benefity. Spíš jsem se chtěl pozastavit nad tím, že jsem ten zvyk zavedl. Akorát občas mi trvalo se z postele do sprchy dokopat včas.<br>
+Přejel jsem Vinohrady a v práci se pustil do psaní firmware bez simkarty. Čím víc jsem se do toho nořil, tím debilnější mi to přišlo. Kolo bez simky je ztracený kel.. Ale Ludva ho chtěl pro Araby a tak jsem tomu to odpoledne dal.<br>
+Taky svolal meeting ve Vietnamce, ale Vláďa měl call s Emilem a Bojanou a ten se protáhl, takže jsme do Asie šli ve dvou týmech a jestli s výrobou něco probíral, vývoji to ušlo.<br>
 
 <a href="../images/2025_november/05_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/05_1.jpg"></a>
 
+Sirény věštili Aero naslepo. Jenže Verunka objevila, že tentokrát nás sirény zradily. Nebo spíš kino nás zradilo, neb naslepo přesunuli na úterý a to bylo v trapu.<br>
+Domluvila tak náhradní plán. Večeři v Jiné krajině na Karláku.<br>
+V pět, kdy jsme se sešli na Vysočanská, bylo do večeře daleko. Dali jsme si každý kus pizzy a sto třicet šestkou sjeli do STEPU plavat. A saunovat se.. A odpočívat v bublinách a páře.<br>
+Pešky jsme pak zrelaxovaní došli na Palmovku a béčkem dojeli za Marťou, Tomem, Rebekou, Ondrou, Lilly a Šímou. Povídali jsme si o Tomově bývalých a možných budoucích pracích, večeřeli zapečený lilek, avančína a halloumi a pili pivo z poličky. Měl jsem po sauně asi čtyři kousky a stouplo mi to do hlavy Vik než bych čekal. V tramvaji jedoucí zpátky mi bylo trochu šoufl.<br>
 
 ### 6.11. Židle zdarma
 
@@ -157,6 +169,24 @@ Nějak mě to paralyzovalo.<br>
 Když přišla Veru, dali jsme si ty lazaně a koukli na Přátele.<br>
 Aspoň že odpadky jsme zvládli vynést. Jinak bych měl pocit, že jsem úplně selhal. Byl jsem úplně unavenej.<br>
 
+### 10.11. TQM
+
+Terminal Quality Management. Norma, kterou po nás chtěl Mastercard. Ludvík označil Vláďu, Áďu a mě jako lidi, jenž by Tam meli rozumět.<br>
+Nahrál jsem si soubor několika dokumentů do Řehoře a většinu dne se tím prokousávat. Bylo to stejně vágní jako 150. Možná horší. Ale odpoledne už jsem chápal o co jim jde.. A nebylo to úplně zcestný. Byl to set pravidel pro udržení stejného stupně kvality výroby po celou dobu produkce terminálu.<br>
+Ve Vietnamce jsme si povídali o Kunraticke! Vládě to zaběhl pomalu, ale dobře. Bez jediného dne tréninku. Vojta trénoval od května a zaběhl to taky pomalu.<br>
+Do šesti hodin byl u Botiče velko objemový kontejner vyjel jsem za Verunkou, která vyklidila mají zlatou skříň a spolu jsme ji snesli deti. Cestou jsme ale potkali souseda se psem Atomem a ten Verunku vystřídal. Lidi v tom domě mi budou chybět.<br>
+
+<a href="../images/2025_november/10_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/10_1.jpg"></a>
+
+Veru už domů nešla. Vyrazila na soft shoes. Já vyrazil do Bauhausu. Koupit molitan a kratší spory. Rozhodl Jsem se pustit do čalounění.<br>
+
+<a href="../images/2025_november/10_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/10_2.jpg"></a>
+
+Asi by mi za to nikdo nezaplatil, ale byl jsem na výsledek hrdý.<br>
+
+<a href="../images/2025_november/10_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/10_3.jpg"></a>
+
+
 ### 11.11. 
 
 
@@ -182,4 +212,50 @@ Ještě někdy v půl dvanácté jsem do té knížky civěl. A zbytek noci se p
 
 <a href="../images/2025_november/13_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/13_1.jpg"></a>
 
+
+### 14.11. Naslepo na Břevnově
+
+Kolo bylo v práci. Posnídali jsme s Verunkou rolky s vajíčkem a jeli vlakem v 7:20. Ve vysočanech jsem vzal rekelo alespoň na ten poslední kilometr.<br>
+Čekalo mě maření baterií, schůzka s pánem 7 Sička a Vyplňování L2 les formulářů. A trochu nečekané taky kreslení v inkscapu. Dj od Monči dostal za úkol překreslit obrázek zapojení Power Bránu na vícero nabíjecích boxů.<br>
+Předělal to nehezky a nevektorové. Navíc nakreslil konektory mimo zdířky. Moje OCD to nezvládala. Původní obrázek jsem vylepšil o skutečně prověřené kabely a vícero boxů.<br>
+Po páté přijela Verunka. Večer nás čekala náhradní projekce u Ondry s Rébou a nemělo smysl jezdit domů. Navíc si chtěla vyzkoušet KCD.<br>
+Chytlo jí to hodně. To že jsme přišli pozdě jsem v humoru svedl na ní. Ale nebyla to pravda. Stavovali jsme se v lidlu pro housky, sýr a nepiva darem.<br>
+Tramvaje na Břevnov jedou roky. Dorazili jsme po sedmý. Poslední. Matt s Tomem a s Lilly a Rebeky kolegyně Táňa už byli přítomní. Ondra si připravil řeč a Rebeka polévku a po chvíli povídání jsme se do toho pustili.<br>
+Řeč byla dobrá. Film taky. Z osmdesátek. Noc komety vyhladila většinu lidstva a dvě sestry řešily co teď. Byla to spíš komedie se spoustou syntákový hudby.<br>
+Do Všeho jsme jeli s Marťou, Tomem a Lilly. Bylo pozdě a já byl tedy do postele.<br>
+
+### 15.11. Opět rozmontovat postel
+
+Víkend kdy jsme se původně měli stěhovat nastal. Z přesunu se ale nakonec stalo jen balení. I tak se mi do toho intenzivně nechtělo.<br>
+Pravda je taková, že než jsme zvládli ustlat, bylo tak jedenáct a než jsme rozmontovali postel, zvládli jsme si to asi 3x rozdat.<br>
+A potom dojít do Albertu pro jídlo. Vařil jsem šunkofleky bez šunky a bez vajíček. A překvapivě to šlo. Akorát Černou sůl jsem zapomněl použít. Příště třeba.<br>
+
+<a href="../images/2025_november/15_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/15_1.jpg"></a>
+
+
+### 16.11. Jazykové tornádo, jízda na koni a poslední promítání
+
+Verunka ráno dělala lívance. Na několik dní dopředu. Ale na stůl je vyskládala všechny. Vypadalo to jako snídaně pro velkou rodinu. Měl jsem jen ty světlý, ale chutnaly fantasticky.<br>
+Nějak jsme začali diskutovat o orálním sexu. Verunka byla názoru, že ženy by ho dělaly víc, kdyby ho přijímaly víc. S tím jsem neměl problém a najednou se děly věci.<br>
+Občas mě trápí, když je Veru hlasitá. Zdi sice nemáme papírový, ale ocelový taky ne. David to totálně musí slyšet. Ale kdo jsem, abych ženě upíral radost.<br>
+K obědu jsme dojedli zapečené těstoviny. Druhý den byly ještě lepší. Okurky vzaly za své. Jak jednou otevřu nakládačky, dlouho nevydrží. K jídlu jsme si pustili díl přátel, ale ne na plátno. Bylo třeba stihnoutvlak do Vysočan (s přestupem na hlaváku). Jeli jsme pro krabice, bublinku a hlavně dozvědět se, jak pokračuje příběh Jindry ze Skalice.<br>
+Městečko vypálili úplně stejně jako ve Středu. Jízda na koni s Kumány v zádech jsme opakovali asi 8×. Slunce mezitím zapadlo. To skutečné i herní.<br>
+S krabicemi od Core One tiskáren jsme vyrazili potemnělým areálem zpět na tramvaj a vlaky do Vršovic. Tam jsme rozebírali paličky, večeřeli chilli sin carne a koukali na projektoru na Přátele.<br>
+
+<a href="../images/2025_november/16_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/16_1.jpg"></a>
+
+
+### 17.11. I přes svobodu ani krok ven
+
+Den Studenstva. Den za svobodu a demokracii. Den, kdy bylo potřeba pohnout s balením se.<br>
+Sundaval jsem poličky. Vyndaval hmoždinky. Rozebíral nábytek. a jedl dobroty, který Verunka čarovala ze zbytků v mrazáku a lednici. Nebýt jí. Udělal bych prd. Byl bych úplně paralyzovanej.<br>
+
+<a href="../images/2025_november/17_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/17_1.jpg"></a>
+
+Pět let byla Ukrajinská 7 mají doma. Ten poslední byla naše společné doma. Nebrečel jsem. Ale bylo mi smutno.<br>
+Fotil jsem si, jak námi vybudované bydlení mizí v krabicích a na hromadě v obýváku. Projektor pryč. Poličky pryč. Gauč pryč...<br>
+
+<a href="../images/2025_november/17_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/17_2.jpg"></a>
+
+Pohli jsme s tím dost. Ale dost toho zbývalo. Už jsem to chtěl mít za sebou. Ještě že Verunka je tak fantastická.<br>
 [>> Prosinec](2025_december.md)<br>

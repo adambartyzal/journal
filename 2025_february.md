@@ -25,7 +25,7 @@
 - [21.2. Nepříliš jistý průlom](#212-nepříliš-jistý-průlom)
 - [22.2. Kolaudačka](#222-kolaudačka)
 - [23.2. Plavat jako chcípák](#232-plavat-jako-chcípák)
-- [24.2. Las machinas](#242-las-machinas)
+- [24.2. Las máquinas](#242-las-máquinas)
 - [25.2. Sport zahání trudomyslnost](#252-sport-zahání-trudomyslnost)
 - [26.2. Předčasně naslepo](#262-předčasně-naslepo)
 - [27.2. RFAL není cesta](#272-rfal-není-cesta)
@@ -34,8 +34,8 @@
 
 ### 1.2. Ostrava !!!
 
-Polštář na bříšku docela fungoval. Trochu jsem se budil, ale záda si spíš odpočinula. Narozdíl ode mé. Vstávat v sobotu po šesté nebylo ok. Aspoň že ledová sprcha mi trochu probrala. A kafe v termosce.<br>
-Snídaně byla z Albertu na nádraží, Snězená ve žlutém vlaku. Cestou jsem vymyslel že na začátku května půjdeme kus stezky Českem. Adršpach_Broumovsko. Kouknul jsem na video s pánem z cestománie a na web stezky. 4 dny. 100 km.<br>
+Polštář na bříšku docela fungoval. Trochu jsem se budil, ale záda si spíš odpočinula. Narozdíl ode mé. Vstávat v sobotu po šesté nebylo ok. Aspoň že ledová sprcha mě trochu probrala. A kafe v termosce.<br>
+Snídaně byla z Albertu na nádraží, Snědená ve žlutém vlaku. Cestou jsem vymyslel že na začátku května půjdeme kus stezky Českem. Adršpach_Broumovsko. Kouknul jsem na video s pánem z cestománie a na web stezky. 4 dny. 100 km.<br>
 Na nádraží pro nás přijel Lukáš. Verunka ve vlaku koukalana jeho přednášku z cz. nicu. Oba jsme tomu rozuměli kulový.<br>
 V autě jsem poznal kudy jedeme z povídání, které mi pár dní zpátky Verunka dávala nad google mapou. Překvapilo ji, kolik si toho pamatuju. Za kulatým kostelem, před kinem luna jsme zatočili k řadovkám, kam se Ondráčkovi přestěhovali, když bylo Veru 6.<br>
 Hned po příjezdu mě vítal Hynek a představil mi ženu Janu a dceru Markétu. První pocit z domu byl intenzivní. Patřil víc kočkám než lidem. Nosem to bylo poznat hodně. A to mi potom Verunka říkala, že kvůli mě to tam dali hodně do pucu.<br>
@@ -43,11 +43,11 @@ Ale byli moc milí. Pochválil jsem Markét její roli ve filmu SŽDC a poměrn�
 Hynek udělal moc fajn vege nudle se sojovým i nudličkami. Bylo to fakt moc dobry! Přidal jsem si. Tu a tam Jsem odpověděl na nějakou otázku, ale spíš jsem poslouchal vyprávění rodičů, o dětech.<br>
 Bylo videt, že jsou na svý děti patřičně hrdý. A aby ne.<br>
 Verunka mi chtěla ukázat Ostravu. A rodičům fotky z Itálie. Lukáš přinesl laptop a monitor, posedali jsme si na pohovku a po chvíli štelování google alb jsme se pustili do vyprávění. to že jsem se koupal v Lago di Garda přineslo nejedno pozdvižení obočí.<br>
-Po promítání jsme vyrazili na tramvaj do centra. Prošli jsme kolem domů, kde verunka vyrůstala, chodila na základku i na gympl. Tramvaj nás provezla kolem areálu Vítkovic, kde dělal její táta, děda. babička a skoro každý druhý v Ostravě. Vcentru jsme vyjeli na vyhlídkovou věž na radnici a já si tak mohl Ostravu s výkladem prohlédnout v celé své kráse.<br>
+Po promítání jsme vyrazili na tramvaj do centra. Prošli jsme kolem domů, kde verunka vyrůstala, chodila na základku i na gympl. Tramvaj nás provezla kolem areálu Vítkovic, kde dělal její táta, děda. babička a skoro každý druhý v Ostravě. V centru jsme vyjeli na vyhlídkovou věž na radnici a já si tak mohl Ostravu s výkladem prohlédnout v celé své kráse.<br>
 
 <a href="../images/2025_february/1_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_1.jpg"></a>
 
-Moc krásy tam nebylo. Hodně štol. A kouře. A paneláků. Ale výhledy mám rád. A kavárny mám taky rád. Proto jsme z věže mířili k Danielovi. Měli tam sladký a tak jsme si dali sladký. Hodně. Svařák, Čokoládu a dva dorty. Sedli jsme pod pozounem a dvěma daněmi, stejnými jako ty, které někdo vyhodil v Bahně.<br>
+Moc krásy tam nebylo. Hodně štol. A kouře. A paneláků. Ale výhledy mám rád. A kavárny mám taky rád. Proto jsme z věže mířili k Danielovi. Měli tam sladký a tak jsme si dali sladký. Hodně. Svařák, Čokoládu a dva dorty. Sedli jsme pod pozounem a dvěma laněmi, stejnými jako ty, které někdo vyhodil v Bahně.<br>
 
 <a href="../images/2025_february/1_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_2.jpg"></a>
 
@@ -57,7 +57,7 @@ Doma se scházeli lidi. Přišli Borkovi. Teta a strýček. Moc fajn pair. Melo 
 <a href="../images/2025_february/1_3.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_3.jpg"></a>
 
 A jak se řeklo, tak se stal.. Hynek hrál na housle. Fakt dobře. Podle ucha. A na flétnu. A kytaru. Asi by hrál na cokoliv, co by mu človek vrazil do ruky.<br>
-Bylo to moc fajn. Taky jsem zpíval. A hrál. A pil. A jedl. Tofu s hořčicí je překvapivě dobrý. Spát jsme šli s Verunkouněkdy ve dvě ráno. Měli jsme dvě matrace, ale usnuli jsme na jedný vedle sebe na zemi.<br>
+Bylo to moc fajn. Taky jsem zpíval. A hrál. A pil. A jedl. Tofu s hořčicí je překvapivě dobrý. Spát jsme šli s Verunkou někdy ve dvě ráno. Měli jsme dvě matrace, ale usnuli jsme na jedný vedle sebe na zemi.<br>
 
 <a href="../images/2025_february/1_4.jpg" target="_blank"><img src="../images/thumbnails/2025_february/1_4.jpg"></a>
 
@@ -66,7 +66,7 @@ Bylo to moc fajn. Taky jsem zpíval. A hrál. A pil. A jedl. Tofu s hořčicí j
 
 Vlastně nám ta úzká matrace na zemi stačila. Spali jsme skoro v objetí. Měli jsme oba trochu myšlenky, ale prý je nahoře všechno slyšet.<br>
 Hynek už byl vzhůru. Připravoval už něco na oběd. My posnídali makovec a čaj a po chvíli vyrazili za babičkou. Zábřeh je maličkej. Nebo spíš oblast, kterou Verunky rodina okupuje je maličká. Vzali jsme kytaru a v paneláku byli cobydup.<br>
-Babička trápí parkinson. Ale hlavu má v 82 úplně fit. Stýskalo se jí po dědovi, který umřel, ale byla ráda, že jsme přišli a nadšeně nám vyprávěla o zážitcích. O potomcích. O tom, že Verunka by měla víc běžkovat a jezdit na kole. Ukazovala nám z balkonu v 10. patře, ze kterého děda kontroloval, zda Hynek bere Janu opravdu na rande do kina, kde je jaká část beskyd, kde je kopa e. a a jak je fajn, že pořád hoří.<br>
+Babička trápí parkinson. Ale hlavu má v 82 úplně fit. Stýskalo se jí po dědovi, který umřel, ale byla ráda, že jsme přišli a nadšeně nám vyprávěla o zážitcích. O potomcích. O tom, že Verunka by měla víc běžkovat a jezdit na kole. Ukazovala nám z balkonu v 10. patře, ze kterého děda kontroloval, zda Hynek bere Janu opravdu na rande do kina, kde je jaká část Beskyd, kde je kopa Ema a jak je fajn, že pořád hoří.<br>
 Upekla hrníčkovou bábovku. Měli jsme kafe a ořechovici. A kladla mi na mysl, že Verunka musím chválit, že to jestli člověk vidí kolem sebe krásu je volba a že s dědou zvládli Go let, protože se nikdy nenudili.<br>
 Dál nás čekala cesta k Borkovým. Ti jsou sympoši. Zdeňka, sestra Jany, nám ukazovala potažené houpací křeslo a gauč. Bylo to opravdu pěkný. A moc složitý.<br>
 Koupíme natahovací obal.<br>
@@ -77,7 +77,7 @@ Slíbil jsem, že přímočarku vezmu v pondělí zpátky do práce. Ještě př
 
 <a href="../images/2025_february/2_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/2_1.jpg"></a>
 
-A večer se to stalo. Napřed jsme měli fakt dobry sen a když jsme se uložili ke spánku, pošeptala mi Veru do ucha, že mě miluje. Nevím jestli moje reakce a opravdu jsi to řekla" uspokojila, ale v další větě jsem řekl, že to cítím taky tak. A byla to pravda.<br>
+A večer se to stalo. Napřed jsme měli fakt dobry sex a když jsme se uložili ke spánku, pošeptala mi Veru do ucha, že mě miluje. Nevím jestli moje reakce a opravdu jsi to řekla" uspokojila, ale v další větě jsem řekl, že to cítím taky tak. A byla to pravda.<br>
 Leželi jsme v objetí a měli se rádi.<br>
 
 ### 3.2. Nákupy s expaty
@@ -115,7 +115,7 @@ Pak jsme si dali dvojku bílého a Únětice v Baráku a otočili se na hlaváka
 
 <a href="../images/2025_february/5_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/5_2.jpg"></a>
 
-Bylo pozdě. Doslova jsme utekli na devítku abychom stihli aero. Z hlaváku je to devítkou. Díky tomuběhu jsme si s Ondrou a Martou před filmem zvládli pokecat.<br>
+Bylo pozdě. Doslova jsme utekli na devítku abychom stihli aero. Z hlaváku je to devítkou. Díky tomuběhu jsme si s Ondrou a Marťou před filmem zvládli pokecat.<br>
 Film byla další Asie. Další Japonsko. O třech klucích co chtěli videt umřít dědu, ale skamarádili se s ním. Bylo to fajnově divný.<br>
 Večer Vršovické svezla sedmička a Ondru jednokolka.<br>
 
@@ -210,7 +210,7 @@ Břečka venku zmrzla. Rozhodl jsem se pro vlak. Verunka nestíhala. Rozhodla se
 Ale vlak si nevybral nás. Vybral si půl hodinové zpoždění a tak my jsme si vybrali šestku a béčko. Verunka tak poprvé přijela pozdě do práce a já si musel snídani koupit u Vietnamce místo v Lidlu a přijel později taky, ale u nás to nikoho netrápí. V metru jsem si ale zvládl přišít knoflíky na kabát a to bylo dobrý.<br>
 Dostavil jsem HLA00l. L, tak daleko jsme nikdy nebyli. Trochu mě to sralo. Bylo to to samý pořád do kola a na můj vkus příliš málo pokroků. Navíc až na poslední krok se teorie hezky shodovala s praxi ale paralelní kapacita vyplivnul větší smyčku ve smiťáku a přizpůsobení vyšlo na nějakých osm reálných ohmů. Rozhodl jsem se tomu dát šanci.<br>
 Vietnamka otevřela po oslavách nového lunárního roku. Ivan v 11:00 Zavelel odchod. Po dlouhém váhání jsem opet skončil a Pad Thai s tofu. Byla to dobrá volba.<br>
-Po práci jsme měli v plánu dojet na Břevnov. Ondrovy narozeniny se blížily a Rebeka svolala neoficiální oslavu. Verunka s Jardou a s Koren jsem potkal v šestce. Byla to dlouhá jízda a Jarda tak stihl vyprávět o jeho plánu restaurovat nábytek.<br>
+Po práci jsme měli v plánu dojet na Břevnov. Ondrovy narozeniny se blížily a Rebeka svolala neoficiální oslavu. Verunku s Jardou a s Korou jsem potkal v šestce. Byla to dlouhá jízda a Jarda tak stihl vyprávět o jeho plánu restaurovat nábytek.<br>
 Na Břevnov dorazila ještě Ráchel s Ciri. Od cesty na mácháč se dost natáhla. Celý večer jsme si povídali. O zero screen time do čtyř let a podobné dospěláckých tématech. <br>
 
 <a href="../images/2025_february/13_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/13_1.jpg"></a>
@@ -236,7 +236,7 @@ A přece jen něco dostala. Kus čokolády. A to je lepší než mrtvá kytka ne
 
 ### 15.2. Makat do Ratboře
 
-To byl plán. Kalendář říkal vlak v 8:56. Do tý doby jsme měli skvělej sen a připravovali se na víkend v domě, kterej Eva s Petrem koupili. A na hokej. Protože Robin měl dopoledne zápas. Kolín hrál proti Kutné Hoře.<br>
+To byl plán. Kalendář říkal vlak v 8:56. Do tý doby jsme měli skvělej sex a připravovali se na víkend v domě, kterej Eva s Petrem koupili. A na hokej. Protože Robin měl dopoledne zápas. Kolín hrál proti Kutné Hoře.<br>
 Rychlík do Jihlavy nás popovezl do Libně a courák na Kolín zastávka. Trvalo to roky. V půl jedenáctý na nás Eva mávala z ostrova na Labi a po krátkým představení jsme společně s Luckym vyrazili na zimák.<br>
 
 <a href="../images/2025_february/15_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/15_1.jpg"></a>
@@ -290,7 +290,7 @@ Večer jsme se pustili do stavění Hokusaiovy Velké vlny. Návod měl asi 150 
 ### 18.2. Po badmintonu samotný
 
 Nějak jsem nestihl snídat. A obděd jsem si taky nevzal. V úterý mě nikdo na ozone netahá a tak jsem v půl šestý pořád nepozřel nic kromě kafe a čaje. Ideál na start keta.<br>
-Zahradní město, kde jsme s Martou měli zabookovaný badminton je 40 minut jízdy na kole. Ale taky zastávka našeho vlaku. Jel jsem s DJem<br>
+Zahradní město, kde jsme s Marťou měli zabookovaný badminton je 40 minut jízdy na kole. Ale taky zastávka našeho vlaku. Jel jsem s DJem<br>
 Nemít v sobě před sportem žádný kalorie nebylo moudrý. Stavil jsem se v tescu a koupil svačinu bez sacharidů. A šlo to. Žádná slabost ani únava na mě nepřicházely.<br>
 Beďas byl dobrej. Většina bodů byla na mojí straně, ale bavili jsme se dobře. Po pěti setech jsem se převlékl a objevil, že nemám klíče. Marťa utíkala na autobus a jak se dal do hledání. Nakonec byly na statice, ale potrápilo mě to.<br>
 Kolo domů a doma nikdo. Veru jela do Ostravy přešít záclony. Usínal jsem ten rok poprvé sám.<br>
@@ -361,12 +361,12 @@ Plavat? Verunky pln. Souhlasil jsem. Vlak. Metro. Bus. Šutka. Stěží jsem dal
 Cestou zpátky jsme se stavili v alze. Verunka nevěděla, že alza má kamennou pobočku. Nikdy nebyla v Praze na tržnici. Zabili jsme tím dost času a nakonec koupili dvě kávy z doubleshotu a oříšky.<br>
 Přes Holku jsme došli na Křižíkovu a městkou dojeli dam. Zbytek večera Veru strávila v přípravách, já v drhnutí trouby, vaření super veggie a společně v jednom díle Přátel.<br>
 
-### 24.2. Las machinas
+### 24.2. Las máquinas
 
 Nový týden, nová neštěstí. Jestli jsem měl za sebou boj s výkonem jsem neviděl. Zato jsem věděl, že jsem spadl do nové králičí nory. Demodulace. Celý den jsem pomocí testů zjišťoval, že v některých případech lze použít AM/PM demodulátor, zatímco jindy ((Q demodulaci. Proč to mi nebylo jasné.<br>
 Taky jsem čekal, zda mi odepíše člověk s projektorem. Poslední zpráva od něj byla taková, že v pondělí po šesté má čas, ale během pondělí nereagoval.<br>
 Zato přišla štítkovačka. V poledne domů. HoltZkejsla na poště.<br>
-Dojel jsem metrem na Hůrku, našel dblo prodejce a zavolal mu. Bydlel 2 minuty od metra. Projektor byl ještě zabalený, ale všechno vypadalo ok. Pán dostal 4200 korun a já vyrazil do Vršek.<br>
+Dojel jsem metrem na Hůrku, našel číslo prodejce a zavolal mu. Bydlel 2 minuty od metra. Projektor byl ještě zabalený, ale všechno vypadalo ok. Pán dostal 4200 korun a já vyrazil do Vršek.<br>
 Před domem jsem potkal Verunku. Vzala projektor nahoru a já došel na poštu pro embosser. Poslali jak stroj, tak pásky. A fungovalo to. Jen stříhání dělalo takovou nehezkou linku. Bylo třeba přidat mezeru.<br>
 Projektor jsem zapojil. Veru udělala lilkovou pastu a pustili jsme si wall-e. První půlku z webu. Byl jsem trochu zklamanej. Druhou z pořádnýho zdroje a to bylo dost kinový.<br>
 Bylo třeba vymyslet kabeláž. Jinak jsme ale měli obývák s Hýbacími obrázky!<br>
@@ -383,9 +383,9 @@ Hráli jsme vzadu. A na prvních dvou kurtech hráli vozíčkáři. A šlo jim t
 
 I tentokrát jsme jeli spolu. Na Verunku ale přišla návštěva tety Irmy a můj výklad o tom jaký je rozdíl mezi LCD a DLP projektory nepadl na úrodnou půdu. Mrzelo mě, že nejsem s to jí jakkoliv pomoci.<br>
 Domluvili jsme se, že po práci se sejdeme na jídlo a potom společně pojedeme na žižkov. Naslepo totiž bylo o týden dříve kvůli festivalu otrlého diváka.<br>
-Do práce jsem vezl vrtačku, slintačku a smarwi. Vojta slíbil, že se staví na oběd a chtěl testovací kus zpátky. Šli jsme do Vietnamu. Bavili jsme se o horách, o Ivanové Caravelle, na které mu udajné odchází převodovka po třiceti tisících kilometrech a o vektivě. Vojta tam definitivně končil.<br>
+Do práce jsem vezl vrtačku, slintačku a smarwi. Vojta slíbil, že se staví na oběd a chtěl testovací kus zpátky. Šli jsme do Vietnamu. Bavili jsme se o horách, o Ivanové Caravelle, na které mu udajně odchází převodovka po třiceti tisících kilometrech a o vektivě. Vojta tam definitivně končil.<br>
 Verunka v Karlíně, kam šla na vlasovou kliniku, kde měli první konzultaci zdarma, skončila dříve než čekala. Sešli jsme se na Vysočanské v Fenixu a dali si Indii. Bylo to moc dobrý.<br>
-136 nás dovezla na ohradu. Verunku jsem trochu ztrapňoval nedobrou a hlasitou španělskou konverzací. Pána naproti to hodně bavilo. Bavili jsme se tak dokud se k nám v aeru nepřidali Martá s tildou.<br>
+136 nás dovezla na ohradu. Verunku jsem trochu ztrapňoval nedobrou a hlasitou španělskou konverzací. Pána naproti to hodně bavilo. Bavili jsme se tak dokud se k nám v aeru nepřidali Marťa s Vildou.<br>
 S těmi jsme si povídali o horách, přihlášce na střední,Kingdom Come a Pánu prstenů a nás.<br>
 Pan uvaděč se tentokrát překonal. O filmu neřekl vůbec nic, co by nám prozradilo, jaký bude, ale povídal asi 5 minut. A nakonec všechno, co řekl, dávalo smysl. Ohnivé ulice byly absurdní skoro za hranu. Vtipné. Wiliam Defoe byl oháknutý jako už nikdy a kromě něho tam nikdo známý nebyl.<br>
 Večerní sedmičku jsme stihli jakž takž. Ve čtyřech po pár pivech jízda utekla jak voda a doma jsem usnul skoro okamžitě.<br>

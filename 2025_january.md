@@ -80,7 +80,7 @@ Na kole byla pěkná kosa. Verunka mě pochopitelně předjela. Doma jsme posunu
 
 Všechno bylo naplánovaný. Dodávka. Auto s tátou a bráchou. Nábytek sbalený, obalený a věci v přepravkách. Marťa s námi počítala a tak zbývalo jen vynést odpad a připravit nějaké občerstvení. Do obchodu jsem vyrazil já, kdyby Honza s Mai přijeli. Vzal jsem bagety, pomazánky, zeleninu a sýr.<br>
 Přijeli trochu se zpožděním. Čekal jsem, že věci se budou natahovat. Honza byl fakt sympoš. Mai neuměla anglicky a tak jsem poslouchal aspoň španělštinu a jejich dcerka vypadala vesele a energicky. Ale ne nemluvila. Alespoň ne přede mnou.<br>
-S Honzou jsme začali tahat věci do auta. Po chvíli zavolala Martě, že vyráží k nám. Poprosil jsem jí ještě, ať vezme klíče, abychom měli dvoje, dokud Kendy nepřiveze svoje.<br>
+S Honzou jsme začali tahat věci do auta. Po chvíli zavolala Marťě, že vyráží k nám. Poprosil jsem jí ještě, ať vezme klíče, abychom měli dvoje, dokud Kendy nepřiveze svoje.<br>
 Když přišla pustila se do nošení s námi. Marťa vlastně měla dodávku. Vůbec mi to nedošlo. Taky mi nedošlo, že Ondra s Rebekou mi dluží tak tři stěhování. A už vůbec mi nedošlo, že v práci máme tři dodávky. Ale takhle jsem poznal Verunky kamarády a to bylo fajn.<br>
 Když bylo naloženo, vyrazili jsme já, Marťa a Honza na sběrný dvůr. Do re-use centra nakonec nepřišlo nic. Stůl jsme rozmlátili palicí na malé kusy a zbytek přišel do různých kontejnerů<br>
 
@@ -158,7 +158,7 @@ Aleš chtěl hrát. Ivan se bál, že stůl nějak poškodí, ale Charles byl pr
 
 <a href="../images/2025_january/9_1.jpg" target="_blank"><img src="../images/thumbnails/2025_january/9_1.jpg"></a>
 
-Někdy před sedmou nás zavolali, že večeře začíná. Charles met proslov. Prý jsme nejdéle existujícístartup v historii. Veřit v tapdride a připil na průlom, který by mohl být před námi.<br>
+Někdy před sedmou nás zavolali, že večeře začíná. Charles met proslov. Prý jsme nejdéle existující startup v historii. Veřit v tap&ride a připil na průlom, který by mohl být před námi.<br>
 A pak jsme jedli. Samý dobrý věci. A povídali si. A pili dobrý pití. Štěpánka si s Verunkou sedli. Těšilo mě to. Čekal jsem to. Měli podobnou profesi. Ale opravdu si povídaly moc mile.<br>
 Veru dělala na všechny dobrý dojem. Měl jsem fakt radost.<br>
 Ještě jsme se vrátili ke kulečníku. Přidal se Toník a Ríša. Nikomu z nás to vůbec nešlo. Bylo to zábavný.<br>
@@ -181,8 +181,8 @@ Zbylo. Víc než bychom všichni dohromady zvládli spořádat. Včetně zbytků
 V batohu jsem měl asi 3 krabičky, které jsem vzal na Kolbence, abych je o víkendu mohl naplnit něčím dobrým. Přišlo to ale už v pátek ráno. Ada říkala, že co se nesní, vyhodí se.<br>
 Půjčil jsem jednu krabičku Vláďovi, aby zachránil maso a nabral jsem gnocchi s houbovou omáčkou a hovězí na víně s kaší. Verunka pobalila pečivo a čočkový salát.<br>
 Ada ještě našla pár krabiček od zmrzliny a potravinářskou folii a ostatní taky zachránili jídlo před zkázou. Piva trochu zbylo. A nějaký salám. Ale většinu jsme si odváželi.<br>
-Ve stejných sestavách jako při příjezdu jsme nastoupili do aut a vyrazili každý svým směrem. Toník nás hodil na Čerňák, odkud jsme mohli jet béčkem, ale vzpoměl jsem si, že IKEA je za rohem a nám chybí šrouby. Rozloučili jsme se s Vládou a pešky vyrazili do Švédského ráje.<br>
-Bylo moc pěkné. To že jsem nám trasu prodloužil nevadilo. Verunka telefonem zjistila, že šrouby seženeme V second-life oddelení.<br>
+Ve stejných sestavách jako při příjezdu jsme nastoupili do aut a vyrazili každý svým směrem. Tomík nás hodil na Čerňák, odkud jsme mohli jet béčkem, ale vzpomněl jsem si, že IKEA je za rohem a nám chybí šrouby. Rozloučili jsme se s Vláďou a pešky vyrazili do Švédského ráje.<br>
+Bylo moc pěkně. To že jsem nám trasu prodloužil nevadilo. Verunka telefonem zjistila, že šrouby seženeme V second-life oddělení.<br>
 Měli tam hrabárnu. Hledali jsme správné šroubky dle návodu na postel, ale moc jasné to nebylo. V obchodě jsme ještě pořídili koš na bio odpad a dali si kafe a dortík.<br>
 
 <a href="../images/2025_january/10_2.jpg" target="_blank"><img src="../images/thumbnails/2025_january/10_2.jpg"></a>
@@ -212,8 +212,8 @@ Spát jsme šli v půl druhý. Bylo třeba se polepšit.<br>
 
 Verunka se tentokrát pustila do kuchyně. V té zbývalo asi nejvíc neroztříděných věcí a poličky v kuchyňské lince za ty roky nabraly trochu prachu a ztratily organizaci.<br>
 Chtěl bych říct, že jsme se do toho pustili ráno, ale ranní jógu jsme dělali ve 12 hodin a brunch končil někdy po jedné. Verunka se do toho fakt opřela.<br>
-Já jsem šel vyčistit pračku. Octem jsem vydrhl nádobku na prášek a komoru na ní. Poasi půl hodině nadávání jsem přišel na to, jak spustit režim čistění bubnu a nakonec jsem vyčistil i filtr. Tentokrát v něm nebyly 2 eura ale jen jeden cent.<br>
-Večer se zastavila paní Kotrbata! Podepsali jsme smlouvu a prohlídla si jak bydlíme. Optala se taky, kdy už Verunka nebude slečna a informovala nás, že její dcera se brala v devět a dvacet, což bylo pozdě, protože kdysi to bylo pět a dvacet.<br>
+Já jsem šel vyčistit pračku. Octem jsem vydrhl nádobku na prášek a komoru na ní. Po asi půl hodině nadávání jsem přišel na to, jak spustit režim čistění bubnu a nakonec jsem vyčistil i filtr. Tentokrát v něm nebyly 2 eura ale jen jeden cent.<br>
+Večer se zastavila paní Kotrbatá. Podepsali jsme smlouvu a prohlídla si jak bydlíme. Optala se taky, kdy už Verunka nebude slečna a informovala nás, že její dcera se brala v devět a dvacet, což bylo pozdě, protože kdysi to bylo pět a dvacet.<br>
 Večer jsem psal deník. Zvládl jsem posledních pár dní, ale stěhování chybělo a prosinec vypadal jak ementál. Obzvlášť ta Itálie mě štvala. Bylo třebanapsat si TODO a dodržet ho.<br>
 
 ### 13.1. 6×6 nestačí?
@@ -377,7 +377,7 @@ Na křižovatce ze které vedla slepá cesta k přehradě jsme se rozdělili. J�
 Na obědě jsme se všichni opet sešli. Já s Verunkou jsme měli napůl halušky napůl borůvkové knedlíky. Oboje bylo moc dobrý.<br>
 Cesta zpátky byla dobrodružná. Napřed vysoká rovinka,kde Jirka jezdil kolem nás tam a zpátky, potom výhledy na západ slunka a potom cesta kolmo na vrstevnice po potoce. Odvážnější tu a tam zkoušeli sjíždět, ale spíš padali. Příroda to byla nádherná a pěší procházka se Verunce líbila víc, než jízda.<br>
 Pešky jsme sešli, závěrečný úsek po asfaltu. Slunko už zapadlo a začala být fakt zima. Do kroku jsme si zpívali a těšili se na teplou polívku. A na guláš. A na hraní her.<br>
-Sedm divů a Port Royale. V tom byla Verunka přeborník a po pár kolech začala inkasovat na skoro všem, co se stal.. Po chvili se k ní přidal Vojta a Ivan. Vojtanakonec vyhrál, ale situace, kdy kapitalisti napřáhnuli ručičky, aby vyžádali peníze od ostatních ikonická.<br>
+Sedm divů a Port Royale. V tom byla Verunka přeborník a po pár kolech začala inkasovat na skoro všem, co se stalo. Po chvili se k ní přidal Vojta a Ivan. Vojta nakonec vyhrál, ale situace, kdy kapitalisti napřáhnuli ručičky, aby vyžádali peníze od ostatních ikonická.<br>
 
 <a href="../images/2025_january/25_3.jpg" target="_blank"><img src="../images/thumbnails/2025_january/25_3.jpg"></a>
 
@@ -440,7 +440,7 @@ Nicméně to byl pokrok!<br>
 
 <a href="../images/2025_january/31_2.jpg" target="_blank"><img src="../images/thumbnails/2025_january/31_2.jpg"></a>
 
-Doma jsem vzal přímočarku, konzoly a dospěl k názoru že přes Vinohrady to s takovým nákladem nepůjde. Vlak tedy.<br>
+Domu jsem vzal přímočarku, konzoly a dospěl k názoru že přes Vinohrady to s takovým nákladem nepůjde. Vlak tedy.<br>
 Verunka zrovna domývala nádobí, když jsem přijel. Večeři nechala na mně. Byly těstoviny se sójovými nudličkami a sugem. Překvapivě to bylo fakt dobrý.<br>
 Veru pustila film SŽDC, kde hrála její sestra. Bylo to ok. Kluk zařval na vlaku. V dalších příbězích už ale nehrála a tak jsme si vytáhli párové kartičky. Bylo to fajn, ale únava nás zahnala do postele brzy.<br>
 [>> Únor](2025_february.md)<br>

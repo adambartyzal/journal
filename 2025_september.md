@@ -50,10 +50,10 @@ Sira Galavanta. Muzikál ze středověku. Americkou parodii té doby. Byl to ná
 ### 2.9. Mít tak 7 miliónů
 
 Tentokrát jsme po snídani brali kola oba. Měli jsme plán podívat se na dům, který jsme našli cestou z Tišnova na S-Realitách. V Zápech. Kam sice nejel vlak, ale ze Mstětic ano a to byla kousek.<br>
-V batohu jsem měl poslední dva bramboráky a švestkový koláč a po rozloučení se s ženou na Vysočanské jsem zamkl Marty kdo na nádraží a vyrazil na Kolbenku mírným deštěm na Franzovi<br>
+V batohu jsem měl poslední dva bramboráky a švestkový koláč a po rozloučení se s ženou na Vysočanské jsem zamkl Marťy kdo na nádraží a vyrazil na Kolbenku mírným deštěm na Franzovi<br>
 V kanclu jsme byli jen já Tomík. Plácal jsem se s opravou zámku, který umřel po připojení nabíječky. Nakonec jsem došel k názoru, že utíkal proud pod spínač solárního čipu a proto se nevypnulo nabíjení, když se zapnulo 5L. Vzalo to s sebou i CAN.<br>
 Déšt za okny naštěstí ustával. Když jsem před odjezdem snědl poslední bramborák a zbytek koláče, vykouklo sluníčko.<br>
-Marti kolo na nádraží naštěstí počkalo. Akorát bylo dost prázdný. Ve vlaku jsem se pustil do výzkumu toho, jak to Vyřešit a být v Zápech na čas. Benzinka kousek od nádraží vypadala slibně. Veru přistoupila na Rajské a zavolala tam. Pumpa prý měli.<br>
+Marťi kolo na nádraží naštěstí počkalo. Akorát bylo dost prázdný. Ve vlaku jsem se pustil do výzkumu toho, jak to Vyřešit a být v Zápech na čas. Benzinka kousek od nádraží vypadala slibně. Veru přistoupila na Rajské a zavolala tam. Pumpa prý měli.<br>
 Vystoupili jsme v Mstěticích, Veru odvedla kolo na benzínku a naštěstí všechno fungovalo. Po chvíli jsme oba vyjeli na silnici vedoucí do Záp.<br>
 Byl na ní provoz. Alespoň až do křižovatky asi kilometr před vsi. Dal většina aut pokračovala do Brandýsa. My sjeli z kopce k hřišti a do kopce na náves a z té to k domu bylo jen asi 200 metrů<br>
 Stihli jsme to přesně na čas. Paní byla překvapená. Na kole jí tam prý ještě nikdo nepřijel. Společně s ní tam byl pan Baťka, majitel domu. Syn původních majitelů. Člověk, který znal každý šroub v domě. Protože se o dům staral. Nebyla to žádná ruina. Byl to extrémně milej domek, se Spoustou místa navíc a zahradou s fantastickým výhledem.<br>
@@ -155,7 +155,7 @@ Třeba badminton jsem nezvládl zarezervovat. Nacvakl jsem to do webu byť zbyl 
 Ve vývoji byli všichni. AWS nikam nevedlo a po obědě v Asii jsem si uvědomil ještě horší průser než undershoot v B. Osa phi=0 na zámku byla o pi/2 otočená oproti té na PICC. Tři čtvrtě roku testuju špatně!<br>
 Panika. Čtení datasheetů. Fakt to tak bylo. Zmátlo mě pootočení popisků na test benchi od keolabs. Ale byla to totálně moje chyba.<br>
 Co naplat. Bylo třeba udelat nové testing volume. Ve zbytku dne jsem ho překresloval a tiskl.<br>
-Po zadu, přes venkovní posilovnu a Lidl ve Strašnicích jsem dojel na Zahraďák. Hry to byly dobrý. Marta povídala o randění přes bumble a tinder. Nic z nich ale nebylo.<br>
+Po zadu, přes venkovní posilovnu a Lidl ve Strašnicích jsem dojel na Zahraďák. Hry to byly dobrý. Marťa povídala o randění přes bumble a tinder. Nic z nich ale nebylo.<br>
 Cestou jsem se ještě stavil v Kauflandu. Nakoupil jsem spoustu mražené zeleniny, tofu a rýži o které jsem si behem nákupu volal s Verunkou. Měli bychom dojet do Sappy, dohodli jsme se.<br>
 Na vaření bylo pozdě. Než jsem ale usnul, poslala mi Verunka dvě mizející fotky. Nic vyloženě odhalenýho, ale rozhodně inspirativního. Verunka je sexy. Mám štěstí.<br>
 
@@ -297,7 +297,7 @@ Ten minuly byl o dost lepší a vlastně skoro stejně drahej. Na cestě zpátky
 
 ### 19.9. Sinusitida zpět?
 
-Odřekl jsem cestu na Marti narozeniny. Bylo mi to blbý. Ale taky mi bylo blbě. Mel jsem stejný projevy ucpanýho nosu jako před operací.<br>
+Odřekl jsem cestu na Marťi narozeniny. Bylo mi to blbý. Ale taky mi bylo blbě. Mel jsem stejný projevy ucpanýho nosu jako před operací.<br>
 Verunka vstala dřív než já a uvařila mi písmenkovou polívku a nakrájela broskev. Taky jsem od ní měl kari s žampiony v lednici na oběd. Verunka je boží.<br>
 Sprcha mě trochu spravila a já had jízdu do práce na kole. Dopo jsem dodělával něco z předchozího dne a ve zbytku dne jsem osazovat nové HLP. Bylo jich třeba víc. Kvůli L1, L2 a EMC.<br>
 U osazování jsem poslouchal Moon Music od Coldplay. Je to zvláštní album a Film for Future, který ho doprovází je ještě zvláštnější.<br>
@@ -408,7 +408,7 @@ Ten zámek mě štval. 2g odpojovalo modem. Řešil jsem jak to odstranit či co
 To bylo blbý. Ale ne nejhorší.<br>
 Nejhorší totiž byl telefonát těsně před obědem od paní Dundáčkové. Naše obavy se naplnily. Vyhodí nah. Na konci roku. Na jednu stranu bylo dobrý to vědět. Na druhou to byl ojeb a vidina ztráty peněžní, časové, životně kvalitativní a kdo ví čeho dalšího. Vršovice jsem si oblíbil. A nájem 15k za měsíc taky.<br>
 Na Ukrajinské 7 jsme si udělali domov. Bylo mi smutno. A byl jsem i nasranej. Obzvlášť během cesty na beďar. Ale spíš mi bylo smutno.<br>
-Marta naproti tomu zářila. Byla čerstvě zamilovaná. Do kluka z Bamblu, kterýho ale už znala z doby, kdy dobrovolničila v organizaci hlavák.<br>
+Marťa naproti tomu zářila. Byla čerstvě zamilovaná. Do kluka z Bamblu, kterýho ale už znala z doby, kdy dobrovolničila v organizaci hlavák.<br>
 Když jsme začínali hrát byla už tma. Začínal půlrok tmy. Šla na mě trudomyslnost.<br>
 Ještě že Veru je tak bezva a podporující. Mám štěstí, řekl jsem si. Objednal lístky na pendolino na Tomášovu svatbu a šel spát vedle svý skvělý ženy. Půjde to. Jen je to ojeb.<br>
 

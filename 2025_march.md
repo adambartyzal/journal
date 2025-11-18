@@ -217,7 +217,7 @@ Když jsem je pak rozehříval ve sprše, bolelo to jak, kdybych je zavřel do s
 Dál jsem poslouchal language transfer. Ve vlaku, kde jsem chroupal zbytek žitného chleba s kusem tofu. Začínalo to být extrémně těžký. Podmíněná budoucnost a tak.<br>
 Jak při běhu, tak ve vlaku mi do uší hrály mé nové Shokz Open Swim Pro.<br>
 V práci jsem nakupoval součástky, psal emaily do KEOLABS a řešil SPI a linku.<br>
-Běhat ráno mi asi bylo málo. Po práci jsem přejel vlakem na Astra, kde jsme hráli beďas s Martou a potom jel na kole domů. K takovýmhle dnům bych se měl v budoucnu vracet, až se mi nebude chtít ani vstát z postele.<br>
+Běhat ráno mi asi bylo málo. Po práci jsem přejel vlakem na Astra, kde jsme hráli beďas s Marťou a potom jel na kole domů. K takovýmhle dnům bych se měl v budoucnu vracet, až se mi nebude chtít ani vstát z postele.<br>
 
 ### 19.3. 
 

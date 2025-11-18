@@ -57,7 +57,7 @@ Displeje, displeje, displeje. Tolik jich chceme kupovat. Z fabriky nám přišel
 
 Večer bylo naslepo. Veru byla doma na neschopence. I když jí bylo líp, stát by jí dal flastr, kdyby jí přistihli venku. Nebo by jí vyhodili. Nevím jak to funguje.<br>
 Před kinem jsem plaval. Moc jsem tomu nedal. Bazén byl plná hlučných italů, kteří se všude pletli.<br>
-V kině bylo kolem Marti spousta lidí. Kromě Reb, Ondry<br>
+V kině bylo kolem Marťi spousta lidí. Kromě Reb, Ondry<br>
 a mě ještě Honza, Anička, Vojta, jeho holka, jejich kamarád a ani nevim kdo další.<br>
 Film byl Hollywood s Audrey Hepburn v Partii. Bylo to vtipný! Vic se rozepisovat asi nemá smysl.<br>
 Doprovodil jsem ostatní na Tramvaj a když je tramvaje rozvezli do jejich směrů, vyrazil jsem na kole dom.<br>
@@ -241,7 +241,7 @@ Moje žena ale doma udělala bramboráky. Sice se jí napřed připálily na pá
 ### 19.4. Jako bych celou dobu lhal
 
 Měli jsme plán. Jet na víkend do Lásenice. Dostat se do mé domoviny v sobotu ale není jen tak. Buď té z Hradce hadi někdo autem nebo jsi v prdeli.<br>
-Ok tak temný to není. Dá se stopovat. Možná' i jeden autobus denně jede. Nebo se dá vzít si do vlaku kolo a dojet to na něm. Franz byl ve Vysočanech. Sjeli jsme pro něj s Martiným kolem, es devítkou sjeli zpátky na Hlavák a rychlíkem Vltava vyrazili na jih. Dráhy otočily řazení vlaku. Docela mě to naštvalo. Hezký výhledy jsou jen na jednu stranu. Celou cestu. Stěžoval jsem si na to Verance hned několikrát. Jinak to byl fakt moc pěknej vlak.<br>
+Ok tak temný to není. Dá se stopovat. Možná' i jeden autobus denně jede. Nebo se dá vzít si do vlaku kolo a dojet to na něm. Franz byl ve Vysočanech. Sjeli jsme pro něj s Marťiným kolem, es devítkou sjeli zpátky na Hlavák a rychlíkem Vltava vyrazili na jih. Dráhy otočily řazení vlaku. Docela mě to naštvalo. Hezký výhledy jsou jen na jednu stranu. Celou cestu. Stěžoval jsem si na to Verance hned několikrát. Jinak to byl fakt moc pěknej vlak.<br>
 
 <a href="../images/2025_april/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/19_1.jpg"></a>
 

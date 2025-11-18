@@ -190,7 +190,7 @@ Ráno jsem objevil, že ležím ve stejné posteli jako Vojta. Ale bylo to tak v
 Snídaňová diskuse se točila kolem Slides Live. Oni už to tak mají. Kdyby nás v chatě bylo několik z freebiku, vzpomínali bychom na naše firemní zážitky. Jídlo jsme si připravili každý sám. Já si namazal kousky a k tomu měl papriku a rajče.<br>
 Venku mžilo. Bylo třeba vyřešit plán. Singltrek pod smrkem od nás byl asi hodinu a půl chůze kolem řeky. 20 minut vlakem ze zastávek, na které bychom šli asi tak hodinu a nebo nás mohl Vojta na etapy převézt. C bylo správně.<br>
 Ondra obvolal půjčovny. V první byli nemeli kol dostatek. Ve druhé ano, ale byli překvapení, že v takovém počasí chceme jet. Ostatní váhali, zda to tedy má smysl, ale řekl jsem, že spíš jo. Že budeme Špinaví, ale to k bajku patří.<br>
-Na jedenáctou jsme se tedy dopravili do Lázní Libverda ve dvou skupinách. První Vojta, já, Marek a Martin. Druhá Vojta, Jarda, Ondra a Tomáš.<br>
+Na jedenáctou jsme se tedy dopravili do Lázní Libverda ve dvou skupinách. První Vojta, já, Marek a Marťin. Druhá Vojta, Jarda, Ondra a Tomáš.<br>
 Pán v půjčovně byl sympoš. Otec kluka, který normálně business řídil, Jenže zrovna jel nějaký závod. Kola měl moc pěkný. Seřízený celopéra s hydraulickýma brzdama a teleskopyckými sedlovkami. Jen helmy nepůjčoval. Respektive. Měl šest helem, které lidi v obchodě Zapomněli v průběhu dob. Řekl jsem, že to zvládnu bez ní a pojedu opatrně. Byla to trochu píčovina, ale byla by fakt škoda nejet.<br>
 
 <a href="../images/2025_october/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/11_1.jpg"></a>
@@ -278,7 +278,7 @@ Chvíli jsme vedli diskusi, zda má smysl jít do práce, ale Veru cítila že t
 Do práce mi přišla nová VNAčka. Malé NanovNA mě příjemné překvapilo a velké Libre VNA nadchlo. Hlavně jeho aplikace.<br>
 Na signál jsem vyrazil pěšky. V lidlu si koupil dvě pity a přecpal se během chůze po sokolovské tak, že mi začalo být trochu blivno.<br>
 Nedošel jsem ani na Palmovku, když začalo být jasny! že jdu pozdě. Vzal jsem tramvaj, pak Béčko a z metra si volal s mámou. Mela pocit, že se neozvu, jak je rok dlouhej.<br>
-V Klementinu jsem potkal Ondru, Davida s Týnou a Martin s jejím novým klukem, který vedl moc fajn psa. Ten nám všem utkvěl v paměti víc, než ten kluk, který toho moc nenapovídal.<br>
+V Klementinu jsem potkal Ondru, Davida s Týnou a Marťin s jejím novým klukem, který vedl moc fajn psa. Ten nám všem utkvěl v paměti víc, než ten kluk, který toho moc nenapovídal.<br>
 
 <a href="../images/2025_october/16_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/16_1.jpg"></a>
 
