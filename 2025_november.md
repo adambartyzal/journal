@@ -20,6 +20,9 @@
 - [15.11. Opět rozmontovat postel](#1511-opět-rozmontovat-postel)
 - [16.11. Jazykové tornádo, jízda na koni a poslední promítání](#1611-jazykové-tornádo-jízda-na-koni-a-poslední-promítání)
 - [17.11. I přes svobodu ani krok ven](#1711-i-přes-svobodu-ani-krok-ven)
+- [18.11. Tmel kutil](#1811-tmel-kutil)
+- [19.11. Hledá se žena](#1911-hledá-se-žena)
+- [20.11. Sestupná spirála](#2011-sestupná-spirála)
 
 
 ### 1.11. Všichni svatí stojí při Tomášovi a Terce
@@ -106,7 +109,7 @@ Po desáté jsme měli call s Christelle, Ludvou a Philipem z Alcinea. Na to jak
 <a href="../images/2025_november/06_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/06_1.jpg"></a>
 
 Po obědě ve věži jsem se pustil do L1 testování. V digitálu jsem narazil na chybu, kterou mi ani Firas moc neosvětlil.<br>
-Cestou zpět se na mě Na Míčáncách usmálo štěstí. U popelnice ležely 4 židle. Napřed jsem jejich fotku poslal Jardovi, ale potom mi došlo, že židle potřebujeme. A tyhle byly 4. A v tašce vedle jsem našel 4 sedáky.<br>
+Cestou zpět se na mě Na Míčánkách usmálo štěstí. U popelnice ležely 4 židle. Napřed jsem jejich fotku poslal Jardovi, ale potom mi došlo, že židle potřebujeme. A tyhle byly 4. A v tašce vedle jsem našel 4 sedáky.<br>
 Veru zrovna šla z Tesca. Domluvili jsme se, že prijde a dvě vezme. Sedáky jsem nacpal mezi záda a batoh, Verunce dal 2 židle, které vzda autobusem a ty zbylé dvě jsem odvezl na kole. Byla to absurdní jízda.<br>
 
 <a href="../images/2025_november/06_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/06_2.jpg"></a>
@@ -200,7 +203,7 @@ V Šebestiánovi měli čočku. Můj oběd měl obličej. Přišlo mi to skvěl�
 
 <a href="../images/2025_november/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/12_1.jpg"></a>
 
-Sám by měl bejt zkoumaný psychologama.<br>
+Sám by měl bejt zkoumanej psychologama.<br>
 Ivan k tomu nic neřekl. Zradil nás a vyrazil do KFC. Sám. A to v Šebestiánovi bylo voleb několik.<br>
 Po práci jsem si pustil Kingdom Come Deliverance. Během hodiny hraní jsem stihl naházet hnůj Němčourovi na barák, zmlátil ho a jeho kumpány, ukout meč. nechat si vypálit vesnici a přijít o rodiče. I tak mi to ale přišlo jako mrhání časem.<br>
 Dojel jsem radši domů, kde na mě Verunka skočila. To byla líp strávená hodina.<br>
@@ -238,7 +241,7 @@ A potom dojít do Albertu pro jídlo. Vařil jsem šunkofleky bez šunky a bez v
 Verunka ráno dělala lívance. Na několik dní dopředu. Ale na stůl je vyskládala všechny. Vypadalo to jako snídaně pro velkou rodinu. Měl jsem jen ty světlý, ale chutnaly fantasticky.<br>
 Nějak jsme začali diskutovat o orálním sexu. Verunka byla názoru, že ženy by ho dělaly víc, kdyby ho přijímaly víc. S tím jsem neměl problém a najednou se děly věci.<br>
 Občas mě trápí, když je Veru hlasitá. Zdi sice nemáme papírový, ale ocelový taky ne. David to totálně musí slyšet. Ale kdo jsem, abych ženě upíral radost.<br>
-K obědu jsme dojedli zapečené těstoviny. Druhý den byly ještě lepší. Okurky vzaly za své. Jak jednou otevřu nakládačky, dlouho nevydrží. K jídlu jsme si pustili díl přátel, ale ne na plátno. Bylo třeba stihnoutvlak do Vysočan (s přestupem na hlaváku). Jeli jsme pro krabice, bublinku a hlavně dozvědět se, jak pokračuje příběh Jindry ze Skalice.<br>
+K obědu jsme dojedli zapečené těstoviny. Druhý den byly ještě lepší. Okurky vzaly za své. Jak jednou otevřu nakládačky, dlouho nevydrží. K jídlu jsme si pustili díl přátel, ale ne na plátno. Bylo třeba stihnout vlak do Vysočan (s přestupem na hlaváku). Jeli jsme pro krabice, bublinku a hlavně dozvědět se, jak pokračuje příběh Jindry ze Skalice.<br>
 Městečko vypálili úplně stejně jako ve Středu. Jízda na koni s Kumány v zádech jsme opakovali asi 8×. Slunce mezitím zapadlo. To skutečné i herní.<br>
 S krabicemi od Core One tiskáren jsme vyrazili potemnělým areálem zpět na tramvaj a vlaky do Vršovic. Tam jsme rozebírali paličky, večeřeli chilli sin carne a koukali na projektoru na Přátele.<br>
 
@@ -258,4 +261,51 @@ Fotil jsem si, jak námi vybudované bydlení mizí v krabicích a na hromadě v
 <a href="../images/2025_november/17_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/17_2.jpg"></a>
 
 Pohli jsme s tím dost. Ale dost toho zbývalo. Už jsem to chtěl mít za sebou. Ještě že Verunka je tak fantastická.<br>
+
+### 18.11. Tmel kutil
+
+Nejspíš mi chyběl vitamín D. Slunce mi chybělo určitě. A sklenička s písmenem D v přihrádce pod umyvadlem zela prázdnotou. Můj ranní enthusiasmus klesl na minimum. A to ani venku nebylo hnusně.<br>
+Jeli jsme s Verunkou spolu vlakem. Ve Vysočanech jsem pak vzal rekolo a dojel na Kolbenku. Bylo divný začínat týden úterým. Ivan ale překvapivě v práci byl. Dokonce mě posledních pár metrů vzal Caravellou.<br>
+Třídil jsem součástky na nový HorshoeLock a dělal ve skladu pořádek. Po práci jsem vyrazil na metro do Hornbachu nebo Bauhausu. Pro druhý zmíněný jsem se rozhodl když přijelo dřív metro do centra.<br>
+
+<a href="../images/2025_november/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/18_1.jpg"></a>
+
+Béčkem jsem přejel prestup a musel se vracet. Zavřená Pankrác mě donutila jit z Pražáku pěšky a nákup tmelu a Primalexu stál majlant. Devatenáctka mě svezla jen na Synkáč a při vytahování hmoždinek jsem utrhl notný kus stěny. Kit při schnutí zapadal do děr a jeho broušení dělalo bordel.<br>
+
+<a href="../images/2025_november/18_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/18_2.jpg"></a>
+
+Byl jsem z toho všeho kyselej. Verunka to ale zvládala líp než já a tak jsme ještě sbalili zrcadlo a kallax.<br>
+
+### 19.11. Hledá se žena
+
+A víno a spousta jídla. V divadle palác na Václaválku, kam jsme po práci šli. Veru rovnou z porady v Hokejce já se zastávkou doma, kde jsem ještě tmelil a bílil.<br>
+
+<a href="../images/2025_november/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/19_1.jpg"></a>
+
+Pozval nás tam Hynek. Byla to jejich pracovní akce z Generali. Divadle a raut. Hynkovi se do Prahy na otočku jet nevyplatilo a tak jsme šli místo něj.<br>
+Hra byla zábavná, jídlo a pití výborný. Nikoho jsme tam neznali, ale Verunka sáhla po možnosti videt mě v obleku. Přesně takhle to prý prezentovala v práci Tomovi. Ten byl překvapený, že do práce nechodím v obleku každý den, když prodávám ty kola.<br>
+
+<a href="../images/2025_november/19_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/19_2.jpg"></a>
+
+To mě rozesmálo. Přes den jsem totiž řešil zapojení nové CBN, třídil součástky a k práci v obleku měl na míle daleko.<br>
+
+<a href="../images/2025_november/19_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/19_3.jpg"></a>
+
+Z rautu jsme jeli vlakem po desáté. Ještě jsem brousil a blil. A pak mě Verunka svedla. Usnuli jsme asi až po půlnoci.<br>
+
+<a href="../images/2025_november/19_4.jpg" target="_blank"><img src="../images/thumbnails/2025_november/19_4.jpg"></a>
+
+
+### 20.11. Sestupná spirála
+
+Zaspal jsem. Probudil jsem se v 8:24 a cítil jsem dopad večerního vína. Lil jsem moc. A Čeká mě víkend na který koupil Vojta sud piva.<br>
+Doma byl krabicový chaos. Oprava tmelem nebyla tak dobrá jak bych si přál. Do práce jsem jel s extrémním zpožděním a stroj na kapučíno mi do kávy nedal mléko. Nezvládl jsem posnídat lívance, který mi Veru připravila a nepustil jsem myčku. Taky jsem málo cvičil. Pil kafe pozdě. Prostě pomalu ale jistě se mi život vymyká z rukou.<br>
+
+<a href="../images/2025_november/20_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/20_1.jpg"></a>
+
+Bylo třeba implementovat zmeny. Nový měsíc, nový byt, nový režim. Dám suchý prosinec, budu ráno plavat oba běhat a dám si život do pořádku.<br>
+Dva vlaky a pěší chůze. Dorazil jsem někdy před desátou. Koukali jsme ještě do toho CBN, pak na tester a pak šli s Omarem, Ludvíkem, Áďou, Vláďou a Ivanem do Vietnamky.<br>
+Po práci jsem šel plavat. Pesky jsem došel až do STEPU. Dal patnáct minut sauny a kilometr plavání. Jak chcípak. Ale hýbal jsem se. Byl to začátek.<br>
+Bez kola se ale dostat domů byl ojeb. 136 jede roky a stejně člověka doveze jen do Edenu. Poslouchal jsem Finštinu, kterou do telefonu mluvila blondýna naproti mě.<br>
+Doma jsem napsal pár řádek a šli jsme spát.<br>
 [>> Prosinec](2025_december.md)<br>
