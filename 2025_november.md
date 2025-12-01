@@ -23,6 +23,16 @@
 - [18.11. Tmel kutil](#1811-tmel-kutil)
 - [19.11. Hledá se žena](#1911-hledá-se-žena)
 - [20.11. Sestupná spirála](#2011-sestupná-spirála)
+- [21.11.](#2111)
+- [22.11. Vetřelci v Bráníku](#2211-vetřelci-v-bráníku)
+- [23.11. Naposledy k Antonínovi ?](#2311-naposledy-k-antonínovi-)
+- [](#-2)
+- [](#-3)
+- [](#-4)
+- [](#-5)
+- [](#-6)
+- [](#-7)
+- [](#-8)
 
 
 ### 1.11. Všichni svatí stojí při Tomášovi a Terce
@@ -308,4 +318,121 @@ Dva vlaky a pěší chůze. Dorazil jsem někdy před desátou. Koukali jsme je�
 Po práci jsem šel plavat. Pesky jsem došel až do STEPU. Dal patnáct minut sauny a kilometr plavání. Jak chcípak. Ale hýbal jsem se. Byl to začátek.<br>
 Bez kola se ale dostat domů byl ojeb. 136 jede roky a stejně člověka doveze jen do Edenu. Poslouchal jsem Finštinu, kterou do telefonu mluvila blondýna naproti mě.<br>
 Doma jsem napsal pár řádek a šli jsme spát.<br>
+
+### 21.11. 
+
+
+<a href="../images/2025_november/21_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/21_1.jpg"></a>
+
+
+### 22.11. Vetřelci v Bráníku
+
+Nespal jsem nejlíp. Poslední dobou jsem spal na prd a pivo tomu moc nepomohlo. Daň za moc fajn večer. Vzbudil nás Vojta a Tonda oba dožadující se snídaně.<br>
+Uložili jsme spacáky navařili čaj a dali se do snídání. Vojta měl jako vždy česnekovou pomazánku a k tomu na chleba sýr a nějaký salámy. Během konzumace jsme se dohodli, že zkusíme Nemesis. Vypadalo to , že to bude hra na několik hodin. Jenom poskládat herní plán nám trvalo přes půl hodiny.<br>
+
+<a href="../images/2025_november/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/22_1.jpg"></a>
+
+Začátky byly krkolomné. Byl jsem pilotka, Verunka vědec, Vojta mechanik a Vláďa nějaký voják. Postupně jsme odhalovali místnosti ve vesmírné lodi, házeli na hluk a hledali objekty, které by nám pomohli v boji s vetřelci. Prvního emzák,jsem probudil já. Dospělce, kterého jsme nakonec společně s Verunkou vysáli přechodovou komorou do vesmíru. Pak ale vetřelců začalo přibývat. Mým úkolem bylo dostat nás na zem. Upravil jsem kurz a opravil motory. Vojta ale byl proti nám. Jeho úkol bylo přežít jediný a mnou opravené motory opet rozbil, nastoupil do záchranného modulu a katapultoval se z lodi ven. Verunku zranili dospělci. Přišla o nohu a ruku, popálil jí oheň a dostala 3 infekce. Vetřelec v hybernační komoře jí dodělal. Já umřel při drahé opravě motorů a vláďa se držet až do startu lodi , ale nestihl se zahybernovat a umřel v lodi během cesty na zem.<br>
+Dohráli jsme někdy po druhé odpolední. Plán zněl: oběd ✗ Branické nádražce. Dosti jsme tam údolím kolem potoka a dali si 4 veliké porce. Guláš, kuřecí kapsu a dvě dřevorubecké bašty. Všechno obrovská a vzhledem k chuti velmi levný. 4 bráníky k tomu. Vojta vlastně jeden navíc.<br>
+
+<a href="../images/2025_november/22_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/22_2.jpg"></a>
+
+Slunce zapadalo když jsme šli zpatky nahoru. Vojta chtěl hrát ještě jednu hru. Terra Mystica se jmenovala. Moc ke mně její pravidla nepronikala Málo spánku, moc piva a... já deskovky nikdy moc nechápal. Ostatní mě docela drtili.<br>
+
+<a href="../images/2025_november/22_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/22_3.jpg"></a>
+
+Nedohráli jsme ale. Kolem sedmé se Vrátila Anička s Jindrou z trhů v Českých Budějicích a protože to byl rok co jí umřela maminka, dosedl na ní splín a lidé v obýváku byli poslední, co potřebovala. Sbalili jsme saky paky, rozloučili se a vyrazili na autobusy. Vláďa dolů na Smíchov a my přes Krč.<br>
+Doma jsme šli brzo spát. Měli jsme oba deficit a dva díly přátel z laptopu v posteli byly všechno na co jsem se cítil.<br>
+
+### 23.11. Naposledy k Antonínovi ?
+
+Díky tomu, že jsme nejeli do Semic ale hráli deskovky v Bráníku, meli jsme neděli na balení bytu. Během snídání lívanců z mrazáku jsme zjistili jsme, že ve středu, na kterou jsme měli naplánovaný převoz věcí, mělo snažit. Hodně. Jediný den v týdnu. Co jsem komu udělal?<br>
+
+<a href="../images/2025_november/23_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/23_1.jpg"></a>
+
+Pracovali jsme úporně. A v lednici měli polévku, ale chyběl chleba. Venku bylo na rozdíl od nadcházející středy krásné. Vzali jsme tříděný odpad a vyrazili k Antonínovi.<br>
+
+<a href="../images/2025_november/23_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/23_2.jpg"></a>
+
+Dali jsme si kávu, buchtu a vajíčkový chleba a během konzumace koukali na nemovitost.". Domek ve Všechlapech nás zaujal dost na to, abychom domluvili prohlídku.<br>
+Paní Dundáčkové jsem nafotil klimatizaci a pustili jsme se do balení kuchyně. Trochu nám z toho mrdalo, ale bylo třeba s tím pohnout.<br>
+
+<a href="../images/2025_november/23_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/23_3.jpg"></a>
+
+K večeru už jsme neměli obývák ale skladiště. Veru u topení připravila improvizované sezení na polštáři u konferenčního stolku. Pustili jsme si tam za odměnu přátele.<br>
+
+###
+
+
+<a href="../images/2025_november/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_1.jpg"></a>
+
+
+<a href="../images/2025_november/24_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_2.jpg"></a>
+
+
+<a href="../images/2025_november/24_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_3.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_november/25_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/25_1.jpg"></a>
+
+
+<a href="../images/2025_november/25_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/25_2.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_november/26_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/26_1.jpg"></a>
+
+
+<a href="../images/2025_november/26_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/26_2.jpg"></a>
+
+
+<a href="../images/2025_november/26_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/26_3.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_november/27_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/27_1.jpg"></a>
+
+
+<a href="../images/2025_november/27_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/27_2.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_november/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_1.jpg"></a>
+
+
+<a href="../images/2025_november/28_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_2.jpg"></a>
+
+
+<a href="../images/2025_november/28_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_3.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_november/29_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/29_1.jpg"></a>
+
+
+### 
+
+
+<a href="../images/2025_november/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_1.jpg"></a>
+
+
+<a href="../images/2025_november/30_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_2.jpg"></a>
+
+
+<a href="../images/2025_november/30_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_3.jpg"></a>
+
+
+<a href="../images/2025_november/30_4.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_4.jpg"></a>
+
 [>> Prosinec](2025_december.md)<br>
