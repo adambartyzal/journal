@@ -32,7 +32,7 @@
 - [](#-5)
 - [](#-6)
 - [](#-7)
-- [](#-8)
+- [30.11. Neposrat se z toho všeho](#3011-neposrat-se-z-toho-všeho)
 
 
 ### 1.11. Všichni svatí stojí při Tomášovi a Terce
@@ -421,18 +421,28 @@ K večeru už jsme neměli obývák ale skladiště. Veru u topení připravila 
 <a href="../images/2025_november/29_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/29_1.jpg"></a>
 
 
-### 
+### 30.11. Neposrat se z toho všeho
 
+To byla mantra, kterou jsem jel v průběhu dne. Kdybych si mohl dovolit zhroutit se, tak to udělám, ale nebyl na to čas ani prostor. Muselo se odvézt kolo, deklidit věci, vyčistit koupelnu, lednici, podlahy, debilit poslední fleky, koupit koště a smeták, předat byt přejet přebrat byt , zaplatit kauci, zaplatit nájem a já nevím co ještě.<br>
+Jsou lidi, kteří jsou dělaní na stresové podmínky. Já nejsem jeden z nich. Proto jsem všechno připravoval s předstihem. A zatím všechno vycházelo. Ale stresu byla spousta.<br>
 
 <a href="../images/2025_november/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_1.jpg"></a>
 
+Když jsem vezl libertu do Vysočan, došlo mi, že na hlaváku trávím fakt hodně času. Byl jsem tam alespoň jednou každý den v posledním týdnu. A za hodinu jsem tam měl být znova. Ještě že vlaky miluju.<br>
+Na Kolbence mě nasrala odemčená brána. Zdokumentoval Jsem to, poslal do slacku a s další krabicí vyjet zpatky na hlavák. Verunka v mezičase koupila koště a když jsem dojel. Zametala byt. Začínalo to vypadat dobře. Měl jsem pocit, že našich 14 tisíc dostaneme. Ale nedělal jsem to kvůli penězům.<br>
 
 <a href="../images/2025_november/30_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_2.jpg"></a>
 
+Bylo to o cti a hrdosti. Po nás potopa mi jde proti srsti.<br>
+Ve tři čtvrtě na pět bylo hotovo. Přijel David a začali jsme plnit auto. Bylo toho hodně. David ale za mlada hrál tetris a zvládl to do fordu nacpat všechno.<br>
 
 <a href="../images/2025_november/30_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_3.jpg"></a>
 
+Paní Dundáčková přišla s pánem, který nesl televizi. Nebylmoc sympatický. Nahoře jsme se trochu nepohodli u prodeje myčky. Nakonec padla za pět tisíc. Asi dobry! Kauce taky byla vrácená celá. Opsali jsme si stavy. Předali klíče a tím skončila naše Vršovická dva.<br>
+Byla to dobrá éra. Fakt že jo. Myslím, že během těch pěti let jsem se změnil dobrým směrem.<br>
+Davidovi jsme byli dlužný. Hodil nás do Letňan a počkat na nás během přebírání nového datu. Tam jsmepotkali pana Čiča, majitele bytu, pane Dlouhého, nájemníka, který předával byt pana Pospíšilové, našemu realiťákovi. Předání i přebrání bylo v pohodě. Zlehlkli jsme o 37400 korun ale nebyli jsme bezdomovci a to bylo hlavní! Dokonce jsme si zavtipkoval, o boileru Dražice.<br>
 
 <a href="../images/2025_november/30_4.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_4.jpg"></a>
 
+S Davidem jsme nanosili zbytek věci nahoru, dole si ještě asi 20 minut povídali a pak se rozloudili. S Verunkou Jsme v tescu koupili pečivo, sýr, rajčata a okurky dali si doma večeři, roztáhli matraci a pustili se do prvního přespávání v novém bytě.<br>
 [>> Prosinec](2025_december.md)<br>
