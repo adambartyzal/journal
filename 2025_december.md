@@ -6,7 +6,7 @@
 - [4.12. Kubismus do Vysočan, středověk do Letňan](#412-kubismus-do-vysočan-středověk-do-letňan)
 - [](#-1)
 - [](#-2)
-- [](#-3)
+- [7.12. Všechno nutné jsme zvládli](#712-všechno-nutné-jsme-zvládli)
 - [8.12. Do tmy](#812-do-tmy)
 
 
@@ -68,15 +68,40 @@ Moje srdce a můj jazyk ale toužil po něčem dobrým. Veru vzala počítač do
 ###
 
 
-###
+<a href="../images/2025_december/06_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/06_1.jpg"></a>
 
+
+<a href="../images/2025_december/06_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/06_2.jpg"></a>
+
+
+<a href="../images/2025_december/06_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/06_3.jpg"></a>
+
+
+### 7.12. Všechno nutné jsme zvládli
+
+Spali jsme skoro 12 hodin. Tělo si o to asi řeklo. Ne že bychom byli vyléčení, ale cítil jsem, že mám nad nemocí navrch.<br>
+Pro velký úspěch jsem opět vyrazil do Tesca. Tentokrát pro jablka na štrůdl a sojový granulát do těstovin. A pár dalších věcí samozřejmě.<br>
+
+<a href="../images/2025_december/07_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/07_1.jpg"></a>
+
+Upéct štrůdl jsme zvládli. Uvařit těstoviny taky. Dokonce jsem pověsil poličku. A oholil si hlavu. Ale jinak jsme byli utopení v páté řadě přátel. A pak rozkoukali šestou.<br>
+
+<a href="../images/2025_december/07_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/07_2.jpg"></a>
+
+Ale byli jsme přeci nemocní. Bylo třeba odpočívat.<br>
 
 ### 8.12. Do tmy
 
 Měl jsem blbě nastavený budík. To se nevyplácí, když člověk potřebuje chytit letadlo. Naštěstí letělo v 10:20 a já svůj budík v 6:27 odložil jen jednou. Takže jsem stihl posnídat se ženou, která byla moc hodná a pomohla mi s celým ranním procesem.<br>
 Z Letňan je to na letiště hodina. V metru jsem vytáhl Řehoře a načrtl nějakou osu posledních dní. Od Ostravy jsem totiž nenapsal ani čárku.<br>
 Na letišti jsem byl první. Napsal jsem Tomovi a otočil se v Bille pro pečivo a žvýkačky. Potkali jsme se u odbavení. Svoje oblečení jsem přihodil do kufru plného elektronik a poslal jsem ho do útrob letiště výměnou za palubenku.<br>
-Vůbec mi nezkoumali batch. To byl nezvyk. Ušetřil jsem tak pár minut času. Ale byly mi k prdu. Naše letadlo totiž odložili. Napřed o hodinu a pak skoro o dvě. Nakonec sehnali jiný. Borůvkový džus ale mělo. Půjčil jsem Tomovi polštářek a sám šel programovat testy v CBN kódu.<br>
+
+<a href="../images/2025_december/08_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/08_1.jpg"></a>
+
+Vůbec mi nezkoumali batoh. To byl nezvyk. Ušetřil jsem tak pár minut času. Ale byly mi k prdu. Naše letadlo totiž odložili. Napřed o hodinu a pak skoro o dvě. Nakonec sehnali jiný. Borůvkový džus ale mělo. Půjčil jsem Tomovi polštářek a sám šel programovat testy v CBN kódu.<br>
+
+<a href="../images/2025_december/08_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/08_2.jpg"></a>
+
 Při přistání už bylo šero. Než jsme se dostali z letiště ven, byla tma. Měli jsme půjčenou kin Ceed a Toník na's odvezl do skladu, kde jsme potkali Lea a kluky. Kol tam byl randál. Na stole byl chaos a všude jinde taky. Ale makali a vypadalo to schopně.<br>
 Nechali jsme jim elektroniky a jeli se ubytovat. Tentokrát na kopec, kousek od vodní věže. Instrukce byly jasný, byt zbytečně velkej a Lidl pořád otevřenej. Nakoupili jsme, udělali něco málo na laptopech a šli se uložit do svých pokojů.<br>
 [>> Leden](2026_january.md)<br>

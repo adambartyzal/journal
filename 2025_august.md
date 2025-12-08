@@ -26,7 +26,7 @@
 - [21.8. Září za rohem](#218-září-za-rohem)
 - [22.8. Hardware ok](#228-hardware-ok)
 - [23.8.](#238)
-- [24.8. 24.8. TODO list](#248-248-todo-list)
+- [24.8. TODO list](#248-todo-list)
 - [25.8.](#258)
 - [26.8. Po roce Střížkov?](#268-po-roce-střížkov)
 - [27.8.](#278)
@@ -364,7 +364,7 @@ Dali jsme si každý jinou a trochu to prostřídali. Ale mě chutnala má Norma
 
 <a href="../images/2025_august/15_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/15_2.jpg"></a>
 
-Tentokrát jsme šli víc doleva. Pod hradby k řadě kostkatých vlnolami. Mít brýle bylo moc fajn. Sledovali jsme podmořský život několik hodin. Viděli jsme různé ryby, červenobílé stonožky, rak poustevníčky a krabíky.<br>
+Tentokrát jsme šli víc doleva. Pod hradby k řadě kostkatých vlnolamů. Mýt brýle bylo moc fajn. Sledovali jsme podmořský život několik hodin. Viděli jsme různé ryby, červenobílé stonožky, rak poustevníčky a krabíky.<br>
 Po páté jsme se vrátili k autobusu. Ranní skupina z nádraží tam byla taky. U stánkaře jsme ještě koupili ledový čaj a kolu s nápisem Michaela. Jinou Zero neměli.<br>
 Zpatky ve fontáně jsme k večeři udělali Ravioly. Bylo to k nevíře, ale přišel déšť. Ten vyhnal zbytek lidí od pláže k nám domů a po zbytek večera Jsme seděli venku u stolu, povídali si a vyplňovali Wordle ve všech možných jazycích.<br>
 
@@ -467,9 +467,9 @@ Vlakem zpátky. Veru přijela večer. Oba jsme měli rýmu a tak jsme se obalili
 <a href="../images/2025_august/23_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/23_3.jpg"></a>
 
 
-### 24.8. 24.8. TODO list
+### 24.8. TODO list
 
-Pořád se mi nechtelo nic dělat. Ale lenivě jsem většinu soboty a kolem mě se hromadil bordel a vypad jsem jako bezdomovec. Napsal jsem si TODO list a pustil se do dne.<br>
+Pořád se mi nechtělo nic dělat. Ale lenivě jsem většinu soboty a kolem mě se hromadil bordel a vypad jsem jako bezdomovec. Napsal jsem si TODO list a pustil se do dne.<br>
 Napřed jsem se ostříhal a oholil. Dokonale čistá lebka bez říznutí. Měl jsem z toho radost.<br>
 Trochu jsem poklidil. Tam jsem mohl udělat víc. Ale chyběl mi dopamin.<br>
 Na alza jsem objednal, co chybělo. Hlavně ořechy. A dal do sušičky další křížaly. A najednou byl večer.<br>

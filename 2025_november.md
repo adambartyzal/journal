@@ -30,8 +30,8 @@
 - [](#-3)
 - [](#-4)
 - [](#-5)
-- [](#-6)
-- [](#-7)
+- [28.11. Dvoje narozeniny a všechen ten jazz](#2811-dvoje-narozeniny-a-všechen-ten-jazz)
+- [29.11. Nedopečená bábovka](#2911-nedopečená-bábovka)
 - [30.11. Neposrat se z toho všeho](#3011-neposrat-se-z-toho-všeho)
 
 
@@ -403,20 +403,39 @@ K večeru už jsme neměli obývák ale skladiště. Veru u topení připravila 
 <a href="../images/2025_november/27_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/27_2.jpg"></a>
 
 
-###
+### 28.11. Dvoje narozeniny a všechen ten jazz
 
+Pro jednou jsem se probudil v šest docela sám a měl jsem energii na to vstát a začít den. Měl být dlouhy! Čekala nás cesta do Ostravy na muzikál. Navíc byly to zrovna Ivanovy a Milošovy narozeniny. Ivanovi jsem se cítil dlužnej za pomoc se stěhováním a tak jsem měl připravenou deskovku Ubongo jako narozeninový dárek.<br>
+Až když jsme s Verunkou stáli na peronu na zpožděný vlak, došlo jí, že Ubongo zůstalo v bytě. Zpoždění nebylo dostatečné na to, abych stihl doběhnout domu a zpátky a tak jsme se rozdělili. Es devítek jezdí ráno kopec a tak jsem o 15 minut později jel na hlavák, vysočany a podruhé 52T tramvají.<br>
+Vývoj jsem odmykal. Dodělal jsem HLPoza, přestavil stolici na pastování a pustil se do osazování HLA02a. Ubongo se Ivanovi líbilo. Vzal nás do Kyota. All you can eat sushi a spousta další asie, ne nekup to. Nadlábl jsem se pořádně. <br>
 
 <a href="../images/2025_november/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_1.jpg"></a>
 
+Před jednou jsem zapekl desku a vyrazil na městskou.<br>
 
 <a href="../images/2025_november/28_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_2.jpg"></a>
 
+Behem chůze mi volala Verunka, jestli stíhám es trojku. Kdybych opravdu utíkal tak jo, odpověděl jsem. Řekla, že v ní bude a já vzal nohy na ramena.<br>
+A stihl to. Jenže žena nikde. Prý měla na peronu mozkový zkrat a nechala si vlak ujet přímo před nosem. Nebyl to totiž City elefant ale nějaká malá lokomotiva. Já už ale jel a tak jsem se alespoň otočil v albertu pro magnesii a do RegioJet čekárny pro dve zmrzliny. Pro mou zmatenou ženu jen to nejlepší!<br>
+Stihla to. Docela na těsno, ale stihla.<br>
+Být digitální nomád nemusí být zlý. Řešil jsem úpravu Kicad2factory, která by do ERP nahrávala TQM. Tak aby stejné součástky s různým Tam byly správné seskupené. Vedlo to k tomu, že jsem ve slovníku měl jako klíč touple. Nevěděl jsem, že něco takovýho jde. Ale proč by vlastně nešlo.<br>
+Zabil jsem tím celou cestu. Jeli jsme až na Stodolní a z vlaku jsme poměrně spěšně přeběhli do kavárny Daniel, kde už čekali Verunčiny rodiče s kávou a dortíkem. My vybrali svařák a já se na záchodě převlékl do obleku.<br>
+Do moravskoslezského divadla to byl ještě kus a tak jsme do sebe svařáky kopli a vyrazili ven. Nevím jestli mě prostor divadla úplně nadchl. Ale muzikál ano. Jazzová kapela byla nahoře na pódiu, herců bylo asi 40. Všichni krásné zpívali a tančili a jediné , co se mi nepozdávalo, byl výraz Verunky. Tu ta adaptace nějak nenadchla. Chyběl jí příběh jako ve filmu z roku 2004. Mě ne. I ta čeština mi přišla dobrá. Hynek byl taky nadšenej.<br>
 
 <a href="../images/2025_november/28_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_3.jpg"></a>
 
+Po představení jsme jeli společně domů autem. Hodin bylo milion. Hynek by ještě jedl a pil. Ale na nás šla únava a tak jsme vyčistili zuby a šli spát.<br>
 
-###
+### 29.11. Nedopečená bábovka
 
+Nejspíš to bylo tím, že jsem měl poslední jídlo v 11. Moje hodinky mi daly 90 spacích bodů za spánek v Ostravě. Je ale pravda, že jsem se nebudil. V pokoji bylo ticho.<br>
+Vstávání nám ale zabralo dlouho. A snídaně taky. Nad rohlíky s humusem jsme si povídali s Hynkem o pracích. Slíbil nám, že až se vrátíme od Babičky, bude oběd.<br>
+Venku byla sice zima, ale sluníčko krásně zářilo. Veru to optimismem nenaplňovalo. Přišly na ní měsíčky a cestou k babičce jsme se zastavili v lékárně a v Hrušce.<br>
+Ibalgin asi pomohl. Nad bábovkou trochu chytla v obličeji barva a úsměv. Babička nám dávala poznávat rozdíly v novinách a vyprávěla o mládí Bábovka prý nebyladopečená, ale byla moc dobrá. S kokosem.<br>
+Dobré byly i nudle se sojovými nudličkami, které delal Hynek po tom co jsme babičce donesli poštu a vynesli odpadky. Vyfasovali jsme nějaký i do krabiček.<br>
+Sotva jsme dojedli. byl čas skočit do auta a vyrazit na vlak. Jedna cesta na hlavu vyšla na pětikilo. Ač byl muzikál i návštěva fajn. Bylo třeba trochu se s cestami do Ostravy mírnit. Byli jsme tam fakt často.<br>
+Ve vlaku jsem zprovoznil výstup do dvojech sluchátek a tak jsme zvládli díl a půl přátel , než došla baterie. Vern se pak natáhla na dvě sedačky vedle s já šel psát.<br>
+Na hlaváku jsme přestoupili do Polského RegioJetu adoma se uložili na karimatky do spacáků. Byla to naše poslední noc ve Vršovicích. Upřímně, už jsem to opravdu chtěl mít za sebou.<br>
 
 <a href="../images/2025_november/29_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/29_1.jpg"></a>
 
