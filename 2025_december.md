@@ -5,7 +5,7 @@
 - [](#)
 - [4.12. Kubismus do Vysočan, středověk do Letňan](#412-kubismus-do-vysočan-středověk-do-letňan)
 - [](#-1)
-- [](#-2)
+- [6.12. Léčba spánkem](#612-léčba-spánkem)
 - [7.12. Všechno nutné jsme zvládli](#712-všechno-nutné-jsme-zvládli)
 - [8.12. Do tmy](#812-do-tmy)
 
@@ -65,17 +65,22 @@ Moje srdce a můj jazyk ale toužil po něčem dobrým. Veru vzala počítač do
 ### 
 
 
-###
+### 6.12. Léčba spánkem
 
+Ne že by to bylo s podivem, ale ráno se Vern probudila s bolehlavem taky. Udělali jsme dryják a samahan a léčbu prokládali prací na bytě.<br>
 
 <a href="../images/2025_december/06_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/06_1.jpg"></a>
 
+Přesunuli jsme stůl doprostřed obýváku, přesunuli kusy gauče na jeho původní místo a sešroubovali ho. Podle mě to bylo o dost lepší. Jen ten úzký prostor za gaučem byl úplně k prdu.<br>
 
 <a href="../images/2025_december/06_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/06_2.jpg"></a>
 
+Na vaření oběda jsme se necítili. Sjeli jsme autobusem do Globusu a dali si jídlo tam. Pasta pomodovo a Spenátové měšce s bramborem. Oboje dobré. Navíc jsme si dali salát aby jsme se léčili rychleji.<br>
 
 <a href="../images/2025_december/06_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/06_3.jpg"></a>
 
+Pak jsme přejeli do tesca pro kalhoty. Ty současný už byly opravdu jen pracovní. Taky jsem koupil bačkory. Byly drahý, ale nechtělo se mi to řešit. Snad vydrží aspoň 10 let.<br>
+Zpátky doma jsme udelali další čaj a vlezli do postele. Jen co se setmělo usnuli jsme. Asi tak v šest hodin.<br>
 
 ### 7.12. Všechno nutné jsme zvládli
 

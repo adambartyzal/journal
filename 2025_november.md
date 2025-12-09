@@ -29,7 +29,7 @@
 - [](#-2)
 - [](#-3)
 - [](#-4)
-- [](#-5)
+- [27.11. Ubongo!](#2711-ubongo)
 - [28.11. Dvoje narozeniny a všechen ten jazz](#2811-dvoje-narozeniny-a-všechen-ten-jazz)
 - [29.11. Nedopečená bábovka](#2911-nedopečená-bábovka)
 - [30.11. Neposrat se z toho všeho](#3011-neposrat-se-z-toho-všeho)
@@ -394,14 +394,22 @@ K večeru už jsme neměli obývák ale skladiště. Veru u topení připravila 
 <a href="../images/2025_november/26_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/26_3.jpg"></a>
 
 
-###
+### 27.11. Ubongo!
 
+Spát na zemi bez karimatky nebylo nic moc. Víc než tvrdost země mi ale vadily hluky rozléhající se prázdným bytem. A světlo. Zatmívací závěsy mají něco do sebe.<br>
+Veru opravdu vstala v 6:30. Jak nějak zaspal svůj budík, ale 20 minut před odjezdem vlaku jsem vstal, dal ledovou sprchu, oblékl se, vzal oboje lyže ze skříně a stihl s Verunkou vlak. V tom jsme posnídali zbytky občerstvení ke stěhování. Jít pěšky s dvojema lyžema se mi nechtělo a tak jsem vyrazil na dvanáctku. Přijela úplně akorát.<br>
+Před obědem jsem katalogizoval neosazené PCB. Skript k tomu určený byl lepší a lepší. Otevíral gitk, bral tagy, překládal pcb souboy a generoval výkresy.<br>
 
 <a href="../images/2025_november/27_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/27_1.jpg"></a>
 
+Na oběd jsme šli s Ivanem, Vláďou a Omarem. Ivan Luhyho označil za mladýho hubeňoura, kterej programuje v céčku. Vlastně super popis. Hrachovou kaši s vajíčkem a cibulačku za mě vzal Vláďa. Vrátil mi tak dluh z Bráníku.<br>
+Po obědě jsem šel osazovat HLP02a. Trvalo mi to nějak dlouho, ale Ivan správně podotkl, že doma na mě čeká prázdnej byt a tak nebylo kam chvátat. Po dokončení osazování jsem tak nakreslil zapojení myčky a pračky v kuchyni, stáhl fakturu z alzy a poslal to paní Dundáčkové. A potom vyrazil do Holešovické Alzy pro Ubongo. V pátek měl Ivan narozeniny a u Vojty zmínil, že by rád hrál deskovky s rodinou. Ubongo bylo od osmi což byl věk, do kterého podle mě Aleš vstupoval. Emilka musela ještě dorůst.<br>
+Z Karlína jsem to vzal přes Holku pěšky. iPhone během chůze na tržnici ztratil asi 60 do baterie. Měl to za sebou. Bylo třeba tu baterii nechat vyměnit.<br>
 
 <a href="../images/2025_november/27_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/27_2.jpg"></a>
 
+Céčko z Vltavský a tramvaj z Pražáku. Krabice v ruce a Rehoř na koleni. Málo jsem psal poslední dobou.<br>
+Doma jsem do schránky lípnul 3D tištěnou jmenovku. Byla suverénně nejhezčí ze všech.<br>
 
 ### 28.11. Dvoje narozeniny a všechen ten jazz
 
