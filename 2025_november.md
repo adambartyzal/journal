@@ -26,9 +26,9 @@
 - [21.11.](#2111)
 - [22.11. Vetřelci v Bráníku](#2211-vetřelci-v-bráníku)
 - [23.11. Naposledy k Antonínovi ?](#2311-naposledy-k-antonínovi-)
+- [24.11. Přerušeni](#2411-přerušeni)
 - [](#-2)
 - [](#-3)
-- [](#-4)
 - [27.11. Ubongo!](#2711-ubongo)
 - [28.11. Dvoje narozeniny a všechen ten jazz](#2811-dvoje-narozeniny-a-všechen-ten-jazz)
 - [29.11. Nedopečená bábovka](#2911-nedopečená-bábovka)
@@ -361,14 +361,21 @@ Paní Dundáčkové jsem nafotil klimatizaci a pustili jsme se do balení kuchyn
 
 K večeru už jsme neměli obývák ale skladiště. Veru u topení připravila improvizované sezení na polštáři u konferenčního stolku. Pustili jsme si tam za odměnu přátele.<br>
 
-###
+### 24.11. Přerušeni
 
+Přišel sníh. Docela dost. Za okny to vypadalo po pohledné. Netěšilo mě to.. Byla ta další komplikace už dost komplikovaného stěhování<br>
+Aby toho nebylo málo, Verunka si v Lidlu zvládla skřípnout prst do mrazáku.<br>
+V práci jsem si z klobouku vytáhl Milošovo jméno do tajného Santy. To byl oříšek. Asi dostane selekci čajů.<br>
+Omarovi jsem pomáhal sestavit Power Brainy a od dvou jsme měli call s TÜV SÜD ohledně TQM. Kenn, který nám má pomáhat mě úplně naprd nastavený mikrofon a nebylo mu rozumět každé druhé slovo. Alespoň, že Zoey, která zřejmě bude náš auditor občas vysvětlila, co Kenn povídá.<br>
+Doma jsme dál balili. Za svý už vzala i postel.<br>
 
 <a href="../images/2025_november/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_1.jpg"></a>
 
+Naštěstí i bez postele jdou provádět věci. Pokud teda uprostřed zábavy nepřijde Marťa taškami z ikei. Muselo jí být jasný z čeho nás vytáhla, když nám trvalo tak dlouho za ni přijít. <br>
 
 <a href="../images/2025_november/24_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_2.jpg"></a>
 
+Zpětně dost komická situace.<br>
 
 <a href="../images/2025_november/24_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_3.jpg"></a>
 

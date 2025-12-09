@@ -15,10 +15,10 @@
 - [13.12. Oběma směry](#1312-oběma-směry)
 - [14.12. Požitkářství](#1412-požitkářství)
 - [15.12. Eliška Remešová](#1512-eliška-remešová)
-- [16.12.](#1612)
+- [16.12. Testing volume](#1612-testing-volume)
 - [17.12. Sebranka](#1712-sebranka)
 - [18.12. Dvacet pět bazických bodů](#1812-dvacet-pět-bazických-bodů)
-- [19. 12. Tvrdá lekce](#19-12-tvrdá-lekce)
+- [19.12. Tvrdá lekce](#1912-tvrdá-lekce)
 - [20.12. Smiťák](#2012-smiťák)
 - [21.12. 20 dní zvládnu](#2112-20-dní-zvládnu)
 - [22. 12. Sinatra](#22-12-sinatra)
@@ -82,6 +82,9 @@ přes cvokárnu do kostela<br>
 vzadu<br>
 zima<br>
 sbor na dvou stranách<br>
+
+<a href="../images/2024_december/04_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/04_1.jpg"></a>
+
 nakonec nekonečný koledy<br>
 na vlak promrzlej<br>
 nákup před zavíračkou<br>
@@ -121,7 +124,7 @@ Než jsem šel spát , šel na mě pocit toho, že začíná příliš mnoho vě
 
 - vstanu včas
 - napíšu Kendymu
-- zavolám paní Katbaté
+- zavolám paní Kotrbaté
 - Uklidím pořádně kuchyň
 - sepíšu aspoň 2 dny
 - napíšu si Todo na další dny
@@ -135,6 +138,9 @@ Napsal jsem Kendymu, že bych chtěl bydlet s Verunkou.<br>
 Vyplnil jsem Duolingo.<br>
 Podíval se na LOST.<br>
 Pověsil háčky, který jsem vytiskl, aby byla Vera spoko.<br>
+
+<a href="../images/2024_december/09_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/09_1.jpg"></a>
+
 A cítíl, že být dospělej je voser.<br>
 
 ### 10.12. Průsery a řešení
@@ -152,13 +158,16 @@ Bylo to zvláštní úterý. Spousta průserů, hodně řešení, nějakej posun
 ### 11.12. Sushi, callback a chryzantéma
 
 Budík v 6:30 tentokrát fungoval líp. Chvíli jsem se válel, ale celkem brzy jsem vstal, jógoval, umyl nádobí a vyrazil na tramvaj.<br>
-\Mám šestý smysl na to zahlídnout, jak mi odjíždí šestka. Můj plán psát v MHD deník byl bláhový. Lidí bylo všude milion a nacpaný v kloubu tramvaje a v chodbě metra jsem zvládl akorát dueling. Začal minulý čas. Gramatika šla úplně mimo mě.<br>
-\Odepsal jsem do Safivalu a požádal Vládu o pomoc s debugováním SPI. Byl to oříšek. Před obědem jsem se nepohnul.<br>
-\Ivan zatoužil po sushi. Tak moc, že řekl že nás zve na bufet v Kyotu. To je asi 400 na hlavu. Prý ale chtěl oslavit to, že po povrchu země kráčí čtyricátým rokem. Bylo to tam fancy a všichni mluvili čínsky. Pochutnal jsem si moc.<br>
-\Ze Safiralu napsali, proč vybrali co vybrali a já jim to odsouhlasil. Vláďa mi pomohl najít chybu a já rozchodil loop back. Pustil jsem se do debugování pomocí Proxilabu. Ta jejich karta prostě neodpovídala. Jen to fejkovala. Co už. I tak to byl úspěšný den.<br>
-\V améra navíc vyšly data o inflaci. Trh stoupl amůj 100 tisícový dluh se smazal. Blbý bylo, že Take Profity jsem kvůli nervozitě tak nízko, že nepokryly swap. To jsem posral. Ale lepší být na nule než se to tisícoven sekerou. Šlo to hodněnahoru. V jednu chvíli jsem vystartoval asi tisícovku ale druhý short mi opet generovat dluh. Tak dobrý to byl den. Mohl jsem vydělat randál, ale nějak jsem to nezvládl.<br>
-\Nicméně jsem ráno dal adesàt tisíc do S&P 500 a během dne to popolezlo ještě o 1000 dolarů, takže jsem neostrouhal.<br>
-\Cestou k Verunce jsem se zastavil v květinářství a koupil jí chryzantémy. Měla radost. To byl asi nejlepší okamžik dne. Od sedmi ji čekal nebinář a tak jsem měl čas na psaní. Ale byli jsme spolu a to bylo fajn.<br>
+Mám šestý smysl na to zahlídnout, jak mi odjíždí šestka. Můj plán psát v MHD deník byl bláhový. Lidí bylo všude milion a nacpaný v kloubu tramvaje a v chodbě metra jsem zvládl akorát dueling. Začal minulý čas. Gramatika šla úplně mimo mě.<br>
+Odepsal jsem do Safiralu a požádal Vládu o pomoc s debugováním SPI. Byl to oříšek. Před obědem jsem se nepohnul.<br>
+Ivan zatoužil po sushi. Tak moc, že řekl že nás zve na bufet v Kyotu. To je asi 400 na hlavu. Prý ale chtěl oslavit to, že po povrchu země kráčí čtyricátým rokem. Bylo to tam fancy a všichni mluvili čínsky. Pochutnal jsem si moc.<br>
+Ze Safiralu napsali, proč vybrali co vybrali a já jim to odsouhlasil. Vláďa mi pomohl najít chybu a já rozchodil loop back. Pustil jsem se do debugování pomocí Proxilabu. Ta jejich karta prostě neodpovídala. Jen to fejkovala. Co už. I tak to byl úspěšný den.<br>
+V Améru navíc vyšly data o inflaci. Trh stoupl amůj 100 tisícový dluh se smazal. Blbý bylo, že Take Profity jsem kvůli nervozitě tak nízko, že nepokryly swap. To jsem posral. Ale lepší být na nule než se to tisícovou sekerou. Šlo to hodně nahoru. V jednu chvíli jsem vystartoval asi tisícovku ale druhý short mi opet generovat dluh. Tak dobrý to byl den. Mohl jsem vydělat randál, ale nějak jsem to nezvládl.<br>
+Nicméně jsem ráno dal padesát tisíc do S&P 500 a během dne to popolezlo ještě o 1000 dolarů, takže jsem neostrouhal.<br>
+Cestou k Verunce jsem se zastavil v květinářství a koupil jí chryzantémy. Měla radost. To byl asi nejlepší okamžik dne. Od sedmi ji čekal webinář a tak jsem měl čas na psaní. Ale byli jsme spolu a to bylo fajn.<br>
+
+<a href="../images/2024_december/11_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/11_1.jpg"></a>
+
 
 ### 12.12. Druhý prototyp a příprava na vztahové fitness
 
@@ -174,30 +183,44 @@ Moc jsme tomu fitness nedali. Ale naplánovali si poslech toho díla a dokoukali
 Ve vstávání včas jsem se trochu lepšil. Vstát, jógovat a vyjet na kole jsem zvládl před osmou ranní. Jel jsem S kuklou na hlavě, abych dýchal vlhčí vzduch a termoforem na zádech, aby mi bylo teplo. Říkal jsem si, že jsem zpohodlněl. Pořád ale bylo pod nulou a já jel do práce na kole.<br>
 A to se počítá!<br>
 Navíc jsem našel svetr. A to se ti v MHD nepoštěstí.<br>
+
+<a href="../images/2024_december/13_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/13_1.jpg"></a>
+
 V práci na mě čekalo osazování HLP00c. Dostavěl jsem ho po obědě. Salátu a chlebu, který byl ve skříni od čtvrtka. Horský chléb je dobrý i třetí den.<br>
 Přeprogramoval jsem pípák na nové GMO a nový timer a rozchodil motor tak, že se točil oběma směry. Zase jsme byli o krok dál. Detailní algoritmus odvykání a zamykání jsem ale nechal Vláďovi. Má to vymyšlený a bylo to složitý. Debounce, tři senzory a nejistá mezipoloha.<br>
-\Kolo zpátky domů. Upustil jsem trocha vzduchu v kolech, protože plášť drhl o rám, ale nejspíš jsem měl osmičku.<br>
-\Vera měla koncert, ale protože měla další den další zůstal jsem doma. Koukl jsem na dva díly lost a šel spát. Tma mě začínala zmáhat.<br>
+Kolo zpátky domů. Upustil jsem trocha vzduchu v kolech, protože plášť drhl o rám, ale nejspíš jsem měl osmičku.<br>
+Vera měla koncert, ale protože měla další den další zůstal jsem doma. Koukl jsem na dva díly lost a šel spát. Tma mě začínala zmáhat.<br>
 
 ### 14.12. Požitkářství
 
 Ráno jsem se rozhodl být zodpovědný. Dal jsem prát prádlo, pustil Arnošta, zalil kytky a oddrápal Značnou část vodního kamene usazeneho na dne. záchodové mísy pomocí octa a čínské hůlky.<br>
-\Na dvanáctou jsme naplánovali saunování ve STEPU. Měl jsem [ten poukaz] (), multisportku a plánoval cenu, na můj vkus, extrémně drahého požitku.<br>
-\136 nás přivezla z opačných stran na skloněnou. Na recepci nám vysvetlit: co a jak a po chvilce v šatnách jsme se s Verunkou potkali u turniketu.<br>
-\Do Saunového svete jsem šel poprve'. Bylo to tam fancy. První jsme vybrali solnou saunu. Po patnácti minutách jsme oba hecnuli ledový bazének. Chvíli jsme se houpali v relaxační zóně, potom zkusili medovou, odpočinek na lehátku v kavárně a poslední bylinkovou.<br>
-\Tam jsme byli úplně sami a na Verunku šli démoni. Žádný faux pas jsme neudělali.<br>
-\Hlad nás dohnal do food courtu na harfe. Opět na Indii. Verunka tam našla jídlo, které jí chutnalo na výletě se studenty na Moravu . Koftu. Zeleninové koule vomáčce podobné té v Chana masala. V dmku jsme koupili zelený čaj, debat a kondomy. V Bille jsme pořídili bramborový chléb a metrem dojeli k Veru.<br>
-\Připravovala se na koncert. Já si drnkat na klavír a před šestou nám nakrájel chleba a uvařil decay.<br>
-\Céčko a pět a dvacítka nás dovezly do Irské hospody na Kamenické. Kapela byla umístěná v patře , kdena ně nebylo vidět. Mikrofon vazbil a já dokázal zapomenout, jak se jmenuje Verunky brácha. Lukáš. Ke stolu u kterého jsem seděl se přidala Míša. Kamarádka členů kapely. fonetička a houslistka ze slow sessions. S Lukášem Jsme toho moc nenapovídali, ale s Míšou se povídalo dobře.<br>
-\Tři řezaný mě docela sundaly. 4 Cidery Verunka docela taky. Cesta zpátky byla vtipná. Na eskalátorech jsem vyvolával „Bacha na tuhle ženu, kouše do rtů!"<br>
-\Pak už si toho moc nevybavuju. Asi jsme prostě odpadli do postele a usnuli.<br>
+Na dvanáctou jsme naplánovali saunování ve STEPU. Měl jsem [ten poukaz] (), multisportku a plánoval cenu, na můj vkus, extrémně drahého požitku.<br>
+136 nás přivezla z opačných stran na skloněnou. Na recepci nám vysvetlit: co a jak a po chvilce v šatnách jsme se s Verunkou potkali u turniketu.<br>
+Do Saunového svete jsem šel poprve'. Bylo to tam fancy. První jsme vybrali solnou saunu. Po patnácti minutách jsme oba hecnuli ledový bazének. Chvíli jsme se houpali v relaxační zóně, potom zkusili medovou, odpočinek na lehátku v kavárně a poslední bylinkovou.<br>
+Tam jsme byli úplně sami a na Verunku šli démoni. Žádný faux pas jsme neudělali.<br>
+Hlad nás dohnal do food courtu na harfe. Opět na Indii. Verunka tam našla jídlo, které jí chutnalo na výletě se studenty na Moravu . Koftu. Zeleninové koule vomáčce podobné té v Chana masala. V dmku jsme koupili zelený čaj, debat a kondomy. V Bille jsme pořídili bramborový chléb a metrem dojeli k Veru.<br>
+Připravovala se na koncert. Já si drnkat na klavír a před šestou nám nakrájel chleba a uvařil decay.<br>
+Céčko a pět a dvacítka nás dovezly do Irské hospody na Kamenické. Kapela byla umístěná v patře , kdena ně nebylo vidět. Mikrofon vazbil a já dokázal zapomenout, jak se jmenuje Verunky brácha. Lukáš. Ke stolu u kterého jsem seděl se přidala Míša. Kamarádka členů kapely. fonetička a houslistka ze slow sessions. S Lukášem Jsme toho moc nenapovídali, ale s Míšou se povídalo dobře.<br>
+
+<a href="../images/2024_december/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/14_1.jpg"></a>
+
+Tři řezaný mě docela sundaly. 4 Cidery Verunka docela taky. Cesta zpátky byla vtipná. Na eskalátorech jsem vyvolával „Bacha na tuhle ženu, kouše do rtů!"<br>
+Pak už si toho moc nevybavuju. Asi jsme prostě odpadli do postele a usnuli.<br>
 
 ### 15.12. Eliška Remešová
 
 Verunka měla kocovinu. Já asi trochu taky, ale víc mě pálilo táhnutí v zádech. Poloha dítěte v posteli trochu pomáhala, ale až když si mi Veru sedla na kolena, cítil jsem adekvátní tah.<br>
 Den to byl klidný. A důležitý. Po moc dobrým obědě z pečené zeleniny, osmaženého tofu a merlíku jsme si pustili ten podcast. A naplánovali věci jako návštěvu Verunčiných rodičů a Kanban.<br>
 
-### 16.12.
+### 16.12. Testing volume
+
+Testování Keolabs strojem vyžadovalo přesně definované pozice testovacích karet vůči PCD. Moje doposavadní pozicování pomocí půl litru od piva přestávalo být dostatečné.<br>
+
+<a href="../images/2024_december/16_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/16_1.jpg"></a>
+
+Pustil jsem se do modelování a tisku. HSLock jsem pomocí uříznutých sloupků zavěsil do správné pozice a využil polohovacího systému od keolabs.<br>
+
+<a href="../images/2024_december/16_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/16_2.jpg"></a>
 
 
 ### 17.12. Sebranka
@@ -218,13 +241,16 @@ Aranž to byla zajímavá. Koledy moderně pojaty. Byl jsem příjemně překvap
 Tenhle den začal dobře. Probudil jsem se vedle Verunky, udělala mě rukou, já jí taky dělal hezky, ale na vrchol jsem jí nevytáhl.<br>
 K snídani jsem si dal bagetu a autobusem sjel na Kolbenku, zjišťovat, proč NFC nefunguje tak Jak by mělo.<br>
 Během dne jsem došel díky Vláďovi k několika prozření. Uši GSM antény to ruší, protože se v nich točí vířivé proudy. To bylo blbý . Kazilo mi to Q . Displej mi taky kazil Q. To bylo ještě horší.<br>
+
+<a href="../images/2024_december/18_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/18_1.jpg"></a>
+
 Pan Ptak mi volal , protože večer × 8 měl FEDSnižovat sazby. Byl optimistický. Měl jsem otevřen,/ Dow Johnson ve ztrátě skoro 100 000, ale prý byla na stole možnost, že sazby klesnou o půl procenta. To by bylo fajn.<br>
 Jenže se to nestalo. Fed ohlásil 25 Sb. A na příští rok pouze dvě další úpravy. To se trhu moc nelíbilo. Skoro okamžitě moje ztráta poskočila na dvojnásobek. A st.to dál. Vystartoval jsem pár desítek tisíc k dobru, ale když jsem byl v minusu půl milionu, nedostatek marže mi automaticky zavřel pozici se ztrátou 133 tisíc. To zabolelo. Navíc jsem neměl marži na případný dokup při cestě nahoru. Průser.<br>
 Sice jsem si řekl, že těch 700 tisíc je odepsaných.Ale vidět je ztrácet mi přinášelo značnou míru stresu.<br>
 Až dole mi došlo, že kdybych během pádu shortoval stejnou měrou, ochránil bych se proti volatilitě. Hedgeoval bych. To jsem posral. Lekce příliš pozdě. Příliš draho. Zkurvenej Dow jones.<br>
 Přemýšlel jsem jestli s tím skončit. Propad ale věstí nárůst. Vystoupím až se dostanu na nulu. Pomalý investování dává větší smysl. A míň stresuje.<br>
 
-### 19. 12. Tvrdá lekce
+### 19.12. Tvrdá lekce
 
 V podstatě jsem nespal. Bylo to jako by mi někdo stál na hrudi. K tomu mi v hlavě hrála kde jaká muzika a před očima běhaly grafy.<br>
 Až v ranní ledový sprše jsem se začal uklidňovat.<br>
@@ -238,6 +264,9 @@ Dobré ráno.<br>
 Trh šel dál do hajzlu, ale řekl jsem si že dneska mě to nebude stresovat. Dneska se budu soustředit na psychickou pohodu.<br>
 Byl jsem zvědavý na objev z večera. Pokud telefony opravdu používají osmičkovou anténu , není to náhodou cesta i pro nás. Rozhodl jsem se to prakticky ověřit.<br>
 Na láhev Bernarda jsem namotal dvě cetky a jednu zosmil. Vypadalo to zajímavě. A bylo to úplně k ničemu. V nulový pozici se pole vyzkratovalo. Geometricky to dávalo smysl.<br>
+
+<a href="../images/2024_december/20_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/20_1.jpg"></a>
+
 Bylo třeba řešit to víc teoreticky. Navrhnout to teoreticky ve smíťáku a až potom stavět. Pustil jsem se do toho a pohltilo mě to. Lidi si přáli hezký vahoce a já jim odpovídal, ale v hlavě jsem vymýšlel jen to líp odsimulovat. Koukal jsem do toho i později doma po tom, co jsem vynechal bazén.<br>
 
 ### 21.12. 20 dní zvládnu
@@ -245,7 +274,7 @@ Bylo třeba řešit to víc teoreticky. Navrhnout to teoreticky ve smíťáku a 
 Chybělo mi sepsat 20 dní.<br>
 Do dvanácti psal, pral, myl vodní kámen a koukal na poslední řadu lost.<br>
 
-<a href="../images/2024_december/21_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/21_2.jpg"></a>
+<a href="../images/2024_december/21_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/21_1.jpg"></a>
 
 
 > P.S. O tři měsíce později, chybělo těch dvacet dní vesele dál. Ale pomalu jsem se tím prokousával.
@@ -258,7 +287,7 @@ Doporučil jsem horkou koupel. A další zázvorovo-kurkumové smoothie. Během 
 Po snídani jsem vyrazil na vlak. Nakonec přes Libeň. V Lidla jsem koupil pomeranče, zázvor a vincentku a naskočil do rychlíku směr Kolín.<br>
 S mámou jsme šli na Sinatru. Napřed jsem ji teda pomáhal s laptopem a koukali jsme na Rozzuna v přírodě. <br>
 
-<a href="../images/2024_december/22_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/22_2.jpg"></a>
+<a href="../images/2024_december/22_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/22_1.jpg"></a>
 
 Sinatra na náměstí byl ok. Oslík tam podle mě trochu trpěl. Ale ne moc. Mohl si jít do ohrádky s domečkem. Dali jsme si svařák a vyfotili se u stromu. V šest mi ale jel vlak, a tak jsme se na námestí rozloučili a já vyběhl na nádraží.<br>
 
@@ -272,7 +301,13 @@ Kdybych si napsal TODO, vypadalo by následovně:<br>
 To znamenalo, že většina dne jsem měl čas koukat na poslední řadu LOST. Verunka marodila a nechat ji spát bylo to nejlepší, co jsem mohl dělat.<br>
 A tak jsem jedl guláš a koukal na to jak muž v černém přebírá vládu nad ostrovem.<br>
 Zvládl jsem se i oholit. A zalít své i Sářiny květiny. Sbalit se a dojet k Verunce. Jinak to byl vskutku ztracený den.<br>
+
+<a href="../images/2024_december/23_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/23_2.jpg"></a>
+
 Verunka byla z rýmy dost hotová. Uložila mě na gauč a sla spát. Já ještě vyplnil pár lekcí v duolingu , ale před desátou už jsem se snažil usnout.<br>
+
+<a href="../images/2024_december/23_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/23_1.jpg"></a>
+
 
 ### 24.12. Limoncello & Panettone
 
