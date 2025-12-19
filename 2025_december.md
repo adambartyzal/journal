@@ -8,7 +8,16 @@
 - [6.12. Léčba spánkem](#612-léčba-spánkem)
 - [7.12. Všechno nutné jsme zvládli](#712-všechno-nutné-jsme-zvládli)
 - [8.12. Do tmy](#812-do-tmy)
+- [](#-1)
 - [11.12. V jednom](#1112-v-jednom)
+- [](#-2)
+- [13.12. Naštěstí očkovaný](#1312-naštěstí-očkovaný)
+- [](#-3)
+- [](#-4)
+- [](#-5)
+- [](#-6)
+- [](#-7)
+- [](#-8)
 
 
 ### 1.12. Všechlapy ne
@@ -115,11 +124,94 @@ Vůbec mi nezkoumali batoh. To byl nezvyk. Ušetřil jsem tak pár minut času. 
 Při přistání už bylo šero. Než jsme se dostali z letiště ven, byla tma. Měli jsme půjčenou kin Ceed a Toník na's odvezl do skladu, kde jsme potkali Lea a kluky. Kol tam byl randál. Na stole byl chaos a všude jinde taky. Ale makali a vypadalo to schopně.<br>
 Nechali jsme jim elektroniky a jeli se ubytovat. Tentokrát na kopec, kousek od vodní věže. Instrukce byly jasný, byt zbytečně velkej a Lidl pořád otevřenej. Nakoupili jsme, udělali něco málo na laptopech a šli se uložit do svých pokojů.<br>
 
+<a href="../images/2025_december/08_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/08_3.jpg"></a>
+
+
+### 
+
+
+<a href="../images/2025_december/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/09_1.jpg"></a>
+
+
 ### 11.12. V jednom
 
 Ráno bylo jasný, že Tomík pracovat nebude. Ráno zněl jako že ho stihne tubera. Prý se probudil zpocený a cítil je naprd. Ale odvezl mě do skladu, kde na mě čekala hromada práce.<br>
 Dva boxy k vyčištění a sestavení a oživování kol. Celý den jsem se nezastavil. Ale udelali jsme toho hodně. Elias je suverénně nejchytřejší ze všech. U Hasana těžko říct. Jeho absence umění angličtiny skryla většinu jeho osobnosti. Určitě ale byl vtipnej. A určitě muslim. V Leově pokoji se klaněl k Mecce.<br>
+
+<a href="../images/2025_december/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/11_1.jpg"></a>
+
 Po pátý mě Elias hodil domů. Vyběhl jsem trochu ve spěchu a nechal ve skladu nabíječku. Během sledování prvního dílu nové řady Stranger Things notebook umřel. Telefon hned nato. Do bazénu jsem předtím nešel, protože bylo pozdě, ale na procházku ještě čas zbýval.<br>
 Šel jsem k jezeru. Byla docela zima. Ale mraky konečné odcházely. Pochopitelně. Letěly do Čech, kam jsme další den meli letět taky.<br>
 Zpátky na bytě jsem poklidil, pustil myčku a na bedně si pustil MKBHD na pozadí a zapsal, co se v posledních dnech stalo.<br>
+
+###
+
+
+<a href="../images/2025_december/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/12_1.jpg"></a>
+
+
+<a href="../images/2025_december/12_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/12_2.jpg"></a>
+
+
+<a href="../images/2025_december/12_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/12_3.jpg"></a>
+
+
+### 13.12. Naštěstí očkovaný
+
+Spal jsem naprd. Ale spal jsem a myslím, že mému léčení to hodně pomohlo. Verunka mi přinesla víc dryjáku, Čaj, další polévku, grep a v poledne dokonce knedlíčky.<br>
+Dokoukal jsem čtvrtý díl Strange Things. Byla to píčovina. Zdříml jsem si a pak se pustil do čtení.<br>
+Zpěv drozda je skvělá kniha. Možná, že mi je tak blízká, protože hlavní hrdina v ní si píše deník a čte. Dvě věci, který na Řehořovi dělám taky.<br>
+Finsko zadalo působit jako nějaký nedobrý sen. Nemoc mi předchozí den zahalila podobnou mlhou jako počasí Prahu. Vlastně bylo fajn že bylo hnusně.<br>
+
+<a href="../images/2025_december/13_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/13_1.jpg"></a>
+
+Chtěl jsem jít obejmout Verunku. Ale nechtel jsem jí nakazit. Co když jsem měl nějaký černý kašel, před kterým mě chránil. očkování, které ona neměla.<br>
+
+<a href="../images/2025_december/13_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/13_2.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_december/14_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/14_1.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_december/15_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/15_1.jpg"></a>
+
+
+<a href="../images/2025_december/15_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/15_2.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_december/16_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_1.jpg"></a>
+
+
+<a href="../images/2025_december/16_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_2.jpg"></a>
+
+
+<a href="../images/2025_december/16_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_3.jpg"></a>
+
+
+<a href="../images/2025_december/16_4.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_4.jpg"></a>
+
+
+###
+
+
+###
+
+
+<a href="../images/2025_december/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/18_1.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_december/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/19_1.jpg"></a>
+
 [>> Leden](2026_january.md)<br>
