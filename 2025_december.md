@@ -4,10 +4,11 @@
 - [2.12. Černá hudba, bledé tváře](#212-černá-hudba-bledé-tváře)
 - [](#)
 - [4.12. Kubismus do Vysočan, středověk do Letňan](#412-kubismus-do-vysočan-středověk-do-letňan)
-- [](#-1)
+- [5.12. Ty moje dutiny](#512-ty-moje-dutiny)
 - [6.12. Léčba spánkem](#612-léčba-spánkem)
 - [7.12. Všechno nutné jsme zvládli](#712-všechno-nutné-jsme-zvládli)
 - [8.12. Do tmy](#812-do-tmy)
+- [11.12. V jednom](#1112-v-jednom)
 
 
 ### 1.12. Všechlapy ne
@@ -62,8 +63,12 @@ Veru hrála a já osazoval. Až do šesti večer. Pak jsme vzali počítač a vy
 
 Moje srdce a můj jazyk ale toužil po něčem dobrým. Veru vzala počítač domů a já v Penny koupil bramobory na bramboráky. Nerezová pánev sice na indukci nefungovala, ale keramická ano. Verunka mi nastrouhala brambory a já usmažil asi 6 moc dobrých placek. Trochu to zahnalo depresi, která ve mě v tom bytu dřímala. S bramborákem je všechno lepší.<br>
 
-### 
+### 5.12. Ty moje dutiny
 
+Franz III Indigový byl stále zaparkovaný na Kolbence. Nechtělo se mi ale městskou a tak jsem si došel pro next bike. Tentokrát před obchodní centrum. Mírným deštěm. Asi nebyl nejlepší den na jízdu na sdíleným kole a fakt, že šála byla jen pár metrů od Franze a ne na mém krku asi pomohl tomu že další dny jsem se cítil na prd. Ale to předbíhám.<br>
+Vlastně ne tak moc. Už v poledne se mi ucpávaly dutiny. Vzal jsem si čepici, což trochu pomohlo, ale Miloš se mi trochu posmíval u oběda. Měl jsem totiž čočku, kterou dělala Verunka, jedl jsem ji uvnitř v čepici a neměl k ní uzený, ba ani vajíčko. Hned několik pochybení v jeho očích.<br>
+Dál jsem osazoval CBN. Pořád to šlo pomalu a já chtěl, aby po zapnutí nevyletělo do luftu. Odpoledne bylo hotovo a já nahrál storý fw se vstupy místo PWMek. Dioda se rozsvítila. To pro tenhle týden stačilo.<br>
+Sbalil jsem věci do Finska a vyrazil na autobus. Doma jsem od Verunky dostal dryják a zalezl pod peřinu. Bylo třeba to nachlazení vyléčit dřív, než by se rozjelo pořádně.<br>
 
 ### 6.12. Léčba spánkem
 
@@ -109,4 +114,12 @@ Vůbec mi nezkoumali batoh. To byl nezvyk. Ušetřil jsem tak pár minut času. 
 
 Při přistání už bylo šero. Než jsme se dostali z letiště ven, byla tma. Měli jsme půjčenou kin Ceed a Toník na's odvezl do skladu, kde jsme potkali Lea a kluky. Kol tam byl randál. Na stole byl chaos a všude jinde taky. Ale makali a vypadalo to schopně.<br>
 Nechali jsme jim elektroniky a jeli se ubytovat. Tentokrát na kopec, kousek od vodní věže. Instrukce byly jasný, byt zbytečně velkej a Lidl pořád otevřenej. Nakoupili jsme, udělali něco málo na laptopech a šli se uložit do svých pokojů.<br>
+
+### 11.12. V jednom
+
+Ráno bylo jasný, že Tomík pracovat nebude. Ráno zněl jako že ho stihne tubera. Prý se probudil zpocený a cítil je naprd. Ale odvezl mě do skladu, kde na mě čekala hromada práce.<br>
+Dva boxy k vyčištění a sestavení a oživování kol. Celý den jsem se nezastavil. Ale udelali jsme toho hodně. Elias je suverénně nejchytřejší ze všech. U Hasana těžko říct. Jeho absence umění angličtiny skryla většinu jeho osobnosti. Určitě ale byl vtipnej. A určitě muslim. V Leově pokoji se klaněl k Mecce.<br>
+Po pátý mě Elias hodil domů. Vyběhl jsem trochu ve spěchu a nechal ve skladu nabíječku. Během sledování prvního dílu nové řady Stranger Things notebook umřel. Telefon hned nato. Do bazénu jsem předtím nešel, protože bylo pozdě, ale na procházku ještě čas zbýval.<br>
+Šel jsem k jezeru. Byla docela zima. Ale mraky konečné odcházely. Pochopitelně. Letěly do Čech, kam jsme další den meli letět taky.<br>
+Zpátky na bytě jsem poklidil, pustil myčku a na bedně si pustil MKBHD na pozadí a zapsal, co se v posledních dnech stalo.<br>
 [>> Leden](2026_january.md)<br>
