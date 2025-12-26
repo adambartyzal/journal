@@ -16,8 +16,15 @@
 - [](#-4)
 - [](#-5)
 - [](#-6)
+- [18.12. Issues](#1812-issues)
 - [](#-7)
+- [20.12. Ninja monster trucky!](#2012-ninja-monster-trucky)
+- [21.12. Otráveni pupečníkem?](#2112-otráveni-pupečníkem)
 - [](#-8)
+- [](#-9)
+- [](#-10)
+- [](#-11)
+- [](#-12)
 
 
 ### 1.12. Všechlapy ne
@@ -203,15 +210,100 @@ Chtěl jsem jít obejmout Verunku. Ale nechtel jsem jí nakazit. Co když jsem m
 ###
 
 
-###
+### 18.12. Issues
 
+Zaspal jsem. Dal jsem si dva perníky k snídani a vyrazil do sklepa pro kolo. Jet do Vysočan na Franzovi bylo zábavnější než na nextbiku. Cestou mě potěšil policajt na přechodu, který mě pozdravil první. Asi cenil, že jsem měl žlutou helmu, bundu, rukavice svítil jsem a jel po cyklopásu. Byla totiž mlha.<br>
+V práci jsem si dal sprchu. V zimě konečně začala téct ledová. Pak jsem si uvařil zelený čaj a vrhl se do debugu spálených CBN. Měl jsem podezření, že měření proudu je nějaké marné. Zapojil jsem si proudový bypass a zjistil, že tomu tak není. INA měřila proud ukázkově.<br>
 
 <a href="../images/2025_december/18_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/18_1.jpg"></a>
 
+S Áďou, Vláďou a DJem jsme vyrazili do Radegastovny. Vega totiž ve všech restauracích byl jen smažákprávě v Radkovně. I s polévkou a nepivem jsem tam nechal skoro 3 kila. Smažáku bylo hodně. Ale bylo to fakt dost peněz.<br>
+Řešení starých CBN nepřišlo. vrátil jsem se tedy k novému prototypu. Simulaci čtení identity registru jsem měl hotovou, bylo třeba jí vyzkoušet v reálu.<br>
+Narazil jsem. Špatná adresa NVICu mě zarazila na pár hodin. Ale nakonec jsem vyčetl 0x08. Úspěch!<br>
+Jízda nahoru je jiný kafe. 79 výškových metrů nezní jako moc. Vlastně je to míň než jsem jezdil do Vršovic. Tam to bylo 100. 2x denně. Jenže vlak byl moc lákavej a tak jsem 10 přejezdů přes Vinohrady dal málokdy. 136 mi kolo nesveze.<br>
+S Veru jsme večer založili repozitář na domácí issues. Pustila se do toho ve velkým. Možná byla chyba dát jí do ruky tak mocnej nástroj.<br>
 
 ###
 
 
 <a href="../images/2025_december/19_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/19_1.jpg"></a>
+
+
+<a href="../images/2025_december/19_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/19_2.jpg"></a>
+
+
+### 20.12. Ninja monster trucky!
+
+Ráno jsem přemýšlel nad běháním. Verunka nad bazénem. Tak jsme šli na bazén. Ne že by Veru byla taková furie. Spíš se mi nechtělo běhat a jogurt s vločkami zněl líp než mučení se na dráze. A na ten bazén jsem byl zvědavej.<br>
+Na to, že to má být třetí nejnavštěvovanější bazén v republice byl docela prázdný. Bylo v něm asi 7 lidí. Někdo asi ohnul statistiku. Pro nás tím lepším směrem. Vern se bublala a já plaval. Pak jsme se oba masíroval: proudem vody, který nás naklepal jak řízky.<br>
+Doma jsme se otočili pro krátké garnýže, dali prát pračku, mýt myčku, vysávat Arnošta a doběhli autobus z Fryčovické. Jel přes Kbely. Bakovská mi přinesla nostalgii. Poslal jsem video ze zastávky Evě.<br>
+Z Čerňáku jsme došli do ikei. Pozadu, kolem paneláku s obřím nafukovacím santou a dinosaurem. Bizár. Na reklamacích jsme vrátili krátké tyče a šli na vege koule. Verunku opět překvapilo, že nože v ikei jsou magnetické. Sepsali jsme pohledy Jane, Stephenovi a Ghadě a dopili kávu.<br>
+
+<a href="../images/2025_december/20_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/20_1.jpg"></a>
+
+U záclon na Verunku přišlo mdlo. Přišla za ní paní prodavačka, zda nepotřebuje 112 nebo aspoň hroznový cukr. Byla milá. Její tip na čínskou medicínu mě moc nepřesvedál, ale když jsem se ptal na odstřižky záclon, cenila náš přístup k čalounění.<br>
+Nakoupili jsme garnýže, sáčky pro tátu, láhev pro mámu, žárovky, dvě skleněné krabičky a papuče pro návštěvy. Zpátky nás vezl Ikea bus, metro a 136.<br>
+Vlastně bych ale přeskočil to, proč se dnešek jmenuje, tak jak se jmenuje. Dětský koutek v ikei promítal ČTD. Dávaliúplně debilní animovanou show, kde monster trucky sháněly citríny, papričky a obří nudli z nudlopádu a používali schopnost, změnit se ve vysavač. Bylo to fakt zlý. Alpha generace to nebude mít lehký.<br>
+
+<a href="../images/2025_december/20_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/20_2.jpg"></a>
+
+Večer mi do Alzaboxu přišla nová pánev. Na cestě zpátky jsem u popelnice potkal vyhozený plastový stromeček. Nikdy bych takovou blbost nekoupil, ale zadarmo s vánoci na krku mi to přišlo vtipný. Vzal jsem ho domů.<br>
+
+### 21.12. Otráveni pupečníkem?
+
+
+<a href="../images/2025_december/21_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/21_1.jpg"></a>
+
+Ráno Veru udělala bezva snídani. Řepovou pomazánka, káva v Chemexu a čaj z Asijského pupečníku. Zpětně vzato, možná že ten čaj, nebo jeho kombinace s kávou, bylo to, proč nám oběma bylo celý den mdle.<br>
+Druhá Kala nám z toho nepomohla. Veru jí udělala, když jsem smažil lívance na své nové pánvi. Začala ona, ale kvůli jejímu molu jsem to přebral. Taky mi to moc neslo. Stýskalo se mi po plynu.<br>
+Bramboráky mi šly snad ještě hůř. Až po asi třetím kusu jsem objeví, že ten ideální bod je někde mezi stupněm 11 a 12, ale není to 11. Dost tepla na to, aby olej bez jídla pomalu tmavnul, ale s testem ne.<br>
+Pokládali jsme různé otázky chatu gpt a gemini. Přišlo mi, že obě ty technologie jdou do háje. Kvůli regulaci. Venku bylo mlhavé a pošmurno, ale byla po třetí a my potřebovali trochu čerstvého vzduchu a tak jsme vyrazili do Letňanského lesoparku.<br>
+Keřem na poli dalo by se říct. Nejzajímavější tam byl. Prolézačka ve tvaru letadla.<br>
+
+<a href="../images/2025_december/21_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/21_2.jpg"></a>
+
+V polovině cesty zpatky jsme se rozdělili. Veru vzala bus, já to došel. Vyšlo to nastejno. Doma jsme povečeřeli polévku a koukli na předposlední Pluribus.<br>
+Vlastně jsem ještě navrtával garnýže, ale selhal jsem, protože makita překlad nezvládla vyvrtat.<br>
+
+###
+
+
+<a href="../images/2025_december/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/22_1.jpg"></a>
+
+
+<a href="../images/2025_december/22_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/22_2.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_december/23_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/23_1.jpg"></a>
+
+
+<a href="../images/2025_december/23_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/23_2.jpg"></a>
+
+
+<a href="../images/2025_december/23_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/23_3.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_december/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/24_1.jpg"></a>
+
+
+<a href="../images/2025_december/24_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/24_2.jpg"></a>
+
+
+###
+
+
+<a href="../images/2025_december/25_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/25_1.jpg"></a>
+
+
+<a href="../images/2025_december/25_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/25_2.jpg"></a>
+
+
+### 
 
 [>> Leden](2026_january.md)<br>
