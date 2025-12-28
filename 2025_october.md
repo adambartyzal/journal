@@ -32,7 +32,7 @@
 - [27.10. Imunita](#2710-imunita)
 - [28.10. Den České státnosti finové neslaví](#2810-den-české-státnosti-finové-neslaví)
 - [29.10. Chudák Ilari](#2910-chudák-ilari)
-- [30.10. Lahti, Helsinky, Praha , Kunratice](#3010-lahti-helsinky-praha--kunratice)
+- [30.10. Lahti, Helsinky, Praha, Kunratice](#3010-lahti-helsinky-praha-kunratice)
 - [Z Pendolina blivno](#z-pendolina-blivno)
 
 
@@ -373,9 +373,9 @@ Safiral si uvědomil, že nemají tester. Otestoval jsem ho, zabalil a připravi
 Christelle nám nacenila její služby. Ludvík udělat tabulku a vycházelo to asi líp než s Arturem, ale pořád to byly vyšší miliony korun.<br>
 Venku pršelo. Hrabal jsem se v NFCM a nechtelo se mi ven. Taky jsem mohl napracovat čas na pátek. Ale taky bylo třeba nakoupit na nadcházející dekolaudací. Nakonec jsem jel v 19:17. Jenže...<br>
 U kolárny jsem našel dítě. Sedělo tam na křesle a prý čekalo na mámu. Máma prý šla koupit chlebík. To bylo trochu divný. Nikdy jsem je neviděl rozdělený. Šli jsme na zahradu, pak jsme potkali sousedy zdola a s nimi šli hledat rodiče nahoru.<br>
-Na zvonek, ani klepání nereagovali. Kluk měl boty naopak. Série telefonátů ukázala , že paní opravdu šla na nákup, ale kluk měl být doma, nicméně si dokázal odemknout a odejít i když táta byl doma. „Vzadu" prý neslyšel zvonek.<br>
+Na zvonek, ani klepání nereagovali. Kluk měl boty naopak. Série telefonátů ukázala, že paní opravdu šla na nákup, ale kluk měl být doma, nicméně si dokázal odemknout a odejít i když táta byl doma. „Vzadu" prý neslyšel zvonek.<br>
 Paní jsem potkal venku a všechno dobře dopadlo. Teda až na hádku, kterou jsme zaslechli s Verunkou o půl hodinu později.<br>
-Lidl ale stihl zavřít. Vzal jsem krosnu a dojel na kole do Tesca. Byl to trochu debilní nápad. 4 šestipíva, zelenina , pečivo a další se do krosny moc nevešly, a tak jsem jel s plnýma rukama ověšený vším možným.<br>
+Lidl ale stihl zavřít. Vzal jsem krosnu a dojel na kole do Tesca. Byl to trochu debilní nápad. 4 šestipíva, zelenina, pečivo a další se do krosny moc nevešly, a tak jsem jel s plnýma rukama ověšený vším možným.<br>
 Ale zvládl jsem to!<br>
 
 ### 24.10. Dekolaudace
@@ -393,7 +393,7 @@ Nováčkovic odjeli dřív, zbytek seděl asi do půl jedenácté.<br>
 ### 25.10. Bez padesáti osmdesát
 
 Další líná sobota. Skoro stejně jako sedm dní nazpátek jsme většinu dne byli doma. Veru se léčila a já lenivěl. Chtěl jsem rozchodit MQTT Broker na Raspi, ale našel jsem na SD kartě fotky a chytil nostalgickou a pak přešel na YouTube.<br>
-Odpo jsme si dali tortilly plněné rýží s mexickou směsí. Když jsme pak šli do Grébovky na vzduch, objevili jsme, že přesně rok zpatky , jsme je měli spolu poprvé.<br>
+Odpo jsme si dali tortilly plněné rýží s mexickou směsí. Když jsme pak šli do Grébovky na vzduch, objevili jsme, že přesně rok zpatky, jsme je měli spolu poprvé.<br>
 Na lavičce pod opadávajícími stromy jsem psal, Veru luštila křížovku a pili jsme čaj. Veru do toho občas zakašlala. Bylo nám tak osmdesát<br>
 Přicházející déšť nás donutil se zvednout a vrátit se domů. Tam jsme si pustili další řadu La Casa de Popel. A potom film Inside man. Verunka byla překvapená, že o něm nikdy neslyšela. Byla to v mnohém předloha pro La Casa de Papel.<br>
 
@@ -434,7 +434,7 @@ V Prismě jsem koupil něco k večeři a dojel na kole do hotelu. Bylo pozdě, t
 ### 29.10. Chudák Ilari
 
 Moc se mi vstávat nechtělo. Ale dokopal jsem se do sprchy a ledová je ve Finsku opravdu ledová. Hotelová snídaně měla milion sladkých možností, ale i něco zdravýho se dalo najít. Pořádně jsem se nadlábl a vyrazil na keskus matka pro kolo 505 bylo odemčený. Po chvilce diagnostiky jsem dospěl k názoru, že je to blbé nainstalovaným server. Jinak to bylo fajn leelo a tak jsem na něm dojel do skladu.<br>
-První co jsem zkontroloval byla nabíjecí bouda. Bylo to špatný. Klika byla v háji, klíč v zámku a nikde nikdo. Dva boxy jely , jeden byl úplně v háji. Smrad zlej, Černota všude. Ve skladu byl bordel. Nářadí všude, rozbitý kola taky.<br>
+První co jsem zkontroloval byla nabíjecí bouda. Bylo to špatný. Klika byla v háji, klíč v zámku a nikde nikdo. Dva boxy jely, jeden byl úplně v háji. Smrad zlej, Černota všude. Ve skladu byl bordel. Nářadí všude, rozbitý kola taky.<br>
 
 <a href="../images/2025_october/29_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/29_1.jpg"></a>
 
@@ -445,7 +445,7 @@ Byl jsem tam s nimi do šesti. Vlastně jsem odcházel posledni! Otočil jsem se
 Zbytek večera jsme řešili věci na slacku a čuměl jsem do YouTube. Neprospívalo mi to. Měl bych ho nějak zablokovat. Pár hodin pryč a nic mi to do života nedalo. Měl jsem cvičit a meditovat. Nebo jít do sauny.<br>
 Verunka doma našla barvy na kůži a posílala mi fotky jejích nápadů na halloweenské kostýmy.<br>
 
-### 30.10. Lahti, Helsinky, Praha , Kunratice
+### 30.10. Lahti, Helsinky, Praha, Kunratice
 
 Budík před šestou nikdy není dobrej. Ale přivstal jsem si, abych před vlakem v 7:13 stihl sbalit věci a nasnídat se.<br>
 Snídárna byla plná dělníků, hasičů a záchranářů. Bylo to dobře vymyšlený. Těžce makáš? Můžeš mít pořádnou snídani. Hezkej příklad Finskýho Happiness First.<br>

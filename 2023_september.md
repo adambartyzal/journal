@@ -366,7 +366,7 @@ Snídali jsme opět vločky s vlašskými ořechy a americkým proteinem. Čekal
 Při sestupu jsme potkali 3 ovce a stádo koz. Na parkovišti se v mezičase začali srocovat filmaři. A filmaři ti čas nemaří. Radši jsme popojeli z parkoviště pryč a věci přeorganizovali až pár set metrů níže.<br>
 Cestou dolů jsme málem nabourali do bílého bavoráka. Těžko říct čí to byla chyba. Jarda prý na vteřinku koukl na palubku v blbý moment. Ostrá zatáčka a za kamenem auto. Vlasntě jsem tam viděl o dost dřív než on a zakřičel jsem bacha! Prý to pomohlo. Dobrzdili jsme to asi 5 centimetrů před němkou proti nám.<br>
 Plán zněl: dojet na nákup do Sparu v Boveči a poté se vydat na trail podél řeky Soči. Do obchodu jsme se dostali po dvanácté, takže jsme pořídili rovnou věci na oběd a přesunuli jsme se do volnomyšlenkářeského kempu. První kemp totiž měl plnou kapacitu psů.<br>
-Nějakým němcům jsme zřejmě zabrali sezení, ale než by nás konfrontovali, popojeli o kus dál. Burek a skyr pro mě , burek a kuře pro Jardu a pečivo a kuře pro Sáru.<br>
+Nějakým němcům jsme zřejmě zabrali sezení, ale než by nás konfrontovali, popojeli o kus dál. Burek a skyr pro mě, burek a kuře pro Jardu a pečivo a kuře pro Sáru.<br>
 Šla na mě teplota. přemýšleli jsme, zda se tam ubytujeme, ale 16€ za osobu nám přišlo jako moc. V kempu o 8 minut jízdy dál chtěli to samé a paní správcová byla nepříjemná kráva. Vrátili jsme se tak do kempu Koryta a pěšky vyrazili na trail Soča. Nějak jsme se připletli do skupiny Američanů s průvodcem, ale byli pomalí a průvodce nic neříkal.<br>
 Soča je krásně čistá a ledová. Koryta jsou opravdu pohledná, ale po asi půl hodině, to vlastně začala být docela nuda.<br>
 

@@ -126,7 +126,7 @@ Překvapivě jsme stihl Lukáše. Šel cvičit s balonem. Byl pružnej jak prout
 Hynek nás hodil na vlak. Povídal o tom, že dokud bude babička aspoň trochu schopná bydlet v bytě,neměla by být v důchoďáku, kde co týden někdo umře. Každý den jí v bytě někdo navštěvoval a telefonovala s rodinou x-krát denně.<br>
 Ve vlaku jsem jestě trochu psal. Veru si pročítala své zápisky z vysoké. Pomáhaly jí vymyslet struktura učiva pro čtvrťáky .<br>
 Na jídlo jsme zašli v Karlíně do Vietnamky. Pad Thai a červené kari s tofu. Moc dobrý to bylo. Městská nás hodila dam a já už toho moc víc nezvládl. (Kromě dvojitý dávky dospěláckých aktivit🙂)<br>
-Veru večer jela na zkoušku a dozvěděla se , že druhá Veru v kapela končí, protože se stěhuje pryč. Bude tak jediná v holka v kapele.<br>
+Veru večer jela na zkoušku a dozvěděla se, že druhá Veru v kapela končí, protože se stěhuje pryč. Bude tak jediná v holka v kapele.<br>
 
 ### 10.3. Další antény
 
@@ -138,7 +138,7 @@ Až do šesti jsem upravoval error handling v nfc protokolu. Někam jsem se dost
 
 ### 11.3. Ráno deprese, večer radost
 
-Na konci roku jsem se zrejně nepoučil. To že trhy šly do háje mi uzavřelo v noci dva pohyby a asi 200 tisk proletělo komínem. Byl jsem smutnej. Kdybych ten účet nikdy neotevřel , Mel bych o osm set tisíc víc. To jsem posral. Nejde to říct jinak. Kolosálně jsem to posral. Měl jsem je poslat na spořák. Nebo nechat v tom ETF, který bylo zrovna taky v háji, ale zase se spraví. Za měsíc, nebo za 4 roky. Day trading je to samý, co bedny. Kolosální průser. Nikdy tam už nepošlu ani korunu.<br>
+Na konci roku jsem se zrejně nepoučil. To že trhy šly do háje mi uzavřelo v noci dva pohyby a asi 200 tisk proletělo komínem. Byl jsem smutnej. Kdybych ten účet nikdy neotevřel, Mel bych o osm set tisíc víc. To jsem posral. Nejde to říct jinak. Kolosálně jsem to posral. Měl jsem je poslat na spořák. Nebo nechat v tom ETF, který bylo zrovna taky v háji, ale zase se spraví. Za měsíc, nebo za 4 roky. Day trading je to samý, co bedny. Kolosální průser. Nikdy tam už nepošlu ani korunu.<br>
 Era mela narozeniny. Popřál jsem ji ráno. Dalpusa Verunce, která utíkala do práce a dal se do jógy. Potřeboval jsem ze sebe sklepat ten pocit, že jsem úplnej debil a spláchl jsem roční výdělek do kanálu.<br>
 Úterý. Ponořil jsem se do digitálních testů. Hodně. Řešil jsem Error Handling a EMD Suppression. Docela mi to šlo.<br>
 V půl osmé byl beďar. Řekl jsem si, že počkám v práci a pojedu vlakem. To jsem udělal, ale Beroun a Benešov není to samý město. V 19:01 jsem ve vlaku zaslechl „Praha Smíchov". Cože co?<br>
@@ -163,9 +163,9 @@ Když ráno potkám na nádraží freebike a DJe, obvykle má pak vlak zpožděn
 
 <a href="../images/2025_march/13_1.jpg" target="_blank"><img src="../images/thumbnails/2025_march/13_1.jpg"></a>
 
-Testy prošly. Pravděpodobně jsem mohl dělat něco důležitějšího, ale tři měsíce jsem horseshoe lock připravoval na to, aby zvládl příkazy ze SAMU poslat PICC. Jenže SAM nekomunikoval s MCU. Na FBC to dokázal. Řekl jsem si , že to rozchodím.<br>
+Testy prošly. Pravděpodobně jsem mohl dělat něco důležitějšího, ale tři měsíce jsem horseshoe lock připravoval na to, aby zvládl příkazy ze SAMU poslat PICC. Jenže SAM nekomunikoval s MCU. Na FBC to dokázal. Řekl jsem si, že to rozchodím.<br>
 U šebestiána jsme si dali s Vláďou žampiony s bramborem.S plným břichem jsem pak objevil, že nastavuji hodiny pro smartcard špatné . A paritu. Nakonec jsem to nějak rozchodit.<br>
-Mávnout nad zámkem applepayem a slyšet, že transakce prošla bylo trochu creepy. Ale děsné zadostiučinující. Měl jsem z toho takovou radost, že má skoro ani netrápilo , že buy stop mi zavřel skoro všechny pozice. Peníze a Capital Markets byly v tahu. Pomalu jsem to akceptoval. Mladická nerozvážnost. Šel jsem aspoň plavat a zkusil u toho vypnout hlavu.<br>
+Mávnout nad zámkem applepayem a slyšet, že transakce prošla bylo trochu creepy. Ale děsné zadostiučinující. Měl jsem z toho takovou radost, že má skoro ani netrápilo, že buy stop mi zavřel skoro všechny pozice. Peníze a Capital Markets byly v tahu. Pomalu jsem to akceptoval. Mladická nerozvážnost. Šel jsem aspoň plavat a zkusil u toho vypnout hlavu.<br>
 
 ### 14.3. Rande napůl
 
@@ -228,8 +228,8 @@ Běhat ráno mi asi bylo málo. Po práci jsem přejel vlakem na Astra, kde jsme
 ### 21.3. Deseti tisíce displejů
 
 V batohu jsem měl od Verunky salát a těstoviny, kteří jsem nesnědl večer. Jet celou cestu se mi moc nechtělo . Stihl jsem vlak v 8:20.<br>
-Paní průvodčí si mě pamatovala , sedla si ke mně a celou cestu povídala, že toho má dneska plný zuby. Naštěstí cesta trvá jen to minut, takže jsem tu a tam přikývnul a řekl aha aha. A paní byla spoko.<br>
-V práci jsem dostal HLPOOe. A objevil problém s displejem. Dělaly se na něm fleky nad NFCČipem. Ludva s Vláďou na sloku řešili , že doba dodání displeje je asi 9 týdnů, a že by bylo fajn objednat jich dost na tisíce, či deseti tisíce zámků.<br>
+Paní průvodčí si mě pamatovala, sedla si ke mně a celou cestu povídala, že toho má dneska plný zuby. Naštěstí cesta trvá jen to minut, takže jsem tu a tam přikývnul a řekl aha aha. A paní byla spoko.<br>
+V práci jsem dostal HLPOOe. A objevil problém s displejem. Dělaly se na něm fleky nad NFCČipem. Ludva s Vláďou na sloku řešili, že doba dodání displeje je asi 9 týdnů, a že by bylo fajn objednat jich dost na tisíce, či deseti tisíce zámků.<br>
 Potíž s flekem byla nejspíš v kódu. Transaction Done se mi volalo několikrát přes sebe. Když jsem trochu změnil interface a volání úspěšného konce. flek se neukazoval.<br>
 Doma Verunka vytáhla Všechny divy světa. Po dvou dlouhých, ale zábavných hrách to bylo jedno: jedna. A čas na postel.<br>
 

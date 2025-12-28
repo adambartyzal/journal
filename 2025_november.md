@@ -328,11 +328,11 @@ Doma jsem napsal pár řádek a šli jsme spát.<br>
 ### 22.11. Vetřelci v Bráníku
 
 Nespal jsem nejlíp. Poslední dobou jsem spal na prd a pivo tomu moc nepomohlo. Daň za moc fajn večer. Vzbudil nás Vojta a Tonda oba dožadující se snídaně.<br>
-Uložili jsme spacáky navařili čaj a dali se do snídání. Vojta měl jako vždy česnekovou pomazánku a k tomu na chleba sýr a nějaký salámy. Během konzumace jsme se dohodli, že zkusíme Nemesis. Vypadalo to , že to bude hra na několik hodin. Jenom poskládat herní plán nám trvalo přes půl hodiny.<br>
+Uložili jsme spacáky navařili čaj a dali se do snídání. Vojta měl jako vždy česnekovou pomazánku a k tomu na chleba sýr a nějaký salámy. Během konzumace jsme se dohodli, že zkusíme Nemesis. Vypadalo to, že to bude hra na několik hodin. Jenom poskládat herní plán nám trvalo přes půl hodiny.<br>
 
 <a href="../images/2025_november/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/22_1.jpg"></a>
 
-Začátky byly krkolomné. Byl jsem pilotka, Verunka vědec, Vojta mechanik a Vláďa nějaký voják. Postupně jsme odhalovali místnosti ve vesmírné lodi, házeli na hluk a hledali objekty, které by nám pomohli v boji s vetřelci. Prvního emzák,jsem probudil já. Dospělce, kterého jsme nakonec společně s Verunkou vysáli přechodovou komorou do vesmíru. Pak ale vetřelců začalo přibývat. Mým úkolem bylo dostat nás na zem. Upravil jsem kurz a opravil motory. Vojta ale byl proti nám. Jeho úkol bylo přežít jediný a mnou opravené motory opet rozbil, nastoupil do záchranného modulu a katapultoval se z lodi ven. Verunku zranili dospělci. Přišla o nohu a ruku, popálil jí oheň a dostala 3 infekce. Vetřelec v hybernační komoře jí dodělal. Já umřel při drahé opravě motorů a vláďa se držet až do startu lodi , ale nestihl se zahybernovat a umřel v lodi během cesty na zem.<br>
+Začátky byly krkolomné. Byl jsem pilotka, Verunka vědec, Vojta mechanik a Vláďa nějaký voják. Postupně jsme odhalovali místnosti ve vesmírné lodi, házeli na hluk a hledali objekty, které by nám pomohli v boji s vetřelci. Prvního emzák,jsem probudil já. Dospělce, kterého jsme nakonec společně s Verunkou vysáli přechodovou komorou do vesmíru. Pak ale vetřelců začalo přibývat. Mým úkolem bylo dostat nás na zem. Upravil jsem kurz a opravil motory. Vojta ale byl proti nám. Jeho úkol bylo přežít jediný a mnou opravené motory opet rozbil, nastoupil do záchranného modulu a katapultoval se z lodi ven. Verunku zranili dospělci. Přišla o nohu a ruku, popálil jí oheň a dostala 3 infekce. Vetřelec v hybernační komoře jí dodělal. Já umřel při drahé opravě motorů a vláďa se držet až do startu lodi, ale nestihl se zahybernovat a umřel v lodi během cesty na zem.<br>
 Dohráli jsme někdy po druhé odpolední. Plán zněl: oběd ✗ Branické nádražce. Dosti jsme tam údolím kolem potoka a dali si 4 veliké porce. Guláš, kuřecí kapsu a dvě dřevorubecké bašty. Všechno obrovská a vzhledem k chuti velmi levný. 4 bráníky k tomu. Vojta vlastně jeden navíc.<br>
 
 <a href="../images/2025_november/22_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/22_2.jpg"></a>
@@ -435,7 +435,7 @@ A stihl to. Jenže žena nikde. Prý měla na peronu mozkový zkrat a nechala si
 Stihla to. Docela na těsno, ale stihla.<br>
 Být digitální nomád nemusí být zlý. Řešil jsem úpravu Kicad2factory, která by do ERP nahrávala TQM. Tak aby stejné součástky s různým Tam byly správné seskupené. Vedlo to k tomu, že jsem ve slovníku měl jako klíč touple. Nevěděl jsem, že něco takovýho jde. Ale proč by vlastně nešlo.<br>
 Zabil jsem tím celou cestu. Jeli jsme až na Stodolní a z vlaku jsme poměrně spěšně přeběhli do kavárny Daniel, kde už čekali Verunčiny rodiče s kávou a dortíkem. My vybrali svařák a já se na záchodě převlékl do obleku.<br>
-Do moravskoslezského divadla to byl ještě kus a tak jsme do sebe svařáky kopli a vyrazili ven. Nevím jestli mě prostor divadla úplně nadchl. Ale muzikál ano. Jazzová kapela byla nahoře na pódiu, herců bylo asi 40. Všichni krásné zpívali a tančili a jediné , co se mi nepozdávalo, byl výraz Verunky. Tu ta adaptace nějak nenadchla. Chyběl jí příběh jako ve filmu z roku 2004. Mě ne. I ta čeština mi přišla dobrá. Hynek byl taky nadšenej.<br>
+Do moravskoslezského divadla to byl ještě kus a tak jsme do sebe svařáky kopli a vyrazili ven. Nevím jestli mě prostor divadla úplně nadchl. Ale muzikál ano. Jazzová kapela byla nahoře na pódiu, herců bylo asi 40. Všichni krásné zpívali a tančili a jediné, co se mi nepozdávalo, byl výraz Verunky. Tu ta adaptace nějak nenadchla. Chyběl jí příběh jako ve filmu z roku 2004. Mě ne. I ta čeština mi přišla dobrá. Hynek byl taky nadšenej.<br>
 
 <a href="../images/2025_november/28_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_3.jpg"></a>
 
@@ -449,7 +449,7 @@ Venku byla sice zima, ale sluníčko krásně zářilo. Veru to optimismem nenap
 Ibalgin asi pomohl. Nad bábovkou trochu chytla v obličeji barva a úsměv. Babička nám dávala poznávat rozdíly v novinách a vyprávěla o mládí Bábovka prý nebyladopečená, ale byla moc dobrá. S kokosem.<br>
 Dobré byly i nudle se sojovými nudličkami, které delal Hynek po tom co jsme babičce donesli poštu a vynesli odpadky. Vyfasovali jsme nějaký i do krabiček.<br>
 Sotva jsme dojedli. byl čas skočit do auta a vyrazit na vlak. Jedna cesta na hlavu vyšla na pětikilo. Ač byl muzikál i návštěva fajn. Bylo třeba trochu se s cestami do Ostravy mírnit. Byli jsme tam fakt často.<br>
-Ve vlaku jsem zprovoznil výstup do dvojech sluchátek a tak jsme zvládli díl a půl přátel , než došla baterie. Vern se pak natáhla na dvě sedačky vedle s já šel psát.<br>
+Ve vlaku jsem zprovoznil výstup do dvojech sluchátek a tak jsme zvládli díl a půl přátel, než došla baterie. Vern se pak natáhla na dvě sedačky vedle s já šel psát.<br>
 Na hlaváku jsme přestoupili do Polského RegioJetu adoma se uložili na karimatky do spacáků. Byla to naše poslední noc ve Vršovicích. Upřímně, už jsem to opravdu chtěl mít za sebou.<br>
 
 <a href="../images/2025_november/29_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/29_1.jpg"></a>
@@ -457,7 +457,7 @@ Na hlaváku jsme přestoupili do Polského RegioJetu adoma se uložili na karima
 
 ### 30.11. Neposrat se z toho všeho
 
-To byla mantra, kterou jsem jel v průběhu dne. Kdybych si mohl dovolit zhroutit se, tak to udělám, ale nebyl na to čas ani prostor. Muselo se odvézt kolo, deklidit věci, vyčistit koupelnu, lednici, podlahy, debilit poslední fleky, koupit koště a smeták, předat byt přejet přebrat byt , zaplatit kauci, zaplatit nájem a já nevím co ještě.<br>
+To byla mantra, kterou jsem jel v průběhu dne. Kdybych si mohl dovolit zhroutit se, tak to udělám, ale nebyl na to čas ani prostor. Muselo se odvézt kolo, deklidit věci, vyčistit koupelnu, lednici, podlahy, debilit poslední fleky, koupit koště a smeták, předat byt přejet přebrat byt, zaplatit kauci, zaplatit nájem a já nevím co ještě.<br>
 Jsou lidi, kteří jsou dělaní na stresové podmínky. Já nejsem jeden z nich. Proto jsem všechno připravoval s předstihem. A zatím všechno vycházelo. Ale stresu byla spousta.<br>
 
 <a href="../images/2025_november/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_1.jpg"></a>

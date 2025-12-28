@@ -193,7 +193,7 @@ Pokračoval jsem v testování. A v úklidu, protože prostoje v měření model
 <a href="../images/2025_september/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/11_1.jpg"></a>
 
 Verunka se měla vrátit. Chtěl jsem ji překvapit a tak jsem cestou domů koupil gerbery. Takový podobný afrikánům.<br>
-Vrátila se úplně hotová. Když jsem pak večer vařil noky se špenátem, přišla za mnou , masírovala mi bradavky a říkala, že mi pomáhá. Na platné mi sršela pánev. Moc mi její objetí nepomáhalo. Ale bylo to vtipný!<br>
+Vrátila se úplně hotová. Když jsem pak večer vařil noky se špenátem, přišla za mnou, masírovala mi bradavky a říkala, že mi pomáhá. Na platné mi sršela pánev. Moc mi její objetí nepomáhalo. Ale bylo to vtipný!<br>
 
 <a href="../images/2025_september/11_2.jpg" target="_blank"><img src="../images/thumbnails/2025_september/11_2.jpg"></a>
 
@@ -236,7 +236,7 @@ Vymyslel jsem to. Půjčil jsem jí má podzimní a sám si vzal své staré zim
 Najednou bylo tolik hodin, že vlak jel za pět minut. Vyběhli jsme ven. Jenže běda! Mobil zůstal doma. Ve 28 jsem se otočil. Ve 29 byl v bytě a ve 30 na peronu. Stihl jsem to. Ale plíce si stěžovaly.<br>
 Vysvětlilo by to nedostatek kyslíku v hlavě a absolutní nezvládnutí navigace. Cesta na vlak z Masaryčky na Výstaviště. byla marná. Jel až o hodinu později. Svezla nás na Štros dvacet šestka a zbytek jsme dosti. Holešovice zase Sly nahoru. Nový lavičky a cyklostojany místo posledního auta v podélném stání.<br>
 Byli jsme první. Pak Adél. Pak zbytek. S Fikrovic šla Kora, S Ondrou a Rébou Šimon. Všichni ohrnovali nos nad mými botami, ale Verunka šla v suchu a to bylo hlavní.<br>
-Šli jsme stromovkou, k řece, na babu, do Lysolají , suchdola na skály a pak na pivo a koláč. Povídali jsme si o dovolených, o pracích a o zásnubách. Budoucí Šulcovi nebyli jediní. Tomáš se vyslovil taky.<br>
+Šli jsme stromovkou, k řece, na babu, do Lysolají, suchdola na skály a pak na pivo a koláč. Povídali jsme si o dovolených, o pracích a o zásnubách. Budoucí Šulcovi nebyli jediní. Tomáš se vyslovil taky.<br>
 
 <a href="../images/2025_september/14_1.jpg" target="_blank"><img src="../images/thumbnails/2025_september/14_1.jpg"></a>
 

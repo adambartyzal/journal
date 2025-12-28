@@ -73,11 +73,11 @@ Muscle-up. K tomu jsem mířil. Jak dlouho to ale bude trvat jsem netušil. Rán
 
 Udržet se fyzicky schopný. Nebýt na tom na konci dne hůř ale líp.
 
-V práci jsem na NFC přidelal pípák. sice byl jednotónový, ale generátorem jsem ověřil , že dokážu pípat oktávu. Nahoru pro úspěch, dolu při selhání.
+V práci jsem na NFC přidelal pípák. sice byl jednotónový, ale generátorem jsem ověřil, že dokážu pípat oktávu. Nahoru pro úspěch, dolu při selhání.
 
 Akorát že z GPIO timer nelezl za boha ven. Cítil jsem se jak pět let zpátky. Takovýhle potíže přece mají být dávno za mnou. Byl to špatně zapsaný registr CCR2 misto CCRI. A tak jsem pípal.
 
-A napadlo mě , že testování můžu řídit USARTem . Teda... ten nápad jsem obšlehl z WB 55. Ale takhle vývoj funguje. Proto je Vláda tak dobrej. Protože dělá svoje další věci.
+A napadlo mě, že testování můžu řídit USARTem . Teda... ten nápad jsem obšlehl z WB 55. Ale takhle vývoj funguje. Proto je Vláda tak dobrej. Protože dělá svoje další věci.
 
 ### 4.7. Skoro bych na tu vodu zapomněl
 

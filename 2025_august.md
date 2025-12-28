@@ -116,7 +116,7 @@ Nás ubytovali v pokoji pro hosty a po chvíli konverzace na kterou už nám nez
 
 Vstali jsme první. Verunka plánovala upéct ostružinovou buchtu. Taková buchta se líp peče, když máš ostružiny a tak jsme s mystičkou vyrazili na příjezdovou cestu podél které rostly všemožné keře.<br>
 Ostružin nebylo tolik, kolik jsme mysleli, a tak jsme se vlastně docela prošli. Až ke kravám, které si něco irsky bučely a koukali na nás nedůvěřivé.<br>
-Nakonec jsme nejlepší plody našli za domem. Domem, který před osmi lety asi vypadal opravdu dobře, ale v době naší návštěvy se bazén pomalu měnil v bažinu, omítky pomalu konzumovala příroda, příjezdová cesta zarostla nestříhanými jabloněmi a téměř každé volné místo v domě se změnil v odkladiště nějakého napůl realizovaného nápadu. V podkroví se válela 3D tiskárna, různá arduina, spousty rozebraných počítačů a dalších hraček. Každá místnost měla klavír, ale ne každý byl nalazený. A když jsem si to spojil s vyprávěním Stephena a Ghady o plánech trávit víc času v Thajsku, přišlo mi , že všechno do čeho tam dali energii a peníze... hodně hodně peněz... půjde do kopru.<br>
+Nakonec jsme nejlepší plody našli za domem. Domem, který před osmi lety asi vypadal opravdu dobře, ale v době naší návštěvy se bazén pomalu měnil v bažinu, omítky pomalu konzumovala příroda, příjezdová cesta zarostla nestříhanými jabloněmi a téměř každé volné místo v domě se změnil v odkladiště nějakého napůl realizovaného nápadu. V podkroví se válela 3D tiskárna, různá arduina, spousty rozebraných počítačů a dalších hraček. Každá místnost měla klavír, ale ne každý byl nalazený. A když jsem si to spojil s vyprávěním Stephena a Ghady o plánech trávit víc času v Thajsku, přišlo mi, že všechno do čeho tam dali energii a peníze... hodně hodně peněz... půjde do kopru.<br>
 
 <a href="../images/2025_august/06_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/06_1.jpg"></a>
 
@@ -198,7 +198,7 @@ U útesů bylo větrno a chladno. Oblékli jsme si několik dalších vrstev a v
 <a href="../images/2025_august/08_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/08_3.jpg"></a>
 
 Na jižní straně jsme sledovali západ slunce. Bylo to moc pěkný. I když slunce zapadlo do mlhy, ne za obzor.<br>
-Zbývalo se ubytovat. Verunka cestou zahlédla zbořený domek, který by mohl fungovat jako větrolam a zábrana proti čumilům. Znělo to moc dobře a dobrý to bylo. Domky byly dva a menší z nich měl rovnou , poměrné suchou podlahu. Akorát pár kamenů jsme museli odházet.<br>
+Zbývalo se ubytovat. Verunka cestou zahlédla zbořený domek, který by mohl fungovat jako větrolam a zábrana proti čumilům. Znělo to moc dobře a dobrý to bylo. Domky byly dva a menší z nich měl rovnou, poměrné suchou podlahu. Akorát pár kamenů jsme museli odházet.<br>
 Stan jsme postavili rychleji a lépe než kdy předtím a před jedenáctou jsme byli nasoukaní ve spacácích.<br>
 
 ### 9.8. Ultraprocessed Ireland
@@ -322,7 +322,7 @@ Na parkoviště už to byl z výhledu kousek. Asi jsme mohli Fabii nechat mimo n
 Stezka přímo pod placenou lanovkou byla příliš sypká. Šli jsme po ní my a ještě jeden pár s turistickými holemi a v prvním momentu, kdy šlo sejít jsme ji, narozdíl od nich, opustili. Západněji vedla klikatější a další cesta po které tu a tam projelo obří auto, ale šlo se po ní mnohem lépe. Když jsme po asi hodině došli k hornímu konci lanovky, viděli jsme turistický pár pod sebou. Měli toho plný zuby a myslím, že dál už nešli.<br>
 My si dali sváču. Oříšky, čokoládu a vydali se výš. Veru trochu vzdorovala, ale mě přišlo, že dokud nebude cesta příliš strmá, zakázaná nebo nebude příliš pozdě. má smysl pokračovat vzhůru. S každou další nastoupanou stovkou byla Etna zajímavější.<br>
 Většinu lidí vozily terénní autobusy. Ti, co chodili pěšky, šli vetšinou jen ke kráteru piáno a nebo dolů zautobusové zastávky s průvodcem. My serpentinou stoupali nahoru a způsobovali pozdvižená obočí. Sandály a hipstr batůžek se moc nerovnal jejch pohorám a helmám. Jenže já k ničemu z toho neviděl důvod. Terén byl v poho a stoupání mírné. I kdyžje pravda, že Veru víc a víc bojovala s dechem a potřebovala vetší pauzy.<br>
-Asi mě trochu nesnášela, ale když jsem vyšel až k ceduli, která hlásala, že dál se jít leda a zamával na ní, kousla se a vyšla za mnou. Od cedule chodili skupiny s průvodcem na přístupný vrcholek hory. Měl 2870 metrů a byl z něj parádní výhled. Vyšli jsme na něj taky , já obešel první kráter. Společně jsme obešli druhý a nafotili jsme spoustu fotek. Vonělo to tam sírou a Veru potřebovala trochu dodávat kuráž.<br>
+Asi mě trochu nesnášela, ale když jsem vyšel až k ceduli, která hlásala, že dál se jít leda a zamával na ní, kousla se a vyšla za mnou. Od cedule chodili skupiny s průvodcem na přístupný vrcholek hory. Měl 2870 metrů a byl z něj parádní výhled. Vyšli jsme na něj taky, já obešel první kráter. Společně jsme obešli druhý a nafotili jsme spoustu fotek. Vonělo to tam sírou a Veru potřebovala trochu dodávat kuráž.<br>
 
 <a href="../images/2025_august/13_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/13_2.jpg"></a>
 
@@ -408,7 +408,7 @@ ale Interbus v devet, vyjel v devět na minutu přesně. Projet město mu trvalo
 
 <a href="../images/2025_august/17_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/17_2.jpg"></a>
 
-Tam už ale byl italský chaos opět přítomný. Všude byli lidi . Všude byly fronty. Všechno se pohybovalo šnečím tempem a všichni zmatkovat.. Olivový olej, který jsme koupili a já ho odmítl nechat na vile zatížil krosnu o 700 gramů. Přeskládali jsme věci co to šlo a dostali se opět na 9,9 kg. Prošli jsme nekonečnými frontami , dali si zbylou hrušku, jablko, foccacia a Veru si ještě koupila aranchino, nebo jak se ta smažená koule jmenuje. Během čekání jsme koukali na letušku a pár minut po dvanácté. nastoupili do Buzz letadla.<br>
+Tam už ale byl italský chaos opět přítomný. Všude byli lidi . Všude byly fronty. Všechno se pohybovalo šnečím tempem a všichni zmatkovat.. Olivový olej, který jsme koupili a já ho odmítl nechat na vile zatížil krosnu o 700 gramů. Přeskládali jsme věci co to šlo a dostali se opět na 9,9 kg. Prošli jsme nekonečnými frontami, dali si zbylou hrušku, jablko, foccacia a Veru si ještě koupila aranchino, nebo jak se ta smažená koule jmenuje. Během čekání jsme koukali na letušku a pár minut po dvanácté. nastoupili do Buzz letadla.<br>
 Letenka mi sice vyšla k okýnku, dokonce u dveří, ale verunce ne sedadle 2C. Prohodili jsme se. Výhledů si většinou užívám já. Tentokrát jsem si řekl, že budu psát.<br>
 Moc to ale nešlo. Ucpané dutiny a změny tlaku nejsou kamarád. Let byl docela utrpení. Jízda trolejbusem, metrem a tramvají snad ještě větší. Doma jsem padl do postele a nedobrým spánkem usnul.<br>
 Večer jsem ještě něco roztřídil z krosny ven, dal si Česnečka a zapadl do postele znova. Byla to dobrá dovolená. Jen ten konec nevyšel úplně dokonale. A to by člověk řekl, že moře s dutinami pomůže.<br>

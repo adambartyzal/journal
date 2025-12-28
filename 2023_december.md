@@ -568,7 +568,7 @@ Pověsil jsem povlečení a šel se ztratit v knížce.<br>
 ### 30.12. Provokace
 
 V posledním víkendu v roce pan kepka odečítal vodoměru. Nepřišlo mi to jako nejlepší plán. Většina Pražáků bude na silvestra z Prahy pryč, včetně mě. Opsal se mu proto spotřebu na papír a dal ho za dveře.<br>
-Odjezd z Prahy jsme měli naplánovaný na 11 hod. Telefonát s Miškou jsme nakonec na pasovali do hodiny předtím. Filip nás chtěl vyzvednout na pankráci , Což je tak 40 min. pěšky ode mě.<br>
+Odjezd z Prahy jsme měli naplánovaný na 11 hod. Telefonát s Miškou jsme nakonec na pasovali do hodiny předtím. Filip nás chtěl vyzvednout na pankráci, Což je tak 40 min. pěšky ode mě.<br>
 Ráno jsem tady posnídal, zacvičil si jógu, zabalil se, vylil kafe, vysypal zelenec na zem, uklidil po sobě ten bordel, dal Arnošta vysát, vysprchoval se, oblékl a vyrazil.<br>
 Míša mi vyprávěla zážitky z pěti denního Treku. Nachodili asi 75 kilometrů. Příroda byla nádherná, všude zeleno, ptáci, bílé pláže a tyrkysový oceán. Prý to byl nejkrásnější ks planety, který zatím viděla. Dokonce i brodění se skrz řeku prý bylo fajn.<br>
 Co ale fajn nebylo, byl fakt, že nějaké novozélandské slepice jim proklovali batohy, kvůli jídlu a kvůli odpadkům. Mišky nový drahý Fjällräven. Díra jak vrata. Mrzelo mě to.<br>

@@ -15,7 +15,7 @@
 - [14.11. Rande](#1411-rande)
 - [15.11.](#1511)
 - [16.11. Za Nováčkovic a vstříc zimě](#1611-za-nováčkovic-a-vstříc-zimě)
-- [17.11. Duše , Svoboda a život](#1711-duše--svoboda-a-život)
+- [17.11. Duše, Svoboda a život](#1711-duše--svoboda-a-život)
 - [18.11. Displej displejuje](#1811-displej-displejuje)
 - [19.11. Paella](#1911-paella)
 - [20. 11. 42 let](#20-11-42-let)
@@ -138,7 +138,7 @@ Doma jsem ho trochu opláchl a respekt v troubě. To fungovalo jako dezinfekce i
 ### 9.11. Pánská jízda
 
 Jarda svolal na víkend pánskou jízdu. Cesta do Černín se mnou, Ondrou a Tomášem. Sára měla být ve škole a možná ho hlodalo, že pizza párty zrušil, takže to vyřešil takhle.<br>
-Chvíli jsme váhali , zda by to nemělo být rozlučka se Svobodou. Odlétali někdy za měsíc a nikdo se téhle akce zatím neujal. Sára ale prý řekla, že tentokrát je to jen vyjížďka ven.<br>
+Chvíli jsme váhali, zda by to nemělo být rozlučka se Svobodou. Odlétali někdy za měsíc a nikdo se téhle akce zatím neujal. Sára ale prý řekla, že tentokrát je to jen vyjížďka ven.<br>
 Tomáš, Ondra a já jsme měli sraz na Kodaňské, protože ve Slides Live dohlížel na stavbu klimatizace. Ondra kolemmě profrčel na jednokole kousek od mýho domu a po deseti minutách jsem ho našel pod 4 DX Centrem. Toma's- sešel po asi 15k minutách, naházeli jsme věci do auta a vyjeli do Senohrab nabrat Jardu.<br>
 Z jízdy autem mi bylo trochu blino. Měl jsem pocit, že se to Zase zhoršovalo . Moc jsem autem nejezdil a můj polohovornovážný systém si odvykl. Renée s Fandou mé nadšené zdravili. Opět jsem se dozvěděl, že jsem strašlivě hubenej, ale vlastně byli milí. Kora jančila, bylo modrý nebe a sluníčko a ten den mel potenciál.<br>
 Na dálnici jsme spekulovali co s obědem. Ondra dle map vybral sport bar v7 Zruči. Mel mít nic moc interiérale dobrý jídlo. To byla pravda. Sice nic pro vegetariány, ale co naděláš.<br>
@@ -212,7 +212,7 @@ V pivovaru jsme si navzdory počasí sedli ven a poslouchali, jak to Nováčkovi
 Vlak zpátky mi opět ujel. Došel jsem na bus a na Čerňáku došel do Dekáče. Koupil jsem pláště, rukavice a novou žlutou helmu. Vybíral jsem to všechno fakt dlouho.A nechal tam fakt balík. Veru ale řekla, že to všechno budu používat, takže je to v poho.<br>
 Na práci už nebyl čas. Jel jsem domu.<br>
 
-### 17.11. Duše , Svoboda a život
+### 17.11. Duše, Svoboda a život
 
 Nový pláště jsem měl. Nový duše ne. Byly vykoupený. Ale Vláďa říkal že duše se roztáhne. Dal jsem tomu Šanci.<br>
 Vynesl jsem obě kola nahoru a dal se do výměny. Kevlarový pláště jdou na poprvý vždycky ztuha. Obzvlášť ty tubeless ready. Duše byly ve čtyřicítkách směšně tenký.<br>
@@ -254,7 +254,7 @@ Na kole jsem jel i zpátky. Opět s termofonem. Přes lidi.Večer Jsem navařil 
 
 Uplynul týden od návštěvy doktora. To znamenalo, že místo do práce jsem měl jet na rehabilitaci. Záda jsem rozhodně cítil a tak jsem si napustil termofor a ještě chvíli s ním ležel v posteli. Vlastně téměř příliš dlouho. Když jsem se pak sbalil, seběhl pro kolo a vyrazil, mel jsem jen 7 minut na to dojet na kliniku.<br>
 Ale jakž takž jsem to zvládl.<br>
-V Čekárně si mě odchytla krásná mladá drobná brunetka, ze které se vyklubala moje fyzioterapeutka. Byla fakt sexy. Chvíli jsme si povídali o mých zádech, práci,Cvičení a činnostech , pak mě nechala se svléknout do půl teta a sledovala jak chodím. Potom mě položil. na lehátko a začala mi prohmatávat záda od krku až na zadek.<br>
+V Čekárně si mě odchytla krásná mladá drobná brunetka, ze které se vyklubala moje fyzioterapeutka. Byla fakt sexy. Chvíli jsme si povídali o mých zádech, práci,Cvičení a činnostech, pak mě nechala se svléknout do půl teta a sledovala jak chodím. Potom mě položil. na lehátko a začala mi prohmatávat záda od krku až na zadek.<br>
 Chvíli prý nevěděla co se mnou je kromě toho, že pravou stranu mám namakanější než levou. (Díky Ančo dlaňová.) když má ale řekla ať udělám kočku, ukázalo se Že spodní část zad se mi neohýbá a zůstává plochá.<br>
 Dostal jsem za úkol cvičit polohu dítěte, do boků, přitahovat kolena a kočkovat. To šlo. Moje černá mysl pomocí googlu diagnostikovala buď lumbální nádor nebo Becheťerovu nemoc. Zkrácený svaly a šlachy šly řešit.<br>
 V práci skoro nikdo nebyl. Rozhodl jsem se zprovoznit VSAM. Dalo mi to zabrat víc než by mělo. Ale nakonec mi začal odpovídat. Začal jsem mít pocit, že rozchodit platby už bude brnkačka.<br>

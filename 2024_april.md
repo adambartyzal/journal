@@ -318,7 +318,7 @@ Sedl jsem na kolo a sjel do Espresso House. Přes týden jsem toho moc nenapsal.
 ### 21.4. Větší bazén je menší
 
 Fíla s Verčou odjeli do Helsinek. Já jsem plánoval nákup pohledů, psaní v kavárně a plavání. Vzal Jsem kolo u nádraží, sjel sněhem do centra a ve stejném papírnictví jako naposledy pořídil, co bylo třeba. Do kavárny to bylo jen přes ulici.<br>
-Byl jsem zvědavý jak vypadá bazén v centru. Byl kousek od zimního stadionu a dle internetu toho měl nabízet víc než bazén nahoře u Lidlu. A nebyla to lež. Měl navíc páru, vířivky , masážní bazének a skokánky. Ale chyběla mu ledová káď a všechno bylo namačkané v menším prostoru.<br>
+Byl jsem zvědavý jak vypadá bazén v centru. Byl kousek od zimního stadionu a dle internetu toho měl nabízet víc než bazén nahoře u Lidlu. A nebyla to lež. Měl navíc páru, vířivky, masážní bazének a skokánky. Ale chyběla mu ledová káď a všechno bylo namačkané v menším prostoru.<br>
 Odpoledne jsem vyrazil na nákup do k-Marketu. Tam převážně proto, abych se prošel starou Skandinávskou čtvrtí. Ty domečky se mi moc líbily.<br>
 
 <a href="../images/2024_april/21_1.jpg" target="_blank"><img src="../images/thumbnails/2024_april/21_1.jpg"></a>

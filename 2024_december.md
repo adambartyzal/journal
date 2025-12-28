@@ -26,7 +26,7 @@
 - [24.12. Limoncello \& Panettone](#2412-limoncello--panettone)
 - [25.12. Jen na druhé straně nádraží](#2512-jen-na-druhé-straně-nádraží)
 - [26.12. Koupačka](#2612-koupačka)
-- [27.12.](#2712)
+- [27.12. Bez otočky na býčích koulích](#2712-bez-otočky-na-býčích-koulích)
 - [28.12. Finále](#2812-finále)
 - [29.12. Verunka měří](#2912-verunka-měří)
 - [30.12. Přeci jen nakažen](#3012-přeci-jen-nakažen)
@@ -120,7 +120,7 @@ Večer jsem aspoň založil nadpisy, nahrál fotky a připravil nějaký poznám
 
 ### 9.12. Dospěláctví je na prd
 
-Než jsem šel spát , šel na mě pocit toho, že začíná příliš mnoho věcí valit před sebou. Rozhodl jsem se že:<br>
+Než jsem šel spát, šel na mě pocit toho, že začíná příliš mnoho věcí valit před sebou. Rozhodl jsem se že:<br>
 
 - vstanu včas
 - napíšu Kendymu
@@ -149,7 +149,7 @@ Budík mě probudil v 6:30. Nečekala na práce ale fyzio. V 8:00, to minut jíz
 7:45 bylo když jsem otevřel oči podruhé. Průser. Naházel jsem věci do batohu, nahodil oblečení a vyrazil na kolo.<br>
 Padal. sňato. Bylo fakt hnusně. Ale v 8:07 jsem byl v ordinaci.<br>
 Fyzioterapeutka se jmenuje Míša. Je z Písku a potešila mě, když mi řekla, že moje záda jsou napuchlejší než minule. Bolely víc a tohle znamenalo,Že nejsem hypochondr.<br>
-Zvedat nohy . či cvičení core jsem měl z pokrčených nohou. Měl jsem přidat houpání a kreslení kruhu kdeny.Jízda do práce byla extrémní. S SPI jsem nepohnul. Aspoň jsem založil položky na nákup v TME. Taky jsem Omarovi odsouhlasil výrobu NFC Ua EBD, ale nejak jsem minul poznámku, kde tvrdili , že v dokumentaci něco chybí a až večer mi to začalo vrtat hlavou.<br>
+Zvedat nohy . či cvičení core jsem měl z pokrčených nohou. Měl jsem přidat houpání a kreslení kruhu kdeny.Jízda do práce byla extrémní. S SPI jsem nepohnul. Aspoň jsem založil položky na nákup v TME. Taky jsem Omarovi odsouhlasil výrobu NFC Ua EBD, ale nejak jsem minul poznámku, kde tvrdili, že v dokumentaci něco chybí a až večer mi to začalo vrtat hlavou.<br>
 Sekera v Capital-Markets vyrostla na 100 tisíc. Zavřel jsem ale jeden obchod za 7800 a pokryl tak swap a vlastně trochu víc. Vestředu měly vyjít nejaký CPI a výhled byl pozitivní. Třeba se z toho dluhu vyhrabu.<br>
 Večer jsem si volal s Verunkou. Povídali jsme si o Vojtkovi, Elišce Remešová a vztahovém fitness.<br>
 Taky jsem vytiskl dodatek ke smlouvě a dal vědět Kendymu. Napsal, že nás podporuje a začne hledat něco novýho. Je třída.<br>
@@ -200,7 +200,7 @@ Do Saunového svete jsem šel poprve'. Bylo to tam fancy. První jsme vybrali so
 Tam jsme byli úplně sami a na Verunku šli démoni. Žádný faux pas jsme neudělali.<br>
 Hlad nás dohnal do food courtu na harfe. Opět na Indii. Verunka tam našla jídlo, které jí chutnalo na výletě se studenty na Moravu . Koftu. Zeleninové koule vomáčce podobné té v Chana masala. V dmku jsme koupili zelený čaj, debat a kondomy. V Bille jsme pořídili bramborový chléb a metrem dojeli k Veru.<br>
 Připravovala se na koncert. Já si drnkat na klavír a před šestou nám nakrájel chleba a uvařil decay.<br>
-Céčko a pět a dvacítka nás dovezly do Irské hospody na Kamenické. Kapela byla umístěná v patře , kdena ně nebylo vidět. Mikrofon vazbil a já dokázal zapomenout, jak se jmenuje Verunky brácha. Lukáš. Ke stolu u kterého jsem seděl se přidala Míša. Kamarádka členů kapely. fonetička a houslistka ze slow sessions. S Lukášem Jsme toho moc nenapovídali, ale s Míšou se povídalo dobře.<br>
+Céčko a pět a dvacítka nás dovezly do Irské hospody na Kamenické. Kapela byla umístěná v patře, kdena ně nebylo vidět. Mikrofon vazbil a já dokázal zapomenout, jak se jmenuje Verunky brácha. Lukáš. Ke stolu u kterého jsem seděl se přidala Míša. Kamarádka členů kapely. fonetička a houslistka ze slow sessions. S Lukášem Jsme toho moc nenapovídali, ale s Míšou se povídalo dobře.<br>
 
 <a href="../images/2024_december/14_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/14_1.jpg"></a>
 
@@ -244,7 +244,7 @@ Během dne jsem došel díky Vláďovi k několika prozření. Uši GSM antény 
 
 <a href="../images/2024_december/18_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/18_1.jpg"></a>
 
-Pan Ptak mi volal , protože večer × 8 měl FEDSnižovat sazby. Byl optimistický. Měl jsem otevřen,/ Dow Johnson ve ztrátě skoro 100 000, ale prý byla na stole možnost, že sazby klesnou o půl procenta. To by bylo fajn.<br>
+Pan Ptak mi volal, protože večer × 8 měl FEDSnižovat sazby. Byl optimistický. Měl jsem otevřen,/ Dow Johnson ve ztrátě skoro 100 000, ale prý byla na stole možnost, že sazby klesnou o půl procenta. To by bylo fajn.<br>
 Jenže se to nestalo. Fed ohlásil 25 Sb. A na příští rok pouze dvě další úpravy. To se trhu moc nelíbilo. Skoro okamžitě moje ztráta poskočila na dvojnásobek. A st.to dál. Vystartoval jsem pár desítek tisíc k dobru, ale když jsem byl v minusu půl milionu, nedostatek marže mi automaticky zavřel pozici se ztrátou 133 tisíc. To zabolelo. Navíc jsem neměl marži na případný dokup při cestě nahoru. Průser.<br>
 Sice jsem si řekl, že těch 700 tisíc je odepsaných.Ale vidět je ztrácet mi přinášelo značnou míru stresu.<br>
 Až dole mi došlo, že kdybych během pádu shortoval stejnou měrou, ochránil bych se proti volatilitě. Hedgeoval bych. To jsem posral. Lekce příliš pozdě. Příliš draho. Zkurvenej Dow jones.<br>
@@ -262,7 +262,7 @@ Abych to opravdu pochopil, potřeboval jsem tu lekci. Jako jsem potřeboval dost
 Dobré ráno.<br>
 Žádný telefon v posteli . Kafe z moka konvičky. Salát s balsamikem. 20 minut jógy a Adriene. Chleba s cibulovou pomazánkou a senchu.<br>
 Trh šel dál do hajzlu, ale řekl jsem si že dneska mě to nebude stresovat. Dneska se budu soustředit na psychickou pohodu.<br>
-Byl jsem zvědavý na objev z večera. Pokud telefony opravdu používají osmičkovou anténu , není to náhodou cesta i pro nás. Rozhodl jsem se to prakticky ověřit.<br>
+Byl jsem zvědavý na objev z večera. Pokud telefony opravdu používají osmičkovou anténu, není to náhodou cesta i pro nás. Rozhodl jsem se to prakticky ověřit.<br>
 Na láhev Bernarda jsem namotal dvě cetky a jednu zosmil. Vypadalo to zajímavě. A bylo to úplně k ničemu. V nulový pozici se pole vyzkratovalo. Geometricky to dávalo smysl.<br>
 
 <a href="../images/2024_december/20_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/20_1.jpg"></a>
@@ -304,7 +304,7 @@ Zvládl jsem se i oholit. A zalít své i Sářiny květiny. Sbalit se a dojet k
 
 <a href="../images/2024_december/23_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/23_2.jpg"></a>
 
-Verunka byla z rýmy dost hotová. Uložila mě na gauč a sla spát. Já ještě vyplnil pár lekcí v duolingu , ale před desátou už jsem se snažil usnout.<br>
+Verunka byla z rýmy dost hotová. Uložila mě na gauč a sla spát. Já ještě vyplnil pár lekcí v duolingu, ale před desátou už jsem se snažil usnout.<br>
 
 <a href="../images/2024_december/23_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/23_1.jpg"></a>
 
@@ -312,7 +312,7 @@ Verunka byla z rýmy dost hotová. Uložila mě na gauč a sla spát. Já ješt�
 ### 24.12. Limoncello & Panettone
 
 Moc jsem toho na gauči nenaspal. Párkrát mi vzbudila Verunka, párkrát fakt že zítra letíte.<br>
-V půl šestý se daly věci do pohybu. Protažení, zuby , snídaně. Na metro jsme trochu popobíhali, ale jinak jsme všechno stíhali v poho.<br>
+V půl šestý se daly věci do pohybu. Protažení, zuby, snídaně. Na metro jsme trochu popobíhali, ale jinak jsme všechno stíhali v poho.<br>
 Dělal jsem blbý vtipy. Verunce pořád nebylo hej, ale vypadala líp. Možná za to mohl makeup.<br>
 Vyhrál jsem místo u okénka. Byl to můj padesátá let. Během toho prvního mi Ondra říkal,že koukat na mraky share mě omrzí.<br>
 Totálně se mýlil.<br>
@@ -352,17 +352,17 @@ Nahráli jsme na diktafon dění dne a usnuli v objetí.<br>
 
 Tentokrát jsme neustávali v 5:30. Spíš po devátý. A po společný sprše jsme se ještě vrátili do postele. Balo třeba vyřešit co dál.<br>
 Verona.. A cestou zastávka v Padově. Před jedenáctou jsme poklidili, přesunuli se do kuchyňky a posnídali Panettone. Byla to sladší vánočka. Dali jsme si k tomu čaj a turka.<br>
-Nádraží bylo hned za hotelem. Verunka na přepážce Vykomunikovala , že když si koupíme standardní lístek, můžeme na dvě hodiny vystoupit a pak pokračovat dalším vlakem.<br>
+Nádraží bylo hned za hotelem. Verunka na přepážce Vykomunikovala, že když si koupíme standardní lístek, můžeme na dvě hodiny vystoupit a pak pokračovat dalším vlakem.<br>
 Naše zastávka byla Padova. Věděl jsem o ní kulový, ale mělo tam být hezký náměstí.<br>
 Za okny vlaku byla nehezká rovina a za ní moc hezké alpy. Ve vlaku jsem měl co chvíli zvlaštní deja vu. Byl to ten samej typ, co nás s Miskou vezl z Barcelony do . Padova naštěstí přišla překvapivě rychle. Na mapě jsme zjistili, že do centra se dostaneme tak, že půjdem pořád rovně po ulici s tramvají.<br>
 Verunce se ale udělalo blbě. Museli jsme se zastavit v parčíku se stínem. Šlo na ní PMS a přišlo tvrdě. Já si chvíli psal, chvíli jedl panetonne, ale převážněJsem řešil, kdo mi z revolutky ukradl 12 a 13€ a jak. Hlavně to jak. Ale vyřešil jsem kulový. Na to abych mohl platit pres Apple Pay jsem potřeboval face id a tomu jsem věřil. Blokovat kartu mi nedávalo smysl.<br>
-Po hodině se Verunka cítila dost ready na cestu na náměstí. Byl to ješte kus cesty. Nikde ani noha, všechno zavřeny! Den po štědrým dnu asi nikdo nikam nechvátá. Náměstí ale bylo pěkný. U kašny uprostřed jsme si dali sváču , pak obešli náměstí a vydali se trochu jinou cestou zpátky. Kolem prázdného tržisté, přes další prázdné náměstí a pak kolem našeho parčíku zpátky.<br>
+Po hodině se Verunka cítila dost ready na cestu na náměstí. Byl to ješte kus cesty. Nikde ani noha, všechno zavřeny! Den po štědrým dnu asi nikdo nikam nechvátá. Náměstí ale bylo pěkný. U kašny uprostřed jsme si dali sváču, pak obešli náměstí a vydali se trochu jinou cestou zpátky. Kolem prázdného tržisté, přes další prázdné náměstí a pak kolem našeho parčíku zpátky.<br>
 
 <a href="../images/2024_december/25_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_1.jpg"></a>
 
 Do Verony to trvalo dýl. Při větším zkoumání mapy jsem objevil, že sice bydlíme jen kousek za nádražím, ale nádraží je větší než celé centrum Verony. Rozhodli jsme se jít napřed do centra i s věcmi.<br>
 Prostor před nádražím byl divnej. Vypadalo to tam jak ve scéně z 28 dní poté. Tu a tam černej podivín. Armádní džíp a ticho. Až asi o 3 bloky dál jsem začal mít pocit, že jsme tam, kde jsme chtěli být.<br>
-Po dalších dvou blocích jsme najednou byli aKolosea. Žádný atrapy. Kolosea plných rozměrů jako v Římě. A lidí bylo najednou spousta. Včetně pána jenž dav obohacoval o písmo svaté svým hlučným hlasem. Jediný, kdo ho poslouchal, byla Verunka. Ne kvůli písmu , nýbrž kvůli Italštině.<br>
+Po dalších dvou blocích jsme najednou byli aKolosea. Žádný atrapy. Kolosea plných rozměrů jako v Římě. A lidí bylo najednou spousta. Včetně pána jenž dav obohacoval o písmo svaté svým hlučným hlasem. Jediný, kdo ho poslouchal, byla Verunka. Ne kvůli písmu, nýbrž kvůli Italštině.<br>
 
 <a href="../images/2024_december/25_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_2.jpg"></a>
 
@@ -370,7 +370,7 @@ Mapa slibovala výhled, ale Verunky pohled kudlu v zádech. Nebo bříšku. Tě�
 
 <a href="../images/2024_december/25_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/25_3.jpg"></a>
 
-Bufik pod schody sice vypadal sympaticky, aleInternet se shodoval na tom , že ohřívají v mikrovlnce ty nejhorší předdělaný jídla ze supermarketu. Další restaurace, která působila legit byla zavřená. Nakonec jsme měli pizzu a kolosea. Margarita byla vlastně docela v poho. Akorat za servis si řeklo asi 4€.<br>
+Bufik pod schody sice vypadal sympaticky, aleInternet se shodoval na tom, že ohřívají v mikrovlnce ty nejhorší předdělaný jídla ze supermarketu. Další restaurace, která působila legit byla zavřená. Nakonec jsme měli pizzu a kolosea. Margarita byla vlastně docela v poho. Akorat za servis si řeklo asi 4€.<br>
 Během toho, kdy Veru jedla jsem objevil jak daleko vlastně naše ubytování je. Hodinu pěšky. Kolem kolejí a velké silnice. MHD nejezdila. Čtvrť byla plná individuí. Fakt jsem to úplně nezvládl.<br>
 Verunka a vymyslela krizový plán. Kdyby nás někdo šel přepadnout, vytáhne láhev limoncella z boční kapsy mého batohu a přetáhne ho s ní přes hlavu.<br>
 Bála se asi míň než já. Je to holka z Ostravy. Ani výtah do třináctého patra starého panelového domu jí nevyděsil. Ani byt s velkými prázdnými chodbami a poblikávajícím světlem. Ani koupelna ve které voda spíš kapala než tekla.<br>
@@ -395,7 +395,7 @@ Ještě asi hodinu jsme sedli na břehu jezera než přišel stín a hlad.<br>
 Pěšky jsme vyrazili z poloostrova ven. Na úzké silnici proudila auta, po chodníku mrtě lidí. Na mapě jsem našel restauraci /bufet se zapečenými plackami. Měla otevřeno a nešlápli jsme vedle. Jak mozzarelová, tak veganská volba byla supr.<br>
 Před plánovaným odjezdem autobusu jsme stihli dokonce nakoupit v penny. Na zastávku jsme pak museli trochu popoběhnout, naštěstí podél silnice, takže kdyby nám autobus přijížděl, viděli bychom ho.<br>
 Neviděli jsme ho. Ani ten další. Autobusy prostě nejezdily. Šli jsme stopovat. Moderně, řehořem.<br>
-Úspěšně. Vzal nás milý pár. Teda napřed nám zastavil. Ferari aby nám řidič ukázal, že se dovnitř nevejdeme. Ale pair po nem byl super. Ital, který pracoval několik let ve skotsku a ukrajinka mluvili italsky. Jeli do rodné vesnice (která byla docela velké místo před Veronou) a když jsme zkejsli v koloně, dohodli jsme, že nás vezmou tam a ukážou nám to tam.Verunka nadšeně konverzovala o životě ve skotsku, o panettonne a důvodech k práci v zahraničí a vracení se domů.<br>
+Úspěšně. Vzal nás milý pár. Teda napřed nám zastavilo Ferrari, aby nám řidič ukázal, že se dovnitř nevejdeme. Ale pair po nem byl super. Ital, který pracoval několik let ve skotsku a ukrajinka mluvili italsky. Jeli do rodné vesnice (která byla docela velké místo před Veronou) a když jsme zkejsli v koloně, dohodli jsme, že nás vezmou tam a ukážou nám to tam.Verunka nadšeně konverzovala o životě ve skotsku, o panettonne a důvodech k práci v zahraničí a vracení se domů.<br>
 Villafranca di Verena zrovna slavila vánoce v plném proudu. Když nás vyhodili kousek od jejich domu, šli jsme se podívat do hradu a dát si svařák. na trh u kluziště.<br>
 
 <a href="../images/2024_december/26_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/26_3.jpg"></a>
@@ -403,35 +403,48 @@ Villafranca di Verena zrovna slavila vánoce v plném proudu. Když nás vyhodil
 Asi po hodině jsme vyrazili na vlak. Byla to jen chvilka. A MHD tentokrát jela a tak cesta na naše sídliště byla úplně v pohodě.<br>
 K večeři jsme si uvařili tortelliny a po jídle usnuli úplně vyřízení.<br>
 
-### 27.12.
+### 27.12. Bez otočky na býčích koulích
 
+Budily mě záda. Tak jak jsem měl pocit v Benátkách, že je to lepší, tak se to ozývalo víc ve Veroně.<br>
+Byl jsem na tom ale lip než Verunka. To ráno zvracela. Ptal jsem se jestli to není perioda. Mé soukromé výpočty říkaly, že by to tak sedělo. Prý se to ale projevovalo jinak.<br>
+Když jí to trochu přešlo, sbalili jsme saky paky, nechali v krabičce městskou daň a vyrazili na autobus.<br>
 
 <a href="../images/2024_december/27_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/27_1.jpg"></a>
 
+Cestu už jsme měli zmáknutou. Před nádražím jsem si jestě nafotil Verona bike a pak jsme podruhé nastoupili do vlaku směrem Miláno. Tentokát s plánem opravdu dojet do Milána.<br>
+Na Milano Centro to trvalo asi hodinu. Ve vlaku už bylo Veru trochu líp a dostala do sebe něco k snídani.<br>
+Nádraží samotné bylo zkurveně velké. Lepší slovo na to není. Obří kamenná stavba sloužící víc chloubě než účelu. Před ní silnice s auty a tramvajemi. Pod ní metro.<br>
+V íčku si Verunka sehnala mapu, já si vyfotil mrakodrap, ebike a dospěli jsme k názoru, že koupíme lístky na metro. Jenže automat nám dal jen jeden místo dvou a nikdo nebyl ochotný nám pomoct situaci vyřešit. Museli jsme koupit lístek druhý.<br>
+Podzemním vláčkem jsme dojeli na piazza del duomo. Tolik lidí namačkaných v otevřeném prostoru jsem už dlouho neviděl. Duomo mělo obří frontu a za návštěvu nám to nestálo. Radši jsme šli do obchodního centra, kde se lidi na patě točí býkovi na koulích. Lidí tam bylo ještě víc. Obchody byly pro lidi z úplně jiné vrstvy než my a duch toho místa mě rychle vyhnal ven. Před divadlo La Scala. Překvapivě obyčejnou budovu na Vánoce zavřenou.<br>
+Kousek od nás byl Apple Store. Byl jsem zvědavý, jak bude obchod jablečných produktů vypadat a tak pompézním městě jako je Milán. Měl vodopád. Vedoucí zvenčí do podzemí, kde byl otevřený prostor s telefony, tablety a další elektronikou z Cupertina. Verunka vyrazila hledat záchod a já zkoušel ANC a AirPod Max.<br>
 
 <a href="../images/2024_december/27_2.jpg" target="_blank"><img src="../images/thumbnails/2024_december/27_2.jpg"></a>
 
+Sešli jsme se na sezení nad obchodem a rozhodli se, že pojedeme omrknout pevnost, park a rozhlednu. Přejeli jsme pak stanic nehezkou tramvají a pak došli do dokonale čtvercového hradu. Zas tak moc k vidění v něm nebylo ale pak působil přívětivěji. Než měla kasu přímo pod sebou a rezervační systém probíhal pomocí čísla naškrábaného rukou na trhacím barevném papírku.<br>
+Měli jsme asi hodinu a tak jsme proste část parku, vyfotili se u vítězného oblouku a koupili canelli v pekárně.<br>
+Než jsme se vrátili k věži, zašlo slunce. Nahoru se jelo výtahem, docela rychle a zpátky se muselo sjet se stejnou partou po asi 10-ti minutách. Výhled byl fajn. Obzvlášť svítící centrum a oblouk dole vypadaly pěkně. Ale lepší jsou výhledy na město, které člověk prochodil skrz naskrz.<br>
+Našli jsme zastávku tramvaje. Neodnesli si hezký hrníčky z kavárny. Veru se dokonce ptala. A dojeli na konečnou. Bydleli jsme u hřbitova. V bytečku za bránou jenž nešla otevřít bez patřičného gryfu. Měl mít vařič, ale opak byl pravdou. Varná deska chybela. Zato tam byl cítit plyn. Tortelliny s pestem jsme nakonec připravili v mikrovlnce.<br>
 
 <a href="../images/2024_december/27_3.jpg" target="_blank"><img src="../images/thumbnails/2024_december/27_3.jpg"></a>
 
 
 ### 28.12. Finále
 
-Asi tak ve dvě ráno nás probudil zvonek. Poprvé jsme si nebyli jistí, zda to opravdu znamená, že na nás někdo zvenku zvoní , ale když se to stalo podruhé! Verunka rázně zakročila. Oblékla si bundu a vyběhla ven to vyřešit.<br>
+Asi tak ve dvě ráno nás probudil zvonek. Poprvé jsme si nebyli jistí, zda to opravdu znamená, že na nás někdo zvenku zvoní, ale když se to stalo podruhé! Verunka rázně zakročila. Oblékla si bundu a vyběhla ven to vyřešit.<br>
 Nějaký pár nepochopil jak otevřít krabičku s klíči.<br>
 Ještě asi 2. minut rachtali a narušovali mé pokusy o usnutí.<br>
 Ráno jsme vstali na čas. Casa Milano mě štvala dál.Snídaně neexistovala. Kapsle do kávovaru také ne. Vyčarovali jsme jablko, čaj a filtr.<br>
 Na autobus jsme vyrazili ve 8:22. Přesně dle google map. A málem nám ten autobus ujel. Stanice před hřbitovem tam nějak nebyla. Ale doběhli jsme na další<br>
 Na druhý pokus jsem po vystoupení z autobusu vybral správný směr a po asi dvaceti minutách chůze jsme dorazili na nehezké autobusové nádraží.<br>
-Flix měl jet z nástupiště B po asi deseti minutách. Ve dvanácti uncích jsme si pořídili pečivo a nasedli do zeleného autobusu. Jel přes letiště. Kam stál 12€. Do Bergama ale stál 4,49€. Verunku napadlo zda to tak je i opačně, že bychom ušetřili za cestu na letisko a bylo. Ale MHD v Bergamu byla levnější.<br>
-Během jízdy jsme nadepsali pohledy a oznámkovali je. Byla to docela fuška v jedoucím autobuse. Taky mi došlo, že pohledy a známky stály 12 a 15€. Těch zpropadených 12 a 15 €, které mi nešly do hlavy. Zasmáli jsme se tomu, jak jsme oba debilní.<br>
-Kromě bezdomovci obsazeného nádraží bylo Bergamo moc pěkné. Místo, kde začínaly Alpy. Šli jsme přes tržiště do kopce k lanovce. Potkali Poštu a Verunka tam domluvila , že nám je rovnou pošlou. I přesto, že měly známku z nějaké Friend Post sítě. Pán na ně nasázel razítka a bylo.<br>
+Flix měl jet z nástupiště B po asi deseti minutách. Ve dvanácti uncích jsme si pořídili pečivo a nasedli do zeleného autobusu. Jel přes letiště, kam stál 12€. Do Bergama ale stál 4,49€. Verunku napadlo, zda to tak je i opačně, že bychom ušetřili za cestu na letisko. Bylo. Ale MHD v Bergamu byla levnější.<br>
+Během jízdy jsme nadepsali pohledy a oznámkovali je. Byla to docela fuška v jedoucím autobuse. Taky mi došlo, že pohledy a známky stály 12 a 15 €. Těch zpropadených 12 a 15 €, které mi nešly do hlavy. Zasmáli jsme se tomu, jak jsme oba debilní.<br>
+Kromě bezdomovci obsazeného nádraží bylo Bergamo moc pěkné město, kde začínaly Alpy. Šli jsme přes tržiště do kopce k lanovce. Cestou jsme potkali Poštu a Verunka tam domluvila, že nám je rovnou pošlou. I přesto, že měly známku z nějaké Friend Post sítě. Pán na ně nasázel razítka a bylo.<br>
 Na lanovku byla fronta. Delší než by trvalo vyjít to pěšky. Bylo krásné a schody byly masážní. (Čti, z malých oblázků, co píchaly do nohou.). Těsně před koncem jsme si dali pauzu na pečivo s pestem, zbytek papriky a rajčat a na vydýchání se.<br>
 
 <a href="../images/2024_december/28_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/28_1.jpg"></a>
 
 Citta Alta bylo pěkné. Hrál tam houslista, kterému jsem dal 2€. A varhaník, který nadchl Verunku.<br>
-Vařili tam polentu. Veganka Veru si dala sýrovou polenta s trhaným vepřovým. Já zvolil houbovou variantu. Houby nám oběma chutnaly víc. Nejlepší to ale bylo smíchaný.<br>
+Vařili tam polentu. Veganka Veru si dala sýrovou polentu s trhaným vepřovým. Já zvolil houbovou variantu. Houby nám oběma chutnaly víc. Nejlepší to ale bylo smíchaný.<br>
 Jídlo jsme si odnesli na vyhlídku. Cestou jsme na něj nalákali hned několik lidí. V malém parčíku s Velkým výhledem jsme to do sebe nacpali všechno i přes to, že už jsme oba byli docela plní.<br>
 Možná proto si Verunka dala na dece 20. Bylo fakt fantasticky teplo.<br>
 
@@ -445,7 +458,7 @@ Letuška byla moc pěkná blond Češka. Prohodili jsme pár vět, ale byla tako
 Zpoždění v Bergamu nebylo poslední ten den. Když jsme Čekali v autobusech na odvoz, přijeli policajti a někoho hledali.<br>
 Dva Italové v autobuse neztráceli čas, otevřeli oba Tinder a začali swajpovat o 106.<br>
 Po asi půlhodině čekání se věci konečně daly do pohybu a my prošli letištěm. V Bille jsme pořídili vánočku na snídani a během cesty si povídali mojí extrémně lámanou Španělštinou a dělali si srandu úplně ze všeho.<br>
-Akorát nahrát dění Jsme večer nějak nestihli. To byla škoda. Protože to byla set sakra skvělá dovolená.<br>
+Akorát nahrát dění na diktafon jsme večer nějak nestihli. To byla škoda. Protože to byla set sakra skvělá dovolená.<br>
 
 ### 29.12. Verunka měří
 
@@ -457,20 +470,20 @@ Vztah bude dost práce. Ale tasil jsem se na to, když jsme šli nakupovat. Kdy�
 ### 30.12. Přeci jen nakažen
 
 Už po probuzení jsem to trochu cítil, ale po snídani se to rozjelo naplno. Ucpaný dutiny. Verunku to trápilo na dovolené, mě po ní.<br>
-Bylo to extrémně nepraktický. Zrovna jsem domluvil, že k Ondrovi a Rébě přijde na Silvestra Karel s Týnkou. Navzdory tomu , že Rebeka se s nimi vlastně moc nemusí.<br>
+Bylo to extrémně nepraktický. Zrovna jsem domluvil, že k Ondrovi a Rébě přijde na Silvestra Karel s Týnkou. Navzdory tomu, že Rebeka se s nimi vlastně moc nemusí.<br>
 Rozhodl jsem se bojovat s nemocí aktivně. Postel, Čaj, Česnekový vývar, kurkumo-zázvorové mléko a antibiotika. Dostal jsem je na zuby, ale leták rikal, že na zánět horních cest.<br>
 Během dopoledne jsem dokoukal LOST. Ten sentimentální konec mi tentokrát přišel skvělej. Asi jsem o dost měkčí než před deseti lety.<br>
 
 ### 31.12. Na střechu, do mlhy a do nového roku
 
-Někdy ve čtyři ráno přišlo zlepšení. Dal jsem si iselgin další čaj a usnul na šest hodin. Stresogram opadl z "jasná krize" do „docela v pohodě".<br>
-Stejně jsem si nebyl jistej svou účastí na večerním srazu u Reky a Ondry. Dál jsem dopoval česnek, zázvor a vývar.<br>
-Sraz byl na Ctvrtou. Heenul jsem to. Potkal jsem se s Verunkou na půl cesty a na Břevnov jsme vyjeli tramvají. Nováčkovic přijeli autem i s Pátou a protože pátá se válel na zemi , všichni se postupně přesunuli na zem za ním.<br>
+Někdy ve čtyři ráno přišlo zlepšení. Dal jsem si ibalgin další čaj a usnul na šest hodin. Stresogram opadl z "jasná krize" do „docela v pohodě".<br>
+Stejně jsem si nebyl jistej svou účastí na večerním srazu u Rebeky a Ondry. Dál jsem dopoval česnek, zázvor a vývar.<br>
+Sraz byl na čtvrtou. Hecnul jsem to. Potkal jsem se s Verunkou na půl cesty a na Břevnov jsme vyjeli tramvají. Nováčkovic přijeli autem i s Pátou a protože pátá se válel na zemi, všichni se postupně přesunuli na zem za ním.<br>
 Poslední dorazil Karel s Týnou. Týna měla hodně fancy Šaty na takovou událost. Ale Týna je vždycky příliš dobře oblečená. Stejně jako já vždycky příliš málo.<br>
 Poslouchali jsme hudbu, povídali si a jedli. Taky jsme šli s Páťou ven. Vydedukoval jsem že ho štvou lampy. Když jsem se pak stal vozičem kočárku, dokázal jsem ho narozdíl od Filipa uspat díky vyhýbání se kuželům světla. Nováčkovic se šli nahoru rozloučit a když se vrátili, nalodili jsme Páťu do jejich zlatého korábu a popřáli šťastný nový rok. Měl jsem radost, že vydržel tak dlouho.<br>
-Potom jsme hrát. Aktivity. Kluci proti holkám. Vlastně jsem to hrálpoprvé. Hádat mi šlo dobře, popisovat nic moc. Byla to docela plichta. Verunka v jednom kole holkám zařídila spoustu bodů.<br>
+Potom jsme hrát. Aktivity. Kluci proti holkám. Vlastně jsem to hrál poprvé. Hádat mi šlo dobře, popisovat nic moc. Byla to docela plichta. Verunka v jednom kole holkám zařídila spoustu bodů.<br>
 Půlnoc nám hru přerušila. Vzali jsme kabáty, klíče, šumivá vína a vylezli na střechu, abychom viděli ohnostroj had Prahou.<br>
-Chyba lávky. Byla mlha. Videt byly jen ty v nejbližších ulicích. Co už. Karel nám aspoň udelal fajn párovýfotky.<br>
+Chyba lávky. Byla mlha. Videt byly jen ty v nejbližších ulicích. Co už. Karel nám aspoň udelal fajn párový fotky.<br>
 Aktivity jsme nedohrávali. Byla to hra z minulýho roku. V tomhle roce jsme museli vyřešit jak dojet domů. K Veru na Střížkov. Prvního nás čekalo balení.<br>
 
 <a href="../images/2024_december/31_1.jpg" target="_blank"><img src="../images/thumbnails/2024_december/31_1.jpg"></a>
