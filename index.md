@@ -30,5 +30,5 @@ Jaro plné slz, Franz III indigový, Léto bez zubů, Brontíci, Řehoř, Verunk
 
 ## [2025](2025.md)
 
-Pospolu, na běžky, do Ostravy, do Paříže, Veru do Rumunska, zámek s terminálem, Orlický hory
+Pospolu, na běžky, do Ostravy, do Paříže, Veru do Rumunska, zámek s terminálem, Orlický hory, Málaga, Irsko & Sicílie a z Vršovic do Letňan
 

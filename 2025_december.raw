@@ -15,14 +15,19 @@
 - [](#-3)
 - [](#-4)
 - [](#-5)
-- [](#-6)
+- [17.12. Zpět do vývoje](#1712-zpět-do-vývoje)
 - [18.12. Issues](#1812-issues)
-- [](#-7)
+- [19.12. Nabíjím!](#1912-nabíjím)
 - [20.12. Ninja monster trucky!](#2012-ninja-monster-trucky)
 - [21.12. Otráveni pupečníkem?](#2112-otráveni-pupečníkem)
-- [](#-8)
+- [22.12 Mít vanu není zlý.](#2212-mít-vanu-není-zlý)
 - [23.12. She's on fire!](#2312-shes-on-fire)
+- [](#-6)
+- [](#-7)
+- [](#-8)
 - [](#-9)
+- [28.12. Kamenné zboží možná](#2812-kamenné-zboží-možná)
+- [29.12. „Produktivní" den](#2912-produktivní-den)
 - [](#-10)
 - [](#-11)
 
@@ -211,8 +216,17 @@ Chtěl jsem jít obejmout Verunku. Ale nechtel jsem jí nakazit. Co když jsem m
 ![image](16_3.jpg)
 ![image](16_4.jpg)
 
-###
+### 17.12. Zpět do vývoje
 
+Ráno jsem v půl sedmé začal jógou. Protažený jsem si namazal chleba a k snídani si pustil Matta Diella. Hejtoval trend barevných lahví na vodu. Američani totiž z dobré věci udelali konsumerní boj o pochytání všech. Dolů jsem jel autobusem a z Vysočanský pěšky.
+
+Vláda už byl v kanclu. Pomalu mě uváděl do toho, co všechno jsem za týden a půl absence minul. Bylo toho dost. Nikdo nestíhal nic. Nevypadalo to, že bychom si mohli dovolit mít vánoce.
+
+Jako první jsem se pustil do oprav neduhů na novém prototypu HLP. Vlastně byl jen otočený driver motoru na zamykání. Nahrání nové binatky byl ale problém . Debugger zůstal doma. Rozchodil jsem ale ten z nuclea. A použil ho i při rozcházení kódu v CBN04a.
+
+Napsat si testy bylo fajn. Rád bych napsal, půl práce hotový, ale realita byla složitější. Hardware prostě není stejnej jako simulace ať se člověk snaží, jak se snaží. Z ila mi přišel ACK, ale pak se zasekly hodiny na přesné vteřinu. Zabrousil jsem do Clock stretching, což BQ čip umí, ale nakonec za to mohl i2c driver. Respektive NVIC.
+
+Měl v commonu špatnou adresu pro F0 procesory. 4 roky. Nechápal jsem, jak to bylo možný. Bez NVICu nefunguje v podstatě nic. Ke konci dne jsem ale četl identity registr. Úspěch!
 
 ### 18.12. Issues
 
@@ -233,11 +247,17 @@ Jízda nahoru je jiný kafe. 79 výškových metrů nezní jako moc. Vlastně je
 S Veru jsme večer založili repozitář na domácí issues. Pustila se do toho ve velkým. Možná byla chyba dát jí do ruky tak mocnej nástroj.
 
 
-###
+### 19.12. Nabíjím!
+
+Na odemykání dveří ve sklepě budu muset vymyslet lepší postup. Zabít několik minut ve sklepě je kontraproduktivní. Zato jízda mě začínala bavit. Testoval jsem rukavice. Prstovky na levé, palčáky vpravo. Po dvaceti minutách bylo jasný, že palčáky.
+
+Veru šla na krev, sono a pro holtery. Měla z ní být úplná sedmá z devíti. Já pokračoval ve zprovozňování CBN04a. Po asi devíti hodinách, obědě u Hubatků s Vláďou, Ivanem, Ríšou a Magdou a medovníku ke kávu jsem nabíjel. Byl to proof of concept. Ale fungovalo to!
 
 ![image](19_1.jpg)
-![image](19_2.jpg)
 
+Taky jsem nám vytiskl jmenovky do schránky a na dveře. Když jsem dojel do.mu, zažil jsem mírnou deziluzi, protože z okýnka na schránku vypadávaly. Ale s Verunkou jsme je společně přilepili oboustrankou. Vypadalo to opravdu pěkně.
+
+![image](19_2.jpg)
 
 ### 20.12. Ninja monster trucky!
 
@@ -281,15 +301,27 @@ V polovině cesty zpatky jsme se rozdělili. Veru vzala bus, já to došel. Vyš
 
 Vlastně jsem ještě navrtával garnýže, ale selhal jsem, protože makita překlad nezvládla vyvrtat.
 
-###
+### 22.12 Mít vanu není zlý.
+
+Ráno Verunka vyrazila vrátit Holtery. Já si vzal do postele deník a snažil se napsat něco málo z posledních dní. Začala zima a s ní zimní prázdniny. Byl čas dát věci do pořádku.
+
+Ne že bych poslední měsíc dělal cokoliv jiného. Otevřel jsem issues, dal prát povlečení a dal se do věšení garnýže. Našel jsem totiž osmičkové hmoždinky a veril jsem že osmičkovou díru dostatečné délky vyvrtám.
 
 ![image](22_1.jpg)
+
+Když se Veru vrátila, pomohla mi navěsit záclony a závěsy. U stěny byla mezera. Bylo to naprd, ale lepší než bez závěsů. Dali jsme si na oslavu lasagně. Nebo k obědu, záleží na úhlu pohledu.
+
+A pak společnou koupel. Ten rantl za vanou je prakticky. Daj se na něm dělat věci. Snad koupelnový dveře izolují hluk aspoň trochu.
+
+Na čtvrtou jsme vyrazili do Lidlu na předvánoční nákup. Brambory měli levné, ale zavařená zelenina do salátu úplně chyběla. Pro Petra jsme vzali oříšky, na smažení 2 celery, něco na pití a nechali tam nekřesťansky moc peněz. Rostla ve mně potřeba jíst celý leden čočku abychom trochu ušetřili.
+
+Nákup jsme donesli domů a vyrazili do Vršovic. Přes Vysočany, kde jsme ve Fénixu koupili známky na poklady a tkaničky do mých bot. Jeli jsme za Fikrovými. Pozvali nás na cukroví a svařák. Byla to moc milá návštěva. Sára nás u vlaku vyzvedla s horou a knírkem. Jarda připravil bezva humus a domácí Baylies. Povídali jsme si asi do půl jedenácté a na hlavák se vraceli es devítkou s jistou dávkou nostalgie.
 
 ![image](22_2.jpg)
 
 ### 23.12. She's on fire!
 
-Po probuzení jsem zamumlal něco ve smyslu „dal bych si mlehaný vajíčka" a na chvilku zas usnul. Když jsem pak došel do kuchyně, Verunka už z pánve sundavala krásné připravená vajíčka na talířky s nakrájeným chlebem. Udělala je opravdu moc dobře a na nové pánvi vůbec nic nepřipálila.
+Po probuzení jsem zamumlal něco ve smyslu „dal bych si míchaný vajíčka" a na chvilku zas usnul. Když jsem pak došel do kuchyně, Verunka už z pánve sundavala krásné připravená vajíčka na talířky s nakrájeným chlebem. Udělala je opravdu moc dobře a na nové pánvi vůbec nic nepřipálila.
 
 Bylo třeba poklidit, připravit oběd, dokoupit věci v Tescu, dát pohledy do schránky a vyzvednout mámu na zastávce. Dát byt do pucu šlo docela rychle, myčka je kamarád. Sehrán a před obchoďákem byla zrádná. Na zastávce lepší.
 
@@ -303,7 +335,7 @@ K obědu Verunka udělala čočkové kari s cizrnou. Plánovala i hlívovou pol�
 
 Pak jsme vyrazili do Betlémské kaple na výstavu Betlémů. 140 korun za hlavu byl podle mě přepal, ale mamka to tam ma ráda a Verunka byla příjemně překvapená. Taky si pustila 4 kuličky do kuličkopádu.
 
-Další položka na pořadu dne byla světýlka ve Žlutých lázních. Dva roky zpátky jsme dojeli na Smíchov čtyři a dvacatého, což bylo na prd, protože na Štědrý den byla světýlka vypnuta! Tentokrát jsme se podívali na otevíracídobu a šli najisto. Opět na Lihovar, protože kdo by platil za rozvícený světla. Byl jsem názoru, že z opačné strany stejně vypadají lépe. Modely ikonických budov z různých evropských měst se odrážely ve Vltavě a vypadalo to opravdu pěkné.
+Další položka na pořadu dne byla světýlka ve Žlutých lázních. Dva roky zpátky jsme dojeli na Smíchov čtyři a dvacátého, což bylo na prd, protože na Štědrý den byla světýlka vypnuta! Tentokrát jsme se podívali na otevírací dobu a šli najisto. Opět na Lihovar, protože kdo by platil za rozsvícený světla. Byl jsem názoru, že z opačné strany stejně vypadají lépe. Modely ikonických budov z různých evropských měst se odrážely ve Vltavě a vypadalo to opravdu pěkné.
 
 ![image](23_3.jpg)
 
@@ -319,8 +351,53 @@ Petr se od nás odpojil a my s mamkou jsme se vrátili do Letňan. V menším hr
 ![image](25_1.jpg)
 ![image](25_2.jpg)
 
+![image](25_3.jpg)
+
 ### 
 
+![image](26_1.jpg)
+
+###
+
+![image](27_1.jpg)
+![image](27_2.jpg)
+
+### 28.12. Kamenné zboží možná
+
+V 10:20 nám jel vlak. Po deváté jsme vstali, já odobalil peřiny a složil gauč a Verunka sbalila dárky. S babičkou jsme posnídali toasty ze zbytků pečiva a sýru a před desátou pro nás přijel Hynek a hodil nás na nádraží.
+![image](28_1.jpg)
+
+Verunka to nazvala Hynkování. Téměř chorobná potřeba všechno vyřešit. Důvod proč Jana není schopná udělat cokoliv sama. Nejen Jana. Markét taky. Jenže už od mala. Průser, kterej nikdo nevěděl jak vyřešit. Hynkování asi nebyl 100% důvod jejich potíží, ale byl primární.
+
+V ECčku nás paní pustila abychom si mohli mohli sednout vedle sebe. Veru si četla návod horkovzdušné trouby. Trocha jsem jí rozesmutnil, když jsem podotkl, že je to krabice plná teflonu a že z ní nechci jíst.
+
+Jeden z důvodů, proč nemám rád dárky. Nejen že jsou to věci . Jsou to věci, který nechci používat. Naše trouba má horkovzduch. Air fryer s teflonem prostě nedává smysl Jestli to ve mě něco způsobilo, tak potichu zbavit se rýžovaru.
+
+V Kolíně jsme měli pět a dvacet minut. V kavárně na nádraží jsme si dali americano a kapučíno a pak skočili na es dvojku. Ta jela dlouhých 40 minut, ale 12 z toho jsme prostáli v Nymburce. Kamenné zboží nás příjemně překvapilo. Lidé na zastávce byli milí a vtipní, náves byla pohledná a z vlaku to opravdu bylo, co by kamenem dohodil. No pun intended. I makléř byl fajn. Nechal nás vylézt na půdu staré kovárny ve které byla tmavá, ale obstojná dílna. Dům samotný byl maličký, ale docela chytře řešený. A hlavně okamžitě použitelný. Zateplený a vlastně moc milý. Zahrada veliká. Skoro patnáct set metrů. Jen na půdu doma jsme se nedostali, protože nebyl klíč. Makléř nám dal prospekt se záplavovou mapou, informacemi z katastru a dalšími důležitými informacemi.
+
+![image](28_2.jpg)
+
+Ve vlaku zpátky jsem nad tím seriózně uvažoval. Šlo by to. Šest milionů. Jenže v Letňanech jsem začínal být doma. A jel jsem tam spíš načerpat informace než jet nakupovat. Ale šlo by to.
+
+Místo 136 přijela 195. Svezli jsme se na opačnou stranu sídliště a dosti to pěšky. Doma Veru udělala knedlíčky v napařováku a pustili jsme si poslední Pluribus. Nic moc nového nepřinesl. Na konci cliffhanger. Pochopitelně.
+
+![image](28_3.jpg)
+
+Na velký počítač jsem nainstaloval FreeCad a zkusit si nakreslit dlaždice do metra. Deskovky co se Veru libila, ale nešla koupit. Před spaním jsme jeste-zvládli díl Stranger Things. Začínalo to být opravdu debilní. Ale byl to konec seriálu... už bylo třeba to dokoukat.
+
+### 29.12. „Produktivní" den
+
+Zdál se mi bezva sen. Jezdil jsem na Franzoví III po Jindřichově Hradci a zrovna jel dole v parku přes Nežárku, když jsem si uvědomil, že mi Vítek říkal, ať tam nejezdím, že tam chybí jedno zábradlí. Opravdu chybělo. Vykolejilo mě to tolik, že jsem sjel dolů, ale zvládl jsem se rukama chytit kraje mostu, nohama chytit kdo a doručkovat nakonec. Tam byli děcka a říkali, že řeka je dost hluboká, a Že je zábava skákat z mostu do vody. Zkusil jsem to a měli pravdu. Po chvíli pro mě přiletěl vrtulník se záchranáři. Asi ho poslala Veru, protože jsem nepřijel domů. Záchranáři ale byli v pohodě, a taky s námi šli skákat do řeky.
+
+Probudil jsem se až za deset deset. Podruhé toho dne. Předtím kvůli těžké hlavě ohledně domu v Kamenném Zboží. Fakt jsem uvažoval, že ho koupím. I když jsem řekl že spíš ne.
+
+Den nabral extrémně pomalé tempo. Z postele jsme se po dospělém hraní si dostali po jedenácté. Pro suroviny na snídani jsem šel do lidu před dvanáctou a tortilly s vajíčky jsme dojedli v jednu. Potom jsem zadělal na jogurt a trochu jsme se nepohodli ohledně víček na sklenice. Původní systém mi přišel lepší.
+
+Zbytek dne byl ještě línější. „Vařili jsme namazaný chleby, četli koukali na Stranger Things a hráli KCD.
+
+###
+
+###
 
 [>> Leden](2026_january.md)
 

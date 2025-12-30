@@ -464,14 +464,14 @@ Akorát nahrát dění na diktafon jsme večer nějak nestihli. To byla škoda. 
 
 Už u snídaně bylo patrný, že Verunce to v hlavě šrotuje. Že neděle nebude jen o nedělání, ale že se bude plánovat. On. ostatně rok se blížil ke konci a Verunka měla pravdu. Stěhování se blížilo raketovou rychlostí.<br>
 Během dne měřila metrem, kreslila si v Řehoři a dělala seznamy toho, co bude třeba udělat.<br>
-Zbavit se nějakých věcí určitě. Byli jsme dva a měli tři postele. Málo místa na věci nás obou a žádný místo na klavír. Nakonec to ale Verunka vymyslela dobře. Jen domluvit, načasovat a provést to všechno se zdálo Jako dost práce.<br>
-Vztah bude dost práce. Ale tasil jsem se na to, když jsme šli nakupovat. Když jsme dělali salát a řepnou pomazánka a když jsme měli sex asi potřetí ten den.<br>
+Zbavit se nějakých věcí určitě. Byli jsme dva a měli tři postele. Málo místa na věci nás obou a žádný místo na klavír. Nakonec to ale Verunka vymyslela dobře. Jen domluvit, načasovat a provést to všechno se zdálo jako dost práce.<br>
+Vztah bude dost práce. Ale těšil jsem se na to. Když jsme šli nakupovat. Když jsme dělali salát a řepnou pomazánka. A když jsme měli sex asi potřetí ten den.<br>
 
 ### 30.12. Přeci jen nakažen
 
 Už po probuzení jsem to trochu cítil, ale po snídani se to rozjelo naplno. Ucpaný dutiny. Verunku to trápilo na dovolené, mě po ní.<br>
 Bylo to extrémně nepraktický. Zrovna jsem domluvil, že k Ondrovi a Rébě přijde na Silvestra Karel s Týnkou. Navzdory tomu, že Rebeka se s nimi vlastně moc nemusí.<br>
-Rozhodl jsem se bojovat s nemocí aktivně. Postel, Čaj, Česnekový vývar, kurkumo-zázvorové mléko a antibiotika. Dostal jsem je na zuby, ale leták rikal, že na zánět horních cest.<br>
+Rozhodl jsem se bojovat s nemocí aktivně. Postel, Čaj, Česnekový vývar, kurkumo-zázvorové mléko a antibiotika. Dostal jsem je na zuby, ale leták říkal, že na zánět horních cest budou fungovat.<br>
 Během dopoledne jsem dokoukal LOST. Ten sentimentální konec mi tentokrát přišel skvělej. Asi jsem o dost měkčí než před deseti lety.<br>
 
 ### 31.12. Na střechu, do mlhy a do nového roku
