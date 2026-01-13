@@ -1,5 +1,3 @@
-# Adamův deník
-
 Původně cestovní, ale od roku 2022 i osobní deník sloužící jako má externí hlava a terapie psaním.
 
 ## [2018](2018.md)
@@ -34,4 +32,4 @@ Jaro plné slz, Franz III indigový, Léto bez zubů, Brontíci, Řehoř, Verunk
 
 Pospolu, na běžky, do Ostravy, do Paříže, Veru do Rumunska, zámek s terminálem, Orlický hory, Málaga, Irsko & Sicílie a z Vršovic do Letňan
 
-## [2026](2025.md)
+## [2026](2026.md)
