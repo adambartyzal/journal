@@ -29,7 +29,7 @@
 - [28.12. Kamenné zboží možná](#2812-kamenné-zboží-možná)
 - [29.12. „Produktivní" den](#2912-produktivní-den)
 - [](#-10)
-- [](#-11)
+- [31.12. S Nováčkovic bez pískovny](#3112-s-nováčkovic-bez-pískovny)
 
 
 ### 1.12. Všechlapy ne
@@ -377,7 +377,27 @@ Zbytek dne byl ještě línější. „Vařili jsme namazaný chleby, četli kou
 
 ###
 
+reklamace sluchátek<br>
+veru pekla linecký<br>
 
-###
+<a href="../images/2025_december/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/30_1.jpg"></a>
 
+
+### 31.12. S Nováčkovic bez pískovny
+
+Verunka na slavení konce roku připravila zeleninový koláč podle Pickup limes. Vypadal fantasticky, ale prý to bylo naposledy, kdy ho dělala. Nedivil jsem se. Naškrábat zeleninu na proužky a naskládat je do spirály musel být intenzivní oser. Ale vypadal fantasticky.<br>
+Ani nevím proč. Možná, že kvůli tomu, že Páťu ve Vršovicích bavilo hrát na klávesy, rozebral jsem Lukášovo piáno a rozhodl se opravit rozbitý konektor. Šroubů, pásek a prachu v něm bylo požehnaně, ale problém samotný byl primitivní. Prostě se Z FRY utrhla měď na které konektor držel. Odkryl jsem velký kus mědi vedle a připájel konektor pořádnou kapicí cínu.<br>
+Pomohlo to! A po sešroubování mi zbyly jen dva šroubky! Poslal jsem video Lukášovi, který ze mě měl srandu. Slovokapice prý neznal. Ono totiž asi neexistuje.<br>
+Nováčkovic nakonec ohlásili příjezd na pátou. Veru dělala pečený, obalovaný květák a já vrtal a věšel poličky. To nás oba vyhladovělo, takže květák s bramoverm jsme zblajzli před jejich příjezdem.<br>
+
+<a href="../images/2025_december/31_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/31_1.jpg"></a>
+
+Vyzvedl jsem je dole a do výtahu jsme se vešli všichni i s kočárem. Přivezli tuňákovou pomazánku. My měli řepovou a tak jsme společně mazali jednohubky a pili tradičního Bránu. Páťa byl zvědavej, ale moc hodnej.<br>
+Kecali jsme jsme, jedli pili a čas utíkal. Na Páťu nakonec přišla únava a Filip ho uložil. Usnul skoro hned. My rozložili výbušná koťátka a hráli až do půlnoci.<br>
+
+<a href="../images/2025_december/31_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/31_2.jpg"></a>
+
+Ohňostroje od nás byly vidět moc pěkně. A nebyly moc hlučný. Ideál. Páťa na ně vstal a příští usnutí už si nechal na doma. Byli bychom Nováčkovic ubytovali, ale chtěli dam. A po velké silnici to měli 12 minut.<br>
+Asi by se slušelo tu zhodnotit uplynulý rok, ale nemá smysl zacházet do detailů. Byl fantastickej. Díky mojí ženě, díky mým kamarádům, díky mý práci a díky tomu kusu světa, do kterýho jsem se narodil.<br>
+2025 nasadil vysokou laťku.<br>
 [>> Leden](2026_january.md)<br>

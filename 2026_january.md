@@ -18,6 +18,7 @@
 - [16.1. Hodně velká paráda](#161-hodně-velká-paráda)
 - [17.1. Jirkovy plány](#171-jirkovy-plány)
 - [18.1. Konec gastro výletu](#181-konec-gastro-výletu)
+- [19.1. Změny výchozích hodnot](#191-změny-výchozích-hodnot)
 
 
 ### 1.1. Krátký den
@@ -143,7 +144,7 @@ První prototyp vakuovacího zařízení pro lyofilizaci se ukázal jako nedosta
 Internetová fóra tvrdila, že od kbelské zastávky vlaku by směrem do letňan by měla být místními běžkaři protažená stopa. Rozhodl jsem se dojet tam vlakem z Vysočan po sestavení druhé verze lyofilizátoru.<br>
 Tisk dopadl dobře. Pumpička držela podtlak obstojně. Ventil byl pořád nic moc, ale i v něm došlo ke zlepšení. Dal jsem ještě tisknout prototyp metra a vyrazil s běžkami na metro na Rajskou.<br>
 S3 mi ujela. Moc jsem to nechápal. Byl jsem na přechodu pře Chlumeckou včas a nevidel žádný vlak. Ale lidi tam nebyli, takže musel být v trapu. Za 25 minut má jet historický vlak KŽC do Čakovic. Nabral ale 20 minut zpoždění, přijel na druhé nástupiště a ujel mi když jsem přebíhal.<br>
-Nasralo mě to. Hodně. Nakonec jsem se rozhodl doběžkovat to celý. Nechtel jsem tam mrznout už ani minutu. Prošel jsem asi půl kilometru z nádraží na sever a nasadil béžky. Překvapivě jsem nebyl první, kdo z kyjí vyběhl. Na chodníku byla stopa. A na poli přede mnou jelo hned několik lidí. Přes dálnici a kolem letiště.<br>
+Nasralo mě to. Hodně. Nakonec jsem se rozhodl doběžkovat to celý. Nechtel jsem tam mrznout už ani minutu. Prošel jsem asi půl kilometru z nádraží na sever a nasadil běžky. Překvapivě jsem nebyl první, kdo z kyjí vyběhl. Na chodníku byla stopa. A na poli přede mnou jelo hned několik lidí. Přes dálnici a kolem letiště.<br>
 
 <a href="../images/2026_january/10_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/10_1.jpg"></a>
 
@@ -163,7 +164,7 @@ V 10 jsme měli sraz s výletníky před výstavištěm. Přijeli jsme asi posle
 Naše skupina se sestávala z nás, Fikrovic Nováčkovic, Davida s Týnou, Zvířáka s Elizou, Adél a Ondrou a Rébou. Ti nám vyprávěli o Vietnamu, Zvířák zase o Hawai. Počasí vyšlo. Fakt extrémně.<br>
 Ven vyšla celá Praha. Potkali jsme Marka. Měl s sebou ženu,kočárek a v něm půl roční děcko.<br>
 Filip nesl Patrika v nosítku. Na Podbabě se pronesl a tak Nováčkovic s Davidem a Týnou sedli na vlak do Roztok a do Únětic došli zkratkou. Zbytek vyšel na Babu, do Lysolají a na Kozí skálu. Šíma byl druhý na koho to bylo dost. Od Suchdola se nesl v batohu.<br>
-V Lasíků měla Veru velký oči. Koupila 5 koláčú, pivo a svařák. Pro nás oba samzřejmé. Na dlouhé sezení venku to ale moc nebylo. Po asi hoďce jsme vyrazili do Roztok na vlak. Do Bubnů, kde jsme se rozloučili s Fikrovic a Zvířákovic.<br>
+V Lasíků měla Veru velký oči. Koupila 5 koláčú, pivo a svařák. Pro nás oba samozřejmě. Na dlouhé sezení venku to ale moc nebylo. Po asi hoďce jsme vyrazili do Roztok na vlak. Do Bubnů, kde jsme se rozloučili s Fikrovic a Zvířákovic.<br>
 
 <a href="../images/2026_january/11_2.jpg" target="_blank"><img src="../images/thumbnails/2026_january/11_2.jpg"></a>
 
@@ -224,7 +225,7 @@ Před jídlem jsme hráli Skye, po něm Terra Mysticu. Až do půl jedný. Vojta
 
 Vstávali jsme ve stejném pořadí. Anička tentokrát plánovala procházku místo běžek. Takže na jízdu jsme zbývali já, Jirka a Vláďa. Dostali jsme na ní auto a po snídani jsme vyrazili Na Jizerky behem toho , co Vojta začínal pracovní call v kuchyni.<br>
 Během stoupání se ukázalo, že je inverze. Nad Kořenovem mlha pominula a vykouklo sluníčko. Ještě o pár metrů výš bylo azuro. Vypadalo to na podstatně hezčí den než čtvrtek. To si mysleli i desítky dalších lidí a parkoviště na Jezerce se plnilo o sto šest.<br>
-Na startu se váleli nějací idioti, kteří na běžkách stáli buď prve nebo meli dost upito. Naštěstí jsme je nechali za sebou a hned na rozjezd si dali mírné klesání. Dal magistrála nabízel, sinusovku. Výstupy jen tak akorát, sjezdů spousta. Fotil jsem aužíval si krásu hor. Byla to fakt bomba. Obzvlášť po docela intenzivním sjezdu k jezírku Černá Smědá.<br>
+Na startu se váleli nějací idioti, kteří na běžkách stáli buď prve nebo meli dost upito. Naštěstí jsme je nechali za sebou a hned na rozjezd si dali mírné klesání. Dal magistrála nabízel, sinusovku. Výstupy jen tak akorát, sjezdů spousta. Fotil jsem a užíval si krásu hor. Byla to fakt bomba. Obzvlášť po docela intenzivním sjezdu k jezírku Černá Smědá.<br>
 
 <a href="../images/2026_january/16_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/16_1.jpg"></a>
 
@@ -235,14 +236,14 @@ V Kořenově jsme sjížděli autem zpátky do mraků. Vojta s Aničkou prý byl
 <a href="../images/2026_january/16_2.jpg" target="_blank"><img src="../images/thumbnails/2026_january/16_2.jpg"></a>
 
 Verunka jela vlakem z Prahy. Ten před Tanvaldem nabral zpoždění a ujel jí autobus. Ivan s Magdou naštěstí jeli autem a nabrali jí. Taky přivezli půl Caravelly dřeva, hromadu jídla a dobrot. Ivan se těšil na Nemesis. Pustili jsme se do chilli con Carne, které uvařil Vláďa. Byl toho randál, ale bylo to extrémně dobrý.<br>
-Jirka s Magdou Nemesis hrát nechtěli. Já hrál společně s Verunkou. Náš úkol byl přežít jediný. Objevili jsme místnost s generátoremOpravili jsme ji lepící páskou, pustili jsme autodestrukci, došli do evakuační komory a emzáka, který nás šel ohrozit jsme zahnali hasičákem. Díky dobrému hodu kostkou jsme nastoupili do evakuační komory a měli splněno. Ostatní vedli urputný boj S dospekci, plameny, larvami a pokládali životy. Anička na konci ale překvapila, došla do evakuační komory se sedmi předměty, zkazila náš plán a vyhrála. Hodně dobrý konec.<br>
+Jirka s Magdou Nemesis hrát nechtěli. Já hrál společně s Verunkou. Náš úkol byl přežít jediný. Objevili jsme místnost s generátoremOpravili jsme ji lepící páskou, pustili jsme autodestrukci, došli do evakuační komory a emzáka, který nás šel ohrozit jsme zahnali hasičákem. Díky dobrému hodu kostkou jsme nastoupili do evakuační komory a měli splněno. Ostatní vedli urputný boj S dospělci, plameny, larvami a pokládali životy. Anička na konci ale překvapila, došla do evakuační komory se sedmi předměty, zkazila náš plán a vyhrála. Hodně dobrý konec.<br>
 
 <a href="../images/2026_january/16_3.jpg" target="_blank"><img src="../images/thumbnails/2026_january/16_3.jpg"></a>
 
 
 ### 17.1. Jirkovy plány
 
-Tentokrát jsem z postele nechvátal. Měl jsem v ní ženu a té se z tepla peřin nechtělo. Ale čekala nás snídaně. A jaká. Koláčky od Magdy, Štrůdly od Verunky a spousta dalších dobrot.<br>
+Tentokrát jsem z postele nechvátal. Měl jsem v ní ženu a té se z tepla peřin nechtělo. Ale čekala nás snídaně. A jaká. Koláčky od Magdy, štrůdly od Verunky a spousta dalších dobrot.<br>
 Ivan s Magdou zůstávali na chatě s Verunkou, Vojtou a Aničkou hrát deskovky. Já s Vláďou a Jirkou jsme sbalili běžky a vyrazili na autobus, který nás svezl na souš. Plán byl vystoupat na Jizerku, potkat se tam s ostatními na oběd a pak sjet dolů do Kořenova.<br>
 Stoupání bylo intenzivní. Trochu mi to podjíždělo a bylo mi horko. Sundal jsem teplou čepici, nasadil sluchátka, pustil Coldplay a pokořil kopec! Doufali jsme že nahoře vyjedeme z mraku, ale nestalo se. Zato jsme potkali pána, který nám řekl, že parkoviště na Jizerce je plné a že naše druhá polovina se tam nedostane.<br>
 
@@ -253,7 +254,7 @@ Bylo to tak. Ověřili jsme to po sjezdu z magistrály. Poslali jsme telefonem d
 <a href="../images/2026_january/17_2.jpg" target="_blank"><img src="../images/thumbnails/2026_january/17_2.jpg"></a>
 
 To byl highlight jízdy. Sjezd lesem, kde bylo jen pár lidí. ideální sešup, nádherný výhled na Jizeru a bezvadná stopa. Extrémně mě to bavilo! Navíc jsme dojeli do Mnichovské restaurace, kde byli moc milí a extrémně dobře vařili. Měli jsme sice maso, ale jak cmunda po kaplicku, tak plněné knedlíky měly spoustu červeného zelí a cibulku praženou i čerstvou.<br>
-Jirka s Vláďou jeli zpátky na chalupu autobusem a já se vešel k Vojtovi do auta. Po sérii sprch jsme se pustili dopiva a deskovek. 7- divů . Agricola u které jsem byl zprvu úplně vymletej, ale nakonec to byla moc fajn hra. A citadelu.<br>
+Jirka s Vláďou jeli zpátky na chalupu autobusem a já se vešel k Vojtovi do auta. Po sérii sprch jsme se pustili do piva a deskovek. 7- divů . Agricola u které jsem byl zprvu úplně vymletej, ale nakonec to byla moc fajn hra. A citadelu.<br>
 Dál na řadu přišla Verunčina drštkovka. Měla úspěch. Měl jsem radost! Dávala si s ní spoustu práce a táhla ty 4 kila na zádech z Prahy až do hor.<br>
 Po jídle jsme si dali bang! Abych pravdu řekl, moc mě to nebavilo. Naštěstí mě zabil dynamit. Verunka vyhrála navzdory tomu, že tyla odpadlík. Vyhrála i Agricolu navzdory tomu, že ji hrála poprvé. Veru je deskovkový mág.<br>
 Poslední hrou byla desítka. Vojta jí neměl a nadchla ho. Hráli jsme jí už jen v mužském osazení a končili někdy kolem jedné ranní. Týmy ve kterých hrál David Beckham a výrobci parfémů byly zrádné a zamíchaly pořadím.<br>
@@ -269,3 +270,12 @@ Posnídali jsme, umyli nádobí, svlékli povlečení, rozdali si proviant, sně
 Cestou na vlak mě docela štvalo, jak je krásně. Hezčeji než během celé dovolené. Krásně za okny Arrivy do Čakovic. Docela vomrd. Ne že by to nebyla skvělá dovolena! Byl to doslova gastrofest s deskovkami a třemi dny běžkování a třemi sudy třech piv. Mám až moc dobrej život říkám si někdy.<br>
 Z Čakovic to trolejbusem byl jen kousek. Doma Verunka chvíli trénovala na zkoušku a pak si uvědomila, že musí vyrazit. Ohřál jsem jí klobásu z proviantu, uřízl chléb a sotva jsem jí to dal do ruky, běžela na chodbu ven.<br>
 Na té pípal výtah. Hlasitě a přerušovaně. Něco v něm bylo blbě. Jezdil, ale pípání neustávalo celé odpoledne, kdy jsem psal a uklízel. Ještě že dveře do ložnice ho utlumily. Po večeru, kdy jsem přestavěl reproduktory na druhou stranu obýváku, ale hlavně po asi pěti nocích s alkoholem v krvi a mimo normální režim, jsem osm hodin kvalitního spánku potřeboval.<br>
+
+### 19.1. Změny výchozích hodnot
+
+Budík v 6:27. Chvilka čumění do stropu. 20 minut jógy. Chleba k snídani. Cesta do práce dopravou.<br>
+Devatenáctýho! Jak se to sakra stalo. Teď začal rek. Na konci týdne chtěl Ludva mít hotové zámky pro Alcineo, ale stále nefungovala ani SPI. Alespoň přišly součástky. Naskladnil jsem je, připravil debug konektory a šel řešit tu SPI, protože Vláďa byl zavalenej. Řešil modemy.<br>
+Až někdy po pátý jsem na to přišel. V SPI->CR byla výchozí CRC velikost 7 bitů. Zakázaná, ale nastavena! Naše nastavení tam nacpal. nulu, což byla nedefinovaná hodnota. Den v tahu, ale vypadalo to, že to bude fungovat. Zbývalo rozjet Loop back a otestovat analog. To už jsem nechal na úterý a šel nahrabat deník na git.<br>
+Veru jela na softy, ale na cestě zjistila, že nejsou. Domluvili jsme se, že půjdeme plavat. Na kole jsem dojel do Letňan. Veru vzala čokoládu a asi do osmi jsme plavali.<br>
+Doma mi pak říkala, že jí situace na Startu štve. Možná jeden den externě jinde by jí pomohl nestagnovat? Nebyl to zlej plán. Vláďa to dělá taky tak.<br>
+Večeřeli jsme čočku. Je to skvělý jídlo. Měli bychom ho jíst víc.
