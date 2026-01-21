@@ -14,7 +14,7 @@
 - [13.12. Naštěstí očkovaný](#1312-naštěstí-očkovaný)
 - [](#-3)
 - [](#-4)
-- [](#-5)
+- [16.12. Dlouhej den](#1612-dlouhej-den)
 - [17.12. Zpět do vývoje](#1712-zpět-do-vývoje)
 - [18.12. Issues](#1812-issues)
 - [19.12. Nabíjím!](#1912-nabíjím)
@@ -22,13 +22,13 @@
 - [21.12. Otráveni pupečníkem?](#2112-otráveni-pupečníkem)
 - [22.12 Mít vanu není zlý.](#2212-mít-vanu-není-zlý)
 - [23.12. She's on fire!](#2312-shes-on-fire)
+- [](#-5)
 - [](#-6)
 - [](#-7)
-- [](#-8)
-- [](#-9)
+- [27. 12. Rybníky, uši a rodiny](#27-12-rybníky-uši-a-rodiny)
 - [28.12. Kamenné zboží možná](#2812-kamenné-zboží-možná)
 - [29.12. „Produktivní" den](#2912-produktivní-den)
-- [](#-10)
+- [30.12. Další 4 roky?](#3012-další-4-roky)
 - [31.12. S Nováčkovic bez pískovny](#3112-s-nováčkovic-bez-pískovny)
 
 
@@ -197,17 +197,27 @@ Chtěl jsem jít obejmout Verunku. Ale nechtel jsem jí nakazit. Co když jsem m
 <a href="../images/2025_december/15_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/15_2.jpg"></a>
 
 
-###
+### 16.12. Dlouhej den
 
+Tohle úterý rozhodně bylo , protože začalo v půl třetí ráno. A ta ne moc pěkně. Verunka šla v noci na záchod, přišly na ní mrákoty, zakřičela na mě a selde s sebou na zem. Při tom pádu se praštila do hlavy o skříňku a když jsem za ní doběhl, nedařilo se mi jí probrat.<br>
+Panika! Otřes mozku? Co dělat?<br>
+Plácal jsem jí po tváři a po chvili trochu přišla k sobě. Řekla, že potřebuje spát a svezla se na zem.<br>
+155. Nebylo zbytí. Řekli ať jí zkusím držet při vědomí než přijedou.<br>
+To trvalo tak 20 minut. Během těch přišla k vědomí víc a přesunuli jsme se do postele. Se záchranáři se bavila už docela věcně, ale byla bílá jak stěna. Vzali jí na vozítka a odvezli dolů do sanitky. Tam ji vyšetřovali dalších asi 20 minut a pak odjeli s ní uvnitř. Že mám počkat, že mi Veru dá sama vědět.<br>
 
 <a href="../images/2025_december/16_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_1.jpg"></a>
 
+No. šel jsem si zpátky lehnout a asi hodinu se neklidně převracel, než jsem zalomil. Někdy po sedmý mě vzbudil telefon. Verunku ve skutečnosti převezli do Vinohradský místo na Bulovku, chtěla boty oblečení a někoho, kdo by jí doprovodil domů. Všechno bych měl zvládnout. Nacpal jsem to do batohu a sedl na trolejbus a pak na tramvaj.<br>
+Před nemocnicí moje taška s nápisem o vyhynutí dinosaurů pobavila nějakou ma pěknou holku. Ta moje proti ní vypadala dost jetě. Vlasy rozcuchaný, kruhy pod očima, ale úsměv. Nic prý nenašli. Prostě měla nízký tlak.<br>
+Stavili jsme se v Lidlu a dojeli domů. Tam jsme oba zamířili do postele dospat ztrátu.<br>
 
 <a href="../images/2025_december/16_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_2.jpg"></a>
 
+Odpoledne jsem se pustil do montování postele v obýváku. Veru mi chtěla pomoct, ale po chvíli strkání špuntíků do roštu na ní přišla slabost, takže sišla radši lehnout. Šlo to i v jednom a někdy v 7 jsem měl hotovo.<br>
 
 <a href="../images/2025_december/16_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_3.jpg"></a>
 
+V osm jsme si pustili Matrix. Je to nestárnoucí kvalita. Veru to hodně zaujalo.<br>
 
 <a href="../images/2025_december/16_4.jpg" target="_blank"><img src="../images/thumbnails/2025_december/16_4.jpg"></a>
 
@@ -339,14 +349,25 @@ Petr se od nás odpojil a my s mamkou jsme se vrátili do Letňan. V menším hr
 <a href="../images/2025_december/26_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/26_1.jpg"></a>
 
 
-###
+### 27. 12. Rybníky, uši a rodiny
 
+Hodně jsem se budil. Asi mi bylo horko. A taky jsem v sobě měl spoustu cukru. Když jsme složili gauč, vytáhla Veru toastovač a k snídani jsme do toastového chlebu zapekli sýr.<br>
+Verunka naplánovala procházku se spolužákem z gymplu a s bráchou. K Ostravským rybníkům. Asi abych se nenudil. Ve skutečnosti to mělo jiný důvod, který jsem se dozvěděl později. Respektive už jsem ho asi zaslechl, ale neznaje osobu, neměl jsem kam informaci uložit.<br>
+Lukáš nás vyzvedl Rapidem a vyjeli jsme pár kilometrů proti směru koleji do centra. K Odře. Byli jsme tam první a moje dětská mysl se šla houpat na houpačku U břehu. Bylo to zábavný a Veru se přidala.<br>
+Kryštof měl přijet s přítelkyní, ale postihla ji nějaká chřipka.Pusobil vesele a mile a hned jsme se dali do řeči a vyrazili na procházku. Byl to VUŤÁK z FEKTU. Dokonce z pole. Navrhoval testy při návrhu ASICů pro Swatch. Hrál si s vojáčky a přišlo mi, že mezi lidi moc nechodí.<br>
+Mělo to důvod. Poškodil si sluch hraním na bicí. Kytaru, kterou má Verunka doma jí půjčil on. Prý přemýšlel, že se odstěhuje někam do hor, protože hluky města mu způsobovaly bolesti, ale pomalu se to prý lepšilo.<br>
+Prošli jsme lesem, přes potok, louku, kolem solitérů se jmelím a k vypuštěným rybníkům. Verunce začínala být zima I přes ohřev rukou Lukášovou vyhřívací power bankou. Přešli jsme rybník po dně a začali se vracet. Kryštof mluvil o plánu koupit byt v Brně. Řekl něco jako 9 milionů. 9 milionů v Brně. Se úplně posral, přišlo mi. Swatch asi plat! dobře. Jeho táta ma taky půjčil Laurin&Klement superba. Asi se neměl zle. Ale co.. my jsme se měli taky pěkně. Mohli jsme si třeba dovolit pizzu v Alexandrii.<br>
+Což zmiňuju proto, že přesně tam jsme si dali pozdní oběd po tůře. Diskutovali jsme o knihách a filmech.Star Wars a Pánovi Prstenů. Na čtvrtou jsme ale měli být u Borků.<br>
 
 <a href="../images/2025_december/27_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/27_1.jpg"></a>
 
+Dojedli jsme, rozloučili jsme se a vydali se slavit s rodinou.<br>
+Bylo tam lidi jak psů. A pes jeden a taky kocour. Anet přijela s Tomem z Karlových Varů. To byla opravdu dálka. Vypadali spolu spoke. Jejich házení kuliček z dálky do pusy a obce se jedním cukrovím mi přišla trochu podivná, ale když se mají rádi..<br>
+Hynek s Jirkou byli opet humorné dno, obzvlášť po vypití několika drinků. Her jsme hráli hned několik. Opět třeba Máme rádi Česko. Borkovi proti Ondráčkům. Bylo to tak těsný, že si nepamatuju, kdo vlastně vyhrál.<br>
 
 <a href="../images/2025_december/27_2.jpg" target="_blank"><img src="../images/thumbnails/2025_december/27_2.jpg"></a>
 
+Zvládli jsme ješte Dixit a nějaký tunely. Těch jsem se neučastnil a radši si povídal se Zdenkou. K babičce jsme se vraceli někdy před jednou.<br>
 
 ### 28.12. Kamenné zboží možná
 
@@ -375,13 +396,18 @@ Probudil jsem se až za deset deset. Podruhé toho dne. Předtím kvůli těžk�
 Den nabral extrémně pomalé tempo. Z postele jsme se po dospělém hraní si dostali po jedenácté. Pro suroviny na snídani jsem šel do lidu před dvanáctou a tortilly s vajíčky jsme dojedli v jednu. Potom jsem zadělal na jogurt a trochu jsme se nepohodli ohledně víček na sklenice. Původní systém mi přišel lepší.<br>
 Zbytek dne byl ještě línější. „Vařili jsme namazaný chleby, četli koukali na Stranger Things a hráli KCD.<br>
 
-###
+### 30.12. Další 4 roky?
 
-reklamace sluchátek<br>
-veru pekla linecký<br>
+Kvůli KCD jsme měli v ložnici reproduktory. Ráno jsme si tak k pomalému vstávání pustili hudbu. Zpíval jsem k tomu záměrně falešné. Bylo to komický.<br>
+Nemel jsem v plánu nic kromě dopisování deníku a možná bruslení v rámci týdne sportu. V prosinci chybělo dopsat 15 dní. V listopadu 6 . V říjnu 1 . V září překvapivě nic ale srpen byl děravý.<br>
+Po poledni jsem si ale uvědomil, že je ideální čas na výměnu baterie v iPhonu. Během všedních dní jsem se k tomu nebyl s to dostat a tak jsem zavolal do obchodu na tečné a po pověšení prádla tam vyrazil.<br>
+Z Vršek bych tam byl rychleji. Takhle to byl docela výlet. Ale většina servisů chtěla za výměnu asi dva a půl tisíce a tenhle pán patnáct set. To za chvíli jízdy metrem stalo. Byl to milej ukrajinec a na zdi mel čvatem uznaný vysokoškolský titul z kyjevského FELL. Asi půl hodiny jsem seděl na gauči a pak mi přines mobil, který si stěžoval, že nemá oficiální příslušenství, jinak byl ok.<br>
+Když jsem byl v tom, donesl jsem ještě JBL sluchátka do alzaboxu k reklamaci. Pravý už jen šeptalo.<br>
+Verunka pekla linecké cukroví a připravovala se na Silvestr U nás. Vypadalo a chutnalo to všechno moc dobře.<br>
 
 <a href="../images/2025_december/30_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/30_1.jpg"></a>
 
+\<br>
 
 ### 31.12. S Nováčkovic bez pískovny
 
