@@ -19,7 +19,7 @@
 - [17.1. Jirkovy plány](#171-jirkovy-plány)
 - [18.1. Konec gastro výletu](#181-konec-gastro-výletu)
 - [19.1. Změny výchozích hodnot](#191-změny-výchozích-hodnot)
-- [](#)
+- [20.1. Klasifikace je náročná](#201-klasifikace-je-náročná)
 - [21.1. Bez odporu SAMU](#211-bez-odporu-samu)
 
 
@@ -190,6 +190,9 @@ Akutní nechuť vstát z postele. Tak by šlo popsat úterní ráno. I přes to,
 Místo běžek jsem opět vzal kolo. Mrazy pominuly a přišla mokrej zadek břečka Jízda marastem byla intenzivní. Moc příjemnej nebyl. Ještě, že máme sprchu.<br>
 Řešil jsem, proč Ivanovi nezamykal HSLock. Pátý šroub příliš utáhl plastový mechanismus a západka se zasekla.<br>
 Zpátky jsem jel autobusem. Verunka doma nebyla. Zato odpadky ano. Dost na tři cesty dolu a nahoru. Byl jsem naštvanej, že Verunka si plave a já makám. Ale Verunka si zasloužila relax. Taky si zasloužila fajn kuchyň. Při poslední otočce s odpadem jsem v Alaboxu vyzvedl knipex síkovky a v kuchyni vyměnil pevnou baterii za velkou pružinovou, kterou jsem koupil před vánoci.<br>
+
+<a href="../images/2026_january/13_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/13_1.jpg"></a>
+
 Veru měla radost. Taky měla radost, že jsem našel popelnici na bioodpod kus od nás. No a tak jsme měli radost spolu.<br>
 
 ### 14.1. Zpátky na roubenku u potoka
@@ -277,13 +280,28 @@ Na té pípal výtah. Hlasitě a přerušovaně. Něco v něm bylo blbě. Jezdil
 
 Budík v 6:27. Chvilka čumění do stropu. 20 minut jógy. Chleba k snídani. Cesta do práce dopravou.<br>
 Devatenáctýho! Jak se to sakra stalo. Teď začal rek. Na konci týdne chtěl Ludva mít hotové zámky pro Alcineo, ale stále nefungovala ani SPI. Alespoň přišly součástky. Naskladnil jsem je, připravil debug konektory a šel řešit tu SPI, protože Vláďa byl zavalenej. Řešil modemy.<br>
-Až někdy po pátý jsem na to přišel. V SPI->CR byla výchozí CRC velikost 7 bitů. Zakázaná, ale nastavena! Naše nastavení tam nacpal. nulu, což byla nedefinovaná hodnota. Den v tahu, ale vypadalo to, že to bude fungovat. Zbývalo rozjet Loop back a otestovat analog. To už jsem nechal na úterý a šel nahrabat deník na git.<br>
+Až někdy po pátý jsem na to přišel. V SPI->CR byla výchozí CRC velikost 7 bitů. Zakázaná, ale nastavena! Naše nastavení tam nacpal. nulu, což byla nedefinovaná hodnota. Den v tahu, ale vypadalo to, že to bude fungovat. Zbývalo rozjet Loopback a otestovat analog. To už jsem nechal na úterý a šel nahrabat deník na git.<br>
+
+<a href="../images/2026_january/19_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/19_1.jpg"></a>
+
 Veru jela na softy, ale na cestě zjistila, že nejsou. Domluvili jsme se, že půjdeme plavat. Na kole jsem dojel do Letňan. Veru vzala čokoládu a asi do osmi jsme plavali.<br>
 Doma mi pak říkala, že jí situace na Startu štve. Možná jeden den externě jinde by jí pomohl nestagnovat? Nebyl to zlej plán. Vláďa to dělá taky tak.<br>
 Večeřeli jsme čočku. Je to skvělý jídlo. Měli bychom ho jíst víc.<br>
 
-###
+### 20.1. Klasifikace je náročná
 
+Do práce jsem jel na kole , ale přemlouval jsem se k tomu dlouho. SPI jsem sice rozchodil, ale CAN mi nefungoval. To bylo nepříjemný. Nefungoval ani displej. Ani pípák. Chvilku jsem se v tom rýpal, ale objevil jsem, že optimalizátor mi maže lambda funkce. Proč jsem netušil. Napsal jsem to Vláďovi a šel natvrdo zakódovat loopback.<br>
+Když to vypadalo ok byl čas dát si čočku k obědu. Trochu mě naštvalo, že jsem si zapomněl chleba, ale okurku jsem naštěstí měl.<br>
+
+<a href="../images/2026_january/20_2.jpg" target="_blank"><img src="../images/thumbnails/2026_january/20_2.jpg"></a>
+
+Zámek jsem po obědě fyzicky sestavil a po docela dlouhý době rozchodil Keolabs stroj. Digitální testy se zdály být v pohodě. Napřed teda končily v testech, kde se řešil error management, ale to bylo kvůli tomu, že jsem místo loopbacku pustil interoperability.<br>
+
+<a href="../images/2026_january/20_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/20_1.jpg"></a>
+
+Když dojely, táhlo na šestou. Chuť jet na kole mě nějak opustila a tak jsem nasadil kabát a vyrazil na 136. Doma jsem uklidil nádobí, trochu podlahu a ohřát si těstoviny, když přišla Veru, skoro v slzách.<br>
+Na opravný test jí nepřišli studenti, protože je vedení pustilo na Gaudeamus. Kvůli tomu musela dát pětky těm, co napsali v řádném termínu a jedné jedničkářce to zhoršilo známku o stupeň dolů. Vedení jí tak podkopalo dohodu se studenty, kteří se cítili v právu. Byla to blbá situace a Verunka prý byla blízko výpovědi. S vedením měla problém dlouhodobě a z téhle situace by vyšla špatně, ať by dopadla jakkoliv. Povídali jsme si o tom a nakonec se rozhodli, že ráno moudřejší večera.<br>
+Takže Veru si dala těstoviny a já promítl díl hvězdné brány,kde jsou O'Neil a Teal'c zaseklí v časové smyčce.<br>
 
 ### 21.1. Bez odporu SAMU
 
