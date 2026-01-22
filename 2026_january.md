@@ -19,6 +19,8 @@
 - [17.1. Jirkovy plány](#171-jirkovy-plány)
 - [18.1. Konec gastro výletu](#181-konec-gastro-výletu)
 - [19.1. Změny výchozích hodnot](#191-změny-výchozích-hodnot)
+- [](#)
+- [21.1. Bez odporu SAMU](#211-bez-odporu-samu)
 
 
 ### 1.1. Krátký den
@@ -278,4 +280,18 @@ Devatenáctýho! Jak se to sakra stalo. Teď začal rek. Na konci týdne chtěl 
 Až někdy po pátý jsem na to přišel. V SPI->CR byla výchozí CRC velikost 7 bitů. Zakázaná, ale nastavena! Naše nastavení tam nacpal. nulu, což byla nedefinovaná hodnota. Den v tahu, ale vypadalo to, že to bude fungovat. Zbývalo rozjet Loop back a otestovat analog. To už jsem nechal na úterý a šel nahrabat deník na git.<br>
 Veru jela na softy, ale na cestě zjistila, že nejsou. Domluvili jsme se, že půjdeme plavat. Na kole jsem dojel do Letňan. Veru vzala čokoládu a asi do osmi jsme plavali.<br>
 Doma mi pak říkala, že jí situace na Startu štve. Možná jeden den externě jinde by jí pomohl nestagnovat? Nebyl to zlej plán. Vláďa to dělá taky tak.<br>
-Večeřeli jsme čočku. Je to skvělý jídlo. Měli bychom ho jíst víc.
+Večeřeli jsme čočku. Je to skvělý jídlo. Měli bychom ho jíst víc.<br>
+
+###
+
+
+### 21.1. Bez odporu SAMU
+
+Verunka mě ráno předběhla. Když jsem se vyhrabal z ložnice ven, už se obouvala. Mně to zdaleka nešlo tak rychle. Když jsem konečně došel na autobus, bylo po půl devátý. Do areálu jsem šel z Vysočanský pěšky skrz vířící se prach, který zvedala projíždějící auta. Za bránou má ale nabral Omar a dokonce mi podržel dveře. Dobrej start dne!<br>
+S odoptimalizovanými lambdami jsem moc nehnul. Radši jsem se pustil do Analogového testování když se baterie zámku dostatečné nabily. A analog, to je bez mozková práce na celý den.<br>
+Pouštěl jsem si muziku do velkých sluchátek v Lossless formátu a dělal, jakože ten rozdíl oproti tři sta dvacítkovému AAC slyším. Ne že by to šlo. Obzvlášť, když přede mnou hučel osciloskop. Ale audiofilové to taky neslyší.Jen za to rádi platí.<br>
+Ve věži byla samá Asie. Radši jsme šli do Asie.<br>
+Analog našel problém. Ve čtvrtým patře pomalu nabíhalo OOK. Projel jsem všechny tři PICC. Na trojce bylo vysoký Vov. To šlo řešit odporem v driveru nastavitelným v TX Driver registru. Ale s tím náběhem to nehnulo. Co víc AWS taky ne.<br>
+Bylo po paty". Nechal jsem to na další den a jel na kde do Lidlu koupit věci na Čínu, kterou jsem doma udělal.<br>
+Veru mi pověděla, že situace z předchozího dne je vyřešena! Jedničkářky mamka vdala, nadávala, urážela s domluvila komisionálky. Vera je povede, holka to dá a bude to dobrý. Zvládla to pěkně. Za odměnu si na večer zapsala hard shoes.<br>
+Já si dal čínu, drnkal na piano a pak jsem psal deník až mě začala bolet ruka od křečovitého svírání tužky. Bylo třeba nějak ruku uvolňovat.
