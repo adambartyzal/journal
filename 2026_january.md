@@ -21,6 +21,10 @@
 - [19.1. Změny výchozích hodnot](#191-změny-výchozích-hodnot)
 - [20.1. Klasifikace je náročná](#201-klasifikace-je-náročná)
 - [21.1. Bez odporu SAMU](#211-bez-odporu-samu)
+- [22.1. Rodiny jsou občas úplně na píču](#221-rodiny-jsou-občas-úplně-na-píču)
+- [23. 1. Desky, brokolice a očkování](#23-1-desky-brokolice-a-očkování)
+- [](#)
+- [](#-1)
 
 
 ### 1.1. Krátký den
@@ -312,4 +316,30 @@ Ve věži byla samá Asie. Radši jsme šli do Asie.<br>
 Analog našel problém. Ve čtvrtým patře pomalu nabíhalo OOK. Projel jsem všechny tři PICC. Na trojce bylo vysoký Vov. To šlo řešit odporem v driveru nastavitelným v TX Driver registru. Ale s tím náběhem to nehnulo. Co víc AWS taky ne.<br>
 Bylo po paty". Nechal jsem to na další den a jel na kde do Lidlu koupit věci na Čínu, kterou jsem doma udělal.<br>
 Veru mi pověděla, že situace z předchozího dne je vyřešena! Jedničkářky mamka vdala, nadávala, urážela s domluvila komisionálky. Vera je povede, holka to dá a bude to dobrý. Zvládla to pěkně. Za odměnu si na večer zapsala hard shoes.<br>
-Já si dal čínu, drnkal na piano a pak jsem psal deník až mě začala bolet ruka od křečovitého svírání tužky. Bylo třeba nějak ruku uvolňovat.
+Já si dal čínu, drnkal na piano a pak jsem psal deník až mě začala bolet ruka od křečovitého svírání tužky. Bylo třeba nějak ruku uvolňovat.<br>
+
+### 22.1. Rodiny jsou občas úplně na píču
+
+Mráz bez sněhu. Na jízdu na kole dobrý. Akorát člověku omrzá ksicht když jede z kopce do Vysočan.<br>
+Náběžná hrana OOK firmwarem srazit nešla. Přidal jsem k anténě čtvrt ohmu a pustil testy tvaru pulzu. U toho šlo psát deník. Vlastně jsem v posledních dnech hodně psal. Leden byl celej. Vánoce skoro taky.<br>
+Testování toho, zda odpor odvedl svou práci zabralo několik hodin. Ale vypadalo to dobře.<br>
+Dobrá byla i Čína, kterou jsem nám uvařil. Verunka mi psala, že to byl hilight dne. A jestli muže přijít, že by to potřebovala.<br>
+Přijela v slzách. Miki jí psala nějaký hnusoty a vypadalo to,že je na tom zle a Veru z toho byla špatná. Cokoliv by jí napsala by to mohlo zhoršit. S brekem se u nás sesunula na gauč a nebylo jak z toho ven.<br>
+Jediný na koho Miki dá je Hynek. Zavolali jsme mu. Měl před sebou setkání s klienty, ale volali jsme si o tom asi 15 minut. Měl to těžký. Situace tam je neudržitelná a v hajzlu. Nicméně jsme se dozvěděli, že skočit z okna nepůjde.<br>
+Verunka jí napsala hezkou zprávu, která podle mě nemohla uškodit, ale nevíš. Já dotestoval PICC 3 a pak jsme společně došli do vietnamky ne 2x pad thai.<br>
+Dobrý jídlo Verunce trochu vrátilo chuť do života. Doma jsme ještě zvládli díl přátel a pak brzký odchod do postele.<br>
+
+### 23. 1. Desky, brokolice a očkování
+
+Vstávali jsme s Verunkou společně. Dokonce došlo k nějakýmu hezkýma blbnutí, ale nakonec na to Veru neměla náladu a tak jsem si dal ledovou sprchu, abych se připravil na den.<br>
+Snídali jsme jogurty s ořechy, vločkami a marmeládou.. Veru svůj sójový a já mléčný. Vern se necítila ani na snídani a tak šla do krabičky na později. Mohla za to pořád Miki, která jí psala nějaký jedy. Přestával jsem k ní mít slitování. Možná má emoční poruchu, ale systematicky urážet a odhánět lidi, kteří tě mají rádi, té žádná porucha nenutí.<br>
+Sbalili jsme se a vyrazili na autobus. Měl jsem fajn náladu a rozesmál jsem Verunku hned několikrát. Mým čepicovým bratrem a já už nevím čím dalším. Na Vysočanský jsme se rozloučili a já vyrazil pěšky do práce.<br>
+Dojel jsem testy kartou 1 a pustil se do stavby čtyř HLA. S přestávkou na oběd u Hubatků jsem tím zabil celý den až do půl páté. Kalendář ukázal, že jsem v práci strávil to hodin. Posledních pár týdnů jsem přetahoval dost. Řekl jsem si, že to musím vyčíslit a dát Ludvovi vědět.<br>
+Cestou zpět jsem se zastavil v Lidlu. Koupil jsem brambory na bramborák, který Veru doma začala, ale brambory byly plesnivé a jí přemohlo spaní protože se nechala očkovat trojvakcínou. Taky jsem vzal 4 brokolice ve slevě na mrazák a kytku pro svou ženu.<br>
+Veru doma byla úplně jetá. Stěží se zvedla z gauče. Ta brokolici jsme zvládli. Brambory jsme nechali na příště.<br>
+
+###
+
+
+###
+
