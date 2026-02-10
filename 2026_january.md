@@ -1,5 +1,8 @@
 [<< Prosinec](2025_december.md)<br>
 
+## [Leden](2026.md) 
+
+
 - [1.1. Krátký den](#11-krátký-den)
 - [2.1. Šípem do čela a vlakem na jih](#21-šípem-do-čela-a-vlakem-na-jih)
 - [3.1. Irma a Bastard](#31-irma-a-bastard)
@@ -22,7 +25,7 @@
 - [20.1. Klasifikace je náročná](#201-klasifikace-je-náročná)
 - [21.1. Bez odporu SAMU](#211-bez-odporu-samu)
 - [22.1. Rodiny jsou občas úplně na píču](#221-rodiny-jsou-občas-úplně-na-píču)
-- [23. 1. Desky, brokolice a očkování](#23-1-desky-brokolice-a-očkování)
+- [23.1. Desky, brokolice a očkování](#231-desky-brokolice-a-očkování)
 - [](#)
 - [](#-1)
 
@@ -329,7 +332,7 @@ Jediný na koho Miki dá je Hynek. Zavolali jsme mu. Měl před sebou setkání 
 Verunka jí napsala hezkou zprávu, která podle mě nemohla uškodit, ale nevíš. Já dotestoval PICC 3 a pak jsme společně došli do vietnamky ne 2x pad thai.<br>
 Dobrý jídlo Verunce trochu vrátilo chuť do života. Doma jsme ještě zvládli díl přátel a pak brzký odchod do postele.<br>
 
-### 23. 1. Desky, brokolice a očkování
+### 23.1. Desky, brokolice a očkování
 
 Vstávali jsme s Verunkou společně. Dokonce došlo k nějakýmu hezkýma blbnutí, ale nakonec na to Veru neměla náladu a tak jsem si dal ledovou sprchu, abych se připravil na den.<br>
 Snídali jsme jogurty s ořechy, vločkami a marmeládou.. Veru svůj sójový a já mléčný. Vern se necítila ani na snídani a tak šla do krabičky na později. Mohla za to pořád Miki, která jí psala nějaký jedy. Přestával jsem k ní mít slitování. Možná má emoční poruchu, ale systematicky urážet a odhánět lidi, kteří tě mají rádi, té žádná porucha nenutí.<br>
@@ -341,5 +344,36 @@ Veru doma byla úplně jetá. Stěží se zvedla z gauče. Ta brokolici jsme zvl
 ###
 
 
+<a href="../images/2026_january/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/24_1.jpg"></a>
+
+
+<a href="../images/2026_january/21_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/21_1.jpg"></a>
+
+
+<a href="../images/2026_january/22_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/22_1.jpg"></a>
+
+
+<a href="../images/2026_january/25_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/25_1.jpg"></a>
+
+
+<a href="../images/2026_january/26_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/26_1.jpg"></a>
+
+
+<a href="../images/2026_january/27_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/27_1.jpg"></a>
+
+
+<a href="../images/2026_january/28_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/28_1.jpg"></a>
+
+
+<a href="../images/2026_january/30_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/30_1.jpg"></a>
+
+
+<a href="../images/2026_january/30_2.jpg" target="_blank"><img src="../images/thumbnails/2026_january/30_2.jpg"></a>
+
+
+<a href="../images/2026_january/31_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/31_1.jpg"></a>
+
+
 ###
 
+[>> Únor](2026_february.md)<br>
