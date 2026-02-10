@@ -319,6 +319,9 @@ Ve věži byla samá Asie. Radši jsme šli do Asie.<br>
 Analog našel problém. Ve čtvrtým patře pomalu nabíhalo OOK. Projel jsem všechny tři PICC. Na trojce bylo vysoký Vov. To šlo řešit odporem v driveru nastavitelným v TX Driver registru. Ale s tím náběhem to nehnulo. Co víc AWS taky ne.<br>
 Bylo po paty". Nechal jsem to na další den a jel na kde do Lidlu koupit věci na Čínu, kterou jsem doma udělal.<br>
 Veru mi pověděla, že situace z předchozího dne je vyřešena! Jedničkářky mamka vdala, nadávala, urážela s domluvila komisionálky. Vera je povede, holka to dá a bude to dobrý. Zvládla to pěkně. Za odměnu si na večer zapsala hard shoes.<br>
+
+<a href="../images/2026_january/21_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/21_1.jpg"></a>
+
 Já si dal čínu, drnkal na piano a pak jsem psal deník až mě začala bolet ruka od křečovitého svírání tužky. Bylo třeba nějak ruku uvolňovat.<br>
 
 ### 22.1. Rodiny jsou občas úplně na píču
@@ -330,6 +333,9 @@ Dobrá byla i Čína, kterou jsem nám uvařil. Verunka mi psala, že to byl hil
 Přijela v slzách. Miki jí psala nějaký hnusoty a vypadalo to,že je na tom zle a Veru z toho byla špatná. Cokoliv by jí napsala by to mohlo zhoršit. S brekem se u nás sesunula na gauč a nebylo jak z toho ven.<br>
 Jediný na koho Miki dá je Hynek. Zavolali jsme mu. Měl před sebou setkání s klienty, ale volali jsme si o tom asi 15 minut. Měl to těžký. Situace tam je neudržitelná a v hajzlu. Nicméně jsme se dozvěděli, že skočit z okna nepůjde.<br>
 Verunka jí napsala hezkou zprávu, která podle mě nemohla uškodit, ale nevíš. Já dotestoval PICC 3 a pak jsme společně došli do vietnamky ne 2x pad thai.<br>
+
+<a href="../images/2026_january/22_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/22_1.jpg"></a>
+
 Dobrý jídlo Verunce trochu vrátilo chuť do života. Doma jsme ještě zvládli díl přátel a pak brzký odchod do postele.<br>
 
 ### 23.1. Desky, brokolice a očkování
@@ -345,12 +351,6 @@ Veru doma byla úplně jetá. Stěží se zvedla z gauče. Ta brokolici jsme zvl
 
 
 <a href="../images/2026_january/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/24_1.jpg"></a>
-
-
-<a href="../images/2026_january/21_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/21_1.jpg"></a>
-
-
-<a href="../images/2026_january/22_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/22_1.jpg"></a>
 
 
 <a href="../images/2026_january/25_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/25_1.jpg"></a>

@@ -9,6 +9,9 @@
 - [](#-2)
 - [](#-3)
 - [](#-4)
+- [7.2. Opět nábytkářem](#72-opět-nábytkářem)
+- [8.2. O trochu víc doma](#82-o-trochu-víc-doma)
+- [9.2. Točení ručníkem](#92-točení-ručníkem)
 - [](#-5)
 
 
@@ -33,37 +36,67 @@
 ### 
 
 
-<a href="../images/2026_february/06_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/06_1.jpg"></a>
+### 
 
 
 ### 
 
 
+### 
+
+
+<a href="../images/2026_february/06_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/06_1.jpg"></a>
+
+
+### 7.2. Opět nábytkářem
+
+Tenhle den byl sportovní. Napřed jsme s Verunkou jógovali a pak šli ven běhat a posilovat. Jóga ji bavila, ale posilování nic moc a běhu na dráze dala tak čtyři kolečka. Já uběhl asi 3 kilometry docela obstojným tempem.<br>
+Snídai jsme měli velkolepou. Žitný chléb s pomazánkami a tofu, mrkvový salát a čaj a kávu. Vern se potom pustila do vaření rámenu a já udelal průzkum toho, co bych mohl koupit v OBI. Rozhodl jsem se opravit dvířka kuchyňské linky spálená od ohně.<br>
+201 nejede na Prosek. S dvířkami v rukou mě dovezla někam do hlubin Střížkova a já se musel kilometr vracet.<br>
+Na recepci mě informovali, že teplem nažehlovací povrchy nemají, že mají pouze tapety. Internet ale říkal, že v prodejně najdu d- c- fix a vzadu opravdu byly. Desítky barevných kombinací. Jedna z nich byla hodně podobná té naší. Vzal jsem ji na troje dvířka pro jistotu.<br>
+
 <a href="../images/2026_february/07_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/07_1.jpg"></a>
 
+Taky jsem koupil dvě dvoumetrtvé latě na fotkovou stěnu. Jet autobusem s takovým nákladem je vždycky radost. Obzvlášť když člověku autobus ujede před ksichtem. Naštěstí 136 a trolejbus jezdí co pár minut.<br>
+Doma jsme si dali těstoviny a ja se pustil do opravy dvířek. První se nepovedla. Ještě že jsem koupil na jedny extra. Člověk nesmí foukat teplem, dokud není folie natažená celá. Taky nesmí do hrany tlačit moc, jinak se folie protrhne. Jinak byl ale prototyp úspěšný a druhý a třetí pokus vysly pěkné. Škoda, že barva a vzor byly jiný. Jinak by to bylo za námi.<br>
 
 <a href="../images/2026_february/07_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/07_2.jpg"></a>
 
+Večer jsme dali KCD za odměnu. Byl víkend. Bylo třeba i relaxovat.<br>
 
 <a href="../images/2026_february/07_3.jpg" target="_blank"><img src="../images/thumbnails/2026_february/07_3.jpg"></a>
 
 
-### 
+### 8.2. O trochu víc doma
 
+Se vstáváním jsme nechvátali. Do kuchyně jsme se dohrabali někdy v půl desátý. Čekal nás sedmý díl série move jógy s Adrianne a snídaně. Před startem cvičení jsem společně se ženou uvařil kávu v chemexu a po půl hodině plné válečníků a pozdravů slunce Veru namazala tortily a nandala mrkvový salát.<br>
 
 <a href="../images/2026_february/08_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/08_1.jpg"></a>
 
+Začali jsme vybírat fotky na zeď do chodby. Nebylo to jednoduchý. Mohlo se jich tam vejít co, padesát? Víc těžko. Byli jsme dva a chtěli jsme tam nacpat vzpomínky i před naším společným časem. ten album David & Beruška mělo přes 3000 fotek.<br>
+Čas vaření oběda tak po koukání do alb přišel nečekaně rychle. Udělal jsem Čínu a plácal se do zad jak dobře jsem uvařil a ještě u toho uklidil. Veru zase pověsila prádlo. Potom jsem se pustil do příprav fotkové stěny. Navrtal jsem latě a naměřil, kde vrtat do stěny.<br>
 
 <a href="../images/2026_february/08_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/08_2.jpg"></a>
 
+Veru mě vystřídala v kuchyni. Uvařila večeři a jídlo na další dny. Já navrtal poličku v pokoji a u den dílů futuramy jsme po jedné snědli těstoviny s fazolemi.<br>
 
 <a href="../images/2026_february/08_3.jpg" target="_blank"><img src="../images/thumbnails/2026_february/08_3.jpg"></a>
 
+Veru ještě večer stihla hoďku KCD. Vrátili jsme se k hlavnímu příběhu.<br>
 
-### 
+### 9.2. Točení ručníkem
 
+Další týden, pořád jóga. Veru v pondělí začala den pomalu a já taky nijak zvlášť nechvátal. Trochu mě bolela záda a na to je protažení vždycky fajn.<br>
+Na kole jsem jel zahřátý cvičením a v práci si dal sprchu. Začít fresh Je vždycky dobrý.<br>
+Ne že by ten den byl bůh ví jak dobrej. Teda jeho pracovní část. Rýpal jsem se v nabíječce a v HSLocku. Nabíječka nabíjela divně a v HSLocku tajemně odešlo NFC.<br>
+Na večer Verunka naplánovala saunu. Poukázkou, kterou dostala k Vánocům. A mně si vzala jako +1. V půl šestý se ukázala u nás na Kolbence s hromadou Krabic, které jsme si půjčili na stěhování. Zbývalo jich ještě dost. Ale byl to krok dopředu. Taky mi přivezla těstoviny k večeři a dali jsme si společně decaf z v60.<br>
 
 <a href="../images/2026_february/09_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/09_1.jpg"></a>
 
+136 nás dovezla na Skloněnou a odtud už je to pešky do STEPu jen kousek. Byla to zvláštní nostalgie, skoro čtvrt roku jsem už tamtudy nejezdil a STEP přestal být mým domovským bazénem. Saunový svět byl ale pořád super.<br>
+Byl to takový posh zážitek. Ochutnávka vyšší kasty. Třeba čtení magazínu o nejdražších hotelech v klidové zóně mi ukázalo, jak nechutné bohatí někteří lidé jsou. Jestli jsou šťastní je věc druhá.<br>
+Když jsme se tam houpali v křesle, ruku v ruce, rozhodně jsme se šťastní cítili.<br>
+Medová, bylinková a ceremoniální sauna nás poctili návštěvou. V té třetí točil ručníky saunář Jirka. Klobouk dolů musím říct. Patnáct minut poskakovat kolem žhavých uhlíků, lít na ně vodu a led s vůněmi. Holčina napravo ode mně z něj byla vlhká. Aby taky ne. Výdrž má neskutečnou, tělo pěkný a zahlédnout v sauně výbavu určitě nebylo nemožný, jak podotkla Veru.<br>
+2 hodiny utekly jak nic. Cestou domů se mi udělalo nějak zlo. Možná dehydratace? Pil jsem, ale možná ne dost. Při usínání mě bolela kebule.<br>
 
 ###
