@@ -1,4 +1,4 @@
-[<< Prosinec](2025_december.md)<br>
+[<< Leden](2026_january.md)<br>
 
 ## [Únor](2026.md) 
 
@@ -8,11 +8,11 @@
 - [](#-1)
 - [](#-2)
 - [](#-3)
-- [](#-4)
+- [6.2. Teplo na běhání](#62-teplo-na-běhání)
 - [7.2. Opět nábytkářem](#72-opět-nábytkářem)
 - [8.2. O trochu víc doma](#82-o-trochu-víc-doma)
 - [9.2. Točení ručníkem](#92-točení-ručníkem)
-- [](#-5)
+- [](#-4)
 
 
 ### 1.2.
@@ -42,11 +42,18 @@
 ### 
 
 
-### 
+### 6.2. Teplo na běhání
 
+Veru nás vzbudila v šest ráno. Zacvičil jsem si s ní a<br>
+když pak vyrazila do práce, pustil jsem se do stříhání vlasů a vousů. Nesáhl jsem na to tak tři týdny a už to bylo fakt špatný.<br>
+Do práce jsem sjel na Franzovi. Pustil jsem se do toho, proč nový CBN ke konci nabíjí vetším proudem než po většinu času. Bylo to složitý. CBN měří napetí, z toho vymýšlí jakým proudem by chtělo nabíjet, CBC alokuje dostupný výkon přes jednotlivé hody a ty když dostanou výkon, zvedají iterativně proud, dokud ho nedorovnají.<br>
+Vláda mi to vysvětloval, když jsem si z logů kreslil Matplotlibem grafy i během oběda ve veži na Afické čakalace. Když jsem opustil CBN, naprogramoval jsem Říšovi tester na čtečky z pěti EBU.<br>
 
 <a href="../images/2026_february/06_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/06_1.jpg"></a>
 
+S Verunkou jsem si během dne psal španělsky. Měl jsem pocit, že kdyby všechny jazyky kromě španělštiny záhadně zmizely, nebyl bych úplně v piči.<br>
+Domů jsem jel na kole a tím sport neskončil. Bylo dost teplo a tak jsem šel běhat na dráhu. Šlo mi to pěkně. Píseň mě natlačila do tempa 4:30 a já to překvapivě zvládal držet. Přes dva kilometry. Pak na mě přišla paní s baterkou, že v 7 se areál zavírá. Zprvu byla naštvaná. a tvářila se, jako bych byl debil, ale dali jsme se do řeči a povídali si asi čtvrt hodiny.<br>
+Doma jsme si dali kari, pustili k tomu přátele a po seriálu se měli hezky.<br>
 
 ### 7.2. Opět nábytkářem
 
@@ -87,7 +94,7 @@ Veru ještě večer stihla hoďku KCD. Vrátili jsme se k hlavnímu příběhu.<
 ### 9.2. Točení ručníkem
 
 Další týden, pořád jóga. Veru v pondělí začala den pomalu a já taky nijak zvlášť nechvátal. Trochu mě bolela záda a na to je protažení vždycky fajn.<br>
-Na kole jsem jel zahřátý cvičením a v práci si dal sprchu. Začít fresh Je vždycky dobrý.<br>
+Na kole jsem jel zahřátý cvičením a v práci si dal sprchu. Začít fresh je vždycky dobrý.<br>
 Ne že by ten den byl bůh ví jak dobrej. Teda jeho pracovní část. Rýpal jsem se v nabíječce a v HSLocku. Nabíječka nabíjela divně a v HSLocku tajemně odešlo NFC.<br>
 Na večer Verunka naplánovala saunu. Poukázkou, kterou dostala k Vánocům. A mně si vzala jako +1. V půl šestý se ukázala u nás na Kolbence s hromadou Krabic, které jsme si půjčili na stěhování. Zbývalo jich ještě dost. Ale byl to krok dopředu. Taky mi přivezla těstoviny k večeři a dali jsme si společně decaf z v60.<br>
 
