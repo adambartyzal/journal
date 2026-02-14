@@ -27,6 +27,7 @@
 - [22.1. Rodiny jsou občas úplně na píču](#221-rodiny-jsou-občas-úplně-na-píču)
 - [23.1. Desky, brokolice a očkování](#231-desky-brokolice-a-očkování)
 - [](#)
+- [30.1. Fólie, ruce \& divočák](#301-fólie-ruce--divočák)
 - [](#-1)
 
 
@@ -365,15 +366,21 @@ Veru doma byla úplně jetá. Stěží se zvedla z gauče. Ta brokolici jsme zvl
 <a href="../images/2026_january/28_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/28_1.jpg"></a>
 
 
+### 30.1. Fólie, ruce & divočák
+
+Pátý den v týdnu, pátá jóga. Není to vůbec špatnej start dne. Jen to trvá. I přes vstávání před sedmou jsem po jízdě 136 kou a chůzi na Kolbenku na hodinách spatřil skoro devět hodin.<br>
+Bylo třeba rozchodit na V5 procesoru CAN a AD převodník. Vláďa se pustil do převodníku a já koukal do CANU.<br>
+Potíž byla v hodinách. CAN potřeboval hned dvoje. Ty jedny jsem povolil a periferie působila funkčně, ale nic z nožiček nelezlo. CAN Kernel se musel řídit fázovým závěsem. PLL mi trochu vzdorovala, VCO mělo omezený rozsah, takže jsem musel vybrat správné dělení i násobení, aby z Q výstupu vylezlo 16 MHz. Stejných jako z MSIS, které běžely implicitně. Procesory jsou divný.<br>
+
 <a href="../images/2026_january/30_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/30_1.jpg"></a>
 
 
 <a href="../images/2026_january/30_2.jpg" target="_blank"><img src="../images/thumbnails/2026_january/30_2.jpg"></a>
 
 
-<a href="../images/2026_january/31_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/31_1.jpg"></a>
-
-
 ###
+
+
+<a href="../images/2026_january/31_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/31_1.jpg"></a>
 
 [>> Únor](2026_february.md)<br>

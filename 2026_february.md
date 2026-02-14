@@ -3,19 +3,23 @@
 ## [Únor](2026.md) 
 
 
-- [1.2.](#12)
+- [1.2. Za lví sílu](#12-za-lví-sílu)
 - [](#)
 - [](#-1)
+- [3.2. Doma](#32-doma)
 - [](#-2)
-- [](#-3)
 - [6.2. Teplo na běhání](#62-teplo-na-běhání)
 - [7.2. Opět nábytkářem](#72-opět-nábytkářem)
 - [8.2. O trochu víc doma](#82-o-trochu-víc-doma)
 - [9.2. Točení ručníkem](#92-točení-ručníkem)
-- [](#-4)
+- [10.2](#102)
+- [11.2](#112)
+- [12.2.](#122)
+- [13.2. Střelili se do nohy oni nebo já?](#132-střelili-se-do-nohy-oni-nebo-já)
+- [14.2. Valentýnské KCD](#142-valentýnské-kcd)
 
 
-### 1.2.
+### 1.2. Za lví sílu
 
 
 <a href="../images/2026_february/01_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/01_1.jpg"></a>
@@ -36,8 +40,11 @@
 ### 
 
 
-### 
+### 3.2. Doma
 
+Verunka ráno kašlala. Nakazil jsem jí. Mně bylo o trochu líp. Ale na cestu do Vysočan jsem to neviděl. Zůstal jsem V posteli s tím, že nemoc vyležím a možná napíšu něco do manuálů a testů. Moc jsem toho ale nenapracoval. Spíš dřív než později jsem zapnul KCD a expil bojováním s lapky. tréninkem s Bernardem a plněním questů.<br>
+Taky jsem vytáhl deník. No dní jsem nic nenapsal. Nechtělo se mi. Trhal bych si vlasy, kdybych nějaký měl. Zpětně se dopisuje hůř. Ale pustil jsem se do toho.<br>
+Když se Vern vrátila z práce, převzala KCD štafetu. Vraždila Kumány, vařila sejvovici a Čarodějný masti.<br>
 
 ### 
 
@@ -106,4 +113,55 @@ Když jsme se tam houpali v křesle, ruku v ruce, rozhodně jsme se šťastní c
 Medová, bylinková a ceremoniální sauna nás poctili návštěvou. V té třetí točil ručníky saunář Jirka. Klobouk dolů musím říct. Patnáct minut poskakovat kolem žhavých uhlíků, lít na ně vodu a led s vůněmi. Holčina napravo ode mně z něj byla vlhká. Aby taky ne. Výdrž má neskutečnou, tělo pěkný a zahlédnout v sauně výbavu určitě nebylo nemožný, jak podotkla Veru.<br>
 2 hodiny utekly jak nic. Cestou domů se mi udělalo nějak zlo. Možná dehydratace? Pil jsem, ale možná ne dost. Při usínání mě bolela kebule.<br>
 
-###
+### 10.2
+
+
+<a href="../images/2026_february/10_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_1.jpg"></a>
+
+
+<a href="../images/2026_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_2.jpg"></a>
+
+
+<a href="../images/2026_february/10_3.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_3.jpg"></a>
+
+
+### 11.2
+
+
+<a href="../images/2026_february/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/11_1.jpg"></a>
+
+nic v deníku<br>
+ <br>
+
+### 12.2. 
+
+Snídat zelenou čočku asi není úplně tradiční. Ale je to jídlo plný energie, vlákniny, bílkovin, dobře chutná a ještě zahřeje. Win, win.. win, win, win. Po józe s Verunkou to byla jasná volba.<br>
+nic v deníku<br>
+
+<a href="../images/2026_february/12_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/12_1.jpg"></a>
+
+
+<a href="../images/2026_february/12_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/12_2.jpg"></a>
+
+
+### 13.2. Střelili se do nohy oni nebo já?
+
+Pátek. Týden utekl nějak hopem. Hodinky mi ale daly 97 spacích bodů. To už jsem neviděl fakt dlouho. Omega 3 musela zafungovat. Beluga taky. Dal jsem si jí i k snídani. A zajógoval jsem před cestou do práce.<br>
+Na Kolbence nás nebylo ani pět a půl. Jen Vláďa. DJ, Filip, Ríša a já. Věnoval jsem se stavbě krokodýlů, reportování nabíjení z HSLocku do backendu. Damien nám během dne posílal Alcineo knihovny a Vláďa se pustil do jejich začleňování do našeho kódu. Bylo jasný, že to bude randál práce. Celej HAL jsme museli implementovat my.<br>
+
+<a href="../images/2026_february/13_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/13_1.jpg"></a>
+
+S obědem jsem Vláďu tentokrát zradil. Musel jsem dojíst fizule ze čtvrtka. Víkend v lednici už by nedaly. Než jsem se dostal do kuchyně, vracel jsem něco do skříně s nářadím a nasral jsem se, že je v ní bordel. Je tak těžký vracet věci tam, odkud je člověk vytáhne říkal jsem si.<br>
+V kuchyní to bylo ještě horší. Říša nechal na lince fleky a neumytou krabičku. DJ zaprasil dřez a neumyl po sobě nic. Soužití lidí je těžký. Chvilku mi trvalo, než jsem se uklidnil. Ani jeden z těch nejsou lidi, kteří by zvládali přílišnou empatii. DJ se nakonec vrátil a jakž takž umyl věci ve dřezu a já opláchl ten zbytek.<br>
+Potěšilo mě, že jsem gumičkou opravil vykloktanou 3D tištěnou nabíječku na hodinky. To bylo fajn.<br>
+
+<a href="../images/2026_february/13_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/13_2.jpg"></a>
+
+V půl šeštý jsem commitnul kód, který z HSLocku úspěšně poslal informaci o tom, že do baterie teče 2.95 A. Rozhodl jsem se, že v pondělí mrknu na to, aby freebike posílal proud při nabíjení taky. Byl to stejnej interface.<br>
+Kolo jsem nechal ve skladu a vyrazil na autobus. Pořád mě bolela noha, i když to bylo lepší. V autobuse jsem se rozhodl, že se zastavím v DATARTu. Internet říkal, že cena bez koruny čtyři tísce je za Sony XM4 bezkonkurenční. DATART se tak střílel do nohy. Otočil jsem se v OC a ty čtyři tisíce utratil.<br>
+Jenže zvuk XM4 se mi po rozbalení moc nepozdával. Při nasazení AirPod Max jsem měl pocit, že jsou to ty nejlepší sluchátka ever. Tady jsem měl pocit, že hrajou tak dušeně. Aspoň, že ANC bylo ok. Řekl jsem si, že to zkusím dohnat ekvalizérem a vyrazil dom.<br>
+
+### 14.2. Valentýnské KCD
+
+Sice jsem měl napsaný poznámky, ale kromě toho a tu a tam pár sepsaných dní jsem nasekal skoro měsíční díru v deníku. Rozhodl jsem se, že není čas na hrdinství a že Řehoře prostě pro jednou nevyužij a zkusím tu sekeru dopsat na klávesnici. Sobota k tomu byla příhodná. Nechvátali jsme nikam. Byl sice Valentýn, ale to je svátek americkej a naše zamilování jsme slavili dobrou snídaní, lepším obědem, finálním tříděním a objednáním fotek na zěď a KCDčkem. Taky jsme nakoupili v alze Ořechy, Decaf a napsali do výletnků, že plánujeme kolaudovat.<br>
+Byt už byl pěknej. Chybělo pověsit projektor a zbavit se krabic na lodžiích. Venku bylo hnusně a tak jsme ani necítili, že sedění u KCDčka by byl promrhaný čas. Když hrála Verunka, psal jsem na laptopu deník a snažil se snížit pocit, že na to úplně píchám. Přece jen by mi bylo líto zapomenout, jak pěkně jsme se měli. A že byl taky někdy čas, kdy jsme nikam nechvátali.<br>
