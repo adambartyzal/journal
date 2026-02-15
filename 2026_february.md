@@ -13,11 +13,12 @@
 - [7.2. Opět nábytkářem](#72-opět-nábytkářem)
 - [8.2. O trochu víc doma](#82-o-trochu-víc-doma)
 - [9.2. Točení ručníkem](#92-točení-ručníkem)
-- [10.2. Když ne folii, tak aspoň dvě kila tofu](#102-když-ne-folii-tak-aspoň-dvě-kila-tofu)
-- [11.2](#112)
+- [10.2. Velkoobchodníkem](#102-velkoobchodníkem)
+- [11.2 Když ne folii, tak aspoň dvě kila tofu](#112-když-ne-folii-tak-aspoň-dvě-kila-tofu)
 - [12.2.](#122)
 - [13.2. Střelili se do nohy oni nebo já?](#132-střelili-se-do-nohy-oni-nebo-já)
 - [14.2. Valentýnské KCD](#142-valentýnské-kcd)
+- [15.2. Do Ďáblic](#152-do-ďáblic)
 
 
 ### 1.2. Za lví sílu
@@ -125,36 +126,37 @@ Když jsme se tam houpali v křesle, ruku v ruce, rozhodně jsme se šťastní c
 Medová, bylinková a ceremoniální sauna nás poctili návštěvou. V té třetí točil ručníky saunář Jirka. Klobouk dolů musím říct. Patnáct minut poskakovat kolem žhavých uhlíků, lít na ně vodu a led s vůněmi. Holčina napravo ode mně z něj byla vlhká. Aby taky ne. Výdrž má neskutečnou, tělo pěkný a zahlédnout v sauně výbavu určitě nebylo nemožný, jak podotkla Veru.<br>
 2 hodiny utekly jak nic. Cestou domů se mi udělalo nějak zlo. Možná dehydratace? Pil jsem, ale možná ne dost. Při usínání mě bolela kebule.<br>
 
-### 10.2. Když ne folii, tak aspoň dvě kila tofu
+### 10.2. Velkoobchodníkem
 
-Tentokrát Verunka necvičila, já se do protahování pustil až když vyrazila na autobus. Taky jsem slil černou kombuchu do lahví a udělal mentální poznámku, že je třeba koupil zelený čaj na kombuchu zelenou<br>
-Během jízdy autobusem jsem studoval d- c- fix folie. V katalogu jsem našel, že naše dvířka by mohla mít odstín „Tropea Oak Nature". Teoreticky to mohla být ještě Irábuche", fotky moc nepomáhaly, ten rozdil byl v teplotě.<br>
-V práci to bylo akční. Pro vládu především. Alcineo, Plzeň a kdo ví co další. Já testovat a občas odpověděl<br>
-Damienovi z Akinea. Dva ze tří zámků se nezapnuly. Poslali jsme si pár emailů o tom co s tím a nakonec to<br>
-nějak rozchodili. Taky jsme se dohodli, že jim doprogramuji vypínací tlačítko do Lt testovací aplikace. To už jsem si ale nechal na další den a pro velký úspěch opět vyrazil na metro na Čerňák. Tentokrát do Hornbachu.<br>
-Byl to trochu zbytečný výlet. Ani tirolbache ani tropea oak nature nebyly barva, kterou jsem potřeboval. Paní mi tam řekla, že to je Pre panel a poslala mě do kuchyni: Z těch mě poslali na přitez. Nakonec jsme s asi pěti zaměstnanci dospěli k tomu, že jsem v prdeli. Ale že jsem prej dobrej, že jsem nažehlil tu hranu.<br>
+Tentokrát Verunka necvičila, já se do protahování pustil až když vyrazila na autobus. Taky jsem slil černou kombuchu do lahví a udělal mentální poznámku, že je třeba koupil zelený čaj na kombuchu zelenou.<br>
+Poprvé do makra<br>
+výroba karty<br>
+ořechy a luštěniny<br>
 
 <a href="../images/2026_february/10_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_1.jpg"></a>
 
-Inu, koupil jsem baterky do Airtagu a stavil se v makru. Tam jsem našel dvoukilový tofu a 2.5 kg mražený květák za supr cenu. Akorát nacpat to do mrazáku doma se ukázalo jako oříšek. Makrokarta a velkej mrazák je asi dobrý kombo.<br>
+bageta a pytel belugy<br>
 
-<a href="../images/2026_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_2.jpg"></a>
+### 11.2 Když ne folii, tak aspoň dvě kila tofu
 
-
-### 11.2 
-
+Během jízdy autobusem jsem studoval d-c-fix folie. V katalogu jsem našel, že naše dvířka by mohla mít odstín „Tropea Oak Nature". Teoreticky to mohla být ještě Irábuche", fotky moc nepomáhaly, ten rozdil byl v teplotě.<br>
+V práci to bylo akční. Pro Vláďu především. Alcineo, Plzeň a kdo ví co další. Já testoval a občas odpověděl Damienovi z Alcinea. Dva ze tří zámků se nezapnuly. Poslali jsme si pár emailů o tom co s tím a nakonec to nějak rozchodili. Taky jsme se dohodli, že jim doprogramuji vypínací tlačítko do Lt testovací aplikace. To už jsem si ale nechal na další den a pro velký úspěch opět vyrazil na metro na Čerňák. Tentokrát do Hornbachu.<br>
+Byl to trochu zbytečný výlet. Ani tirolbache ani tropea oak nature nebyly barva, kterou jsem potřeboval. Paní mi tam řekla, že to je Pre panel a poslala mě do kuchyni: Z těch mě poslali na přířez. Nakonec jsme s asi pěti zaměstnanci dospěli k tomu, že jsem v prdeli. Ale že jsem prej dobrej, že jsem nažehlil tu hranu.<br>
 
 <a href="../images/2026_february/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/11_1.jpg"></a>
 
-nic v deníku<br>
+Inu, koupil jsem baterky do Airtagu a stavil se v makru. Tam jsem našel dvoukilový tofu a 2.5 kg mražený květák za supr cenu. Akorát nacpat to do mrazáku doma se ukázalo jako oříšek. Makrokarta a velkej mrazák je asi dobrý kombo.<br>
 
 ### 12.2.
 
 Snídat zelenou čočku asi není úplně tradiční. Ale je to jídlo plný energie, vlákniny, bílkovin, dobře chutná a ještě zahřeje. Win, win.. win, win, win. Po józe s Verunkou to byla jasná volba.<br>
-nic v deníku<br>
 
 <a href="../images/2026_february/12_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/12_1.jpg"></a>
 
+do letňan pro čaje a do lékárny<br>
+zkusit airpody<br>
+a do datartu sony<br>
+nebyly venku<br>
 
 <a href="../images/2026_february/12_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/12_2.jpg"></a>
 
@@ -180,3 +182,6 @@ Jenže zvuk XM4 se mi po rozbalení moc nepozdával. Při nasazení AirPod Max j
 
 Sice jsem měl napsaný poznámky, ale kromě toho a tu a tam pár sepsaných dní jsem nasekal skoro měsíční díru v deníku. Rozhodl jsem se, že není čas na hrdinství a že Řehoře prostě pro jednou nevyužij a zkusím tu sekeru dopsat na klávesnici. Sobota k tomu byla příhodná. Nechvátali jsme nikam. Byl sice Valentýn, ale to je svátek americkej a naše zamilování jsme slavili dobrou snídaní, lepším obědem, finálním tříděním a objednáním fotek na zěď a KCDčkem. Taky jsme nakoupili v alze Ořechy, Decaf a napsali do výletnků, že plánujeme kolaudovat.<br>
 Byt už byl pěknej. Chybělo pověsit projektor a zbavit se krabic na lodžiích. Venku bylo hnusně a tak jsme ani necítili, že sedění u KCDčka by byl promrhaný čas. Když hrála Verunka, psal jsem na laptopu deník a snažil se snížit pocit, že na to úplně píchám. Přece jen by mi bylo líto zapomenout, jak pěkně jsme se měli. A že byl taky někdy čas, kdy jsme nikam nechvátali.<br>
+
+### 15.2. Do Ďáblic
+
