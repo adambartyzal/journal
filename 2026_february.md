@@ -7,12 +7,13 @@
 - [](#)
 - [](#-1)
 - [3.2. Doma](#32-doma)
-- [](#-2)
+- [4.2.](#42)
+- [5.2. Pěšky](#52-pěšky)
 - [6.2. Teplo na běhání](#62-teplo-na-běhání)
 - [7.2. Opět nábytkářem](#72-opět-nábytkářem)
 - [8.2. O trochu víc doma](#82-o-trochu-víc-doma)
 - [9.2. Točení ručníkem](#92-točení-ručníkem)
-- [10.2](#102)
+- [10.2. Když ne folii, tak aspoň dvě kila tofu](#102-když-ne-folii-tak-aspoň-dvě-kila-tofu)
 - [11.2](#112)
 - [12.2.](#122)
 - [13.2. Střelili se do nohy oni nebo já?](#132-střelili-se-do-nohy-oni-nebo-já)
@@ -46,8 +47,19 @@ Verunka ráno kašlala. Nakazil jsem jí. Mně bylo o trochu líp. Ale na cestu 
 Taky jsem vytáhl deník. No dní jsem nic nenapsal. Nechtělo se mi. Trhal bych si vlasy, kdybych nějaký měl. Zpětně se dopisuje hůř. Ale pustil jsem se do toho.<br>
 Když se Vern vrátila z práce, převzala KCD štafetu. Vraždila Kumány, vařila sejvovici a Čarodějný masti.<br>
 
-### 
+### 4.2. 
 
+V práci jsem začal úklidem na stole. Chtěl jsem si zapojit starý a nový CBN zároveň a pracovat na firmwaru, který by byl univerzální. <br>
+
+### 5.2. Pěšky
+
+Tentokrát jsme vstávali spolu a spolu jsme zvládli i krátkou jógu. I autobusem jsme jeli spolu. Nahlas jsem vyprávěl, že ta paní co sedí kousek od nás čte pořád stejnou knížku, protože jsem si jí všiml už vícekrát. Jezdit do práce s Verunkou je zábavný.<br>
+Pokračoval jsem ve sjednocování CBN firmware. Přišel na řadu Loader. V Loaderech vždy žijí draci. V případě, že něco nefunguje v normálním firmware, může člověk vydat update. Když nefunguje loader, je člověk v prdeli.<br>
+Jirka do práce přijel jako štramák. Vypadalo to, že je to kvůli callu s Magdou, ale realita byla smutnější. Šel Jurigovi na pohřeb. Z nás z vývoje se s ním bavil nejvíc a i když na něj občas nadával, pořád to byl do jistý míry člověk, díky kterýmu jsme měli práci. Taky ale bylo dobrý, že Vláďa napsal backend novej a od KITE jsme se mohli odříznout. Bez Jurigy to bylo odsouzený k záhubě.<br>
+K obědu jsem měl Verunčino kari, který jsem snědl s Ríšou a Milošem v kuchyni a po jídle jsem si namlel kávu.<br>
+French press mě začínal štvát. Kafe z něj bylo mlhavý a chutnalo jak bláto. Bylo to špatným mlýnkem, ale papírový filtr by to chytil. Rozhodl jsem se zainvestovat do V60. A když už tak do originálu, keramickýho Haria.<br>
+Před odchodem jsem Omarovi slíbil testovač čteček, kterých měli v krabici několik set a pak jsme vyrazil do Letňan pěšky. Nebyla to tak hezká procházka jako přes Vinohrady, ale rozhodně byla srdci prospěšná. Kopec z Vysočan na Prosek je intenzivní.<br>
+Doma jsme si promítli Přátele a dali k nim hráškovou polívku, která už to měla skoro za sebou, ale ještě šla jíst. U nás se jídlo vyhazuje jen v absolutně krajních případech.<br>
 
 ### 6.2. Teplo na běhání
 
@@ -113,27 +125,30 @@ Když jsme se tam houpali v křesle, ruku v ruce, rozhodně jsme se šťastní c
 Medová, bylinková a ceremoniální sauna nás poctili návštěvou. V té třetí točil ručníky saunář Jirka. Klobouk dolů musím říct. Patnáct minut poskakovat kolem žhavých uhlíků, lít na ně vodu a led s vůněmi. Holčina napravo ode mně z něj byla vlhká. Aby taky ne. Výdrž má neskutečnou, tělo pěkný a zahlédnout v sauně výbavu určitě nebylo nemožný, jak podotkla Veru.<br>
 2 hodiny utekly jak nic. Cestou domů se mi udělalo nějak zlo. Možná dehydratace? Pil jsem, ale možná ne dost. Při usínání mě bolela kebule.<br>
 
-### 10.2
+### 10.2. Když ne folii, tak aspoň dvě kila tofu
 
+Tentokrát Verunka necvičila, já se do protahování pustil až když vyrazila na autobus. Taky jsem slil černou kombuchu do lahví a udělal mentální poznámku, že je třeba koupil zelený čaj na kombuchu zelenou<br>
+Během jízdy autobusem jsem studoval d- c- fix folie. V katalogu jsem našel, že naše dvířka by mohla mít odstín „Tropea Oak Nature". Teoreticky to mohla být ještě Irábuche", fotky moc nepomáhaly, ten rozdil byl v teplotě.<br>
+V práci to bylo akční. Pro vládu především. Alcineo, Plzeň a kdo ví co další. Já testovat a občas odpověděl<br>
+Damienovi z Akinea. Dva ze tří zámků se nezapnuly. Poslali jsme si pár emailů o tom co s tím a nakonec to<br>
+nějak rozchodili. Taky jsme se dohodli, že jim doprogramuji vypínací tlačítko do Lt testovací aplikace. To už jsem si ale nechal na další den a pro velký úspěch opět vyrazil na metro na Čerňák. Tentokrát do Hornbachu.<br>
+Byl to trochu zbytečný výlet. Ani tirolbache ani tropea oak nature nebyly barva, kterou jsem potřeboval. Paní mi tam řekla, že to je Pre panel a poslala mě do kuchyni: Z těch mě poslali na přitez. Nakonec jsme s asi pěti zaměstnanci dospěli k tomu, že jsem v prdeli. Ale že jsem prej dobrej, že jsem nažehlil tu hranu.<br>
 
 <a href="../images/2026_february/10_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_1.jpg"></a>
 
+Inu, koupil jsem baterky do Airtagu a stavil se v makru. Tam jsem našel dvoukilový tofu a 2.5 kg mražený květák za supr cenu. Akorát nacpat to do mrazáku doma se ukázalo jako oříšek. Makrokarta a velkej mrazák je asi dobrý kombo.<br>
 
 <a href="../images/2026_february/10_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_2.jpg"></a>
 
 
-<a href="../images/2026_february/10_3.jpg" target="_blank"><img src="../images/thumbnails/2026_february/10_3.jpg"></a>
-
-
-### 11.2
+### 11.2 
 
 
 <a href="../images/2026_february/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/11_1.jpg"></a>
 
 nic v deníku<br>
- <br>
 
-### 12.2. 
+### 12.2.
 
 Snídat zelenou čočku asi není úplně tradiční. Ale je to jídlo plný energie, vlákniny, bílkovin, dobře chutná a ještě zahřeje. Win, win.. win, win, win. Po józe s Verunkou to byla jasná volba.<br>
 nic v deníku<br>
@@ -148,16 +163,16 @@ nic v deníku<br>
 
 Pátek. Týden utekl nějak hopem. Hodinky mi ale daly 97 spacích bodů. To už jsem neviděl fakt dlouho. Omega 3 musela zafungovat. Beluga taky. Dal jsem si jí i k snídani. A zajógoval jsem před cestou do práce.<br>
 Na Kolbence nás nebylo ani pět a půl. Jen Vláďa. DJ, Filip, Ríša a já. Věnoval jsem se stavbě krokodýlů, reportování nabíjení z HSLocku do backendu. Damien nám během dne posílal Alcineo knihovny a Vláďa se pustil do jejich začleňování do našeho kódu. Bylo jasný, že to bude randál práce. Celej HAL jsme museli implementovat my.<br>
-
-<a href="../images/2026_february/13_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/13_1.jpg"></a>
-
 S obědem jsem Vláďu tentokrát zradil. Musel jsem dojíst fizule ze čtvrtka. Víkend v lednici už by nedaly. Než jsem se dostal do kuchyně, vracel jsem něco do skříně s nářadím a nasral jsem se, že je v ní bordel. Je tak těžký vracet věci tam, odkud je člověk vytáhne říkal jsem si.<br>
 V kuchyní to bylo ještě horší. Říša nechal na lince fleky a neumytou krabičku. DJ zaprasil dřez a neumyl po sobě nic. Soužití lidí je těžký. Chvilku mi trvalo, než jsem se uklidnil. Ani jeden z těch nejsou lidi, kteří by zvládali přílišnou empatii. DJ se nakonec vrátil a jakž takž umyl věci ve dřezu a já opláchl ten zbytek.<br>
 Potěšilo mě, že jsem gumičkou opravil vykloktanou 3D tištěnou nabíječku na hodinky. To bylo fajn.<br>
 
-<a href="../images/2026_february/13_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/13_2.jpg"></a>
+<a href="../images/2026_february/13_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/13_1.jpg"></a>
 
 V půl šeštý jsem commitnul kód, který z HSLocku úspěšně poslal informaci o tom, že do baterie teče 2.95 A. Rozhodl jsem se, že v pondělí mrknu na to, aby freebike posílal proud při nabíjení taky. Byl to stejnej interface.<br>
+
+<a href="../images/2026_february/13_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/13_2.jpg"></a>
+
 Kolo jsem nechal ve skladu a vyrazil na autobus. Pořád mě bolela noha, i když to bylo lepší. V autobuse jsem se rozhodl, že se zastavím v DATARTu. Internet říkal, že cena bez koruny čtyři tísce je za Sony XM4 bezkonkurenční. DATART se tak střílel do nohy. Otočil jsem se v OC a ty čtyři tisíce utratil.<br>
 Jenže zvuk XM4 se mi po rozbalení moc nepozdával. Při nasazení AirPod Max jsem měl pocit, že jsou to ty nejlepší sluchátka ever. Tady jsem měl pocit, že hrajou tak dušeně. Aspoň, že ANC bylo ok. Řekl jsem si, že to zkusím dohnat ekvalizérem a vyrazil dom.<br>
 
