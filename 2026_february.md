@@ -15,7 +15,7 @@
 - [9.2. Točení ručníkem](#92-točení-ručníkem)
 - [10.2. Velkoobchodníkem](#102-velkoobchodníkem)
 - [11.2 Když ne folii, tak aspoň dvě kila tofu](#112-když-ne-folii-tak-aspoň-dvě-kila-tofu)
-- [12.2.](#122)
+- [12.2. Čočka k snídani, čočka k večeři](#122-čočka-k-snídani-čočka-k-večeři)
 - [13.2. Střelili se do nohy oni nebo já?](#132-střelili-se-do-nohy-oni-nebo-já)
 - [14.2. Valentýnské KCD](#142-valentýnské-kcd)
 - [15.2. Ďábelský kopec](#152-ďábelský-kopec)
@@ -159,16 +159,18 @@ Byl to trochu zbytečný výlet. Ani tirolbache ani tropea oak nature nebyly bar
 
 Inu, koupil jsem baterky do Airtagu a stavil se v makru. Tam jsem našel dvoukilový tofu a 2.5 kg mražený květák za supr cenu. Akorát nacpat to do mrazáku doma se ukázalo jako oříšek. Makrokarta a velkej mrazák je asi dobrý kombo.<br>
 
-### 12.2.
+### 12.2. Čočka k snídani, čočka k večeři
 
 Snídat zelenou čočku asi není úplně tradiční. Ale je to jídlo plný energie, vlákniny, bílkovin, dobře chutná a ještě zahřeje. Win, win.. win, win, win. Po józe s Verunkou to byla jasná volba.<br>
+Jak jsem Damienovi slíbil, pustil jsem se do programování vypínacího tlačítka. Napřed jsem to spíchl rychle a naprogramoval pouze vypnutí, ale volat PowerManagementI na přímo nebylo úplně moudrý. CAN ani nestihl potvrdit zprávu když se zámek vypínal. Napsal jsem tak vypínací interface pro HLP a volal z něj stejnou metodu, kterou vypíná zámek Mqtt command. Bylo to hezčí. Zámek díky tomu poslal do backendu stav a napsal zprávu na displej.<br>
+Taky mě trochu zarazilo Go. Velikost okna se nepřizpůsobovala mému obsahu. Bylo to tím, že se opravdu nepřizpůsobovala obsahu. Vláďa to nacpal do výchozí velikosti. Naštěstí to nebylo složitý změnit.<br>
+Co ale bylo složitý, byla stavba krokodýlů. Zabil jsem tím celý zbytek pracovní doby. Nepomohlo to, že jsem jeden plast vytiskl hlavou dolů, ale hlavně osazování trvalo věčnost a montáž taky. Navíc si člověk mohl vystřelit oko pružinou.<br>
+Na cestě domů jsem se zastavil v OC Letňany pro čaje do Kombuchy z dmka. Obchoďák je to nesmyslně velkej a dm je až vzadu dole, takže člověk musí minout všechny krámy. Zastavil jsem se tak v jednom z Apple Reseller krámů a zkoušel Airpod Max. ANC měly parádní. Zvuk taky. Design super. A cena.. přes 12 tisíc. Za sluchátka moc. Obzvlášť když se v nich za pár let posere baterie.<br>
+V Datartu měli Sony WH-1000XM4 ve slevě. Můj druhej favorit po airpodech. 2 generace zpátky to byl vrcholovej model a pátou lidi hejtili a šestá stála desítku. Za třetinovou cenu. Škoda, že vystavený nebyly.<br>
 
 <a href="../images/2026_february/12_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/12_1.jpg"></a>
 
-do letňan pro čaje a do lékárny<br>
-zkusit airpody<br>
-a do datartu sony<br>
-nebyly venku<br>
+Nechal jsem je tam a šel domu uvařit čaje a povečeřet čočku s tempehem. Divný kombo uznávám. Ale chutnalo to mě i Verunce<br>
 
 <a href="../images/2026_february/12_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/12_2.jpg"></a>
 
@@ -187,7 +189,7 @@ V půl šeštý jsem commitnul kód, který z HSLocku úspěšně poslal informa
 
 <a href="../images/2026_february/13_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/13_2.jpg"></a>
 
-Kolo jsem nechal ve skladu a vyrazil na autobus. Pořád mě bolela noha, i když to bylo lepší. V autobuse jsem se rozhodl, že se zastavím v DATARTu. Internet říkal, že cena bez koruny čtyři tísce je za Sony XM4 bezkonkurenční. DATART se tak střílel do nohy. Otočil jsem se v OC a ty čtyři tisíce utratil.<br>
+Kolo jsem nechal ve skladu a vyrazil na autobus. Pořád mě bolela noha, i když to bylo lepší. V autobuse jsem se rozhodl, že se zastavím v DATARTu. Internet říkal, že cena bez koruny čtyři tisíce je za Sony XM4 bezkonkurenční. DATART se tak střílel do nohy. Otočil jsem se v OC a ty čtyři tisíce utratil.<br>
 Jenže zvuk XM4 se mi po rozbalení moc nepozdával. Při nasazení AirPod Max jsem měl pocit, že jsou to ty nejlepší sluchátka ever. Tady jsem měl pocit, že hrajou tak dušeně. Aspoň, že ANC bylo ok. Řekl jsem si, že to zkusím dohnat ekvalizérem a vyrazil dom.<br>
 
 ### 14.2. Valentýnské KCD
