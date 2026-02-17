@@ -7,7 +7,7 @@
 - [](#)
 - [](#-1)
 - [3.2. Doma](#32-doma)
-- [4.2.](#42)
+- [4.2. Vlivník s kytarou](#42-vlivník-s-kytarou)
 - [5.2. Pěšky](#52-pěšky)
 - [6.2. Teplo na běhání](#62-teplo-na-běhání)
 - [7.2. Opět nábytkářem](#72-opět-nábytkářem)
@@ -54,9 +54,15 @@ Verunka ráno kašlala. Nakazil jsem jí. Mně bylo o trochu líp. Ale na cestu 
 Taky jsem vytáhl deník. No dní jsem nic nenapsal. Nechtělo se mi. Trhal bych si vlasy, kdybych nějaký měl. Zpětně se dopisuje hůř. Ale pustil jsem se do toho.<br>
 Když se Vern vrátila z práce, převzala KCD štafetu. Vraždila Kumány, vařila sejvovici a Čarodějný masti.<br>
 
-### 4.2. 
+### 4.2. Vlivník s kytarou
 
-V práci jsem začal úklidem na stole. Chtěl jsem si zapojit starý a nový CBN zároveň a pracovat na firmwaru, který by byl univerzální. <br>
+Po docela brzké snídani jsme do práce jeli s Verunkou sto třicet šestkou spolu. V termosce jsem měl slitý čaj, který jsme nestihli vypít a až v práci jsem si uvědomil, že v něm je oregáno. Byla to totiž stejná chuť jako když jsem ve finsku léčil Tomíka. Čaj se jmenoval kue kue. Tomovo tuberácké kašlání znělo podstatně hůř než ku ku.<br>
+V práci jsem začal úklidem na stole. Chtěl jsem si zapojit starý a nový CBN zároveň a pracovat na firmwaru, který by byl univerzální.<br>
+Během oběda ve Vietnamce ve 12 se rozezněly sirény. Byl den kina naslepo. Ověřili jsme to a vskutku to tak bylo. Marta měla nějakou pracovní akci, ale Ondra s Rebekou a já s Verunkou jsme plánovali jít.<br>
+S břichem plným teplého kari jsem pokračoval ve sjednocování firmwarů. Rozhodl jsem se úplně zrušit starou hru třídu a objevil, že v AD převodnících nastavovala Pulldowny, takže ve výpočtech napětí a proudu udelala chybu klidně 15%.<br>
+Do kina jsem dojel první. Sto třicet šestkou se zastávkou v Bille pro bonbozy proti bolení v krku. I pres to, že jsem dorazil před sedmou, místa byly docela vybraný. Vzal jsem čtyři sedadla někde v pořadu a objednal si na baru Hazy Free IPU. Dobrý to bylo.<br>
+Vern si dala taky když přišla. Spolu jsme luštili křížovky, dokud nepřišlo Hengalovi.<br>
+[Film byl výbornej](https://www.csfd.cz/film/5077-tvar-v-davu). Z padesátých. O tehdejším influencerovi, kterýmu moc začala lézt do hlavy. 75 let starej film, stále současný téma. Lý.ilo se nám to všem. Příští prý bude novější a úplně jiny!<br>
 
 ### 5.2. Pěšky
 
