@@ -3,7 +3,7 @@
 ## [Únor](2026.md) 
 
 
-- [1.2. Za lví sílu](#12-za-lví-sílu)
+- [1.2. Za lví silu](#12-za-lví-silu)
 - [](#)
 - [](#-1)
 - [3.2. Doma](#32-doma)
@@ -20,13 +20,18 @@
 - [14.2. Valentýnské KCD](#142-valentýnské-kcd)
 - [15.2. Ďábelský kopec](#152-ďábelský-kopec)
 - [16.2. Tuctový pondělí](#162-tuctový-pondělí)
+- [](#-2)
 
 
-### 1.2. Za lví sílu
+### 1.2. Za lví silu
 
+Některý dny prostě nemůžou být zapsaný celý. Internet se shoduje, že je lepší napsat jednu větu než nic. Z prvního února si naštěstí pamatuju víc než jednu větu. Dny potom ale budou slabší. Prvního jsme ale šli demonstrovat na Staromák. Vyjádřit podporu prezidentovi a ukázat Macinkovi, že je to debil.<br>
+Bylo pěkně. Ale docela zima. Rozhodně zima na to jen tak několik hodin stát venku. Lidi sice bylo kolem sta tisíc, ale náměstí nevyhřáli. Milion chvilek pozval herce a člověka co objevil, jak ma Andrej krade a hejtili Klempíře. Podporu prezidentovi jsem vyjádřil rád, ale ve čtyři jsme s Veru dospěli k názoru, že je čas jít do tepla.<br>
 
 <a href="../images/2026_february/01_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/01_1.jpg"></a>
 
+Otočili jsme se v knihovně a já si zařídit průkazku.. Ondra s Rebekou se k nám přidali a posadili jsme se do extra drahý Vietnamský restaurace v centru. Dali jsme si s Veru Pad Thai napůl a každý konvičku čaje. Povídali jsme si o tom jak Macinka a současná vláda kazí práci Rébě a jak už moc nenachází důvody ji nadále dělat. Verunka taky mela potíže s vedením a tak měli společné téma. Ondra zas ukazoval udělátko na komunikaci po LoRa síti.<br>
+Bylo to fajn odpoledne. Škoda že Jarda se Sárou, kteří byli někde v davu demonstrantů taky, nemohli přijít.<br>
 
 <a href="../images/2026_february/01_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/01_2.jpg"></a>
 
@@ -207,8 +212,17 @@ Večer jsme se ještě posunuli v KCD, byť jsem plánoval dát si v neděli ora
 
 ### 16.2. Tuctový pondělí
 
-Psát, že jsme den začali jógou začínalo být mírné irelevantní. Rozhodl jsem se, že to otočím a napíšu až přestaneme. Jestli se ale něco změnilo, byl to fakt, že se vrátil sníh. Franze jsem tak neplánoval brát odpoledne domů.<br>
-V práci byli skoro všichni. Vláda slavil narozeniny a Adélka přinesla hromadu palačinek. Částečne určitě kvůli těm narozeninám. Co do práce, hledal jsem proč nefunguje jedno CBN z posledních třiceti vyrobených. Naprosto jsem selhal. Zdroj se po pár ms prostě rozhodl jít do zkratu neznámo proč. I po tom, co jsem mu odebral úplně všechny zátěže.<br>
-Výroba a Ivan si dali k obědu Kanadu. Já s Vláďou a s Jirkou jsme šli do věže na bulgurové rizoto. Byla v něm fraktální brokolice neboli Romanesce. Ve zbytku dne jsem třídil součástky a servisoval tester.<br>
+Psát, že jsme den začali jógou začínalo být mírné irelevantní. Rozhodl jsem se, že to otočím a napíšu až přestaneme. <br>
+
+<a href="../images/2026_february/16_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/16_1.jpg"></a>
+
+Jestli se ale něco změnilo, byl to fakt, že se vrátil sníh. Franze jsem tak neplánoval brát odpoledne domů.<br>
+
+<a href="../images/2026_february/16_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/16_2.jpg"></a>
+
+V práci byli skoro všichni. Vláda slavil narozeniny a Adélka přinesla hromadu palačinek. Částečně určitě kvůli těm narozeninám. Co do práce, hledal jsem proč nefunguje jedno CBN z posledních třiceti vyrobených. Naprosto jsem selhal. Zdroj se po pár ms prostě rozhodl jít do zkratu neznámo proč. I po tom, co jsem mu odebral úplně všechny zátěže.<br>
+Výroba a Ivan si dali k obědu Kanadu. Já s Vláďou a s Jirkou jsme šli do věže na bulgurové rizoto. Byla v něm fraktální brokolice neboli Romanesco. Ve zbytku dne jsem třídil součástky a servisoval tester.<br>
 Cestou domů jsem se stavil pro tortily na to farita. Bez kola je Lidl na Letňanské docela z ruky. Nachodil jsem dost přes 10 000 kroků.<br>
 Veru byla v bazénu. Doma jsme si dali tortily, koukli na přátele a pak se uchýlili k deníku a ke knize. Bylo to úplně tuctový pondělí.<br>
+
+###
