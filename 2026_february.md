@@ -18,7 +18,8 @@
 - [12.2.](#122)
 - [13.2. Střelili se do nohy oni nebo já?](#132-střelili-se-do-nohy-oni-nebo-já)
 - [14.2. Valentýnské KCD](#142-valentýnské-kcd)
-- [15.2. Do Ďáblic](#152-do-ďáblic)
+- [15.2. Ďábelský kopec](#152-ďábelský-kopec)
+- [16.2. Tuctový pondělí](#162-tuctový-pondělí)
 
 
 ### 1.2. Za lví sílu
@@ -180,8 +181,34 @@ Jenže zvuk XM4 se mi po rozbalení moc nepozdával. Při nasazení AirPod Max j
 
 ### 14.2. Valentýnské KCD
 
-Sice jsem měl napsaný poznámky, ale kromě toho a tu a tam pár sepsaných dní jsem nasekal skoro měsíční díru v deníku. Rozhodl jsem se, že není čas na hrdinství a že Řehoře prostě pro jednou nevyužij a zkusím tu sekeru dopsat na klávesnici. Sobota k tomu byla příhodná. Nechvátali jsme nikam. Byl sice Valentýn, ale to je svátek americkej a naše zamilování jsme slavili dobrou snídaní, lepším obědem, finálním tříděním a objednáním fotek na zěď a KCDčkem. Taky jsme nakoupili v alze Ořechy, Decaf a napsali do výletnků, že plánujeme kolaudovat.<br>
+Sice jsem měl napsaný poznámky, ale kromě toho a tu a tam pár sepsaných dní jsem nasekal skoro měsíční díru v deníku. Rozhodl jsem se, že není čas na hrdinství a že Řehoře prostě pro jednou nevyužij a zkusím tu sekeru dopsat na klávesnici. Sobota k tomu byla příhodná. <br>
+
+<a href="../images/2026_february/14_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/14_1.jpg"></a>
+
+Nechvátali jsme nikam. Byl sice Valentýn, ale to je svátek americkej a naše zamilování jsme slavili dobrou snídaní, lepším obědem, finálním tříděním a objednáním fotek na zěď a KCDčkem. Taky jsme nakoupili v alze Ořechy, Decaf a napsali do výletnků, že plánujeme kolaudovat a cvičili jsme.<br>
+
+<a href="../images/2026_february/14_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/14_2.jpg"></a>
+
 Byt už byl pěknej. Chybělo pověsit projektor a zbavit se krabic na lodžiích. Venku bylo hnusně a tak jsme ani necítili, že sedění u KCDčka by byl promrhaný čas. Když hrála Verunka, psal jsem na laptopu deník a snažil se snížit pocit, že na to úplně píchám. Přece jen by mi bylo líto zapomenout, jak pěkně jsme se měli. A že byl taky někdy čas, kdy jsme nikam nechvátali.<br>
 
-### 15.2. Do Ďáblic
+### 15.2. Ďábelský kopec
 
+Když jde člověk spát pozdě, pak má sex a pak teprve usne, dá rozum, že neustane v 6. Nám se přesné tohle stalo a tak jsme vstali v 9. Jógu jsme ale zvládli. Taky jsem přesadil kus lopatkovce, který upadl z hlavní květiny.<br>
+Přemýšlel jsem o koupi čističky vzduchu. Na věcech byl prach a to Arnošt docela vysával. Čistička by mu pomohla. Pustili jsme alespon Jacknese. Internet byl rozpolcený v názorech na ionizátory.<br>
+Během oběda Verunka prohlásila, že od té doby, co nechodíme vynášet odpad na Vinohrady, nemá nové oblečení.<br>
+
+<a href="../images/2026_february/15_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/15_1.jpg"></a>
+
+Bylo slunko a tak jsme vyrazili ven. Do Ďáblic. Autobus nás hodil ke Globusu, pešky jsme přesli dálnici, potkali nic moc zámek, psí hlavu, ale po stoupání kolem Massive MIMO antény to začalo být pěkný. Chytli jsme i kus toho slunka. než zmizelo za obzorem.<br>
+
+<a href="../images/2026_february/15_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/15_2.jpg"></a>
+
+Večer jsme se ještě posunuli v KCD, byť jsem plánoval dát si v neděli oraz a víc psát.<br>
+
+### 16.2. Tuctový pondělí
+
+Psát, že jsme den začali jógou začínalo být mírné irelevantní. Rozhodl jsem se, že to otočím a napíšu až přestaneme. Jestli se ale něco změnilo, byl to fakt, že se vrátil sníh. Franze jsem tak neplánoval brát odpoledne domů.<br>
+V práci byli skoro všichni. Vláda slavil narozeniny a Adélka přinesla hromadu palačinek. Částečne určitě kvůli těm narozeninám. Co do práce, hledal jsem proč nefunguje jedno CBN z posledních třiceti vyrobených. Naprosto jsem selhal. Zdroj se po pár ms prostě rozhodl jít do zkratu neznámo proč. I po tom, co jsem mu odebral úplně všechny zátěže.<br>
+Výroba a Ivan si dali k obědu Kanadu. Já s Vláďou a s Jirkou jsme šli do věže na bulgurové rizoto. Byla v něm fraktální brokolice neboli Romanesce. Ve zbytku dne jsem třídil součástky a servisoval tester.<br>
+Cestou domů jsem se stavil pro tortily na to farita. Bez kola je Lidl na Letňanské docela z ruky. Nachodil jsem dost přes 10 000 kroků.<br>
+Veru byla v bazénu. Doma jsme si dali tortily, koukli na přátele a pak se uchýlili k deníku a ke knize. Bylo to úplně tuctový pondělí.<br>
