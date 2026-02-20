@@ -1,6 +1,6 @@
 [<< Říjen](2025_october.md)<br>
 
-## [Listopad](2025.md)  
+## [Listopad](2025.md) 
 
 
 - [1.11. Všichni svatí stojí při Tomášovi a Terce](#111-všichni-svatí-stojí-při-tomášovi-a-terce)
@@ -75,7 +75,7 @@ Zpátky na nádraží rozhlas hlásil tříhodinová zpoždění. Nějací debil
 
 Dojeli jsme unavení ale nadržení. Na svatbě to moc nešlo. Teda kromě sprchy večer!<br>
 
-### 
+###
 
 
 ### 4.11. 64 gb ram
@@ -200,7 +200,7 @@ Asi by mi za to nikdo nezaplatil, ale byl jsem na výsledek hrdý.<br>
 <a href="../images/2025_november/10_3.jpg" target="_blank"><img src="../images/thumbnails/2025_november/10_3.jpg"></a>
 
 
-### 11.11. 
+### 11.11.
 
 
 <a href="../images/2025_november/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/11_1.jpg"></a>
@@ -319,7 +319,7 @@ Po práci jsem šel plavat. Pesky jsem došel až do STEPU. Dal patnáct minut s
 Bez kola se ale dostat domů byl ojeb. 136 jede roky a stejně člověka doveze jen do Edenu. Poslouchal jsem Finštinu, kterou do telefonu mluvila blondýna naproti mě.<br>
 Doma jsem napsal pár řádek a šli jsme spát.<br>
 
-### 21.11. 
+### 21.11.
 
 
 <a href="../images/2025_november/21_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/21_1.jpg"></a>
@@ -371,7 +371,7 @@ Doma jsme dál balili. Za svý už vzala i postel.<br>
 
 <a href="../images/2025_november/24_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_1.jpg"></a>
 
-Naštěstí i bez postele jdou provádět věci. Pokud teda uprostřed zábavy nepřijde Marťa taškami z ikei. Muselo jí být jasný z čeho nás vytáhla, když nám trvalo tak dlouho za ni přijít. <br>
+Naštěstí i bez postele jdou provádět věci. Pokud teda uprostřed zábavy nepřijde Marťa taškami z ikei. Muselo jí být jasný z čeho nás vytáhla, když nám trvalo tak dlouho za ni přijít.<br>
 
 <a href="../images/2025_november/24_2.jpg" target="_blank"><img src="../images/thumbnails/2025_november/24_2.jpg"></a>
 
@@ -422,7 +422,7 @@ Doma jsem do schránky lípnul 3D tištěnou jmenovku. Byla suverénně nejhezč
 
 Pro jednou jsem se probudil v šest docela sám a měl jsem energii na to vstát a začít den. Měl být dlouhy! Čekala nás cesta do Ostravy na muzikál. Navíc byly to zrovna Ivanovy a Milošovy narozeniny. Ivanovi jsem se cítil dlužnej za pomoc se stěhováním a tak jsem měl připravenou deskovku Ubongo jako narozeninový dárek.<br>
 Až když jsme s Verunkou stáli na peronu na zpožděný vlak, došlo jí, že Ubongo zůstalo v bytě. Zpoždění nebylo dostatečné na to, abych stihl doběhnout domu a zpátky a tak jsme se rozdělili. Es devítek jezdí ráno kopec a tak jsem o 15 minut později jel na hlavák, vysočany a podruhé 52T tramvají.<br>
-Vývoj jsem odmykal. Dodělal jsem HLPoza, přestavil stolici na pastování a pustil se do osazování HLA02a. Ubongo se Ivanovi líbilo. Vzal nás do Kyota. All you can eat sushi a spousta další asie, ne nekup to. Nadlábl jsem se pořádně. <br>
+Vývoj jsem odmykal. Dodělal jsem HLPoza, přestavil stolici na pastování a pustil se do osazování HLA02a. Ubongo se Ivanovi líbilo. Vzal nás do Kyota. All you can eat sushi a spousta další asie, ne nekup to. Nadlábl jsem se pořádně.<br>
 
 <a href="../images/2025_november/28_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/28_1.jpg"></a>
 

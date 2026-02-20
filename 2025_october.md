@@ -1,6 +1,6 @@
 [<< Září](2025_september.md)<br>
 
-## [Říjen](2025.md)  
+## [Říjen](2025.md) 
 
 
 - [1.10. Do moře a mezi nacisty](#110-do-moře-a-mezi-nacisty)
@@ -215,7 +215,7 @@ Nakonec jsme se přesunuli do garáže / herny a hráli ping pong a kulečník. 
 
 Jít spat těsně po půlnoci byla dobrá volba. Vzbudil jsem se v 9 a zapsal si něco málo do deníku. Když člověk místo vody pije pivo, paměť nefunguje zdaleka tak dobře.<br>
 Čekala nás snídaně a úklid. Předat jsme měli chatu v původním stavu. Do dvanácti jsme tak vysávali. myli a dávali věcí na původní místa.<br>
-Povedlo se. Paní byla spoko a my tak vyrazili zpátky do Frýdlantu. <br>
+Povedlo se. Paní byla spoko a my tak vyrazili zpátky do Frýdlantu.<br>
 
 <a href="../images/2025_october/12_1.jpg" target="_blank"><img src="../images/thumbnails/2025_october/12_1.jpg"></a>
 

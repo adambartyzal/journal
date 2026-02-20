@@ -139,7 +139,7 @@ Nechali jsme jim elektroniky a jeli se ubytovat. Tentokrát na kopec, kousek od 
 <a href="../images/2025_december/08_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/08_3.jpg"></a>
 
 
-### 
+###
 
 
 <a href="../images/2025_december/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/09_1.jpg"></a>
@@ -356,7 +356,7 @@ Doma jsem se pustil do stavění postele. Verunka do KCDčka. Když bylo třeba 
 <a href="../images/2025_december/25_3.jpg" target="_blank"><img src="../images/thumbnails/2025_december/25_3.jpg"></a>
 
 
-### 
+###
 
 
 <a href="../images/2025_december/26_1.jpg" target="_blank"><img src="../images/thumbnails/2025_december/26_1.jpg"></a>

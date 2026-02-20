@@ -19,8 +19,10 @@
 - [13.2. Střelili se do nohy oni nebo já?](#132-střelili-se-do-nohy-oni-nebo-já)
 - [14.2. Valentýnské KCD](#142-valentýnské-kcd)
 - [15.2. Ďábelský kopec](#152-ďábelský-kopec)
-- [16.2. Tuctový pondělí](#162-tuctový-pondělí)
-- [](#-2)
+- [16.2. Vláďovy narozky](#162-vláďovy-narozky)
+- [17.2. Obyčejnej život](#172-obyčejnej-život)
+- [18.2.](#182)
+- [19.2. Balkán pičo](#192-balkán-pičo)
 
 
 ### 1.2. Za lví silu
@@ -218,7 +220,7 @@ Bylo slunko a tak jsme vyrazili ven. Do Ďáblic. Autobus nás hodil ke Globusu,
 
 Večer jsme se ještě posunuli v KCD, byť jsem plánoval dát si v neděli oraz a víc psát.<br>
 
-### 16.2. Tuctový pondělí
+### 16.2. Vláďovy narozky
 
 Psát, že jsme den začali jógou začínalo být mírné irelevantní. Rozhodl jsem se, že to otočím a napíšu až přestaneme. <br>
 
@@ -233,4 +235,53 @@ Výroba a Ivan si dali k obědu Kanadu. Já s Vláďou a s Jirkou jsme šli do v
 Cestou domů jsem se stavil pro tortily na to farita. Bez kola je Lidl na Letňanské docela z ruky. Nachodil jsem dost přes 10 000 kroků.<br>
 Veru byla v bazénu. Doma jsme si dali tortily, koukli na přátele a pak se uchýlili k deníku a ke knize. Bylo to úplně tuctový pondělí.<br>
 
-###
+### 17.2. Obyčejnej život
+
+Vstali jsme s Verunkou v šest. Možná to bylo ionizátorem, možná něčím jiným, ale šla na mě depka. Zvládl jsem ale trochu cvičit, posnídat moc dobrý věci, založit a pustit výrobu jogurtů a najít ikea tašky, raketu a míčky. Večer jsme měli sraz s Martou na Astře. Badmintonová sezóna opět začínala.<br>
+Depku jsem se snažil prolomit déčkem, hudbou Sigur Rós ale nejvíc mi asi pomohlo uvědomit si, že zvládám delat věci jako je Kombucha, jogurt, mít se s Verunkou hezky, zvládat nějaký kamarádský aktivity a tak.<br>
+Autobusem jel pán, který smrděl močí. Bylo mi ho líto. Ať už z externích, nebo vnitřních důvodů, on takový věci nezvládal. Bylo třeba sebrat síly, abych neskončil stejně. Můj cíl bylo mít obyčejný život. Zní to blbě, ale být seženou štastný ve spíš menším než větším bydlení, na't práci co mě baví, kamarády, pár koníčků, zdraví, v budoucnu děti, který budou mít co jíst a budou chodit do úplně normální školy a občas k tomu vyjet ven na dovolenou mi přišlo jako dobry sen.<br>
+V práci jsem nedokázal neřešit nefunkční CBN. Prostě mě to zajímalo. Povolal jsem na to VNA.<br>
+
+<a href="../images/2026_february/17_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/17_1.jpg"></a>
+
+A uspěl. Cívka ve zdroji se nechovala jako cívka. Rozhodně he na 1,5 MHz, kde jsme střídali.<br>
+Za odměnu jsem si dal Verunky květákové kari a svůj jogurt. Víčko od nej bylo od ajvaru a jogurt tu chuť chytil. Paprikový jogurt je díra na trhu.<br>
+Na Zahraďák jsem jel a devítkou. Nostalgie jak blázen.Pustil jsem si na laptopu Tron Ares. Byla to popkornová blbost, ale bavilo mě. Vlak je de docela rychle. Stihl jsem jen 20 minut. Na Astře jsem byl v předstihu, něco málo jsem napsal do deníku a pak si promitl dalších 20 minut filmu.<br>
+Marťa badmintonu moc nedala. 3:1 jsem vyhrál. S Tomem ale působila spoko. Měl jsem radost. Akorát prý většinu zimy marodili.<br>
+Většinu filmu jsem dokoukal v autobuse ze Zahraďáku do Letňan. Ten mě potratit, protože na zastávce výstaviště Letňany prostě nezastavil a jel někam dozadu, kde pršelo a já musel zbytek dojít pěšky.<br>
+
+### 18.2.
+
+v 5:55<br>
+busem spolu<br>
+před osmou v práci<br>
+ludva všem psal v půl čtvrtý ráno<br>
+vietnam<br>
+elektroiniky z lahti<br>
+buildroot<br>
+metrem na můstek s tronem na laptopu<br>
+opět dredatá holka<br>
+jarmuchův film jiný než ostatní 3 příběhy, žádná zápletka<br>
+vlastně nevím jak se jmenuje<br>
+film v metru a doma<br>
+přišly fotky<br>
+
+<a href="../images/2026_february/18_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/18_1.jpg"></a>
+
+trochu na měkko<br>
+
+<a href="../images/2026_february/18_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/18_2.jpg"></a>
+
+kolíčků málo<br>
+
+### 19.2. Balkán pičo
+
+Verunka ráno měla náladu na věci. Asi to bylo tím, že viděla dlouhou dobu odloučení během lyžovačky v itálii. Taky jsme chtěli cvičit jógu, posnídat a odejít tak abychom stihli být v práci před devátou. Já moc náladu na věci neměl. Možná, že moje libido bylo nějaký utlumený.<br>
+Ty ostatní věci jsme ale zvládli.<br>
+Dál jsem se páral s buildreotem. Kdybych opravdu chtěl všechny firmwary novým gec, musel bych vydat nový ebf, g2lock, leadery a tak.. Bylo toho dost a když jsem na stanici zjistil, že loader nenahrává, pustil jsem to k vodě a nahrál do výroby verzi přeloženou novým toolchainem jen napůl.<br>
+Jestli mě ten den v práci něco bavilo , bylo to kreslení zapojení debuggeru pro Damiena. Inkscape je prostě zábavnej.<br>
+Jarda odpoledne napsal, zda nedáme pivo, který jsme nezvládli o víkendu. Byl to dobrej plán. Čtvrtek byl jediný večer v týdnu, kdy jsem neměl nic naplánované a tak jsem po páté sedl na metro a vyrazil do Mrtvé Ryby a Karláku. Taková UK Klubovny.<br>
+Byl jsem tam první a zabral stůl. Povídali si u něj dva pánové o hudbě a z ničeho nic o dvoufaktorovém ověřování.<br>
+Jarda a Ondra dorazili v závěsu. Byl to fajn veder. Nepříjemný bylo, že Jardův děda umíral. Melo to přijít v následujících dnech. Štěstí v neštěstí bylo, že to šlo z kopce rychle. Ale.. nechceš přijít o dědu. Babička to asi bude mít těžký.<br>
+Taky jsme si povídali o stavění domu. Automatizaci v něm a podobně. A trochu nostalgie jsme si naordinovali. Taiwan byl osm let zpátky. Masakr.<br>
+Měl jsem tři piva. Za studentských let základ. Dneska výjimka. Svet se změnil. Skeptik by řekl, že Jde dohajzla. Geopolitická situace byla nejhorší co jsme zažili. Ale o tom ten večer nebyl. Byl to sraz lidi z Balkánské expedice. A to bylo moc fajn.<br>
