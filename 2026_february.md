@@ -23,6 +23,8 @@
 - [17.2. Obyčejnej život](#172-obyčejnej-život)
 - [18.2.](#182)
 - [19.2. Balkán pičo](#192-balkán-pičo)
+- [20.2. Místo trezoru rádio](#202-místo-trezoru-rádio)
+- [21.2. Smrt prachu](#212-smrt-prachu)
 
 
 ### 1.2. Za lví silu
@@ -196,11 +198,11 @@ Jenže zvuk XM4 se mi po rozbalení moc nepozdával. Při nasazení AirPod Max j
 
 ### 14.2. Valentýnské KCD
 
-Sice jsem měl napsaný poznámky, ale kromě toho a tu a tam pár sepsaných dní jsem nasekal skoro měsíční díru v deníku. Rozhodl jsem se, že není čas na hrdinství a že Řehoře prostě pro jednou nevyužij a zkusím tu sekeru dopsat na klávesnici. Sobota k tomu byla příhodná. <br>
+Sice jsem měl napsaný poznámky, ale kromě toho a tu a tam pár sepsaných dní jsem nasekal skoro měsíční díru v deníku. Rozhodl jsem se, že není čas na hrdinství a že Řehoře prostě pro jednou nevyužij a zkusím tu sekeru dopsat na klávesnici. Sobota k tomu byla příhodná.<br>
 
 <a href="../images/2026_february/14_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/14_1.jpg"></a>
 
-Nechvátali jsme nikam. Byl sice Valentýn, ale to je svátek americkej a naše zamilování jsme slavili dobrou snídaní, lepším obědem, finálním tříděním a objednáním fotek na zěď a KCDčkem. Taky jsme nakoupili v alze Ořechy, Decaf a napsali do výletnků, že plánujeme kolaudovat a cvičili jsme.<br>
+Nechvátali jsme nikam. Byl sice Valentýn, ale to je svátek americkej a naše zamilování jsme slavili dobrou snídaní, lepším obědem, finálním tříděním a objednáním fotek na zěď a KCDčkem. Taky jsme nakoupili v alze Ořechy, Decaf a napsali do výletníků, že plánujeme kolaudovat a cvičili jsme.<br>
 
 <a href="../images/2026_february/14_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/14_2.jpg"></a>
 
@@ -222,7 +224,7 @@ Večer jsme se ještě posunuli v KCD, byť jsem plánoval dát si v neděli ora
 
 ### 16.2. Vláďovy narozky
 
-Psát, že jsme den začali jógou začínalo být mírné irelevantní. Rozhodl jsem se, že to otočím a napíšu až přestaneme. <br>
+Psát, že jsme den začali jógou začínalo být mírné irelevantní. Rozhodl jsem se, že to otočím a napíšu až přestaneme.<br>
 
 <a href="../images/2026_february/16_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/16_1.jpg"></a>
 
@@ -239,7 +241,7 @@ Veru byla v bazénu. Doma jsme si dali tortily, koukli na přátele a pak se uch
 
 Vstali jsme s Verunkou v šest. Možná to bylo ionizátorem, možná něčím jiným, ale šla na mě depka. Zvládl jsem ale trochu cvičit, posnídat moc dobrý věci, založit a pustit výrobu jogurtů a najít ikea tašky, raketu a míčky. Večer jsme měli sraz s Martou na Astře. Badmintonová sezóna opět začínala.<br>
 Depku jsem se snažil prolomit déčkem, hudbou Sigur Rós ale nejvíc mi asi pomohlo uvědomit si, že zvládám delat věci jako je Kombucha, jogurt, mít se s Verunkou hezky, zvládat nějaký kamarádský aktivity a tak.<br>
-Autobusem jel pán, který smrděl močí. Bylo mi ho líto. Ať už z externích, nebo vnitřních důvodů, on takový věci nezvládal. Bylo třeba sebrat síly, abych neskončil stejně. Můj cíl bylo mít obyčejný život. Zní to blbě, ale být seženou štastný ve spíš menším než větším bydlení, na't práci co mě baví, kamarády, pár koníčků, zdraví, v budoucnu děti, který budou mít co jíst a budou chodit do úplně normální školy a občas k tomu vyjet ven na dovolenou mi přišlo jako dobry sen.<br>
+Autobusem jel pán, který smrděl močí. Bylo mi ho líto. Ať už z externích, nebo vnitřních důvodů, on takový věci nezvládal. Bylo třeba sebrat síly, abych neskončil stejně. Můj cíl bylo mít obyčejný život. Zní to blbě, ale být se ženou šťastný ve spíš menším než větším bydlení, na't práci co mě baví, kamarády, pár koníčků, zdraví, v budoucnu děti, který budou mít co jíst a budou chodit do úplně normální školy a občas k tomu vyjet ven na dovolenou mi přišlo jako dobry sen.<br>
 V práci jsem nedokázal neřešit nefunkční CBN. Prostě mě to zajímalo. Povolal jsem na to VNA.<br>
 
 <a href="../images/2026_february/17_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/17_1.jpg"></a>
@@ -285,3 +287,27 @@ Byl jsem tam první a zabral stůl. Povídali si u něj dva pánové o hudbě a 
 Jarda a Ondra dorazili v závěsu. Byl to fajn veder. Nepříjemný bylo, že Jardův děda umíral. Melo to přijít v následujících dnech. Štěstí v neštěstí bylo, že to šlo z kopce rychle. Ale.. nechceš přijít o dědu. Babička to asi bude mít těžký.<br>
 Taky jsme si povídali o stavění domu. Automatizaci v něm a podobně. A trochu nostalgie jsme si naordinovali. Taiwan byl osm let zpátky. Masakr.<br>
 Měl jsem tři piva. Za studentských let základ. Dneska výjimka. Svet se změnil. Skeptik by řekl, že Jde dohajzla. Geopolitická situace byla nejhorší co jsme zažili. Ale o tom ten večer nebyl. Byl to sraz lidi z Balkánské expedice. A to bylo moc fajn.<br>
+
+### 20.2. Místo trezoru rádio
+
+Kocovina. Byly to tři jedenáctky. Pravda po měsíci střízlivění, ale stejně. Cítil jsem bolehlav a nedostatek energie.<br>
+Bylo pozdě. Jógu jsem vynechal. Verunka se do ní pouštěla, když už jsem byl po snídani a připravený vyrazit. Pusa na cestu a cesta autobusem do Vysočan.<br>
+Oběd jsem s sebou neměl a nešel s klukama k Hubatkům. Pustil jsem se do zbytku čočkového kari, které bylo v krabičce už od pondělí. Bylo to znát. Cibule byla nějak nakyslá. Květák ale chutnal dobře.<br>
+Moc jsem toho neudělal. Řešil jsem clang-format. Myslím, že jsem to vyladil pěkné. Rozhodl jsem se to nasadit do nějakého málo používaného kódu. 92 zámek byl ideální..<br>
+Po čtvrté jsem musel zvednout kotvy. V šest jsme museli byt v Radio paláci na Vinohradech a já se potřeboval otočit pro oblek a pro ženu. Když mi doma otevřela, protože jsem si zapomněl klíče, překvapilo mě, že je kudrnatá. Koupila si kulmu. Slušelo jí to.<br>
+Stihli jsme to s akademickou čtvrt hodinkou. Podstatně dřív, než spousta dalších. Radiopalác měl menší parket než Tresor, ale balkony a vysoký strop ten prostor rozšířil do místa, které působilo jako mnohem větší.<br>
+Narozdíl od minule taky dorazila ředitelka Jana. Řekl jsem Veru, že vypadá jako poslední pilot vesmírné lodi Axiom. Prej jsem debil. :)<br>
+Třída která maturovala vedl Honza. Takový večné se usmívající pán. Mely taky víc holek než kluků. Byť jedna prý bývala kluk.Ale jeden kluk zas bývala holka. Stejně jako před rokem mě překvapilo, jak obrovský důraz je kladený na osobní svobody a individualismus. Nová doba. Svět se změní. Jestli k lepšímu je težký říct. Ale v KLDR rozhodně žít nechceš. Chce to nejaký balanc.<br>
+Moc akční jsem nebyl. Ale Veru dost. Byl to její večer. Já byl doprovod. Asi jsem mohl víc tančit. Ale snažil jsem se. Snad to bylo vidět.<br>
+Půlnočko bylo představení Oscarových filmů. Bylo to trochu chaotický, ale maturanti se bavili.<br>
+Zrovna když už jsme si řekli, že vyrazíme vyhlásila Kody konec. Veru se ještě šla rozloučit se spoustou lidí. Já znal jen Dana a Vildovi.<br>
+Poslední metro bylo v trapu, noční bus z ipáku jel sice asi 40 minut, ale přímo k nám na Tupolevovu. Trochu líznutá Verunk se dožadovala Pizzy. Ipák naštěstí takový věci umí. Dokonce jsme dostali slevu a tak jsme v buse byli ospalí, ale ne hladoví.<br>
+
+### 21.2. Smrt prachu
+
+Další den kocoviny. Pro Verunku víc než pro mě. Já met dvě Plzně. Spíš mě dobíhal nedostatek spánku jestli něco. A možná sexu. Ale to jsme napravili. Docela velkolepě.<br>
+Depo Vera jela na Bertramku za Anet pro páteřák na hory. Začly totiž jarní prázdniny a dovolená v Itálii s Hynkem, Lukym a Miki. Než se vratila, pustil jsem si KCD.<br>
+Po jejím návratu jsem uvařil super veggie, neboť měla plnou hlavu balení a odjezd vlaku do Ostravy se neúprosně blížil. Vaření jsem vylepšil. Člověk by řekl automatizoval. Na rýžovar, který vařil beluga jsem nasadil bambusový napařovák S květákem a brokolicí. Bylo to super. Doslova!<br>
+Čističku vzduchu jsme pojmenovali Pier. Po tom co Veru odjela jsem společně s ním uklízel. Já utíral a vířil prach, on ho tahal ze vzduchu do filtru. Displej mě informoval, že v bytě je maximálně 5 PM 2,5 na... vlastně nevím kolik, ale bylo to v ideálních číslech. Skoro to vypadalo, že Čistič nepotřebujeme. Jenže mikroskopický částice mi byly buřt. Mně vadily ty viditelný na podlaze , knížkách pianu a v podstatě každým rovným povrchu. Pokud ale HEPA filtruje PM 2,5. Musí chytat i ty větší.<br>
+Večer jsem telefonoval s mámou. Bylo to náročný a byl jsem zbytečně hnusnej. Ale přijedu za ní a to se počítá ne?<br>
+Až večer jsem si uvědomil, že Ondra má narozeniny. Věděl Jsem, že jsem na nějaký veselici, ale nebyl jsem si jistej kde. Byla to Ráchelina svatba. Měl jsem za ní radost, i když jsem vlastně pana Žabáka nikdy neviděl.<br>
