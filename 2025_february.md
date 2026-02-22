@@ -335,41 +335,42 @@ Díky hřebíkům jsme pověsili obrazy. Hlavně stereogram, který jsem pomocí
 ### 22.2. Kolaudačka
 
 Tohle byl nabitý den. Začal brzy a skončil pozdě. Ráno bylo slunečno a mě se nechtělo pracovat. Chyběla nám garnýž. Měli jsme ve zdech díry. Všude byly kousky koženky z gauče. Bylo třeba koupit něco k pití, dopéct dobroty a vyžehlit závěsy. Žehličkou, kterou jsme ještě neměli. Bylo pro ni třeba dojít do alza boxu v Nuslích, a tím to celý začalo.<br>
-Hezký počasí a nedobrý decay ve mně vzbudily touhu navštívit nějakou dobrou kavárnu. Volba padla na Florista café. Napůl květinářství, napůl kavárna. Obojí moc dobrý. Hodná paní květinářka mi tam dala žížalí čaj, aby se mým kytkám dařilo lépe. Flat White a masala chutnaly skvele a den tak začal pozitivně.<br>
+Hezký počasí a nedobrý decaf ve mně vzbudily touhu navštívit nějakou dobrou kavárnu. Volba padla na Florista café. Napůl květinářství, napůl kavárna. Obojí moc dobrý. Hodná paní květinářka mi tam dala žížalí čaj, aby se mým kytkám dařilo lépe. Flat White a masala chutnaly skvěle a den tak začal pozitivně.<br>
 
 <a href="../images/2025_february/22_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/22_1.jpg"></a>
 
-S kafem v bříšku a žehličkou na zádech jsme vyrazili podél Botiče domů. Sádroval jsem. Verunka pekla. Když jsem dosádroval. připravil jsem stál na Žehlení záclon. Verunka je profesionálně vyžehlila, de cucflek, kvůli kterému je někdo vrátil do ikey, tam pořád byl. Trvalo mi to dlouho, ale s jehlami, ostrými nůžkami a notnou dávkou trpělivosti jsem ho odstranil, bez poškození záclony. Bylo to pěkný. Verunka je moc pěknē zapošila.<br>
+S kafem v bříšku a žehličkou na zádech jsme vyrazili podél Botiče domů.<br>
+Tam jsem se pustil do sádrování. Verunka pekla. Když jsem dosádroval, připravil jsem stůl na žehlení záclon. Verunka je profesionálně vyžehlila, ale cucflek, kvůli kterému je někdo vrátil do ikey, tam pořád byl. Trvalo mi to dlouho, ale s jehlami, ostrými nůžkami a notnou dávkou trpělivosti jsem ho odstranil, bez poškození záclony. Bylo to pěkný. Verunka je moc pěknē zapošila.<br>
 
 <a href="../images/2025_february/22_2.jpg" target="_blank"><img src="../images/thumbnails/2025_february/22_2.jpg"></a>
 
 Všude byl prach. Arnošta a Huberta (ruční vysavač zatím nemel jméno) jsem povolal do práce a pomalu, ale jisté krotil katastrofu kolem sebe.<br>
-Před čtvrtou to začínalo vypadat fakt dobře. Taky volali Nováčkovic, že se blíží. Vyrazil jsem do Lidlu pro něco K pití a posledních pár drobností. Cestou jsem vynesl odpady a zpátky jsem se vracel s OBI taškou plnou skla a lahví.<br>
-Nováčkovic byli první. Rebeka druhá, a Fikrovi poslední. Dostali jsme 2 láhve dobrého vína, lahev Únětic, kombucha, plastovou trumpetu od popelnice, kuši, taktéž od popelnice, omotávky na kolo a kovovou láhev. Ty bizarnější věci pochopitelně přinesl Jarda.<br>
-Posadili jsme se v obýváku, Verunka lidi zásobovala dobrotama, povídali jsme si a hráli si s Páťou. Když jsem he Choval, rozbrečel se. Ale dokázal jsem to i rozesmát. Verunce to šlo líp. Byl u ní spoke dost dlouho.<br>
-Představovali jsme byt, povídali si o dětech, práci a obsluhovali jsme.. Verunčino jídlo mělo úspěch. Rebece se líbily moje poličky. Všichni říkali, že obývák je supr a my s Verunkou meli radost.<br>
+Před čtvrtou to začínalo vypadat fakt dobře. Taky volali Nováčkovic, že se blíží. Vyrazil jsem do Lidlu pro něco k pití a posledních pár drobností. Cestou jsem vynesl odpady a zpátky jsem se vracel s OBI taškou plnou skla a lahví.<br>
+Nováčkovic byli první. Rebeka druhá, a Fikrovi poslední. Dostali jsme 2 láhve dobrého vína, lahev Únětic, kombuchu, plastovou trumpetu od popelnice, kuši, taktéž od popelnice, omotávky na kolo a kovovou láhev. Ty bizarnější věci pochopitelně přinesl Jarda.<br>
+Posadili jsme se v obýváku, Verunka lidi zásobovala dobrotama, povídali jsme si a hráli si s Páťou. Když jsem ho choval, rozbrečel se. Ale dokázal jsem ho i rozesmát. Verunce to šlo líp. Byl u ní spoko dost dlouho.<br>
+Představovali jsme byt, povídali si o dětech, práci a obsluhovali jsme.. Verunčino jídlo mělo úspěch. Rebece se líbily moje poličky. Všichni říkali, že obývák je supr a my s Verunkou měli radost.<br>
 Nováčkovic pochopitelně vyrazili první. S ostatními jsme seděli asi do půl dvanácté. Ale na Verunku přišla Únava, Rebeka to měla ho minut domů a tak to nemělo smysl protahovat.<br>
-Do postele jsme šli unavení a šťastní. Bydleli jsme v moc pěkným bytě a měli moc fajn kamarády. Veru jsem se ještě ptal, zda by pozvala i někoho z jejích kamarádů, že o to stojím. Byla trošičku smutná, že nemá takovou partu, ale Honza s Holkami by prý možná mohl. Byl jsem pro!<br>
+Do postele jsme šli unavení a šťastní. Bydleli jsme v moc pěkným bytě a měli moc fajn kamarády. Veru jsem se ještě ptal, zda by pozvala i někoho z jejích kamarádů, že o to stojím. Byla trošičku smutná, že nemá takovou partu, ale Honza s holkami by prý možná mohl. Byl jsem pro!<br>
 
 ### 23.2. Plavat jako chcípák
 
 
 <a href="../images/2025_february/23_1.jpg" target="_blank"><img src="../images/thumbnails/2025_february/23_1.jpg"></a>
 
-Spánek nic moc. Vstávání před desátou. K snídani italská zapékanky a řepový humus.<br>
-Plavat? Verunky pln. Souhlasil jsem. Vlak. Metro. Bus. Šutka. Stěží jsem dal půl kilometr. Tempo zlý. I pára mě zmohla. Ven jsem šel dřív než ona a u stolečků v čekárně jsem si dal ohyzdný kafe z automatu.<br>
+Spánek nic moc. Vstávání před desátou. K snídani italská zapékanka a řepový humus.<br>
+Plavat? Verunky plán. Souhlasil jsem. Vlak. Metro. Bus. Šutka. Stěží jsem dal půl kilometr. Tempo zlý. I pára mě zmohla. Ven jsem šel dřív než ona a u stolečků v čekárně jsem si dal ohyzdný kafe z automatu.<br>
 Cestou zpátky jsme se stavili v alze. Verunka nevěděla, že alza má kamennou pobočku. Nikdy nebyla v Praze na tržnici. Zabili jsme tím dost času a nakonec koupili dvě kávy z doubleshotu a oříšky.<br>
-Přes Holku jsme došli na Křižíkovu a městkou dojeli dam. Zbytek večera Veru strávila v přípravách, já v drhnutí trouby, vaření super veggie a společně v jednom díle Přátel.<br>
+Přes HolKu jsme došli na Křižíkovu a městkou dojeli dam. Zbytek večera Veru strávila v přípravách, já v drhnutí trouby, vaření super veggie a společně v jednom díle Přátel.<br>
 
 ### 24.2. Las máquinas
 
-Nový týden, nová neštěstí. Jestli jsem měl za sebou boj s výkonem jsem neviděl. Zato jsem věděl, že jsem spadl do nové králičí nory. Demodulace. Celý den jsem pomocí testů zjišťoval, že v některých případech lze použít AM/PM demodulátor, zatímco jindy ((Q demodulaci. Proč to mi nebylo jasné.<br>
+Nový týden, nová neštěstí. Jestli jsem měl za sebou boj s výkonem jsem neviděl. Zato jsem věděl, že jsem spadl do nové králičí nory. Demodulace. Celý den jsem pomocí testů zjišťoval, že v některých případech lze použít AM/PM demodulátor, zatímco jindy I/Q demodulaci. Proč to mi nebylo jasné.<br>
 Taky jsem čekal, zda mi odepíše člověk s projektorem. Poslední zpráva od něj byla taková, že v pondělí po šesté má čas, ale během pondělí nereagoval.<br>
-Zato přišla štítkovačka. V poledne domů. HoltZkejsla na poště.<br>
+Zato přišla štítkovačka. V poledne domů. Holt zkejsla na poště.<br>
 Dojel jsem metrem na Hůrku, našel číslo prodejce a zavolal mu. Bydlel 2 minuty od metra. Projektor byl ještě zabalený, ale všechno vypadalo ok. Pán dostal 4200 korun a já vyrazil do Vršek.<br>
 Před domem jsem potkal Verunku. Vzala projektor nahoru a já došel na poštu pro embosser. Poslali jak stroj, tak pásky. A fungovalo to. Jen stříhání dělalo takovou nehezkou linku. Bylo třeba přidat mezeru.<br>
-Projektor jsem zapojil. Veru udělala lilkovou pastu a pustili jsme si wall-e. První půlku z webu. Byl jsem trochu zklamanej. Druhou z pořádnýho zdroje a to bylo dost kinový.<br>
-Bylo třeba vymyslet kabeláž. Jinak jsme ale měli obývák s Hýbacími obrázky!<br>
+Projektor jsem zapojil. Veru udělala lilkovou pastu a pustili jsme si Wall-eho. První půlku z webu. Byl jsem trochu zklamanej. Druhou z pořádnýho zdroje a to bylo dost kinový.<br>
+Bylo třeba vymyslet kabeláž. Jinak jsme ale měli obývák s hýbacími obrázky!<br>
 
 ### 25.2. Sport zahání trudomyslnost
 
