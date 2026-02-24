@@ -25,6 +25,9 @@
 - [19.2. Balkán pičo](#192-balkán-pičo)
 - [20.2. Místo trezoru rádio](#202-místo-trezoru-rádio)
 - [21.2. Smrt prachu](#212-smrt-prachu)
+- [22.2. Něco málo](#222-něco-málo)
+- [23.2. Příchod jara](#232-příchod-jara)
+- [24.2](#242)
 
 
 ### 1.2. Za lví silu
@@ -295,10 +298,19 @@ Bylo pozdě. Jógu jsem vynechal. Verunka se do ní pouštěla, když už jsem b
 Oběd jsem s sebou neměl a nešel s klukama k Hubatkům. Pustil jsem se do zbytku čočkového kari, které bylo v krabičce už od pondělí. Bylo to znát. Cibule byla nějak nakyslá. Květák ale chutnal dobře.<br>
 Moc jsem toho neudělal. Řešil jsem clang-format. Myslím, že jsem to vyladil pěkné. Rozhodl jsem se to nasadit do nějakého málo používaného kódu. 92 zámek byl ideální..<br>
 Po čtvrté jsem musel zvednout kotvy. V šest jsme museli byt v Radio paláci na Vinohradech a já se potřeboval otočit pro oblek a pro ženu. Když mi doma otevřela, protože jsem si zapomněl klíče, překvapilo mě, že je kudrnatá. Koupila si kulmu. Slušelo jí to.<br>
+
+<a href="../images/2026_february/20_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/20_1.jpg"></a>
+
 Stihli jsme to s akademickou čtvrt hodinkou. Podstatně dřív, než spousta dalších. Radiopalác měl menší parket než Tresor, ale balkony a vysoký strop ten prostor rozšířil do místa, které působilo jako mnohem větší.<br>
+
+<a href="../images/2026_february/20_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/20_2.jpg"></a>
+
 Narozdíl od minule taky dorazila ředitelka Jana. Řekl jsem Veru, že vypadá jako poslední pilot vesmírné lodi Axiom. Prej jsem debil. :)<br>
 Třída která maturovala vedl Honza. Takový večné se usmívající pán. Mely taky víc holek než kluků. Byť jedna prý bývala kluk.Ale jeden kluk zas bývala holka. Stejně jako před rokem mě překvapilo, jak obrovský důraz je kladený na osobní svobody a individualismus. Nová doba. Svět se změní. Jestli k lepšímu je težký říct. Ale v KLDR rozhodně žít nechceš. Chce to nejaký balanc.<br>
 Moc akční jsem nebyl. Ale Veru dost. Byl to její večer. Já byl doprovod. Asi jsem mohl víc tančit. Ale snažil jsem se. Snad to bylo vidět.<br>
+
+<a href="../images/2026_february/21_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/21_1.jpg"></a>
+
 Půlnočko bylo představení Oscarových filmů. Bylo to trochu chaotický, ale maturanti se bavili.<br>
 Zrovna když už jsme si řekli, že vyrazíme vyhlásila Kody konec. Veru se ještě šla rozloučit se spoustou lidí. Já znal jen Dana a Vildovi.<br>
 Poslední metro bylo v trapu, noční bus z ipáku jel sice asi 40 minut, ale přímo k nám na Tupolevovu. Trochu líznutá Verunk se dožadovala Pizzy. Ipák naštěstí takový věci umí. Dokonce jsme dostali slevu a tak jsme v buse byli ospalí, ale ne hladoví.<br>
@@ -311,3 +323,32 @@ Po jejím návratu jsem uvařil super veggie, neboť měla plnou hlavu balení a
 Čističku vzduchu jsme pojmenovali Pier. Po tom co Veru odjela jsem společně s ním uklízel. Já utíral a vířil prach, on ho tahal ze vzduchu do filtru. Displej mě informoval, že v bytě je maximálně 5 PM 2,5 na... vlastně nevím kolik, ale bylo to v ideálních číslech. Skoro to vypadalo, že Čistič nepotřebujeme. Jenže mikroskopický částice mi byly buřt. Mně vadily ty viditelný na podlaze , knížkách pianu a v podstatě každým rovným povrchu. Pokud ale HEPA filtruje PM 2,5. Musí chytat i ty větší.<br>
 Večer jsem telefonoval s mámou. Bylo to náročný a byl jsem zbytečně hnusnej. Ale přijedu za ní a to se počítá ne?<br>
 Až večer jsem si uvědomil, že Ondra má narozeniny. Věděl Jsem, že jsem na nějaký veselici, ale nebyl jsem si jistej kde. Byla to Ráchelina svatba. Měl jsem za ní radost, i když jsem vlastně pana Žabáka nikdy neviděl.<br>
+
+### 22.2. Něco málo
+
+Spal jsem dlouho a dobře. Čistší vzduch za to asi nemohl.<br>
+Spíš to, že alkohol a kofein se dostávaly z těla pryč a jedl jsem naposledy v 7.<br>
+Rovnováhu! Bylo třeba najít opět rovnováhu. Spánek, cvičení, jídlo, vztahy, práce a deník. Deník se zdá, že je zbytečné vysoko na hodnotovém žebříčku. Jenže pomáhá všem těm ostatním.<br>
+Když přeskočím asi tak deset hodin, ukáže se , že jsem se na psaní víceméně vysral. Zvládl jsem jógu, uvařit opět čečku, dokonce jí dát do krabiček na dny budoucí, ale deníku jsem měl dopsat mnohem víc, měl jsem jít běhat a mohl jsem odstranit věci z lodžie. Místo toho jsem ale hrat KID.<br>
+A vyhrál turnaj v Ratajích nad Černým Petrem." A dodělal spoustu vedlejších úkolů. A pořídil si skvělý brnění. A... strávil u toho většinu dne a většinu víkendu.<br>
+Ale byt byl krásně čistej, já docela odpočatej a jídlo Uvařený. Myslím že dobrý.<br>
+
+### 23.2. Příchod jara
+
+Žena byla pryč, ale svět se točí dál. Bylo třeba cvičit, snídat a vyrazit do práce. Pod kabátem jsem měl jen tričko. Bylo 8 stupňů. Je bizár jak rozdílných je 8°C na podzim a na jaře. Na kolbence byl po třech dnech deště čistý vzduch jako nikdy a dokonce svítilo sluníčko.<br>
+Trochu mě teda štvalo, že jsem si pořídil čističku vzduchu a on se vyčistil sám, ale Fakt, že Kolbenka voněla byl povznášející.<br>
+Milošovi nefungoval tester. Byla to mechanická věc. Ale vyžadoval dost mojí pozornosti. S teplotami v CBN jsem moc nepohnul. Ale přepočítal jsem si napětí na NTC a vynesl si převodní charakteristiku. Tu jsem pak ručně linearizoval. A tam to začalo být složitý.<br>
+Táhlo na šestou. Vzal jsem Franze a vyrazil do Letňan..<br>
+Před domem jsem se zastavil u cvičítek. Pár shybů má docela sundalo. Byl jsem po zimě chcípak. Bylo třeba se rozhýbat.<br>
+
+<a href="../images/2026_february/23_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/23_1.jpg"></a>
+
+
+### 24.2 
+
+
+<a href="../images/2026_february/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/24_1.jpg"></a>
+
+
+<a href="../images/2026_february/24_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/24_2.jpg"></a>
+
