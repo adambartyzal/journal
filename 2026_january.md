@@ -411,7 +411,7 @@ Potíž byla v hodinách. CAN potřeboval hned dvoje. Ty jedny jsem povolil a pe
 
 Na Verunku přišlo bolení břicha. Ve velkým. Byl víkend nebyl. třeba nic dělat a tak zůstala v posteli a nahřívala se elektrickou<br>
 dečkou. Ani já jsem toho moc neudelal. Teda.. Životně důležitého. Ve virtuálním světě jsem prožil 6 let staveb horských drah, které mi vydělaly statisíce. Kéž by to tak šlo i ve skutečnosti.<br>
-Verunce jsem daroval své narozeninové tofiffe. Ukázalo se totiž, že veškeré zásoby čokolády, které jsme měli doma byly moje. A tefiffe to mělo skoro za sebou. Vera s ním udělala rychlý proces. Na mě zbyly asi 3 dílky.<br>
+Verunce jsem daroval své narozeninové toffifee. Ukázalo se totiž, že veškeré zásoby čokolády, které jsme měli doma byly moje. A toffifee to mělo skoro za sebou. Vera s ním udělala rychlý proces. Na mě zbyly asi 3 dílky.<br>
 
 <a href="../images/2026_january/31_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/31_1.jpg"></a>
 
