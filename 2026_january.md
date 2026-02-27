@@ -30,10 +30,10 @@
 - [](#-1)
 - [](#-2)
 - [](#-3)
+- [28.1. Budoucnost stojí na nás](#281-budoucnost-stojí-na-nás)
 - [](#-4)
-- [](#-5)
 - [30.1. Fólie, ruce \& divočák](#301-fólie-ruce--divočák)
-- [](#-6)
+- [31.1. Parkový a čokoládový magnát](#311-parkový-a-čokoládový-magnát)
 
 
 ### 1.1. Krátký den
@@ -377,11 +377,20 @@ Veru doma byla úplně jetá. Stěží se zvedla z gauče. Ta brokolici jsme zvl
 <a href="../images/2026_january/27_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/27_1.jpg"></a>
 
 
-###
+### 28.1. Budoucnost stojí na nás
 
+Po pádu na kole jsem byl bolavý. To mě ale neodradilo od ranní jógy s Verunkou. Ba naopak. Bylo třeba to rozhýbat.<br>
+Taky bylo třeba vzít Ivanovi bún, který jsem mu slíbil. Měl z něj velkou radost. Vláďa se rozhodl rozchodit displej s U5 procesorem. Optimalizátor mi v něm odoptimalizoval metody pryč a já nevěděl co s tím. Snad jen to, že bych si na SPI napájel drátky a nahrál si osciloskopem co nejvíc věcí.<br>
+Takový postup Vláďa kvitoval a nechal mě to udělat. Když Rigol ukazoval, že nějaká komunikace probíhá, pustil jsem se do podkladů pro výrobu CBN.<br>
+Někdy během toho, kdy jsem koukal do CADu a měl na hlavě sluchátka začalo vedle na stole hořet HLA. Vláďa to prý slyšel dřív než cítil, ale po chvíli ten smrad bylÚplně všude. Proč se to stalo byla záhada. Shořel NIC čip. Na začátku meetingu jsme z toho měli spíš sranda, ale pak začla Ludvíkova řeč.<br>
+Za zrušenou Lodž jsme měli ztrátu 180 milionů korun. Helsinky byly asi ještě horší. Ludvík byl toho názoru, že pokud HSlock do roka nebude mít certifikace, měli bychom firmu rozpustit. Moc dobrou náladu to nepřineslo. Myslím, že freebike máme všichni rádi. Obzvlášť my ve vývoji. Bez Charlese ale fungovat nemůžeme.<br>
+Oběd ve Vietnamu nám aspoň trochu zlepšil náladu. A odpo vláda rozchodil to céčko. Zbýval pípák a CAN.<br>
+A kino na Čerňáku. ČSFD projekce. Sos od Raimiho. Seděl jsem vedle fajn dredatý Němky, která mi pochválila backovku. Vlastně si se mnou povídala víc než se svým přítelem.<br>
 
 <a href="../images/2026_january/28_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/28_1.jpg"></a>
 
+Film to byl překvapivě dobrej. Nešlo moc odhadnout, jak se bude vyvíjet v následujících pěti minutách.<br>
+Zpátky jsem jel autobusem přímo po okruhu. Ideálním pro Verunka. Vlastně jsem nechápal, proč s ním nejezdí. Nadšené jsem jí to v posteli říkal, ale skrz polospánek to k ní nedoproudilo.<br>
 
 ###
 
@@ -398,8 +407,11 @@ Potíž byla v hodinách. CAN potřeboval hned dvoje. Ty jedny jsem povolil a pe
 <a href="../images/2026_january/30_2.jpg" target="_blank"><img src="../images/thumbnails/2026_january/30_2.jpg"></a>
 
 
-###
+### 31.1. Parkový a čokoládový magnát
 
+Na Verunku přišlo bolení břicha. Ve velkým. Byl víkend nebyl. třeba nic dělat a tak zůstala v posteli a nahřívala se elektrickou<br>
+dečkou. Ani já jsem toho moc neudelal. Teda.. Životně důležitého. Ve virtuálním světě jsem prožil 6 let staveb horských drah, které mi vydělaly statisíce. Kéž by to tak šlo i ve skutečnosti.<br>
+Verunce jsem daroval své narozeninové tofiffe. Ukázalo se totiž, že veškeré zásoby čokolády, které jsme měli doma byly moje. A tefiffe to mělo skoro za sebou. Vera s ním udělala rychlý proces. Na mě zbyly asi 3 dílky.<br>
 
 <a href="../images/2026_january/31_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/31_1.jpg"></a>
 
