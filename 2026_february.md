@@ -14,7 +14,7 @@
 - [8.2. O trochu víc doma](#82-o-trochu-víc-doma)
 - [9.2. Točení ručníkem](#92-točení-ručníkem)
 - [10.2. Velkoobchodníkem](#102-velkoobchodníkem)
-- [11.2 Když ne folii, tak aspoň dvě kila tofu](#112-když-ne-folii-tak-aspoň-dvě-kila-tofu)
+- [11.2. Když ne folii, tak aspoň dvě kila tofu](#112-když-ne-folii-tak-aspoň-dvě-kila-tofu)
 - [12.2. Čočka k snídani, čočka k večeři](#122-čočka-k-snídani-čočka-k-večeři)
 - [13.2. Střelili se do nohy oni nebo já?](#132-střelili-se-do-nohy-oni-nebo-já)
 - [14.2. Valentýnské KCD](#142-valentýnské-kcd)
@@ -156,7 +156,7 @@ ořechy a luštěniny<br>
 
 bageta a pytel belugy<br>
 
-### 11.2 Když ne folii, tak aspoň dvě kila tofu
+### 11.2. Když ne folii, tak aspoň dvě kila tofu
 
 Během jízdy autobusem jsem studoval d-c-fix folie. V katalogu jsem našel, že naše dvířka by mohla mít odstín „Tropea Oak Nature". Teoreticky to mohla být ještě Irábuche", fotky moc nepomáhaly, ten rozdil byl v teplotě.<br>
 V práci to bylo akční. Pro Vláďu především. Alcineo, Plzeň a kdo ví co další. Já testoval a občas odpověděl Damienovi z Alcinea. Dva ze tří zámků se nezapnuly. Poslali jsme si pár emailů o tom co s tím a nakonec to nějak rozchodili. Taky jsme se dohodli, že jim doprogramuji vypínací tlačítko do Lt testovací aplikace. To už jsem si ale nechal na další den a pro velký úspěch opět vyrazil na metro na Čerňák. Tentokrát do Hornbachu.<br>

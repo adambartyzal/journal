@@ -1,0 +1,18 @@
+[<< Leden](2026_february.md)<br>
+
+## [Březen](2026.md) 
+
+
+- [1.3. Kde tu energii bere?](#13-kde-tu-energii-bere)
+
+
+### 1.3. Kde tu energii bere?
+
+Na gauči jsem se trochu budil a obracel se. Ale bylo fajn jak tvrdej byl. Asi zainvestuju do tvrdý matrace říkal jsem si . Záda mě nebolela vůbec. Zato píchání v prstech jsem pořád trochu cítil. Strach z toho, že mám diabetickou neuropatii neustával.<br>
+Když Robin vstal, šel hrát Roblex na PlayStationu. Úplně mi praskala hlava z toho, jak debilní to bylo. Aréna hele na sebe leg. postavičky prděly, skládání pizzy nebo obdoba Minecraftu. Nic takovýho by u nás doma neprošlo. Ne přes mě.<br>
+Když se probrali rodiče, dali jsme si makovec k snídani, rozpustnou kávu a pustili se do dne. Mě nejvíc zabavoval Robin. Jeho nekonečná příval energie je intenzivní . Pořád sikopat, pořát si házet, pořád hrát s hokejkou. Nakonec jsem byl rád, že můžu sednout k Playstationu a vyzkoušet KCD na gamepadu. PS4 načítala ta hra roky a ve srovnání musím říct že klávesnice a myš je lepší.<br>
+Po kundálkové polévce k obědu jsem pomáhal Petrovi sestavit skříňku s umyvadlem do koupelny. IKEA návody jsou skvělý ale asi 3 věci jsme museli předělávat.<br>
+Verunka mi psala že vyráží z Ostravy a že jí místenka posadila do kupé Vosečkovými. Malej svět!<br>
+My autem vyrazili do Kolína, já sedl na vlak a v Praze na autobus. Chtěl jsem uvařit večeři, než žena přijede.<br>
+Skoro jsem to stihl. Ale při zapínání sporáku přišla a pak na jídlo nebyl čas. K platu jsem se vrátil až poasi hodině a tempeh a noky se špenátem úplně nejdou dohromady.<br>
+[>> Únor](2026_march.md)<br>
