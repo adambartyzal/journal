@@ -1,17 +1,18 @@
-[<< Leden](2026_february.md)<br>
+[<< Únor](2026_february.md)<br>
 
 ## [Březen](2026.md) 
 
 
 - [1.3. Kde tu energii bere?](#13-kde-tu-energii-bere)
 - [2.3. Se špatným srdcem bych Vinohrady nepřejel ne?](#23-se-špatným-srdcem-bych-vinohrady-nepřejel-ne)
-- [](#)
+- [3.3. Dobrovolně vynechané naslepo](#33-dobrovolně-vynechané-naslepo)
 - [4.3. Že by mi chyběl jód?](#43-že-by-mi-chyběl-jód)
 - [5.3. USB a CGM](#53-usb-a-cgm)
 - [6.3. Pizza rande](#63-pizza-rande)
 - [7.3. Kbelská desítka](#73-kbelská-desítka)
 - [8.3. Jizva, hadičky a mírná usmíření](#83-jizva-hadičky-a-mírná-usmíření)
 - [9.3. Sinusová arytmie zní jako oxymóron](#93-sinusová-arytmie-zní-jako-oxymóron)
+- [10.3. G0 půjde použít](#103-g0-půjde-použít)
 
 
 ### 1.3. Kde tu energii bere?
@@ -35,7 +36,7 @@ Skoro jsem to stihl. Ale při zapínání sporáku přišla a pak na jídlo neby
 Spali jsme přes 9 hodin. Budík v 5:30 na mě prostě nefunguje. Řekl jsem Verunce, že to zkusím, ale úplně jsem to ráno neviděl. Možná až bude slunce dřív.<br>
 Bylo třeba vrátit hotter. Na spořilov sto jet sto třicet šestkou, ale já chtěl jet na kole. Jenže 12 tam a 12 zpátky v 0 °C bez teplých rukavic a pořádný snídaně byla blbost. Tam jsem tedy jel Céčkem. S kolem opřeným o kabinu řidiče v prvním vagonu. Z Roztyl už to byl kousek.<br>
 Na poliklinice jsem jen odevzdal hotter a koupil obloženou žemli. Hančíkovi jsem mohl poslat email. Čekat s nemocnými v čekárně by bylo k ničemu<br>
-Jízda přes Bohdalec, Vinohrady a Balkán mi dala zabrat. Zlenivěl jsem. Kombinace autobusů a pouhého sjíždění kopcedolů po ránu člověka pomalu ale jistě otupí. Bylo třeba začít běhat.<br>
+Jízda přes Bohdalec, Vinohrady a Balkán mi dala zabrat. Zlenivěl jsem. Kombinace autobusů a pouhého sjíždění kopce dolů po ránu člověka pomalu ale jistě otupí. Bylo třeba začít běhat.<br>
 Ale zvládl jsem to, sprcha mě nabila a já se pustil do posílání teplot v cbqt. Jirka potřeboval do knihobotu. Deli byla jasná volba. Meli Rattatouile.<br>
 Damien jel ve vývoji ještě rychleji než Vláďa. Poslal asi to emailů a Vládu v práci zablokoval do šesti večer. Já s těma teplotama pohnul. Až do backendu došly.<br>
 Na kde jsem jel i z pátek. Doma jsem dojedl noky a dal si i těstoviny s Veru. I když bylo docela pozdě. Koukli jsme na díl přátel a koupili lístky z Hamburku zpátky.<br>
@@ -43,8 +44,13 @@ Na kde jsem jel i z pátek. Doma jsem dojedl noky a dal si i těstoviny s Veru. 
 <a href="../images/2026_march/02_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/02_1.jpg"></a>
 
 
-###
+### 3.3. Dobrovolně vynechané naslepo
 
+Verunka ráno chvátala. Čočku i Čínu si tak vzala s sebou.<br>
+Já jsem snědl jídlo v klidu doma a v půl devátý' vyrazil na Franzovi do práce. Vzal jsem to po spirále přes Kbelskou a po estakádě.<br>
+Klid úterka mi dal možnost dopsat testy na všech třech vrstvách nabíječky. Dlouho mi nedávalo smysl, proč CBC funguje a testy ne a když prohodím byt v hadru datového rámce, testy se rozchodí a firmware rozsype. Nakonec to ale byla pakárna v indexování expected bufferu.<br>
+Naslepo bylo tentokrát o den dřív. A já na něj neměl náladu. Asi mi došel dopamin nebo co. Chtěl jsem být doma s Verunkou na kterou přišly krámy a bylo Jí naprd. Vzal jsem tak kolo a dojel domů<br>
+Veru koukala na nějakou romantickou komedii. Až tak moc tě nežere. Byla to docela pakárna, ale Veru to pomáhalo.<br>
 
 ### 4.3. Že by mi chyběl jód?
 
@@ -131,4 +137,13 @@ Céčko se flákalo. Koukal jsem na Franze v posledním vagonu a trochu litoval,
 Dozvěděl jsem se, že moje srdce je správně velké, má velký tlak ale má sinusovou arytmii, občas bouchne navíc a trochu posílá krev i zpátky. Všechno ale v normě. Vzal jsem tak Franze a dojel přes Zahraďák a Malešice na Kolbenku.<br>
 Kde jsem celý den bojoval s USBčkem. Číst a psát po slovech místo po půlslovech mi nějak moc nešlo. Až někdy v půl sedmý jsem Wiresharkem přijal VID a PID.<br>
 Verunka udělala Čínu s shiitake. Byla moc dobrá, ale kilometry na kole a ne až tak syté buh chay ve Vietnamce si vyžádalo nášup v podobě chleba s tofu.<br>
+
+### 10.3. G0 půjde použít
+
+Začali jsme novou jóga sérii. Home. První díl byl moc dlouhý, takže jsme si dali druhý. Nic moc nového nepřinesl, ale protažení to bylo fajn. Veru Chvátala a snídani si vzala v krabičce. Já si čočku snědl v klidu, zalil kytky, přesadil zelenec z kelímku a pověsil obrazy do ložnice.<br>
+Dolů jsem jel po uzavření silnici. Bez sněhu to byla asi nejrychlejší cesta.<br>
+Pokračoval jsem v USBčkách na G0. Někdy po obědě jsem objevil proč mi host nebere deskriptor. Buffer unsigned charů jsem správně převáděl na buffer unsigned longů až do posledních pár bajtů. Blbý bylo, že jsem na to myslel, ale nezvládl jsem to implementovat. Když to teď píšu, dochází mi, že jsem na to měl napsat spíš test než separátní testovací aplikaci<br>
+Co už. Rozchodil jsem to a pomocí Qt rozblikal přes USB diodu. Control endpointem.<br>
+Doma Veru dokončovala kurz DELE. Já si nechal pomoci gemini spojit výsledky všech posledních diagnostik mého těla a dospěl jsem k názoru, že krome SVES a sinusové arytmie, které by mě neměly ohrožovat jsem zdravý jak řípa.<br>
+Opravdu za tím asi bylo moc kombuchy.<br>
 [>> Únor](2026_march.md)<br>
