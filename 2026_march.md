@@ -156,7 +156,7 @@ Opravdu za tím asi bylo moc kombuchy.<br>
 
 ### 11.3. Přes sad ne
 
-Jógu jsme nestihli. Měli jsme se a byl sportovní až kam. Po snídani jsem pustil myčku na machine care. Ikona o které si Veru myslela, že říká nedostatek leštidla byla ve skutečnosti španavá myčka.<br>
+Jógu jsme nestihli. Měli jsme se a byl sportovní až kam. Po snídani jsem pustil myčku na machine care. Ikona o které si Veru myslela, že říká nedostatek leštidla byla ve skutečnosti špinavá myčka.<br>
 Po kostkách pod Klíčovem jsem sjel na Franzovi do práce. Ludvík v noci psal, že je třeba pohnout s Ks a na to je třeba pohnout s TQM. Upravoval jsem proto strom a poslal to Kenovi.<br>
 V jídelně jsem se paní ptal, jestli je možný získat k vegetariánskému jídlu dezert. Prý je a dostal jsem ho gratis.<br>
 Krome Tak jsem ale s ničím moc nepohnul. Než jsem se nadál jel jsem po šestý zpátky do Letňan. Zkusil jsem to tunýlkem pod kolejemi za AFI tower.<br>
