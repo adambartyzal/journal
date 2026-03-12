@@ -13,6 +13,7 @@
 - [8.3. Jizva, hadičky a mírná usmíření](#83-jizva-hadičky-a-mírná-usmíření)
 - [9.3. Sinusová arytmie zní jako oxymóron](#93-sinusová-arytmie-zní-jako-oxymóron)
 - [10.3. G0 půjde použít](#103-g0-půjde-použít)
+- [11.3. Přes sad ne](#113-přes-sad-ne)
 
 
 ### 1.3. Kde tu energii bere?
@@ -141,9 +142,30 @@ Verunka udělala Čínu s shiitake. Byla moc dobrá, ale kilometry na kole a ne 
 ### 10.3. G0 půjde použít
 
 Začali jsme novou jóga sérii. Home. První díl byl moc dlouhý, takže jsme si dali druhý. Nic moc nového nepřinesl, ale protažení to bylo fajn. Veru Chvátala a snídani si vzala v krabičce. Já si čočku snědl v klidu, zalil kytky, přesadil zelenec z kelímku a pověsil obrazy do ložnice.<br>
+
+<a href="../images/2026_march/10_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/10_1.jpg"></a>
+
 Dolů jsem jel po uzavření silnici. Bez sněhu to byla asi nejrychlejší cesta.<br>
 Pokračoval jsem v USBčkách na G0. Někdy po obědě jsem objevil proč mi host nebere deskriptor. Buffer unsigned charů jsem správně převáděl na buffer unsigned longů až do posledních pár bajtů. Blbý bylo, že jsem na to myslel, ale nezvládl jsem to implementovat. Když to teď píšu, dochází mi, že jsem na to měl napsat spíš test než separátní testovací aplikaci<br>
 Co už. Rozchodil jsem to a pomocí Qt rozblikal přes USB diodu. Control endpointem.<br>
 Doma Veru dokončovala kurz DELE. Já si nechal pomoci gemini spojit výsledky všech posledních diagnostik mého těla a dospěl jsem k názoru, že krome SVES a sinusové arytmie, které by mě neměly ohrožovat jsem zdravý jak řípa.<br>
+
+<a href="../images/2026_march/10_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/10_2.jpg"></a>
+
 Opravdu za tím asi bylo moc kombuchy.<br>
+
+### 11.3. Přes sad ne
+
+Jógu jsme nestihli. Měli jsme se a byl sportovní až kam. Po snídani jsem pustil myčku na machine care. Ikona o které si Veru myslela, že říká nedostatek leštidla byla ve skutečnosti španavá myčka.<br>
+Po kostkách pod Klíčovem jsem sjel na Franzovi do práce. Ludvík v noci psal, že je třeba pohnout s Ks a na to je třeba pohnout s TQM. Upravoval jsem proto strom a poslal to Kenovi.<br>
+V jídelně jsem se paní ptal, jestli je možný získat k vegetariánskému jídlu dezert. Prý je a dostal jsem ho gratis.<br>
+Krome Tak jsem ale s ničím moc nepohnul. Než jsem se nadál jel jsem po šestý zpátky do Letňan. Zkusil jsem to tunýlkem pod kolejemi za AFI tower.<br>
+
+<a href="../images/2026_march/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/11_1.jpg"></a>
+
+Vedl ke dvěma obřím trubkám skrz sad, který by mohl být hezký, nebýt hromady odpadků okolo oněch trubek. Na kole cesta nic moc.<br>
+
+<a href="../images/2026_march/11_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/11_2.jpg"></a>
+
+Verunce jsem slíbil, že uvařím noky se zelím. To mi zabrat. celý večer, neb jsem to proložil dvěma hodinami KCDčka. Vplížit se na Talmberk šlo, ale pan Ptáček se stejně nechal střelit a výsledek byl stejný<br>
 [>> Únor](2026_march.md)<br>
