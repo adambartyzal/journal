@@ -14,6 +14,7 @@
 - [9.3. Sinusová arytmie zní jako oxymóron](#93-sinusová-arytmie-zní-jako-oxymóron)
 - [10.3. G0 půjde použít](#103-g0-půjde-použít)
 - [11.3. Přes sad ne](#113-přes-sad-ne)
+- [12.3. Příslib lepšího měření](#123-příslib-lepšího-měření)
 
 
 ### 1.3. Kde tu energii bere?
@@ -168,4 +169,15 @@ Vedl ke dvěma obřím trubkám skrz sad, který by mohl být hezký, nebýt hro
 <a href="../images/2026_march/11_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/11_2.jpg"></a>
 
 Verunce jsem slíbil, že uvařím noky se zelím. To mi zabrat. celý večer, neb jsem to proložil dvěma hodinami KCDčka. Vplížit se na Talmberk šlo, ale pan Ptáček se stejně nechal střelit a výsledek byl stejný<br>
+
+### 12.3. Příslib lepšího měření
+
+Možná to byla gotu kola? Spal jsem fajn až do půl šestý. Budík byl sice na později, ale zvyk je železná košile. Takže jsme v pohodě stihli jak jógu, tak snídani.<br>
+Venku pršelo. Ne moc na to aby heslo jezdit na kole, ale dost na to aby to byl trochu ojet. Naštěstí jsem v práci našel suchý kalhoty.<br>
+
+<a href="../images/2026_march/12_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/12_1.jpg"></a>
+
+Pustil jsem se do kreslení HSlock testeru. Šlo mi to pomalu, ale vybral jsem MCU a začal kreslit věci okolo.<br>
+Libre se maličko zberchalo. Modřina se asi pomalu rozpouštěla. Allegro mi napsalo, že mi pošlou další zadarmo. Měl jsem radost.<br>
+Verunka byla na návštěvě na základce na Vinohradech. Doma mi o tom vyprávěla nadšeně, ale vlastně nevídala, jestli je to něco, co by chtěla. Povídali jsme si o budoucnosti a tom, co nás čeká. Sám jsem na to byl zvědavej.<br>
 [>> Únor](2026_march.md)<br>

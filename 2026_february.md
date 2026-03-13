@@ -27,9 +27,9 @@
 - [21.2. Smrt prachu](#212-smrt-prachu)
 - [22.2. Něco málo](#222-něco-málo)
 - [23.2. Příchod jara](#232-příchod-jara)
-- [24.2](#242)
-- [](#-2)
-- [26.2. Borg](#262-borg)
+- [24.2 24.2. Bulovka v noci nic moc](#242-242-bulovka-v-noci-nic-moc)
+- [25.2. Pořád něco špatně](#252-pořád-něco-špatně)
+- [26.2. Borgem i já](#262-borgem-i-já)
 - [28.2. Do Kolína a Ratboře](#282-do-kolína-a-ratboře)
 
 
@@ -347,52 +347,63 @@ Před domem jsem se zastavil u cvičítek. Pár shybů má docela sundalo. Byl j
 <a href="../images/2026_february/23_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/23_1.jpg"></a>
 
 
-### 24.2 
+### 24.2 24.2. Bulovka v noci nic moc
 
-
-<a href="../images/2026_february/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/24_1.jpg"></a>
-
-
-<a href="../images/2026_february/24_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/24_2.jpg"></a>
-
+Je hustý jak moc sluníčko mění náladu. Celý ráno jsem byl otrávenej, měl pocit že moje balení rukou musí být periferní neuropatie a že jet do práce se mi vůbec nechce. Ale stačilo vytáhnout Franze ze sklepa a jet 20 minut sluncem zalitou cestou a došlo mi , že svět není uplně na píču, ruce mě bolí, protože jsem večer posiloval a že když se budu hýbat víc, bude ze mě menší chcípák.<br>
+Během dne se ze mě ale větší chcípák stával. Byla mi podivná zima na paže a když jsem dobojoval v půl Šestý s překladem CBC s novou knihovnou, přišly na mě mdloby. Tak moc že jsem volal 155. Domluvili jsme se, že dojdu na neurologii na Bulovce. Badminton jsem odvolal a vyrazil tramvají do Nemocnice<br>
+Narozdíl od Vinohradský nepůsobila moc moderně. I kdyžTěžko říct, byla tma. Na neurologii si mě nikdo nevšímal. Až po asi čtvrt hodina" se mi paní rozhodla říct, že bych mel jít na internu. Na internu jsem tedy šel.<br>
+Tam to žilo víc. Vzali má skoro hned. Zmařili mi EKG a tlak a vzali 3 ampule krve. A pak mě posadili u chodbu.<br>
 
 <a href="../images/2026_february/24_3.jpg" target="_blank"><img src="../images/thumbnails/2026_february/24_3.jpg"></a>
 
+Na tři hodiny. Během těch mě omdlévací stav opustil a přišla na mě ohromná nuda. Vlastně jsem mohl celou tu dobu psát deník. Třeba o tom, jak jsem Úspěšné zlinearizoval převodní charakteristiku a napsal 01 algoritmus na interpolaci.<br>
 
-###
+<a href="../images/2026_february/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/24_1.jpg"></a>
 
+Pomohl jsem si AI, ale do C++ jsem to přepsal sám a overil to v praxi.<br>
+
+<a href="../images/2026_february/24_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/24_2.jpg"></a>
+
+S K sondou se to až podezřele shodovalo. Bylo načase poslat to do CBC, který mele poslední commit 6 let zpátky. Přepis na novej event loop byl na dýl. Ale když už jsem se do toho pustil, chtel jsem to udělat pořádně.<br>
+
+### 25.2. Pořád něco špatně
+
+4 hodiny spánku nebyly nic moc. K snídani doma nic nebylo a tak jsem to na autobus vzal přes Penny a koupil Kornbageta a sýr. Cítil jsem se docela ok. Aspoň dopoledne, kdy jsem přemýšlel jak d. CBC poslat teplotu CBN.<br>
+Před polednem jsme šli na oběd k Hubatkům. Moli totiž zapečený květák s bramborem. Asi poprvé, co jsem tam viděl rege variantu.<br>
+Tak dvě hodiny po jídle to ale začalo jít z kopce. Napřed bolení hlavy, potom mravenčení prstů a někdy ve čtyři se mi udělalo opravdu blbě. Rozbušilo se mi srdce a když jsem se prstem snažil nahmatat jak rychle běží. ucítil jsem Hukot víc než 5x za sekundu. Podivně venku. Možná že adrenalin poslal tolik elektřiny do srdce, že mi kmitat i prsní sval? Těžko říct, bylo to divný.<br>
+Vláďa mě naštěstí viděl a kdybych odpadl úplně, volal by rychlou. Naštěstí jsem to vydýchal. Ale dokopalo mě to k rozhodnutí, že k praktikovi půjdu hned ráno.<br>
 
 <a href="../images/2026_february/25_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/25_1.jpg"></a>
 
 
-<a href="../images/2026_february/28_3.jpg" target="_blank"><img src="../images/thumbnails/2026_february/28_3.jpg"></a>
-
-
-### 26.2. Borg
+### 26.2. Borgem i já
 
 Ráno jsem se cítil líp. Fakt se mi k doktorovi nechtělo. Ale den zpátky jsem měl tajemný srdeční záchvat, to není prdel. Nečůral jsem do sklenice, napil se vody a vyrazil na sto třicet šestka. Jela na Spořilov dlouho, ale bez přestupu.<br>
 V XM čtyrkách jsem slyšel chirping. Musel jsem zvednout kvalitu přenosu Spotify. Ne že by nebylo fajn poslouchat lepší kvalitu, ale utrácení peněz vede k dalšímu utrácení peněz.<br>
-Doktor moc nevěděl co se mnou. Poslal mě na krev, zmařit minerály, protože draslík se při minulém maření rozpadl . Pak mi napsal žádanku na sono srdce a heltera na 48 hodin. V půl desátý jsem jel přes zahraďák do práce. A tam po chvilce s Ivanem a Vláďou do AFI na smažák.<br>
-Bylo mi líp. Po jídle se mi trochu točila hlava, alenebylo mi, jako bych měl za minutu omdlít. Do večera jsem dokonce donutil CBC vyčítat teplot z CBN a přitom alokovat výkon.<br>
+Doktor moc nevěděl co se mnou. Poslal mě na krev, zmařit minerály, protože draslík se při minulém maření rozpadl . Pak mi napsal žádanku na sono srdce a holtera na 48 hodin. V půl desátý jsem jel přes zahraďák do práce. A tam po chvilce s Ivanem a Vláďou do AFI na smažák.<br>
+Bylo mi líp. Po jídle se mi trochu točila hlava, ale nebylo mi, jako bych měl za minutu omdlít. Do večera jsem dokonce donutil CBC vyčítat teplot z CBN a přitom alokovat výkon.<br>
 Vláďa se prokousával Implementací HALU. Šlo mu to děsně rychle. Zato Damien navážel. Ještě po šestý nám psal, že Restet by měl řešit kernel, jenže EMV říká, že to řeší 21. Co už.<br>
 Bylo to %. Vzal jsem kolo. Holter potřeboval nějaký skutečný data. Během jízdy mě trochu bolela hlava, ale srdeční selhání ne. Díky za to. Doma jsem si dal chleba a šel odpočívat.<br>
-Vern už byla na hotelu v posteli. Stýskalo se jí a poslala mi pár mizejících fotek. Nic extra odvážnýho, ale slušelo jí to babě mají! Naneštěstí mi volala mámato mě a nálady vytrhlo.<br>
+Vern už byla na hotelu v posteli. Stýskalo se jí a poslala mi pár mizejících fotek. Nic extra odvážnýho, ale slušelo jí to babě mají! Naneštěstí mi volala máma a to mě a nálady vytrhlo.<br>
 
 ### 28.2. Do Kolína a Ratboře
 
 Slíbil jsem mámě, že za ni přijedu. Vlak měl jet po desátý z Libně a tak jsem měl nějaký čas na sklízení prádla ze sušáku, zalití kytek, uložení jídla do krabiček a do mrazáku, sundání holteru a očištění fleků, po elektrodách ve sprše. Snídani jsem ale docela uspěchal abych stihl sto třicet šestku.<br>
-Na zastávce na mě svítilo sluníčko. Se zavřenýma očima jsem se vystavil záři a vstřebával déčko. V Libni taky chvilku. Pak jsem se přidal do kupé ke dvěma němcům a páru dánů. Po chvilce jestě přišel pár Indů.<br>
+Na zastávce na mě svítilo sluníčko. Se zavřenýma očima jsem se vystavil záři a vstřebával déčko. V Libni taky chvilku. Pak jsem se přidal do kupé ke dvěma němcům a páru dánů. Po chvilce ještě přišel pár Indů.<br>
 Měl jsem 3% baterie a tak jsem dal mobil do letadla, pustil offline Coldplay a ponořil se do introvertní cesty do klína.<br>
-Tam nejen že bylo sluníčko, ale u země nebyla mlhajako v Praze. S kávou z Momenta jsem vyrazil k mámě. Vyjít u ní sedm pater bylo po našich devíti docela jednoduchý. Přivítali jsme se a dostal jsem chleba s tuňákovou pomazánkou.<br>
+Tam nejen že bylo sluníčko, ale u země nebyla mlha jako v Praze. S kávou z Momenta jsem vyrazil k mámě. Vyjít u ní sedm pater bylo po našich devíti docela jednoduchý. Přivítali jsme se a dostal jsem chleba s tuňákovou pomazánkou.<br>
 
 <a href="../images/2026_february/28_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/28_1.jpg"></a>
 
 Ve 12 jsme vyrazili ven. Mámě začaly vycházky. Vyrazili jsme k rybníku Pekle. Kolem vodojemu, skrz zahrádky s řadou obrácených patníků, po soukromé cestě která nikam nevedla a pak po zelené kolem rybníka.<br>
-Povídali jsme si o událostech dní minulých a o tom, jak tam nový majitel nechal pokácet stromy. Máma se velmi uvážlivě vyjadřovala o lezeech na feratě na skále nad peklem. Její pohled na svět, kde každý kdo není ona je horší mě sral. Její způsob komunikace mě sral. Když jsme pak byli zpátky doma, diskutovali jsme o tom jak neumí psát lidem, že posílání odkazůbez textu je útočný a urážlivý. Že by se měla zkusit vzít do situace druhých. Neměla z toho radost, ale někdo jí musel říct pravdu aniž by u toho měl emocionální ataku.<br>
+Povídali jsme si o událostech dní minulých a o tom, jak tam nový majitel nechal pokácet stromy. Máma se velmi uvážlivě vyjadřovala o lezcích na feratě na skále nad peklem. Její pohled na svět, kde každý kdo není ona je horší mě sral. Její způsob komunikace mě sral. Když jsme pak byli zpátky doma, diskutovali jsme o tom jak neumí psát lidem, že posílání odkazů bez textu je útočný a urážlivý. Že by se měla zkusit vzít do situace druhých. Neměla z toho radost, ale někdo jí musel říct pravdu aniž by u toho měl emocionální ataku.<br>
 Dostal jsem klíče, hromadu oříšků, který odstala od Petra a po rozloučení vyrazil na vlak do Ratboře. OdKolína to bylo jen asi te minut jízdy a le minut chůze.<br>
 S Robinem jsme si hráli s míčkem, s Evou a Petrem si povídali a měli jsme černou čočku se sušenými rajčaty. Dům se fakt proměnil. Ještě to pořád byla stavba, ale nově opravený místnosti byly fakt pěkný.<br>
 
 <a href="../images/2026_february/28_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/28_2.jpg"></a>
 
-Povídali jsme si asi do půl desátý a pak šli spát. Já byl uložený na gauči v obyváku. Jestě jsem napsal Veru, která jela s ostatními z Itálie. Už byli v Rakousku.<br>
+Povídali jsme si asi do půl desátý a pak šli spát. Já byl uložený na gauči v obýváku. Ještě jsem napsal Veru, která jela s ostatními z Itálie. Už byli v Rakousku.<br>
+
+<a href="../images/2026_february/28_3.jpg" target="_blank"><img src="../images/thumbnails/2026_february/28_3.jpg"></a>
+
 [>> Únor](2026_march.md)<br>
