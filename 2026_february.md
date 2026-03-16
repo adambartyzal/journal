@@ -5,7 +5,6 @@
 
 - [1.2. Za lví silu](#12-za-lví-silu)
 - [2.2. Zásilka, nemoc a kocour bez ucha](#22-zásilka-nemoc-a-kocour-bez-ucha)
-- [](#)
 - [3.2. Doma](#32-doma)
 - [4.2. Vlivník s kytarou](#42-vlivník-s-kytarou)
 - [5.2. Pěšky](#52-pěšky)
@@ -61,9 +60,6 @@ Na cestě zpět mi z ničeho nic došla energie a přišla na mě velká zima. N
 Teplá sprcha a rovnou do postele. Až když jsem si zapnul zahřívadlo, zadala mi být líp. Vyprat útěky zřejmě nestačilo, nečím jsem se nakazil a vypadalo to, že to přes jednu noc nevyležím.<br>
 Eva mi vede napsala, že jí volal táta a že byl nějakej divnej. Prý slo o kocoura, ale nevíš.. emoce s ním nikdy moc nehnuly.. co kdyby měl nějakou mrtvici. Zadal jsem mu a dozvěděl se, že kocourovi uřízli ucho a že z toho byl špatnej. A že se to sešlo s dalšíma věcma.<br>
 Chvíli jsme si povídali. Vlastně to bylo fajn.<br>
-
-### 
-
 
 ### 3.2. Doma
 
