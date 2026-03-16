@@ -27,11 +27,11 @@
 - [22.1. Rodiny jsou občas úplně na píču](#221-rodiny-jsou-občas-úplně-na-píču)
 - [23.1. Desky, brokolice a očkování](#231-desky-brokolice-a-očkování)
 - [](#)
+- [25.1. Docela dobrá neděle](#251-docela-dobrá-neděle)
+- [26.1. Metro vektorově](#261-metro-vektorově)
 - [](#-1)
-- [](#-2)
-- [](#-3)
 - [28.1. Budoucnost stojí na nás](#281-budoucnost-stojí-na-nás)
-- [](#-4)
+- [29.1. Rozchodit, co už fungovalo](#291-rozchodit-co-už-fungovalo)
 - [30.1. Fólie, ruce \& divočák](#301-fólie-ruce--divočák)
 - [31.1. Parkový a čokoládový magnát](#311-parkový-a-čokoládový-magnát)
 
@@ -359,17 +359,24 @@ Veru doma byla úplně jetá. Stěží se zvedla z gauče. Ta brokolici jsme zvl
 <a href="../images/2026_january/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/24_1.jpg"></a>
 
 
-###
+### 25.1. Docela dobrá neděle
 
+Verunka připravila fantastickou snídani. Z nějakého tajemného důvodu ale potraviny padaly z vidliček na stůl a kafe i čaj kapalo při přelévání do hrnků.<br>
 
 <a href="../images/2026_january/25_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/25_1.jpg"></a>
 
+Dál moje poznámky říkaly: sex až do dvou. Trochu pochybuju, že bychom od snídaně měli sex až do druhé odpolední, ale že bychom dělali cokoliv jinýho jsem si taky nedokázal vybavit. Asi to musela být pravda.<br>
+Pak jsme se váleli, koukali na jeden díl Futuramy za druhým a najednou bylo devět. Dali jsme si večerní uklidňovací jógu a šli spát. Byla to nic nedělající neděle. Tak jak to bible vyžadovala. Jako že se Adam jmenuju.<br>
 
-###
+### 26.1. Metro vektorově
 
+Pondělí. Asi jediný den, kdy je možný vstát, nasnídat se a vyrazit do práce dřív než se Verunka vůbec vyhrabe z postele. To že taková možnost existuje ještě neznamená, že ji využívám. Tentokrát se to tak ale opravdu událo.<br>
+Stavba čtyřech prototypů mě bavila. Diody byly titěrný a fakt, že úspěšné dokážu stavět zařízení z takových blech mě naplňoval. Nešlo to ale moc rychle a 4 HLA byly hotovy" až po páté. Trouba totiž vzdorovala a já pekl na několikrát.<br>
 
 <a href="../images/2026_january/26_1.jpg" target="_blank"><img src="../images/thumbnails/2026_january/26_1.jpg"></a>
 
+Protože Ivan se věnoval laseru, rozhodl jsem se nakreslit dlaždice pro metro ze dřeva. S výsledkem jsem byl extrémně spokojeny.<br>
+I Verunce se to líbilo. Bylo třeba aby Ivan kopl do vrtule.<br>
 
 ###
 
@@ -392,8 +399,11 @@ A kino na Čerňáku. ČSFD projekce. Sos od Raimiho. Seděl jsem vedle fajn dre
 Film to byl překvapivě dobrej. Nešlo moc odhadnout, jak se bude vyvíjet v následujících pěti minutách.<br>
 Zpátky jsem jel autobusem přímo po okruhu. Ideálním pro Verunka. Vlastně jsem nechápal, proč s ním nejezdí. Nadšené jsem jí to v posteli říkal, ale skrz polospánek to k ní nedoproudilo.<br>
 
-###
+### 29.1. Rozchodit, co už fungovalo
 
+Dál jsem pracoval na čtyřech zámcích pro Alcineo. Dostavěl jsem je, ale bylo třeba je poslat funkční. Vláďa rozchodil displej, na mě zbýval FDCAN a pípák. Ten druhý byl jednodušší. Bylo třeba rozchodit správný časovač. TM2 byl můj kamarád. Napřed jsem byl o oktávu níž, ale bylo to módem PWM. Nějak špatně jsem zapisoval do Configuration Registru.<br>
+CAN byl horší. Pochopit co je CAN Core, CAN Quantum s Kdo ví co dalšího nebylo na poslední hodinu před odchodem, začal jsem, ale moc nepokročil. Zítra je taky den řekl jsem si.<br>
+Večer jsem upekl chleba. Takovej rychlej jednoduchej. Přišlo mi to lepší, než jít do obchodu.<br>
 
 ### 30.1. Fólie, ruce & divočák
 

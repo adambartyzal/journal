@@ -15,6 +15,9 @@
 - [10.3. G0 půjde použít](#103-g0-půjde-použít)
 - [11.3. Přes sad ne](#113-přes-sad-ne)
 - [12.3. Příslib lepšího měření](#123-příslib-lepšího-měření)
+- [13.3. Trochu lásky pro Franze III](#133-trochu-lásky-pro-franze-iii)
+- [14.3. 55](#143-55)
+- [](#)
 
 
 ### 1.3. Kde tu energii bere?
@@ -180,4 +183,49 @@ Venku pršelo. Ne moc na to aby heslo jezdit na kole, ale dost na to aby to byl 
 Pustil jsem se do kreslení HSlock testeru. Šlo mi to pomalu, ale vybral jsem MCU a začal kreslit věci okolo.<br>
 Libre se maličko zberchalo. Modřina se asi pomalu rozpouštěla. Allegro mi napsalo, že mi pošlou další zadarmo. Měl jsem radost.<br>
 Verunka byla na návštěvě na základce na Vinohradech. Doma mi o tom vyprávěla nadšeně, ale vlastně nevídala, jestli je to něco, co by chtěla. Povídali jsme si o budoucnosti a tom, co nás čeká. Sám jsem na to byl zvědavej.<br>
-[>> Únor](2026_march.md)<br>
+
+### 13.3. Trochu lásky pro Franze III
+
+Modřina po prasknutí žíle začínala černat. Přišlo mi to spíš vtipný než problém. Navíc, kolem senzoru už se hematom nejspíš rozpustil, protože měření začínalo vypadat reálně.<br>
+Na cestě do práce tentokrát nepršelo. Bylo slunko a zima, ale bylo vidět, že v poledne přijde teplo. Koukal jsem na nějaké vadné baterie, trochu na schéma hslock testeru a trochu na to, jak přepsat USB na to, aby fungovalo univerzálně. V G0 sice datovalo, a rozbil jsem interface.<br>
+Protože senzo na tom byl líp, bylo třeba ho otestovat. Ve Věži meli ovocný knedlíky a na poličce u Ádi jsme měli bonbony. Vyhnal jsem to na 8,9 mmol/l. A to jsem se hýbal. Inzulinovou rezistenci jsem asi neměl.<br>
+Franz zasloužil trochu péče. Zima mu dala zabrat. Očistil jsem ho mapkou, namazal řetěz, porovnal osmičku, vyměnil destičky a vztekal se, protože brzdily hůř než ty sjetý.<br>
+
+<a href="../images/2026_march/13_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/13_1.jpg"></a>
+
+Veru měla večer koncert v Šedým psovi. Nechala mi doma těstoviny s pestem. Další glykemický nápor. Byť ztlumený olivovým olejem.<br>
+Pustil jsem si KCD, vyhrál bitvu v údolí, ochránil prak a připraví se na dobývání Talmberka.<br>
+
+### 14.3. 55
+
+Ráno jsem byl úplně mrtvej. A to jsem na rozdíl od Verunky spal 8 hodin. Kofeinová deficit mě doháněl. Posledních pár dní jsem jel na několika kárách a hromadě zeleného čaje.<br>
+Veru udělala k snídani beluga s květákem a zelenými fazolkami. Bylo to moc dobrý, glukózu to drželo v rovině a zbylo i do vlaku. V 9 jsme vyrazili na hlavák a po ¾ hodině sezení v longi kvůli zpoždění jsme slunečným dnem vyjeli do Ostravy slavit Janiny narozeniny.<br>
+
+<a href="../images/2026_march/14_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/14_1.jpg"></a>
+
+Veru ve vlaku řešila DELE, já psal a poslouchal Lucu Sestaka. Jeho předělávka Chopinova Nocturna byla úplně jinde. Orgasmus pro uši.<br>
+
+<a href="../images/2026_march/14_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/14_2.jpg"></a>
+
+Hynek nás vyzvedl na Svinově a hodit nás do OBI. Koupilijsme Janě k narozeninám věčný plamen. Až do té doby jsem tu kytku nikdy neviděl, ale byla fakt pěkná. Než jsme jí zaplatili, vyzvedl Hynek dort a společně jsme dojeli na Petruškovu.<br>
+Luky už byl přítomen. Miki nás sice pozdravila , ale než se ukázali Borkovi, někam zmizela a po zbytek večera jsme jí už neviděli. Škoda. Byla to fajn oslava. Dobrej dort. Fajn jídlo. Spousta vtipů, milé konverzace a hudba až do noci dole u krbu. Na táborákový hity mě moc neužije, ale myslím, že Jirka i Hynek mě mají rádi a nějaký to kytarový drnkání ocenili i z mý strany.<br>
+
+<a href="../images/2026_march/14_3.jpg" target="_blank"><img src="../images/thumbnails/2026_march/14_3.jpg"></a>
+
+Netáhli jsme to ale nesmyslně dlouho. Děda s Borkovými vyrazili asi v 11. Hynek před půlnocí taky došel k názoru, že postel volá a Veru usnula na gauči. Uzavřeli jsme to s Lukym někdy před jednou<br>
+
+###
+
+
+<a href="../images/2026_march/15_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/15_1.jpg"></a>
+
+
+<a href="../images/2026_march/15_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/15_2.jpg"></a>
+
+
+<!--
+
+[>> Dubem](2026_april.md)<br>
+
+-->
+

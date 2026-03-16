@@ -4,8 +4,8 @@
 
 
 - [1.2. Za lví silu](#12-za-lví-silu)
+- [2.2. Zásilka, nemoc a kocour bez ucha](#22-zásilka-nemoc-a-kocour-bez-ucha)
 - [](#)
-- [](#-1)
 - [3.2. Doma](#32-doma)
 - [4.2. Vlivník s kytarou](#42-vlivník-s-kytarou)
 - [5.2. Pěšky](#52-pěšky)
@@ -21,15 +21,16 @@
 - [15.2. Ďábelský kopec](#152-ďábelský-kopec)
 - [16.2. Vláďovy narozky](#162-vláďovy-narozky)
 - [17.2. Obyčejnej život](#172-obyčejnej-život)
-- [18.2.](#182)
+- [18.3. Otec Matka Sestra Bratr](#183-otec-matka-sestra-bratr)
 - [19.2. Balkán pičo](#192-balkán-pičo)
 - [20.2. Místo trezoru rádio](#202-místo-trezoru-rádio)
 - [21.2. Smrt prachu](#212-smrt-prachu)
 - [22.2. Něco málo](#222-něco-málo)
 - [23.2. Příchod jara](#232-příchod-jara)
-- [24.2 24.2. Bulovka v noci nic moc](#242-242-bulovka-v-noci-nic-moc)
+- [24.2. Bulovka v noci nic moc](#242-bulovka-v-noci-nic-moc)
 - [25.2. Pořád něco špatně](#252-pořád-něco-špatně)
 - [26.2. Borgem i já](#262-borgem-i-já)
+- [27.2. Naprd](#272-naprd)
 - [28.2. Do Kolína a Ratboře](#282-do-kolína-a-ratboře)
 
 
@@ -46,14 +47,20 @@ Bylo to fajn odpoledne. Škoda že Jarda se Sárou, kteří byli někde v davu d
 <a href="../images/2026_february/01_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/01_2.jpg"></a>
 
 
-### 
+### 2.2. Zásilka, nemoc a kocour bez ucha
 
+Na devátou byl objednaný odvoz zámků fedexem. Byl. třeba je nahrát a zabalit Vyrazil jsem tak autobusem brzy a stihl to všechno včas. Fedex přijel ve 12.<br>
 
 <a href="../images/2026_february/02_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/02_1.jpg"></a>
 
+Taky jsem do práce přinesl vyprané utěrky vysloužil si tím pochvalu na Slachu. O tu mi neslo. Chtěl jsem v kuchyni sušit nádobí bez obav z nových mutací kdejakého viru.<br>
 
 <a href="../images/2026_february/02_2.jpg" target="_blank"><img src="../images/thumbnails/2026_february/02_2.jpg"></a>
 
+Na cestě zpět mi z ničeho nic došla energie a přišla na mě velká zima. Než jsem dojel domů, byla z toho zimnice.<br>
+Teplá sprcha a rovnou do postele. Až když jsem si zapnul zahřívadlo, zadala mi být líp. Vyprat útěky zřejmě nestačilo, nečím jsem se nakazil a vypadalo to, že to přes jednu noc nevyležím.<br>
+Eva mi vede napsala, že jí volal táta a že byl nějakej divnej. Prý slo o kocoura, ale nevíš.. emoce s ním nikdy moc nehnuly.. co kdyby měl nějakou mrtvici. Zadal jsem mu a dozvěděl se, že kocourovi uřízli ucho a že z toho byl špatnej. A že se to sešlo s dalšíma věcma.<br>
+Chvíli jsme si povídali. Vlastně to bylo fajn.<br>
 
 ### 
 
@@ -258,8 +265,13 @@ Na Zahraďák jsem jel a devítkou. Nostalgie jak blázen.Pustil jsem si na lapt
 Marťa badmintonu moc nedala. 3:1 jsem vyhrál. S Tomem ale působila spoko. Měl jsem radost. Akorát prý většinu zimy marodili.<br>
 Většinu filmu jsem dokoukal v autobuse ze Zahraďáku do Letňan. Ten mě potratit, protože na zastávce výstaviště Letňany prostě nezastavil a jel někam dozadu, kde pršelo a já musel zbytek dojít pěšky.<br>
 
-### 18.2.
+### 18.3. Otec Matka Sestra Bratr
 
+TODO: finish<br>
+Byla středa a Veru mela naplánovaný hardshoes. Co já? Já se přihlásil na ČSFD projekci. Nový Jim Jarmuch. Ve Světozoru. Shodou okolností šel po práci Vláða do Světozoru taky. Šel na kvíz o knížkách. Jeho kamarádka se rozhodla vyhrát a sestavila tým expertů. Kvíz ale začínat později a tak jsme se minuli.<br>
+Zato na mě po výstupu z metra mávala nějaká dredatá holka. Zprvu jsem si to nespojil, ale byla to stejná holka jako na poslední projekci. Dali jsme se do řeči, přeskočili obří frontu, která nevedla do našeho sálu, ale lidi se do ní dobrovolně řadili.<br>
+Film to byl extrémně divnej. 100% Jarmuch. Vedl od­nikud nikam a člověk tak dvě a půl hodiny žil životy jiných. Životy zvláštní. Jinak zajímavý. Jinak na hovno. Ponořil jsem se do toho a byl nadšenej. Ale chápal jsem lidi, který to urazilo.<br>
+Jejich boj.<br>
 v 5:55<br>
 busem spolu<br>
 před osmou v práci<br>
@@ -347,7 +359,7 @@ Před domem jsem se zastavil u cvičítek. Pár shybů má docela sundalo. Byl j
 <a href="../images/2026_february/23_1.jpg" target="_blank"><img src="../images/thumbnails/2026_february/23_1.jpg"></a>
 
 
-### 24.2 24.2. Bulovka v noci nic moc
+### 24.2. Bulovka v noci nic moc
 
 Je hustý jak moc sluníčko mění náladu. Celý ráno jsem byl otrávenej, měl pocit že moje balení rukou musí být periferní neuropatie a že jet do práce se mi vůbec nechce. Ale stačilo vytáhnout Franze ze sklepa a jet 20 minut sluncem zalitou cestou a došlo mi , že svět není uplně na píču, ruce mě bolí, protože jsem večer posiloval a že když se budu hýbat víc, bude ze mě menší chcípák.<br>
 Během dne se ze mě ale větší chcípák stával. Byla mi podivná zima na paže a když jsem dobojoval v půl Šestý s překladem CBC s novou knihovnou, přišly na mě mdloby. Tak moc že jsem volal 155. Domluvili jsme se, že dojdu na neurologii na Bulovce. Badminton jsem odvolal a vyrazil tramvají do Nemocnice<br>
@@ -385,6 +397,12 @@ Bylo mi líp. Po jídle se mi trochu točila hlava, ale nebylo mi, jako bych mě
 Vláďa se prokousával Implementací HALU. Šlo mu to děsně rychle. Zato Damien navážel. Ještě po šestý nám psal, že Restet by měl řešit kernel, jenže EMV říká, že to řeší 21. Co už.<br>
 Bylo to %. Vzal jsem kolo. Holter potřeboval nějaký skutečný data. Během jízdy mě trochu bolela hlava, ale srdeční selhání ne. Díky za to. Doma jsem si dal chleba a šel odpočívat.<br>
 Vern už byla na hotelu v posteli. Stýskalo se jí a poslala mi pár mizejících fotek. Nic extra odvážnýho, ale slušelo jí to babě mají! Naneštěstí mi volala máma a to mě a nálady vytrhlo.<br>
+
+### 27.2. Naprd
+
+Spát v mikině a teplákách se hodinkám nelíbí. Stresoměr vykazoval vysoký čísla. Ale večer mi bylo chladno. Možná, že to byla spíš příčina stresu. Teplotní rozhození.<br>
+Teplotní rozhození zažil i chyt v práci. Nějak jsem nezvládl přepočet z unsigned charm na signed int a teplota během nabíjení byla -159 °C<br>
+Fyzicky mi bylo pořád naprd. Zapisoval jsem to do deníku k holteru a po jízdě na kole domů jsem šel brzo spát.<br>
 
 ### 28.2. Do Kolína a Ratboře
 
