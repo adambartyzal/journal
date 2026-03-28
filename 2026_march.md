@@ -18,6 +18,17 @@
 - [13.3. Trochu lásky pro Franze III](#133-trochu-lásky-pro-franze-iii)
 - [14.3. 55](#143-55)
 - [](#)
+- [17.3. Hardware je fajn](#173-hardware-je-fajn)
+- [18.3. Obě ruce propíchaný](#183-obě-ruce-propíchaný)
+- [](#-1)
+- [20.3. Do Hamburku... Komfortně](#203-do-hamburku-komfortně)
+- [21.3. Rebelové ve velkoměstě](#213-rebelové-ve-velkoměstě)
+- [22.3. Škoda že bez glukometru](#223-škoda-že-bez-glukometru)
+- [24.3. Slepená místo sešitá](#243-slepená-místo-sešitá)
+- [25.3. Hned to zas rozbít](#253-hned-to-zas-rozbít)
+- [26.3. Debilní nachlazení](#263-debilní-nachlazení)
+- [27.3. Radost z práce](#273-radost-z-práce)
+- [28.3. Já odpočívám](#283-já-odpočívám)
 
 
 ### 1.3. Kde tu energii bere?
@@ -222,6 +233,187 @@ Netáhli jsme to ale nesmyslně dlouho. Děda s Borkovými vyrazili asi v 11. Hy
 
 <a href="../images/2026_march/15_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/15_2.jpg"></a>
 
+
+### 17.3. Hardware je fajn
+
+Bolest ruky mě úplně neopouštěla. Tu žila jsem asi nějak úplně přetnul. Zato jóga mi pomohla s bolestí zad a po příjezdu do práce jsem byl fit.<br>
+Jo a běhal jsem! Na to jsem úplně zapomněl. Ale v pondělí ráno jsem si řekl, že pokud nepůjdu běhat, jsem sračka<br>
+A nejsem! Akorát čočka je fajn start dne pokud člověk nevydá randál energie. Takhle na mě v práci přicházela mlsná a bonbony vedle nejsem na zvládání glukózy to pravý.<br>
+Až do dvou jsem se trápil s USBčkem. Pak Jsem to zabalil a šel si kreslit převodník CAN a na USB. Hardware mě bavil víc. Vlastně tak ma, že najednou táhlo na osmou.<br>
+Večer jsem Importoval údaje z CGM do Apple health. Neslo to nepřímo ale shortcuts jsou ohromně mocný.<br>
+
+### 18.3. Obě ruce propíchaný
+
+Verunka měla kocovinu. Místo jógy tak dospávala ztrátu po koncertě v Sally. Prý stál za prd a banjista prý prohlásil. Že končí. Dostala tak superveggie, které jsem já snídal TOGO.<br>
+Ukázalo se, že aby začal Data Out endpoint odpovídat, stačí na konci aktivace poslat valid. A po komunikaci taky. A bylo to. Měl jsem ttyACM zařízení hotový.<br>
+Teda od hotovýho to bylo na míle daleko. Měl jsem prototyp. Stačilo to jen celý udělat pořádně. Což byla práce na dlouho.<br>
+Radši jsem šel pořádně překreslit převodník ze včerejška. Spočítal jsem differenciální pár, posunul napájení na opačnou stranu a udělal to celý trochu líp.<br>
+Vláda experimentoval s displejem. Ověřil, že půjde napájet ho externě. Bude duchovat, ale půjde to. Zastavili jsme Safiral. Museli z nás mít radost. Ale 150 tisíc nebo kolik nechceš spláchnout do záchodu.<br>
+V pet jsem měl být v odběrovém centru na Střížkově. Dojel jsem tam na kole. Paní doktorka byla úplně blbá. Byla to ukrajinka a jestli její intelekt stačil na titul tam, tady to způsobí průser. Naštěstí jediný co tam musí dělat je merit tlak a teplotu. CGM jí ale úplně vyvedlo z míry.<br>
+Odběr byl docela rychlej. Sestřička, která trochu připomínala Mišku, trochu Anet byla moc milá a dala mi deku.<br>
+
+<a href="../images/2026_march/18_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/18_1.jpg"></a>
+
+Měli tam otevřený okno a foukalo na mě. Vlastně jsem se úplně rozklepal. Po obědě mi totiž vystřelil cukr vysoko a několik hodin nepadal. Musel jsem to rozchodit procházkou kolem areálu. A vyšel jsem asi pozdě protože po procházce a dřepech šla glukóza prudce dolů. Pořád jsem neobjevil čím to bylo. Ale darování plasmy mi neuškodilo.<br>
+Jednoruč jsem dojel dom, dali jsme si knedlíčky z napařováku. Napařovák byl náš kamarád. Obzvlášť v době DELE, která Verunku vytěžovalo na 100%.<br>
+
+### 
+
+
+<a href="../images/2026_march/19_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/19_1.jpg"></a>
+
+
+### 20.3. Do Hamburku... Komfortně
+
+Vstát v pět abychom stihli Comfort Jet vůbec nebylo komfortní. Alespoň pro mě. Verunka to zvládla už o hodinu dříve a do pěti vedle třískala vším možným. Je pravda, že díky tomu randálu jsme meli v metru snídani, ve vlaku snídani a později i svačinu, Což jsem mrtě cenil, ale před pátou mě to štvalo.<br>
+
+<a href="../images/2026_march/20_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/20_1.jpg"></a>
+
+Comfort let byl ale super. Čtyřsedačku se stolkem jsme měli pro sebe a seděli jsme na té správné straně, takže jsme viděli východ slunka nad zamlženou Vltavou, České středohoří, České i saské Švýcarsko i polabí u Drážďan. Dál už ale není nic k vidění, takže jsme si radši pustili film.<br>
+Dark Waters. Skutečný příběh o právníkovi, který rozklíčoval tajemství hegemona jménem DuPont. Co je PFOA a proč lidé v Západní Virginii trpí hromadou nemocí. Byla to temná podívaná.A dlouhá. Dokoukali jsme jí až ve druhém vlaku. tečku z Berlína do Hamburku, který jsme stihli jen tak tak. Na přestup jsme měli to minut a nabrané zpoždění se vyšplhalo na minut osm. Nebyli jsme ale jediní, kdo přestupoval a asi by nám neujeli. Něco takovýho říkal německý rozhlas na Hauptbahnhoffu.<br>
+Místo ale v tečku nebylo. A místenka taky ne. Rozhodl jsem, že koberec na zemi u kočárků je pohodlný dost a Veru souhlasila.<br>
+V Hamburku bylo slunečno. Do check-inu jsme měli asi tři hodiny a pěšky to nebylo zas tak daleko. Vyrazili jsme po pěší štrasse tak trochu bez cíle, ale šel na nás hlad a mapa říkala, že kus od nás je fajn pekárna. Gemini nám řekl, že v Hamburku dělají pečivo, které vypadá jako rozšlápnutý Croissant. Měl pravdu. Dali jsme si to společnés jablkovým koláčem a kávou u kanálu vedle cihlového komplexu zapsaného v UNESCO.<br>
+
+<a href="../images/2026_march/20_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/20_2.jpg"></a>
+
+Mohli jsme jít přímo na hostel, ale byli bychom tam brzy. Navigoval jsem do nové části města Hafen city. Moderní věžáky, které nahradily rybářskou oblast. Bylo to pěkný, ale gentrifikace byla do očí bijící. Výhled na Labe byl fajn ale chtělo to výšku. Něco jako ochoz kolem nejvyššího domu široko daleko.<br>
+Elphilharmonie přesně takovej ochoz měla. Zadarmo zjistila Verunka. Dokonce se ani nohy nemusely použít. Nahoru vedl eskalátor.<br>
+Elphi je ten dům který má střech jako rozbouřené moře. Ochoz asi tak v půli, ale stále výš než okolní domy. Bylo to super. I záchod zadarmo nahoře by!<br>
+
+<a href="../images/2026_march/20_3.jpg" target="_blank"><img src="../images/thumbnails/2026_march/20_3.jpg"></a>
+
+Najednou ale bylo po třetí a my měli ještě kus cesty před sebou. Irská hospoda ale byla cestou a tak Jsme omrkli, team v šest máme dojít.<br>
+Hostel byl samoobslužnej, ve starým činžáku. Pokoj malej s palandou a koupelnou přes chodbu. Místo klíčů klávesničky. V přízemí byl společný prostor s klavírem. Bylo to ok.<br>
+Parlékli jsme a vyrazili do Irish Rover. Kluci tam v mezičase dojeli a hospoda začala žít. My se stavili v EDECE a koupili salát a pečivo, ale nakonec nebylo třeba. Majitel se ptal, co si dáme a z výsevu vyhrály fish & chips. Měli i veganskou verzi, ale nevařili jsme ji.<br>
+Zbytečně. Honza jí měl a vychválil.<br>
+Kapela se po jídle pustila do zvučení. Tomi Veru měli trochu nervy, ale cider a guiness je do deváté večerní utlumili.<br>
+Koncert byl super. Publikum bylo nadšení, majitel taky akapelníci ještě víc. Mě to bavit. taky moc, ale někdy před jedenáctou na mě přišla intenzivní únava. Veru řekla ať si jdu lehnout a nelámu to přes koleno.<br>
+Do st. Paoli to bylo asi 12 minut chůze a po sprše jsem padl do postele a odpadl. Vern se vrátila po půlnocinadšená. Mel jsem radost.<br>
+
+### 21.3. Rebelové ve velkoměstě
+
+V sedm ráno ve vedlejší koupelně někde zvracel. Ivan by řekl procítěně. Opravdu hodně do toho zapojoval bránici a nenechal spát nikoho na patře. Ne že bychom se mu chtěli nějak pomstít, ale o přibližně dvě hodiny později jsme dělali hluk i my. Teda Verunka. Já spíš tiše funěl. If you know what I mean.<br>
+Vyhrabat se ven nám každopádně zabralo celý dopoledne. Hráli jsme v lobby na piáno. Pili odporný kafe. Trochu lepší čokoládu a ohyzdné sladkej čaj. Taky jsme se masírovali elektrickým křeslem a když už jsme se konečně dostali ven, vrátila se Verunka pro kalhoty, protože sukně nebyla dost hřejivá.<br>
+Šli jsme do přístavu. V MHD sice probíhala stávka, ale lodíse to netýkalo. Linka číslo 62 měla jet z doku 3 a tam jsme se potkali se zbytkem kapely.<br>
+Všichni jsme si koupili celodenní lístek za 8,2€ a nastoupili na loď. Drželi jsme s Verunkou místa dole, ale nakonec jsme celou cestu stali nahoře. Tom povídal o tom, že by rád dělal na lodi. Ale takový která nejezdí na otevřený moře.<br>
+Na konečný na druhý straně Labe jsme si dali piva a sendviče s nasolenou rybou. Cibule tomu dodala docela fajn šmak. Slabší povahy by ale nemusely unést citování názvů písní kapely Gutalax, které při návštěvě bistra probíhalo. Pooh, tygr a sáček, provozují grupáček byl asi nejmíň nechutnej.<br>
+Na cestě zpátky jsme se rozdělili. Omylem. Na Verunku foukal vítr a tak jsme sešli do podpalubí. Ostatní si to vyložili tak, že jsme vystoupili na pláži a tak vystoupili u ponorky. My ale dojeli až do přístavu a protože tunel byl blízko. sestoupili jsme do podzemí.<br>
+Bylo to super! Moc pěkné udělaný dvojitý tunel pro pěší a kola s velkými výtahy na obou stranách. Stěny byly vkusně okachličkované a nikde žádný průsak vody. Na opačné straně řeky toho moc nebylo, ale meli tam kafe a výhled na přístav. Ideál na posezení dokud člověka neomrzí studený vítr.<br>
+
+<a href="../images/2026_march/21_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/21_1.jpg"></a>
+
+Tunel zpátky, neúspěšný pokus o nastoupení do nadzemky kvůli stávce a nakonec metr. k Rathaus. Před kterým byl oficiální Apple Store. Kouknul jsem na macbook neo. Byl fakt pěknej. Když jsem porovnal Airpod max proti mým MKC1, nebyl jsem zklamanej.<br>
+Ani Rathaus nás nezklamal. Architektura byla tak „stunning" jak google recenze prorokovaly. Na náměstí probíhala demonstrace proti íránskému režimu, ale lidi tam bylo jen pár. Narozdíl od demonstrace na Letné, kde se podle novin sešlo čtvrt milionu lodí.<br>
+Přicházel na nás hlad a prozřetelnost dala tomu, že jsme se blížili pekárně z minulého dne. Tentokrát jsme se uvnitř posadili a dali si slané pečivo a Chai. Navíc jsem si všiml paní, která nejedla okraje pizzy a skutečné.. když dojedla, zbyl na mě jak okraj, tak jeden celý dilek mexicana pizzy.<br>
+
+<a href="../images/2026_march/21_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/21_2.jpg"></a>
+
+U Bahn nás svezl do Reeperbahn. Red light districtu, kde na jehož kraji jsme bydleli. Verunka se připravila a vyrazila na zkoušku a večeři v Irish Rover. Já jsem si na chvíli lehnul a psal aspoň poznámky. Pomalu ale jistě mi deník opět nabíral zpoždění.<br>
+Chodí to ve vlnách. Člověk skoro dožene zpoždění, ale pak zpoždění dožene jeho. Psát rukou zdržuje. Ale Řehoř se rychle stal mým oblíbeným kusem elektroniky.<br>
+Po osmý jsem vyrazil. V edece jsem si koupil bezva salát a včas donesl Verunce stojan na noty.<br>
+Tentokrát dorazil David. Člověk díky kterému Athos hráli v Hamburku. Byl to boxer, fotbalový fanda a docela sympoš. Možná že i díky němu byl bar plnější fanoušků fotbalu, rebelských písní a bojovníků proti fašismu. Ti zpívali, tančili a znali texty písní, které kapela hrála.<br>
+
+<a href="../images/2026_march/21_3.jpg" target="_blank"><img src="../images/thumbnails/2026_march/21_3.jpg"></a>
+
+Veru i všichni ostatní byli nadšení. Duane teda občas nasadil tempo, které ostatní úplně nezvládali, ale jinak to bylo opravdu hodně fajn. Navíc majitel pozval kapelu na opakované hraní ve svých hospodách.<br>
+
+### 22.3. Škoda že bez glukometru
+
+Tentokrát nás nebudil nikdo. Pospávrali jsme v klidu až do devíti. V klidu jsme pobalili věci, uložili je do skřínky dole U kafostroje a u ohyzdné sladkého kapučíno koukli, co poslední den delat.<br>
+Miniaturwunderland vypadal zajímavě. Skoro jsem byl ochotnej dát za to 22€, ale bez včasné rezervace chtěli 62 a to si mohli strčit za klobouk. Radši jsme šli kolem stadionu a pouti na nacistický bunkr, přestavěný na hotel.<br>
+Bylo to obří monstrum. S fantastickým výhledem. Dole jsme museli odevzdat láhve, ale vstupné žádné nechtěli. Cestou nahoru jsme potkávali informační cedule s vysvětlením toho, jak z bunkru sestřelovali nacisté spojenecké letectvo a jak v něm ukrývali členy volka a obrazy spíš než veškeré obyvatelstvo.<br>
+
+<a href="../images/2026_march/22_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/22_1.jpg"></a>
+
+Německý fanda Verunčiny kapely Veru věnoval věrnostní kartičku do hipsterské kavárny. Byla kousek od nás a my se tak prošli parkem a se dvěma kávami a prvním jídlem dne, jablkovým koláčem se posadili na sluníčku před kavárnou. Byla tam s námi rodinka která kreslila křídami na chodník. Rodiče kreslili na zem požáry a děcko je hasilo konví. Bylo to edukativně-humorné.<br>
+
+<a href="../images/2026_march/22_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/22_2.jpg"></a>
+
+Čas nás ale tlačil a bylo třeba vyzvednout věci z hostelu a vyrazit k nádraží. Kolem sochy Otto Von Bismarcka. Gemini nám vysvětlil, kdo to byl a co pro Němce udělal. Bylo to dost zajímavý. První kancléř zavedl první zdravotní a důchodové pojištění a po bitvě u Hradce Králové sjednotil celé Německo.<br>
+Rozhodli jsme se Hamburk zakončit Hamburgerem. Veganskám od Vincenta. Byla to absurdní glykemická nálož na prázdnýŽaludek. Burger s Beyond meat, hranele a sladký pití. Bolehlav přišel v podstatě okamžitě. Snažil jsem se to vychodit a rozdřepovat, ale příznaky poklesu tlaku byly jasné. Rozhodl jsem se koupit si tlakoměr. Senor je dělalskoro za nic, ale všude u doktorů měli Omron. Musel k tomu bát nějaký důvod.<br>
+
+<a href="../images/2026_march/22_3.jpg" target="_blank"><img src="../images/thumbnails/2026_march/22_3.jpg"></a>
+
+Na nádraží Verunka ještě koupila něco na cestu v Edece, která byla překvapivě otevřena i když byla neděle a pět minut před odjezdem jsme se nalodili.. ne navlačili do tečka do Berlína.<br>
+
+<a href="../images/2026_march/22_4.jpg" target="_blank"><img src="../images/thumbnails/2026_march/22_4.jpg"></a>
+
+Tentokrát jsme sedali na sedačkách. S Německým teplým moc milým párem. V Berlíně jsme měli hodinu na procházku k říšskému sněmu a k památníku obětí a druhým Comfort detem jsme jeli několik hodin navíc, protože na trati prý byla překážka.<br>
+Stihli jsme dva filmy a díky znalosti Prahy i poslední denní autobus. V jednu. Moc denní nebyl.<br>
+
+### 24.3. Slepená místo sešitá
+
+Bolení v krku mě v noci neopustilo. Ba naopak. Šlo do dutin a nemoc se začala rozjíždět naplno. Blbý bylo, že šla i na Verunku.<br>
+
+<a href="../images/2026_march/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/24_1.jpg"></a>
+
+Nekašlal jsem a tak jsem nezměnil svoje plány. Jet za mámou a doprovodit jí do nemocnice na vyndavání stehů. Po Verunčině odchodu jsem si ale na chvíli lehl. Asi jsem to neměl dělat. Dobíhal jsem pak sto třicet šestku, vlak i dvojku v Kolíně. Ale dojít k mámě jsem zvládl včas a spolu jsme došli k doktoru Balíkovi, který jí vystříhal stehy a místo nich jí dal náplast. Moc vábné ten řez nevypadal. Díra přes celý břicho. Ale prý se léčila dobře.<br>
+Vrátili jsme se domu, dali si něco k jídlu a pak opět vyšli ven. Vycházky měla do čtyř a měla chodit co nejvíc to šlo. Až k zahrádkám za vodojemem a zpátky.<br>
+
+<a href="../images/2026_march/24_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/24_2.jpg"></a>
+
+Já pak došel na spěšný vlak r41 ze zastávky Kolín do Libně. V něm jsem zkusil používat gemini-eli na vyřešení chyby v CAN-USB konvertoru. Překvapilo mě, že to nebylo úplně mimo. Ale navrhovaný řešení byly krkolomný a nehezký. Na nacházení problémů dobrý. Na řešení bída. Vlastně to USB rozbil. natolik, že jsem musel vracet commit v gitu.<br>
+
+<a href="../images/2026_march/24_3.jpg" target="_blank"><img src="../images/thumbnails/2026_march/24_3.jpg"></a>
+
+Zpátky na Kolbence jsem to přepsal pořádné bez AI. A poslal 35 MB random dat do DTE. Navic jsem stepoval CAN Framy do USB paketů po 64 bytech. Fungovalo to parádně.<br>
+Pracovat od poledne do osmi by nebyl. zlý. Mel jsem večer lepší flow. Ale dojel domu v 9. Veru už ležela. Vlastně ležela už asi od čtyř. Bylo jí blbě. Já jel na ibalginu. Doplnil jsem to Česnečkou, kurkumou a zázvorem, napsal něco do deníku a přidal se k Veru.<br>
+
+### 25.3. Hned to zas rozbít
+
+Když jsem Verance radil, aby do práce jezdila 110, vůbec mě nenapadlo, že Kbelská může po ránu stát. Nenapadlo mě to ani v okamžiku, kdy přijela společně se 136 a já si jí vybral v dobrý víře. Pres ho minut jsem jel.<br>
+Verunka nejela. Bylo jí naprd. Mě taky, ale česnečka a Zázvor mě držely pohromadě. Hlavně jsem ale byl zvědavej. jak dopadl přenes náhodných dat.<br>
+Všech 135 megabajtů se přeneslo! Měl jsem radost. Připravil jsem tester pro Safiral. Od pana Ambrože jsem zjistil, že tělo na testování EBD mají stále u nich a tak mi spadl kámen ze srdce, neb jsem se bál, že jsem ho ztratil. No a po obědě jsem se pustil do unifikace USB driveru pro FO a 60. Což znamená, že jsem to celý znova rozvrtat.<br>
+A vrtal se v tom i cestou domů. I doma. Až asi do devíti večer. To už to vypadalo dobře.<br>
+Rýma mě úplně neopouštěla, ale cítil jsem, že se to lepší.<br>
+
+### 26.3. Debilní nachlazení
+
+Na Franze jsem se stále necítil. 110 taky ne. Po snídaňové Česnečce jsem vyrazil starou dobrou 136.<br>
+Do noci jsem sice koukal do kódu, ale nestačilo to. Virtuální metody generují virtuální tabulku a ta se zapíše do paměti, takže moje struktura nemohla dědit interface. Bylo třeba iniciovat ten objekt v RAMce. SRAMKA v RAMce. Trochu bizár, ale vlastně proč ne. Nakonec to bylo i docela pěkný.<br>
+Ve věži meli bulgur s houbami. Bulgur má nižší 61 než skoro všechny ostatní přílohy. Rozhodl jsem se ho zařadit do našeho jídelníčku.<br>
+
+<a href="../images/2026_march/26_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/26_1.jpg"></a>
+
+Veru zůstala doma. Udělala dryják a místo zázvoru do něj omylem dala česnek. Byla to síla. Srkal jsem to u promítání Mementa. Už mě to nachlazení nebavilo.<br>
+
+### 27.3. Radost z práce
+
+Zní to jako dobroserství, ale tentokrát jsem opravdu měl radost z práce. Teda když jsem přišel z autobusu na Kolbenku, měl jsem pocit že v provozovně chcípl pes a že prosperující firma by měla šumět a měli by v ní být lidé, ale když jsem se ponořil do svýho.. začalo mě to bavit.<br>
+Sestavil jsem nabíjecí box. Půl na půl starý a nový CBN. Vydal v buildrootu image z lokálu na test a nahrál bootloadery.<br>
+Nabíjelo to. Posílalo teploty. A nehořelo to. Vyjma jedný, kterou SAFIRAL blbě vyrobil.<br>
+Po obědě ve věži přišly desky na nové tip a na CAN-USB převodník. Dostal jsem se k tomu v 16:20. Mohl jsem jít domů, ale chtel jsem si ten převodník postavit.<br>
+Přetáhl jsem. Skoro do šesti. Ale měl jsem z toho radost. V USBčku se hned ozvat jako ST. Bootloader.<br>
+
+<a href="../images/2026_march/27_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/27_1.jpg"></a>
+
+Vyrazil jsem domů a pohled na zapadající slunko mi vnuknul nápad. Mohli bychom s Verunkou ven. Napsal jsem ji a domluvili jsme se na procházce kolem Proseckých stal a k vyhlídce Emy Destinové. V Bille jsem koupil sýrové šneky, tulipány a vyjel autobusem nahoru.<br>
+Na zastávce se mě nějaký ukrajinec ptal. Kómu neseš kytky? A když jsem mu pověděl, že ženě, ptal se jestli budeme.. a zaplácal dlaní do pěsti. Možná odvětil jsem s úsměvem.<br>
+Procházka byla hezká a výhled parádní. Květiny měly úspěch a duchapřítomná Verunka vzala teplá čaj. Po západu slunka se rychle ochladilo. Naštěstí kousek od nás jela nějaká 166. Až k nám.<br>
+
+<a href="../images/2026_march/27_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/27_2.jpg"></a>
+
+Doma jsme si dali fizule a zahráli si I-KNOW. Verunka mé rozdrtila. Ale v poslední zkrácené hře jsem vyhrál. Moje obecné znalosti jsou ale tristní.<br>
+
+### 28.3. Já odpočívám
+
+Prospali jsme u pořádné. Byl před námi víkend bez konkrétního plánu a my tak měli čas na dávání si života do pořádku.<br>
+Na takový činnosti to ale chce pořádnou snídani a verunka připravila zbytek belagy s květákem, mrkve a žitný chléb s hummusem. Samý moc dobrý věci.<br>
+Vynesl jsem tříděný odpad a objevil, že popelnice jsou prázdné. Ideální příležitost zpacifikovat krabice a výplňový materiál z lodžií.<br>
+Bylo toho dost. A před ložnicí ještě nějaké krabice zbyly, ale pohli jsme s tím pěkně.<br>
+
+<a href="../images/2026_march/28_1.jpg" target="_blank"><img src="../images/thumbnails/2026_march/28_1.jpg"></a>
+
+Pěkné bylo i venku. Po těstovinách se zbytky všeho možného s cizrnou jsme ven na lavičky před Očkem vzali ořechy z Maršova a dali se do loupání a obvolávání příbuzných. Markét měla narozeniny, ale na Veru zprávu nijak nereagovala.<br>
+Loupali jsme venku skoro tři hodiny. Veru se ještě otočila doma pro sváču a deaf. Kolem nás proudili důchodci a matky s kočárky. Nikdo jinej zdá se v Letňanech o víkendu nezůstával. Nebo aspoň v parčíku ne.<br>
+
+<a href="../images/2026_march/28_2.jpg" target="_blank"><img src="../images/thumbnails/2026_march/28_2.jpg"></a>
+
+Ale přišla na nás zima. Doloupali se a vrátili dam. Veru dověsila fotky, já třetí obraz v pokoji. Taky jsem potáhl poslední židli. Dečkou z United Airlines. Byla to horší látka. Ale lepší než žádná.<br>
+
+<a href="../images/2026_march/28_3.jpg" target="_blank"><img src="../images/thumbnails/2026_march/28_3.jpg"></a>
+
+Dali jsme si zelňačku k večeři a pustili si Bendrovu velkou ránu. Miluju ten film. Fry je hloupej, ale miluje Leelu. Víc a upřímněji, než celý zbytek kinematografie.<br>
 
 <!--
 
