@@ -1,5 +1,14 @@
 #!/bin/bash
 
+if [ $# -lt 1 ]; then
+  raw_date=$(date +"%Y_%B")
+  formatted_date=${raw_date,,}
+else
+  formatted_date=$1
+fi
+
+echo "Working date: $formatted_date"
+
 echo Moving IMG files to temp_directory.
 
 temp_directory="./images/temp"
@@ -15,9 +24,6 @@ mv ~/downloads/IMG* $temp_directory
 
 echo Renaming files and appending names to current raw markdown file.
 
-raw_date=$(date +"%Y_%B")
-formatted_date=${raw_date,,}
-echo "Current date: $formatted_date"
 
 current_markdown_file="$formatted_date.raw"
 current_image_directory="images/$formatted_date"
