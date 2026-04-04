@@ -8,7 +8,7 @@
 - [6.4. Deskovky u Marťi a Vildy](#64-deskovky-u-marťi-a-vildy)
 - [7.4. Nábytkářem](#74-nábytkářem)
 - [8.4.](#84)
-- [9.4.](#94)
+- [9.4. Při remíze prohrají všichni](#94-při-remíze-prohrají-všichni)
 - [10.4. Sýrohlíky společnou kartou a film zadarmo](#104-sýrohlíky-společnou-kartou-a-film-zadarmo)
 - [11.4. Francouz a Meruňka](#114-francouz-a-meruňka)
 - [12.4. V Hradci je život idilický](#124-v-hradci-je-život-idilický)
@@ -112,11 +112,14 @@ S Ludvou jsme šli do Asie. Vyptával se na certifikace. Pak jsem bojoval s páj
 <a href="../images/2025_april/08_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/08_1.jpg"></a>
 
 
-### 9.4.
+### 9.4. Při remíze prohrají všichni
 
+Po letech jsem šel hrát beďar s Jardou. Od doby, kdy jsme spolu bydleli se něco změnilo. Když jsem tehdá vstával kolem sedmý, Jarda ještě dřímal a jakákoliv ranní činnost kromě možná ranního kafe byla špatně. Tentokrát ale řekl, že beďar začíná v sedm na skalce a byl jsem to já, kdo měl se vstáváním problém.<br>
+V půl sedmé jsme ale proti sobě vyjížděli na kolech přes Petrohradskou a po Vršovický jeli až do obchodního centra na modré badmintonové kurty. Jarda tam z koše na použití míchy z peří vytáhl nějaký obstojně vypadající a pustili jsme se do toho.<br>
 
 <a href="../images/2025_april/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/09_1.jpg"></a>
 
+Byla to nakonec plichta. 3:3. Prohráli všichni. Ale zahráli jsme si dobře.<br>
 
 ### 10.4. Sýrohlíky společnou kartou a film zadarmo
 
