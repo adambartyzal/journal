@@ -7,10 +7,10 @@
 - [5.4. Do kopce a do Asie](#54-do-kopce-a-do-asie)
 - [6.4. Deskovky u Marťi a Vildy](#64-deskovky-u-marťi-a-vildy)
 - [7.4. Nábytkářem](#74-nábytkářem)
-- [8.4](#84)
-- [9.4](#94)
+- [8.4.](#84)
+- [9.4.](#94)
 - [10.4. Sýrohlíky společnou kartou a film zadarmo](#104-sýrohlíky-společnou-kartou-a-film-zadarmo)
-- [11.4 Francouz a Meruňka](#114-francouz-a-meruňka)
+- [11.4. Francouz a Meruňka](#114-francouz-a-meruňka)
 - [12.4. V Hradci je život idilický](#124-v-hradci-je-život-idilický)
 - [13.4. Komorní pochod](#134-komorní-pochod)
 - [14.4. Mankeli](#144-mankeli)
@@ -56,10 +56,9 @@ Displeje, displeje, displeje. Tolik jich chceme kupovat. Z fabriky nám přišel
 <a href="../images/2025_april/03_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/03_1.jpg"></a>
 
 Večer bylo naslepo. Veru byla doma na neschopence. I když jí bylo líp, stát by jí dal flastr, kdyby jí přistihli venku. Nebo by jí vyhodili. Nevím jak to funguje.<br>
-Před kinem jsem plaval. Moc jsem tomu nedal. Bazén byl plná hlučných italů, kteří se všude pletli.<br>
-V kině bylo kolem Marťi spousta lidí. Kromě Reb, Ondry<br>
-a mě ještě Honza, Anička, Vojta, jeho holka, jejich kamarád a ani nevim kdo další.<br>
-Film byl Hollywood s Audrey Hepburn v Partii. Bylo to vtipný! Vic se rozepisovat asi nemá smysl.<br>
+Před kinem jsem plaval. Moc jsem tomu nedal. Bazén byl plýá hlučných italů, kteří se všude pletli.<br>
+V kině bylo kolem Marťi spousta lidí. Kromě Réby, Ondry a mě ještě Honza, Anička, Vojta, jeho holka, jejich kamarád a ani nevím kdo další.<br>
+Film byl Hollywood s Audrey Hepburn v Paříži. Bylo to vtipný! Vic se rozepisovat asi nemá smysl.<br>
 Doprovodil jsem ostatní na Tramvaj a když je tramvaje rozvezli do jejich směrů, vyrazil jsem na kole dom.<br>
 
 ### 4.4. Ping pong
@@ -107,13 +106,13 @@ S Ludvou jsme šli do Asie. Vyptával se na certifikace. Pak jsem bojoval s páj
 <a href="../images/2025_april/07_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/07_1.jpg"></a>
 
 
-### 8.4
+### 8.4.
 
 
 <a href="../images/2025_april/08_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/08_1.jpg"></a>
 
 
-### 9.4
+### 9.4.
 
 
 <a href="../images/2025_april/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/09_1.jpg"></a>
@@ -125,9 +124,9 @@ To je akurátní popis večerního rande. Pečivo z Globusu a ČSFD Projekce fil
 Neměla radost z toho, že za 18 suplovaných hodin na které se připravovala ješte 3x tak dlouho dostala 18 set. To bylo fakt absurdní. Naštvaní byli všichni v učitelském sboru. Prý jsou ale všichni moc měkký na to s tím něco udělat.<br>
 Jsem fakt vděčnej za svojí práci. Je zábavná, se skvělýma lidma, kteří mě posouvají a ještě mám docela dost peněz. Jsem opravdu jeden z nejšťastnějších lidí na planetě.<br>
 
-### 11.4 Francouz a Meruňka
+### 11.4. Francouz a Meruňka
 
-Tentokrát mě toho čekalo dost. Calls Firasem ohledně nefunkčního Test Benche. Přípravy na odjezd do Hradce. A mergeování větví ebu kódu s Vláďou. Do Hradce jsem toho moc nepotřeboval. Trenky, ponožky, mikinA dobrou náladu. Call byl horší. Hodně jsem uklidil. Připravil bench. Call na obou laptopech abych mohl sdílet obrazovka a zároveň mít dobrý zvuk. Byl jsem vlastně docela nervózní, ale ukázalo se, že jsem byl ten připravenější z nás dvou a že jsem tomu rozuměl trochu víc. Což bylo blbý, protože jsem netušil co je blbě. Nakonec I jsme prošli nějaký logy a ty jsem poslal mejlem před cestou do Vietnamky na červené kari. Mergeování je vždycky ojet. Naštěstí jsme se každý rýpali v trochu jiné části. Ale stejně forward proběhl divně a gitk ukazovalo někam do háje.  Ale vyřešili jsme to. A mohli s Vojtou vyrazit autem K Jiřímu. Veru přišla když už jsme mířili na parkoviště. Cesta mě překvapila. Vlakem je to do Hradce opravdu lepší. A to mají dálnici. Nejvíc absurdní byly ale poslední dva kilometry. dali jsme přes peron starého nádraží a pak asi hodinu stáli na přejezdu.<br>
+Tentokrát mě toho čekalo dost. Call s Firasem ohledně nefunkčního Test Benche. Přípravy na odjezd do Hradce. A mergeování větví ebu kódu s Vláďou. Do Hradce jsem toho moc nepotřeboval. Trenky, ponožky, mikinA dobrou náladu. Call byl horší. Hodně jsem uklidil. Připravil bench. Call na obou laptopech abych mohl sdílet obrazovka a zároveň mít dobrý zvuk. Byl jsem vlastně docela nervózní, ale ukázalo se, že jsem byl ten připravenější z nás dvou a že jsem tomu rozuměl trochu víc. Což bylo blbý, protože jsem netušil co je blbě. Nakonec I jsme prošli nějaký logy a ty jsem poslal mejlem před cestou do Vietnamky na červené kari. Mergeování je vždycky ojet. Naštěstí jsme se každý rýpali v trochu jiné části. Ale stejně forward proběhl divně a gitk ukazovalo někam do háje.  Ale vyřešili jsme to. A mohli s Vojtou vyrazit autem K Jiřímu. Veru přišla když už jsme mířili na parkoviště. Cesta mě překvapila. Vlakem je to do Hradce opravdu lepší. A to mají dálnici. Nejvíc absurdní byly ale poslední dva kilometry. dali jsme přes peron starého nádraží a pak asi hodinu stáli na přejezdu.<br>
 Kácet se začalo hned po prohlídce podkrovního bytu. Udělal to tam moc hezky. Až na křivou digestoř. Byl to Airbnb byt ale působil poctivě. A opravdu dřevěné. Zato v meruňce moc dřeva nezbylo. Alespoň ne toho živýho. Ivan s ní motorovkou udelal krátký proces. A pak jsme grilovali. Dokud nás dovnitř nezahnalaZima. Tam jsme dali deskovky. Vyhrálo Metro. Puzzlíky s kolejemi mezi zastávkami Pařížské dopravy. Na spoustě z nich jsem za dva týdny plánoval být. Pivo bylo dobrý, hra taky a kromě Káti a Jirky, kteří odešli spát jsme to táhli někdy do jedný.<br>
 
 <a href="../images/2025_april/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_april/11_1.jpg"></a>

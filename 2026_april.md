@@ -5,7 +5,8 @@
 
 - [1.4. Žádný dobrý fóry](#14-žádný-dobrý-fóry)
 - [2.4. Občas se nedaří](#24-občas-se-nedaří)
-- [](#)
+- [3.4. Filmem proti propagandě](#34-filmem-proti-propagandě)
+- [4.4. Po Jindrových stopách](#44-po-jindrových-stopách)
 
 
 ### 1.4. Žádný dobrý fóry
@@ -40,8 +41,48 @@ Po práci jsme s Verunkou dojeli do lesoparku. Se zastávkou v lidlu pro cottage
 
 Doma na mě padla únava. Asi z toho , jak otrávenej jsem byl z práce.<br>
 
-### 
+### 3.4. Filmem proti propagandě
 
+Protože jsme neodjeli do hor, mohli jsme si přispat. Dost. Skoro polovinu dne.<br>
 
 <a href="../images/2026_april/03_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/03_1.jpg"></a>
 
+Co ale s tím zbytkem?<br>
+Vařili jsme rizoto a brokolicovou polévku. A pak šli do kina. Veru nikdy nebyla v Lucerně. Dávali tam dokument, který natočil zaměstnance školy v malém městě Karabaš, v Rusku za Uralem.<br>
+Lidi na ČSFD psali , že film nepřináší nic nového. Asi měli pravdu. Válka není nový koncept. Ruská propaganda taky ne. Ale to neměnilo nic na tom, že lidi by tenhle film měli vidět. Byl to autentický pohled na to, jak jde rusko od začátku války s Ukrajinou dohajzlu. Jak jsou někteří lidé semletí Putinovskou rétorikou a jak vymývání mozků začíná už na škole.<br>
+Pasha film natočil, protože k tomu měl jedinečnou příležitost. A vyhrál za to Oscara. Snad to nějak pomůže.<br>
+Po filmu nám bylo těžko. Verunka našla řešení. Dort ve Světozoru. A kávu. Kávu, která rozhodně nebyla decay a dorty , který měl tolik cukru , že bychom to nevypálili ani kdybychom šli do Letňan pěšky.<br>
+
+<a href="../images/2026_april/03_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/03_2.jpg"></a>
+
+Což jsem chtěl udělat. Ale nakonec jsme od Hiltonu vzali next bike a nekdo a jeli do Vysočan kolem Rokytky.<br>
+Veru se to líbilo. Aby ne. Je to tam moc pěkný.<br>
+
+### 4.4. Po Jindrových stopách
+
+Na sobotu jsme naplánovali pěší tůru v Posázaví. Oblastí která nám skýtala útěchu v zimních měsících. Vlak z hlaváku měl jet v 9:21 a z postele jsme se dostali před půl osmou. tága tak musela být rychlá.<br>
+I tak jsme se stihli najíst a na hlaváku nakoupit svačinu. Vlastně jsme nemuseli chvátat. Vlak totiž vůbec nevyjel. Po půl hodině poslouchání toho, jak v něm něco syčí jsme přestoupili do další es devítky, kde nasraná průvodčí křičela, že žádné spoje čekat nebudou.<br>
+Ani to nebylo třeba. Dali jsme si čokoládu a kávu z automatu a po pěti minutách přistavili na první kolej regionovu.<br>
+Trochu blbě jsme si sedli na opačnou stranu než tu svýhledy na řeku , ale v Sázavě se uvolnilo místo a my tak mohli koukat na Sázavský klášter za řekou.<br>
+Do Rataji jsme vyrazili trochu blbě. Mohl jsem za to já. Ale nebyla to špatná cesta. Viděli jsme shora opravenou věž hradu Perkštejn.<br>
+Verunka měla víc štěstí než rozumu. Přišli jsme v den, kdy začala nová sezona prohlídek Ratajského zámečku a KCD výstavy. Takže jsme viděli nejen náměstí, kde býval pranýř, ale i vnitřek zámku. Byl tam s námi dokonce i cizokrajec v dobovém oblečení.<br>
+
+<a href="../images/2026_april/04_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/04_1.jpg"></a>
+
+Mohli jsme se jít dolu k mlýnu, kde bydlela Tereza, ale radši jsem vedl k vyhlídce na Rataje a Ledečko. Sestup odtud byl krkolomný a dle map nemožný, ale ve hře jsem to zvládl. tak proč ne v reálu.<br>
+
+<a href="../images/2026_april/04_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/04_2.jpg"></a>
+
+Z Ledečka začalo stoupání do kopce na jehož vrcholu jsme v zimě bojovali s potulným rytířem. Stěrková cesta nás dovedla k louce, na které pan Diviš tábořil při obléhání Talmberka.<br>
+
+<a href="../images/2026_april/04_3.jpg" target="_blank"><img src="../images/thumbnails/2026_april/04_3.jpg"></a>
+
+Z toho moc nezbylo. Kus opevnění, brána a kus věže. Místo Štěpánčina sídla jsme viděli docela nový domek.<br>
+Dál nás červená táhla přes Mrchojedy do Sázavy.Asi mi to mělo dojít dřív, neb jsem tam už několikrát byl, ale stejně jako naposledy mě překvapilo, že jsme v kempu Sázava.<br>
+Přišel na nás hlad a na nebe mrak. V kempu vařili a než jsme do sebe dostali burger, smažák a 2 bivelly. mrak se vypršel. Do odjezdu vlaku zbývalo něco přes hodinu a na nás čekal klášter a blata, kde se lapkové otočili proti nám.<br>
+
+<a href="../images/2026_april/04_4.jpg" target="_blank"><img src="../images/thumbnails/2026_april/04_4.jpg"></a>
+
+Postavili to tam fakt věrně. Blata, stavení, zahrady, klášter.. jen most a paneláky přidali navíc. Mapy. cz tvrdili, že to sotva stihneme. Není nám ho a tak jsme na nádraží byli s předstihem. Začalo opět pršet. Byli jsme děti. štěstěny.<br>
+Courák do Čerčan. S9 na hlavák. Céčko do Letňan. 136 domů.<br>
+Bylo před devátou a byli jsme hotoví. Postel čekala.<br>
