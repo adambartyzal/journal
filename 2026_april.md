@@ -8,6 +8,7 @@
 - [3.4. Filmem proti propagandě](#34-filmem-proti-propagandě)
 - [4.4. Po Jindrových stopách](#44-po-jindrových-stopách)
 - [5.4. Černoši a zámky](#54-černoši-a-zámky)
+- [6.4. Plzeň jindy](#64-plzeň-jindy)
 
 
 ### 1.4. Žádný dobrý fóry
@@ -98,3 +99,16 @@ Na čtvrtou jsme předchozího večera slíbili účast na deskovkách U Vojty. 
 <a href="../images/2026_april/05_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/05_1.jpg"></a>
 
 Návštěva to byla moc milá. Sice jsme tam i zpátky jeli hodinu, ale u Poskočilových jsme stihli dvě hry. Agrikulturu a stavbu Ludvíkova šíleného zámku. Taky jsme si objednali pizzu, pokecali jsme o všem možným a domluvili, že v létě budeme grilovat.<br>
+
+### 6.4. Plzeň jindy
+
+Výlet na západ jsme nakonec nechali na jindy. Doma jsme vynesli odpady do popelnic, od popelnic jsme nahoru přinesli tyčovo-ruční vysavač, kvůli kterému se spojil celý vesmír a nakoupili jsme na alze tablety a sůl do myčky, novou baterii pro Arnošta, náhradní štětiny do mezizubních kartáčků a kortikoidy do nosu. Od rýmy po návštěvě Hamburku už jsem nos neměl zdaleka tak ucpaný, ale léčba kortikoidy trvá a sprej, který jsem koupil v listopadu už došel. Při správném používání by měl dojít za jeden měsíc, ale nechtěl jsem toho do sebe lít tolik. Slaná voda pomáhala dost a ta člověka nepohrdá hormony.<br>
+Venku bylo fakt pěkně. V poledne jsme vyrazili ven. Sednout si na lavičku, číst, psát a chytat déčko. Veganská knížka psala, že zásoby děcka člověku v zimě dojde už někdy kolem vánoc.<br>
+Zjistili jsme, že káva blokuje příjem železa. Pokud ho člověk suplementuje, mě by ho jíst ráno, nalačno, s vitamínem C a kafe odložit o dvě hodiny.<br>
+Zpátky doma Veru pekla chleba z čečky. Já uvařil noky se zelím a tempehem a po jídle jsem chvíli bojoval s prachem.<br>
+
+<a href="../images/2026_april/06_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/06_1.jpg"></a>
+
+Chtěl jsem jít běhat. Světlo mělo být až do osmi a tak vyběhnout v sedm nebyl problém. Běžel jsem intervaly. Minutu v zóně 5, tři minuty v zóně 2. Deset kilometrů. Trvalo mi to lehce přes hodin a úplně jsem se nezbořil.<br>
+Verunky chleba byl podle gemini výborné regenerační jídlo. A chutnal dobře. Obzvlášť s řepovou pomazánkou.<br>
+Prodlouženej víkend utekl rychle. Až moc rychle.<br>
