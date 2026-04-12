@@ -309,11 +309,11 @@ Z rautu jsme jeli vlakem po desáté. Ještě jsem brousil a blil. A pak mě Ver
 ### 20.11. Sestupná spirála
 
 Zaspal jsem. Probudil jsem se v 8:24 a cítil jsem dopad večerního vína. Lil jsem moc. A Čeká mě víkend na který koupil Vojta sud piva.<br>
-Doma byl krabicový chaos. Oprava tmelem nebyla tak dobrá jak bych si přál. Do práce jsem jel s extrémním zpožděním a stroj na kapučíno mi do kávy nedal mléko. Nezvládl jsem posnídat lívance, který mi Veru připravila a nepustil jsem myčku. Taky jsem málo cvičil. Pil kafe pozdě. Prostě pomalu ale jistě se mi život vymyká z rukou.<br>
+Doma byl krabicový chaos. Oprava tmelem nebyla tak dobrá jak bych si přál. Do práce jsem jel s extrémním zpožděním a stroj na kapučíno mi do kávy nedal mléko. Nezvládl jsem posnídat lívance, který mi Veru připravila a nepustil jsem myčku. Taky jsem málo cvičil. Pil kafe pozdě. Prostě pomalu ale jistě se mi život vymykal z rukou.<br>
 
 <a href="../images/2025_november/20_1.jpg" target="_blank"><img src="../images/thumbnails/2025_november/20_1.jpg"></a>
 
-Bylo třeba implementovat zmeny. Nový měsíc, nový byt, nový režim. Dám suchý prosinec, budu ráno plavat oba běhat a dám si život do pořádku.<br>
+Bylo třeba implementovat změny. Nový měsíc, nový byt, nový režim. Rozhodl jsem se, že dám suchý prosinec, budu ráno plavat nebo běhat a dám si život do pořádku.<br>
 Dva vlaky a pěší chůze. Dorazil jsem někdy před desátou. Koukali jsme ještě do toho CBN, pak na tester a pak šli s Omarem, Ludvíkem, Áďou, Vláďou a Ivanem do Vietnamky.<br>
 Po práci jsem šel plavat. Pesky jsem došel až do STEPU. Dal patnáct minut sauny a kilometr plavání. Jak chcípak. Ale hýbal jsem se. Byl to začátek.<br>
 Bez kola se ale dostat domů byl ojeb. 136 jede roky a stejně člověka doveze jen do Edenu. Poslouchal jsem Finštinu, kterou do telefonu mluvila blondýna naproti mě.<br>
