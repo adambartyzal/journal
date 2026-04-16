@@ -14,6 +14,11 @@
 - [9.4.](#94)
 - [10.4. Doma s kamarády](#104-doma-s-kamarády)
 - [](#)
+- [](#-1)
+- [13.4. Processed blood and processed food](#134-processed-blood-and-processed-food)
+- [14.4. Větším pytlem ušetříš](#144-větším-pytlem-ušetříš)
+- [](#-2)
+- [](#-3)
 
 
 ### 1.4. Žádný dobrý fóry
@@ -204,4 +209,43 @@ Byl to fakt srdcehřivej večer.<br>
 
 
 <a href="../images/2026_april/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/11_1.jpg"></a>
+
+
+###
+
+
+### 13.4. Processed blood and processed food
+
+Přes den se teplota měla vyšplhat na 18 stupnu. Po ledovém víkendu to bylo skoro neuvěřitelný a během ranní jízdy na kole taky. Přece jen to teplo mělo přinést slunce a to teprve vycházelo.<br>
+Trochu slunka by určitě pomohlo Tomíkovi, který potřeboval testovat něco na kole s terminálem, ale jediné funkční met DJ doma a ten se teprve vracel z Vídně. Tomík tak chudák chytal rapla u snahy rozchodit kolo jiný.<br>
+Bylo pondělí v novém týdnu a to znamenalo znovu otevření Věže. Jídelní lístek mě trochu zklamal. Bylo to přes kopírák gastro. Vega jen smažený a sladký ve čtvrtek. Ale když jsme tam došli, docela příjemné nás překvapili. Sice tam byl trochu chaos, ale žebra, špagety i Cuketový karbanátek s bramborem a tatarkou byly super a vlastně ne moc drahý.<br>
+Ale ta tatarka.. tu jsem si dávat neměl. Na pátou jsem byl objednaný na odběr plazmy. Abych ten tuk trochu rozmělnil, pil jsem hodně zeleného čaje. A od oběda do odběru jsem měl 6 hodin a pár kilometrů chůze. Gemini si myslelo, že to bude dobrý.<br>
+A bylo. Barva mý plasmy byla parádně průzračně oranžová a vytáhli jí ze mě zrychleně a v pohodě.<br>
+
+<a href="../images/2026_april/13_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/13_1.jpg"></a>
+
+I zpátky jsem šel pěšky. Nad dálnicí a přes pole.<br>
+V akzaboxu na mě čekal Food processor a v penny jsem nakoupil zeleninu, kterou jsem chtel otestovat jak krájí.<br>
+Nést 12 kilovou krabici ve funkční ruce a dvou kilové zelí v té chromé nebylo nic moc. Ale byl jsem opatrný a zvládl to. Doma vše rozbalil a umyl. Veru přišla ze srazu v hokejce, když jsem sušil čepele a dala se se mnou do testování.<br>
+
+<a href="../images/2026_april/13_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/13_2.jpg"></a>
+
+Zelenina ok, ale máslo z lískových ořechů moc nešlo. Neopražili jsme je a to jsme asi měli.<br>
+
+<a href="../images/2026_april/13_3.jpg" target="_blank"><img src="../images/thumbnails/2026_april/13_3.jpg"></a>
+
+Příště.<br>
+
+### 14.4. Větším pytlem ušetříš
+
+Čtrnáctýho dubna. Nějak mě to datum praštilo do oka, když jsem se v práci trápil s tím, že gtester z busy boxu tiskne fontem United Condensed Italic tvrdohlavě odmítal.<br>
+Vlastně to ale byl malý problém. Knihovna dmtx fungovala ok a to bylo hlavní.<br>
+Do práce jsem po snídani dojel autobusem s Verunkou. V bance jsem uložil peníze, které jsem dostal za plasmu, byť pro peníze jsem to nedělal. Ale dva litry přisly vhod. Zaplatily dvě třetiny mé poloviny food procesoru například.<br>
+Kromě tiskárny u testeru jsem bojoval s erp synem v lahti, pomáhal Eliasovi a Fílovi s koly a osadil novej zdroj, kterej se choval úplně stejne jako ten starej.<br>
+Po osmi a půl hodinách jsem opet vyrazil za Ženou. Tentokrát do Makra. Koupili jsme 4 kila belugy, pět kilo zelené čočky, pytel květáku, pytel brokolice, pořádný tofu, velkou zelenou sójovku, těstoviny ve slevě a pár drobností. Zdravý a ne tak drahý věci. Ve dvou krabicích jsme to odtáhli dvě stě jedničkou domů, dali si k véče salát, já si promítl Invincible a Veru vyřešila mejly.<br>
+
+###
+
+
+###
 
