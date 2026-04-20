@@ -18,7 +18,10 @@
 - [13.4. Processed blood and processed food](#134-processed-blood-and-processed-food)
 - [14.4. Větším pytlem ušetříš](#144-větším-pytlem-ušetříš)
 - [](#-2)
+- [16.4. Sladký čtvrtky](#164-sladký-čtvrtky)
 - [](#-3)
+- [](#-4)
+- [](#-5)
 
 
 ### 1.4. Žádný dobrý fóry
@@ -243,6 +246,19 @@ Vlastně to ale byl malý problém. Knihovna dmtx fungovala ok a to bylo hlavní
 Do práce jsem po snídani dojel autobusem s Verunkou. V bance jsem uložil peníze, které jsem dostal za plasmu, byť pro peníze jsem to nedělal. Ale dva litry přisly vhod. Zaplatily dvě třetiny mé poloviny food procesoru například.<br>
 Kromě tiskárny u testeru jsem bojoval s erp synem v lahti, pomáhal Eliasovi a Fílovi s koly a osadil novej zdroj, kterej se choval úplně stejne jako ten starej.<br>
 Po osmi a půl hodinách jsem opet vyrazil za Ženou. Tentokrát do Makra. Koupili jsme 4 kila belugy, pět kilo zelené čočky, pytel květáku, pytel brokolice, pořádný tofu, velkou zelenou sójovku, těstoviny ve slevě a pár drobností. Zdravý a ne tak drahý věci. Ve dvou krabicích jsme to odtáhli dvě stě jedničkou domů, dali si k véče salát, já si promítl Invincible a Veru vyřešila mejly.<br>
+
+###
+
+
+### 16.4. Sladký čtvrtky
+
+Tak jak mívalo gastro sladký čtvrtky, tak na to šel i District 9. Dršťkovka a buchtičky se šodó. Sice extrémně sladky ale moc dobrý.<br>
+Snad jsem ten cukr aspoň trochu spálil, když jsem obě cesty jel na Franzovi a cestou zpet jsem se stavil u cvičítek.<br>
+Po práci, ve který jsem byl zaseklej v bulildrootu, protože ebf mělo poslední verzi vydanou šest let zpátky a nový gcc ho odmítalo přeložit, jsem Franzovi srovnal zadní kolo a trochu ho dal do pucu. V šatně se ale stejně prášilo tak moc, že po pár dnech zas bude špinavej.<br>
+Veu udelala bezva salát s cizrnou. Nad ním jsme debatovali o platech a jejím výzkumu prací. Snad jí to vyjde líp a bude víc spoko.<br>
+
+###
+
 
 ###
 
