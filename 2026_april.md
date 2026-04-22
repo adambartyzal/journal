@@ -22,6 +22,8 @@
 - [](#-3)
 - [](#-4)
 - [](#-5)
+- [](#-6)
+- [21.4. Víc optimismu](#214-víc-optimismu)
 
 
 ### 1.4. Žádný dobrý fóry
@@ -243,6 +245,9 @@ Příště.<br>
 
 Čtrnáctýho dubna. Nějak mě to datum praštilo do oka, když jsem se v práci trápil s tím, že gtester z busy boxu tiskne fontem United Condensed Italic tvrdohlavě odmítal.<br>
 Vlastně to ale byl malý problém. Knihovna dmtx fungovala ok a to bylo hlavní.<br>
+
+<a href="../images/2026_april/14_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/14_1.jpg"></a>
+
 Do práce jsem po snídani dojel autobusem s Verunkou. V bance jsem uložil peníze, které jsem dostal za plasmu, byť pro peníze jsem to nedělal. Ale dva litry přisly vhod. Zaplatily dvě třetiny mé poloviny food procesoru například.<br>
 Kromě tiskárny u testeru jsem bojoval s erp synem v lahti, pomáhal Eliasovi a Fílovi s koly a osadil novej zdroj, kterej se choval úplně stejne jako ten starej.<br>
 Po osmi a půl hodinách jsem opet vyrazil za Ženou. Tentokrát do Makra. Koupili jsme 4 kila belugy, pět kilo zelené čočky, pytel květáku, pytel brokolice, pořádný tofu, velkou zelenou sójovku, těstoviny ve slevě a pár drobností. Zdravý a ne tak drahý věci. Ve dvou krabicích jsme to odtáhli dvě stě jedničkou domů, dali si k véče salát, já si promítl Invincible a Veru vyřešila mejly.<br>
@@ -260,8 +265,40 @@ Veu udelala bezva salát s cizrnou. Nad ním jsme debatovali o platech a jejím 
 ###
 
 
-###
+<a href="../images/2026_april/17_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/17_1.jpg"></a>
+
+
+<a href="../images/2026_april/17_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/17_2.jpg"></a>
 
 
 ###
 
+
+<a href="../images/2026_april/18_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/18_1.jpg"></a>
+
+
+<a href="../images/2026_april/18_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/18_2.jpg"></a>
+
+
+###
+
+
+<a href="../images/2026_april/19_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/19_1.jpg"></a>
+
+
+<a href="../images/2026_april/19_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/19_2.jpg"></a>
+
+
+###
+
+
+### 21.4. Víc optimismu
+
+Jsem Omarovi popřál, když jsme ráno rokovali nad tím, že kvůli Diovi a Ludvovi má sklad plný napínáků a třmenů na hovno. Že kvůli šetření podají v plzni kliky, blatníky a teď nově se ničí konektory v nabíječce.<br>
+Konektor vyfotil Filip. Napsal k tomu, že baterie je třeba vkládat mírně pod úhlem. Když jsem se optal, jak přesně to myslí, odepsal, že tam má řešit kola a že si to mám vyřešit s Plzeňáky. Odpověď level Štěpán. Naštvalo mě to. Omara to ale doslova vytočilo. Filip tam byl Za naší firmu a takovouhle image fakt nechceš. Filip končil, měl to v píči a dával te najevo.<br>
+Já bojoval s testy converter. Abych našel proč se komunikace rozsype, řekl jsem si, že si navrhnu pořádný testy a to mi na to hodí nový světlo.<br>
+Zabil jsem tím celý den. Vlastně ještě v šest jsem de toho koukal. A odhalil kulový. Testy procházely. Muselo to být někde v ramce.<br>
+Narozdíl od pondělí nepršelo. Ale nějak jsem neměl chuť jet na kole. Pustil jsem si knihu do uší a vzal to pěšky a busem.<br>
+Veru doma připravovala své ukázkové hodiny na potenciální školy. Bylo s ní prd řeč. Dal jsem se do skládání oblečení, který tam překáželo už několik dní a ke kterýmu se prý dostane nejdřív pátek.<br>
+Jenže na patek jsem plánoval hudební večer v kině Dlabačov. ČSFD zvala a vypadalo to dobře.<br>
+Snažil jsem se být Vern oporou, ale moc z toho nebylo. Chtělo to víc optimismu.<br>
