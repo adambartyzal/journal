@@ -25,7 +25,7 @@
 - [](#-6)
 - [21.4. Víc optimismu](#214-víc-optimismu)
 - [22.4. Změny plánů](#224-změny-plánů)
-- [](#-7)
+- [23.4. Škola poznávání](#234-škola-poznávání)
 - [24.4 Dluhy a soundtracky](#244-dluhy-a-soundtracky)
 
 
@@ -312,21 +312,29 @@ Odpoledne,nebo spíš večer jsem chtěl jít do kina protože to vypadalo že s
 Byl to dobrej plán a skoro bych ho i stíhal ale nakonec mi před nosem ujel autobus a dalším bych se tam dostal docela pozdě takže jsem nakonec jel pracovat, S tím že do bazénu půjdu na Radlický a pak jedu už jedu zpátky na Anděl do kina.<br>
 Ani tenhle plán nevyšel. V práci jsem totiž ráno nanesl pastu na 4 desky HLP a celý den osazoval. Šlo to extrémně pomalu nakonec jsem tam vyjma oběda strávil asi 10 hodin, než jsem desky zapekl.<br>
 Navíc se na projekci přihlásilo víc lidí než jsem čekal A tak jsem skončil první pod čarou. Nakonec mi ale nějaká paní napsala, že se zapomněla odhlásit a že kvůli ní jsem se tam nedostal, takže mi nabídla její kód a já jsem vyběhnul směr metro. Ani jsem si nestihl koupit v Albertu něco k jídlu.<br>
-Bylo fajn že jsem za ten film neplatil. Měl dobrý písničky, byl bezvadně zahranej Michaelogým synovcem a tím to končilo. Myslím, že Jacksonovi prostě chtěli vytřískat další peníze, viděli že filmy o hudebnících teď frčej a tak natočili tohle pozlátko.<br>
+Bylo fajn že jsem za ten film neplatil. Měl dobrý písničky, byl bezvadně zahranej Michaelovým synovcem a tím to končilo. Myslím, že Jacksonovi prostě chtěli vytřískat další peníze, viděli že filmy o hudebnících teď frčej a tak natočili tohle pozlátko.<br>
 Verunka ale byla na stepu a co bych dělal doma sám. Možná bych stihl ten bazén.<br>
 
-###
+### 23.4. Škola poznávání
 
+S tím bazénem to nakonec vyšlo. Ráno jsem sice jel autobusem ale na cestu zpátky jsem si vzal france 3. a dojel přímo do bazénu u Tesca.<br>
+Měli až od 6 takže jsem si ještě koupil banán a tvarohový koláč abych měla energii a na tohle palivo jsem uplaval 1600 metrů.<br>
+Před sportem jsem ale pracoval. Na spodních deskách ještě bylo spousta práce. Věci většinou dobrá, ale když máš šablonu, která neodpovídá tvojí desce,  zbývá ti ještě hodně pájení. Ještě že mě paní docela baví.<br>
+Bavily i mě i Penne ve věži. Byly sýrový omáčce se sýrem gran moravia a do toho byly nakrájený Portobello žampiony. K tomu bramboračka dohromady za 155. Paráda.<br>
+Bazén, desky a těstoviny ale byly prd proti tomu co se dělo Verunce. Dopoledne měla ukázkovou hodinu na škole poznávání. Připravovala se na to dlouho a byla trochu nervózní, ale zamilovali se tam do ní a ona do nich. Z fleku by tam dali fulltime kdyby chtěla ke španělštině učit i angličtinu. Řekla jim že si to rozmyslí ale takhle nadšenou už jsem jí dlouho neviděl. Měl jsem z ní velkou radost.<br>
+Šla to zapít s kamarádkou Terkou. Psycholožkou z kolaudačky. Já se pustil do vaření super veggie a pečení chlebu z čočky. Seděl jsem zrovna u trouby, když se Veru vrátila. trochu hloupě jsme se chytli, protože nějak blbě šoupla miskou po podlaze, ale bylo to zbytečný a snad jsem se omluvil dostatečně.<br>
+Povídala mi o tý škole s takovou jiskrou v oku asi jako když já popisuju svojí práci občas. Možná větší. Určitě větší 🙂<br>
 
 ### 24.4 Dluhy a soundtracky
 
-Verunka se probudila s kocovinou. Ani chleba, ani super veggie, které jsem připravil předchozího večera nebyla schopná pozřít. Já jsem si ale připravil bezva snídani a potom na kole vyrazil do práce.<br>
-Čekali tam na mě 4 HLP, Které bylo třeba rozchodit a našroubovat do zámku které nám poslala fabienne z Francie. Šlo mi to úplně rychle ale bylo to připravený dobře a moc problému jsem nepotkal.<br>
-Vláďa mi opravil testy v stcommonu a já po obědě tak mohl vyzkoušet přejít na novou knihovnu v NFCU A ověřit jestli rozdělení na ramky po procesorech bude fungovat. <br>
+Verunka se probudila s kocovinou. Ani chleba, ani super veggie, které jsem připravil předchozího večera nebyla schopná pozřít. Adrienne měla připravenou jógu při kocovině, což bylo docela vtipný, ale taky docela k ničemu. Veru s výrazem umírajícího člověka vyrazila na autobus, já snědl snídani a potom vyšel na zastávku do opačného směru, do Vysočan.<br>
+Čekali tam na mě 4 HLP, Které bylo třeba rozchodit a našroubovat do zámku které nám poslala Fabienne z Francie. Šlo mi to úplně rychle ale bylo to připravený dobře a moc problému jsem nepotkal.<br>
+Vláďa mi opravil testy v stcommonu a já po obědě tak mohl vyzkoušet přejít na novou knihovnu v NFCU A ověřit jestli rozdělení na ramky po procesorech bude fungovat.<br>
 Totálně to nefungovalo. Rozhodl jsem se to řešit až následující týden. Verunka mi totiž napsala že už na ni přišel hlad a že cestou do kina dlabačov, kam jsme měli jít na akci filmové databáze by se chtěla zastavit v Karlíně a dát si Pad Thai s tofu.<br>
 Nemělo smysl brát kolo takže jsem ho nechal v práci a došel na béčko. V metru jsem si četl rozdílový smlouvách a došlo mi že asi dlužím na daních. Čím víc jsem se do toho na řil tím horší to bylo. Tím že jsem na eToru nedržel podkladová aktiva ETFkům ale jenom rozdílovou smlouvu, nestahoval se na mě tzv. časový test a pokud jsem vydělal víc než 50 000 ročně, znamenalo to že za rok 2025 už nejsem v paušálním režimu.<br>
-To nebylo dobrý. To vůbec nebylo dobrý. Narozdíl od toho Patay s tofu. To dobrý bylo ale moc jsem si ho neužil protože mi hlavou běželo že budu muset platit víc na sociálním být na zdravotním a ještě mnohem víc na dani.<br>
-Vysvětloval jsem to Verunce a bylo vidět že jí to mrzí. Pak mě ale napadlo že já ve skutečnostti za rok 2025 mám obrovskou ztrátu z tradingu a taková obrovská ztráta by šla použít proti mému zisku. Což jak jsem zjistil byla pravda A zachránil mě to od placení velké daně z příjmu. Ale ukončení režimu muselo přijít tak jako tak.<br>
+To nebylo dobrý. To vůbec nebylo dobrý. Narozdíl od toho Pad Thai s tofu. To dobrý bylo, ale moc jsem si ho neužil, protože mi hlavou běželo, že budu muset platit víc na sociálním být na zdravotním a ještě mnohem víc na dani.<br>
+Vysvětloval jsem to Verunce a bylo vidět že jí to mrzí. Pak mě ale napadlo že já ve skutečnosti za rok 2025 mám obrovskou ztrátu z tradingu a taková obrovská ztráta by šla použít proti mému zisku. Což jak jsem zjistil byla pravda A zachránil mě to od placení velké daně z příjmu. Ale ukončení režimu muselo přijít tak jako tak.<br>
+Když nic jinýho, Verunka se o mně dozvěděla, že jsem propálil rok financí tradingem. Byl to kostlivec ve skříni a teď byl venku.<br>
 Stále hledíc do paragrafů, nechal jsem se od navigovat ženou až do hotelu Pyramida vedle Malovanky. Tam se konal Composers summit A late night show na kterou jsme měli vstupenku zadarmo díky české filmové databázi. Moc jsem nevěděl co od toho čekat a jestli to bude venku bavit ale nakonec to bylo extrémně zajímavý. 3 sektory po asi 5 nebo 6 skladatelích kteří si povídali na podiu s moderátorkou. Mluvili o tom jaká jejich práce jaký jsou jejich životy nějaký zákulisní informace bylo to zajímavý a vtipný a spousta z těch lidí byla opravdu vrcholová špička.<br>
 Byla tam jména jako Harry Gregson Williams, Gustavo Santaolalla, Mychael Danna, Jeff Beal a spousta dalších. Zrovna poslední jmenovaný mě hodně zaujal tím jak optimisticky mluvil o životu s Roztroušenou sklerózou.<br>
 Byla tam i Halli s přítelem. Už bych si měl sakra zapamatovat jak se oba jmenují. Viděli jsme se potřetí. Verunka si s ní dokonce dost rozuměla a společně šli za panem Gustávem pro fotku, protože pan Gustavo produkoval spoustu písniček který Verunka používá ve výuce.<br>
