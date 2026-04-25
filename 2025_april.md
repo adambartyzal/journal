@@ -398,7 +398,7 @@ První nalezená byla zavřená. Druhá moc drahá. Ale třetí! Třetí měla d
 
 <a href="../images/2025_april/26_4.jpg" target="_blank"><img src="../images/thumbnails/2025_april/26_4.jpg"></a>
 
-Metro. Špatný. Pak dobrý. Vlak C. Britka co si chtěla povídat a výstup na Champ du Mars. Lidí milion. A pak výhled na věž. I mě žílama tele trochu adrenalin. Máma musela být v nervu.<br>
+Metro. Špatný. Pak dobrý. Vlak C. Britka co si chtěla povídat a výstup na Champ du Mars. Lidí milion. A pak výhled na věž. I mě žílama tekl trochu adrenalin. Máma musela být v nervu.<br>
 
 <a href="../images/2025_april/26_5.jpg" target="_blank"><img src="../images/thumbnails/2025_april/26_5.jpg"></a>
 
