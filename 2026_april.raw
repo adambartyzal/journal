@@ -18,14 +18,16 @@
 - [14.4. Větším pytlem ušetříš](#144-větším-pytlem-ušetříš)
 - [](#-2)
 - [16.4. Sladký čtvrtky](#164-sladký-čtvrtky)
+- [17.4. Selfie na mostě je povinost](#174-selfie-na-mostě-je-povinost)
 - [](#-3)
 - [](#-4)
 - [](#-5)
-- [](#-6)
 - [21.4. Víc optimismu](#214-víc-optimismu)
 - [22.4. Změny plánů](#224-změny-plánů)
 - [23.4. Škola poznávání](#234-škola-poznávání)
 - [24.4 Dluhy a soundtracky](#244-dluhy-a-soundtracky)
+- [25.4. Doma s bolehlavem](#254-doma-s-bolehlavem)
+- [26.4. Kolem Vltavy](#264-kolem-vltavy)
 
 ### 1.4. Žádný dobrý fóry
 
@@ -320,10 +322,29 @@ Po práci, ve který jsem byl zaseklej v bulildrootu, protože ebf mělo posledn
 
 Veu udelala bezva salát s cizrnou. Nad ním jsme debatovali o platech a jejím výzkumu prací. Snad jí to vyjde líp a bude víc spoko.
 
-###
+### 17.4. Selfie na mostě je povinost
+
+Narovnání zadního kola docela pomohlo. Jízda dolů do práce byl frčák.
+
+Většinu pracovní doby jsem strávil refactorem ebf. Buildroot mel novej toolchain, kterej už šest let starej kód nebyl s to přeložit. Na tom, že linker nezarovnal sektor .data na 4 jsem strávil pár hodin. MCU šlo do hardfaultu.
+
+Omeleta ve věži byla výborná. Za 160 s polévkou opravdu kauf.
+
+Přišel den, kdy Praha otevírala Dvorecký most. Verunka za námi přijela ve 4, domluvila s kluky deskovkový večer, vybrali jsme freebike a vyrazili na cestu k mostu.
+
+Po dědovi jsem zdědil vlastnost, kdy nerad jezdím tam a zpět stejnou cestou. Radši jsem nás vedl pedál rokytky, ke cvičítkům, potom na zmrzlinu u meandrů, skrz Počernice, do Hostivaře podél Ulice, k Botiči, na Kačerov, Budějovickou a dolů po Jeremenkově přes piktogramy.
 
 ![image](17_1.jpg)
+
+Po sebrání stovek šipek jsme dorazili na most. Byl super. Prahu promění. Městský zkrátí randál vzdáleností a upraví okolí z bezdákova do moderního města pro lidi.
+
+Projeli jsme se tam a zpátky. Lampy proti tmě prý ještě tak rok stát nebudou, což byla škoda, ale jinak jsem byl nadšený.
+
 ![image](17_2.jpg)
+
+Cesta zpátky přes centrum byla trochu oser. Člověk na ní vidí, jak na jedničce a dvojce selháva městské plánování. Chtělo by to tam lidi ze sedmičky. Tam to umí.
+
+Moc jsem to nezvládl s oblečením. Veru naštěstí měla kabát, já to dd v tričku. Po osmý, když zašlo slunko už byla fakt zima. Domů jsme se dostali až před desátou.
 
 ###
 
@@ -377,7 +398,9 @@ S tím bazénem to nakonec vyšlo. Ráno jsem sice jel autobusem ale na cestu zp
 
 Měli až od 6 takže jsem si ještě koupil banán a tvarohový koláč abych měla energii a na tohle palivo jsem uplaval 1600 metrů.
 
-Před sportem jsem ale pracoval. Na spodních deskách ještě bylo spousta práce. Věci většinou dobrá, ale když máš šablonu, která neodpovídá tvojí desce,  zbývá ti ještě hodně pájení. Ještě že mě paní docela baví.
+Před sportem jsem ale pracoval. Na spodních deskách ještě bylo spousta práce. Věci většinou dobrá, ale když máš šablonu, která neodpovídá tvojí desce, zbývá ti ještě hodně pájení. Ještě že mě paní docela baví.
+
+![image](23_1.jpg)
 
 Bavily i mě i Penne ve věži. Byly sýrový omáčce se sýrem gran moravia a do toho byly nakrájený Portobello žampiony. K tomu bramboračka dohromady za 155. Paráda.
 
@@ -392,6 +415,8 @@ Povídala mi o tý škole s takovou jiskrou v oku asi jako když já popisuju sv
 Verunka se probudila s kocovinou. Ani chleba, ani super veggie, které jsem připravil předchozího večera nebyla schopná pozřít. Adrienne měla připravenou jógu při kocovině, což bylo docela vtipný, ale taky docela k ničemu. Veru s výrazem umírajícího člověka vyrazila na autobus, já snědl snídani a potom vyšel na zastávku do opačného směru, do Vysočan.
 
 Čekali tam na mě 4 HLP, Které bylo třeba rozchodit a našroubovat do zámku které nám poslala Fabienne z Francie. Šlo mi to úplně rychle ale bylo to připravený dobře a moc problému jsem nepotkal.
+
+![image](24_1.jpg)
 
 Vláďa mi opravil testy v stcommonu a já po obědě tak mohl vyzkoušet přejít na novou knihovnu v NFCU A ověřit jestli rozdělení na ramky po procesorech bude fungovat.
 
@@ -411,4 +436,35 @@ Byla tam jména jako Harry Gregson Williams, Gustavo Santaolalla, Mychael Danna,
 
 Byla tam i Halli s přítelem. Už bych si měl sakra zapamatovat jak se oba jmenují. Viděli jsme se potřetí. Verunka si s ní dokonce dost rozuměla a společně šli za panem Gustávem pro fotku, protože pan Gustavo produkoval spoustu písniček který Verunka používá ve výuce.
 
+![image](24_2.jpg)
+
 Byli jsme tam až asi do 11 a cesta domů byla mrazivá. Cítil jsem že na mě něco leze. Doma jsem si dal prášek oblíknul svetr a zalezl do postele na neklidných sedm hodin.
+
+### 25.4. Doma s bolehlavem
+
+
+
+### 26.4. Kolem Vltavy
+
+Potom co jsem celou sobotu zůstal zavřený doma, jsem toužil vypadnout z Prahy ven. Neměl jsem ale žádný konkrétní plán a tak ráno bylo docela pomalý.
+
+Měli jsme topinky za čočkového chlebu že 3 různými pomazánkami a po snídani chvíli válení se na gauči. Během toho válení jsem vymyslel kam pojedem. Do Nelahozevsi. Vlakem z Bubnů. Verunce se ten pán líbil, ale abychom to stihli, museli bychom být do 20 min na zastávce a to se jí nelíbilo.
+
+Vlak jel co hodinu a ten další jsme tak stihli v pohodě.
+
+V S4 před námi seděli dva hipstři, kteří se bavili úplně stejných věcech jako my. Lavičkách na nádraží. Tom že Praha by měla mít líp propojená nádraží. A tom že Stromovka šla nahoru. Vystoupili ale někde v Sedlci a my jeli až do rodiště Antonína Dvořáka.
+
+Verunky příbuzného. Škoda že tam něco nezdědila. Bylo to tam fancy. Měli veliký zámek, před ním hrnčířské slavnosti a za všechno chtěli spoustu penízků a ještě zablokovali zelenou turistickou trasu.
+
+Museli jsme tak jít po červené. Podél vody. A podél pískovcových útvarů, kam jsem vyšplhala společně s finským seniorem, který s manželkou projížděl Česko na půjčených kolech.
+I Verunka vyšla nahoru ale dolu se trochu bála. Nakonec ale kopec sjela po zadku. Skoro až do Kralup. Byl to kousek.
+
+![image](26_1.jpg)
+
+Na kralupy jsem házel hate. Možná trochu neoprávněně. Bylo to tam hezčí než pamatuju. Cikánů tam bylo podstatně míň. V restauraci ale vařili jenom maso, a tak jsme zašli do penny na kaiserky a sýr a snědli je na docela pěkně opraveném náměstí.
+
+Podél řeky jsme pokračovali dál. Cesta už nebyla tak kouzelná, ale výhled na řeku pořád stál za to. Bylo modrý nebe a sluníčko hřálo. Došli jsme až do Libčic, odkud nás dovezla S4 zpátky na Vltavskou. K pánovi z Kanady, který před vstupem do metra hrál na dudy. Dostal od pár mincí.
+
+Doma jsme se zvládli trošku rekuperovat a pak jasně vyrazili do Lidlu, nakoupit věci na následující den, kdy nás čekaly deskovky s kolegy u nás.
+
+Po osmý jsme promítli dva díly přátel a dali si česnečku. Vánočního pásovce jsem viděl možná už mockrát. Navíc mě bolela hlava od vysušeného nosu a otoku něm. Kortikoidy nějak odmítaly pomáhat.
