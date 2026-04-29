@@ -29,6 +29,9 @@
 - [24.4 Dluhy a soundtracky](#244-dluhy-a-soundtracky)
 - [25.4. Doma s bolehlavem](#254-doma-s-bolehlavem)
 - [26.4. Kolem Vltavy](#264-kolem-vltavy)
+- [27.4. Krycí jména](#274-krycí-jména)
+- [28.4. Kolosální ztráta času](#284-kolosální-ztráta-času)
+- [29.4.](#294)
 
 
 ### 1.4. Žádný dobrý fóry
@@ -277,7 +280,7 @@ Po dědovi jsem zdědil vlastnost, kdy nerad jezdím tam a zpět stejnou cestou.
 
 <a href="../images/2026_april/17_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/17_1.jpg"></a>
 
-Po sebrání stovek šipek jsme dorazili na most. Byl super. Prahu promění. Městský zkrátí randál vzdáleností a upraví okolí z bezdákova do moderního města pro lidi.<br>
+Po sebrání stovek šipek jsme dorazili na most. Byl super. Prahu promění. Městský zkrátí randál vzdáleností a upraví okolí z bezďákova do moderního města pro lidi.<br>
 Projeli jsme se tam a zpátky. Lampy proti tmě prý ještě tak rok stát nebudou, což byla škoda, ale jinak jsem byl nadšený.<br>
 
 <a href="../images/2026_april/17_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/17_2.jpg"></a>
@@ -379,3 +382,27 @@ Na kralupy jsem házel hate. Možná trochu neoprávněně. Bylo to tam hezčí 
 Podél řeky jsme pokračovali dál. Cesta už nebyla tak kouzelná, ale výhled na řeku pořád stál za to. Bylo modrý nebe a sluníčko hřálo. Došli jsme až do Libčic, odkud nás dovezla S4 zpátky na Vltavskou. K pánovi z Kanady, který před vstupem do metra hrál na dudy. Dostal od pár mincí.<br>
 Doma jsme se zvládli trošku rekuperovat a pak jasně vyrazili do Lidlu, nakoupit věci na následující den, kdy nás čekaly deskovky s kolegy u nás.<br>
 Po osmý jsme promítli dva díly přátel a dali si česnečku. Vánočního pásovce jsem viděl možná už mockrát. Navíc mě bolela hlava od vysušeného nosu a otoku něm. Kortikoidy nějak odmítaly pomáhat.<br>
+
+### 27.4. Krycí jména
+
+Na dnešek jsem jsme volali deskovky u nás. vlastně to udělala verunka, protože já jsem se k tomu úplně neměl. Taky vymyslela že udělá tortilly plnění pečeným tofu a fazolema a všechno to připravila. Verunka je úžasná.<br>
+Kolo v práci a v práci taky zůstalo protože po 8,5 hod. toho co jsem testoval L1, zdá se Ivan hodil Smartem po Kbelské až na parkoviště za OC Letňany. Mě, Vlado, Jirku A vojta přijel dopravou potkali jsme se u nás přízemí, protože přišel domů z opačné strany.<br>
+Vyběhli/vyjeli jsme nahoru do 9. patra kde už teď je vonělo jídlo. Outlookem povídal optání jak jsme se stěhovali a co se nám na tom bytě líbí a pak jsme se pustili do jídla. Bylo to výborný. Po obědě ve věži, kde jsem měl guláš s hlívy ústřičné, jsme si povídali o tom že by si možná koupil nějakou klobásku cestou k nám, aby neměl masový deficit. Tofu v tortille ho skóre prý mátlo tak, že nevěřil, že v něm maso není.<br>
+Chutnalo všem. Nejen tortilly ale i panna cotta.<br>
+
+<a href="../images/2026_april/27_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/27_1.jpg"></a>
+
+Hráli jsme Krycí jména a BANG. Byl jsem na vymýšlení indicií docela tupej. Ale bavilo mě to. V bangu mi jako vždy v ruce vybuchl dynamit. Vyhrál jako vždy šerif Vláďa. Jirka vzal bolta, ostatní jsem doprovodil dolů před dům, odkud vyrazili na trolejbus a auto za OCčkem.<br>
+Byl to moc fajn večer.<br>
+
+### 28.4. Kolosální ztráta času 
+
+Skoro přesně dvacet čtyři hodin uběhlo od chvíle, kdy jsme jeli smartem po Kbelské, říkal jsme si, když jsem na Franzovi stoupal po cyklostezce vedle té čtyřproudky. Uteklo to skoro jak lusknutím prstu. Čas letí, když se člověk dobře baví.<br>
+Nebo když testuje analogového a digitální L1 testy. Hrabalo mi z toho trochu. Ale našel jsem místo, kde jsme to rozbili. Removal měl ignorovat přenosové chyby, ale Vláďova nová implementace je začala řešit až od začátku antikolize.<br>
+Opravil jsem to, vyzkoušel a napsal Fabiene. A najednou bylo půl šestý. V šest jsem měl být v solné jeskyni v Letňanech. Verunka měla pocit, že by mi to mohlo pomoct se sinusitidou a bylo to na multisportku. Stihl jsem to tak tak.<br>
+Hodinu sedění na lehátku v místnosti, kde asi byl solný prach, ale nedalo se to nijak poznatel. Jestli to mělo léčebný efekt, tak spíš tím, že člověk byl v tichu a tmě bez mobilu. Dost času na to, přepnout sympatikus na parasympatikus.<br>
+Ale co, za pokus to stálo. Doma jsem dojedl tortilu a poslouchal Verunku vyprávět o tom, že vzala práci na fulltime na Škole poznávání. Potom mi půjčila laptop abych se konečně mohl podívat na předposlední díl Invincibla.<br>
+Byl trochu debilní. Zničeni Viltrumu moc nedávalo smysl. Co by dávalo smysl, bylo střelit Thragga Space Racerovým koltem. Ale to by asi nemohlo přijít finále řady.<br>
+
+### 29.4.
+
