@@ -27,7 +27,7 @@
 - [22.4. Změny plánů](#224-změny-plánů)
 - [23.4. Škola poznávání](#234-škola-poznávání)
 - [24.4 Dluhy a soundtracky](#244-dluhy-a-soundtracky)
-- [25.4. Doma s bolehlavem](#254-doma-s-bolehlavem)
+- [25.4. Vyděláš pár penízků a stát ti je sebere](#254-vyděláš-pár-penízků-a-stát-ti-je-sebere)
 - [26.4. Kolem Vltavy](#264-kolem-vltavy)
 - [27.4. Krycí jména](#274-krycí-jména)
 - [28.4. Kolosální ztráta času](#284-kolosální-ztráta-času)
@@ -363,8 +363,15 @@ Byla tam i Halli s přítelem. Už bych si měl sakra zapamatovat jak se oba jme
 
 Byli jsme tam až asi do 11 a cesta domů byla mrazivá. Cítil jsem že na mě něco leze. Doma jsem si dal prášek oblíknul svetr a zalezl do postele na neklidných sedm hodin.<br>
 
-### 25.4. Doma s bolehlavem
+### 25.4. Vyděláš pár penízků a stát ti je sebere
 
+Bylo mi blbě. Těžko říct, jak moc za to mohl můj psychický stav. Ale určitě jsem měl něco na plicích.<br>
+Když jsem ráno cítil, že už neusnu, pustil jsem se do vyplňování daňového přiznání. Fakt, že jsem se dobrovolně přiznal k zisku z ostatních zdrojů, tedy z prodeje CFD, mě vykopnul z paušálního režimu. To bylo na prd. Hodně na prd. Víc papírování a 45512 korun v doplatcích za rok 2025. V roce 2026 to mělo být ještě mrtě horší.<br>
+Poslal jsem přiznání, přehledy, nastavil trvaláky a začal hledat ETF, na která lze aplikovat časový test. 3 roky držet a nula v daních. Ideál. Našel jsem ekvivalent VOO a S&P 500. SCHD ekvivalent neměl. Holt víc do těch dvou.<br>
+Veru šla plavat a po plavání na ekofest. Mě bylo blbě a tak jsem zaplul do postele. I pres to že venku bylo pěkné.<br>
+Zkurvený CFD. Nejhorší vynález na planetě. Nikdy víc.<br>
+Někdy v pět jsem se vzbudil a zapsal tohle do deníku. Většina dubna byla v Řehořovi prázdná. Chtělo to dopsat. Věděl jsem, že dostat myšlenky a zážitky do deníku mi pomůže. Ale byl jsem mrtvej.<br>
+Chvíli jsem poslouchal Strika. Kniha ubíhala pomalu. Moc pomalu.<br>
 
 ### 26.4. Kolem Vltavy
 
