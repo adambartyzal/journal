@@ -430,3 +430,4 @@ Páťa a Sofie byli hlavní aktéři diskuse. Tomáš s Terkou byli v tý fázi,
 
 Je těžký udržet si v životě lidi, který má člověk rád, do toho pracovat a nedej bože vychovávat děti. Koncerty byly to první co šlo pryč, shodli jsme se s tomem za zraku mankáčů a vůně pečených buřtů.<br>
 Jet zpátky do Letňan po třech třináctkách asi nebylo nejmoudřejší, ale jel jsem opatrně a byl jsem vidět. A bylo to moc fajn. Night Cruising je supr.<br>
+[>> Květen](2026_may.md)<br>
