@@ -26,12 +26,13 @@
 - [21.4. Víc optimismu](#214-víc-optimismu)
 - [22.4. Změny plánů](#224-změny-plánů)
 - [23.4. Škola poznávání](#234-škola-poznávání)
-- [24.4 Dluhy a soundtracky](#244-dluhy-a-soundtracky)
+- [24.4. Dluhy a soundtracky](#244-dluhy-a-soundtracky)
 - [25.4. Vyděláš pár penízků a stát ti je sebere](#254-vyděláš-pár-penízků-a-stát-ti-je-sebere)
 - [26.4. Kolem Vltavy](#264-kolem-vltavy)
 - [27.4. Krycí jména](#274-krycí-jména)
 - [28.4. Kolosální ztráta času](#284-kolosální-ztráta-času)
 - [29.4.](#294)
+- [30.4. Čáry v HoPo](#304-čáry-v-hopo)
 
 
 ### 1.4. Žádný dobrý fóry
@@ -342,7 +343,7 @@ Bazén, desky a těstoviny ale byly prd proti tomu co se dělo Verunce. Dopoledn
 Šla to zapít s kamarádkou Terkou. Psycholožkou z kolaudačky. Já se pustil do vaření super veggie a pečení chlebu z čočky. Seděl jsem zrovna u trouby, když se Veru vrátila. trochu hloupě jsme se chytli, protože nějak blbě šoupla miskou po podlaze, ale bylo to zbytečný a snad jsem se omluvil dostatečně.<br>
 Povídala mi o tý škole s takovou jiskrou v oku asi jako když já popisuju svojí práci občas. Možná větší. Určitě větší 🙂<br>
 
-### 24.4 Dluhy a soundtracky
+### 24.4. Dluhy a soundtracky
 
 Verunka se probudila s kocovinou. Ani chleba, ani super veggie, které jsem připravil předchozího večera nebyla schopná pozřít. Adrienne měla připravenou jógu při kocovině, což bylo docela vtipný, ale taky docela k ničemu. Veru s výrazem umírajícího člověka vyrazila na autobus, já snědl snídani a potom vyšel na zastávku do opačného směru, do Vysočan.<br>
 Čekali tam na mě 4 HLP, Které bylo třeba rozchodit a našroubovat do zámku které nám poslala Fabienne z Francie. Šlo mi to úplně rychle ale bylo to připravený dobře a moc problému jsem nepotkal.<br>
@@ -350,7 +351,7 @@ Verunka se probudila s kocovinou. Ani chleba, ani super veggie, které jsem při
 <a href="../images/2026_april/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/24_1.jpg"></a>
 
 Vláďa mi opravil testy v stcommonu a já po obědě tak mohl vyzkoušet přejít na novou knihovnu v NFCU A ověřit jestli rozdělení na ramky po procesorech bude fungovat.<br>
-Totálně to nefungovalo. Rozhodl jsem se to řešit až následující týden. Verunka mi totiž napsala že už na ni přišel hlad a že cestou do kina dlabačov, kam jsme měli jít na akci filmové databáze by se chtěla zastavit v Karlíně a dát si Pad Thai s tofu.<br>
+Totálně to nefungovalo. Rozhodl jsem se to řešit až následující týden. Verunka mi totiž napsala že už na ni přišel hlad a že cestou do kina Dlabačov, kam jsme měli jít na akci filmové databáze by se chtěla zastavit v Karlíně a dát si Pad Thai s tofu.<br>
 Nemělo smysl brát kolo takže jsem ho nechal v práci a došel na béčko. V metru jsem si četl rozdílový smlouvách a došlo mi že asi dlužím na daních. Čím víc jsem se do toho na řil tím horší to bylo. Tím že jsem na eToru nedržel podkladová aktiva ETFkům ale jenom rozdílovou smlouvu, nestahoval se na mě tzv. časový test a pokud jsem vydělal víc než 50 000 ročně, znamenalo to že za rok 2025 už nejsem v paušálním režimu.<br>
 To nebylo dobrý. To vůbec nebylo dobrý. Narozdíl od toho Pad Thai s tofu. To dobrý bylo, ale moc jsem si ho neužil, protože mi hlavou běželo, že budu muset platit víc na sociálním být na zdravotním a ještě mnohem víc na dani.<br>
 Vysvětloval jsem to Verunce a bylo vidět že jí to mrzí. Pak mě ale napadlo že já ve skutečnosti za rok 2025 mám obrovskou ztrátu z tradingu a taková obrovská ztráta by šla použít proti mému zisku. Což jak jsem zjistil byla pravda A zachránil mě to od placení velké daně z příjmu. Ale ukončení režimu muselo přijít tak jako tak.<br>
@@ -402,7 +403,7 @@ Chutnalo všem. Nejen tortilly ale i panna cotta.<br>
 Hráli jsme Krycí jména a BANG. Byl jsem na vymýšlení indicií docela tupej. Ale bavilo mě to. V bangu mi jako vždy v ruce vybuchl dynamit. Vyhrál jako vždy šerif Vláďa. Jirka vzal bolta, ostatní jsem doprovodil dolů před dům, odkud vyrazili na trolejbus a auto za OCčkem.<br>
 Byl to moc fajn večer.<br>
 
-### 28.4. Kolosální ztráta času 
+### 28.4. Kolosální ztráta času
 
 Skoro přesně dvacet čtyři hodin uběhlo od chvíle, kdy jsme jeli smartem po Kbelské, říkal jsme si, když jsem na Franzovi stoupal po cyklostezce vedle té čtyřproudky. Uteklo to skoro jak lusknutím prstu. Čas letí, když se člověk dobře baví.<br>
 Nebo když testuje analogového a digitální L1 testy. Hrabalo mi z toho trochu. Ale našel jsem místo, kde jsme to rozbili. Removal měl ignorovat přenosové chyby, ale Vláďova nová implementace je začala řešit až od začátku antikolize.<br>
@@ -413,3 +414,19 @@ Byl trochu debilní. Zničeni Viltrumu moc nedávalo smysl. Co by dávalo smysl,
 
 ### 29.4.
 
+
+### 30.4. Čáry v HoPo
+
+Začínal jsem mít opravdu rád ranní sjezd z Klíčova. Stromy kolem dlážděné silnice zezelenaly, slunko svítilo směrem z Vysočan a po vyklepání na kostkách přicházel příjemný sjezd serpentinou smerem k bývalým pekárnám.<br>
+Slíbil jsem Monice, že v Kuopiu provedu synchronizaci s ERP. Úplně jsem netušil do čeho jdu. I s plnou silou pythonových skriptů jsem tím zabil celé dopoledne a po obědě ve Vietnamu ještě jednu další hodinu. A když už jsem byl v tom, udělal jsem i Trnavu a připravil Teco a Jaworzno.<br>
+Rok utekl a opět byly čáry. Mladí tentokrát neladili jazz na Kartáku, ale na výstavišti, takže jsem zrušil tradici a přijal pozvání od Tomáše Hermana na čarodějnice vHorních Počernicích, kam dorazili i Nováčkovic.. Škoda, že Verunce bylo blbě a šla to domů vyležet. Na kole jsem dojel do zahrady u Hornopočernického zámečku a potkal Anet s Filipem a Páťou jak kupují gyros. Tom přiběhl chviličce neb dohlížel na děcka na skákacím hradě.<br>
+Hráli tam Beatles Revival, večer měli hrát Monkey Business hořel velký oheň, na malých se pekli buřty, pivo bylo jak Z dolních, tak z Horních Počernic a my si povídali kousek bokem od hluku u stolu.<br>
+
+<a href="../images/2026_april/30_1.jpg" target="_blank"><img src="../images/thumbnails/2026_april/30_1.jpg"></a>
+
+Páťa a Sofie byli hlavní aktéři diskuse. Tomáš s Terkou byli v tý fázi, kdy kvůli děcku spí jen pár hodin. Skrz únavu z nich ale čišela radost. Rád jsem je viděl.<br>
+
+<a href="../images/2026_april/30_2.jpg" target="_blank"><img src="../images/thumbnails/2026_april/30_2.jpg"></a>
+
+Je těžký udržet si v životě lidi, který má člověk rád, do toho pracovat a nedej bože vychovávat děti. Koncerty byly to první co šlo pryč, shodli jsme se s tomem za zraku mankáčů a vůně pečených buřtů.<br>
+Jet zpátky do Letňan po třech třináctkách asi nebylo nejmoudřejší, ale jel jsem opatrně a byl jsem vidět. A bylo to moc fajn. Night Cruising je supr.<br>
