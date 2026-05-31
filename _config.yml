@@ -1,4 +1,5 @@
 # Setup
+include: [robots.txt]
 title: Adamův Deník
 url: https://adambartyzal.github.io/
 permalink: pretty
