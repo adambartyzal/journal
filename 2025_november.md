@@ -474,9 +474,9 @@ Ve tři čtvrtě na pět bylo hotovo. Přijel David a začali jsme plnit auto. B
 
 Paní Dundáčková přišla s pánem, který nesl televizi. Nebylmoc sympatický. Nahoře jsme se trochu nepohodli u prodeje myčky. Nakonec padla za pět tisíc. Asi dobry! Kauce taky byla vrácená celá. Opsali jsme si stavy. Předali klíče a tím skončila naše Vršovická dva.<br>
 Byla to dobrá éra. Fakt že jo. Myslím, že během těch pěti let jsem se změnil dobrým směrem.<br>
-Davidovi jsme byli dlužný. Hodil nás do Letňan a počkat na nás během přebírání nového datu. Tam jsmepotkali pana Čiča, majitele bytu, pane Dlouhého, nájemníka, který předával byt pana Pospíšilové, našemu realiťákovi. Předání i přebrání bylo v pohodě. Zlehlkli jsme o 37400 korun ale nebyli jsme bezdomovci a to bylo hlavní! Dokonce jsme si zavtipkoval, o boileru Dražice.<br>
+Davidovi jsme byli dlužný. Hodil nás do Letňan a počkat na nás během přebírání nového datu. Tam jsme potkali pana Číča, majitele bytu, pane Dlouhého, nájemníka, který předával byt pana Pospíšilové, našemu realiťákovi. Předání i přebrání bylo v pohodě. Zlehlkli jsme o 37400 korun ale nebyli jsme bezdomovci a to bylo hlavní! Dokonce jsme si zavtipkoval, o boileru Dražice.<br>
 
 <a href="../images/2025_november/30_4.jpg" target="_blank"><img src="../images/thumbnails/2025_november/30_4.jpg"></a>
 
-S Davidem jsme nanosili zbytek věci nahoru, dole si ještě asi 20 minut povídali a pak se rozloudili. S Verunkou Jsme v tescu koupili pečivo, sýr, rajčata a okurky dali si doma večeři, roztáhli matraci a pustili se do prvního přespávání v novém bytě.<br>
+S Davidem jsme nanosili zbytek věci nahoru, dole si ještě asi 20 minut povídali a pak se rozloučili. S Verunkou Jsme v tescu koupili pečivo, sýr, rajčata a okurky dali si doma večeři, roztáhli matraci a pustili se do prvního přespávání v novém bytě.<br>
 [>> Prosinec](2025_december.md)<br>
