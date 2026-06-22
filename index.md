@@ -34,4 +34,4 @@ Pospolu, na běžky, do Ostravy, do Paříže, Veru do Rumunska, zámek s termin
 
 ## [2026](2026.md)
 
-KCD v zimě, roubenka podruhé, Irové, mámy operace, Hamburk, 
+KCD v zimě, roubenka podruhé, Irové, mámy operace, Hamburk, KCD v reálu, Vývoje až hanba, AI všude
