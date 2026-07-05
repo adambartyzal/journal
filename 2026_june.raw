@@ -9,7 +9,7 @@
 - [5.6. EBUX](#56-ebux)
 - [6.6.](#66)
 - [7.6.](#76)
-- [8.6.](#86)
+- [8.6. Beáta a Layout](#86-beáta-a-layout)
 - [9.6.](#96)
 - [10.6.](#106)
 - [11.6. Mezi dešti krásně](#116-mezi-dešti-krásně)
@@ -20,8 +20,18 @@
 - [16.6. Má smysl to dohánět?](#166-má-smysl-to-dohánět)
 - [17.6.](#176)
 - [18.6. Kámo mě je fakt blbě](#186-kámo-mě-je-fakt-blbě)
+- [19.6.](#196)
+- [20.6.](#206)
+- [21.6.](#216)
 - [22.6. Nahradí mě AI?](#226-nahradí-mě-ai)
 - [23.6.](#236)
+- [24.6.](#246)
+- [25.6.](#256)
+- [26.6.](#266)
+- [27.6.](#276)
+- [28.6.](#286)
+- [29.6. Pořád to nejde zničit](#296-pořád-to-nejde-zničit)
+- [30.6. Střížkovští v Letňanech](#306-střížkovští-v-letňanech)
 
 ### 1.6. U Vody
 
@@ -147,9 +157,17 @@ Vstávali jsme někdy po sedmé. Udělal jsem snídani. Míchaná vajíčka s ra
 
 ![image](07_3.jpg)
 
-### 8.6.
+### 8.6. Beáta a Layout
+
+V noci se Jirkovi narodila dcera. Beate. Všechno dopadlo dobře a tak Jirka svolával zapitnou!
 
 ![image](08_1.jpg)
+
+Během cesty do práce na kole jsem se docela rozesmál. Někde ve stoupání na kruháči přes dálnici mi Nine inch Nails společně s Technem křičeli do uší. Oh my god, can we go any faster! Byla to fajn jízda.
+
+Zato zpátky se mi nechtělo. Kreslení layoutu EBUXu mě zabavilo tak moc, že jsem si až v půl osmý uvědomil, Že bych třeba mohl končit.
+
+Cestou jsem ale ještě šel cvičit na workoutové hřiště. Pár shybů, kliků a dipů. K tomu doma tofu a TSP s mlékem. Byl jsem zvědavej, jestli uvidím a pocítím nějaký rozdil.
 
 ### 9.6.
 
@@ -178,7 +196,9 @@ Anténu jsem zaoblil podle okraje desky. Z výsledku jsem měl fakt radost.
 ### 12.6.
 
 ![image](12_1.jpg)
+
 ![image](12_2.jpg)
+
 ![image](12_3.jpg)
 
 ### 13.6.
@@ -205,17 +225,17 @@ Vláďa se měl vrátit z Chorvatska. U snídaně jsem si otevřel noviny a na v
 
 Když jsem do vývoje dorazil, byli už tam všichni včetně Vláďi, který říkal, že dovolená to byla parádní. I je ale zpráva o potopené jachtě dost zarmoutila. Vláďa mi mrknul na EBUX a dal mi pár tipů. Z podverzí *a* a *b* se tak staly *c* a *d*.
 
+![image](15_1.jpg)
+
 Ivan toužil po pizze. Mě to bylo docela jedno a tak vyhráli Hubatci. Pro mě tam měli mini gnocchi na smetaně s gorgonzolou. A houbový krém. Nechal jsem tam docela randál. Obzvlášť k tomu, jak složitý je zalít nočky smetanou a nasypat na ně sýr. Ale všechno to bylo moc dobrý.
 
 Po obědě jsem nahrál nový desky do AllPCB a objednal výrobu.
 
 Střížkovští končili svou éru v Praze. Chtěli si s ními dát pivo a tak jsem opět zvolil autobus. Jel přímo do parku Přátelství. Ten jsem prošel, cestou snědl housku z Lidlu a usadil se na hipster lavičkách s grepovým nepivem ze stánku.
 
-![image](15_1.jpg)
+![image](15_2.jpg)
 
 Měli to blízko, takže přišli poslední. Povídali nám, jak se budou stěhovat do vesnice kousek od Pejru, kde Veru zdědila pozemek. Napřed budou bydlet ve škole a pak až jim postaví dům na klíč, se přestěhují do vlastního. To se tak někdo má, když zdědí pozemek. Taky bych rád. Ale co. Přál jsem jim to. Prej jim Praha nevyhovovala. Mě zas nevyhovovaly jižní čechy.
-
-![image](15_2.jpg)
 
 Když zapadlo slunko, přišla najednou zima. Během povídání o laserové operaci očí jsme došli na 201 a v u náz v Alza boxu vyzvedli kreatin. Rozhodl jsem se ho brát na hlavu víc než na svaly. Ale i na ty. Vegetariánům chybí.
 
@@ -227,7 +247,17 @@ Jenže o víkendu na psaní nebyl čas. Přes týden jsem kreslil EBUX s přesč
 
 A tak dnešní úterý vyústilo v to, že jsem toho v práci zas tolik nezvládl. A ani neměl chuť zvládat. Kolo bylo v práci, takže jsem jel autobusem a zpoždění, kvůli rozkopaný Vysočanský mě nasralo.
 
-### 17.6. 
+### 17.6.
+
+Snídani s Verunkou jsem nestihl. Chvátala do školy a já byl nějaký unavený už ráno. Venku ale bylo pěkné a tak jsem do sebe nacpal zdralou bublaninu a sedl na kolo.
+
+Jelo nějak na hovno. Asi zadní brzda. Z kopce to tak moc nevadilo, ale chtělo to nějaký servis.
+
+V práci byla spousta lidí. Adélka slíbila přinést nějaký dobroty a to se vskutku stalo. Ivan hrotil timeline EBUXU, přitom se s Omarem shodli, že nová kola se z nich budou stavět až v březnu dalšího roku. Aspoň jsme ale změřili, jak dlouhý bude SCR-EBUX kabel a objednali vzorky.
+
+Díky malým burgřikům, chlebíčkům a perníku z Madeiry jsme šli na oběd až v jednu. Chilli v Bun Chay jsem přestřelil 17.6.
+
+TODO dopsat
 
 ### 18.6. Kámo mě je fakt blbě
 
@@ -238,6 +268,13 @@ Bolely mě klouby , neměl jsem sílu v prstech a vůbec jsem netušil, zda je m
 Vzal jsem si volno, napsal do slacku a odpadl.
 
 Fakt mi bylo blbě. Většinu dne jsem ležel a špatně spal. Když jsem byl vzhůru, dočetl jsem A Wrinkle in Time. Byla to divná kniha. Trochu jako kosmická Trilogie a ta mi fakt nesedla.
+
+### 19.6.
+
+### 20.6.
+
+### 21.6.
+
 
 ### 22.6. Nahradí mě AI?
 
@@ -256,3 +293,80 @@ Nakonec to ale měla být jen asistence skutečnému češtináři. A omluvili s
 Jet na kole nahoru ve 30°C nic moc. Obzvlášť když Franz byl nějaký marný. Asi ložiska. Rozhodl jsem se, že v úterý na to kouknu víc.
 
 ### 23.6.
+
+někdy ve dvě vzbuzený přál
+spolu salát k snídani
+kolo
+příprava přání
+ne moc produktivní den
+oprava kola
+až na ložiska
+veru na poradě v hokejce
+
+
+### 24.6. 
+
+Naspal jsem asi 6 hodin
+Kolo lepší, i pár zlatých, ale pocit pořád zlej
+v 7:35 v práci
+pak DJ
+ostatní doma kvůli teplu
+nebylo to zlý
+
+### 25.6.
+
+### 26.6.
+
+### 27.6.
+
+### 28.6.
+
+### 29.6. Pořád to nejde zničit
+
+Můj transpirační stroj moc chladu nepřinesl. Barák byl nahřátý na 31 a s tím jeden ručník moc nenadělá. Spánek tak stál mega za prd.
+
+Jízda na kole po snídani byla horká, ale bylo znát, že by se to odpo mohlo zlepšit. Navíc bylo znát, že rodiče nevezou děcka do školy a že Vysočanská křižovatka je opravená. Už jsem skoro zapomel, jak příjemný je nemotat se kolonou.
+
+Vláďa přijel úplně zplavenej. On narozdíl ode mne nejede do Vysočan z kopce. Za to, že máme sprchu byl hodně rád.
+
+Plán stále zněl: zničit box. Přidal se i Ivan a jestli to něčemu pomáhalo těžko říct, ale pustit se do toho s vervou.
+
+![image](29_1.jpg)
+
+Zato já jsem po obědě ve věži ve snahách polevil. Pustil jsem se do měření antény na ebuxu. 26 ve víčka fungovalo intenzivně na prd. Jenže s 2) anténou to bylo stejný. Navíc GPS patch zářil do monopolu tak, Že to bylo vidět na odrazu. Nepřesvědčil mě ani jeden výsledek.
+
+Z německa přišly bouřky. Přinesly mírný ochlazení, v Praze ale bez deště. Cestou domů mi tak příjemně foukalo do zad a během jízdy jsem si telefonoval s tátou. Praskl mu řetěz a jel domů jen na PAS senzor.
+
+Veru si koupila fancy škrabošku. Bylo to fakt dobrý. Přemýšlel jsem, že do ní asi zainvestuju taky.
+
+### 30.6. Střížkovští v Letňanech
+
+Verunce začaly prázdniny. Rozhodla se uklidit doma a připravit večeři pro Střížkovské. Měly přivézt poličky a dát si s námi něco dobrýho.
+
+![image](30_1.jpg)
+
+
+Úterý mi dávalo možnost soustředit se na něco víc svýho. Rozhodl jsem se osadit EBUX01d. Ten s mojí anténou. Byl jsem prostě moc zvědavej.
+
+![image](30_2.jpg)
+
+Nastavit šablonostroj mi trvalo asi hodinu. EBUX neměl žádný příhodý díry. Ale vymyslel jsem to, napnul šablonu a na první dobrou nanesl pastu jak nikdy. Vlastně i osazování mi šlo dost dobře vzhledem k tomu, že jsem ráno měl silný kafe a klepaly se mi ruce.
+
+Jen pec mi upekla Pico Blade dohněda. Naštěstí fungoval.
+
+Kód nebyl připravenej úplně správně. Bylo třeba vyměnit USB Control a juc20 dát parametr eg915. A pak jsem se připojil do breeze. A dokonce fungoval LIN. A USB k terminálu. Jeden úspěch za druhým.
+
+![image](30_3.jpg)
+
+Návštěva ale měla přijít v 6 a táhlo na půl, když jsem vyrážel.
+
+Stejně měli zpoždění. Takže jsem stihl sprchu a trochu ještě pomohl Verunce, která navařila tunu věcí. Včetně obligátních tofurit.
+
+V bytě bylo 29°C. Teplota venku klesla na 27 a tak jsme mohli otevřít okna a Klárou trochu rozhýbat vzduch.
+
+Návštěva to byla milá. Veroniku s Jirkou tofurita nadchlaa dezert s jahodovým rozvarem v nich zmizel jak nic. Povídali jsme si o jejich stěhování. O Alta Vie a o svatbách. Měli živou kapelu. A lidé jim prý tančili celou dobu. Říkal jsem si, že je třeba zjistit, jak to probíhá a Charlese.
+
+Západ slunka byl moc pěkný. A hosté ho viděli.
+
+Na spaní mi Veru půjčila škrabošku. Do uší jsem si dal špunty a zkusil dohnat deficit.![image](01_1.jpg)
+
