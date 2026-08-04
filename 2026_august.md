@@ -5,35 +5,8 @@
 
 - [1.8. Cyklovýlet](#18-cyklovýlet)
 - [2.8. Koupání v Kolíně](#28-koupání-v-kolíně)
-- [3.8](#38)
-- [4.8](#48)
-- [5.8.](#58)
-- [6.8.](#68)
-- [7.8.](#78)
-- [8.8.](#88)
-- [9.8.](#98)
-- [10.8.](#108)
-- [11.8.](#118)
-- [12.8.](#128)
-- [13.8.](#138)
-- [14.8.](#148)
-- [15.8.](#158)
-- [16.8.](#168)
-- [17.8.](#178)
-- [18.8.](#188)
-- [19.8.](#198)
-- [20.8.](#208)
-- [21.8.](#218)
-- [22.8.](#228)
-- [23.8](#238)
-- [24.8.](#248)
-- [25.8](#258)
-- [26.8.](#268)
-- [27.8](#278)
-- [28.8.](#288)
-- [29.8](#298)
-- [30.8.](#308)
-- [31.8](#318)
+- [3.8. Šroubovat bez mozku](#38-šroubovat-bez-mozku)
+- [4.8. Debug prošel](#48-debug-prošel)
 
 
 ### 1.8. Cyklovýlet
@@ -65,13 +38,28 @@ Někdy po jedné hodině, když už jsme měli vyprávění za sebou jsme vyrazi
 V šest ale jel Veru vlak a tak jsme se po pátý vrátili na byt, dvěma cvaknutíma jsem opravil dveře skříně, rozloučili jsme se a vyrazili na MHD na nádraží.<br>
 Mě vzala tři čtvrtě hodiny zpožděná Vysočina a Veru nastoupila do vlaku do Pardubic, kde měla přestoupit na rychlík, který měl zpoždění snad ještě větší.<br>
 
-### 3.8
+### 3.8. Šroubovat bez mozku
 
+Franz byl doma. Autobusem se mi ale nechtělo a tak jsem po chvíli lenošení doma vyrazil k Penny, kde měl být jeden nextbike. Byl to ten modrej a jízda na něm byla utrpení. Kolo bralo energii, kdo ví na co. Šlapal jsem jak ďas, ale jel asi 14 km/h.<br>
 
 <a href="../images/2026_august/03_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/03_1.jpg"></a>
 
+V práci jsem měl plán. Ivan mi připravil 20 těl horseshoe locků a já do nich měl rozchodit a namontovat těla. A otestovat, že to funguje. Připravil jsem si na to framework, vypl mozek, pustil Kluky z Prahy, kteří hejtovali přítomnost mlžítkek a absenci pítek v ulicích a točil šroubovákem, lepil štítky a dával zámky dohromady.<br>
+Nebylo to úplně růžový. Některý zámky měly vymletý závity, jiný neodemykaly. A všechny HLA měly opačně přisvětlovací diodu. Takže jsem postupoval pomalu. Ale postupoval.<br>
+Áďa nám přinesla freebiky slamáky. Už to mohlo být tak 2 roky, co jsme si řekli, že bychom je chtěli. A kdo si počká, ten se dočká zdá se. Společně jsme vyrazili do Věže na čočku a halušky.<br>
+Na večer jsem měl plán. Jít plavat do Hloubětína, prát, uklízet, psát deník a dávat si život do pořádku. Ale Hloubětín byl zavřenej, takže jsem šel plavat do přeplněných Letňan, vyzvedl jsem kapsle do myčky a doma si k vaření pustil druhou řadu Avatara z Netflixu. Nebylo to blbý, ale ani skvělý.<br>
+Pračku jsem nechal na jindy. A úklid taky. Není každej den posvícení.<br>
 
-### 4.8
+### 4.8. Debug prošel
+
+V noci bylo horko. Ještě ráno bylo 22 stupňů, takže noční větrání nikam moc nevedlo. Možná proto jsem ráno lelkoval, než jsem vyrazil na kole do práce.<br>
+Ondrovi jsem slíbil, že mu ve středu přivezu sušičku a do skupiny mezi našimi dvěma páry jsme poslali recepty na jejich trek Albánskými Alpami.<br>
+Ludvovy došla trpělivost dřív než mně. Já bych se ICUBE vyptával asi až ve středu. Ludva jim ale napsal email, jak to s debugem vypadá a Kevin víceméně obratem odpověděl, že prošel jak Analog, tak digitál a Interoperability. Všechno PASS.<br>
+Spadl mi kámen ze srdce. Sice to byl jen debug. Ale byl to úspěch jako prase. A spustil vlnu dalších věcí. Cetecom, Alcineo. Pro všechny byl potřeba hardware. A všechen ten hardware byl na mně. Takže jsem šrouboval a oživoval a testoval.<br>
+A nejedl. Bylo totiž úterý. Můj den půstu. Pil jsem zelenej čaj a kafe a k tomu spoustu vody a pomalu sledoval, jak mi dochází glukagon a přepínám na ketony.<br>
+Po pátý přišla bouřka. Zrovna jsem chtěl vyjet. Veru mi posílala fotky, jak s babičkou zavařuje okurky. Máma mi poslal fotku toho, že se narodila Ela Lee Veselá.Všichni byli zdraví. To bylo důležitý. A Petr s Evou se stali strejda a teta. <br>
+
+<!-- 
 
 
 ### 5.8.
@@ -155,3 +143,6 @@ Mě vzala tři čtvrtě hodiny zpožděná Vysočina a Veru nastoupila do vlaku 
 ### 31.8
 
 [>> Září](2026_september.md)<br>
+
+-->
+
