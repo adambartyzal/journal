@@ -7,6 +7,11 @@
 - [2.8. Koupání v Kolíně](#28-koupání-v-kolíně)
 - [3.8. Šroubovat bez mozku](#38-šroubovat-bez-mozku)
 - [4.8. Debug prošel](#48-debug-prošel)
+- [5.8. Sušička naslepo](#58-sušička-naslepo)
+- [6.8. 80 Wattů je trochu moc](#68-80-wattů-je-trochu-moc)
+- [7.8. Layout je past, ale jarová pěna větší](#78-layout-je-past-ale-jarová-pěna-větší)
+- [8.8. Kolo?](#88-kolo)
+- [9.8. Mrazák?](#98-mrazák)
 
 
 ### 1.8. Cyklovýlet
@@ -59,22 +64,51 @@ Spadl mi kámen ze srdce. Sice to byl jen debug. Ale byl to úspěch jako prase.
 A nejedl. Bylo totiž úterý. Můj den půstu. Pil jsem zelenej čaj a kafe a k tomu spoustu vody a pomalu sledoval, jak mi dochází glukagon a přepínám na ketony.<br>
 Po pátý přišla bouřka. Zrovna jsem chtěl vyjet. Veru mi posílala fotky, jak s babičkou zavařuje okurky. Máma mi poslal fotku toho, že se narodila Ela Lee Veselá.Všichni byli zdraví. To bylo důležitý. A Petr s Evou se stali strejda a teta. <br>
 
+### 5.8. Sušička naslepo
+
+na kole dolů<br>
+testování analogu<br>
+do vietnaky<br>
+ivan 6 závitků<br>
+na kole zpátky<br>
+zpátky pro sušičku<br>
+snědl jsem náhodný věci<br>
+136 na ohradu<br>
+ondra na křižovatce<br>
+o alta vie<br>
+rebeka v kině<br>
+2 piva<br>
+něco jako downtwn abbey<br>
+jen kelímek<br>
+
+### 6.8. 80 Wattů je trochu moc
+
+Přišlo mi, že za obědy utrácím trochu moc. Vzal jsem to ráno přes Lidl, koupil tam tofu, salát a chleba ve slevněce. Za celej bochník Cvrčkovického kváskového chlebu jsem dal 18 korun. Důchodci žijí v levnějším světě. Vlastně mi ale nic nebrání, nakupovat chleba cestou do práce. Jen se mi musí vejít do batohu.<br>
+Během dopoledne do vývoje přišlo raspberry 5. Vláďa <br>
+
+### 7.8. Layout je past, ale jarová pěna větší
+
+Vláďa vyrazil ale já jsem si řekl, že ještě chvíli budu koukat do layoutu testeru. Chtěl jsem jít tak v šest, když jsem přijel až po devátý. Jenže najednou bylo po osmý. Nikdo mě neotravoval a to pak šlo samo.<br>
+Co už, snědl jsem zbytek salátu, sedl na kolo a vyjel ven. A oklepal jsem se, jaká je venku zima. Slunko už zapadalo a chladný vítr ochladil vzduch patnáct stupňů pod pět a třicítky z poledne předchozího dne. Vlastně to ale byla po delší době pohoda.<br>
+Doma mě nemile překvapilo množství octomilek v kuchyni. Asi lezly ze dřezu. Byl jsem nucen povolat lepší zbraně. Dřez jsem vyvařil horkou vodou a Fredym. Na octomilky jsem vzal sedmičku s jarovou pěnou. Přikládal jsem jí ke stropu a mušky nepříliš vysoké inteligence sletávaly ze stropu rovnou do pěny, ze které už nebylo cesty pryč.<br>
+Taky jsem vynesl všechny koše a vymyl bio misku.<br>
+Když Veru přijela stále jsem ještě chytal. <br>
+
+### 8.8. Kolo?
+
+Po ránu jsme byli líní. Na snídani jsme se vyhrabali až před devátou. Mouchy se opět rozmnožili, ale u dřezu jich nebylo tolik. Vzal jsem sklenici s jarovou vodou a chytal přeživší. Utopil jsem jich určitě přes 30. A vypadalo to, že vyhrávám.<br>
+Venku bylo pěkně. Úplně na cyklo výlet. Veru ale neměla kolo. Ale venku byl dekáč. Šli jsme se podívat na kola tam. Za šestku měli mít docela levný trek.<br>
+A měli. A byl docela obstojnej. Na první pohled. Ale brzda byl nějakej divnej atyp. Přehazovačka držela na rámu bez adaptéru. Sedlo mělo fixní úhel. Představec byl navařenej. Vlastně mělo fakt dost ústupků vzhledem k tomu, že Riverside 500 měl kotoučovky, adaptér, vyměnitelný představec, lepší páčky, devíti kolečko, hezčí rám a lepší barvu.<br>
+Kromě ponožek a klisny na krosnu jsme nakonec nekoupili nic. Ale věděli jsme víc. A to se cení.<br>
+Doma Veru udělala stir fry a já vytáhl deník.<br>
+
+### 9.8. Mrazák?
+
+Na Verunku v noci přišly krámy. Dostalo jí to intenzivně. Bylo jí na blití a bříško jí bolelo, jako by mělo prasknout. Přes den tak ležela a bojovala s nástrahami ženství.<br>
+Já nakoupil věci na pozdní snídani a v hlavě se mi rodil plán. Plán jak ušetřit. Plán koupit mrazák a dát ho do kumbálu. Nakupovat ve slevě věci ve slevě a mrazit je. A vařit mnohem víc do krabiček. Opravdu se omezit na oběd s kolegy v restauracích na pondělí a středu. Zbytek jídlo z domu. Uvařit stew v papiňáku by mělo být jednoduchý jak facka. měl 8 litrů. To je jídla habaděj.<br>
+Vypadalo to ale, že kumbál nemá zásuvku. Nakonec jsem jí ale našel a to mě postrčilo v rozhodování, zda to má, či nemá smysl.<br>
+
 <!-- 
-
-
-### 5.8.
-
-
-### 6.8.
-
-
-### 7.8.
-
-
-### 8.8.
-
-
-### 9.8.
 
 
 ### 10.8.
