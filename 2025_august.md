@@ -203,24 +203,24 @@ Stan jsme postavili rychleji a lépe než kdy předtím a před jedenáctou jsme
 
 ### 9.8. Ultraprocessed Ireland
 
-I přes to, že stan byl postavený mezi čtyřmi stěnami, vítr klepal celtou dost hlasité na to, aby nás to budilo. Během bdění jsem vymyslel, jak stavit stan rychleji a lépe. Do podlážky stačí přidělat cvočky, na ty navázat správně dlouhé šminky. Po roztáhnutí podlážky člověk bude přesně vědět, kam zapíchat kolíky a na ně pak už jen natáhne celtu, roztáhne hůlky a oběhne ho dokola aby natáhl šňůrky.<br>
+I přes to, že stan byl postavený mezi čtyřmi stěnami, vítr klepal celtou dost hlasité na to, aby nás to budilo. Během bdění jsem vymyslel, jak stavit stan rychleji a lépe. Do podlážky stačí přidělat cvočky, na ty navázat správně dlouhé šňůrky a po roztáhnutí podlážky člověk bude přesně vědět, kam zapíchat kolíky a na ně pak už jen natáhne celtu, roztáhne hůlky a oběhne ho dokola aby natáhl šňůrky.<br>
 
 <a href="../images/2025_august/09_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/09_2.jpg"></a>
 
 Po osmé přišel déšť. Byla to fronta přes celé Irsko, ale měla trvat asi jen hodinu.<br>
 Jak radar řekl, tak se stalo. V 9 jsme sbalili věci a vyrazili podruhé na Cliffs of Moher. Ráno by to totiž mohlo vypadat jinak než večer ne?<br>
 Nevypadalo. Pořád to ale byl impozantní pohled. A záchody v infocentru přišly vhod jak večer, tak ráno.<br>
-Stopovat jsme začali jižně od parkoviště. Jeden karavan nás vypekl, když zastavil jen aby si nastavil navigaci. Ale netrvalo to dlouho a vzaly nás dvě němky. Nevzaly nás ale daleko. Jeli do jeskyní Doolin. A když_z nich vypadlo, že se útesům vyhnuli, protože tam bylo příliš mnoho lidí, vzali si k srdci mou radu, že by nás měli vykopnout a vrátit se.<br>
+Stopovat jsme začali jižně od parkoviště. Jeden karavan nás vypekl, když zastavil jen aby si nastavil navigaci. Ale netrvalo to dlouho a vzaly nás dvě němky. Nevzaly nás ale daleko. Jeli do jeskyní Doolin. A když z nich vypadlo, že se útesům vyhnuli, protože tam bylo příliš mnoho lidí, vzali si k srdci mou radu, že by nás měli vykopnout a vrátit se.<br>
 
 <a href="../images/2025_august/09_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/09_1.jpg"></a>
 
-Tak začala série krátkých stopů směrem do Galway. Po němkách nás vzal řidič malého prázdného autobusu. Vyhodil nás v Lisdoonvarně před SPARem, ve kterém měli víc ultraprocessed pochutin, než skutečného jídla, takže ke svačině jsme koupily suché bagetky a kostku čedaru.<br>
-Na kopci nad městečkem nás vzal pak, který jel jen pár kilometrů do garáže a před tou se stopovalo na houby. Naštěstí nás vzal podnikatel, který nám ukázal, kam jezdil Tolkien na prázdniny a že v okoli je jeskyně jménem Cove of gollum.<br>
-Taky nás ale hodil jen do další vsi. Ballyvanghan. Z té nás asi po půl hodině odvezla Dutch rodina se kterou Verunka konverzovala Španělsky, protože bývávali bydleli v Málaze. Jeli s dcerou Rosou Marií pomalu skrz Irsko a měnili plán, co každou chvíli. Nás dovezli do Města Kiivarva, kde byl malý hrad a závody plachetnic.<br>
+Tak začala série krátkých stopů směrem do Galway. Po němkách nás vzal řidič malého prázdného autobusu. Vyhodil nás v Lisdoonvarně před SPARem, ve kterém měli víc ultraprocessed pochutin, než skutečného jídla, takže ke svačině jsme koupili suché bagetky a kostku čedaru.<br>
+Na kopci nad městečkem nás vzal pán, který jel jen pár kilometrů do garáže a před tou se stopovalo na houby. Naštěstí nás vzal podnikatel, který nám ukázal, kam jezdil Tolkien na prázdniny a že v okoli je jeskyně jménem Cove of gollum.<br>
+Taky nás ale hodil jen do další vsi. Ballyvanghan. Z té nás asi po půl hodině odvezla Dutch rodina se kterou Verunka konverzovala Španělsky, protože bývávali bydleli v Málaze. Jeli s dcerou Rosou Marií pomalu skrz Irsko a měnili plán, co každou chvíli. Nás dovezli do města Kinvarra, kde byl malý hrad a závody plachetnic.<br>
 Na další stop jsem se necítil. Trochu to spravila zmrzlina na festivalu, kterou jsem omylem rozmáčkl, ale paní zmrzlinářka mi dala další kornoutek. Irové jsou super.<br>
-I přes veškerou milost irů, nizozemců a dalších řidičů, šli jsme na zastávku a 20 minut po plánovaném příjezdu zaplatili osm euro za autobus do Galway. Verunka na mě viděla, že toho mám plný zuby.<br>
-Jízda netrvala moc dlouho. Možná bychom to dostupovali v pohodě. Nelituju těch čtyř euro. Byl na nádraží v Galway znamenalo, že stíháme vlak do Dublinu, který jsme zaplatili u hradu. A že si stíháme dát další zmrzlinu-Tentokrát vyhlášenou. Murphy's.<br>
-Vybrali jsme každý tři příchutě. Já, jahodu, malinu a irskou whiskey, Vera citrón, skotskou a Slaný karamel. S dvěma středními zmrzlinami v kornoutech jsme vyrazili do přístavu a tam se to stalo.<br>
+I přes veškerou milost irů, nizozemců a dalších řidičů jsme šli na zastávku a 20 minut po plánovaném příjezdu zaplatili osm euro za autobus do Galway. Verunka na mně viděla, že toho mám plný zuby.<br>
+Jízda netrvala moc dlouho. Možná bychom to dostupovali v pohodě. Nelituju těch čtyř euro. Být na nádraží v Galway znamenalo, že stíháme vlak do Dublinu, který jsme zaplatili u hradu. A že si stíháme dát další zmrzlinu. Tentokrát vyhlášenou. Murphy's.<br>
+Vybrali jsme každý tři příchutě. Já jahodu, malinu a irskou whiskey, Veru citrón, skotskou a slaný karamel. S dvěma středními zmrzlinami v kornoutech jsme vyrazili do přístavu a tam se to stalo.<br>
 
 <a href="../images/2025_august/09_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/09_3.jpg"></a>
 
@@ -229,8 +229,8 @@ Jako útěchu jsem nabídl zbytek své, ale moc už jí nezbylo. Na svém příd
 
 <a href="../images/2025_august/09_4.jpg" target="_blank"><img src="../images/thumbnails/2025_august/09_4.jpg"></a>
 
-Výhled na deltu řeky a přístavní domky byl moc pěkný. Sluníčko pálilo, voda byla tmavě modrá a příroda nádherná zelená.Reka a její vedlejší rameno dokonale čisté a promenáda Mezi nimi kouzelně upravená.<br>
-Navíc vedla do Lidlu. Čeká nás ještě jeden coleslaw, ředkvičky. Sourdough chléb a sýr. Plánoval jsem sníst sito na peronu, ale na nádraží byl první nepříjemný Ir. Prý jsme tam příliš brzy. Vrátili jsme se do parku před nádražím a pustili se do jídla.<br>
+Výhled na deltu řeky a přístavní domky byl moc pěkný. Sluníčko pálilo, voda byla tmavě modrá a příroda nádherná zelená. Řeka a její vedlejší rameno dokonale čisté a promenáda mezi nimi kouzelně upravená.<br>
+Navíc vedla do Lidlu. Čekal nás ještě jeden coleslaw, ředkvičky. Sourdough chléb a sýr. Plánoval jsem sníst si to na peronu, ale na nádraží byl první nepříjemný Ir. Prý jsme tam příliš brzy. Vrátili jsme se do parku před nádražím a pustili se do jídla.<br>
 20 minut před odjezdem už šlo nastupovat. Taky se utvořila obří fronta. Byl jsem z toho mírně rozhořčený. Nicméně víra v milost Irů mi byla navrácena, neb nějaký pán mě chtěl pustit před sebe, když jsem si stěžoval.<br>
 Vlak byl moc pěkný. Plný hyperaktivních dětí, jejichž táta byl úplně vyštavenej a máma měla docela v piči. To že děti byly jako na kokainu podle mě dobře vysvětloval obsah stolku před nimi. Marshmallows, pringles, fanta a další ultraprocessed věci.<br>
 Rodina ale nakonec byla milejší než skupina žen, která přistoupila později. Moudrosti moc nepobraly a hlavní z nich malé holčičce dávala lesk na rty a měla z toho zábavu. Nebylo na tom nic vtipnýho. Byla to smutná opačná strana irů, které jsme dosud potkali.<br>
@@ -240,7 +240,7 @@ Letiště už začínalo být vylidněné. Prošli jsme všechny tři patra term
 
 ### 10.8. Úrovně lidství
 
-Spaní ve spacáku na letišti se mi nějak myšlenkově příčilo. I když Verunky nákrčník úspěšně blokovat světlo a špunty jakž takž odfiltrovaly zvuky okolí, stejně jsem se vzbudil před šestou a už jsem se tam dál povalovat nechtěl. Letiště už ožilo a pocit toho, že jsem bezdomovec mi nedal spát.<br>
+Spaní ve spacáku na letišti se mi nějak myšlenkově příčilo. I když Verunky nákrčník úspěšně blokoval světlo a špunty jakž takž odfiltrovaly zvuky okolí, stejně jsem se vzbudil před šestou a už jsem se tam dál povalovat nechtěl. Letiště už ožilo a pocit toho, že jsem bezdomovec mi nedal spát.<br>
 Bylo to zvláštní. Spát mimo domov mi tak nevadí. Rád stanuju, přespávám v hamace nebo pod širákem. Ale dělám to kvůli tomu abych byl venku. V místě kde proudí lidé mi to prostě vadí.<br>
 Když jsem sbalil spacák a na záchodě provedl očistu, vrátil jsem se k Verunce, která spala dál. Trochu jsem váhal, zda jsem se přes svůj diskomfort neměl přenést, protože jsem se cítil extrémně jetej. Hýbání končetinami mi bralo extrémní množství energie a mozek jel na nouzový režim.<br>
 
@@ -250,7 +250,7 @@ Kolem devátý se i Verunka rozhodla vstát a když jsme zabalili věci na span�
 V ceně lístku byla dvě zavazadla po deseti kilech. Přesunuli jsme věci tak, aby to odpovídalo a vyrazili do fronty před přepážkami. Veru chtěla udělat check in online, ale mě přišlo lepší jít na přepážku.<br>
 A bylo dobře, že jsme to udělali. Paní nám řekla, že krosna neodpovídá přepravním požadavkům a že bychom měli koupit větší zavazadlo. Byla ale hodná a společně s dvěma dalšími zaměstnanci se dohodli, že když přeskládáme některé věci do příručáku, nějak se to vejde. Nemuseli nás pustit, ale udelali to. Irové jsou supr. Navic nás posadila vedle sebe, což by aplikace neudělala.<br>
 Na kontrolách mi zabavili zbytek coleslaw. Úplně jsem na něj zapomněl. Nebo jsem ho v hlavě nepovažoval za tekutou věc. Jinak to ale bylo v pohodě a někdy kolem desáté, jsme sestoupili po schodech do chodby, kde se nacházely letištní salonky.<br>
-Lilly Lounge na internetu lidi trochu odsuzovali, ale sprchu měli, neomezené množství jídla a pití taky a dvě křesílka pro nás taky. Měli jsme chleby se sýry a salámy ze švédského stolu, overnight vločky, falafel wrapy a Veru si vzala i prosecco a GTčko.<br>
+Liffey Lounge na internetu lidi trochu odsuzovali, ale sprchu měli, neomezené množství jídla a pití taky a dvě křesílka pro nás taky. Měli jsme chleby se sýry a salámy ze švédského stolu, overnight vločky, falafel wrapy a Veru si vzala i prosecco a GTčko.<br>
 
 <a href="../images/2025_august/10_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/10_1.jpg"></a>
 
@@ -258,38 +258,39 @@ Kontrast proti spaní jako bezďák v rohu letiště to byl absolutní. Zárove�
 Letiště v Dublinu je podivné. Autobusem z gejtu nás neodvezli do letadla, ale do dalšího domu, kde bylo pet dalších gejtů a do letadla se pak šlo pěšky. Přejít do jiného letadla by asi nebyl problém. Naše tam ale bylo a vyneslo nás do oblak.<br>
 Během letu jsme na mém mobilu koukali na Letušku. Ten seriál. Ne konkrétní osobu. Stáhl jsem ji do mobilu přes torrent, který jsem stáhl přes ish. Busy box konzoli napsanou pro ios. Verunka tomu říkala hackování.<br>
 Za oknem toho nebylo tolik k vidění. Tedy až do momentu, kdy jsme doletěli k Sicílii. Vulkanické ostrovy. Vyprahlá Sicilie samotná a na ní královna sopek Etna. Obletěli jsme jí skoro dokola.<br>
-Taky jsme viděli odsolovací nádrže a požár. Proti Irsku změna. I teplota po přistání byla proti Irsku změna. I funkčnost služeb. Automatický gejt vypovědět službu. Batohy přijížděly na 4k což vyústilo v odjezd našeho vlaku... počkat.. Vlaku. Neměli Verunčiní kolegové auto?<br>
-Měli, ale dojet pro nás bylo nad jejich síly. Vera to hodně nasralo. Jako alternativu jsem vymyslel Flix a pizzu u Simpsonů. Těch amerických. Restaurace s dobrým hodnocením jejich jména byla asi kilometr od letiště.<br>
-Verunka tam objednala pizzu togo a pivo v lahvi. Vrátili jsme se s tím k letišti a našli krásnou zelenou plochu s květinami okolo, kam jsme si sedli a pustili se do jídla. Kdyby jsme použili mozek, došlo by nám, že zelená tráva na sicílii je úkaz nepřírodní a nepromokli bychom pod Zavlažovači během několika vteřin. Ale pizzu jsem zachránil.<br>
-Taky jsme našli lístky od Fikrů, pokecali se Švýcarkou a počkali na hodinu zpožděný flix, který nás dovezl na nádraží v Syrakusách. Tam za námi přispěchala paní s asi pětiletým synem, zda nevíme kdy jede poslední autobus do Syrakus. Ukázalo se, že už byl v trapu. Taky se ukázalo, že je to Češka. Ne moc bohatá, která si po letech vydělala na výlet pro sebe a pro syna na 14 dní na Sicílii. Cena taxíku byla asi jako její výdaje na 3 dny a tak to viděla na bezesnou noc na nádraží. Chtěli jsme ji s Verunkou vzít k nám. Obzvlášť po tom, co na nás byli v Irsku všichni tak hodní, ale když přijeli naši spolubydící, odhlasovali, že to nejde. Bylo nám z toho do breku. Chtěli jsme vzít auto a dojet pro ní zpátky, ale už bychom se nenašli.<br>
-A tak jsme se alespoň pozdravili s ostatními, zabydleli sea usnuli v horkém pokoji nedobrým spánkem.<br>
+Taky jsme viděli odsolovací nádrže a požár. Proti Irsku změna. I teplota po přistání byla proti Irsku změna. I funkčnost služeb. Automatický gejt vypovědět službu. Batohy přijížděly na 4x, což vyústilo v odjezd našeho vlaku... počkat.. Vlaku. Neměli Verunčiní kolegové auto?<br>
+Měli, ale dojet pro nás bylo nad jejich síly. Veru to hodně nasralo. Jako alternativu jsem vymyslel Flix a pizzu u Simpsonů. Těch amerických. Restaurace s dobrým hodnocením jejich jména byla asi kilometr od letiště.<br>
+Verunka tam objednala pizzu togo a pivo v lahvi. Vrátili jsme se s tím k letišti a našli krásnou zelenou plochu s květinami okolo, kam jsme si sedli a pustili se do jídla. Kdyby jsme použili mozek, došlo by nám, že zelená tráva na sicílii je úkaz nepřírodní a nepromokli bychom pod zavlažovači během několika vteřin. Ale pizzu jsem zachránil.<br>
+Taky jsme našli lístky od Fikrů, pokecali se Švýcarkou a počkali na hodinu zpožděný flix, který nás dovezl na nádraží v Syrakusách. Tam za námi přispěchala paní s asi pětiletým synem, zda nevíme kdy jede poslední autobus do Catanie. <br>
+Ukázalo se, že už byl v trapu. Taky se ukázalo, že je to Češka. Ne moc bohatá, která si po letech vydělala na výlet pro sebe a pro syna na 14 dní na Sicílii. Cena taxíku byla asi jako její výdaje na 3 dny a tak to viděla na bezesnou noc na nádraží. Chtěli jsme ji s Verunkou vzít k nám. Obzvlášť po tom, co na nás byli v Irsku všichni tak hodní, ale když přijeli naši spolubydící, odhlasovali, že to nejde. Bylo nám z toho do breku. Chtěli jsme vzít auto a dojet pro ní zpátky, ale už bychom se nenašli.<br>
+A tak jsme se alespoň pozdravili s ostatními, zabydleli se a usnuli v horkém pokoji nedobrým spánkem.<br>
 
 ### 11.8. Mexický fitr
 
 Bylo horko. V porovnání s Irskem absurdní horko. V posteli jsem se převracel, ale dohnat spánkovou ztrátu se nám trochu povedlo. Vstávali jsme někdy kolem jedenácté.<br>
-Bylo třeba nakoupit. Verunka na mapě našla Lidl deset minut cesty od nás. Do auta jsme nasedli my dva a Dan, který už byl zvyklý Fabii řídit. Vyjeli jsme na jih a za okny utíkala vyprahlá krajina jižní Itálie. Bylo to jako v Breaking Bad. Někdo zapnul oranžový Mexický fit.<br>
-Lidi aplikaci jsem přepnul z Irska do Itálie a dali jsme se do nákupu. Meloun, zelenina na salát, chléb, tofu, testoviny, parmazán, to piv a jeden Guiness. Stál 1,5€. Míň než v Irsku. Přišlo mi to vtipný.<br>
-Zpátky v domě se Veru pustila do příprav pozdní snídaně.Olivové pečivo s bazalkovým postem, mozzarella a rajčaty. Barvy itálie na talíři. Ostatní už měli snídani za sebou a připravovali se na cestu k moři. Vidět paní Lenku v plavkách nebylo nejlepší. Ale lidi stárnou, s tím neuděláš nic.<br>
+Bylo třeba nakoupit. Verunka na mapě našla Lidl deset minut cesty od nás. Do auta jsme nasedli my dva a Dan, který už byl zvyklý Fabii řídit. Vyjeli jsme na jih a za okny utíkala vyprahlá krajina jižní Itálie. Bylo to jako v Breaking Bad. Někdo zapnul oranžový Mexický filtr.<br>
+Lidl aplikaci jsem přepnul z Irska do Itálie a dali jsme se do nákupu. Meloun, zelenina na salát, chléb, tofu, testoviny, parmazán, 10 piv a jeden Guiness. Stál 1,5€. Míň než v Irsku. Přišlo mi to vtipný.<br>
+Zpátky v domě se Veru pustila do příprav pozdní snídaně.Olivové pečivo s bazalkovým pestem, mozzarella a rajčata. Barvy itálie na talíři. Ostatní už měli snídani za sebou a připravovali se na cestu k moři. Vidět paní Lenku v plavkách nebylo nejlepší. Ale lidi stárnou, s tím neuděláš nic.<br>
 Než jsme dosnídali, bylo po dvanácté a tak se Veru pustila do přípravy těstovinového salátu. Pračka, konvice, plotýnka a dalších pár přístrojů opět přetížilo jistič před domem. Elektrobox byl zajištěný bezpečnostní větvičkou. Hodně nás to s Romanem pobavilo.<br>
 Než byl salát na světě, vyrazili ostatní pryč a my zbyli v domě sami. Verunka se toho rozhodla využít a svedla mě.<br>
 Unavilo mě to. Usnul jsem a měl jsem tak parádní siestu.<br>
-Nakonec jsme i my vyrazili ven. Prošli jsme kolem DJek moři, potkali ostatní a šli si projít město. Nebylo to na město. Spousta letních domků pár hotelů, zastávka vlaku, dvě restaurace, ber a zmrzlinář. U toho jsme si dali dvě gelata. Kávová byla fakt excelentní.<br>
-Nakonec jsme opet došli k moři. Do oblasti, kde byla skála. Řekl jsem si, že z ní musím skočit. Ale bylo to docela vysoko. Musel jsem si 2x skočit z prostředka než jsem nabral odvahu na celou výšku. Ze shora to bylo jiný kafe. Člověk při pádu cítil ten správnej stav beztíže uvnitř těla.<br>
+Nakonec jsme i my vyrazili ven. Prošli jsme kolem DJe k moři, potkali ostatní a šli si projít město. Nebylo to moc město. Spousta letních domků pár hotelů, zastávka vlaku, dvě restaurace, bar a zmrzlinář. U toho jsme si dali dvě gelata. Kávová byla fakt excelentní.<br>
+Nakonec jsme opět došli k moři. Do oblasti, kde byla skála. Řekl jsem si, že z ní musím skočit. Ale bylo to docela vysoko. Musel jsem si 2x skočit z prostředka než jsem nabral odvahu na celou výšku. Ze shora to bylo jiný kafe. Člověk při pádu cítil ten správnej stav beztíže uvnitř těla.<br>
 
 <a href="../images/2025_august/11_1.jpg" target="_blank"><img src="../images/thumbnails/2025_august/11_1.jpg"></a>
 
-Když slunko zapadlo, vzduch se rychle ochladil. Voda sice docela hřála, ale bylo třeba dostat něco do břicha. Osušili jsme se a po pláži se vrátili k hotelu, zjistili kolik chtějí za jídlo v tamější restauraci, udělali si mentální poznámku, že jednou by to docela šlo a pak došli domů na salát z poledne. Byla to kopa a byl moc dobrej. K němu dvě piva a konverzace s kolegy.<br>
-Dana už jsem docela znal. Lenka, jeho bývalá kolegyně byla nakonec docela v poho paní, která kdysi měla bohatého manžela, který i skrz oponu dokázal pořídit MTV, Betamax, BMW a a další výdobytky, které Jana s Romanem rozhodně neměli. I tak se ale k Romanovi dostali nahrávky Beatles, Rolling Stones a dalších, neb jeho Pražští rodiče měli kamarády obchodníky a příbuzné v americe. To jen já pocházel z rodiny z vesnice Uprostřed ničeho. Ale co, svět objevuju po svém a Veru to má podobně!<br>
+Když slunko zapadlo, vzduch se rychle ochladil. Voda sice docela hřála, ale bylo třeba dostat něco do břicha. Osušili jsme se a po pláži se vrátili k hotelu, zjistili kolik chtějí za jídlo v tamější restauraci, udělali si mentální poznámku, že jednou by to docela šlo a pak došli domů na salát z poledne. Byla ho kopa a byl moc dobrej. K němu dvě piva a konverzace s kolegy.<br>
+Dana už jsem docela znal. Lenka, jeho bývalá kolegyně byla nakonec docela v poho paní, která kdysi měla bohatého manžela, který i skrz oponu dokázal pořídit MTV, Betamax, BMW a a další výdobytky, které Jana s Romanem rozhodně neměli. I tak se ale k Romanovi dostali nahrávky Beatles, Rolling Stones a dalších, neb jeho Pražští rodiče měli kamarády obchodníky a příbuzné v americe. To jen já pocházel z rodiny z vesnice uprostřed ničeho. Ale co, svět objevuju po svém a Veru to má podobně!<br>
 
 ### 12.8. Heuréka!
 
 Rolety fungují. Dokud byly zatažený můj mozek byl ve spánkovém módu. Když jsme na sebe pustili světlo, najednou jsem měl chuť na snídani.<br>
-Chleba, sýr a zeleninový salát jsme přenesli na stůl venku, kde jsem zapisoval co se dělo v Irsku a verunka z kindlu četla svůj deník z mládí.<br>
+Chleba, sýr a zeleninový salát jsme přenesli na stůl ven, kde jsem zapisoval, co se dělo v Irsku a Verunka z kindlu četla svůj deník z mládí.<br>
 Abychom stihli autobus do Syrakus, vyrazili jsme v předstihu a u zastávky si koupili tříšť. Byla ok, ale gelato tam uměli líp.<br>
-Autobus v době odjezdu nepřijel. Nepřijel ani o dvacet minut později. To už začalo štvát pána, který tam byl s námi. Začal na Verunku mluvit anglicky, i když to evidentně neuměl. Veru mu odpovídala Italsky, což jí taky úplně nešlo. Moc informací si nepředali. Po čtyřiceti minutách už mě to tam vyloženě nebavilo. Po hodině se ale objevil a my téměř okamžitě pochopili, proč nabral takový zpoždění.<br>
+Autobus v době odjezdu nepřijel. Nepřijel ani o dvacet minut později. To už začalo štvát pána, který tam byl s námi. Začal na Verunku mluvit anglicky, i když to evidentně neuměl. Veru mu odpovídala Italsky, což jí taky úplně nešlo. Moc informací si nepředali. Po čtyřiceti minutách už mě to tam vyloženě nebavilo. Po hodině se ale autobus objevil a my téměř okamžitě pochopili, proč nabral takový zpoždění.<br>
 Autobus se do malých uliček Fontány prostě nevešel. Respektive, sám by se vešel, ale protijedoucí auta zřejmě nechápala, že vedle sebe to prostě nepůjde a cpali se řidičce do cesty a couvat už nešlo, protože si italové nenechávali žádné rozestupy.<br>
 Řidička měla nervy ze železa. Myslím, že chlap by to nedal. Za městem už se ale provoz rozhýbal.<br>
-V výstupní zastávky si Very prohlížela klobouky a čepice. Nakonec si koupila šátek. Zamotala si ho na hlavu a překročení mostu jsme započali objevování ostrova, kde Archimédes objevil svůj zákon, běhal nahý a vykřikoval Heuréka!<br>
+U výstupní zastávky si Veru prohlížela klobouky a čepice. Nakonec si koupila šátek. Zamotala si ho na hlavu a překročením mostu jsme započali objevování ostrova, kde Archimédes objevil svůj zákon, běhal nahý a vykřikoval Heuréka!<br>
 Viděli jsme zbořeninu, malé uličky a lidi koupající se v moři. Mrtě čistém moři. Když to šlo, sešli jsme k němu taky.<br>
 Byla škoda, že jsme neměli brýle. Bylo jasný, že pod vodou by byl parádní výhled. Po chvili plavání jsme tedy vyrazili do vnitřku historické zástavby a vydali se hledat obchůdek s plaveckým náčiním. A něco k jídlu!<br>
 Smažený rýžový koule. Arančína. Asi za 2€ jedno. Horký a sytý. A moc dobrý.<br>
@@ -301,17 +302,17 @@ I ty brýle jsme našli. V sámošce. První teda byly úplně na hovno, ale Ver
 <a href="../images/2025_august/12_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/12_2.jpg"></a>
 
 Bylo to super!<br>
-Malý ryby, velký ryby, barevní krabi a raci poustevníčci. Akorát Vera si nějak odřela stehna a slaná voda jí začala pálit. Vyrazila pro krém do lékárny a já dál objevovat taje mořského dna.<br>
+Malý ryby, velký ryby, barevní krabi a raci poustevníčci. Akorát Veru si nějak odřela stehna a slaná voda jí začala pálit. Vyrazila pro krém do lékárny a já dál objevoval taje mořského dna.<br>
 Když už jsem byl úplně rozpuštěnej, zavolala mi Veru seshora z ochozu a vrátili jsme se na pevninskou část města. Odsolená voda v pitku byla echt hnusná. Zkusil jsem další a ta byla hnusná a teplá. Nic moc, ale pít jsme museli a platit za vodu, když jsou kolem pitka mě nikdo nedonutí.<br>
 
 <a href="../images/2025_august/12_3.jpg" target="_blank"><img src="../images/thumbnails/2025_august/12_3.jpg"></a>
 
-Kdy nám pojede autobus nebylo úplně jasný. Na zastávce jsme si dali 2x deaf presso a počkali na správné číslo. Tentokrát jel autobus po rovné silnici a byli jsme doma docela rychle.<br>
-Dali jsme si salát, plánovali Etnu a sdíleli zážitky S ostatními, kteří se většinu dne váleli u moře pět minut od domu.<br>
+Kdy nám pojede autobus nebylo úplně jasný. Na zastávce jsme si dali 2x decaf presso a počkali na správné číslo. Tentokrát jel autobus po rovné silnici a byli jsme doma docela rychle.<br>
+Dali jsme si salát, plánovali Etnu a sdíleli zážitky s ostatními, kteří se většinu dne váleli u moře pět minut od domu.<br>
 
 ### 13.8. Jako Frodo a Sam
 
-Na dnešek jsme měli slíbenou Fobii. Navštívit Sicílii a nejít na Etnu mi připadalo jako hřích, ale málem nám do toho hodily vidle vernučiny opruzeniny na stehnech. Holčičí oblečení je vymyšlený tak, aby byly sexy, ale trpěly u toho. Moje mermo trenky naštěstí zabránily dalším otérům a varu se rozhodla, že Etně dá šanci.<br>
+Na dnešek jsme měli slíbenou Fobii. Navštívit Sicílii a nejít na Etnu mi připadalo jako hřích, ale málem nám do toho hodily vidle Vernučiny opruzeniny na stehnech. Holčičí oblečení je vymyšlený tak, aby byly sexy, ale trpěly u toho. Moje merino trenky naštěstí zabránily dalším otěrům a Veru se rozhodla, že Etně dá šanci.<br>
 Posnídali jsme salát s hruškou, sojové kakao a chléb se sýrem, zabalili věci do auta a vyrazili na cestu.. Veru řídila a já navigoval. Můj obdiv k ní rostl. Řídila krásné a italy, kteří nesvítili, nepoužívali smerovky a rychlostní limit jim nic neříkal, se nenechala rozhodit.<br>
 První polovina cesty vedla víceméně po dálnici. Projeli jsme pár tunelů, videli rafinerii a za Katánií jsme sjeli do Lidu. Pořídili jsme banány, pizzové pečivo, oříšky, čokoládu, dvě jablka a ledový čaj. To nás podle mě mělo dostat do třech tisíc, bez použití lanovky a autobusu.<br>
 Druhá polovina cesty byla scéničtější. Jeli jsme do kopce. Přes vesnice a nakonec serpentinami přírodní rezervace Etna. Točil jsem časosběry a vybral odpočívadlo na čumendu a čůrpauzu. Bylo moc pěkně, ale trochu inverze. Město pod námi bylo zahalené v mírném oparu.<br>
@@ -321,7 +322,7 @@ Na parkoviště už to byl z výhledu kousek. Asi jsme mohli Fabii nechat mimo n
 
 Stezka přímo pod placenou lanovkou byla příliš sypká. Šli jsme po ní my a ještě jeden pár s turistickými holemi a v prvním momentu, kdy šlo sejít jsme ji, narozdíl od nich, opustili. Západněji vedla klikatější a další cesta po které tu a tam projelo obří auto, ale šlo se po ní mnohem lépe. Když jsme po asi hodině došli k hornímu konci lanovky, viděli jsme turistický pár pod sebou. Měli toho plný zuby a myslím, že dál už nešli.<br>
 My si dali sváču. Oříšky, čokoládu a vydali se výš. Veru trochu vzdorovala, ale mě přišlo, že dokud nebude cesta příliš strmá, zakázaná nebo nebude příliš pozdě. má smysl pokračovat vzhůru. S každou další nastoupanou stovkou byla Etna zajímavější.<br>
-Většinu lidí vozily terénní autobusy. Ti, co chodili pěšky, šli vetšinou jen ke kráteru piáno a nebo dolů zautobusové zastávky s průvodcem. My serpentinou stoupali nahoru a způsobovali pozdvižená obočí. Sandály a hipstr batůžek se moc nerovnal jejch pohorám a helmám. Jenže já k ničemu z toho neviděl důvod. Terén byl v poho a stoupání mírné. I kdyžje pravda, že Veru víc a víc bojovala s dechem a potřebovala vetší pauzy.<br>
+Většinu lidí vozily terénní autobusy. Ti, co chodili pěšky, šli vetšinou jen ke kráteru piáno a nebo dolů z autobusové zastávky s průvodcem. My serpentinou stoupali nahoru a způsobovali pozdvižená obočí. Sandály a hipstr batůžek se moc nerovnal jejch pohorám a helmám. Jenže já k ničemu z toho neviděl důvod. Terén byl v poho a stoupání mírné. I když je pravda, že Veru víc a víc bojovala s dechem a potřebovala vetší pauzy.<br>
 Asi mě trochu nesnášela, ale když jsem vyšel až k ceduli, která hlásala, že dál se jít leda a zamával na ní, kousla se a vyšla za mnou. Od cedule chodili skupiny s průvodcem na přístupný vrcholek hory. Měl 2870 metrů a byl z něj parádní výhled. Vyšli jsme na něj taky, já obešel první kráter. Společně jsme obešli druhý a nafotili jsme spoustu fotek. Vonělo to tam sírou a Veru potřebovala trochu dodávat kuráž.<br>
 
 <a href="../images/2025_august/13_2.jpg" target="_blank"><img src="../images/thumbnails/2025_august/13_2.jpg"></a>
@@ -485,7 +486,7 @@ Veru měla radost z mýho chleba.<br>
 
 ### 26.8. Po roce Střížkov?
 
-Tohle bylo trochu netypické úterý. Na desátou jsem totiž měl naplánovanou prohlídku bytu na Střížkově. A to nebyla jediná netypická věc. V práci byla Ada. Povídali jsme si o tom, jak její rodiče koupili dům na Madeiře a ona se začala učit Portugalsky aby mohla řešit papírování při jeho přestavbě.<br>
+Tohle bylo trochu netypické úterý. Na desátou jsem totiž měl naplánovanou prohlídku bytu na Střížkově. A to nebyla jediná netypická věc. V práci byla Áďa. Povídali jsme si o tom, jak její rodiče koupili dům na Madeiře a ona se začala učit Portugalsky aby mohla řešit papírování při jeho přestavbě.<br>
 Adi rodiče koupili dům, já přemýšlel o koupi bytu. Před desátou jsem sedl na Franze a vyjel kopec na Střížkov jako už tolikrát při cestách za Verunkou do parku přátelství.<br>
 Najít konkrétní dům mi dalo zabrat, ale nakonec jsme se s paní realitačkou našli. Dům byl malý panelák bez výtahu. Byt skoro jako náš s pokojem navíc. Byl jsem nadšenej.<br>
 Jenže na družstevní byty musí mít člověk zajištění. A já žádnej dům neměl. Co už. Nějak člověk začít musí. Co kdybych chtěl jednoho dne něco koupit a nevěděl jsem na co se zeptat a zaměřit.<br>
