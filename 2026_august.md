@@ -17,8 +17,8 @@
 - [12.8. The day of the black sun](#128-the-day-of-the-black-sun)
 - [13.8. Rovnák na ohjbák](#138-rovnák-na-ohjbák)
 - [14.8. F.I.R.E.](#148-fire)
-- [15.8.](#158)
-- [16.8.](#168)
+- [15.8. 27, 30 \& 30](#158-27-30--30)
+- [16.8. Kolo!](#168-kolo)
 - [17.8. Krok po kroku](#178-krok-po-kroku)
 - [18.8.](#188)
 - [19.8.](#198)
@@ -26,6 +26,14 @@
 - [21.8. Full stack developer](#218-full-stack-developer)
 - [22.8. Po letech do La Rochelle](#228-po-letech-do-la-rochelle)
 - [23.8](#238)
+- [24.8. Do čtyř do rána](#248-do-čtyř-do-rána)
+- [25.8](#258)
+- [26.8.](#268)
+- [27.8](#278)
+- [28.8.](#288)
+- [29.8. Kolaudovat dům](#298-kolaudovat-dům)
+- [30.8.](#308)
+- [31.8](#318)
 
 
 ### 1.8. Cyklovýlet
@@ -66,6 +74,9 @@ Franz byl doma. Autobusem se mi ale nechtělo a tak jsem po chvíli lenošení d
 V práci jsem měl plán. Ivan mi připravil 20 těl horseshoe locků a já do nich měl rozchodit a namontovat těla. A otestovat, že to funguje. Připravil jsem si na to framework, vypl mozek, pustil Kluky z Prahy, kteří hejtovali přítomnost mlžítkek a absenci pítek v ulicích a točil šroubovákem, lepil štítky a dával zámky dohromady.<br>
 Nebylo to úplně růžový. Některý zámky měly vymletý závity, jiný neodemykaly. A všechny HLA měly opačně přisvětlovací diodu. Takže jsem postupoval pomalu. Ale postupoval.<br>
 Áďa nám přinesla freebiky slamáky. Už to mohlo být tak 2 roky, co jsme si řekli, že bychom je chtěli. A kdo si počká, ten se dočká zdá se. Společně jsme vyrazili do Věže na čočku a halušky.<br>
+
+<a href="../images/2026_august/03_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/03_2.jpg"></a>
+
 Na večer jsem měl plán. Jít plavat do Hloubětína, prát, uklízet, psát deník a dávat si život do pořádku. Ale Hloubětín byl zavřenej, takže jsem šel plavat do přeplněných Letňan, vyzvedl jsem kapsle do myčky a doma si k vaření pustil druhou řadu Avatara z Netflixu. Nebylo to blbý, ale ani skvělý.<br>
 Pračku jsem nechal na jindy. A úklid taky. Není každej den posvícení.<br>
 
@@ -226,7 +237,7 @@ Během tréninku na muscle up jsem hodně přemýšlel o F.I.R.E. Poslední dobo
 A vlastně nebylo moc co by. Měl jsem to nastavený rozumně. Můj život byl supr. Měl jsem kamarády, dobrou práci, skvělou ženu, přemýšlel jsem jak ušetřit na jídle a být zdravější, cvičil jsem, vlastně přímo v tom okamžiku a i jsem docela uměl vypnout když to bylo třeba.<br>
 A tak jsem se zastavil v lidlu, koupil pár věcí ve slevě, uvařil čočku a šel dokoukat Avatara a zapsat něco málo do deníku.<br>
 
-### 15.8.
+### 15.8. 27, 30 & 30
 
 Vstávat ve čtyři je hnus. Ale Ostrava je daleko a vlaky drahý. Takhle jsem měl být na Svinově v devět a stálo mě to korunu na kilometr, ve špičce se cena pohybovala kolem dvou a za to bych doletěl do Londýna. V akci i zpátky. Navíc jsem v loungi stihl i lungo s mlékem, který nebylo vůbec zlý.<br>
 
@@ -240,7 +251,7 @@ Jezdit vlakem je radost. Východ slunka byl nádhernej. Mohl jsem si číst, ps�
 <a href="../images/2026_august/15_3.jpg" target="_blank"><img src="../images/thumbnails/2026_august/15_3.jpg"></a>
 
 
-### 16.8.
+### 16.8. Kolo!
 
 
 <a href="../images/2026_august/16_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/16_1.jpg"></a>
@@ -311,7 +322,7 @@ A objevit, že na Ruzyni je fronta na sekuritku dlouhá tak, že se vlnila skrz 
 
 <a href="../images/2026_august/22_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/22_2.jpg"></a>
 
-66. let přišel po asi dvouhodinovém čekání mezi a gejtu 1316. V schengenském prostoru letiště toho moc nebylo. Štěpánka si dala čaj a já se prošel ke gejtům A a C. I v druhém letadle nám dali sendvič. A nápoj dle výběru. Dal jsem si kafe. Byl jsem v uličce, což mě zklamalo. Měl jsem sedadlo D a místa byla v menším letadle vedle sebe 4. Ale B a E neexistovala. Co už. Četl jsem a co nevidět jsme klesali k Nantes.<br>
+Šedesátý šestý let přišel po asi dvouhodinovém čekání mezi a gejtu 1316. V schengenském prostoru letiště toho moc nebylo. Štěpánka si dala čaj a já se prošel ke gejtům A a C. I v druhém letadle nám dali sendvič. A nápoj dle výběru. Dal jsem si kafe. Byl jsem v uličce, což mě zklamalo. Měl jsem sedadlo D a místa byla v menším letadle vedle sebe 4. Ale B a E neexistovala. Co už. Četl jsem a co nevidět jsme klesali k Nantes.<br>
 Pilotka tím docela házela. Ani vypadalo to, že by venku byl vítr. Ale dosedla dobře a my mohli vyrazit pro Štěpánčin kufr. Tam jsem dokonce v knihovničce našel knihu, kterou jsem si chtěl přečíst. Wool. První díl Sila.<br>
 Půjčování auta šlo hladce. Až do momentu, kdy měla Monika zaplatit kartou. Fyzickou. Tu neměla. Napsali jsme novou smlouvu a vzal jsem to svojí kreditkou. Asi to nebylo bůh ví jak výhodný, ale meli jsme auto a jeli jsme. Do La Rochelle to byl. 111 km.<br>
 A dvě zastávky, neb Štěpánce bylo nějak šoufl. Ale zvládla to a po sedmé jsme parkovali pod Place du Verdun. Odtud šly holky na své ubytko a já si vyzvedl klíče ze schránky na dveřích o blok vedle a došel do bytečku kousek od Marché.<br>
@@ -339,33 +350,116 @@ Večer jsem ještě chvili četl, ale odpadl jsem brzy.<br>
 <a href="../images/2026_august/23_4.jpg" target="_blank"><img src="../images/thumbnails/2026_august/23_4.jpg"></a>
 
 
-<!-- 
+### 24.8. Do čtyř do rána
 
-
-### 24.8.
-
+Tak dlouho to nakonec trvalo. I tak bych ten dlouhej den označil za úspěšnej.<br>
 
 ### 25.8
+
+
+<a href="../images/2026_august/25_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/25_1.jpg"></a>
+
+
+<a href="../images/2026_august/25_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/25_2.jpg"></a>
+
+
+<a href="../images/2026_august/25_3.jpg" target="_blank"><img src="../images/thumbnails/2026_august/25_3.jpg"></a>
+
+
+<a href="../images/2026_august/25_4.jpg" target="_blank"><img src="../images/thumbnails/2026_august/25_4.jpg"></a>
 
 
 ### 26.8.
 
 
+<a href="../images/2026_august/26_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/26_1.jpg"></a>
+
+
+<a href="../images/2026_august/26_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/26_2.jpg"></a>
+
+dividendové etf?<br>
+za dveřmi konstantně zvonil budík jako v matrixu<br>
+z kafe mi bušilo srdce<br>
+Snažit se obejít fintechy, převést peníze přes revolut premium, které jsem koupil dočasně, pak poslat přes sepa na svůj eurový účet na maltě<br>
+
 ### 27.8
+
+Nakonec Rhodium a diamant<br>
+
+<a href="../images/2026_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/27_1.jpg"></a>
+
+
+<a href="../images/2026_august/27_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/27_2.jpg"></a>
+
+
+<a href="../images/2026_august/27_3.jpg" target="_blank"><img src="../images/thumbnails/2026_august/27_3.jpg"></a>
 
 
 ### 28.8.
 
+Den odjezdu přišel překvapivě brzy. Plánoval jsem jít ráno plavat do oceánu, ale pršelo. Dal jsem si tedy kafe a pustil se do úklidu. Dle průvodních informací jsem toho měl před odjezdem udělat překvapivě dost. Víceméně vrátit byt do úplně původního stavu. Jako bychom neplatili za to, aby to udělal někdo za nás. Co už. Stáhl jsem povlečení, zametl, sklidil sušák, opláchl koupelnu a umyl a usušil nádobí.<br>
+Z chlebu, salátu, tofu a zbytku pesta jsem udělal asi 7 sendvičů a zabalil je zpátky do pytle na tousťák. Travel hack! No a pak bylo deset a já s pytlem odpadků v ruce vyrazil na Arsenál doufaje, že potkám popelnici, protože instrukce se zmiňovali jen o tříděném odpadu o 4 bloky dál.<br>
+Nenašel jsem. S pytlem jsem jel až někam za Vieux Port. Klíče jsem po chvíli boje s webovkou od úbytka uložil do schránky a dojel na Place Verdun. Holky už byly naloděné v autě a když jsem přišel, mohli jsme vyjet směr Nantes.<br>
 
-### 29.8
+<a href="../images/2026_august/28_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/28_1.jpg"></a>
+
+Počasí bylo po cestě proměnlivé, ale uteklo to rychle. Převážně proto, že jsem si četl emailovou komunikaci mezi EMVCo laboratořemi. Performance MasterCard prošel dobře. Ale na Combination testech terminál pohořel. S některými kartami to bylo v pohodě, ale pár jich neprošlo v docela dost případech.<br>
+
+<a href="../images/2026_august/28_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/28_2.jpg"></a>
 
 
-### 30.8.
+<a href="../images/2026_august/28_3.jpg" target="_blank"><img src="../images/thumbnails/2026_august/28_3.jpg"></a>
 
+
+<a href="../images/2026_august/28_4.jpg" target="_blank"><img src="../images/thumbnails/2026_august/28_4.jpg"></a>
+
+
+### 29.8. Kolaudovat dům
+
+Chtěl jsem spát až do jedenácti. Tak bych nabral potřebných osm hodin, ale mozek takhle nefunguje. V 9 už mě probítal a v 10 bylo jasný, že spaní nebude. i když jsem byl grogy. Venku už bylo světlo a bylo prostě moc pozdě.<br>
+
+### 30.8. 
+
+Vzbudil nás Jimi Hendrix. Jarda s Jednou dole pustili z desky Woodoo Chile, což není zrovna hudba, u které by člověk znovu usnul. Chvilku jsme se s Verunkou ještě váleli, ale nakonec jsme sbalili spacáky a karimatky, oblékli se a sešli dolů do obývacího prostoru. Jarda zrovna dokončoval velikou sklenici plnou kávy. Nováčkovic přišli ze stanu / tesly a Jadova sestra s manželem už byli v Tiny Housu také vzhůru. Vzal jsem kytaru a venku na křesle si drnkal. Páťa do toho trsal a já přidal své neumělé písni text:<br>
+
+> Auto jede po silnici,
+
+
+> Po kolejích vlak
+
+
+> Kočár jede po chodníku
+
+
+> Slunce stíní mrak!
+
+Páťu to bavilo. Skoro jsme promeškali snídani uvnitř. Ale dobrot bylo dost a kávy ještě víc. Kofeinový detox jsem opět odložil a svezl se na vlně plnění adenosinových receptorů.<br>
+V 10 jsme měli v plánu vyrazit na procházku. Úplně původně jsme měli jít do přátelského pivovaru Malešov na bugr k obědu. Ale v domě bylo tolik jída, že kupovat další by byl nesmysl. Ani tak jsme prý nemohli sníst všechno, co bylo v lednici připravené. Hromady sýrů a kuřat na gril. Spousta zeleniny a naložený sýr. Zmrzlinu, bábovky, koláče, placky a kdo ví co ještě. Aby nám tedy vyhládlo, vyrazili jsme na sedmikilometrový výšlap lesem.<br>
+Klobouk dolů před Terkou. Byla kulatá, jako by měla termín za týden, ne za měsíc a půl. Ale šla stejným tempem, jako všichni ostatní. Akorát Páťa se nosil v nosítku. A tátu štval, protože mu lochal v uchu kusem trávy. Naučil ho to Jarda. A já mu dal stéblo ještě lochtavější.<br>
+
+<a href="../images/2026_august/30_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/30_1.jpg"></a>
+
+U rybníku jsem si ale nosítko přebral. Vlastně nebyl zas tak těžkej. Asi jako zásoby do hor na 3 dny. Který se převalují samy od sebe, podle toho, kde je to zajímavý. A občas zakřičí nositeli do ucha. Nicméně to byla zábava. <br>
+Ondra se nenechal zahanbit a na poslední etapu Páťu převzal také.<br>
+Zpátky na pozemku se Veru udělalo zle. Napřed na ní přišel chlad a spaní. A když už bylo připravené jídlo na grilu, tak i blivno. Seděli jsme spolu v nahoře v koupelně a byla bílá jak stěna a žaludek jí pumoval, byť nebylo moc co zvracet. Po asi čtvrť hoďce se to ale trochu zlepšilo a dole do sebe dostala dva krajíce chlebu.<br>
+Já salát, grilovanou cuketu a hermelín. Do těch jsem na zahrádce natrhal levanduli, bazalku a rozmarýn. Réba bylinky vložila do sýrů a Jarda je ogriloval. Byly výborný.<br>
+výslužka<br>
+autem přes kolín<br>
+beniznka<br>
+brodem na dálnici<br>
+kabel a hudba<br>
+do makra<br>
+za tři a půl litru<br>
+po kbelský<br>
+
+<a href="../images/2026_august/30_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/30_2.jpg"></a>
+
+natahal jsem to nahoru<br>
+sprchu spolu a sex<br>
+pak jablka a švestky<br>
+dům u trati<br>
+V posteli na mě dřímota nepřicházela. Od deseti do jedenácti jsem se přetáčel jak ražniči. Nakonec jsem si řekl, že pokud mám být vzhůru, aspoň toho nějak využiju a pustil jsem se do psaní posledních dní.<br>
 
 ### 31.8
 
 [>> Září](2026_september.md)<br>
-
--->
-
