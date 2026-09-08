@@ -24,11 +24,17 @@ mv ~/downloads/IMG* $temp_directory
 
 echo Renaming files and appending names to current raw markdown file.
 
+python3 rename.py images/temp/ >> $current_markdown_file 2>&1
 
 current_markdown_file="$formatted_date.raw"
 current_image_directory="images/$formatted_date"
+thumbnails_directory="images/thumbnails/$formatted_date"
 
-python3 rename.py images/temp/ >> $current_markdown_file 2>&1
+if [ ! -d "$current_image_directory" ]; then
+  mkdir -p "$current_image_directory"
+  mkdir -p "$thumbnails_directory"
+  echo "New image directory created: $current_image_directory"
+fi
 
 echo Moving renamed files to the correct directory.
 

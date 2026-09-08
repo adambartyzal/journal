@@ -33,7 +33,7 @@
 - [28.8.](#288)
 - [29.8. Kolaudovat dům](#298-kolaudovat-dům)
 - [30.8.](#308)
-- [31.8](#318)
+- [31.8. Večer horší než ráno](#318-večer-horší-než-ráno)
 
 
 ### 1.8. Cyklovýlet
@@ -420,7 +420,7 @@ Chtěl jsem spát až do jedenácti. Tak bych nabral potřebných osm hodin, ale
 
 ### 30.8. 
 
-Vzbudil nás Jimi Hendrix. Jarda s Jednou dole pustili z desky Woodoo Chile, což není zrovna hudba, u které by člověk znovu usnul. Chvilku jsme se s Verunkou ještě váleli, ale nakonec jsme sbalili spacáky a karimatky, oblékli se a sešli dolů do obývacího prostoru. Jarda zrovna dokončoval velikou sklenici plnou kávy. Nováčkovic přišli ze stanu / tesly a Jadova sestra s manželem už byli v Tiny Housu také vzhůru. Vzal jsem kytaru a venku na křesle si drnkal. Páťa do toho trsal a já přidal své neumělé písni text:<br>
+Vzbudil nás Jimi Hendrix. Jarda s Jednou dole pustili z desky Woodoo Chile, což není zrovna hudba, u které by člověk znovu usnul. Chvilku jsme se s Verunkou ještě váleli, ale nakonec jsme sbalili spacáky a karimatky, oblékli se a sešli dolů do obývacího prostoru. Jarda zrovna dokončoval velikou sklenici plnou kávy. Nováčkovic přišli ze stanu / tesly a Jardova sestra s manželem už byli v Tiny Housu také vzhůru. Vzal jsem kytaru a venku na křesle si drnkal. Páťa do toho trsal a já přidal své neumělé písni text:<br>
 
 > Auto jede po silnici,
 
@@ -460,6 +460,9 @@ pak jablka a švestky<br>
 dům u trati<br>
 V posteli na mě dřímota nepřicházela. Od deseti do jedenácti jsem se přetáčel jak ražniči. Nakonec jsem si řekl, že pokud mám být vzhůru, aspoň toho nějak využiju a pustil jsem se do psaní posledních dní.<br>
 
-### 31.8
+### 31.8. Večer horší než ráno
 
+Co do nálady určitě. Po práci jsem totiž rozebral kolo sundal řetěz,  plášť, zadní kolo hodil na centr stůl, chvíli kroutil klíčem a pak zlomil drát. Plonkový paprsky jsem neměl. Mohl jsem se na tu malou osmičku vysrat a na funkčním kole domů. Ale ne, chtěl jsem to mít ťip top.<br>
+Asi 8 hod. předtím jsem střídavě stavěl a tester a odpovídal Vláďovi na jeho dotazy, když řešil nepříliš dobře vymyšlené rádio v nfcm. Zdálo se, že ten problém v tom, že příliš zesílený přijímač zareagoval na kartu a pak si podřízl větev.<br>
+Úplně večer jsem se zastavil v Alza boxu pro prsten. Byl malej. Nebyl jsem ho s to nasadit na svůj malíček, což u ostatních prstenů šlo. Chvíli jsme si zoufal, pak jsem si řekl, že mám třeba blbej malíčkovej kloub a Veru bude mít prst ideálnějších proporcí a že to třeba půjde. Když ne, měl jít vyměnit.<br>
 [>> Září](2026_september.md)<br>
