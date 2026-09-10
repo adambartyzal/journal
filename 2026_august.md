@@ -25,14 +25,14 @@
 - [20.8.](#208)
 - [21.8. Full stack developer](#218-full-stack-developer)
 - [22.8. Po letech do La Rochelle](#228-po-letech-do-la-rochelle)
-- [23.8](#238)
+- [23.8. Jedno z nehezčích měst](#238-jedno-z-nehezčích-měst)
 - [24.8. Do čtyř do rána](#248-do-čtyř-do-rána)
-- [25.8](#258)
-- [26.8.](#268)
-- [27.8](#278)
-- [28.8.](#288)
+- [25.8. Fungují všechny](#258-fungují-všechny)
+- [26.8. Vyzrát na ně](#268-vyzrát-na-ně)
+- [27.8. Rhodium a diamant](#278-rhodium-a-diamant)
+- [28.8. Domů](#288-domů)
 - [29.8. Kolaudovat dům](#298-kolaudovat-dům)
-- [30.8.](#308)
+- [30.8. Autem](#308-autem)
 - [31.8. Večer horší než ráno](#318-večer-horší-než-ráno)
 
 
@@ -335,7 +335,7 @@ Opravdu mě mrzelo, že Veru nemohla letět s námi. Vešla by se do mého apart
 
 Večer jsem ještě chvili četl, ale odpadl jsem brzy.<br>
 
-### 23.8
+### 23.8. Jedno z nehezčích měst
 
 
 <a href="../images/2026_august/23_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/23_1.jpg"></a>
@@ -354,7 +354,7 @@ Večer jsem ještě chvili četl, ale odpadl jsem brzy.<br>
 
 Tak dlouho to nakonec trvalo. I tak bych ten dlouhej den označil za úspěšnej.<br>
 
-### 25.8
+### 25.8. Fungují všechny
 
 
 <a href="../images/2026_august/25_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/25_1.jpg"></a>
@@ -369,7 +369,7 @@ Tak dlouho to nakonec trvalo. I tak bych ten dlouhej den označil za úspěšnej
 <a href="../images/2026_august/25_4.jpg" target="_blank"><img src="../images/thumbnails/2026_august/25_4.jpg"></a>
 
 
-### 26.8.
+### 26.8. Vyzrát na ně
 
 
 <a href="../images/2026_august/26_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/26_1.jpg"></a>
@@ -382,9 +382,8 @@ za dveřmi konstantně zvonil budík jako v matrixu<br>
 z kafe mi bušilo srdce<br>
 Snažit se obejít fintechy, převést peníze přes revolut premium, které jsem koupil dočasně, pak poslat přes sepa na svůj eurový účet na maltě<br>
 
-### 27.8
+### 27.8. Rhodium a diamant
 
-Nakonec Rhodium a diamant<br>
 
 <a href="../images/2026_august/27_1.jpg" target="_blank"><img src="../images/thumbnails/2026_august/27_1.jpg"></a>
 
@@ -395,7 +394,7 @@ Nakonec Rhodium a diamant<br>
 <a href="../images/2026_august/27_3.jpg" target="_blank"><img src="../images/thumbnails/2026_august/27_3.jpg"></a>
 
 
-### 28.8.
+### 28.8. Domů
 
 Den odjezdu přišel překvapivě brzy. Plánoval jsem jít ráno plavat do oceánu, ale pršelo. Dal jsem si tedy kafe a pustil se do úklidu. Dle průvodních informací jsem toho měl před odjezdem udělat překvapivě dost. Víceméně vrátit byt do úplně původního stavu. Jako bychom neplatili za to, aby to udělal někdo za nás. Co už. Stáhl jsem povlečení, zametl, sklidil sušák, opláchl koupelnu a umyl a usušil nádobí.<br>
 Z chlebu, salátu, tofu a zbytku pesta jsem udělal asi 7 sendvičů a zabalil je zpátky do pytle na tousťák. Travel hack! No a pak bylo deset a já s pytlem odpadků v ruce vyrazil na Arsenál doufaje, že potkám popelnici, protože instrukce se zmiňovali jen o tříděném odpadu o 4 bloky dál.<br>
@@ -417,8 +416,10 @@ Počasí bylo po cestě proměnlivé, ale uteklo to rychle. Převážně proto, 
 ### 29.8. Kolaudovat dům
 
 Chtěl jsem spát až do jedenácti. Tak bych nabral potřebných osm hodin, ale mozek takhle nefunguje. V 9 už mě probítal a v 10 bylo jasný, že spaní nebude. i když jsem byl grogy. Venku už bylo světlo a bylo prostě moc pozdě.<br>
+Nováčkovic psali, zda bychom se nechtěli potkat v kolíně nebo v kutné hoře, před plánovaným kolaudován domu. Na jednu stranu jsem to mrtě cenil, jenže jsem byl fakt grogy, a potřeboval jsem se dát nějak do pořádku. Napsal jsem jim že se vlastně těším na to jet vlakem a že se uvidíme až tam.<br>
+A dobře jsem udělal. Když jsem se konečně dohrabal do Libně a usadil se v rychlíku Vysočina, mával na mě z protější sedačky Jenda Novák. Jendu jsem neviděl roky. Povídali jsme si cestou o tom, co se v našich životech událo a cesta nám utekla jak nic.<br>
 
-### 30.8. 
+### 30.8. Autem
 
 Vzbudil nás Jimi Hendrix. Jarda s Jednou dole pustili z desky Woodoo Chile, což není zrovna hudba, u které by člověk znovu usnul. Chvilku jsme se s Verunkou ještě váleli, ale nakonec jsme sbalili spacáky a karimatky, oblékli se a sešli dolů do obývacího prostoru. Jarda zrovna dokončoval velikou sklenici plnou kávy. Nováčkovic přišli ze stanu / tesly a Jardova sestra s manželem už byli v Tiny Housu také vzhůru. Vzal jsem kytaru a venku na křesle si drnkal. Páťa do toho trsal a já přidal své neumělé písni text:<br>
 
@@ -443,21 +444,17 @@ U rybníku jsem si ale nosítko přebral. Vlastně nebyl zas tak těžkej. Asi j
 Ondra se nenechal zahanbit a na poslední etapu Páťu převzal také.<br>
 Zpátky na pozemku se Veru udělalo zle. Napřed na ní přišel chlad a spaní. A když už bylo připravené jídlo na grilu, tak i blivno. Seděli jsme spolu v nahoře v koupelně a byla bílá jak stěna a žaludek jí pumoval, byť nebylo moc co zvracet. Po asi čtvrť hoďce se to ale trochu zlepšilo a dole do sebe dostala dva krajíce chlebu.<br>
 Já salát, grilovanou cuketu a hermelín. Do těch jsem na zahrádce natrhal levanduli, bazalku a rozmarýn. Réba bylinky vložila do sýrů a Jarda je ogriloval. Byly výborný.<br>
-výslužka<br>
-autem přes kolín<br>
-beniznka<br>
-brodem na dálnici<br>
-kabel a hudba<br>
-do makra<br>
-za tři a půl litru<br>
-po kbelský<br>
+Verunka už se ale docela ošívala, oprávněně, byl čas vyrazit. Do krabiček jsme dostali nějakou výslužku, rozloučili se a nasedli do Rapida. Během jízdy jsem dostal za úkol DJ. To se blbě dělalo bez Bluetoothu, protože jsem inženýr, kabelem od sluchátek jsem zprovoznil AUX a pustil hudbu z Verunčina mobilu.<br>
+Za Kolínem jsme natankovali a poté, kvůli uzavírkám, projeli malými vesničkami až na černý most, kde jsme se pustili do velkého nákupu v Makru.<br>
+Když máš totiž auto, můžeš v Makru ušetřit ještě víc. Ve skutečnosti jsme ale nakoupili víceméně to samé, co vždycky. Spíš jen ve větším množství, protože doma nás čekal mrazák.<br>
+Mít auto je sice praktický, ale nahoru jsem to stejně musel natahat růčo a stát v koloně, nebylo o moc příjemnější než jet metrem. I tak jsem ale byl Hynkovi vděčnej, že nám dovolil auto použít.<br>
 
 <a href="../images/2026_august/30_2.jpg" target="_blank"><img src="../images/thumbnails/2026_august/30_2.jpg"></a>
 
-natahal jsem to nahoru<br>
-sprchu spolu a sex<br>
-pak jablka a švestky<br>
-dům u trati<br>
+Večer jsem na internetu objevil inzerát na moc hezkej drážní domek. Věru tam zavolala, ale už na něj podepisovali rezervaci. Lámalo mi to srdíčko. Stihnul jsem se do představy bydlení u vlaku, který by mě do centra dovezl za míň než 0,5 hod. zamilovat. Obzvlášť potom co jsem si vygeneroval, jak by mohl vypadat.<br>
+
+<a href="../images/2026_august/30_3.jpg" target="_blank"><img src="../images/thumbnails/2026_august/30_3.jpg"></a>
+
 V posteli na mě dřímota nepřicházela. Od deseti do jedenácti jsem se přetáčel jak ražniči. Nakonec jsem si řekl, že pokud mám být vzhůru, aspoň toho nějak využiju a pustil jsem se do psaní posledních dní.<br>
 
 ### 31.8. Večer horší než ráno
