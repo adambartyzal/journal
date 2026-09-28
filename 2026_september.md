@@ -17,8 +17,8 @@
 - [12.9. Svatbu u pily?](#129-svatbu-u-pily)
 - [13.9. Místo zámku pizzu](#139-místo-zámku-pizzu)
 - [14.9. Opravdu to posrali oni](#149-opravdu-to-posrali-oni)
-- [15.9.](#159)
-- [16.9.](#169)
+- [15.9. 100 let SOČRu](#159-100-let-sočru)
+- [16.9. Muscle up v nedohlednu](#169-muscle-up-v-nedohlednu)
 - [17.9. Promítání Lukymu](#179-promítání-lukymu)
 - [18.9.](#189)
 - [19.9. Posunuté narozeniny](#199-posunuté-narozeniny)
@@ -29,6 +29,8 @@
 - [24.9. Podzim za dveřmi](#249-podzim-za-dveřmi)
 - [25.9. Bude toho dost](#259-bude-toho-dost)
 - [26.9. Do Ikey](#269-do-ikey)
+- [27.9. Slavnosti na Proseku](#279-slavnosti-na-proseku)
+- [28.9. Doma](#289-doma)
 
 
 ### 1.9. Nastavení receiveru není dobře navržené
@@ -232,17 +234,25 @@ Na nabíjení jsme měli přibližně jednu sekundu a další tři sekundy trval
 Postavil jsem Y kabel, a pokračoval ve zkouškách. Blbý bylo, že když byl připojený přes převodník k PC a já chtěl nabíječkou zapnout zámek, windows napsal Power Surge a Can převodník shořel.<br>
 Později jsem objevil, že sekvence zapínání CANu je ve FW podivná. Ale přesný důvod toho, proč jsem sestřelil CAN jsem nenašel. Nicméně s opravou už se mi to nepodařilo zopakovat a to jsem se hodně snažil. Ivan mi vytiskl krabičku dle mých požadavků a odpoledne jsem měl připravený HW.<br>
 
-### 15.9.
+### 15.9. 100 let SOČRu
 
 Tentokrát Veru nedržela půst se mnou. odložila si ho na středu, protože šla na odběry kvůli veganské studii a doporučení byla jíst normálně.<br>
+Nastal den, na který jsme čekali už od Verančiných narozenin. Večer se konal v Rudolfinu koncert ke stému Výročí SOČRU. I přes to, že to byl koncert z Dvořákovy Prahy, Dvořáka hrát nemeli.<br>
+Měl jsem obavu že můj oblek není dost Dark Suit, který Rudolfinum doporučovalo. Po práci jsem se otočil doma. oblékl se stejně jako na Ondrova svatbu, protože Veru vybrala zelené šaty a vyrazili jsme na metro abychom to stihli.<br>
 
 <a href="../images/2026_september/15_1.jpg" target="_blank"><img src="../images/thumbnails/2026_september/15_1.jpg"></a>
 
+Blbý bylo, že na nás cestou přišla žízeň. Museli jsme stavit v Relay pro přepálený nepivo a vodu.<br>
+O dress code jsem se nemusel obávat. Nakonec jsme byli jedni z tech nejlépe oblečených. Z poslední řady bylo videt dobře a slyšet taky. Navíc jsme viděli i na lidi na balkonech kde seděla známá tvář.<br>
+Byl tam Jenda. Praha je malá.<br>
+Hudba byla taková... Filmová. Mohl to napsat Williams. První Chopin byl trochu vanilla, ale premiéra duetu housle cello, byl fantastickej.<br>
+Bollere na konci mě bavilo víc než jsem čekal. Takovej hudební exhibicionismus. Dirigent, který v sobě měl energie za tři a úsměvů za pět, postupně zval jednotlivé členy, aby si dali sále v tom kafemlejnku a postupně to vygradovali do něčeho, co pán před Rudolfinem později označil jako kluk. Ale dobrej hluk.<br>
+V metru cestou domu byly místo reklam nějaký látky. Asi umčo. Přišlo mi to dobrý.<br>
 
 <a href="../images/2026_september/15_2.jpg" target="_blank"><img src="../images/thumbnails/2026_september/15_2.jpg"></a>
 
 
-### 16.9. 
+### 16.9. Muscle up v nedohlednu
 
 Veru nakonec ve středu jedla. Teda kromě snídaně, měla být na velkou vizitu nalačno. Já na sebe nacpal různý zbytky a vyrazil na Kolbenku.<br>
 Kabely Romainovi přišli kolem poledne. Hned se do toho pustil a zjistil, že VCAS po restartu nefunguje. S láďou jsme došli k názoru, že to je problém Alcinea, ale Fabienne napsala, že tenhle problém už vyřešili a že bude třeba platit. To rozezlilo Ludvíka a tak se dohadovali mezi sebou zatímco, Romainovi začal odepisovat Manuel. <br>
@@ -356,19 +366,48 @@ Cestou dom jsem jel na chvíli cvičit. Chtěl jsem ověřit, zda loading phase 
 
 ### 26.9. Do Ikey
 
-Během spaní mi sensor nameřil několik hypoglykémii! Asi byly falešný. Pokud člověk leží na ruce, může to meření ovlivnit<br>
+Během spaní mi sensor nameřil několik hypoglykémii! Asi byly falešný. Pokud člověk leží na ruce, může to měření ovlivnit<br>
 Začal tak líný den. Vera byla nemocná já četl v posteli Recursion. V bytě byla docela zima a za okny svítilo slunko. Vyrazili jsme se slunit do lesoparku.<br>
 Místo čtení a psaní deníku jsme tam společně s gemini vyinženárovali helmu na hyper red led Určenou k obnově růstu vlasů. Plán byl vytisknout pětiúhelníky s rybinou, do kterých by se uložily metal core pes s deseti led diodami od with na vlnové délce 660 hm. Znělo to jako docela zábavný projekt.<br>
-Když už Veru cítila, že je třeba vrátit se do postele, vyrazili jsme každý na svojí dvě stě jedničku. Já jel do ikey. Od desátého jsem toho moc nenapsal. Bylo třeba s tím pohnout. Po dojedení nemasových koulí si se mnou ale začala povídat nějaký paní, prý spisovatelka, o reMarkable a po tom devatenáctiletý klučina, kterého zajímalo kde pracuju, kolik vydělávám a povídal mi o tom, že kde od o2 arény na nějakáý rap.<br>
+
+<a href="../images/2026_september/26_1.jpg" target="_blank"><img src="../images/thumbnails/2026_september/26_1.jpg"></a>
+
+Když už Veru cítila, že je třeba vrátit se do postele, vyrazili jsme každý na svojí dvě stě jedničku. Já jel do ikey. Od desátého jsem toho moc nenapsal. Bylo třeba s tím pohnout. Po dojedení nemasových koulí si se mnou ale začala povídat nějaký paní, prý spisovatelka, o reMarkable a po tom devatenáctiletý klučina, kterého zajímalo kde pracuju, kolik vydělávám a povídal mi o tom, že kde od o2 arény na nějaký rap.<br>
 Ale něco jsem napsal. A nahrál fotky. Nejde mít zapsaný všechno.<br>
+Když už jsem měl psaní plný zuby, sešel jsem dolů do krámu pro skleněný krabičky. Ty opravdu byly slevněn, jak aplikace říkala. Jedna stála 39 korun. Kauf. Ale víčka neměli. Navíc by byly dražší než tak krabička.<br>
+Co už, vzal jsem 4 dózy a šel se podívat na kytky. Středně velká tlustice za sedm kil? Asi začnu šetřit na důchod v kytkách.<br>
+
+<a href="../images/2026_september/26_2.jpg" target="_blank"><img src="../images/thumbnails/2026_september/26_2.jpg"></a>
+
+Při odchodu jsem chtěl reklamovat prasklou dózu na čaj, ale někdo podruhé ten den stiskl požární tlačítko a všichni museli opustit obchodní dům.<br>
+Víčka a reklamace tak museli počkat na další den.<br>
+
+### 27.9. Slavnosti na Proseku
+
+V noci mi krevní cukr klesl na 3,7 mmol/ul. Al dospěla k tomu, že je to ok, pokud se nepotím a není mi blbě. Veru mi okamžitě strkala chleba až do postele.<br>
+Máma přijela do Prahy na svatováclavské slavnosti na Proseku. V půl desáté jsem jí vyrazil naproti trolejbusem. Šli jsme se podívat na místní románský kostel, pak jsme se šli podívat na Prosecké skály a vyhlídku Emy Destinové. Byla trochu inverze, ale mamka byla nadšená.<br>
+
+<a href="../images/2026_september/27_1.jpg" target="_blank"><img src="../images/thumbnails/2026_september/27_1.jpg"></a>
+
+Z kapely Blue Cimbal jsme viděli jen cover Radio Gaga. Bylo to něco mezi geniální a úplně příšerný. Olga Lounová naproti tomu zpívala čistě a nazvučená byla dobře.<br>
+
+<a href="../images/2026_september/27_2.jpg" target="_blank"><img src="../images/thumbnails/2026_september/27_2.jpg"></a>
+
+Po koncertě jsme si mámou dali červený burčák a šli se projít do Parku Přátelství. Nikdy v něm nebyla. Přišlo mi to zvláštní. Park přátelství je fajn. Prošli jsme ho celej a na konci si dali pivo.<br>
+
+<a href="../images/2026_september/27_3.jpg" target="_blank"><img src="../images/thumbnails/2026_september/27_3.jpg"></a>
+
+A pak jeli k nám na kari. Veru už byla docela zdravá a tak si s mámou povídali u stolu a myslím, že to bylo docela stmelovací odpoledne.<br>
+
+### 28.9. Doma
+
+Dočetl jsem knihu Recursion. Je to zkurveně dobrá kniha. Až jí jednou natočí, bude to dobrej film, ale tý knize se nevyrovná. Na konci jsem měl uslzený oči a šel obejmout Verunku, protože mám stěstíčko, že jí mám.<br>
+Chtěl jsem jít běhat, ale nějak jsem se za celý den nedostal z bytu. Po dočtení knihy bylo třeba uvařit oběd. Čočku na kyselo a po jídle mě na asi osm hodin pohltilo kreslení podkladů pro laserování Metra.<br>
+Verunka na mě nějak doléhala, že jí chybí doléhání. Ale byl jsem v tom kreslení zažranej a chtěl jsem to posunout tak, abych mohl další den Laserovat.<br>
+Z ICubu napsali, že debug prošel dobře. Domluvili jsme, že L1 TA rozjedeme v druhé polovině týdnu.<br>
+Večer jsme koukali na Death Note. Veru na tom začínala být závislá. Ke sledování nám připravila pečné bulky s kari a jako dezert toffifee. Za celou dobu toho co jsem měl na ruce CGM, tohle jídlo můj krevní cukr vystřelilo nejvýš. A pochybuju, že za to mohla ta čokoláda. Spíš ta mouka v pečivu. Ani dřepy, ani kliky ne a ne srazit cukr z 8 mmol/ml. <br>
 
 <!-- 
-
-
-### 27.9.
-
-
-### 28.9.
 
 
 ### 29.9.
