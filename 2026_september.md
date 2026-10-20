@@ -31,6 +31,8 @@
 - [26.9. Do Ikey](#269-do-ikey)
 - [27.9. Slavnosti na Proseku](#279-slavnosti-na-proseku)
 - [28.9. Doma](#289-doma)
+- [29.9.](#299)
+- [30.9. Metro a rizoto](#309-metro-a-rizoto)
 
 
 ### 1.9. Nastavení receiveru není dobře navržené
@@ -407,13 +409,13 @@ Verunka na mě nějak doléhala, že jí chybí doléhání. Ale byl jsem v tom 
 Z ICubu napsali, že debug prošel dobře. Domluvili jsme, že L1 TA rozjedeme v druhé polovině týdnu.<br>
 Večer jsme koukali na Death Note. Veru na tom začínala být závislá. Ke sledování nám připravila pečné bulky s kari a jako dezert toffifee. Za celou dobu toho co jsem měl na ruce CGM, tohle jídlo můj krevní cukr vystřelilo nejvýš. A pochybuju, že za to mohla ta čokoláda. Spíš ta mouka v pečivu. Ani dřepy, ani kliky ne a ne srazit cukr z 8 mmol/ml. <br>
 
-<!-- 
-
-
 ### 29.9.
 
 
-### 30.9.
+### 30.9. Metro a rizoto
+
+
+<!-- 
 
 [>> Říjen](2026_october.md)<br>
 

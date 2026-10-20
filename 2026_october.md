@@ -10,18 +10,18 @@
 - [5.10.](#510)
 - [6.10.](#610)
 - [7.10.](#710)
+- [8.10. Pivo s Dream Teamem](#810-pivo-s-dream-teamem)
 - [9.10.](#910)
-- [9.10.](#910-1)
 - [10.10.](#1010)
 - [11.10.](#1110)
-- [12.10.](#1210)
-- [13.10.](#1310)
+- [12.10. Film zdarma ≠ film dobrý](#1210-film-zdarma--film-dobrý)
+- [13.10. Necítit se jako Bůh](#1310-necítit-se-jako-bůh)
 - [14.10.](#1410)
 - [15.10.](#1510)
-- [16.10.](#1610)
-- [17.10.](#1710)
+- [16.10. Špatný den pro techniku](#1610-špatný-den-pro-techniku)
+- [17.10. Bolehlav bez rýmy](#1710-bolehlav-bez-rýmy)
 - [18.10.](#1810)
-- [19.10.](#1910)
+- [19.10. T14s](#1910-t14s)
 - [20.10.](#2010)
 - [21.10.](#2110)
 - [22.10.](#2210)
@@ -38,6 +38,7 @@
 
 ### 1.10.
 
+Nějak jsem toho měl dost. Čeho, vlastně ani nevím. Ale během práce jsem cítil nějakou paralýzu. Osazoval jsem konvertory, odpovídal na e-maily a vyplnil žádost o Type Approval. Coz<br>
 
 <a href="../images/2026_october/01_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/01_1.jpg"></a>
 
@@ -106,47 +107,160 @@ Autobus do Tišnova bychom v poho zvládli, kdyby jel. Ne, že by jeho nepříje
 ### 5.10.
 
 
+<a href="../images/2026_october/05_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/05_1.jpg"></a>
+
+
 ### 6.10.
+
+
+<a href="../images/2026_october/06_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/06_1.jpg"></a>
+
+
+<a href="../images/2026_october/06_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/06_2.jpg"></a>
 
 
 ### 7.10.
 
 
+<a href="../images/2026_october/07_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/07_1.jpg"></a>
+
+
+<a href="../images/2026_october/07_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/07_2.jpg"></a>
+
+
+### 8.10. Pivo s Dream Teamem
+
+Naslepo jsem odložil, ale pivo se spolužáky z vysoký Jsem odkládat nechtěl. Jirku jsem viděl naposledy na našich narozeninách a ostatní kluky asi v Karlíně, na pivu už bůh ví jak dlouho. Čas letěl.<br>
+V práci to nestálo moc za zápis. Pokračoval jsem s přípravou hardware pro cetecom a poslal pár mejlů.<br>
+V půl šestý jsem to tam zavřel a vyrazil na Újezd. Někde na rohu se Šeříkovou tam měla být hospoda Beer Paint. Moc jsem nezkoumal co je to zač, ale vyklubal se z toho podnik, kde se ochutnávají speciály.<br>
+Speciály jsou drahý a kluci hodně leje. Byl to recept na průser.<br>
+Dorazil jsem čtvrtý a poslední. Marek byl někde pryč. Ostatní dopíjeli pšenku a servírce docela trvalo, než si uvědomila, že bych třeba taky něco chtel.<br>
+Filip vyprávěl o rekonstrukci bytu ve Kbelích, který je sice obecní a je v nájmu, ale spočítal si, že se mu vyplatí zůstat tam a nasypat do toho peníze, radši než něco kupovat.<br>
+Jirka taky vyprávěl o rekonstrukci. Ale domu. A o tom, že hledá práci. Bodejť. Na mých narozeninách dával výpověď a prachy z korporátu nevydrží věčně.<br>
+Já povídal o Verunce a o získání Lot. Že vlastně slavím úspěch. A tak jsme objednali ochutnávka štestí piv z výběru deseti. Stálo to asi pěti kilo. Ale je pravda že číslo to stálo asi 160 za půl litr. Kyseláče byly nejlepší.<br>
+
+<a href="../images/2026_october/08_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/08_1.jpg"></a>
+
+Večer ubíhal a dřív nebo později se to zvrtlo. Na stole byly čtyři zelený. Kvůli sázce na věk primátora Svobody. A pak ještě další a další panáky. Odchod mám v mlze. Honza jel tágem. Filip dočasně bydlel někde kousek a Já s Jirkou došel k divadlu na tramvaj.<br>
+Ta jeho jela dřív. Zpětně si prý nevybavuje, jak se do ní dostal. Moje mě vezla do Holešovic odkud jet nahoru autobus.<br>
+Cesta tramvají ještě šla. Zvracel jsem až před Holešovickým nádražím. Autobus byl ale zlej. Nikde před střížkovem jsem musel ven vyzvracet další porci zelené.<br>
+A pak jsem si půjčil next bike. Objektivně to byla úplná píčovina. Ale jelo se mi dobře, vzduch byl čerstvej a domů jsem dojel v poho.<br>
+Ze sluchátek jsem volal Veru. Několikrát ten večer. Nebyla nadšená. Ale je to skvělá žena. Doma se o mě hezky starala zatímco jsem se válel na zemi, protože svět se motal.<br>
+
 ### 9.10.
 
 
-### 9.10.
+<a href="../images/2026_october/09_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/09_1.jpg"></a>
 
 
 ### 10.10.
 
+mlýn<br>
+
+<a href="../images/2026_october/10_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/10_1.jpg"></a>
+
+
+<a href="../images/2026_october/10_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/10_2.jpg"></a>
+
 
 ### 11.10.
 
+veru na zkoušku<br>
+meet s mámou<br>
+až skoro do deseti<br>
 
-### 12.10.
+<a href="../images/2026_october/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/11_1.jpg"></a>
 
 
-### 13.10.
+<a href="../images/2026_october/11_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/11_2.jpg"></a>
 
+
+<a href="../images/2026_october/11_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/11_3.jpg"></a>
+
+
+### 12.10. Film zdarma ≠ film dobrý
+
+Veru ráno chvátala a nechtěla ani snídat. Pak snídala, ale stejně chvátala. A pak zapoměněla angličtinu. Předal jsem jí v půl devátý na vysočanský. Cestou do práce jsem koupil letenky.<br>
+Kluci si porovnávali prášky na tlak. Myslel jsem, že jsme mladý vývojový tým. Vláďa si to před dvanácti lety myslel taky.<br>
+Ať si to filmoví kritici na ČSFD píšou co chtějí, já se u filmu Minotaur v Cinestaru na Andělu nudil. Přišlo mi, že vzít témata jako invaze Ruska na Ukrajinu z jejich strany, problémy v maželství, zabití v afektu a potíže s podnikáním a hodit je do mixéru prostě nefunguje.<br>
+Bylo to dlouhý a s žádným z hrdinů jsem nesouznil. Holt to nevyjde vždycky. A to měl film asi 7 artových studií v úvodu.<br>
+To že jsem dokončil výrobu Y kabelů tak byl asi highlight dne.<br>
+
+### 13.10. Necítit se jako Bůh
+
+Je jasně poznat, které dny jsem zapsal rovnou a které se zpožděním. Ty které má člověk zrovna prožité mají v sobě spoustu detailů. Blbosti jako úsměv někoho cestou do práce, který mi zlepšil den. Nebo nějaká otravnost která mi ho zhoršila.<br>
+K tomuhle dni jsem se v deníku vrátil s týdenním zpožděním a co si o něm pamatuji je to, že stál docela za prd.<br>
+Držel jsem půst. A pomalý vstup do ketózy tentokrát nedoprovázel pocit mentální čistoty a fyzické síly. Bylo mi prostě a jenom na hovno. Nejspíš začínající nemoc.<br>
+Nemocní byli všichni. Monika měla na slacku lebku, Omar smajlík s teploměrem v puse. Jirka v pondělí kašlal a smrkal. Což byl určitě původ méhostrádání, když to tak zpětně sumíruji.<br>
+Dokázal jsem ale zabalit věci pro cete.com a zařídit dopravu do Saarsbruckenu, otestovat CBN tester pro Safiral a zbytek dne rozcházet firmware pro testy nadcházející.<br>
+Jo a v konverzaci s Veru jsem zpětně objevil, že to byl den, kdy jela ráno do práce se mnou a se svými novými sluchátky. Spotify jí odmítlo pustit Brasil od Eda O'Briena. Veledílo ideální na start dne. A to to Spotify platíme.<br>
 
 ### 14.10.
+
+
+<a href="../images/2026_october/14_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/14_1.jpg"></a>
+
+
+<a href="../images/2026_october/14_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/14_2.jpg"></a>
+
+
+<a href="../images/2026_october/14_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/14_3.jpg"></a>
 
 
 ### 15.10.
 
 
-### 16.10.
+<a href="../images/2026_october/15_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/15_1.jpg"></a>
 
 
-### 17.10.
+### 16.10. Špatný den pro techniku
 
+
+<a href="../images/2026_october/16_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/16_1.jpg"></a>
+
+Aspoň tu mojí. Laptop už vydávat signály o tom, že míří do křemíkového nebe už posledních pár měsíců. V posledním týdnu to ale začalo být intenzivní. Navaření nové CMOS nepomohlo, upgrade firmware čipů na základní desce taky ne. Během dne mi ještě sloužil. Ale večer, když jsem se chtěl podívat na email s přihláškou k TQM, která se mi na telefonu Zobrazovala blbě, už se nezapnul. Byl teplý, ale větrák ho nachladil a ani rozebrání a odpojení baterie nepomohlo.<br>
+TQM. Zjistil jsem , že jsem Tam manažer. Trochu mě to rozezlilo. V korporátu určité TQM manažer bere těžký love. Mě se nikdo ani nezeptal natož mi nabídl víc peněz. Ale chtěl jsem si říct o víc. Tohle je páka, řekl jsem si.<br>
+A pustil se do čtení manifestů, který už jsem viděl před rokem, ale totálně zapomněl, co sděluji. Objevil jsem, že budeme muset testovat důkladněji. A i B karty. V 0 a 4 cm. A že bude třeba hodně dokumentů.<br>
+Pustil jsem se do aktualizace configuration tree. Pak jsem vyplnil tu přihlášku a poslal to Ludvovi. A pak jsem s Ivanem mrkl na tisk. Přijel totiž na Ludvův popud, protože něco bylo blbě a Meghan.<br>
+Nakonec jsem ho tam nechal samotného a vyrazil domu, kde jsme si s Vern pustili Death Note. Z jejího laptopu, protože ten můj umřel.<br>
+Večer mi umřel i Kindle. Opět mu přestal fungovat digitizér. Jen otevřít a očistit ho jako naposledy nepomohlo. Usínal jsem naštvanej a zklamanej z techniky kolem sebe.<br>
+
+### 17.10. Bolehlav bez rýmy
+
+Když jsem se probudil bylo mi spíš hůř než líp. Vypadalo to na sobotu v posteli. Sice jsem neměl žádný prášky proti nachlazení, ale dobrej jsem rozhodně nebyl. Zůstal jsem většinu dne v posteli.<br>
+Veru vařila. Ve velkým. Experimentovala s novými recepty a kuchyň se proměnila v alchymistickou dílnu.<br>
+Nudle s mrkvovou omáčkou a pečenou čočkou s vlašskými ořechy byly moc dobré.<br>
+Dočetl jsem první díl Síla. Bylo to moc dobrý okamžitě jsem šel stahovat druhej. Než jsem se do něj pustil, vyrazili jsme s Verunkou ven. Na šípky. Do lesoparku. Přímo v single tracku jich bylo spousta. Řekl jsem si, že mi vzduch prospěje. Ale zmohlo mě to a šla na mě zima.<br>
+
+<a href="../images/2026_october/17_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/17_1.jpg"></a>
+
+Taky jsem cítil intenzivní kognitivní útlum. Byl jsem úplně vymaštěnej. Vrátili jsme se domů a promítli si film. Source Code. Říkám o něm, že Je přesně na čtyři hvězdičky. Jenže se k němu vracím často.<br>
+
+<a href="../images/2026_october/17_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/17_2.jpg"></a>
+
+V osm hodin po filmu jsem šel spát a odpadl asi na to hodin. Verunka prý asi do jedenácti ještě dělala kouzla v kuchyni.<br>
 
 ### 18.10.
 
 
-### 19.10.
+### 19.10. T14s
 
+K snídani jsme měli polévku. Ještě pořád jsem cítil, že dutiny nejsou úplně stopro, ale ležení doma další den mi přišlo zbytečný. Vyrazili jsme tak s Veru oba sto třicet šestkou do práce. Já s mrtvým laptopem v batohu.<br>
+Rozhodl jsem se osazovat. Na to mi stačila výrobní data z ERP a jedno heslo do windows laptopu v práci na stole. HLP tester. Stejně to stálo už moc dlouho.<br>
+Do vývoje jsem dorazil první. Honzík měl o víkendu narozeniny a přinesl dort. Ada poslala fotku toho, jak si na caminu zrakvila nohu. A Petr mi objednal nový laptop, i když o tom do emailu nenapsal ani čárku. Objevil jsem to tak, že jsme ho potkali při cestě do věže na palačinky se špenátem s krabicí lenovo v podpaží.<br>
+Nevybalil jsem ho hned po obědě. Dostavil jsem ty elektroniky, dal si dort, v ale objednal šachtu na M. Z NVMe disk a až když padla, stáhl jsem si z ČVUT mirvoru Arch a pustil se do instalace.<br>
+
+<a href="../images/2026_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/19_1.jpg"></a>
+
+Průvodce v Bashi byl trochu děsivej. Nejsem Žádnej Linux Guru. Ale nechal jsem si poradit od Gemini a po chvíli koukal na funkční Gnome.<br>
+Sbalil jsem starý disk, nový laptop a protože mi začínalo tepat ve spánku, zapil jsem jeden ataralgin. Šachta na disk už na mě čekala v alze v Čakovicích a sto třicet šestka mě tam dovezla.<br>
+Měli tam piána. Dobrá alza. Bylo skoro osm, nežjsem se z ní dostal.<br>
+
+<a href="../images/2026_october/19_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/19_2.jpg"></a>
+
+V Globusu jsem ještě pořídil dvoukilový královský chléb asi za 50 korun, seitan, vege pomazánky, spoustu levných paprik a baterky do termostatů a tlakoměrů. Veru měla radost. Budeme topit.<br>
+Doma jsem ještě rozchodil disk. Trochu na potvoru jsem si smazal configy firefoxu, ale to mě naučilo montovat disk jako read only.<br>
+A najednou bylo po desátý. Ale měl jsem laptop. A sakra dobrej. Dokonce dotykovej, což jsem zjistil omylem.<br>
 
 ### 20.10.
 
