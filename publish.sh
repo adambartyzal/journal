@@ -18,7 +18,8 @@ else
   git commit -m "$message"
 fi
 
-if connmanctl state | grep -q "online"; then
+#if connmanctl state | grep -q "online"; then
+if [ "$(nmcli networking connectivity check)" = "full" ]; then
   git push
 else
   echo Offline, not pushing to remote.

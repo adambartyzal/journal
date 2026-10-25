@@ -16,24 +16,18 @@
 - [11.10.](#1110)
 - [12.10. Film zdarma ≠ film dobrý](#1210-film-zdarma--film-dobrý)
 - [13.10. Necítit se jako Bůh](#1310-necítit-se-jako-bůh)
-- [14.10.](#1410)
+- [14.10.Svářečkou?](#1410svářečkou)
 - [15.10.](#1510)
 - [16.10. Špatný den pro techniku](#1610-špatný-den-pro-techniku)
 - [17.10. Bolehlav bez rýmy](#1710-bolehlav-bez-rýmy)
 - [18.10.](#1810)
 - [19.10. T14s](#1910-t14s)
 - [20.10.](#2010)
-- [21.10.](#2110)
-- [22.10.](#2210)
-- [23.10.](#2310)
-- [24.10.](#2410)
-- [25.10.](#2510)
-- [26.10.](#2610)
-- [27.10.](#2710)
-- [28.10.](#2810)
-- [29.10.](#2910)
-- [30.10.](#3010)
-- [31.10.](#3110)
+- [21.10. Bramboráky](#2110-bramboráky)
+- [22.10. Přecpanej](#2210-přecpanej)
+- [23.10. Sauny v obchodě nejsou špatný](#2310-sauny-v-obchodě-nejsou-špatný)
+- [24.10. Rande](#2410-rande)
+- [25.10. Prdel s tečkou na konci.](#2510-prdel-s-tečkou-na-konci)
 
 
 ### 1.10.
@@ -165,18 +159,22 @@ mlýn<br>
 
 ### 11.10.
 
-veru na zkoušku<br>
-meet s mámou<br>
-až skoro do deseti<br>
+Na snídani zbylo trochu zeleninového salátu. Táta si ho zabral. Taky se ale pustil do příprav druhého štrúdlu. Já jsem se válečku a aválel těsto. Verunka připravila chleba se sýrem a dala ho zapéct do trouby o patro výš než štrůdly. Myslí ekonomicky žena moje.<br>
+Venku bylo stále pošmurno a měli jsme stažený film. Po tom co jsem tátovi pomohl nainstalovat movie maker jsme se pustili do promítání. Tentokrát už i Veru nadávala na to, kolik toho z knihy vyškrtali.<br>
+Po očku jsem sledoval nástěnné hodiny abychom vyrazili včas na autobus. Úplně jsem nepočítal s tím, že jdou o 10 minut pozadu, ale naštěstí jsem poměrně opatrný a dochvilný takže na zastávce jsme byli 5 minut před odjezdem. Mapa odhalila, že autobus teprve vyjíždí ze Stráže.<br>
 
 <a href="../images/2026_october/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/11_1.jpg"></a>
 
+Rozloučili jsme se, nastoupili a vyrazili do Hradce. Na Pravdovku. Asi protože nádraží bylo rozkopaný. Vera tak mohla vidět, kde jsem vyrostl.<br>
 
 <a href="../images/2026_october/11_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/11_2.jpg"></a>
 
+Vlak měl zpoždění. Naštěstí ne tak dlouhý na to, abychom ve Veselí nestihli přestoupit na rychlík, ale dost na to, abychom se nestihli podívat, zda-li taška s krabičkami, zůstala v čekárně. <br>
+Ve vlaku jsem studoval ceny letů na podzimní prázdniny. Do Skandinávie se lítalo z Polska levně. Jenže Skandinávě je drahá a na podzim je tam zima. Ale takové Polsko. Polsko je země na výlety dobrá. Ostatně necelé 2 roky zpátky jsme byli v Krakově a byl to super výlet. Čím víc jsem do toho koukal, tím víc mi bylo jasné, že se chci podívat do Gdaňsku.Naskládat to do těch čtyř nebo pěti dnů to ale bylo složité, protože z Gdaňsku to lítalo v lbý dny. Takže nakonec jsem vybral cestu zpátky z Poznaně s tím, že přejedeme vlakem. Tohle plánování mi vlastně zabralo celou cestu zpátky. Když jsme se konečně dostali, na Tupolevovu, pršelo. Protože jsem Verunce několikrát vtloukal do hlavy, jak funguje duha, vytáhla mě na chodbu, prohlédnout si tuhle krásku:<br>
 
 <a href="../images/2026_october/11_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/11_3.jpg"></a>
 
+Pak odjela na zkoušku s kapelou. Já měl naplánovaný call s mámou. Chtěla pomoct s rozchozením internetbankingu. To nebylo na 5 minut. S ní takový věci nikdy nejsou na 5 minut. A tak jsme si volali ještě když se Verunka vrátila.<br>
 
 ### 12.10. Film zdarma ≠ film dobrý
 
@@ -195,14 +193,19 @@ Nemocní byli všichni. Monika měla na slacku lebku, Omar smajlík s teploměre
 Dokázal jsem ale zabalit věci pro cete.com a zařídit dopravu do Saarsbruckenu, otestovat CBN tester pro Safiral a zbytek dne rozcházet firmware pro testy nadcházející.<br>
 Jo a v konverzaci s Veru jsem zpětně objevil, že to byl den, kdy jela ráno do práce se mnou a se svými novými sluchátky. Spotify jí odmítlo pustit Brasil od Eda O'Briena. Veledílo ideální na start dne. A to to Spotify platíme.<br>
 
-### 14.10.
+### 14.10.Svářečkou?
 
+Většina mých výzkumů o tom proč se laptop neprobouzí vedla k CMOS baterii. Překvapil mě objev toho, že baterie není dobíjecí. Je to lithiový třívoltový článek, který se nakonec musí vyměnit.<br>
+Al mi prozradila, že by v laptopu má být CR 2032 článek stejný jako v airtagu. Náhradní díl i s kabely nešel koupit na alze a poštovný ze speciálních krámů se mi nechtělo platit. Rozhodl jsem se to převařit naší svářečkou.<br>
 
 <a href="../images/2026_october/14_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/14_1.jpg"></a>
 
+Pustil jsem se do toho hned po příchodu do srdce. Nebylo to na pet minut. Nabit super kondenzátor a najít správnou časovou konstantu chvíli zabralo. Ale, po asi půl hodině jsem šlápnutím na pedál vyrobil proud, který hodil jiskru, ale svařil plechy na baterii.<br>
 
 <a href="../images/2026_october/14_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/14_2.jpg"></a>
 
+Po sestavení se laptop zapnul. Dobrá zpráva.<br>
+Po návratu domů jsem ale objevil, že tak radostný to nebylo. Opět se odmítal probudit. Pustil jsem se do většího výzkumu a zjistil jsem, že můžu upgradovat firmware a BIOS v základní desce. Pustil jsem se do toho. V jednu chvíli to vyparovalo, že laptop se nezapne už vůbec, ale nakonec se aktualizace nainstalovali a dostal jsem se víceméně tam, kde jsem byl před tím.<br>
 
 <a href="../images/2026_october/14_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/14_3.jpg"></a>
 
@@ -248,7 +251,7 @@ V osm hodin po filmu jsem šel spát a odpadl asi na to hodin. Verunka prý asi 
 K snídani jsme měli polévku. Ještě pořád jsem cítil, že dutiny nejsou úplně stopro, ale ležení doma další den mi přišlo zbytečný. Vyrazili jsme tak s Veru oba sto třicet šestkou do práce. Já s mrtvým laptopem v batohu.<br>
 Rozhodl jsem se osazovat. Na to mi stačila výrobní data z ERP a jedno heslo do windows laptopu v práci na stole. HLP tester. Stejně to stálo už moc dlouho.<br>
 Do vývoje jsem dorazil první. Honzík měl o víkendu narozeniny a přinesl dort. Ada poslala fotku toho, jak si na caminu zrakvila nohu. A Petr mi objednal nový laptop, i když o tom do emailu nenapsal ani čárku. Objevil jsem to tak, že jsme ho potkali při cestě do věže na palačinky se špenátem s krabicí lenovo v podpaží.<br>
-Nevybalil jsem ho hned po obědě. Dostavil jsem ty elektroniky, dal si dort, v ale objednal šachtu na M. Z NVMe disk a až když padla, stáhl jsem si z ČVUT mirvoru Arch a pustil se do instalace.<br>
+Nevybalil jsem ho hned po obědě. Dostavil jsem ty elektroniky, dal si dort, v ale objednal šachtu na M. Z NVMe disk a až když padla, stáhl jsem si z ČVUT mirroru Arch a pustil se do instalace.<br>
 
 <a href="../images/2026_october/19_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/19_1.jpg"></a>
 
@@ -264,20 +267,60 @@ A najednou bylo po desátý. Ale měl jsem laptop. A sakra dobrej. Dokonce dotyk
 
 ### 20.10.
 
+člověk něco napíše, pak začne týden a najednou zas nic<br>
 
-### 21.10.
+### 21.10. Bramboráky
 
+Když Veru smažila, já procházel booking a podivoval se tomu, že v celém Gdaňsku jsou všude úplně stejné pokoje k ubytování. Zjistil jsem, že za tomu, že nějaká jedna paní, která skupuje staré velké byty, kompletně je vykucha a přestaví je na apartmán o asi třech čtyřech pokojích, jedný v sociálce a jedný v kuchyni. Všechno IKEA, všechno stejná květina, podobný obraz. Maličký, ale funkční a docela levný. <br>
 
-### 22.10.
+<a href="../images/2026_october/21_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/21_1.jpg"></a>
 
+Občas jsem uloubil bramborák a přejedl se dřív, než je Veru donesla na stůl. Ona taky. <br>
 
-### 23.10.
+### 22.10. Přecpanej
 
+Večerní bramboráky jsem si dal i k snídani. A protože byly moc dobrý, nacpal jsem je do krabičky a vzal si je i na oběd.<br>
+Jenže byly dobrý až moc, takže už v deset jsem do sebe nacpal dva a na skutečný oběd jich moc nezbylo. Vyrazil jsem tak s Vláďou do věže. Měli tam ke quesadillu k ní hranolky a ještě boršč.<br>
+Nacpal jsem to do sebe všechno. Ale byl jsem plnej po okraji. <br>
 
-### 24.10.
+### 23.10. Sauny v obchodě nejsou špatný
 
+Verunka se rozhodla, že sílu nově nabyté multisport karty otestuje na 100%. Form factory tady, form factory tamhle, sauna, hrad a já nevím co všechno dalšího. Ráno jsem jí řekl, že jsem jí sní jít do sauny nechce, ale rozhodl jsem se, že vezmu ručník a plavky, kdyby něco.<br>
+S teplejší čepicí mi nefoukalo tolik na uši a jí zde dolů byla příjemnější. Říkal jsem si, že si musím pořídit nějaký GoPro, nebo si ho aspoň půjčit, abych mohl natočit jak parádní jezd z estakády, když na obzoru vychází slunce a osvicuje polovinu Prahy. <br>
+Dál jsem řešil TQM. Je doba AI. A tak jsem do Gemini nasypal requirements a ptal jsem se, jestli to a tamto bude stačit, jak to zjednodušit a jak to provést. Nakonec jsem dospěl k tomu, že TQM Management Plan může být stránka na wiki, která bude odkazovat na různá místa. Do Gitu, do ERP, do Wiki, na manuály a tak. A tím, že to tam bude napsaný, splníme spoustu povinností, který u nás, bude TUV auditovat.<br>
+Oběd jsem tentokrát měl od nás z mrazáku. Trochu jsem doufal, že to bude chili sin carne, ke kterýmu jsem si přidal rýži, ale byla to boloňská. Trochu divná kombinace, ale oboje dobrý. <br>
+Do tý sauny jsem nakonec šel. France třetího jsem zamkl před OCčkem, Veru chytil při výjezdu z metra a společně jsme zamířili dovnitř. Napřed do Bílly, kde jsme pořídili pečivo a pomazánky, které jsme snědli před dětským vláčkem. Až když už nás nesužoval hlad, jsme navštívili form factory. <br>
 
-### 25.10.
+<a href="../images/2026_october/23_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/23_1.jpg"></a>
+
+Sauny tam byly moc pěkné. Dokonce tři. Pára, 65° a 95°. A malý bazén a dvoje bubliny. Na to, že máme tu bez doplatku bomba. Dali jsme dvě kolečka a pak vyrazili domů. Já na kole veru autobusem. Potkali jsme se v domě. Vyšlo to na stejno. <br>
+
+### 24.10. Rande
+
+Ráno jsme měli sex. Původně jsem plánoval nechat všechny oddřít verunku. Ale najednou nevím proč jsem byl udýchaný jak po maratonu. Prý se ani nedopočítala kolik to...<br>
+Po snídaní vyrazila do solné jeskyně. Já si pustil nový díl Avatara Seven Havens a dával si život do pořádku. Než se ale v seriálu něco stalo, veru byla zpátky a spolu jsme dolu donesli všechen tříděný odpad.<br>
+Na ženu přišel hlad. Byl víkend, od jejich rodičů jsme měli nějaké penízky na dobré jídlo. A tak jsme se o něco hezčeji oblékli a vyrazili na Žižkov do Belzepubu. Burgrárny, která dělala místo masa rostlinné alternativy. <br>
+Hráli tam Linkin Park a vlastně to byl dvojpodnik. Nahoře kavárna, dole burgrárna. Jenže dole byla tma a neměli obsluhu. Jídlo se muselo objednat přes QRkód mobilem. A jediný kluk, co tam chodil, byl takovej trochu pruderní. Ale můj BBQ Bacon Burger s Beyond Meat chutnal moc dobře a verunky US Burger byl sice trochu plain, ale chutnal taky moc fajn. Měli jsme z toho smíšený pocity. Veru, jim to napsala do recenze. <br>
+Prošli jsme rajskou zahradou kolem potůčku a dál pokračovali přes Rígráče. Nevím jak je to možný, ale Veru tam ještě nebyla. Výhled na hrad se jí líbil a vyžadovala další hezký věci v okolí. Kavárna v Sokolu mě napadla. Ideální kontrast k tomu sezení pod zemi.<br>
+
+<a href="../images/2026_october/24_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/24_1.jpg"></a>
+
+Točili poličku, rozlévali rosé a měli spoustu deskovek. Vybrali jsme AZ kvíz. Třikrát ze čtyř her, mě Veru rozbila. V šachách to bylo naopak. V podniku hrálo techno, alkohol štoupal do hlavy a bylo to příjemný.<br>
+
+<a href="../images/2026_october/24_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/24_2.jpg"></a>
+
+Cesta přes Vinohrady na Žižkov k tramvaji byla veselá. V Alabertu, kde se točily vratné láhve, jsme naneštěstí nepořídili veganského tuňáka. Ale aspoň jsem si odnesl česnekovou bagetu jako cenu útěchy. 26 nás devezla do Sherwoodu, C do Letnán a úplně plná 136 domů.<br>
+V metru mi Verunka nasadila do hlavy brouka. Měl bych si říct o víc peněz. Dál jsem si na to do kalendáře upozornění.<br>
+A pak stáhl film. Křidýlko nebo stehýnko. Překvapilo mě, jak jednoduchý je v inspektoru najít odkaz vedoucí na zdroj filmu, který běží v html 5 na stránce, která píše, že stahování je umožněno jen registrovaným. <br>
+
+### 25.10. Prdel s tečkou na konci. 
+
+Protože jsem osoba líná, rozhodl jsem se, že budu počítači diktovat. A protože můj laptop má v sobě neurální koprocesor, taky má v sobě akceleraci přes Vulkán a docela dobrej procesor, měl být schopný běžet lokální model Whisper a přepisovat to.<br>
+Rozchodit to byl boj. Trvalo mi to půl filmu Rango, na který koukala Verunka, když loupala ořechy. Koukala na něj, protože mi ráno hlavou hrál soundtrack k The Simposns Movie a já ho pustil k snídani. Od Simpsonů YouTube Music přešlo k Rangovi a druhá signální nebo tak něco... najednou jsme ho stahovali. Na filmový databázi mám napsáno, že to není není animák pr děti.<br>
+Není. A je skvělej.<br>
+Mimochodem, ten název tohohle dne je Verunky nápad. Byl to jeden z testů toho Whisper modelu.<br>
+
+<!--
 
 
 ### 26.10.
@@ -298,3 +341,6 @@ A najednou bylo po desátý. Ale měl jsem laptop. A sakra dobrej. Dokonce dotyk
 ### 31.10.
 
 [>> Listopad](2026_november.md)<br>
+
+-->
+
