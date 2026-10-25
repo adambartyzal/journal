@@ -4,7 +4,7 @@
 
 
 - [1.10.](#110)
-- [2.10.](#210)
+- [2.10. Irští rebelové se množí](#210-irští-rebelové-se-množí)
 - [3.10. Deja vu!](#310-deja-vu)
 - [4.10. Že by Radostín?](#410-že-by-radostín)
 - [5.10.](#510)
@@ -20,9 +20,9 @@
 - [15.10.](#1510)
 - [16.10. Špatný den pro techniku](#1610-špatný-den-pro-techniku)
 - [17.10. Bolehlav bez rýmy](#1710-bolehlav-bez-rýmy)
-- [18.10.](#1810)
+- [18.10. YouTube](#1810-youtube)
 - [19.10. T14s](#1910-t14s)
-- [20.10.](#2010)
+- [20.10. Insomnia](#2010-insomnia)
 - [21.10. Bramboráky](#2110-bramboráky)
 - [22.10. Přecpanej](#2210-přecpanej)
 - [23.10. Sauny v obchodě nejsou špatný](#2310-sauny-v-obchodě-nejsou-špatný)
@@ -30,16 +30,15 @@
 - [25.10. Prdel s tečkou na konci.](#2510-prdel-s-tečkou-na-konci)
 
 
-### 1.10.
+### 1.10. 
 
 Nějak jsem toho měl dost. Čeho, vlastně ani nevím. Ale během práce jsem cítil nějakou paralýzu. Osazoval jsem konvertory, odpovídal na e-maily a vyplnil žádost o Type Approval. Coz<br>
 
 <a href="../images/2026_october/01_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/01_1.jpg"></a>
 
 
-### 2.10.
+### 2.10. Irští rebelové se množí
 
-Irští rebelové se množí<br>
 Ráno jsem se rozezlil nad faktem, že Školu Poznávání založily tři psycholožky a její kantoři se pomalu propracovávali k depresím, zhroucení a nemocem. Vyjádřil jsem to nahlas a Verunku tím rozbrečel. Ale řekla, že v pondělí si o tom s ředitelkou popovídá.<br>
 Myslím že jsem nechtěl moc. To aby měla Veru nějaký čas na sport. Na oddych. A na spánek. Na balanc. Za ty směšný peníze, který školství platí rakovina a vyhoření fakt nestojí.<br>
 Mrzelo mě že jsem Veru rozbrečel, ale mít hodnoty je důležitý.<br>
@@ -100,6 +99,9 @@ Autobus do Tišnova bychom v poho zvládli, kdyby jel. Ne, že by jeho nepříje
 
 ### 5.10.
 
+Čočka, kterou dodával Verunce Rohlík kvůli veganské studie, nebyla vůbec dobrá. Byla slaná a chutnala trochu jako písek. Veru to nevadilo zdaleka tolik jako mně a uznávám, že vlastně byla zadarmo. Ale naše je o tolik lepší.<br>
+Autobus ujel před nosem nám oběma. Když jsem se konečně dostal do práce, Zjistil jsem, že Vláďa přijel. Měl rýmu a asi měl ještě zůstat doma, protože smrkal a pak i pšíkal.<br>
+Core tiskárny se nějak rozbíjely. Ivan byl pryč a já nad některými z nich zlomil hůl a řekl si, že to vyřeší až se vrátí. <br>
 
 <a href="../images/2026_october/05_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/05_1.jpg"></a>
 
@@ -243,8 +245,19 @@ Taky jsem cítil intenzivní kognitivní útlum. Byl jsem úplně vymaštěnej. 
 
 V osm hodin po filmu jsem šel spát a odpadl asi na to hodin. Verunka prý asi do jedenácti ještě dělala kouzla v kuchyni.<br>
 
-### 18.10.
+### 18.10. YouTube
 
+Člověk by řekl, že léčení se doma v posteli je ideální příležitost pro dopsání sekery v deníku. O to víc, když člověku přestane fungovat počítač a čtečka. Ale bylo dvanáct hodin v neděli a já pospával, nebo čuměl do mobilu.<br>
+Jsem na mobilu závislej a nic moc mi nedává. Nastavení restrikcí a pravidel moc nefunguje, protože Je jednoduchý je obejít. Měl bych vytyčit bez mobilní zóny. Nebo ho prostě nechat po příchodu na poličce U dveří. To by mohlo pomoci.<br>
+Nemoc už mě iritovala. Mít ucpaný dutiny, který neprodukovaly rýmu, která by šla vysmrkat byl novej koncept absurdity. Konvička s vincentkou moc nepomáhala. Zdálo se, že jen nahřívací láhev a spaní má nějaký efekt.<br>
+Veru šla na workshop do Skauťáku a potom na pivo se studenty ze startu. Vypadalo to, že obojí jí přináší radost. Měl jsem z toho radost. Už dlouho nedělala nic kromě práce.<br>
+Zato já narážel na to, že se mi do ničeho nechce a že z ničeho nemám radost. Až nějaký video na You Tube mi řeklo , že ráno odkládám budík a chybí mi disciplína. Myslím, že YouTube za to dost mohl. Na rozdil od ostatních socek působí jako zdroj hodnotných informací. Jenže je to to samý v jiných barvách.<br>
+Bylo na čase ho zablokovat. Ne v mobilu. V hlavě. A napsat si TODO list. A odškrtávat. Udělat si odměnu za splnění činností. Mít z toho škrtnutí radost.<br>
+~Deník~<br>
+Ostříhat se<br>
+~Zalít květiny~<br>
+~Převléct postel~<br>
+a tak jsem se pustil do psaní.<br>
 
 ### 19.10. T14s
 
@@ -257,7 +270,7 @@ Nevybalil jsem ho hned po obědě. Dostavil jsem ty elektroniky, dal si dort, v 
 
 Průvodce v Bashi byl trochu děsivej. Nejsem Žádnej Linux Guru. Ale nechal jsem si poradit od Gemini a po chvíli koukal na funkční Gnome.<br>
 Sbalil jsem starý disk, nový laptop a protože mi začínalo tepat ve spánku, zapil jsem jeden ataralgin. Šachta na disk už na mě čekala v alze v Čakovicích a sto třicet šestka mě tam dovezla.<br>
-Měli tam piána. Dobrá alza. Bylo skoro osm, nežjsem se z ní dostal.<br>
+Měli tam piána. Dobrá alza. Bylo skoro osm, než jsem se z ní dostal.<br>
 
 <a href="../images/2026_october/19_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/19_2.jpg"></a>
 
@@ -265,9 +278,10 @@ V Globusu jsem ještě pořídil dvoukilový královský chléb asi za 50 korun,
 Doma jsem ještě rozchodil disk. Trochu na potvoru jsem si smazal configy firefoxu, ale to mě naučilo montovat disk jako read only.<br>
 A najednou bylo po desátý. Ale měl jsem laptop. A sakra dobrej. Dokonce dotykovej, což jsem zjistil omylem.<br>
 
-### 20.10.
+### 20.10. Insomnia
 
-člověk něco napíše, pak začne týden a najednou zas nic<br>
+V Ataralginu je kofein. A asi je ho tam dost. Někdy ve tři ráno jsem se probudil a nebyl s to zabrat. Abych ten čas aspoň využil, vzal jsem si polštář a deku vedle a šel sepsat předchozí den do Řehoře.<br>
+Někdy ve čtyři ráno je člověk docela plodnej. Udělal jsem poznámky a sespal text alespoň tří dní. A taky jsem se <br>
 
 ### 21.10. Bramboráky
 
@@ -316,9 +330,9 @@ A pak stáhl film. Křidýlko nebo stehýnko. Překvapilo mě, jak jednoduchý j
 ### 25.10. Prdel s tečkou na konci. 
 
 Protože jsem osoba líná, rozhodl jsem se, že budu počítači diktovat. A protože můj laptop má v sobě neurální koprocesor, taky má v sobě akceleraci přes Vulkán a docela dobrej procesor, měl být schopný běžet lokální model Whisper a přepisovat to.<br>
-Rozchodit to byl boj. Trvalo mi to půl filmu Rango, na který koukala Verunka, když loupala ořechy. Koukala na něj, protože mi ráno hlavou hrál soundtrack k The Simposns Movie a já ho pustil k snídani. Od Simpsonů YouTube Music přešlo k Rangovi a druhá signální nebo tak něco... najednou jsme ho stahovali. Na filmový databázi mám napsáno, že to není není animák pr děti.<br>
+Rozchodit to byl boj. Trvalo mi to půl filmu Rango, na který koukala Verunka, když loupala ořechy. Koukala na něj, protože mi ráno hlavou hrál soundtrack k The Simposns Movie a já ho pustil k snídani. Od Simpsonů YouTube Music přešlo k Rangovi a druhá signální nebo tak něco... najednou jsme ho stahovali. Na filmový databázi mám napsáno, že to není není animák pro děti.<br>
 Není. A je skvělej.<br>
-Mimochodem, ten název tohohle dne je Verunky nápad. Byl to jeden z testů toho Whisper modelu.<br>
+Mimochodem, název tohohle dne je Verunky nápad. Byl to jeden z testů toho Whisper modelu. Byla neděle a nechtělo se nám nic dělat. Ale z zoho diktování jsem měl radost. Jelo to lokálně a dobře. Sice jsem to nerozchodil přes NPU, což by bylo ultra úsporný, ale vulkan přes iGPU stačil. Zkusil jsem to i přes CPU a to jelo skoro 5x pomaleji.<br>
 
 <!--
 

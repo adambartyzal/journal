@@ -11,7 +11,7 @@
 - [7.9. S pedálem rychlejší](#79-s-pedálem-rychlejší)
 - [8.9. Hladovět spolu](#89-hladovět-spolu)
 - [9.9. Trade off](#99-trade-off)
-- [10.9.](#109)
+- [10.9. Y kabel](#109-y-kabel)
 - [11.9. Do železných hor](#119-do-železných-hor)
 - [12.9. Svatbu u pily?](#129-svatbu-u-pily)
 - [13.9. Místo zámku pizzu](#139-místo-zámku-pizzu)
@@ -19,7 +19,7 @@
 - [15.9. 100 let SOČRu](#159-100-let-sočru)
 - [16.9. Muscle up v nedohlednu](#169-muscle-up-v-nedohlednu)
 - [17.9. Promítání Lukymu](#179-promítání-lukymu)
-- [18.9.](#189)
+- [18.9. Odpočinek](#189-odpočinek)
 - [19.9. Posunuté narozeniny](#199-posunuté-narozeniny)
 - [20.9. Řezat laserem](#209-řezat-laserem)
 - [21.9. Vícegenerační, spíš ne](#219-vícegenerační-spíš-ne)
@@ -177,7 +177,19 @@ V 5:30 jsem sedl na kolo, a mrholením jsem pomalu vyrazil zpátky domů, kde js
 Verunka taky vypadala, jakoby jí přejel vlak. Až do večera dělala přípravy na hodiny v dalších dnech. Já jsem během krájení poslouchal knížku a koukal na Keynote o iPhonu duo. Vypadal docela zajímavě, ale měl stát tak nekřesťanskou částku, jsem si řekl, že moji kapsu nikdy nenavštíví.
 
 
-### 10.9.
+### 10.9. Y kabel
+
+Trochu jsem váhal, zda 4 kabel pro Cetecom bude univerzální, nebo spojím jeden na nabíjení a jeden na data.
+
+![image](10_1.jpg)
+
+Nakonec jsem spojil každý kabel s každým. A fungovalo to.
+
+Chvíli.
+
+Pak se něco stalo a Windows začal hlásit USB power surge. Proč, těžko říct. V převodníku odešel CAN čip. Mechanismus mi ale nebyl jasný, Vláďovi taky ne a po zbytek dne jsme to nedokázali zreplikovat.
+
+Nicméně jsem naměřil, že nabíjet a testovat transakce šlo. Během čtyř vteřinové transakční periody byla necelá vteřina na nabíjení a stačilo to. Poslal jsem to do Cetecomu na Romain působil optimisticky
 
 ### 11.9. Do železných hor
 
@@ -322,7 +334,11 @@ veru suši
 luky povídal o kurzu první pomoci
 promítali jsme uss calister
 
-### 18.9.
+### 18.9. Odpočinek
+
+Narozdíl od mé duše, která dokáže operovat s velkou mírou nejistoty, ta Verunčina potřebuje jasný plán. V kalendáři nalajnovaný, kdy a kde být a co tam dělat. Hodně jí znervozňovalo, že nevěděla nic o alternativním narozeninovém plánu. Vyptal jsem se proto Marťi, co budeme dělat a dozvěděl se, že máme dojít do Prokopáku, kde bude oheň, budou se péct buřty, bude se hrát na kytary a bude pohoda.
+
+Když to bylo zapsaný, mohl začít den dohánění a odpočinku.
 
 ### 19.9. Posunuté narozeniny
 
@@ -352,10 +368,11 @@ Jenže i odřezky dřevotřísky stály nesmysl. Než jsem vůbec nakreslil vzor
 
 ![image](20_1.jpg)
 
-
 M3 znamená, že laser jede na fixní výkon a M4, že ho upravuje rychlosti. A když člověk nastaví rychlost vyšší než nejvyšší, pálí laser míň a míň. Ale posouval jsem se, ne že ne.
 
 ![image](20_2.jpg)
+
+Nakonec jsem tam byl až někdy do deseti večer. Průjezdy na vyřezání tlaždíc trvale hrozně dlouho a řezalo to po malých dílkách. Možná jsem měl nastavit větší výkon, těžko říct. Neslásím, že s každým dalším to zvládnu, ale když už táhlo na desátou, rozhodl jsem se to zabalit. 
 
 ### 21.9. Vícegenerační, spíš ne
 
@@ -391,14 +408,13 @@ Zato já byl. V objednávání desek z JLCPCB. Kolik konvertorů a kolik ebuxů.
 
 ![image](22_1.jpg)
 
-
 ### 23.9. Televizní aukce
 
 Kolo bylo pořád doma. Tentokrát jsme jeli sto třicet šestkou, takže na Proseku vystupovala Verunka.
 
-Než jsem vyrazil dom, podlepil jsem si černou izolepou displej od kindlu. To prosvítání bylo naprd. Navíc tenká páska od horseshoelocku byla vymyšlená na lepení einku. Co víc si přát
-
 ![image](23_1.jpg)
+
+Než jsem vyrazil dom, podlepil jsem si černou izolepou displej od kindlu. To prosvítání bylo naprd. Navíc tenká páska od horseshoelocku byla vymyšlená na lepení einku. Co víc si přát
 
 ![image](23_2.jpg)
 
@@ -498,7 +514,21 @@ Večer jsme koukali na Death Note. Veru na tom začínala být závislá. Ke sle
 
 ### 30.9. Metro a rizoto
 
-
+Pozváni do vršovic
+Za verunkou tramvají do školy
+kolegyně
+na autobus
+cápek s vodkou
+vršovice
+pes jméno blbý patro
+metro ze dřeva 
+knížky
+o práci v agentuře
+rizoto
+metro
+2x
+nakonec kolem starýho domu na vlak
+z hlaváku metrem
 
 <!-- 
 

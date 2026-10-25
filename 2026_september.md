@@ -12,7 +12,7 @@
 - [7.9. S pedálem rychlejší](#79-s-pedálem-rychlejší)
 - [8.9. Hladovět spolu](#89-hladovět-spolu)
 - [9.9. Trade off](#99-trade-off)
-- [10.9.](#109)
+- [10.9. Y kabel](#109-y-kabel)
 - [11.9. Do železných hor](#119-do-železných-hor)
 - [12.9. Svatbu u pily?](#129-svatbu-u-pily)
 - [13.9. Místo zámku pizzu](#139-místo-zámku-pizzu)
@@ -20,7 +20,7 @@
 - [15.9. 100 let SOČRu](#159-100-let-sočru)
 - [16.9. Muscle up v nedohlednu](#169-muscle-up-v-nedohlednu)
 - [17.9. Promítání Lukymu](#179-promítání-lukymu)
-- [18.9.](#189)
+- [18.9. Odpočinek](#189-odpočinek)
 - [19.9. Posunuté narozeniny](#199-posunuté-narozeniny)
 - [20.9. Řezat laserem](#209-řezat-laserem)
 - [21.9. Vícegenerační, spíš ne](#219-vícegenerační-spíš-ne)
@@ -141,8 +141,16 @@ O 2 hodiny později, na obědě ve věži, jsem si ještě dal zelňačku a tofu
 V 5:30 jsem sedl na kolo, a mrholením jsem pomalu vyrazil zpátky domů, kde jsem se opět pustil do krájení křížal. Šuplík v lednici už byl téměř prázdný, ale stále mi tak jedna sušička zbývala.<br>
 Verunka taky vypadala, jakoby jí přejel vlak. Až do večera dělala přípravy na hodiny v dalších dnech. Já jsem během krájení poslouchal knížku a koukal na Keynote o iPhonu duo. Vypadal docela zajímavě, ale měl stát tak nekřesťanskou částku, jsem si řekl, že moji kapsu nikdy nenavštíví.<br>
 
-### 10.9.
+### 10.9. Y kabel
 
+Trochu jsem váhal, zda 4 kabel pro Cetecom bude univerzální, nebo spojím jeden na nabíjení a jeden na data.<br>
+
+<a href="../images/2026_september/10_1.jpg" target="_blank"><img src="../images/thumbnails/2026_september/10_1.jpg"></a>
+
+Nakonec jsem spojil každý kabel s každým. A fungovalo to.<br>
+Chvíli.<br>
+Pak se něco stalo a Windows začal hlásit USB power surge. Proč, těžko říct. V převodníku odešel CAN čip. Mechanismus mi ale nebyl jasný, Vláďovi taky ne a po zbytek dne jsme to nedokázali zreplikovat.<br>
+Nicméně jsem naměřil, že nabíjet a testovat transakce šlo. Během čtyř vteřinové transakční periody byla necelá vteřina na nabíjení a stačilo to. Poslal jsem to do Cetecomu na Romain působil optimisticky<br>
 
 ### 11.9. Do železných hor
 
@@ -270,8 +278,10 @@ veru suši<br>
 luky povídal o kurzu první pomoci<br>
 promítali jsme uss calister<br>
 
-### 18.9.
+### 18.9. Odpočinek
 
+Narozdíl od mé duše, která dokáže operovat s velkou mírou nejistoty, ta Verunčina potřebuje jasný plán. V kalendáři nalajnovaný, kdy a kde být a co tam dělat. Hodně jí znervozňovalo, že nevěděla nic o alternativním narozeninovém plánu. Vyptal jsem se proto Marťi, co budeme dělat a dozvěděl se, že máme dojít do Prokopáku, kde bude oheň, budou se péct buřty, bude se hrát na kytary a bude pohoda.<br>
+Když to bylo zapsaný, mohl začít den dohánění a odpočinku.<br>
 
 ### 19.9. Posunuté narozeniny
 
@@ -302,6 +312,7 @@ M3 znamená, že laser jede na fixní výkon a M4, že ho upravuje rychlosti. A 
 
 <a href="../images/2026_september/20_2.jpg" target="_blank"><img src="../images/thumbnails/2026_september/20_2.jpg"></a>
 
+Nakonec jsem tam byl až někdy do deseti večer. Průjezdy na vyřezání tlaždíc trvale hrozně dlouho a řezalo to po malých dílkách. Možná jsem měl nastavit větší výkon, těžko říct. Neslásím, že s každým dalším to zvládnu, ale když už táhlo na desátou, rozhodl jsem se to zabalit. <br>
 
 ### 21.9. Vícegenerační, spíš ne
 
@@ -333,10 +344,10 @@ Zato já byl. V objednávání desek z JLCPCB. Kolik konvertorů a kolik ebuxů.
 ### 23.9. Televizní aukce
 
 Kolo bylo pořád doma. Tentokrát jsme jeli sto třicet šestkou, takže na Proseku vystupovala Verunka.<br>
-Než jsem vyrazil dom, podlepil jsem si černou izolepou displej od kindlu. To prosvítání bylo naprd. Navíc tenká páska od horseshoelocku byla vymyšlená na lepení einku. Co víc si přát<br>
 
 <a href="../images/2026_september/23_1.jpg" target="_blank"><img src="../images/thumbnails/2026_september/23_1.jpg"></a>
 
+Než jsem vyrazil dom, podlepil jsem si černou izolepou displej od kindlu. To prosvítání bylo naprd. Navíc tenká páska od horseshoelocku byla vymyšlená na lepení einku. Co víc si přát<br>
 
 <a href="../images/2026_september/23_2.jpg" target="_blank"><img src="../images/thumbnails/2026_september/23_2.jpg"></a>
 
@@ -414,6 +425,21 @@ Večer jsme koukali na Death Note. Veru na tom začínala být závislá. Ke sle
 
 ### 30.9. Metro a rizoto
 
+Pozváni do vršovic<br>
+Za verunkou tramvají do školy<br>
+kolegyně<br>
+na autobus<br>
+cápek s vodkou<br>
+vršovice<br>
+pes jméno blbý patro<br>
+metro ze dřeva <br>
+knížky<br>
+o práci v agentuře<br>
+rizoto<br>
+metro<br>
+2x<br>
+nakonec kolem starýho domu na vlak<br>
+z hlaváku metrem<br>
 
 <!-- 
 
