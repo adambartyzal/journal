@@ -28,6 +28,7 @@
 - [23.10. Sauny v obchodě nejsou špatný](#2310-sauny-v-obchodě-nejsou-špatný)
 - [24.10. Rande](#2410-rande)
 - [25.10. Prdel s tečkou na konci.](#2510-prdel-s-tečkou-na-konci)
+- [26.10. TQM mítink](#2610-tqm-mítink)
 
 
 ### 1.10. 
@@ -334,10 +335,17 @@ Rozchodit to byl boj. Trvalo mi to půl filmu Rango, na který koukala Verunka, 
 Není. A je skvělej.<br>
 Mimochodem, název tohohle dne je Verunky nápad. Byl to jeden z testů toho Whisper modelu. Byla neděle a nechtělo se nám nic dělat. Ale z zoho diktování jsem měl radost. Jelo to lokálně a dobře. Sice jsem to nerozchodil přes NPU, což by bylo ultra úsporný, ale vulkan přes iGPU stačil. Zkusil jsem to i přes CPU a to jelo skoro 5x pomaleji.<br>
 
+### 26.10. TQM mítink
+
+To, že se v neděli posunul čas, bylo patrný. Už vše stráno bylo za oknej docela světlo. Z postele se mi nechtělo, ale energie jsem měl vlastně docela dost. Veru k smídani nakrájela buchtu, kterou upekla večer a já si před jídlem nad rychlovarnou konvicí napařoval dutiny, aby mi povolila rýma. Zní to trochu absurně, ale pomáhalo to.<br>
+Taky jsem si po delší době stočil kombuchu do láhve. Matcha, jí dala říz. <br>
+Jízda na kole byla příjemná. Jel jsem po estakádě a sluníčko svítilo někde za Černákem. Kromě Jirky a DJ-e byly skoro všichni přítomni. A to nebylo ani osm. Určitě důsledek posunu času. Na desátou jsme měli naplánovaný TQM meeting s Áděou a Omarem, po kterém jsem víceméně chtěl vysvětlit, jak funguje certifikace ISO9001. <br>
+TQM ve mě vzbouzelo pocity odezdi ke zdi. Korporátní NewSpeak mi říkal, že je to absurdní a nemůžeme to zvládnout, ale když se do toho člověk ponořil, vlastně to většinou šlo vyřešit nějakou větou na Wiki.<br>
+Z ničeho nic, byl čas oběda a kluci mě tahali do věže. Už dlouho jsem sice říkal, že jsem vegetarián, ale k jídlu jsem si dával polévku, což byl většinou vývar z masa. Dneska jsem se rozhodl, že se vrátím k původnímu významu toho slova a dal si jenom květákový mozeček a místo vývaru šopák.<br>
+Ludva přijel. Dokonce přijel i Charles, ale přišlo mi, že jsou tak busy, že k žádosti o zvýšení platu jsem se zatím nedostal. Ostatně napřed jsem chtěl o schůzku požádat na sleku nebo mailem. Ale měl jsem to v hlavě a bylo na čase s tím pohnout. Obzvlášť po tom, co jsme se pustili do těch TQM bullshit věcí, jak to máme ostatně na gitů pojmenovaný. <br>
+Cestou zpátky jsem si nevzal klíče. Zjistil jsem to pochopitelně až v letňanech. Naštěstí Verunka už nasedela na Václaváku na metro a slíbila, že za půl hodiny bude u mě. Sednul jsem si tak na zítku před domem a díky Whisper modulů v laptopu jsem mohl nadiktovat, co se během dnešního dne dělo. <br>
+
 <!--
-
-
-### 26.10.
 
 
 ### 27.10.

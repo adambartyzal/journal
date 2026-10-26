@@ -184,42 +184,20 @@ V noci nás vzbudilo štěkání. Jenže ne psí. Možná spíš nějakýho ožr
 
 Energii mi tak musela dát hrstková kaše k snídani. Byl jí randál a chutnala moc dobře. Připravila nás na rovnou cestu lesem po hřebeni Kaňkových hor. Výhledů moc nenabízely a i nadále jsme museli překonávat stromy spadlé přes cestu, ale bylo tam moc pěkně. Myslím, že ostatní si to taky mysleli. Veru rozhodně kvitolvala přívětivější náročnost terénu ve srovnání s Alta Viou.<br>
 Po asi třech kilometrech jsme sestoupili do průsmyku, kde cestu křižovala kolmo jdoucí stezka, kterou jsme se měli následující den vracet. Byl tam altán, ve kterém by šlo spát docela komfortně, ale nás čekal ještě jeden výšlap vzhůru a pak cesta po louce kolem chaty Javorka, kde jsme nabrali jablka a poté naneštěstí asfalt. Napřed vetší silnice a poté obslužná cesta mezi chatičkami lemujícími nádrž Seč. V šedesátým pátým přesně k týhle přehradě jel pan Malíř se zrovna vdanou paní Malířovou na líbánky.<br>
-silnice<br>
-mezi chatkami u jezera<br>
-kafe?<br>
-radši k vodě<br>
-oznámení zásnub<br>
-po pláži<br>
-zelenou plochou<br>
-houba a ostružiny<br>
-pánovi po zahradě<br>
-včela<br>
-lesem a kolem řeky<br>
+Byla tam cedule, že se blížíme ke kavárně. To Rebece dodalo energii, ale kavárna určitě zavřeno. Pokud to bůbec byla ona, to co jsme potkali byl spíš pivní stánek. Radši jsme tak sešli na břeh a koukali se na přehradu, která byla mírně upuštěná, nebo spíš vyschlá. Sedli jsme si tam na plážičku a Verunka, kterou už to uvnitř hryzalo dost dlouho, ukázala Rébě prstýnek.<br>
+Hengalovic, z toho pochopitelně měli radost. Ondra teda dostal pojeb, že čumí do mobilu, místo toho aby nám gratuloval. Ale bylo to spíš tak naoko. Během chůze skrz polovypuštěnou přehradu, jsme si pak povídali o tom, co nás čeká a jaký to je po svatbě.<br>
+Verunce se podařilo najít dvě obrovské  houby. Pěkné hřiby. Dokonce se i ukázalo, že se nám hodily, protože s nimi uplatila pána, který jí byl nepříjemný, když jsme mu vylezli na zahradě. Za dobrotu, ale na žebrotu. Jeho včely jí bodly do hlavy. Musela si vzít prášek proti bolest, kvůli kterému potom byla malátná. <br>
 
 <a href="../images/2026_september/12_2.jpg" target="_blank"><img src="../images/thumbnails/2026_september/12_2.jpg"></a>
 
-pila moc pěkný místo<br>
-přes mostek<br>
-do kopce a na skálu<br>
-zase k řece loukou s výhledama<br>
-pauza u vody<br>
-kolem soukromých mol<br>
-k hotelu<br>
-a do vsi<br>
-piva a bramboráky<br>
-do kopce<br>
-bolehlav<br>
-k zřícenině<br>
-výledy na západ nad přehradou<br>
+K obědu jsme si dali smažený věci v místním Bystru. Bylo tam levně a vlastně všechno bylo dobrý. Dokonce měli pšeničný pivo, který mi moc chutnalo. Dodalo nám energii dojít až k penzionu na pilce, kde si uměl představit, že bychom uspořádali svadbu. Bylo tam krásná voda okolo, loučka, les, hora, fakt všechno moc pěkný. Zapsal jsem si to do hlavy.  <br>
+Opačná strana byla podstatně kopcovitější. Nabízela výhledy do okolí, na vodní plochu a nakonec nás kolem soukromých mol dovedla až do kempu pro loďaře. Tam jsme se zastavili na pivo a bramoráky. Západ slunka se ale blížil a my jsme ještě potřebovali dojít ke zřícenině a výhledu na zátoku. Už to bylo jenom asi 2 km. Ale musím říct, že už jsem byl unavený.<br>
+Ale stálo to za to. Bylo to úplný klišé. <br>
 
 <a href="../images/2026_september/12_3.jpg" target="_blank"><img src="../images/thumbnails/2026_september/12_3.jpg"></a>
 
-spát na zřícenině<br>
-fotopast?<br>
-nakonec maličko zpátky a mezi stromy<br>
-jen polévka<br>
-hvězdy a širák<br>
-ale pak stan<br>
+Přemýšleli jsme, zda nepřespat přímo na zřícenině, ale cedule hlásala, že je tam fotopast. Přišlo mi to jako zbytečný risk. Navíc hrozilo, že tam přijdou v noci, v blbečci, co budou chtít pít na hradě. Takže jsme se posunuli pokus dál do lesíka, kde Ondra našel moc pěknou mítinu. <br>
+Postavili jsme stany, tentokrát velmi rychle a pustili se do přípravy druhé večeře. Já si dal jen polívku. Nebe bylo bez mráčku a koukali jsme na hvězdy, na Starlink, na ISS, na Iridium, na Quipera a buhví na jaký další konstelace, přírodní i umělý. Verunka usnula pod širákem. Totálně by ale umřela zimou, takže jsme se asi po hodině přesunuli do stanu<br>
 
 ### 13.9. Místo zámku pizzu
 
