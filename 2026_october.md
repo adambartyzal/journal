@@ -11,13 +11,13 @@
 - [6.10.](#610)
 - [7.10.](#710)
 - [8.10. Pivo s Dream Teamem](#810-pivo-s-dream-teamem)
-- [9.10.](#910)
-- [10.10.](#1010)
-- [11.10.](#1110)
+- [9.10. Při kocovině zapomnětlivý](#910-při-kocovině-zapomnětlivý)
+- [10.10. Snad poprvé jsem nevolil](#1010-snad-poprvé-jsem-nevolil)
+- [11.10. Co nejlevnější dovolenou](#1110-co-nejlevnější-dovolenou)
 - [12.10. Film zdarma ≠ film dobrý](#1210-film-zdarma--film-dobrý)
 - [13.10. Necítit se jako Bůh](#1310-necítit-se-jako-bůh)
 - [14.10.Svářečkou?](#1410svářečkou)
-- [15.10.](#1510)
+- [15.10. Sklem ušetříš i proděláš](#1510-sklem-ušetříš-i-proděláš)
 - [16.10. Špatný den pro techniku](#1610-špatný-den-pro-techniku)
 - [17.10. Bolehlav bez rýmy](#1710-bolehlav-bez-rýmy)
 - [18.10. YouTube](#1810-youtube)
@@ -144,13 +144,19 @@ Cesta tramvají ještě šla. Zvracel jsem až před Holešovickým nádražím.
 A pak jsem si půjčil next bike. Objektivně to byla úplná píčovina. Ale jelo se mi dobře, vzduch byl čerstvej a domů jsem dojel v poho.<br>
 Ze sluchátek jsem volal Veru. Několikrát ten večer. Nebyla nadšená. Ale je to skvělá žena. Doma se o mě hezky starala zatímco jsem se válel na zemi, protože svět se motal.<br>
 
-### 9.10.
+### 9.10. Při kocovině zapomnětlivý
 
+Trvalo mi fakt dlouho než jsem se vyhrabal z postele. Verunka mi dokonce připravila snídani. Naneštěstí jsem nebyl s to jí pozřít. <br>
+Cesta autobusem byla utrpení, ale zvládl jsem dojet do Vysočan a dojít do práce, kde jsem se pustil do výroby Y kabelů. Moc produktivní jsem, ale nebyl. Pomalu jsem holil kabely, motal je, pájel a zafoukával bužírkou a čekal až přijde padla.<br>
+Vlak domů měl jsem až někdy po šestý. Dojel jsem zpátky do Letňan, zapomněl vzít baterii, vzal tašku s krabičkami plnými jídla a vyrazil za Veru, která seděla v ČD lounge a pila čaj. Bylo vidět, že teta Irma jí působí fyzický diskomfort. Mně ho působila kocovina. Já si za to ale mohl sám.<br>
+Stavili jsme se v Albertu a pak vlak dobíhali. Ve Veselí jsme kvůli chladu šli čekat do čekárny. Až někdy v autobuse z Hradce jsem si uvědomil, že jsem tam musel nechat tašku s krabičkami s jídlem. Nebo jsme jí nechali v Regio Pantheru do Hradce. Nebo v čekárně na nádraží v Hradci. Nebo na rozkopaným autobusáku. Těžko říct. Každopádně jídlo bylo v čudu.<br>
+Aspoň jsme ale pokecali s řidičem z Tišnova, který v Plavsku bydlí už třicet let, ale hantecem mluvit nepřestal. Jel přes Lásenici, kvůli opravě mostů na Jemčině a za Stráží, takže jsme se Hradce dostali i po deváté večerní, což za mých mladých let rozhodně nebylo možný.<br>
 
 <a href="../images/2026_october/09_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/09_1.jpg"></a>
 
+Táta na nás počkal a dokonce nám upekl štrůdl. Chvilku jsme si povídali, ale hodina byla pokročilá a bylo na čase zapadnout do postele.<br>
 
-### 10.10.
+### 10.10. Snad poprvé jsem nevolil
 
 mlýn<br>
 
@@ -160,7 +166,7 @@ mlýn<br>
 <a href="../images/2026_october/10_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/10_2.jpg"></a>
 
 
-### 11.10.
+### 11.10. Co nejlevnější dovolenou
 
 Na snídani zbylo trochu zeleninového salátu. Táta si ho zabral. Taky se ale pustil do příprav druhého štrúdlu. Já jsem se válečku a aválel těsto. Verunka připravila chleba se sýrem a dala ho zapéct do trouby o patro výš než štrůdly. Myslí ekonomicky žena moje.<br>
 Venku bylo stále pošmurno a měli jsme stažený film. Po tom co jsem tátovi pomohl nainstalovat movie maker jsme se pustili do promítání. Tentokrát už i Veru nadávala na to, kolik toho z knihy vyškrtali.<br>
@@ -213,11 +219,15 @@ Po návratu domů jsem ale objevil, že tak radostný to nebylo. Opět se odmít
 <a href="../images/2026_october/14_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/14_3.jpg"></a>
 
 
-### 15.10.
+### 15.10. Sklem ušetříš i proděláš
 
+Protože krabičky, které jsme vezli na jih, na jihu zůstali, rozhodl jsem se dojít do Ikei pro nové. Po práci jsem sedl na Béčko a dojel na Čerňák. Když jsem vystupoval z Metra, byly na obloze zrovna krásné červánky. <br>
 
 <a href="../images/2026_october/15_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/15_1.jpg"></a>
 
+Zavolal jsem to Verunce. Seděla zrovna s Terkou na víně. Vyřídil jsem pozdrav a vyrazil do Skandinávského velkoobchodu.<br>
+Krabičky jsem pořídil 4. Víček 8. Naposledy víčka neměli. V oddělení Second Life měli obrovskou 8-litrovou sklenici nadchlamně. Na kombuchu byla byla super a byla slevená asi ze čtyř stovek na 225. Nacpal jsem jí do velké modré IKEA-ové tašky, kterou jsem si pořídil na samobslužné kase. Ve skandinávském šopu koupil vegekoule a na cestu si dal čaj s mlékem a vege hotdog. <br>
+Doma jsem sloupal všechny etikety a nacpal jsem to do myčky. Osmilitrová sklenice praskla. Na účtence se jmenovala administrativní artikl. Pochyboval jsem, že to půjde jakkoliv reklamovat. A byl jsem z toho nasranej a smutnej. <br>
 
 ### 16.10. Špatný den pro techniku
 
@@ -254,10 +264,10 @@ Nemoc už mě iritovala. Mít ucpaný dutiny, který neprodukovaly rýmu, která
 Veru šla na workshop do Skauťáku a potom na pivo se studenty ze startu. Vypadalo to, že obojí jí přináší radost. Měl jsem z toho radost. Už dlouho nedělala nic kromě práce.<br>
 Zato já narážel na to, že se mi do ničeho nechce a že z ničeho nemám radost. Až nějaký video na You Tube mi řeklo , že ráno odkládám budík a chybí mi disciplína. Myslím, že YouTube za to dost mohl. Na rozdil od ostatních socek působí jako zdroj hodnotných informací. Jenže je to to samý v jiných barvách.<br>
 Bylo na čase ho zablokovat. Ne v mobilu. V hlavě. A napsat si TODO list. A odškrtávat. Udělat si odměnu za splnění činností. Mít z toho škrtnutí radost.<br>
-~Deník~<br>
+~~Deník~~<br>
 Ostříhat se<br>
-~Zalít květiny~<br>
-~Převléct postel~<br>
+~~Zalít květiny~~<br>
+~~Převléct postel~~<br>
 a tak jsem se pustil do psaní.<br>
 
 ### 19.10. T14s
