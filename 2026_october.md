@@ -380,15 +380,28 @@ Má to tak každej? Pamatujou si lidi prd? Je to pro hlavu lepší?<br>
 
 Vstávali jsme někdy před šestou. Moc se mi do toho nechtělo, ale autobus, kterým bychom to stíhali v pohodě jel v 6:20. K snídani toho moc nebylo. Veru pustila stroj na Smoothie, čímž mě trochu naštvala, protože dělal hluk na několik pater a ještě byl noční klid. Ale zastavit nešel a tak co naděláš. Škoda, že to smoothie mi intenzivně nechutnalo. Veru vypila obě.<br>
 136 nám ujela. Veru by jí doběhla, ale mě píchlo v boku a řekl jsem si, že máme náskok a můžeme jet 201 a dalším metrem. Myslím, že zničit se ještě před odjezdem není dobrý.<br>
-Byl svátek. Mapy tvrdili, že Billa na letišti bude zavřená. Moc jsem tomu nevěřil, ale nesnídal jsem. A tak jsme se zastavili na Veleslavíně v pekárně pro croissant s Caprese a nacpali ho do sebe v Trolejbusu na letisko.<br>
+Byl svátek. Mapy tvrdily, že Billa na letišti bude zavřená. Moc jsem tomu nevěřil, ale nesnídal jsem. A tak jsme se zastavili na Veleslavíně v pekárně pro croissant s Caprese a nacpali ho do sebe v Trolejbusu na letisko.<br>
 Billa normálně jela. Měli jsme čas a tak jsme pořídili ještě nějaký pečivo, žvýkačky a banány. I s nákupem jsme sekuritkou prošli v předstihu a mohli jsme si v čekárně sedout a dát si něco dobrýho. Protože jsem si vzal plecháček, mohl jsem si z Lavazza stroje dát kafe za poloviční cenu než třeba v Costě.<br>
+
+<a href="../images/2026_october/28_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/28_1.jpg"></a>
+
 Do Ryanu jsme jeli autobusy. Přijeli tři, ale lidi se nacpali jen do toho prvního. Druhej jsme tak měl chvíli pro sebe. Ale přišlo další lidé a nakonec byly autobusy plný. Paní nám tam poradila, že ve středu od jedný je Jeřáb v Gdaňsku zadarmo. Dobrej tip. Pilot vzlétal i přistával krásně plynule. Vedle mě seděl mladý pár a já se na hodinu a půl ztratil v knížce Turnus. Donald už začínal chápat, jak operace 50 funguje.<br>
 Gdaňský letiště je super. Je maličký, ale letadla přirolují přímo k budově, tak je čistá a dobře organizovaná a paralelně k ní vede kolej vlaku do centra. Dokonce k ní člověka dovede červený pruh na podlaze. 10/10. Se strojem na lístky Veru trohu bojovala, protože na nákup jsme měli asi jen 3 minuty, ale společně jsme to zvládli a dokonce jsme poradili dalším.<br>
 Vlak byl moderní a příjemný. Nástupiště taky nová. Poláci do dopravy šlápli prvotřídně. Courák, na který jsme přestupovali ve Wreszczi byl teda letitý, ale jel na čas a na Gdańsk Glowny nás dovezl za pár minut.<br>
 A tak začal výlet! Pěšky k řece skrz staré město. Barevný domky, jantarová ulice, přípravy na Haloween všude. Cihlový kostely, vodní kanály a tržnice přestavená na kavárno-restaurační centrum. Byli jsme nadšený. V žabce jsme si do plecháčku koupili americano a došli k vodě.<br>
+
+<a href="../images/2026_october/28_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/28_2.jpg"></a>
+
 Takový malá Kodaň. Pod mrakem, ale bez deště. Na check in brzy, ale stejně jsme prošli kolem místa, kde jsme měli bydlet. U Hiltonu, kousek od Jeřábu.<br>
 Byl čas oběda. Veru našla restauraci předem. Mana 68. Veganský podnik. Fancy ceny. Ale byli jsme na dovolený. I tak jsem remcal. Převážně proto, že jídlo, který jsem vybral já mi zas tak moc nechutnalo. Kopýtka s omáčkou s pistácií s kousky lyofilizovných malin. Znělo to dobře, ale bylo takový obyč. Veru Stroganov na bramboráku byl mrtě lepší.<br>
-Najedení jsme opět došli k našemu úbytku. Tentokrát jsme vyšli nahoru. Bylo to tam moc hezký. Pokoj maličkej, ale měli jsme dvě koupelny a malou kuchyňku. Zabydleli jsme se, já si dal horkou sprchu, protože jsem měl po letadle ucpanej nos a pak jsme opět vyrazili do města. Na střechu ESC. Evropského Centra Soliaarnoszci. V přístavu, který přestavovali na moderní město. Byl tam les uprostřed domu a výtah do šestého patra nás vyvezl na výhled na noční město, protože v Gdaňsku se stmívalo už asi ve čtyři. <br>
+Najedení jsme opět došli k jeřábu. Tentokrát jsme si ho prošli, protože bylo otevřeno. A zadarmo jak paní říkala. Bylo to dobrý muzeum. Interaktivní a hlavně jsme šli přímo do mechanismů jeřábu.<br>
+
+<a href="../images/2026_october/28_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/28_3.jpg"></a>
+
+Poté jsme došli na úbytko. Bylo to tam moc hezký. Pokoj maličkej, ale měli jsme dvě koupelny a malou kuchyňku. Zabydleli jsme se, já si dal horkou sprchu, protože jsem měl po letadle ucpanej nos a pak jsme opět vyrazili do města. Na střechu ESC. Evropského Centra Soliaarnoszci. V přístavu, který přestavovali na moderní město. Byl tam les uprostřed domu a výtah do šestého patra nás vyvezl na výhled na noční město, protože v Gdaňsku se stmívalo už asi ve čtyři. <br>
+
+<a href="../images/2026_october/28_4.jpg" target="_blank"><img src="../images/thumbnails/2026_october/28_4.jpg"></a>
+
 Nabyli jsme tam dojmů, že v příští den se musíme vrátit a prohlédnout si výstavu o pádu Komunismu. V pět ale ESC zavíralo a my tak pěšky vyrazili na další zastávku. Do fitka. Multisportka totiž do některých míst platí i za hranicemi naší země. Fitko v centrum města mělo mít saunu. A sauna to je relax.  A relax na dovolený chceš.<br>
 Vyšlo to tak na půl. Museli jsme koupit zámky. A sauna nebyly společné. Chluci měli malý kamerlík. V šatnách a holky taky. Dali jsme si tak obaj jedno kolečko a pak jsme se běhli v obhodním centru do podzemí a v Nettu si pořídili chleba, něco na ně, zeleninu a hlavně pirogy.<br>
 Ty jsme si doma ohřáli v hrnci a povečeřeli je. Pětkrát levnější než oběd a táák dobrý. Špenát/Sýr a Tofu. Ve zvytku večer už jsme jen odpočívali a četli knížky.<br>
@@ -398,41 +411,72 @@ Start dobrej.<br>
 
 Bylo jasný, že chceme do ECS. Co ale ve zbytku dne? Během prohlídky jeřábu mě zaujala mítná pevnost, stará stovky let na ústí řeky Wisly do moře. Podle map tam stále byla. V létě k ní jezdila vodní tramvaj, ale mimo sezónu se k ní muselo autobusem, který měl jet skoro hodinu a půl. Pěšky, to bylo hodinu a tři čtvrtě. Jenže skrz průmyslový areál přístavu.Jako nejlepší volba se jevilo kolo. Přímo před domem jsme měli stanici. Elektrokol MEVO. A kdo bych to byl, kdybych nevyskoušel místní bike sharing? <br>
 Nainstaloval jsem aplikaci, posnídali jsme tousty, oblíkli se a vyrazili ven. Půjčit kolo šlo jendnoduše. Kolo singulár. Druhý aplikace půjčit nedovolovala. Museli jsme aplikaci pořídit i Verunce. Ale šlo to a vyrazili jsme. Kola to byly čínský. Segway. Ale nebyly vůbec zlý. Měli torzní sensor a automatické řezení. Po tom, co jsme se vymotali z kočičí hlav, jsme na to šlápli a jeli jak rakety.<br>
+
+<a href="../images/2026_october/29_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/29_1.jpg"></a>
+
 Zavřený most vysvětlil, proč autobus jel úplně debilně. Pro kola. Tam neštěstí byl korydor a tak nás to nezastavilo. Cyklsteskou mezi kolejemi a dálnicí jsme vyrazili do průmyslvého přístavu a kolem nekonečného parkoviště čínských elektroaut, škváry, písku a uhlí po půl hodině dorazili ke stanici přímo před bastiony pevnosti Wjelsczie.<br>
 Za pár let to bude turistická atrakce. V současné době tam ale stavěli dům, ve kterém pravděpodobně budou mít restauraci a pžeropriety na výstavy do pevnosti ještě nestihli vyrobit. Dokonce i kasa byla zavřená a musli jsme použít automat biletowy, který nám sicel vydal lístky, ale v okamžiku je zase spolknul. Zřejmě se to ale stávalo často, protože přiběhnul pán, otevřel stroj a lístky osvobodil.<br>
 Byl jsem nadšenej. Veru taky. Mohli jsme kam jsme chtěli, viděli děla, lodě, kasárna, vež a z věže výhled až na Westerplatte, místo, odkud Němci začalo ostřelovat Gdaňsk v prvním dni Druhé světové.<br>
+
+<a href="../images/2026_october/29_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/29_2.jpg"></a>
+
 Vstupenka nám pokrývala i výstavu v přilehlém domě, kterou jsme probělhi zryhcleně. Čekalo nás ECS a šel na nás hlad. Přímo před budovou ECS ve Stocznie, měl být stánek s výbornými Zapienkami a tak jsme opět osedlali naše motorové oře a vyrazili do centra. Tentokrát trochu větším obloukem, kolem historického centra.<br>
 Trochu jsem Verunce stížil vracení kola, protože jsem zabral poslední volný spot pro elektrokolo. Naštěstí byla další stanice jen na druhé straně budovy. Zapiekanky stály 22 zlotých. Docela střela. Ale byl to sytý fastfood. Pecziarky, ser a ketchup a česneková omáčka. Dali jsme si ještě místní fantu aby to nylo nezdravý echt.<br>
+
+<a href="../images/2026_october/29_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/29_3.jpg"></a>
+
 Výstava popisující stávku v Leninových přístavech a následný vzestup odborů a postupný pád strany, byla intenzivní. Technicky skvěle provedená. Audioprůvodce věděl, kde člověk stojí a doprovázel tak částečně interaktivní výstavu. Vybrali jsme to delší verzi a byl to informační overload. Ale skvělej. Budu to doporučovat, kudy budu chodit.<br>
 Byli jsme tam vlastně opět až do zavíračky.<br>
 Abychom dali mozkům odpočinout, došli jsme domů a dali si pirogy. Grziby/zelí a sójové maso. Taky špička.<br>
 Ale ne vrchol večera. Tím měla být návštěva místní pivnice / jazz baru, kde měla hrát živá kapela. Piv tam měli radnál a já trochu neprespektivně vybral pšenku. Nevšiml jsem si, že měla být Fruity. To znamenalo, že chutnala jako Tutti Frutti. Verunčin kyseláč byl lepší. A fermentovaný. Fermbonu to neprospělo.<br>
+
+<a href="../images/2026_october/29_4.jpg" target="_blank"><img src="../images/thumbnails/2026_october/29_4.jpg"></a>
+
 Členové kapely byli velmi dobří hudebníci. Jednotlivě. Dohromady to byl mišmaš. Hlavně kvůli bubeníkovi. Nevěděl, že ticho je taky hudba. Co už. Překvapilo mě ale, kolik GenZ na ně přišlo. Jazz není mrtvej a maldí chodí do hospod. V Polsku aspoň.<br>
 
 ### 30.10. Skoro až moc velkej hrad
 
 Byť toho Gdaňsk nabízel randál. Jeho okolí ještě víc. Asi hodinu cesty na jih se nacházel největší cihlový hrad ve městě Malbork. Z Glówny tam jel buď rychlík nebo courák. Vzali jsme dva pedalbiky a vrazili na nádraží. Kola nám dala čas navíc a my se tak posadili do podniku CoffeTOGO a dali si kávu TOSIT. Koupit jízdenku na vlak Polregio přes internet se ale ukázalo složitý a tak jsme dvě kafata slili do plecháčku a v kase od paní koupili lísty o 3 zlotý levnější než na rychlík. Kdybychom chvátali, úspora vy to asi byla zbytečná, ale za okny byl pěkný pozdim a my měli knížky.<br>
+
+<a href="../images/2026_october/30_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/30_1.jpg"></a>
+
 V Malborku byl nejen hrad. Ale i obří továrna, která čoudila do okolí. Takovej známej sladkej smrad. Trochu jako řepa.. cukrovar to byl. A kolem něj paneláky. A mezi paneláky historická červená stavení. Malou obchodní třídou jsme došli do infocentra a pořídili si vstupenky na trasu normalno. Měli tam úplně stejné audioprůvodce jako v ECS, akorát i s češtinou.<br>
 Hrad to byl grandiózní. Průvodce chytlavý a na to že hrady a zámky ve mně vzbuzují úzkost, jsem si to docela užil. Možná kromě výstavy jantaru, ta mě zmohla a já si tak na nádvoří musel dát pauzu. Naproti mě si tam nějací češi dávali salám na rohlíky. Kluk v klobouku prohlási.. "To je ten týpek z letadla!" A vskutku, byli to mí sousedé z Ryan Airu. Chvilku jsme si povídali, ale Verunka se vrátila z výstavy zbraní, řekla, že mě to bude bavit, protože jsou tam zbraně z KCDčka a pomalu se vydala dál s tím, že já to proběhnu a dojdu jí.<br>
-Jako KCDčko působil vyšší hrad ještě víc. Bylo to opatství pro mnichy uspořádaný stejně jako Sázava. Nadchly nás záchody, kuchyně, místa kde se spalo, psalo, vechno jsme ze hry znali.<br>
+Jako KCDčko působil vyšší hrad ještě víc. Bylo to opatství pro mnichy uspořádaný stejně jako Sázava. Nadchly nás záchody, kuchyně, místa kde se spalo, psalo, všechno jsme ze hry znali.<br>
+
+<a href="../images/2026_october/30_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/30_2.jpg"></a>
+
 Když výstava skončila, pokecali jsme telefonem s Hynkem a pak prošli městem zpět na dworek kolejovy. Veru koupila lístky, na peronu jsme chodili sem a tam abychom spálili cukr z paczniků s jagodami a wisznemi a těžko říct jak se to stalo, vlak nám ujel. Teda lehko říct. Byli jsme na blbým peronu.<br>
 Dostala se nám tak další půlhodina v Malborku a tu Verunka strávila telefonátem mamce a já dočel jsem Turnus a rozečetl poslení díl s názvem Prach.<br>
 Zpět jsme nejeli na Glówny, ale do Wszeczny, kde jsme přestupovali při příjezdu. Veru našla další obědárnu. Avokádo. Na to, že jsem na veganský podniky házel špínu, vybral jsem Mexican Bowl tak dobrej, že i Veru z toho tekla slina. A to byl její Burger fakt dobrej.<br>
+
+<a href="../images/2026_october/30_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/30_3.jpg"></a>
+
 Škoda, že slunko opět zapadlo brzy. Výlet na kolech, kolem 890 metrů dlouhého paneláku, skrz park Ronalda Regana a podél Baltu by byl pohlednější. I tak mě ale "Vlna" bavila a v parku jsem se stejně soustředil víc na to, že jsem do podpory MEVO diktova, že mi kolo přestalo pomáhat a zkáslo mě za parkování mimo stanici.<br>
 Moře jsme aspoň slyšeli. A viděli světla trajektů a hvězd na obloze.<br>
-A pak šli do hotelových lázní. Protože Multisportka bez doplatku a pořádný sauny! Veru hodně dobře vymyslela. 3 plný kola ve finských saunách. A dokonce bazén. Jednou mě tam teda zprcal nějaký pán s tělem dia, ne v dobrým, že ručík v sauně nemá co dělat. Ale rozhodl jsem se s ním nezaředávat do diskuse a přešel jsem do sauny v dveře vedle.<br>
+A pak šli do hotelových lázní. Protože Multisportka bez doplatku a pořádný sauny! Veru hodně dobře vymyslela. 3 plný kola ve finských saunách. A dokonce bazén. Jednou mě tam teda zprcal nějaký pán s tělem boha Dia, ne v dobrým, že ručík v sauně nemá co dělat. Ale rozhodl jsem se s ním nezaředávat do diskuse a přešel jsem do sauny v dveře vedle.<br>
 Zrelaxovaní, vyrazili jmse na tramvaj. Teda do Lidlu, protože na tramvaj bychom čekali dlouho a měli jsme hlad a hlavně žízeň. V lidlu jsme koupili Pirgy. Jak jinak a dvě nepiva. Černý a ovocný. Černý byl absolutní přešlap. I když jsem měl žízeň, do krku to prostě ne a ne téct. Snažil jsem se celou cestu tramvají, kde sice pít bylo zakázáno, ale kdyby přišli strážci zákona, nevyhodili by mě, ale dva kluky co nahlas repovali, přitahovali se na madlech a dělali bordel. Bylo to docela vtipný, ale chápu, že to paní blízko nich sralo.<br>
 Pierogi byly na snídani. My si vyčistili zuby a šli spát. Ráno jsme museli brzy vstávat. Čekal nás přejezd do Poznaně.<br>
 
 ### 31.10. Lounge je to nejlepší v Poznaňi
 
-Než jsem se vyhrabal z postele, Veru si umyla hlavu, udělala zeleninový salát a uvařila Pierogy. Jagodové. Takže s borůvkami. Bylo toho dost a já cítil, že mám nějak ucpaný dutiny. Samahán mi bodnul.<br>
+Než jsem se vyhrabal z postele, Veru si umyla hlavu, udělala zeleninový salát a uvařila Pierogy. Jagodove. Takže s borůvkami. Bylo toho dost a já cítil, že mám nějak ucpaný dutiny. Samahán mi bodnul.<br>
+
+<a href="../images/2026_october/31_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/31_1.jpg"></a>
+
 Zabalili jsme, poklidili, rozloučili se s bytem a vyrazili na Glówny. Pěšky. Už jsme věděli kudy kam.<br>
 Až na nádraží jsme objevili, že Baltic Express, na který jsme měli koupené lístky jede do Praga Glówny, teda na Praha Hlavní nádraží. Veru našla, kolik by chtěli za jízdu až dom a na hlavu to bylo něco lehce přes 2 tisíce. Zkurvený letecký tarify. Nás to naštěstí stálo asi tři kila. Do Poznani. První třídou. Což v Polském vagonu znamenalo 10 cm navíc a nefunkční zásuvku. Ale seděli jsme a vlak jel pěkně. Šel jsem se podívat dál do vozu a zjistil, že kromě naší první třídy, se jednalo o normální český rychlík, stejný jako Silva Nortica. Český nápisy, český pivo, českej chlap rozvážející snacky. Kafe nám nedal, prý až za hranicemi.<br>
 Četli jsme knihy, koukali na podzim za okny a po třech hodinách přesně nás vlak dovezl do Poznaně. Vyšlo to tak, že kdybychom trochu popběhli, stihli bychom hlavní atrakci Stareho Rynku. Orloj s trkajícími se kozly.<br>
 Popoběhli jsme tedy a .. asi jsme zhýčkaní Pražským orlojem. Tohle by sešroubovali kluci z učňáku. Fasáda kostela nabíc byla v rekonstrukci a tak kozli vyjeli z lešení přetaženého netkankou.<br>
-Tak jak nás nenadchl orloj, tak nás nenadchla celá Poznaň. Možná park Frederyka Chopina a cirkusová čísla na tramvajích byly ok, ale jinak jsme oba dospěli k názoru, že je v Poznani poznali co se dalo a je na čase vyjet na letisko.<br>
-Což bylo to nejlepší, co jsme mohli udělat. Mě začínalo bolet břicho a na letisku, kde bylo pět a půl člověka jsme se dostali ke gatu asi tak za 12 minut. A to v Duty Free Veru vynírala 5 minut ponožky. S Pierogy samozřejmě.<br>
+Tak jak nás nenadchl orloj, tak nás nenadchla celá Poznaň. Možná park Frederyka Chopina a cirkusová čísla na tramvajích byly ok, ale jinak jsme oba dospěli k názoru, že je v Poznani poznali co se dalo.<br>
+
+<a href="../images/2026_october/31_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/31_2.jpg"></a>
+
+Zavolali jsme aspoň od řeky Warty Babičce. Dozvěděli se spoustu nesourodých informací o AI, bibli, Polsku a kdo ví čem ještě.<br>
+
+<a href="../images/2026_october/31_3.jpg" target="_blank"><img src="../images/thumbnails/2026_october/31_3.jpg"></a>
+
+A pak jsme sedli na MHD na letiště. Což bylo to nejlepší, co jsme mohli udělat. Mě začínalo bolet břicho a na letisku, kde bylo pět a půl člověka jsme se dostali ke gatu asi tak za 12 minut. A to v Duty Free Veru vynírala 5 minut ponožky. S Pierogy samozřejmě.<br>
 Lounge Key nás pustila do salónku tři hodiny před odletem. Měli toho tam randál. Fakt jsem litoval, že moje zažívání se rozhodlo stagnovat, či spíš bojovat proti mně. Veru si ale dala dobroty. A vlastně i já měl pár obložených houstiček, brokolicový krém čaj a džus. Ale dobroty typu Baileys jsem vynechal.<br>
 Boarding byl utrpení. Bříško mi bublalo a píchalo. Personál nějak strašně zdržoval a i když byli všichni zkontrolovaní, nachali nás v prosklené hale čekat bůh ví na co. Letadlo tam postávalo.<br>
 Byl to asi můj nekratší let. 20 minut nahoru, dvacet dolů. Přečetl jsem si 3 kapitoly. Kolem osmý jsme byli na Ruzyni. Vyprázdnil jsem co ve mně zbylo a vydali jsme se na MHD. Trolejbus, metro, metro, autobus. Kdyby mi bylo líp, počkal bych na trolejbus, aby to bylo symetrický, ale měl jsem dost.<br>

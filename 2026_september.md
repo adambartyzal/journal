@@ -313,8 +313,8 @@ Z domu jsme šli rovnou na vlak. Esko jelo víceméně hned. Dovezlo nás na Raj
 
 Zasnoubení to spustilo. Na Verunku tajemně vyskočila akce na zlatnictví Elody na Ořechovce. Slíbili jí náušnice zdarma, když přijdeme na konzultaci ohledně snubních prstýnků.<br>
 Jejich stránky působily trochu jako stránky Nigerijského prince, ale Břevnov je Břevnov. Úplnej scam to být nemohl. Domluvili jsme se na čtvrt na sedm tam.<br>
-Kolo bylo v práci. Rána jsem začal půst a vyjel s Verunkou trolejbusem. Z Proseka jsem šel pěšky. Potkal jsem plakát o ztracené kočičce a Spojil jsem si to s plakátem o nalezené kočičce z předchozího dne. Napsal jsem to Veru, ta na číslo zavolala a pozdeji jsme se dozvěděli, že nalezená kočička byla kočička, která je venkovní a vůbec nebyla ztracena!<br>
-Zato já byl. V objednávání desek z JLCPCB. Kolik konvertorů a kolik ebuxů. A který. Chtěl jsem ještě spojit stuby CTE Antény se zemí? Nakonec jsem vzal jen dva. Jeden se sankon a jeden se samkou, Ina a sanikeu v guts ceste!<br>
+Kolo bylo v práci. Rána jsem začal půst a vyjel s Verunkou trolejbusem. Z Proseka jsem šel pěšky. Potkal jsem plakát o ztracené kočičce a spojil jsem si to s plakátem o nalezené kočičce z předchozího dne. Napsal jsem to Veru, ta na číslo zavolala a později jsme se dozvěděli, že nalezená kočička byla kočička, která je venkovní a vůbec nebyla ztracená.<br>
+Zato já byl. V objednávání desek z JLCPCB. Kolik konvertorů a kolik ebuxů. A který. Chtěl jsem ještě spojit stuby LTE Antény se zemí. Nakonec jsem vzal jen dva. Jeden se SAWkou a jeden se SAWkou, LNAčkem a SAWkou v GNSS cestě.<br>
 
 <a href="../images/2026_september/22_1.jpg" target="_blank"><img src="../images/thumbnails/2026_september/22_1.jpg"></a>
 
