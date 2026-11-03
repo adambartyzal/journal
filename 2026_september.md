@@ -31,7 +31,7 @@
 - [26.9. Do Ikey](#269-do-ikey)
 - [27.9. Slavnosti na Proseku](#279-slavnosti-na-proseku)
 - [28.9. Doma](#289-doma)
-- [29.9.](#299)
+- [29.9. Nekonečné řezání](#299-nekonečné-řezání)
 - [30.9. Metro a rizoto](#309-metro-a-rizoto)
 
 
@@ -398,30 +398,18 @@ Verunka na mě nějak doléhala, že jí chybí doléhání. Ale byl jsem v tom 
 Z ICubu napsali, že debug prošel dobře. Domluvili jsme, že L1 TA rozjedeme v druhé polovině týdnu.<br>
 Večer jsme koukali na Death Note. Veru na tom začínala být závislá. Ke sledování nám připravila pečné bulky s kari a jako dezert toffifee. Za celou dobu toho co jsem měl na ruce CGM, tohle jídlo můj krevní cukr vystřelilo nejvýš. A pochybuju, že za to mohla ta čokoláda. Spíš ta mouka v pečivu. Ani dřepy, ani kliky ne a ne srazit cukr z 8 mmol/ml. <br>
 
-### 29.9.
+### 29.9. Nekonečné řezání
 
+Po práci jsem se pustil do řezání metra laserem. Protože je to nevyzkoušený stroj, musel jsem ho hodně kontrolovat.<br>
 
 ### 30.9. Metro a rizoto
 
-Pozváni do vršovic<br>
-Za verunkou tramvají do školy<br>
-kolegyně<br>
-na autobus<br>
-cápek s vodkou<br>
-vršovice<br>
-pes jméno blbý patro<br>
-metro ze dřeva <br>
-knížky<br>
-o práci v agentuře<br>
-rizoto<br>
-metro<br>
-2x<br>
-nakonec kolem starýho domu na vlak<br>
-z hlaváku metrem<br>
-
-<!-- 
-
+Na dnešek jsme byli pozváni do Vršovic. K Martě a Tomovi. Na večeři a deskovky.<br>
+Po práci jsem vyrazil za Verunkou vyzvednout jí z práce. Tramvají na Želivského je to docela štreka. Z Želivského do Vršovic je to autobusem asi 7 minut a naprosto chápu Verunky nostalgii po Ukrajinské ulici kam přesně ten autobus jezdí.<br>
+Ne, že by to byla fantastická jízda. Jel s námi cápek, který měl krabici plnou vodky a rozprávěl s každém autobuse. Ale vlastně to bylo vtipný. A smutný zároveň.<br>
+V ďolíku na mě ta nostalgie přišla taky.<br>
+Po zazvonění u Marťi nás přišla vyzvednout fenka jejíž jméno se mi do paměti odmítá uložit. Dovedla nás do blbého patra. <br>
+Povídali jsme si o Tomově práci. Jak funguje jeho agenturní najímání, jestli tam bude pokračovat a jestli mu to za to stojí. Protože Marťa popsala jeho plat jako velmi dobrý a Marťa je člověk, kterou v AI cení stovkami tisíc, myslím si, že to se tam neměl vůbec špatně. A jeho náplň práce mi nepřišla zase tak složitá. Co už, někdo se má.<br>
+Pomáhal jsem s rizotem, který vyšlo fakt dobře a pak jsme se pustili do hraní metra. Zvládli jsme dvě hry. Tom vyhrál poprvé a Marťa podruhé. Nebo Veru? Nejsem si jistej. Marťa měla ale radost, že Toma porazila.<br>
+Nakonec jsme vyrazili kolem starýho domu na vlak. Chybělo mi to tam? Asi jo. Ale člověk jde dál. Vlakem, metrem a pak ještě autobusem<br>
 [>> Říjen](2026_october.md)<br>
-
--->
-

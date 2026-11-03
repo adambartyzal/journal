@@ -3,7 +3,9 @@
 ## [Listopad](2026.md) 
 
 
-- [1.11. Všichni svatí stojí při Tomášovi a Terce](#111-všichni-svatí-stojí-při-tomášovi-a-terce)
+- [1.11. Mimo festival](#111-mimo-festival)
+- [2.11. Po kousíčcích](#211-po-kousíčcích)
+- [3.11.](#311)
 
 
 ### 1.11. Mimo festival
@@ -16,4 +18,16 @@ Rychlík Vysočina je zralej na výměnu. Už třeba 10 let.<br>
 Ale do Žďáru nás dovezl. Ke Kaufladnu, kde jsem na potom koupil 4 bůrky se špenátem.<br>
 Cesta do Zahradiště byla převážně z kopce. I tak ale Veru dávala zabrat. Něco na ní lezlo. Snažil jsem se jet pomalu, ale stejně mi nestačila a do areálu jsme dorazili s půl hodinovým zpožděním. Telefonicky jsme ho ale avizovali a pánovi to spíš vyhovovalo. Měli tam až do poledne 120 skautů a vzpamatovávali se z toho.<br>
 Na to jak byl v telefonu občas zmatenej mi osobně přišel moc milej. Ukázal nám tam všechno, odpovídal na otázky nad čajem a doporučil nám nějaký veganský catering, za který by prý dal ruku do ohně. Veru vstřebávala informace a atmosféru a <br>
+
+### 2.11. Po kousíčcích 
+
+Možná, že ty prázdniny byly příliš krátký. A nebo naopak moc dlouhý, protože během dvou dnů se toho nastřádalo hodně. Ono to není úplně pravda. Hodně už toho bylo nastřádaného před prázdninami. Vypadalo to, že práce má na několik let dopředu. Jen by měla být hotová do konce roku. <br>
+Z dopravy na kole jsem ale měl radost. Podzimní jízdy člověka utuží.<br>
+Meetingovali jsme o TQM, ale jinak jsem se věnoval stavbě HLP testeru. Den utekl jako voda.<br>
+Verunce nebylo nejlíp. Z práce jela rovnou do postele. Já ji na cestě domů koupil mandarinky, banány, chléb a doma jsem ji uvařil česnečku. Taky jsem dal prát prádlo. A odměnil jsem se dokoukáním posledních čtyř dílů Avatar Seven Heavens. Bylo to lepší a lepší.<br>
+Suchomelům se narodila dcera Thea. Naplánovala si to na přesně rok po svatbě. Měl jsem z nich radost.<br>
+
+### 3.11. 
+
+Veru udělala dobře a zůstala doma. <br>
 [>> Prosinec](2025_december.md)<br>

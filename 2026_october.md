@@ -16,7 +16,7 @@
 - [11.10. Co nejlevnější dovolenou](#1110-co-nejlevnější-dovolenou)
 - [12.10. Film zdarma ≠ film dobrý](#1210-film-zdarma--film-dobrý)
 - [13.10. Necítit se jako Bůh](#1310-necítit-se-jako-bůh)
-- [14.10.Svářečkou?](#1410svářečkou)
+- [14.10. Svářečkou?](#1410-svářečkou)
 - [15.10. Sklem ušetříš i proděláš](#1510-sklem-ušetříš-i-proděláš)
 - [16.10. Špatný den pro techniku](#1610-špatný-den-pro-techniku)
 - [17.10. Bolehlav bez rýmy](#1710-bolehlav-bez-rýmy)
@@ -213,7 +213,7 @@ Nemocní byli všichni. Monika měla na slacku lebku, Omar smajlík s teploměre
 Dokázal jsem ale zabalit věci pro cete.com a zařídit dopravu do Saarsbruckenu, otestovat CBN tester pro Safiral a zbytek dne rozcházet firmware pro testy nadcházející.<br>
 Jo a v konverzaci s Veru jsem zpětně objevil, že to byl den, kdy jela ráno do práce se mnou a se svými novými sluchátky. Spotify jí odmítlo pustit Brasil od Eda O'Briena. Veledílo ideální na start dne. A to to Spotify platíme.<br>
 
-### 14.10.Svářečkou?
+### 14.10. Svářečkou?
 
 Většina mých výzkumů o tom proč se laptop neprobouzí vedla k CMOS baterii. Překvapil mě objev toho, že baterie není dobíjecí. Je to lithiový třívoltový článek, který se nakonec musí vyměnit.<br>
 Al mi prozradila, že by v laptopu má být CR 2032 článek stejný jako v airtagu. Náhradní díl i s kabely nešel koupit na alze a poštovný ze speciálních krámů se mi nechtělo platit. Rozhodl jsem se to převařit naší svářečkou.<br>
