@@ -3,13 +3,13 @@
 ## [Říjen](2026.md) 
 
 
-- [1.10.](#110)
+- [1.10. Spousty konvertorů](#110-spousty-konvertorů)
 - [2.10. Irští rebelové se množí](#210-irští-rebelové-se-množí)
 - [3.10. Deja vu!](#310-deja-vu)
 - [4.10. Že by Radostín?](#410-že-by-radostín)
-- [5.10.](#510)
-- [6.10.](#610)
-- [7.10.](#710)
+- [5.10. Diskusí kupředu](#510-diskusí-kupředu)
+- [6.10. Pro obry](#610-pro-obry)
+- [7.10. Naslepo příště](#710-naslepo-příště)
 - [8.10. Pivo s Dream Teamem](#810-pivo-s-dream-teamem)
 - [9.10. Při kocovině zapomnětlivý](#910-při-kocovině-zapomnětlivý)
 - [10.10. Snad poprvé jsem nevolil](#1010-snad-poprvé-jsem-nevolil)
@@ -36,12 +36,13 @@
 - [31.10. Lounge je to nejlepší v Poznaňi](#3110-lounge-je-to-nejlepší-v-poznaňi)
 
 
-### 1.10. 
+### 1.10. Spousty konvertorů
 
 Nějak jsem toho měl dost. Čeho, vlastně ani nevím. Ale během práce jsem cítil nějakou paralýzu. Osazoval jsem konvertory, odpovídal na e-maily a vyplnil žádost o Type Approval. Coz<br>
 
 <a href="../images/2026_october/01_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/01_1.jpg"></a>
 
+TODO dopsat<br>
 
 ### 2.10. Irští rebelové se množí
 
@@ -103,7 +104,7 @@ Autobus do Tišnova bychom v poho zvládli, kdyby jel. Ne, že by jeho nepříje
 <a href="../images/2026_october/04_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/04_2.jpg"></a>
 
 
-### 5.10.
+### 5.10. Diskusí kupředu
 
 Čočka, kterou dodával Verunce Rohlík kvůli veganské studie, nebyla vůbec dobrá. Byla slaná a chutnala trochu jako písek. Veru to nevadilo zdaleka tolik jako mně a uznávám, že vlastně byla zadarmo. Ale naše je o tolik lepší.<br>
 Autobus ujel před nosem nám oběma. Když jsem se konečně dostal do práce, Zjistil jsem, že Vláďa přijel. Měl rýmu a asi měl ještě zůstat doma, protože smrkal a pak i pšíkal.<br>
@@ -111,17 +112,21 @@ Core tiskárny se nějak rozbíjely. Ivan byl pryč a já nad některými z nich
 
 <a href="../images/2026_october/05_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/05_1.jpg"></a>
 
+Verunka měla konečně talk s ředitelkami. Řekla jim, že současný tempo by jí dovedlo k vyhoření a že takhle to nepůjde. Prej měly radost, že jim to takhle na férovku říká dřív, než by to bylo blbý a naplánovaly nějaký kroky ke zlepšení. Měl jsem radost. Možná, že jsem jí nemusel tehdá rozbrečet, ale i Veru mi řekla, že to nebylo ke škodě.<br>
 
-### 6.10.
+### 6.10. Pro obry
 
+Do práce jsme jeli spolu autobusem. Ne, autobusem trolejbusem. Najedou jsme z Proseka nejeli na Vysočanskou, ale na Palmovku. Naštěstí šlo vystoupit o pár set metrů dál, sejít pod estakádou pěšky a užít si výhled na Elišku, protože bylo pěkně.  <br>
 
 <a href="../images/2026_october/06_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/06_1.jpg"></a>
 
+V XL-ku na mě čekalo spousta výtisků na sestavení do Dekahedronu pomocí rybích drážek. Trochu jsem se zarazil, jak je možný, že to nejde sestavit stejně jako ve FreeCADu. Napřed Pentagony a potom do Decahedron. Normála (Aspoň myslím, že je to normála) těch rybin na bocích a na hranách totiž nebyla stejná.<br>
 
 <a href="../images/2026_october/06_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/06_2.jpg"></a>
 
+Omar na to ale kápl. Stačilo sestavit napřed dvojce a pak teprv Y spojení. Výslední polododekahedron byl ale obří. Nějak jsem nezvládnul měřítko. Co už, byl to prototyp číslo 1. <br>
 
-### 7.10.
+### 7.10. Naslepo příště
 
 
 <a href="../images/2026_october/07_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/07_1.jpg"></a>
@@ -129,6 +134,7 @@ Core tiskárny se nějak rozbíjely. Ivan byl pryč a já nad některými z nich
 
 <a href="../images/2026_october/07_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/07_2.jpg"></a>
 
+Naslepo jsme nakonec odpískali. <br>
 
 ### 8.10. Pivo s Dream Teamem
 
