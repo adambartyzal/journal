@@ -42,7 +42,8 @@ Nějak jsem toho měl dost. Čeho, vlastně ani nevím. Ale během práce jsem c
 
 <a href="../images/2026_october/01_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/01_1.jpg"></a>
 
-TODO dopsat<br>
+Veru psal expřítel, myslím že Honza, že by se chtěl sejít na jejich koncertě. Ptala se jestli je to ok. O co mu šlo jsem netušil, ale neviděl jsem v tom problém. Myslím, že rozchod není důvod pálit mosty. Teda, trochu určitě jo, ale sejít se po letech je podle mě ok. A možná prostě chtěl vidět dobrej irskej band. A jestli ne, bydlel v Brně, na nějaký postranní úmysly neměl moc dobrou pozici.<br>
+ex přítel<br>
 
 ### 2.10. Irští rebelové se množí
 
@@ -55,7 +56,7 @@ S Ivanem jsme šli do Šebestiána. Grilovaný hermelín na salátku s toastem a
 
 <a href="../images/2026_october/02_1.jpg" target="_blank"><img src="../images/thumbnails/2026_october/02_1.jpg"></a>
 
-Athan meli večer koncert v kavárně Dejvického divadla. Před ním šla Vera na kafe s expřítelem Honzou. Byl to jeho nápad, přijel odněkud z Brna a chtel se vidět. A chtěl vidět koncert. Ale když jsem přijel, byl už pryč. Možná ho Informace o zásnubách rozhodila.Težko říct. Jeho problém. Koncert to byl fajn.<br>
+Athas měli večer koncert v kavárně Dejvického divadla. Před ním šla Vera na kafe s expřítelem Honzou. Byl to jeho nápad, přijel odněkud z Brna a chtěl se vidět. A chtěl vidět koncert. Ale když jsem přijel, byl už pryč. Možná ho informace o zásnubách rozhodila. Těžko říct. Jeho problém. Koncert to byl fajn.<br>
 Kapelníků bylo jak psů. O dva víc než normálně. Taková trochu sešna. Já byl trochu unavenej a sledoval to všechno od malého stolečku s únětickou únulkou.<br>
 
 <a href="../images/2026_october/02_2.jpg" target="_blank"><img src="../images/thumbnails/2026_october/02_2.jpg"></a>

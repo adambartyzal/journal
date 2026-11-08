@@ -6,10 +6,12 @@
 - [1.11. Mimo festival](#111-mimo-festival)
 - [2.11. Po kousíčcích](#211-po-kousíčcích)
 - [3.11. TQM je časožrout](#311-tqm-je-časožrout)
-- [4.11.](#411)
-- [5.11.](#511)
+- [4.11. Naslepo posunutý](#411-naslepo-posunutý)
+- [5.11. Škoda, že Veru nemohla](#511-škoda-že-veru-nemohla)
 - [6.11. Zanedbané problémy se vracejí](#611-zanedbané-problémy-se-vracejí)
 - [7.11. Týden vědy](#711-týden-vědy)
+- [8.11. Doma](#811-doma)
+- [9.11.](#911)
 
 
 ### 1.11. Mimo festival
@@ -51,29 +53,31 @@ Veru udělala dobře a zůstala doma. Já sedl na kolo a vyjel do práce.<br>
 Je zvláštní, jak mi těch asi 9 hodin uteklo, když jsem řešil TQM a vůbec nevěděl, jestli na to jdu dobře nebo jestli jsem si to představoval, jak Hurvínek válku. Napsal jsem email Kennethovi a doufal, že to padne na úrodnou půdu. <br>
 Na jízdu na kole už mi nějak nezbyla energie. Dal jsem si sluchátka na hlavu, pustil si knížku a šel na autobus. <br>
 
-### 4.11.
+### 4.11. Naslepo posunutý
 
 veru doma<br>
+jet autobusem bylo otravný<br>
+rebeka nám našla, že naselepo není<br>
+Marťa s tomem byly v rímě s mamkou<br>
+jel jsem domů za Veru<br>
 
-### 5.11.
+### 5.11. Škoda, že Veru nemohla
 
-veru doma<br>
+Původně plánovala Veru dva dny nemocenské, ale nakonec zůstala doma ještě jeden den navíc.<br>
+Z Alciena přišel veškerý Hardware. Postupně jsem zkoušel jeden zámek za druhým a všechno fungovalo jak mělo. Na jednu stranu jsem to čekal. Ale proč to nefungovalo mi bylo záhadou. Napsal jsem Fabienne, že nic nerozbili, zvládli to updatovat správně a že budu přemýšlet, co je blbě. Domluvili jsme se, že to všechno dám do kupy a pošlu zpátky. A že to zapneme společně.<br>
+Když jsem vyřešil Alcineo, vrhl jsem se na tester. Měl jsem problém s inkluzí různých hlaviček pro různé procesory. To byl špagety code, jak říká DJ. Poslal jsem na to Antigravity. Vyřešil to za mě a fungovalo to. Doufal jsem, že se mi to nevymstí.<br>
+Odpo už jsem se dokázal s clientem bavit pomocí tester protokolu.<br>
+Odsunuté naslepo jsme s Ondrou tentokrát navštívili. Dokonce jsme tam byli oba v předstihu na sedmou. Dal jsem si místní kyseláč a Ondra limonádu. Kysláč byl supr, měl kvasnicový nádech, takže působil jako pivo. Čtyřka teda stála 85, ale bylo dobrý, takže jsem si dal 2. Pokecali jsme o životě, svatbách, knížkách, čtečkách, technice a najednou zvali do sálu. Vzal jsem ještě jedno kinopivo a společně jsme zasedli do druhý řady. Všude jinde už bylo plno. Příště asi budeme muset brát lístky víc dní dopředu, pokud je to vůbec možný.<br>
+Film se odehrával v Dublinu. Byl o manažerovi, co se rozhodl založit Soulovou kapelu. Kytarista byl Glen Hansard. Byl jsem nadšenej. Veru by byla nadšenější. Škoda, že nemohla.<br>
 
 ### 6.11. Zanedbané problémy se vracejí
 
-veru do práce<br>
-trochu nechuť sednout na kolo<br>
-na estakádě omrzal ksicht<br>
-rozchození bootloaderu<br>
-echo stagnovalo<br>
-nešek nahrát main<br>
-debug sám<br>
-debug s vláďou<br>
-je to časový<br>
-půl šestý<br>
-kolo a zámek<br>
-doma veru pekla štrůdl<br>
-intermezzo v posteli<br>
+Po dvou dnech ležení se Veru chystala do práce. Zapomněla si ale odhlásit nemocenskou a tak v 8:00 vytáčela doktora aby to udělal. Paní na druhé straně linky napřed řekla, že to nejde, ale pak to nějak zvládla. Já jsem nějak nechtěl ven. Nedostatek dopaminu, déčka, nebo fakt, že bylo pod nulou. Vyhnal mě ale zvuk od vedle. Mlátili tam a vrtali. Na chodbě jsem objevil, že vyměňují okna.<br>
+Na estakádě mi omrzl ksicht. Vrstev jsem měl dost, ale obličej byl nechráněný. I tak to ale byla lepší jízda než busem.<br>
+Pokračoval jsem v rozcházení U5ky na testeru. Dokázal jsem nahrát client, po chvíli bojů jsem opět zprovoznil stagnující protokol a dokonce jsem nahrál loader, který v u5ce fungoval. Ale mainu se tam nechtělo. Prostě to vzdal na adrese 0x80008bcc nebo tak něco.<br>
+Řešil jsem to sám, řešil jsem to s AI a pak jsem to řešil s Vláďou. Až někdy po pátý Vláďu napadlo, že je to časový. Že je možná jedno co nahrávám kam. A v tom nám oběma došlo co je blbě. Byl to ten tajmenej restart po vložení baterie.<br>
+Bylo pozdě. Zapsal jsem na to issue a šel se převléct do oblečení, ve kterém bych přežil zimu venku.<br>
+Doma Veru pekla štrúdl. Slanej s tofu, cuketou a cizrnou. Plánovala i sladkej, ale nějak jsme mezi pečením museli vypnout troubu, protože co kdyby se štrúdl spálil, zatímco my se měli vedle fajn.<br>
 
 ### 7.11. Týden vědy
 
@@ -95,11 +99,19 @@ Eva si na chodbě všimla, že obraz zachycující zemětřesení v Mexiku byl d
 
 Během toho povídání jsme si ale uvědomili, že Verunka a Robin jsou někde v trapu. Sehnali si kartičku na orientiák a vydali se po areálu sbírat razítka. Ta hra nebyla zas tak dobrá. Očekával jsem, že na jednotlivých stanovištích získáme odpovědi na otázky na kartičce, ale zřejmě měly motivovat k dotazování vědců.<br>
 To jsme ale dělali. Měli jsme otázky u paní, která vysvětlovala, jak funguje ducha, u pána, co nám ukazoval ohnivé tornádo. Asi deset minut jsem vyzpovídal paní, co nám ukazovala, jak vznikají blesky. Dokonce jsem svými dotazy překvapil paní, která nám vysvětlovala, že pluto má oproti ostatním planetám velmi eliptickou dráhu.<br>
-Čas ale ubíhal a Verunka se od nás musela odpojit. Měla koncert v kavárně Dejvického divadla. Krátký, někdy kolem čtvrté hodiny. Zřímně po nich měly být další kapely. Objeli jsme se. Veru vyrazila na metro a mi do další budovy. Na daleko hledy. Robin tam odevzdal kartičku, dostal tašku plnou blbostí a s tou jsme se odebrali do poslední navštívené budovy v geologickém ústavu.<br>
-Jídelny.<br>
+Čas ale ubíhal a Verunka se od nás musela odpojit. Měla koncert v kavárně Dejvického divadla. Krátký, někdy kolem čtvrté hodiny. Zřejmě po nich měly být další kapely. Objali jsme se, Veru vyrazila na metro a my do další budovy. Na dalekohledy. Robin tam odevzdal kartičku, dostal tašku plnou blbostí a s tou jsme se odebrali do poslední navštívené budovy v geologickém ústavu. Jídelny.<br>
 Moc dobrý jídelny. Dostali jsme hromadu halušek, výborný gyros v tortile a prý dobrý smažák s hranolkama. Za lidové ceny. A prý, když není týden vědy, jsou ceny ještě lidovější. Dokonce v meníčku s polívkou. Petr zvažoval, že tam bude chodit.<br>
 Ze Spořilova na národní se nejlíp jede Cčkem. Vrátili jsme se tedy na Roztyly, tentokrát ne přes most, ale podchodem, popojeli na ípák a potom tramvají k divadlu. Tamější akademie věd nás tentokrát trochu zklamala. I když jsme měli rezervaci, do nafukovacího planetária pustili jenom Robin a i ten se po 20 minutách vynořil ven s tím, že ho to uvnitř nebavilo.<br>
 Co už, naštěstí to bylo zadarmo. <br>
 Poslední zastávka naší výpravy bylo Quadrio, Oh Deer Bakery. Eva se rozhodla dovézt do domu Cronuty. Nebo Kroblihy, jak se tomu po česku říká. Jednou koupila i Verunce. Zabalil jsem ji do batohu, rozloučil se s ostatními sjel dolů do metra. Na Vysočanskou. Béčko bylo absurdně plný. Dvakrát jsem ho nechal ujet, než jsem se po třetí do vagonu nacpal. Do uší jsem si pustil knížku Prach.<br>
 Doma jsem od audio knížky přešel na Remarkable a dočetl posledních pár kapitol. Vlastně jsem tušil, jak to skončí, ale nebylo to o tom konci samotným, nýbrž o tom, jak se k tomu konci autor dostal. 5 z 5 hvězdíček, byla to bomba.<br>
+
+### 8.11. Doma
+
+Na Veru přišly její dny. Ocenila tak Kroblihu od Evy a Nimesil ode mě. Většinu dne jsme nedělali vůbec nic. Kávu od snídaně jsem popíjel ještě ve dvě, na gauči pod dekou.<br>
+Až do večera jsme koukali na Death Note. Jak dobře ten seriál začíná, tak zle končí. Je to složitý, Misa Misa je blbá kráva a další postavy přichází, jen aby rychle odešly.<br>
+Něco málo jsem aspoň dopsal do deníku. Mít sepsaný každý den v roce by bylo fajn, ale dost jich už sešlo z paměti a vlastně to asi nebylo nutný. Nicméně neměl jsem šílený skluz. Asi jsem málo žil.<br>
+
+### 9.11. 
+
 [>> Prosinec](2026_december.md)<br>
