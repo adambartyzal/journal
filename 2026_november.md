@@ -11,7 +11,8 @@
 - [6.11. Zanedbané problémy se vracejí](#611-zanedbané-problémy-se-vracejí)
 - [7.11. Týden vědy](#711-týden-vědy)
 - [8.11. Doma](#811-doma)
-- [9.11.](#911)
+- [9.11. Bez slunka](#911-bez-slunka)
+- [10.11. Dešťem / Blátem](#1011-dešťem--blátem)
 
 
 ### 1.11. Mimo festival
@@ -55,11 +56,10 @@ Na jízdu na kole už mi nějak nezbyla energie. Dal jsem si sluchátka na hlavu
 
 ### 4.11. Naslepo posunutý
 
-veru doma<br>
-jet autobusem bylo otravný<br>
-rebeka nám našla, že naselepo není<br>
-Marťa s tomem byly v rímě s mamkou<br>
-jel jsem domů za Veru<br>
+Verunce pokračovala nemocenská. Zůstala doma a já osaměle vyrazil na autobus.<br>
+Americké volby rezonovaly světem. Demokraté postupně porážely republikány. Jeden stát za druhým. A to jak v senátu, tak ve sněmovně. Začínalo jsem mluvit o impeachmentu a o obrácení proudu moci.<br>
+Byla první středa. Řešili jsme, kdo půjde do kina. Ukázalo se, že Marťa s Tomem jsou v Římě kam vzali jeho mamku. Sedmdesátiletou paní, která toho v životě moc nenacestovala. Rebeka byla po operaci. A Ondra byl ve škole. Ale šel by. Akorát by nestihl před filmem pokecat.<br>
+Málem jsme tam vyrazili, ale Rebeka objevila, že kino je tentokrát posunutý na čtvrtek. Jel jsem domů za Verunkou uvařit jí česnekovou polívku. <br>
 
 ### 5.11. Škoda, že Veru nemohla
 
@@ -67,6 +67,7 @@ Původně plánovala Veru dva dny nemocenské, ale nakonec zůstala doma ještě
 Z Alciena přišel veškerý Hardware. Postupně jsem zkoušel jeden zámek za druhým a všechno fungovalo jak mělo. Na jednu stranu jsem to čekal. Ale proč to nefungovalo mi bylo záhadou. Napsal jsem Fabienne, že nic nerozbili, zvládli to updatovat správně a že budu přemýšlet, co je blbě. Domluvili jsme se, že to všechno dám do kupy a pošlu zpátky. A že to zapneme společně.<br>
 Když jsem vyřešil Alcineo, vrhl jsem se na tester. Měl jsem problém s inkluzí různých hlaviček pro různé procesory. To byl špagety code, jak říká DJ. Poslal jsem na to Antigravity. Vyřešil to za mě a fungovalo to. Doufal jsem, že se mi to nevymstí.<br>
 Odpo už jsem se dokázal s clientem bavit pomocí tester protokolu.<br>
+Zdálo se, že AI-bublina začala praskat. A nebo za to mohly volby, kdy demokraté v Americe vystrnadili skoro všechny republikány. Těžko říct, sešlo se to blbě a na trhu začala hysterie. Vidět za den ztrátu 72 tisíc korun mě zabolelo. Ale horizont byl delší. Nejmíň tři roky kvůli časovému testu. V pondělí měly přijít peníze. Čas DCA se slevou říkal v hlavě optimista. Pokud to nepůjde do kopru celý, říkal v hlavě pesimista.<br>
 Odsunuté naslepo jsme s Ondrou tentokrát navštívili. Dokonce jsme tam byli oba v předstihu na sedmou. Dal jsem si místní kyseláč a Ondra limonádu. Kysláč byl supr, měl kvasnicový nádech, takže působil jako pivo. Čtyřka teda stála 85, ale bylo dobrý, takže jsem si dal 2. Pokecali jsme o životě, svatbách, knížkách, čtečkách, technice a najednou zvali do sálu. Vzal jsem ještě jedno kinopivo a společně jsme zasedli do druhý řady. Všude jinde už bylo plno. Příště asi budeme muset brát lístky víc dní dopředu, pokud je to vůbec možný.<br>
 Film se odehrával v Dublinu. Byl o manažerovi, co se rozhodl založit Soulovou kapelu. Kytarista byl Glen Hansard. Byl jsem nadšenej. Veru by byla nadšenější. Škoda, že nemohla.<br>
 
@@ -112,6 +113,16 @@ Na Veru přišly její dny. Ocenila tak Kroblihu od Evy a Nimesil ode mě. Vět�
 Až do večera jsme koukali na Death Note. Jak dobře ten seriál začíná, tak zle končí. Je to složitý, Misa Misa je blbá kráva a další postavy přichází, jen aby rychle odešly.<br>
 Něco málo jsem aspoň dopsal do deníku. Mít sepsaný každý den v roce by bylo fajn, ale dost jich už sešlo z paměti a vlastně to asi nebylo nutný. Nicméně neměl jsem šílený skluz. Asi jsem málo žil.<br>
 
-### 9.11. 
+### 9.11. Bez slunka
 
+Přišly dny, kdy sluneční svit dopadal na lidskou kůži jen jednou denně. Možná dvakrát, šel-li člověk na oběd ven, ale v obou případech byl navlečen tak, že z kabátu a čepice mu čouhal nos a možná prsty. Na kole spíš jen ten nos a to pri jízdě na z Letňan dolů ještě intenzivně omrzal.<br>
+Koupili jsme Déčko. A chelát železa a B12.<br>
+I tak jsem se cítil tupě. Řešil samovolný restart SW větve v HLP a i jsem objevil čím to je, ale pak jsem zkejsl na nastavování I2C.<br>
+Až někdy ve 4 jsem objevil, že ze scénáře posílám Alternativní funkci 3 místo 4 na PB13 a PB14.<br>
+Víc déčka asi.<br>
+
+### 10.11. Dešťem / Blátem
+
+Venku pršelo. Nehnal jsem se na kole ven, nebo říkal, že asi kolem 8 se vyčasí. Nebo ne vyčasí, ale odejde fronta. <br>
+Stejně jsem jel blátem. Ale vlastně mi to přišlo dobrý. Je třeba se vystavovat diskomfortu. Člověk víc ocení, jak dobře se máme.<br>
 [>> Prosinec](2026_december.md)<br>
