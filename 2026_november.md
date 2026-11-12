@@ -12,7 +12,9 @@
 - [7.11. Týden vědy](#711-týden-vědy)
 - [8.11. Doma](#811-doma)
 - [9.11. Bez slunka](#911-bez-slunka)
-- [10.11. Dešťem / Blátem](#1011-dešťem--blátem)
+- [10.11. Z Deště a bláta mezi smetánku](#1011-z-deště-a-bláta-mezi-smetánku)
+- [11.11. Pořád deštivo](#1111-pořád-deštivo)
+- [12.11.](#1211)
 
 
 ### 1.11. Mimo festival
@@ -111,6 +113,9 @@ Doma jsem od audio knížky přešel na Remarkable a dočetl posledních pár ka
 
 Na Veru přišly její dny. Ocenila tak Kroblihu od Evy a Nimesil ode mě. Většinu dne jsme nedělali vůbec nic. Kávu od snídaně jsem popíjel ještě ve dvě, na gauči pod dekou.<br>
 Až do večera jsme koukali na Death Note. Jak dobře ten seriál začíná, tak zle končí. Je to složitý, Misa Misa je blbá kráva a další postavy přichází, jen aby rychle odešly.<br>
+
+<a href="../images/2026_november/08_1.jpg" target="_blank"><img src="../images/thumbnails/2026_november/08_1.jpg"></a>
+
 Něco málo jsem aspoň dopsal do deníku. Mít sepsaný každý den v roce by bylo fajn, ale dost jich už sešlo z paměti a vlastně to asi nebylo nutný. Nicméně neměl jsem šílený skluz. Asi jsem málo žil.<br>
 
 ### 9.11. Bez slunka
@@ -121,8 +126,22 @@ I tak jsem se cítil tupě. Řešil samovolný restart SW větve v HLP a i jsem 
 Až někdy ve 4 jsem objevil, že ze scénáře posílám Alternativní funkci 3 místo 4 na PB13 a PB14.<br>
 Víc déčka asi.<br>
 
-### 10.11. Dešťem / Blátem
+### 10.11. Z Deště a bláta mezi smetánku
 
 Venku pršelo. Nehnal jsem se na kole ven, nebo říkal, že asi kolem 8 se vyčasí. Nebo ne vyčasí, ale odejde fronta. <br>
 Stejně jsem jel blátem. Ale vlastně mi to přišlo dobrý. Je třeba se vystavovat diskomfortu. Člověk víc ocení, jak dobře se máme.<br>
+Dobře až tak moc, že jsme se na večer domluvili s Fikrovými, spolu vyrazíme na svato martinské menu do Spojky. Pro Verunku tam měli hlívu, takže studie by netrpěla. Peněženka jo, ale vlastně jsme si řekli, že jim řekneme o zásnubách a to je událost.<br>
+Po práci jsem se otočil doma. Verunku už jsem nestihl. Vyrazila do Karlína v předstihu, aby otestovala sauny ve Formfactory. Vyzvedl jsem jí tam v lehce před půl osmou<br>
+
+### 11.11. Pořád deštivo
+
+Za okny pršelo. Leželi jsme v posteli déle než obvykle. Šli jsme spát až někdy kolem jedné. Abych offsetoval únavu, dal jsem si do ranního čaje kreatin a během dopoledne měl pocit, že to fungovalo. Cítil jsem se ready. Možná až káva to trochu zbořila.<br>
+Google Jirkovi poslal email ohledně toho, že v Tanzánii se zvedají daně. Měli jsme z toho takové zvláštní poobědové okénko, z toho jestli Tanzánie je, nebo není demokratickou zemí. Výsledek je, že spíš není. Je tam takový skrytý diktátor.<br>
+Na frijoles con huevos ve věži jsme taky šli deštěm. Bylo toho hodně. Nějak jsem ty fizule do sebe stěží nacpal.<br>
+I na cestě domů pršelo. Nechal jsem kolo kolem a nasednul do 136. která se pomalu posunovala přeplněnou Prahou. <br>
+Večer jsem vařil čínu. Tak minimalisticky, že jsem prostě všechno jen nasypal do hrnce a zadusil. Pak jsme si s Verunkou promítli první díl druhé řady Dark Matter. Pokračování příběhu, které už nevycházelo z knížky Blakea Crouche, ale byl producent a asi i psal scénář. Jenže ten díl toho moc nepřinesl. Spíš tak nějak rekapituloval, jak na tom hrdinové jsou.<br>
+
+### 12.11. 
+
+Tma, deprese a čočka co mi nechutnala. Ráno bylo opakem těch, kdy člověk cítí chuť něco dělat.<br>
 [>> Prosinec](2026_december.md)<br>
