@@ -14,7 +14,7 @@
 - [9.11. Bez slunka](#911-bez-slunka)
 - [10.11. Z Deště a bláta mezi smetánku](#1011-z-deště-a-bláta-mezi-smetánku)
 - [11.11. Pořád deštivo](#1111-pořád-deštivo)
-- [12.11.](#1211)
+- [12.11. Tma, korporátní dokumenty, peníze, AI a nedostatek času](#1211-tma-korporátní-dokumenty-peníze-ai-a-nedostatek-času)
 
 
 ### 1.11. Mimo festival
@@ -141,7 +141,24 @@ Na frijoles con huevos ve věži jsme taky šli deštěm. Bylo toho hodně. Něj
 I na cestě domů pršelo. Nechal jsem kolo kolem a nasednul do 136. která se pomalu posunovala přeplněnou Prahou. <br>
 Večer jsem vařil čínu. Tak minimalisticky, že jsem prostě všechno jen nasypal do hrnce a zadusil. Pak jsme si s Verunkou promítli první díl druhé řady Dark Matter. Pokračování příběhu, které už nevycházelo z knížky Blakea Crouche, ale byl producent a asi i psal scénář. Jenže ten díl toho moc nepřinesl. Spíš tak nějak rekapituloval, jak na tom hrdinové jsou.<br>
 
-### 12.11. 
+### 12.11. Tma, korporátní dokumenty, peníze, AI a nedostatek času
 
 Tma, deprese a čočka co mi nechutnala. Ráno bylo opakem těch, kdy člověk cítí chuť něco dělat.<br>
+Nakonec jsem to nějak překonal. Vyrazil na autobus a si jel do práce. Než jsem došel do provozovny, i pár modrých děr na nebi mezi mraky jsem viděl.<br>
+Počasí bylo rozhodně optimističtější než já po callu s Kennethem. Představoval jsem si TQM jako Hurvínek válku. Dost mi to rozstřelil. Bude potřeba hodně dokumentů. Hodně. A takových který budou odpovídat těch jejich requirements.<br>
+Opět deprese.<br>
+Ale vymyslel jsem jak na to:<br>
+
+> Vyrobím AI agenta, kterej bude mít zadání být nekompromisní TUV auditor. Dostane TQM requirements T01 a T02 a dáme mu ke kontrole náš nástřel VOD, jako Kenovi, ať to projde a upozorní na nesoulady s TQM požadavky.
+
+Zkusil jsem to nanečisto v našem firemním Gemini a hned vypíchl první věci, kterých si Ken taky všiml.<br>
+No a pojedeme iterativně, dokud neřekne, tohle by šlo.<br>
+Zpátky jsem jel na kole, vyjížděl jsem s společně s Vláďou, ale ten jel do kina na Anděl. Já jel do kopce proti větru. Byla to docela dávačka. Ale mělo to pozitivní mozkový dopad. Trochu jsem si od toho hroznýho dne oddychl.<br>
+Když jsem se vrátil domů, Verunka mi pověděla, že sice má obavu, že z AI bude svět do hajzlu, ale zároveň řekla, že díky AI má z práce radost. Následuje odstaveček toho co mi pověděla:<br>
+
+> Měla jsem Adamovi popovídat, jaký jsem jel měla den, ale místo toho jsem dostala nakázáno, abych to řekla počítači. Tak povídám. Čtvrťáci byli super a ráno jsem měla španělštinu se šesťáky, kam se přišla na hospitaci podívat ředitelka. A hodina nakonec byla moc fajn. Byli hluční. Byli hodně hluční. A říkala jsem si, co si o mě bude myslet. A po hodině odešla v polovině, ani nešla na druhou polovinu. 90 minutovky, byla jenom prvních 45 minut. A po přestávce odcházela s tím, že jsem strašně milá, že si jí moc líbí, jak dovedu, že si je umím zpracovat, i když jsou hluční a že nic lepšího si nedovede před stavit, že se s nima dá dělat, protože je to skupina deseti kluků, kterým je 13.
+
+Měl jsem radost, že Veru se má líp.<br>
+Do deseti večer jsem dělal pořádek ve financích. Zapsal jsem polsko a skoro celý měsíc před tím, který chyběl. Peníze jsou divná věc.<br>
+Taky jsem koukal jak peníze tečou dokola mezi NVidií,  OpenAI, Googlem, Oraclem, Amazonem a Microsoftem. Pár dní zpátky to trochu prasklo, ale zas se to drápalo nahoru. Jestli to ale praskne pořádně, Americká ekonomika na který stálo skoro celý mý portfolio zapláče.<br>
 [>> Prosinec](2026_december.md)<br>
