@@ -18,6 +18,9 @@
 - [13.11. Auditor Oto](#1311-auditor-oto)
 - [14.11. Slučák](#1411-slučák)
 - [15.11. Dráhy chtěly moc](#1511-dráhy-chtěly-moc)
+- [16.11. TPU ne](#1611-tpu-ne)
+- [17.11. Svoboda zůstat doma](#1711-svoboda-zůstat-doma)
+- [18.11. Štěstí přeje připraveným](#1811-štěstí-přeje-připraveným)
 
 
 ### 1.11. Mimo festival
@@ -141,7 +144,10 @@ Po práci jsem se otočil doma. Verunku už jsem nestihl. Vyrazila do Karlína v
 Za okny pršelo. Leželi jsme v posteli déle než obvykle. Šli jsme spát až někdy kolem jedné. Abych offsetoval únavu, dal jsem si do ranního čaje kreatin a během dopoledne měl pocit, že to fungovalo. Cítil jsem se ready. Možná až káva to trochu zbořila.<br>
 Google Jirkovi poslal email ohledně toho, že v Tanzánii se zvedají daně. Měli jsme z toho takové zvláštní poobědové okénko, z toho jestli Tanzánie je, nebo není demokratickou zemí. Výsledek je, že spíš není. Je tam takový skrytý diktátor.<br>
 Na frijoles con huevos ve věži jsme taky šli deštěm. Bylo toho hodně. Nějak jsem ty fizule do sebe stěží nacpal.<br>
-I na cestě domů pršelo. Nechal jsem kolo kolem a nasednul do 136. která se pomalu posunovala přeplněnou Prahou. <br>
+I na cestě domů pršelo. Nechal jsem kolo kolem a nasednul do 136. která se pomalu posunovala přeplněnou Prahou.  Stavil jsem se v OBI pro krabice do mrazáku. Představoval jsem si levný přepravky, ale levná nebyla žádná a nakonec jsem na zkoušku vzal průhledný s certifikací do zimy.<br>
+
+<a href="../images/2026_november/11_1.jpg" target="_blank"><img src="../images/thumbnails/2026_november/11_1.jpg"></a>
+
 Večer jsem vařil čínu. Tak minimalisticky, že jsem prostě všechno jen nasypal do hrnce a zadusil. Pak jsme si s Verunkou promítli první díl druhé řady Dark Matter. Pokračování příběhu, které už nevycházelo z knížky Blakea Crouche, ale byl producent a asi i psal scénář. Jenže ten díl toho moc nepřinesl. Spíš tak nějak rekapituloval, jak na tom hrdinové jsou.<br>
 
 ### 12.11. Tma, korporátní dokumenty, peníze, AI a nedostatek času
@@ -167,16 +173,29 @@ Taky jsem koukal jak peníze tečou dokola mezi NVidií,  OpenAI, Googlem, Oracl
 
 ### 13.11. Auditor Oto
 
-Bez slunka absolutní nechuť vstát. Když Veru odešla, ještě jsem si lehl a vyjel ven až v půl desátý.<br>
+Bez slunka absolutní nechuť vstát. Když Veru odešla, ještě jsem si lehl a vyjel ven až v půl desátý. Až na schodech mě nadchl podzim. A ještě, že jsem to zpoždění nabral. Slunko by bylo ještě za baráky, kdybych šel včas.<br>
+
+<a href="../images/2026_november/13_1.jpg" target="_blank"><img src="../images/thumbnails/2026_november/13_1.jpg"></a>
+
+Navíc, Áďa měla přijet až odpoledne na TQM session. Ludvík si představoval, že to budeme mít hotový 15. tedy v neděli. Což byla úplná píčovina. Ale dali jsme tomu dost. Zavedli jsme v chatu GPT agenta, který měl TQM requirement a nazvali jsme ho zodpovědný Auditor Oto. <br>
 
 ### 14.11. Slučák
 
 I v sobotu jsem se válel v posteli déle než bylo třeba. Na vlak do Jižních Čech jsem tak musel trochu pospíchat. Ale dal jsme myčku, vzal si koláč a dokonce se stihl stavit v pekařství pro croissant se sýrem.<br>
 Byl krásnej mrazivej podzim. Ten kdy svit sluníčka člověka oslňuje a spadaný listí voní. Vézt tátovi baterii byl teda ojeb, vážila asi 7 kilo. Ale jízda vlakem na mě má terapeutickej dopad. Za ty prachy to stojí. I když cyklisté jezdí v dětském oddíle. ANC, slunce a nasvícené do oranžova zbarvené stromy ubíhající za okny.. ve srovnání s dnem zpátky noc a den.<br>
+
+<a href="../images/2026_november/14_1.jpg" target="_blank"><img src="../images/thumbnails/2026_november/14_1.jpg"></a>
+
 Ve Veselí jsem si v Regio Pantheru všiml, že si přisedl Jára Šimánek. Povídal o práci v Korporátu a.. nezněl, že je ze svýho života úplně nadšenej. I když, možná za to mohl ten narativ. Já jsem dobroser. TQM mi teče do bot a přesto si myslím, jak mám skvělej život.<br>
 V Hradci jsme se prozatím rozloučili, já si hodil batoh s baterií na záda, tašku nad batoh a vyrazil do Lásenice. Přes Políkno. Je to stoupák ne že ne. Ale fakt bylo pěkně.<br>
+
+<a href="../images/2026_november/14_2.jpg" target="_blank"><img src="../images/thumbnails/2026_november/14_2.jpg"></a>
+
 Táta měl z baterie radost.<br>
 Sraz jsme měli v šest. Po pátý jsem vyjel a vzal to po hlavní. Už byla tma, ale moje bunda i odrazky musely být vidět z kilometru daleko. Všichni mě objížděli obřím obloukem. K pivovaru jsem dojel asi za 22 minut a na zezervaci *Slučák* jsem dorazil první.<br>
+
+<a href="../images/2026_november/14_3.jpg" target="_blank"><img src="../images/thumbnails/2026_november/14_3.jpg"></a>
+
 Ruda druhej. Byl to stejnej řízek, jak si ho pamatuju. Překvapilo mě, že nepije. Dal si čaj, prohlásil, že jsem lisina a sedl si ke mně. Joel a Adéla přišli v zápěstí. A pak Vašová. Vypadlo z ní, že klofla chlapa, kterýmu je 69. A že má zrovna taky slučák o stůl vedle. Byla tam skupina důchodců. Zvláštní, ale když se maj rádi..<br>
 Rudovi to nedalo a optal se jí: *Furt ti mrdá?* Blbeček.<br>
 Dál přišly Danča s Irčou, Klára a pak Vítek s Járou. Petr nepřišel, škoda, měl to asi nejblíž. Jindrova přítomnost mě potěšila. A Karel s Mírou dorazili po chvilce. Karel byl přesně takovej mafiozo, jak jsem si představoval, že dospěje. Pája prý běhal někde v Británii. Verča si sedla na okraj a povídala si s Klárkou, ale vlastně jsme spolu neprohodili slovo.<br>
@@ -192,6 +211,37 @@ Sklenka vody, kus salámu a do postele. Bylo po druhý a já byl hotovej. Ale na
 Vzbudil jsme se někdy v devět. Moc brzy na to, kdy jsem šel spát. Ještě jsem tomu dal hodinu, ale už to nebylo ono.<br>
 U snídaně jsme vedli řeči o AI. Vést řeči o AI je teď věc. AI je teď věc. Svět se mění a AI je ve středu toho všeho. Od toho jsme se dostali k tomu, že lidstvo hloupne a od toho k Absurdistánu. Promítli jsme si ho. Je to film filmů.<br>
 Po filmu jsme si dali chleba s vysočinou a šli hrabat listí. Bylo pěkně. Zima, ale pěkně. Rozhodl jsem se, že pojedu z Veselí. Částečně kvůli počasí, ale spíš proto, že dráhy si za lístek z Hradce s kolem řekly asi 270 korun. Zloději. Z Veselí to bylo 227, Jemčina je pěkná, táta měl novou baterii a řekl, že mě doprovodí.<br>
+
+<a href="../images/2026_november/15_1.jpg" target="_blank"><img src="../images/thumbnails/2026_november/15_1.jpg"></a>
+
 A tak jsme se oblékli, sedli na stroje a vyrazili do Vydří. Prý jsem ho proháněl. Schwalbe G-ONE RS PRO jsou raketa. Rozloučili jsme se kousek od Holné. Dokonce jsme cestou potkali nějakou paní na elektrokole a z táty vypadlo, že to je jeho výletová známá.<br>
 V tunelu na nádraží ve Veselí kolem mě projela holčina z ČVUTu. Pozdravila mě, jako bychom se viděli včera. Přitom já hodně váhal, jak se jmenuje. A jaktože není v New Yorku. Myslel jsem, že se tam přestěhovala s manželem.<br>
+
+<a href="../images/2026_november/15_2.jpg" target="_blank"><img src="../images/thumbnails/2026_november/15_2.jpg"></a>
+
+Parta erasmáků<br>
+první díl nových scrubs ve vlaku<br>
+do tesca pro věci na snídani<br>
+
+### 16.11. TPU ne
+
+Opět TQM<br>
+Cestou do kopce jsem volal Veru, jestli budou k večeři pirohy. Byla ještě v práci a čekala až vypne myčka. Prý slíbila, že jí otevře a četla si knížku. Na pirohy nebyla žádná omáčka. Rozhodl jsem se dojet do obchodu a v Orionu omrknout kostkovač s víčkem, aby mrazák nenamrzal. Až když jsem si ho prohlížel, zjistil jsem, že není ze silikonu, ale z TPU. Nechci mikroplasty v jídle. Ale ze silikonu nebyl k sehnání. Byl jsem z toho otrávenej.<br>
+
+<a href="../images/2026_november/16_1.jpg" target="_blank"><img src="../images/thumbnails/2026_november/16_1.jpg"></a>
+
+A pesto v Tescu bylo drahý. Z toho jsem byl ještě otrávenější. Nechal jsem nákupy nákupama a šel dom.<br>
+
+### 17.11. Svoboda zůstat doma
+
+Protože venku bylo ošklivo a v laptopu nový Scrubs. A starý Scrubs abych Veru ukázal jak supr seriál to je.<br>
+Ten novej byl skvělej. Stejnej humor v tomhle tisíciletí. Vlastně ten starej z asi z roku 2001, takže taky tohohle tisíciletí, ale za to čtvrt století se toho hodně změnilo.<br>
+
+### 18.11. Štěstí přeje připraveným
+
+Večer jsem připravil všechno na ráno. Čaje, snídani, jógamatky, jóga video a dobře že jsem to udělal. Váleli jsme se ještě tři čtvrtě hodiny po tom co zazněl budík. Těžko říct co za to mohlo. Možná fakt, že těsně před spaním jsem se rozhodl, že s Áďou budeme vyvíjet ERP abychom prošli TQM.<br>
+Call s Manuelem a Olivierem<br>
+Olivier jen čuměl<br>
+Ještě trochu Scrubs<br>
+nechtělo se mi jet na kole<br>
 [>> Prosinec](2026_december.md)<br>
